@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elden Ring — Conquistas · Checkpoint Digital</title>
+<link rel="stylesheet" href="../shared.css">
+<style>
+  /* ════════════════════════════════
+     CONFIGURAÇÃO DO JOGO
+     Edite apenas esta seção para
+     adaptar a outro jogo.
+  ════════════════════════════════ */
+  :root {
+    --game-id:    "eldenring"; /* ID na tabela games do Supabase */
+  }
+
+  /* ── HERO ── */
+  .ach-hero {
+    background: linear-gradient(135deg, #1e1b2e 0%, #2d1b4e 100%);
+    padding: 36px 0 32px;
+    border-bottom: 1px solid #3b1f6e;
+  }
+  .ach-hero-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+  .ach-hero-eyebrow {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: #ffffff18; color: #c4b5fd;
+    font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;
+    padding: 4px 12px; border-radius: 20px; margin-bottom: 14px;
+  }
+  .ach-hero-title { font-size: 28px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+  .ach-hero-meta  { font-size: 13px; color: #a78bfa; display: flex; gap: 12px; flex-wrap: wrap; }
+  .ach-hero-meta span { display: flex; align-items: center; gap: 5px; }
+
+  /* ── TABS DE PLATAFORMA ── */
+  .ach-plat-tabs {
+    max-width: 1100px; margin: 0 auto;
+    padding: 20px 24px 0;
+    display: flex; gap: 8px; border-bottom: 1px solid var(--border);
+  }
+  .ach-tab {
+    padding: 10px 22px; border-radius: 8px 8px 0 0;
+    font-size: 13px; font-weight: 700; cursor: pointer;
+    border: 1px solid var(--border); border-bottom: none;
+    background: var(--bg3); color: var(--text2);
+    transition: all 0.15s; margin-bottom: -1px;
+  }
+  .ach-tab:hover { background: var(--bg); color: var(--text); }
+  .ach-tab.active-xbox  { background: var(--bg); color: var(--xbox);       border-bottom: 1px solid var(--bg); }
+  .ach-tab.active-ps    { background: var(--bg); color: var(--ps);         border-bottom: 1px solid var(--bg); }
+  .ach-tab.active-steam { background: var(--bg); color: var(--steam-dark); border-bottom: 1px solid var(--bg); }
+
+  /* ── PAINÉIS ── */
+  .ach-platform-panel { display: none; }
+  .ach-platform-panel.active { display: block; }
+
+  /* ── SUMMARY ── */
+  .ach-summary {
+    max-width: 1100px; margin: 0 auto; padding: 20px 24px;
+    display: flex; gap: 12px; flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+  }
+  .ach-stat {
+    background: var(--bg3); border-radius: var(--radius-lg);
+    padding: 12px 20px; flex: 1; min-width: 120px;
+    display: flex; flex-direction: column; gap: 3px;
+  }
+  .ach-stat-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: var(--text3); }
+  .ach-stat-value { font-size: 22px; font-weight: 700; color: var(--text); }
+  .ach-stat-value.xbox-color { color: var(--xbox); }
+  .ach-stat-value.ps-color   { color: var(--ps); }
+
+  /* ── FILTROS ── */
+  .ach-filter-row {
+    max-width: 1100px; margin: 0 auto; padding: 14px 24px;
+    display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+    border-bottom: 1px solid var(--border);
+  }
+  .ach-filter-label { font-size: 12px; font-weight: 600; color: var(--text3); margin-right: 4px; }
+  .ach-filter-btn {
+    border: 1px solid var(--border); background: var(--bg);
+    padding: 4px 12px; border-radius: 20px;
+    font-size: 12px; font-weight: 600; cursor: pointer; color: var(--text2);
+    transition: all 0.15s;
+  }
+  .ach-filter-btn:hover { border-color: var(--text3); color: var(--text); }
+  .ach-filter-btn.active { background: var(--text); color: #fff; border-color: var(--text); }
+
+  /* ── LISTA ── */
+  .ach-list {
+    max-width: 1100px; margin: 0 auto;
+    padding: 20px 24px 48px;
+    display: flex; flex-direction: column;
+  }
+  .ach-item {
+    display: grid; grid-template-columns: 56px 1fr auto;
+    gap: 16px; align-items: start;
+    padding: 18px 0; border-bottom: 1px solid var(--border);
+    cursor: pointer; transition: background 0.1s;
+  }
+  .ach-item:hover { background: var(--bg2); margin: 0 -24px; padding: 18px 24px; }
+  .ach-item:last-child { border-bottom: none; }
+
+  /* ── ÍCONE ── */
+  .ach-icon {
+    width: 56px; height: 56px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0; border: 2px solid var(--border); overflow: hidden;
+  }
+  .ach-icon.gold     { background: #fef9c3; border-color: #fde047; box-shadow: 0 0 0 1px #fde04740; }
+  .ach-icon.silver   { background: #f1f5f9; border-color: #cbd5e1; box-shadow: 0 0 0 1px #cbd5e140; }
+  .ach-icon.bronze   { background: #fef3e2; border-color: #fdba74; box-shadow: 0 0 0 1px #fdba7440; }
+  .ach-icon.platinum { background: linear-gradient(135deg,#e0e7ff,#ede9fe); border-color: #a5b4fc; box-shadow: 0 0 8px #a5b4fc60; }
+  .ach-icon-img { width: 100%; height: 100%; object-fit: contain; display: block; padding: 4px; }
+  .ach-icon-svg { display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; }
+  .ach-icon-svg svg { width: 28px; height: 28px; }
+  .ach-icon-img + .ach-icon-svg { display: none; }
+
+  /* ── INFO ── */
+  .ach-name { font-size: 15px; font-weight: 700; color: var(--text); margin-bottom: 3px; }
+  .ach-desc { font-size: 13px; color: var(--text2); margin-bottom: 6px; line-height: 1.5; }
+  .ach-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .ach-tag { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 7px; border-radius: 4px; }
+  .tag-missable   { background: #fee2e2; color: #7f1d1d; }
+  .tag-unmissable { background: #d1fae5; color: #064e3b; }
+  .tag-secret     { background: #f3e8ff; color: #4c1d95; }
+  .tag-story      { background: #e0f2fe; color: #0c4a6e; }
+
+  /* ── PONTOS / TROFÉU ── */
+  .ach-pts { text-align: right; flex-shrink: 0; }
+  .ach-pts-value { font-size: 17px; font-weight: 700; }
+  .ach-pts-value.xbox-pts { color: var(--xbox); }
+  .ach-pts-label { font-size: 10px; color: var(--text3); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+  .trophy-plat   { background: linear-gradient(135deg,#c7d2fe,#ddd6fe); color: #3730a3; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+  .trophy-gold   { background: #fef9c3; color: #78350f; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+  .trophy-silver { background: #f1f5f9; color: #334155; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+  .trophy-bronze { background: #fef3e2; color: #92400e; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+
+  /* ── GUIA DRAWER ── */
+  .ach-guide-drawer {
+    display: none; background: var(--bg2);
+    border: 1px solid var(--border); border-radius: var(--radius-lg);
+    margin: 0 0 2px; padding: 20px 24px;
+  }
+  .ach-guide-drawer.open { display: block; }
+  .ach-guide-title { font-size: 13px; font-weight: 700; color: var(--text); margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .ach-guide-title::before { content: ''; display: inline-block; width: 3px; height: 16px; border-radius: 2px; background: #7c3aed; }
+  .ach-guide-body { font-size: 13px; color: var(--text2); line-height: 1.75; }
+  .ach-guide-step { display: flex; gap: 10px; margin-bottom: 10px; }
+  .ach-step-num {
+    width: 22px; height: 22px; border-radius: 50%;
+    background: #7c3aed; color: #fff; font-size: 11px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 1px;
+  }
+  .ach-step-text { font-size: 13px; color: var(--text2); line-height: 1.7; }
+  .ach-tip {
+    background: #fef9c3; border-left: 3px solid #fbbf24;
+    border-radius: 0 6px 6px 0; padding: 10px 14px; margin-top: 10px;
+    font-size: 12px; color: #78350f; line-height: 1.6;
+  }
+  .ach-warning {
+    background: #fee2e2; border-left: 3px solid #f87171;
+    border-radius: 0 6px 6px 0; padding: 10px 14px; margin-top: 10px;
+    font-size: 12px; color: #7f1d1d; line-height: 1.6;
+  }
+
+  /* ── LOADING ── */
+  .games-loading { text-align: center; padding: 80px 24px; color: var(--text3); font-size: 14px; }
+  .games-loading .spinner {
+    width: 36px; height: 36px; border-radius: 50%;
+    border: 3px solid var(--border); border-top-color: #7c3aed;
+    animation: spin 0.7s linear infinite; margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── BACK BUTTON ── */
+  .back-bar {
+    background: var(--bg); border-bottom: 1px solid var(--border);
+    padding: 10px 24px;
+  }
+  .back-bar-inner { max-width: 1100px; margin: 0 auto; }
+  .back-btn {
+    background: none; border: 1px solid var(--border);
+    padding: 6px 14px; border-radius: 6px;
+    font-size: 13px; font-weight: 600; color: var(--text2);
+    cursor: pointer; text-decoration: none; display: inline-block;
+  }
+  .back-btn:hover { border-color: var(--text3); color: var(--text); }
+</style>
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<!-- Voltar -->
+<div class="back-bar">
+  <div class="back-bar-inner">
+    <a class="back-btn" href="../conquistas.html">← Voltar à lista de jogos</a>
+  </div>
+</div>
+
+<!-- Hero — preenchido dinamicamente pelo Supabase -->
+<div class="ach-hero">
+  <div class="ach-hero-inner">
+    <div class="ach-hero-eyebrow">🏆 Guia de Conquistas</div>
+    <h1 class="ach-hero-title" id="game-title">Carregando…</h1>
+    <div class="ach-hero-meta" id="game-meta"></div>
+  </div>
+</div>
+
+<!-- Tabs de plataforma -->
+<div class="ach-plat-tabs">
+  <button class="ach-tab active-xbox" id="ach-tab-xbox" onclick="switchPlatform('xbox')">
+    <span>🟢</span> <span id="label-xbox">Xbox</span>
+  </button>
+  <button class="ach-tab" id="ach-tab-ps" onclick="switchPlatform('ps')">
+    <span>🔵</span> <span id="label-ps">PlayStation</span>
+  </button>
+  <button class="ach-tab" id="ach-tab-steam" onclick="switchPlatform('steam')">
+    <span>🖥️</span> <span id="label-steam">Steam</span>
+  </button>
+</div>
+
+<!-- Painéis -->
+<div class="ach-platform-panel active" id="panel-xbox">
+  <div class="games-loading"><div class="spinner"></div>Carregando conquistas…</div>
+</div>
+<div class="ach-platform-panel" id="panel-ps">
+  <div class="games-loading"><div class="spinner"></div>Carregando conquistas…</div>
+</div>
+<div class="ach-platform-panel" id="panel-steam">
+  <div class="games-loading"><div class="spinner"></div>Carregando conquistas…</div>
+</div>
+
+<footer id="site-footer"></footer>
+<script src="../shared.js"></script>
+<script>
+  // ════════════════════════════════
+  // CONFIGURAÇÃO DO JOGO
+  // Para criar a página de outro jogo,
+  // altere apenas este GAME_ID
+  // ════════════════════════════════
+  const GAME_ID = 'eldenring';
+
+  renderHeader('ach');
+  renderFooter();
+
+  // ── Ícones SVG por categoria ──
+  const ICON_SVG = {
+    'História':    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>`,
+    'Chefes':      `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 10c-.83 0-1.5-.67-1.5-1.5v-5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v5c0 .83-.67 1.5-1.5 1.5z"/><path d="M20.5 10H19V8.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/><path d="M9.5 14.5c.83 0 1.5.67 1.5 1.5v5c0 .83-.67 1.5-1.5 1.5S8 21.83 8 21v-5c0-.83.67-1.5 1.5-1.5z"/><path d="M3.5 14.5H5V16c0 .83-.67 1.5-1.5 1.5S2 16.83 2 16s.67-1.5 1.5-1.5z"/><path d="M20 20l-8-8"/><path d="M4 4l8 8"/></svg>`,
+    'Exploração':  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>`,
+    'Grind':       `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>`,
+    'NPC / Quest': `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>`,
+    'Missável':    `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>`,
+  };
+  const RARITY_COLOR = { platinum:'#a78bfa', gold:'#ca8a04', silver:'#64748b', bronze:'#b45309' };
+
+  // ════════════════════════════════════════════════════════════════
+  // DADOS HARDCODED — todas as conquistas do Elden Ring
+  // Edite aqui para corrigir informações sem precisar do Supabase
+  // ════════════════════════════════════════════════════════════════
+  const GAME_DATA = {
+    id: 'eldenring',
+    title: 'Elden Ring',
+    developer: 'FromSoftware',
+    release_year: 2022,
+    difficulty: 'Alta',
+    hours_estimate: '60–150h',
+    missable_count: 18,
+    xbox_label: '1000G',
+    ps_label: 'Platina',
+    steam_label: 'Achievements',
+  };
+
+  const ACHIEVEMENTS = [
+    // ── FINAIS (Missáveis) ──
+    { id:'xbox-1',  platform:'xbox', sort_order:1,  name:'Elden Lord',                        description:'Conclua o jogo escolhendo restaurar o Elden Ring como Elden Lord.',                      category:'História',   rarity:'gold',   missable:true,  secret:false, points:'100G', trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/elden_lord.png' },
+    { id:'ps-1',    platform:'ps',   sort_order:1,  name:'Elden Lord',                        description:'Conclua o jogo escolhendo restaurar o Elden Ring como Elden Lord.',                      category:'História',   rarity:'gold',   missable:true,  secret:false, points:null,    trophy_type:'Ouro',   icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/elden_lord.png' },
+    { id:'xbox-2',  platform:'xbox', sort_order:2,  name:'Age of the Stars',                  description:'Complete a quest de Ranni e ascenda como consort da Lua Sombria.',                       category:'Missável',   rarity:'gold',   missable:true,  secret:false, points:'100G', trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/age_of_stars.png' },
+    { id:'ps-2',    platform:'ps',   sort_order:2,  name:'Age of the Stars',                  description:'Complete a quest de Ranni e ascenda como consort da Lua Sombria.',                       category:'Missável',   rarity:'gold',   missable:true,  secret:false, points:null,    trophy_type:'Ouro',   icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/age_of_stars.png' },
+    { id:'xbox-3',  platform:'xbox', sort_order:3,  name:'Lord of Frenzied Flame',            description:'Torne-se o portador da Chama Louca e destrua o Elden Ring.',                            category:'Missável',   rarity:'bronze', missable:true,  secret:true,  points:'100G', trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/lord_of_frenzied_flame.png' },
+    { id:'ps-3',    platform:'ps',   sort_order:3,  name:'Lord of Frenzied Flame',            description:'Torne-se o portador da Chama Louca e destrua o Elden Ring.',                            category:'Missável',   rarity:'silver', missable:true,  secret:true,  points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/lord_of_frenzied_flame.png' },
+    { id:'xbox-4',  platform:'xbox', sort_order:4,  name:'Blessing of Despair',               description:'Complete o final de Fia, a Deathbed Companion, e traga a Idade da Penumbra.',           category:'Missável',   rarity:'gold',   missable:true,  secret:false, points:'100G', trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/d/d8/ER_Achievement-Trophy_Blessing_of_Despair.png/revision/latest/scale-to-width-down/60' },
+    { id:'ps-4',    platform:'ps',   sort_order:4,  name:'Blessing of Despair',               description:'Complete o final de Fia e traga a Idade da Penumbra.',                                   category:'Missável',   rarity:'gold',   missable:true,  secret:false, points:null,    trophy_type:'Ouro',   icon_url:'https://static.wikia.nocookie.net/eldenring/images/d/d8/ER_Achievement-Trophy_Blessing_of_Despair.png/revision/latest/scale-to-width-down/60' },
+    { id:'xbox-5',  platform:'xbox', sort_order:5,  name:'Age of Order',                      description:'Complete a quest de Goldmask e traga a Idade da Ordem Perfeita.',                        category:'Missável',   rarity:'gold',   missable:true,  secret:false, points:'100G', trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/3/31/ER_Achievement-Trophy_Age_of_Order.png/revision/latest/scale-to-width-down/60' },
+    { id:'ps-5',    platform:'ps',   sort_order:5,  name:'Age of Order',                      description:'Complete a quest de Goldmask e traga a Idade da Ordem Perfeita.',                        category:'Missável',   rarity:'gold',   missable:true,  secret:false, points:null,    trophy_type:'Ouro',   icon_url:'https://static.wikia.nocookie.net/eldenring/images/3/31/ER_Achievement-Trophy_Age_of_Order.png/revision/latest/scale-to-width-down/60' },
+    // ── CHEFES PRINCIPAIS ──
+    { id:'xbox-6',  platform:'xbox', sort_order:6,  name:'Godrick the Grafted',               description:'Derrote Godrick the Grafted no Castelo Stormveil.',                                      category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_godrick.png' },
+    { id:'ps-6',    platform:'ps',   sort_order:6,  name:'Godrick the Grafted',               description:'Derrote Godrick the Grafted no Castelo Stormveil.',                                      category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_godrick.png' },
+    { id:'xbox-7',  platform:'xbox', sort_order:7,  name:'Rennala, Queen of the Full Moon',   description:'Derrote Rennala na Academia de Raya Lucaria.',                                           category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/rennala,_queen_of_the_full_moon.png' },
+    { id:'ps-7',    platform:'ps',   sort_order:7,  name:'Rennala, Queen of the Full Moon',   description:'Derrote Rennala na Academia de Raya Lucaria.',                                           category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/rennala,_queen_of_the_full_moon.png' },
+    { id:'xbox-8',  platform:'xbox', sort_order:8,  name:'Starscourge Radahn',                description:'Derrote Starscourge Radahn no Festival de Radahn em Caelid.',                            category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_radahn.png' },
+    { id:'ps-8',    platform:'ps',   sort_order:8,  name:'Starscourge Radahn',                description:'Derrote Starscourge Radahn no Festival de Radahn.',                                      category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_radahn.png' },
+    { id:'xbox-9',  platform:'xbox', sort_order:9,  name:'Rykard, Lord of Blasphemy',         description:'Derrote Rykard no Volcano Manor.',                                                       category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_rykard.png' },
+    { id:'ps-9',    platform:'ps',   sort_order:9,  name:'Rykard, Lord of Blasphemy',         description:'Derrote Rykard no Volcano Manor.',                                                       category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_rykard.png' },
+    { id:'xbox-10', platform:'xbox', sort_order:10, name:'Morgott, the Omen King',            description:'Derrote Morgott em Leyndell, Royal Capital.',                                            category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_morgott.png' },
+    { id:'ps-10',   platform:'ps',   sort_order:10, name:'Morgott, the Omen King',            description:'Derrote Morgott em Leyndell, Royal Capital.',                                            category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_morgott.png' },
+    { id:'xbox-11', platform:'xbox', sort_order:11, name:'Fire Giant',                        description:'Derrote o Fire Giant nos Mountaintops of the Giants.',                                   category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/fire_giant_trophy.png' },
+    { id:'ps-11',   platform:'ps',   sort_order:11, name:'Fire Giant',                        description:'Derrote o Fire Giant nos Mountaintops of the Giants.',                                   category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/fire_giant_trophy.png' },
+    { id:'xbox-12', platform:'xbox', sort_order:12, name:'Maliketh, the Black Blade',         description:'Derrote Maliketh no Crumbling Farum Azula.',                                             category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/maliketh_the_black_blade.png' },
+    { id:'ps-12',   platform:'ps',   sort_order:12, name:'Maliketh, the Black Blade',         description:'Derrote Maliketh no Crumbling Farum Azula.',                                             category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/maliketh_the_black_blade.png' },
+    { id:'xbox-13', platform:'xbox', sort_order:13, name:'Godfrey, First Elden Lord',         description:'Derrote Godfrey / Hoarah Loux em Leyndell, Ashen Capital.',                             category:'Chefes',     rarity:'silver', missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/godfrey_the_first_lord.png' },
+    { id:'ps-13',   platform:'ps',   sort_order:13, name:'Godfrey, First Elden Lord',         description:'Derrote Godfrey / Hoarah Loux em Leyndell, Ashen Capital.',                             category:'Chefes',     rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/godfrey_the_first_lord.png' },
+    { id:'xbox-14', platform:'xbox', sort_order:14, name:'Malenia, Blade of Miquella',        description:'Derrote Malenia, Blade of Miquella — o chefe mais difícil do jogo.',                   category:'Chefes',     rarity:'gold',   missable:true,  secret:true,  points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_malenia.png' },
+    { id:'ps-14',   platform:'ps',   sort_order:14, name:'Malenia, Blade of Miquella',        description:'Derrote Malenia, Blade of Miquella — o chefe mais difícil.',                            category:'Chefes',     rarity:'silver', missable:true,  secret:true,  points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_malenia.png' },
+    { id:'xbox-15', platform:'xbox', sort_order:15, name:'Dragonlord Placidusax',             description:'Derrote o dragão primordial oculto no Crumbling Farum Azula.',                          category:'Chefes',     rarity:'gold',   missable:false, secret:true,  points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/dragonlord_placidusax.png' },
+    { id:'ps-15',   platform:'ps',   sort_order:15, name:'Dragonlord Placidusax',             description:'Derrote o dragão primordial oculto no Crumbling Farum Azula.',                          category:'Chefes',     rarity:'silver', missable:false, secret:true,  points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/dragonlord_placidusax.png' },
+    { id:'xbox-16', platform:'xbox', sort_order:16, name:'Lichdragon Fortissax',              description:'Derrote Lichdragon Fortissax no sonho de Fia em Deeproot Depths.',                      category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/lichdragon_fortissax.png' },
+    { id:'ps-16',   platform:'ps',   sort_order:16, name:'Lichdragon Fortissax',              description:'Derrote Lichdragon Fortissax no sonho de Fia.',                                          category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/lichdragon_fortissax.png' },
+    { id:'xbox-17', platform:'xbox', sort_order:17, name:'Astel, Naturalborn of the Void',   description:'Derrote Astel no Lake of Rot, na rota da quest de Ranni.',                              category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/astel,_naturalborn_of_the_void.png' },
+    { id:'ps-17',   platform:'ps',   sort_order:17, name:'Astel, Naturalborn of the Void',   description:'Derrote Astel no Lake of Rot.',                                                          category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/astel,_naturalborn_of_the_void.png' },
+    { id:'xbox-18', platform:'xbox', sort_order:18, name:'Valiant Gargoyles',                 description:'Derrote os dois Valiant Gargoyles em Siofra Aqueduct.',                                  category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/valiant_gargoyle_trophy.png' },
+    { id:'ps-18',   platform:'ps',   sort_order:18, name:'Valiant Gargoyles',                 description:'Derrote os dois Valiant Gargoyles em Siofra Aqueduct.',                                  category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/valiant_gargoyle_trophy.png' },
+    { id:'xbox-28', platform:'xbox', sort_order:28, name:'Mohg, Lord of Blood',               description:'Derrote Mohg no Mohgwyn Palace.',                                                        category:'Chefes',     rarity:'silver', missable:true,  secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_mohg.png' },
+    { id:'ps-28',   platform:'ps',   sort_order:27, name:'Mohg, Lord of Blood',               description:'Derrote Mohg no Mohgwyn Palace.',                                                        category:'Chefes',     rarity:'silver', missable:true,  secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/shardbearer_mohg.png' },
+    { id:'xbox-29', platform:'xbox', sort_order:29, name:'Margit, the Fell Omen',             description:'Derrote Margit, guardião da entrada de Stormveil Castle.',                               category:'Chefes',     rarity:'bronze', missable:false, secret:false, points:'20G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/margit,_the_fell_omen.png' },
+    { id:'ps-29',   platform:'ps',   sort_order:28, name:'Margit, the Fell Omen',             description:'Derrote Margit, guardião de Stormveil Castle.',                                          category:'Chefes',     rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/margit,_the_fell_omen.png' },
+    { id:'xbox-30', platform:'xbox', sort_order:30, name:'Radagon & Elden Beast',             description:'Derrote Radagon of the Golden Order e o Elden Beast.',                                   category:'Chefes',     rarity:'gold',   missable:false, secret:false, points:'40G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/hoarah_loux_the_warrior.png' },
+    { id:'ps-30',   platform:'ps',   sort_order:29, name:'Radagon & Elden Beast',             description:'Derrote Radagon e o Elden Beast — a batalha final.',                                     category:'Chefes',     rarity:'gold',   missable:false, secret:false, points:null,    trophy_type:'Ouro',   icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/hoarah_loux_the_warrior.png' },
+    { id:'xbox-31', platform:'xbox', sort_order:31, name:'Ancestor Spirit',                   description:'Derrote o Ancestor Spirit em Siofra River.',                                             category:'Chefes',     rarity:'bronze', missable:false, secret:false, points:'20G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/ancestor_spirit_trophy.png' },
+    { id:'ps-31',   platform:'ps',   sort_order:30, name:'Ancestor Spirit',                   description:'Derrote o Ancestor Spirit em Siofra River.',                                             category:'Chefes',     rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/ancestor_spirit_trophy.png' },
+    { id:'xbox-32', platform:'xbox', sort_order:32, name:'Regal Ancestor Spirit',             description:'Derrote o Regal Ancestor Spirit em Nokron.',                                             category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:'20G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/regal_ancestor_spirit.png' },
+    { id:'ps-32',   platform:'ps',   sort_order:31, name:'Regal Ancestor Spirit',             description:'Derrote o Regal Ancestor Spirit em Nokron.',                                             category:'Chefes',     rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/regal_ancestor_spirit.png' },
+    { id:'xbox-33', platform:'xbox', sort_order:33, name:'Magma Wyrm Makar',                  description:'Derrote o Magma Wyrm Makar no Ruin-Strewn Precipice.',                                  category:'Chefes',     rarity:'bronze', missable:false, secret:false, points:'20G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/magma_wyrm_makar.png' },
+    { id:'ps-33b',  platform:'ps',   sort_order:33, name:'Magma Wyrm Makar',                  description:'Derrote o Magma Wyrm Makar no Ruin-Strewn Precipice.',                                  category:'Chefes',     rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/magma_wyrm_makar.png' },
+    // ── NPC / QUESTS ──
+    { id:'xbox-19', platform:'xbox', sort_order:19, name:"Millicent's Quest",                 description:'Complete a quest de Millicent até o fim.',                                               category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:"https://static.wikia.nocookie.net/eldenring/images/6/6c/ER_Achievement-Trophy_Millicent%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'ps-19',   platform:'ps',   sort_order:19, name:"Millicent's Quest",                 description:'Complete a quest de Millicent até o fim.',                                               category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:"https://static.wikia.nocookie.net/eldenring/images/6/6c/ER_Achievement-Trophy_Millicent%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'xbox-20', platform:'xbox', sort_order:20, name:"Alexander's Quest",                 description:'Complete a quest do Jar Guerreiro Alexander.',                                           category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:"https://static.wikia.nocookie.net/eldenring/images/8/8e/ER_Achievement-Trophy_Alexander%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'ps-20',   platform:'ps',   sort_order:20, name:"Alexander's Quest",                 description:'Complete a quest do Jar Guerreiro Alexander.',                                           category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:"https://static.wikia.nocookie.net/eldenring/images/8/8e/ER_Achievement-Trophy_Alexander%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'xbox-21', platform:'xbox', sort_order:21, name:'Volcano Manor Questline',           description:'Complete todas as missões de assassinato do Volcano Manor.',                             category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/e/ef/ER_Achievement-Trophy_Volcano_Manor_Questline.png/revision/latest/scale-to-width-down/60' },
+    { id:'ps-21',   platform:'ps',   sort_order:21, name:'Volcano Manor Questline',           description:'Complete todas as missões de assassinato do Volcano Manor.',                             category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://static.wikia.nocookie.net/eldenring/images/e/ef/ER_Achievement-Trophy_Volcano_Manor_Questline.png/revision/latest/scale-to-width-down/60' },
+    { id:'xbox-22', platform:'xbox', sort_order:22, name:"Nepheli Loux's Quest",              description:'Complete a quest de Nepheli Loux e veja seu destino final.',                             category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:"https://static.wikia.nocookie.net/eldenring/images/1/14/ER_Achievement-Trophy_Nepheli_Loux%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'ps-22',   platform:'ps',   sort_order:22, name:"Nepheli Loux's Quest",              description:'Complete a quest de Nepheli Loux.',                                                      category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:"https://static.wikia.nocookie.net/eldenring/images/1/14/ER_Achievement-Trophy_Nepheli_Loux%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'xbox-23', platform:'xbox', sort_order:23, name:"Diallos's Quest",                   description:'Complete a quest de Diallos Hoslow e testemunhe seu fim.',                               category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:"https://static.wikia.nocookie.net/eldenring/images/c/c3/ER_Achievement-Trophy_Diallos%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'ps-23',   platform:'ps',   sort_order:23, name:"Diallos's Quest",                   description:'Complete a quest de Diallos Hoslow.',                                                    category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:"https://static.wikia.nocookie.net/eldenring/images/c/c3/ER_Achievement-Trophy_Diallos%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'xbox-36', platform:'xbox', sort_order:36, name:"Blaidd's Quest",                    description:'Complete a tragédia de Blaidd, o leal meio-lobo de Ranni.',                             category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:"https://static.wikia.nocookie.net/eldenring/images/4/47/ER_Achievement-Trophy_Blaidd%2C_the_Half-Wolf.png/revision/latest/scale-to-width-down/60" },
+    { id:'ps-35',   platform:'ps',   sort_order:34, name:"Blaidd's Quest",                    description:'Complete a tragédia de Blaidd, o leal meio-lobo de Ranni.',                             category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:"https://static.wikia.nocookie.net/eldenring/images/4/47/ER_Achievement-Trophy_Blaidd%2C_the_Half-Wolf.png/revision/latest/scale-to-width-down/60" },
+    { id:'xbox-37', platform:'xbox', sort_order:37, name:"Roderika's Quest",                  description:'Ajude Roderika a tornar-se Spirit Tuner na Roundtable Hold.',                           category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:"https://static.wikia.nocookie.net/eldenring/images/6/6c/ER_Achievement-Trophy_Millicent%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'ps-36',   platform:'ps',   sort_order:35, name:"Roderika's Quest",                  description:'Ajude Roderika a tornar-se Spirit Tuner na Roundtable Hold.',                           category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:"https://static.wikia.nocookie.net/eldenring/images/6/6c/ER_Achievement-Trophy_Millicent%27s_Quest.png/revision/latest/scale-to-width-down/60" },
+    { id:'xbox-38', platform:'xbox', sort_order:38, name:"Hyetta's Quest",                    description:'Guie Hyetta em sua jornada para os Three Fingers.',                                      category:'NPC / Quest',rarity:'bronze', missable:true,  secret:true,  points:'15G',  trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/5/56/ER_Achievement-Trophy_Lord_of_Frenzied_Flame.png/revision/latest/scale-to-width-down/60' },
+    { id:'xbox-39', platform:'xbox', sort_order:39, name:"D's Quest & D's Brother",           description:"Complete a quest de D, Hunter of the Dead e encontre seu irmão.",                        category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/d/d8/ER_Achievement-Trophy_Blessing_of_Despair.png/revision/latest/scale-to-width-down/60' },
+    { id:'ps-37',   platform:'ps',   sort_order:36, name:"D's Quest & D's Brother",           description:"Complete a quest de D e encontre seu irmão.",                                            category:'NPC / Quest',rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://static.wikia.nocookie.net/eldenring/images/d/d8/ER_Achievement-Trophy_Blessing_of_Despair.png/revision/latest/scale-to-width-down/60' },
+    // ── EXPLORAÇÃO ──
+    { id:'xbox-24', platform:'xbox', sort_order:24, name:'Shardbearers Defeated',             description:'Derrote os 6 Shardbearers para abrir o caminho ao Erdtree.',                            category:'Exploração', rarity:'bronze', missable:false, secret:false, points:'30G',  trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/c/c3/ER_Achievement-Trophy_Shardbearer_Godrick.png/revision/latest/scale-to-width-down/60' },
+    { id:'ps-24',   platform:'ps',   sort_order:24, name:'Shardbearers Defeated',             description:'Derrote os 6 Shardbearers para abrir o caminho ao Erdtree.',                            category:'Exploração', rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://static.wikia.nocookie.net/eldenring/images/c/c3/ER_Achievement-Trophy_Shardbearer_Godrick.png/revision/latest/scale-to-width-down/60' },
+    { id:'xbox-25', platform:'xbox', sort_order:25, name:'Roundtable Hold',                   description:'Chegue à Roundtable Hold pela primeira vez.',                                            category:'Exploração', rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/roundtable_hold.png' },
+    { id:'ps-25',   platform:'ps',   sort_order:25, name:'Roundtable Hold',                   description:'Chegue à Roundtable Hold pela primeira vez.',                                            category:'Exploração', rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/roundtable_hold.png' },
+    { id:'xbox-26', platform:'xbox', sort_order:26, name:'Erdtree Ablaze',                    description:'Queime o Erdtree com Melina.',                                                           category:'Exploração', rarity:'bronze', missable:false, secret:false, points:'30G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/erdtree_aflame.png' },
+    { id:'ps-26',   platform:'ps',   sort_order:26, name:'Erdtree Ablaze',                    description:'Queime o Erdtree com Melina.',                                                           category:'Exploração', rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/erdtree_aflame.png' },
+    { id:'xbox-34', platform:'xbox', sort_order:34, name:'Nokron, Eternal City',              description:'Descubra Nokron, a cidade subterrânea desbloqueada após Radahn.',                       category:'Exploração', rarity:'bronze', missable:true,  secret:false, points:'15G',  trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/5/52/ER_Achievement-Trophy_Astel%2C_Naturalborn_of_the_Void.png/revision/latest/scale-to-width-down/60' },
+    { id:'ps-33',   platform:'ps',   sort_order:32, name:'Nokron, Eternal City',              description:'Descubra Nokron após a derrota de Radahn.',                                              category:'Exploração', rarity:'bronze', missable:true,  secret:false, points:null,    trophy_type:'Bronze', icon_url:'https://static.wikia.nocookie.net/eldenring/images/5/52/ER_Achievement-Trophy_Astel%2C_Naturalborn_of_the_Void.png/revision/latest/scale-to-width-down/60' },
+    { id:'xbox-35', platform:'xbox', sort_order:35, name:'Consecrated Snowfield',             description:'Descubra as Consecrated Snowfields — a área secreta dos Mountaintops.',                 category:'Exploração', rarity:'bronze', missable:false, secret:true,  points:'15G',  trophy_type:null,     icon_url:'https://static.wikia.nocookie.net/eldenring/images/0/00/ER_Achievement-Trophy_Starscourge_Radahn.png/revision/latest/scale-to-width-down/60' },
+    { id:'ps-34',   platform:'ps',   sort_order:33, name:'Consecrated Snowfield',             description:'Descubra as Consecrated Snowfields — área secreta dos Mountaintops.',                   category:'Exploração', rarity:'bronze', missable:false, secret:true,  points:null,    trophy_type:'Bronze', icon_url:'https://static.wikia.nocookie.net/eldenring/images/0/00/ER_Achievement-Trophy_Starscourge_Radahn.png/revision/latest/scale-to-width-down/60' },
+    // ── GRIND / COLECIONÁVEIS ──
+    { id:'xbox-40', platform:'xbox', sort_order:40, name:'Legendary Armaments',               description:'Obtenha todas as 9 armas lendárias do jogo.',                                            category:'Grind',      rarity:'silver', missable:true,  secret:false, points:'30G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_armaments.png' },
+    { id:'ps-38',   platform:'ps',   sort_order:37, name:'Legendary Armaments',               description:'Obtenha todas as 9 armas lendárias do jogo.',                                            category:'Grind',      rarity:'silver', missable:true,  secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_armaments.png' },
+    { id:'xbox-41', platform:'xbox', sort_order:41, name:'Legendary Talismans',               description:'Obtenha todos os 8 talismãs lendários do jogo.',                                         category:'Grind',      rarity:'silver', missable:true,  secret:false, points:'30G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_talismans.png' },
+    { id:'ps-39',   platform:'ps',   sort_order:38, name:'Legendary Talismans',               description:'Obtenha todos os 8 talismãs lendários do jogo.',                                         category:'Grind',      rarity:'silver', missable:true,  secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_talismans.png' },
+    { id:'xbox-42', platform:'xbox', sort_order:42, name:'Legendary Sorceries & Incantations',description:'Obtenha todas as 7 magias e incantations lendárias.',                                   category:'Grind',      rarity:'silver', missable:true,  secret:false, points:'30G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_sorceries_and_incantations.png' },
+    { id:'ps-40',   platform:'ps',   sort_order:39, name:'Legendary Sorceries & Incantations',description:'Obtenha todas as 7 magias e incantations lendárias.',                                   category:'Grind',      rarity:'silver', missable:true,  secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_sorceries_and_incantations.png' },
+    { id:'xbox-43', platform:'xbox', sort_order:43, name:'Legendary Ashen Remains',           description:'Obtenha todos os 6 Ashes of War lendários.',                                             category:'Grind',      rarity:'silver', missable:true,  secret:false, points:'30G',  trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_ashen_remains.png' },
+    { id:'ps-41',   platform:'ps',   sort_order:40, name:'Legendary Ashen Remains',           description:'Obtenha todos os 6 Ashes lendários do jogo.',                                            category:'Grind',      rarity:'silver', missable:true,  secret:false, points:null,    trophy_type:'Prata',  icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/legendary_ashen_remains.png' },
+    // ── PLATINA / MASTER ──
+    { id:'xbox-27', platform:'xbox', sort_order:27, name:'Elden Ring Master',                 description:'Obtenha todas as outras conquistas do jogo.',                                            category:'Grind',      rarity:'silver', missable:false, secret:false, points:'0G',   trophy_type:null,     icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/elden_ring.png' },
+    { id:'ps-0',    platform:'ps',   sort_order:0,  name:'Elden Ring — Platina',              description:'Obtenha todos os outros troféus do Elden Ring.',                                          category:'Grind',      rarity:'platinum',missable:false, secret:false, points:null,    trophy_type:'Platina',icon_url:'https://ytehtjgbxkwpfabqhojm.supabase.co/storage/v1/object/public/achievement-icons/elden_ring.png' },
+  ];
+
+  // ── Carrega dados (hardcoded + Supabase como enriquecimento) ──
+  async function loadGame() {
+    // Usa dados hardcoded imediatamente
+    const game = GAME_DATA;
+
+    // Preenche hero
+    document.getElementById('game-title').textContent = game.title;
+    document.title = `${game.title} — Conquistas · Checkpoint Digital`;
+    let meta = `<span>🎮 ${game.developer}</span><span>📅 ${game.release_year}</span>`;
+    if (game.difficulty)     meta += `<span>⚡ Dificuldade: ${game.difficulty}</span>`;
+    if (game.hours_estimate) meta += `<span>⏱ ${game.hours_estimate}</span>`;
+    if (game.missable_count) meta += `<span>⚠️ ${game.missable_count} missáveis</span>`;
+    document.getElementById('game-meta').innerHTML = meta;
+
+    // Tabs
+    document.getElementById('ach-tab-xbox').style.display  = game.xbox_label  ? '' : 'none';
+    document.getElementById('ach-tab-ps').style.display    = game.ps_label    ? '' : 'none';
+    document.getElementById('ach-tab-steam').style.display = game.steam_label ? '' : 'none';
+    if (game.xbox_label)  document.getElementById('label-xbox').textContent  = `Xbox — ${game.xbox_label}`;
+    if (game.ps_label)    document.getElementById('label-ps').textContent    = `PlayStation — ${game.ps_label}`;
+    if (game.steam_label) document.getElementById('label-steam').textContent = `Steam — ${game.steam_label}`;
+
+    // Tenta enriquecer com guide_steps/guide_tips do Supabase
+    let achievements = ACHIEVEMENTS;
+    try {
+      const aRes = await fetch(
+        `${SUPA_URL}/rest/v1/achievements?game_id=eq.${GAME_ID}&select=id,guide_intro,guide_steps,guide_tips&order=sort_order.asc`,
+        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
+      );
+      if (aRes.ok) {
+        const supaData = await aRes.json();
+        const supaMap = {};
+        supaData.forEach(a => { supaMap[a.id] = a; });
+        // Mescla guias do Supabase nos dados hardcoded
+        achievements = ACHIEVEMENTS.map(a => {
+          const s = supaMap[a.id];
+          return s ? { ...a, guide_intro: s.guide_intro, guide_steps: s.guide_steps, guide_tips: s.guide_tips } : a;
+        });
+      }
+    } catch(e) { /* Offline: usa só dados hardcoded */ }
+
+    // Renderiza painéis
+    if (game.xbox_label)  document.getElementById('panel-xbox').innerHTML  = buildPanel(achievements, 'xbox');
+    if (game.ps_label)    document.getElementById('panel-ps').innerHTML    = buildPanel(achievements, 'ps');
+    if (game.steam_label) document.getElementById('panel-steam').innerHTML = buildPanel(achievements, 'steam');
+
+    switchPlatform('xbox');
+  }
+
+  // ── Renderiza painel de conquistas ──
+  function buildPanel(achievements, platform) {
+    // Steam usa base do Xbox (mesma lista, sem pontos/troféu)
+    const sourceList = platform === 'steam'
+      ? achievements.filter(a => a.platform === 'xbox' && a.rarity !== 'platinum').map(a => ({...a, platform:'steam'}))
+      : achievements.filter(a => a.platform === platform && a.rarity !== 'platinum');
+
+    const totalPts = platform === 'xbox'
+      ? achievements.filter(a => a.platform === 'xbox').reduce((s,a) => s + parseInt(a.points||0), 0) + 'G'
+      : platform === 'ps' ? 'Platina' : '🖥️ PC';
+    const ptsLabel = platform === 'xbox' ? 'Total de Pontos' : platform === 'ps' ? 'Troféu Máximo' : 'Plataforma';
+    const ptsColor = platform === 'xbox' ? 'xbox-color' : platform === 'ps' ? 'ps-color' : '';
+    const missable = sourceList.filter(a => a.missable).length;
+
+    const filters = ['Todas','Missáveis','História','Chefes','Exploração','Grind','NPC / Quest'];
+
+    let html = `
+      <div class="ach-summary">
+        <div class="ach-stat">
+          <div class="ach-stat-label">${ptsLabel}</div>
+          <div class="ach-stat-value ${ptsColor}">${totalPts}</div>
+        </div>
+        <div class="ach-stat">
+          <div class="ach-stat-label">Conquistas</div>
+          <div class="ach-stat-value">${sourceList.length}</div>
+        </div>
+        <div class="ach-stat">
+          <div class="ach-stat-label">Missáveis</div>
+          <div class="ach-stat-value" style="color:#dc2626">${missable}</div>
+        </div>
+      </div>
+      <div class="ach-filter-row">
+        <span class="ach-filter-label">Filtrar:</span>
+        ${filters.map((l,i) => `<button class="ach-filter-btn${i===0?' active':''}" onclick="filterAch(this,'${platform}')">${l}</button>`).join('')}
+      </div>
+      <div class="ach-list">`;
+
+    sourceList.sort((a,b) => a.sort_order - b.sort_order).forEach(a => {
+      const id = `${platform}-${a.id}`;
+
+      const tags = [
+        a.category !== 'Missável' ? `<span class="ach-tag tag-story">${a.category}</span>` : '',
+        a.missable ? `<span class="ach-tag tag-missable">Missável</span>` : '',
+        a.secret   ? `<span class="ach-tag tag-secret">Secreto</span>` : '',
+        !a.missable && !a.secret ? `<span class="ach-tag tag-unmissable">Unmissable</span>` : '',
+      ].filter(Boolean).join('');
+
+      const pts = platform === 'xbox'
+        ? `<div class="ach-pts-value xbox-pts">${a.points||'?'}</div><div class="ach-pts-label">Gamerscore</div>`
+        : platform === 'steam'
+          ? `<div style="font-size:20px;text-align:center">🏆</div>`
+          : `<div class="trophy-${(a.trophy_type||'bronze').toLowerCase()}">${a.trophy_type||'Bronze'}</div>`;
+
+      const svgFallback = `<span class="ach-icon-svg" style="color:${RARITY_COLOR[a.rarity]||'#b45309'}">${ICON_SVG[a.category]||ICON_SVG['História']}</span>`;
+      const icon = a.icon_url
+        ? `<img src="${a.icon_url}" alt="${a.name}" class="ach-icon-img" onerror="this.replaceWith(this.nextElementSibling)">${svgFallback}`
+        : svgFallback;
+
+      const steps = (a.guide_steps||[]).map(s =>
+        `<div class="ach-guide-step"><div class="ach-step-num">${s.step}</div><div class="ach-step-text">${s.text}</div></div>`
+      ).join('');
+      const tips = (a.guide_tips||[]).map(t =>
+        `<div class="${t.type==='warning'?'ach-warning':'ach-tip'}"><strong>${t.type==='warning'?'Atenção:':'Dica:'}</strong> ${t.text.replace(/^(Dica:|Atenção:)\s*/,'')}</div>`
+      ).join('');
+
+      html += `
+        <div class="ach-item" data-achcat="${a.category}" onclick="toggleGuide('${id}')">
+          <div class="ach-icon ${a.rarity}">${icon}</div>
+          <div class="ach-info">
+            <div class="ach-name">${a.name}</div>
+            <div class="ach-desc">${a.description}</div>
+            <div class="ach-tags">${tags}</div>
+          </div>
+          <div class="ach-pts">${pts}</div>
+        </div>
+        <div class="ach-guide-drawer" id="guide-${id}">
+          <div class="ach-guide-title">Como desbloquear: ${a.name}</div>
+          <div class="ach-guide-body">
+            ${a.guide_intro ? `<p>${a.guide_intro}</p>` : ''}
+            ${steps}${tips}
+          </div>
+        </div>`;
+    });
+
+    html += '</div>';
+    return html;
+  }
+
+  // ── Switch de plataforma ──
+  function switchPlatform(plat) {
+    ['xbox','ps','steam'].forEach(p => {
+      document.getElementById('panel-' + p).classList.toggle('active', p === plat);
+      const tab = document.getElementById('ach-tab-' + p);
+      tab.className = 'ach-tab';
+      if (p === plat) tab.classList.add('active-' + p);
+    });
+  }
+
+  // ── Toggle do guia ──
+  function toggleGuide(id) {
+    const drawer = document.getElementById('guide-' + id);
+    if (!drawer) return;
+    const isOpen = drawer.classList.contains('open');
+    drawer.closest('.ach-platform-panel').querySelectorAll('.ach-guide-drawer').forEach(d => d.classList.remove('open'));
+    if (!isOpen) drawer.classList.add('open');
+  }
+
+  // ── Filtro por categoria ──
+  function filterAch(btn, plat) {
+    const panel = document.getElementById('panel-' + plat);
+    panel.querySelectorAll('.ach-filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const cat = btn.textContent.trim();
+    panel.querySelectorAll('.ach-item').forEach(item => {
+      const show = cat === 'Todas' ? true
+        : cat === 'Missáveis' ? item.querySelector('.tag-missable') !== null
+        : item.dataset.achcat === cat;
+      item.style.display = show ? '' : 'none';
+      const next = item.nextElementSibling;
+      if (next?.classList.contains('ach-guide-drawer')) {
+        next.style.display = show ? '' : 'none';
+        if (!show) next.classList.remove('open');
+      }
+    });
+  }
+
+  // Inicia ao carregar
+  window.addEventListener('DOMContentLoaded', loadGame);
+</script>
+</body>
+</html>

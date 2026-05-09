@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Xbox — Checkpoint Digital</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<div class="plat-header">
+  <div class="plat-header-inner">
+    <div class="plat-name xbox">Xbox</div>
+    <div class="gen-filter" id="xbox-gens">
+      <button class="gen-btn active-xbox" data-gen="all"        data-plat="xbox" onclick="filterGen(this,'xbox')">Todas as gerações</button>
+      <button class="gen-btn"             data-gen="xbox360"    data-plat="xbox" onclick="filterGen(this,'xbox')">Xbox 360</button>
+      <button class="gen-btn"             data-gen="xboxone"    data-plat="xbox" onclick="filterGen(this,'xbox')">Xbox One</button>
+      <button class="gen-btn"             data-gen="xboxseries" data-plat="xbox" onclick="filterGen(this,'xbox')">Xbox Series S/X</button>
+      <button class="gen-btn"             data-gen="helix"      data-plat="xbox" onclick="filterGen(this,'xbox')">Project Helix</button>
+    </div>
+  </div>
+</div>
+
+<div class="cat-filter">
+  <button class="cat-btn active" onclick="filterCat(this)">Tudo</button>
+  <button class="cat-btn" onclick="filterCat(this)">Lançamentos</button>
+  <button class="cat-btn" onclick="filterCat(this)">Previstos</button>
+  <button class="cat-btn" onclick="filterCat(this)">Reviews</button>
+  <button class="cat-btn" onclick="filterCat(this)">Notícias</button>
+  <button class="cat-btn" onclick="filterCat(this)">Retrô</button>
+</div>
+
+<div class="cards-section">
+  <div class="wrapper">
+    <div class="cards-grid" id="xbox-cards">
+
+      <div class="news-card" data-gen="xboxseries" data-cat="Notícias">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="badge badge-new">Novo</span></div>
+          <div class="card-title">Halo: New Era — trailer oficial revela novo protagonista e mundo aberto</div>
+          <div class="card-excerpt">Microsoft e 343 Industries revelam o próximo capítulo da saga Halo com gameplay inédito, co-op para 4 jogadores e ambientes abertos nunca vistos na franquia.</div>
+          <div class="card-meta"><span>3 mai 2026</span><span class="sep"></span><span>3 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="helix" data-cat="Previstos">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-xbox">Project Helix</span><span class="badge badge-preview">Previsto</span></div>
+          <div class="card-title">Project Helix: Microsoft confirma retrocompatibilidade total e lançamento em 2027</div>
+          <div class="card-excerpt">O próximo console Xbox rodará jogos de todas as gerações anteriores, do Xbox original ao Xbox Series, sem emulação adicional.</div>
+          <div class="card-meta"><span>28 abr 2026</span><span class="sep"></span><span>5 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="xboxseries" data-cat="Reviews">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="badge badge-review">Review</span></div>
+          <div class="card-title">Forza Motorsport 2026 — review: simulação automotiva elevada a novo nível</div>
+          <div class="card-excerpt">Nota 9.1. Turn 10 entrega o jogo de corrida mais completo da geração, com física aprimorada e 800+ carros.</div>
+          <div class="card-meta"><span>20 abr 2026</span><span class="sep"></span><span>7 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="xboxseries" data-cat="Lançamentos">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="tag tag-xbox">PC</span><span class="badge badge-new">Lançamento</span></div>
+          <div class="card-title">Forza Horizon 6 chega em junho de 2026 com mapa ambientado no Japão</div>
+          <div class="card-excerpt">Playground Games confirma Japão como cenário do próximo Forza Horizon, com mais de 600 km² de área explorável.</div>
+          <div class="card-meta"><span>15 abr 2026</span><span class="sep"></span><span>4 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="xboxone" data-cat="Retrô">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">Xbox One</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">Os 10 exclusivos do Xbox One que você precisa jogar antes de esquecer</div>
+          <div class="card-excerpt">De Sunset Overdrive a Quantum Break, revisitamos os exclusivos da era Xbox One que definiram uma geração.</div>
+          <div class="card-meta"><span>10 abr 2026</span><span class="sep"></span><span>6 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="xbox360" data-cat="Retrô">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">Xbox 360</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">Os 10 melhores jogos do Xbox 360 que resistem ao tempo</div>
+          <div class="card-excerpt">De Red Dead Redemption a Mass Effect 2, revisitamos a geração que definiu os games modernos e moldou a indústria.</div>
+          <div class="card-meta"><span>25 abr 2026</span><span class="sep"></span><span>7 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="xboxseries" data-cat="Notícias">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span></div>
+          <div class="card-title">Game Pass recebe 12 novos jogos em maio, incluindo títulos do dia 1</div>
+          <div class="card-excerpt">Microsoft anuncia a linha-up do Game Pass para maio com destaque para Halo: New Era disponível no lançamento.</div>
+          <div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>2 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="helix" data-cat="Notícias">
+        <div class="card-stripe xbox"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-xbox">Project Helix</span><span class="badge badge-preview">Especulação</span></div>
+          <div class="card-title">Project Helix pode custar US$ 499 e incluir controle com bateria recarregável</div>
+          <div class="card-excerpt">Analistas e vazamentos apontam para preço competitivo e novo controle com bateria integrada e haptic feedback.</div>
+          <div class="card-meta"><span>22 abr 2026</span><span class="sep"></span><span>4 min</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<footer id="site-footer"></footer>
+<script src="shared.js"></script>
+<script>
+  renderHeader('xbox');
+  renderFooter();
+</script>
+</body>
+</html>

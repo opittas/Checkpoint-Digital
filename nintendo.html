@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nintendo — Checkpoint Digital</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<div class="plat-header">
+  <div class="plat-header-inner">
+    <div class="plat-name nin">Nintendo</div>
+    <div class="gen-filter" id="nin-gens">
+      <button class="gen-btn active-nin" data-gen="all"      data-plat="nin" onclick="filterGen(this,'nin')">Todas as gerações</button>
+      <button class="gen-btn"            data-gen="nes"      data-plat="nin" onclick="filterGen(this,'nin')">NES</button>
+      <button class="gen-btn"            data-gen="snes"     data-plat="nin" onclick="filterGen(this,'nin')">SNES</button>
+      <button class="gen-btn"            data-gen="gamecube" data-plat="nin" onclick="filterGen(this,'nin')">GameCube</button>
+      <button class="gen-btn"            data-gen="wii"      data-plat="nin" onclick="filterGen(this,'nin')">Wii</button>
+      <button class="gen-btn"            data-gen="ds"       data-plat="nin" onclick="filterGen(this,'nin')">DS</button>
+      <button class="gen-btn"            data-gen="3ds"      data-plat="nin" onclick="filterGen(this,'nin')">3DS</button>
+      <button class="gen-btn"            data-gen="wiiu"     data-plat="nin" onclick="filterGen(this,'nin')">Wii U</button>
+      <button class="gen-btn"            data-gen="switch"   data-plat="nin" onclick="filterGen(this,'nin')">Switch</button>
+      <button class="gen-btn"            data-gen="switch2"  data-plat="nin" onclick="filterGen(this,'nin')">Switch 2</button>
+    </div>
+  </div>
+</div>
+
+<div class="cat-filter">
+  <button class="cat-btn active" onclick="filterCat(this)">Tudo</button>
+  <button class="cat-btn" onclick="filterCat(this)">Lançamentos</button>
+  <button class="cat-btn" onclick="filterCat(this)">Previstos</button>
+  <button class="cat-btn" onclick="filterCat(this)">Reviews</button>
+  <button class="cat-btn" onclick="filterCat(this)">Notícias</button>
+  <button class="cat-btn" onclick="filterCat(this)">Retrô</button>
+</div>
+
+<div class="cards-section">
+  <div class="wrapper">
+    <div class="cards-grid" id="nin-cards">
+
+      <div class="news-card" data-gen="switch2" data-cat="Notícias">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-new">Novo</span></div>
+          <div class="card-title">Zelda: Echoes of Time — data de lançamento e novo trailer revelados</div>
+          <div class="card-excerpt">Nintendo confirma Zelda: Echoes of Time para setembro de 2026 no Switch 2, com mecânicas inéditas de manipulação do tempo.</div>
+          <div class="card-meta"><span>4 mai 2026</span><span class="sep"></span><span>3 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="switch2" data-cat="Reviews">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-review">Review</span></div>
+          <div class="card-title">Metroid Prime 4: Beyond — review: a melhor aventura espacial do Switch 2</div>
+          <div class="card-excerpt">Nota 9.6. Retro Studios entrega uma obra-prima que ressuscita Samus com gráficos impressionantes e gameplay viciante.</div>
+          <div class="card-meta"><span>30 abr 2026</span><span class="sep"></span><span>9 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="switch2" data-cat="Previstos">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-preview">Previsto</span></div>
+          <div class="card-title">Mario Odyssey 2 — vazamentos apontam para novembro de 2026</div>
+          <div class="card-excerpt">Fontes internas e registros de patente da Nintendo sugerem que o próximo Mario 3D está em produção avançada.</div>
+          <div class="card-meta"><span>30 abr 2026</span><span class="sep"></span><span>3 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="switch2" data-cat="Notícias">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-nin">Switch 2</span></div>
+          <div class="card-title">Switch 2 — os 14 jogos confirmados para o lançamento do console</div>
+          <div class="card-excerpt">Nintendo revela o line-up completo de lançamento do Switch 2, com destaque para Mario Kart World e Kirby's Return.</div>
+          <div class="card-meta"><span>2 mai 2026</span><span class="sep"></span><span>4 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="gamecube" data-cat="Retrô">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">GameCube</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">GameCube: os 15 jogos essenciais do cubo roxo da Nintendo</div>
+          <div class="card-excerpt">De Metroid Prime a Resident Evil 4 e Wind Waker, o GameCube teve um catálogo secretamente incrível.</div>
+          <div class="card-meta"><span>27 abr 2026</span><span class="sep"></span><span>6 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="switch" data-cat="Retrô">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">Nintendo Switch</span><span class="badge badge-retro">Especial</span></div>
+          <div class="card-title">Nintendo Switch: legado de um console que mudou a forma de jogar</div>
+          <div class="card-excerpt">Com mais de 140 milhões de unidades vendidas, o Switch se consolida como um dos maiores consoles da história.</div>
+          <div class="card-meta"><span>20 abr 2026</span><span class="sep"></span><span>7 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="nes" data-cat="Retrô">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">NES</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">NES: 40 anos do console que salvou a indústria dos games</div>
+          <div class="card-excerpt">Em 1985, o Nintendo Entertainment System ressuscitou um mercado em colapso e criou franquias que existem até hoje.</div>
+          <div class="card-meta"><span>15 abr 2026</span><span class="sep"></span><span>8 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="3ds" data-cat="Retrô">
+        <div class="card-stripe nin"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">3DS</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">Nintendo 3DS: o portátil que durou mais de uma década</div>
+          <div class="card-excerpt">Com suporte até 2020, o 3DS foi o console de maior longevidade da Nintendo. Revisitamos sua trajetória completa.</div>
+          <div class="card-meta"><span>12 abr 2026</span><span class="sep"></span><span>6 min</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<footer id="site-footer"></footer>
+<script src="shared.js"></script>
+<script>
+  renderHeader('nin');
+  renderFooter();
+</script>
+</body>
+</html>

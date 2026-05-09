@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PlayStation — Checkpoint Digital</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<div class="plat-header">
+  <div class="plat-header-inner">
+    <div class="plat-name ps">PlayStation</div>
+    <div class="gen-filter" id="ps-gens">
+      <button class="gen-btn active-ps" data-gen="all"    data-plat="ps" onclick="filterGen(this,'ps')">Todas as gerações</button>
+      <button class="gen-btn"           data-gen="ps1"    data-plat="ps" onclick="filterGen(this,'ps')">PS1</button>
+      <button class="gen-btn"           data-gen="ps2"    data-plat="ps" onclick="filterGen(this,'ps')">PS2</button>
+      <button class="gen-btn"           data-gen="ps3"    data-plat="ps" onclick="filterGen(this,'ps')">PS3</button>
+      <button class="gen-btn"           data-gen="ps4"    data-plat="ps" onclick="filterGen(this,'ps')">PS4</button>
+      <button class="gen-btn"           data-gen="ps5"    data-plat="ps" onclick="filterGen(this,'ps')">PS5</button>
+      <button class="gen-btn"           data-gen="portal" data-plat="ps" onclick="filterGen(this,'ps')">Portal</button>
+      <button class="gen-btn"           data-gen="psp"    data-plat="ps" onclick="filterGen(this,'ps')">PSP</button>
+      <button class="gen-btn"           data-gen="psvita" data-plat="ps" onclick="filterGen(this,'ps')">PS Vita</button>
+    </div>
+  </div>
+</div>
+
+<div class="cat-filter">
+  <button class="cat-btn active" onclick="filterCat(this)">Tudo</button>
+  <button class="cat-btn" onclick="filterCat(this)">Lançamentos</button>
+  <button class="cat-btn" onclick="filterCat(this)">Previstos</button>
+  <button class="cat-btn" onclick="filterCat(this)">Reviews</button>
+  <button class="cat-btn" onclick="filterCat(this)">Notícias</button>
+  <button class="cat-btn" onclick="filterCat(this)">Retrô</button>
+</div>
+
+<div class="cards-section">
+  <div class="wrapper">
+    <div class="cards-grid" id="ps-cards">
+
+      <div class="news-card" data-gen="ps5" data-cat="Notícias">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-new">Novo</span></div>
+          <div class="card-title">God of War: Valhalla Rising — primeiras imagens e data de lançamento</div>
+          <div class="card-excerpt">Santa Monica Studio revela o próximo God of War ambientado na mitologia egípcia, com lançamento previsto para 2027.</div>
+          <div class="card-meta"><span>5 mai 2026</span><span class="sep"></span><span>4 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="ps5" data-cat="Reviews">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-review">Review</span></div>
+          <div class="card-title">Demon's Souls Remake 2 — review: o soulslike perfeito chegou ao PS5</div>
+          <div class="card-excerpt">Nota 9.2. Bluepoint entrega um remake que supera o original em ambição e execução, redefinindo o gênero souls.</div>
+          <div class="card-meta"><span>2 mai 2026</span><span class="sep"></span><span>8 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="ps5" data-cat="Previstos">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-preview">Previsto</span></div>
+          <div class="card-title">Spider-Man 3 — Insomniac confirma desenvolvimento para PS5</div>
+          <div class="card-excerpt">Insomniac Games confirma que o terceiro capítulo de Spider-Man está em produção, com lançamento esperado para 2027.</div>
+          <div class="card-meta"><span>29 abr 2026</span><span class="sep"></span><span>3 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="ps4" data-cat="Retrô">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">PS4</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">PS4: os jogos que definiram uma geração de ouro da PlayStation</div>
+          <div class="card-excerpt">De Bloodborne a The Last of Us Part II, o PS4 teve o melhor catálogo de exclusivos da história da Sony.</div>
+          <div class="card-meta"><span>26 abr 2026</span><span class="sep"></span><span>8 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="psvita" data-cat="Retrô">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">PS Vita</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">PS Vita: o portátil incompreendido que merecia muito mais sucesso</div>
+          <div class="card-excerpt">Hardware incrível, catálogo surpreendente e suporte mínimo da Sony. Revisitamos os melhores jogos do Vita.</div>
+          <div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>6 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="portal" data-cat="Notícias">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">PlayStation Portal</span><span class="badge badge-new">Atualização</span></div>
+          <div class="card-title">PlayStation Portal recebe suporte a jogos em nuvem sem PS5</div>
+          <div class="card-excerpt">Sony expande as capacidades do Portal, permitindo jogar via cloud streaming sem precisar de um PS5 em casa.</div>
+          <div class="card-meta"><span>3 mai 2026</span><span class="sep"></span><span>3 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="psp" data-cat="Retrô">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">PSP</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">Os 15 melhores jogos do PSP — o portátil que revolucionou o mercado</div>
+          <div class="card-excerpt">De God of War: Chains of Olympus a Crisis Core, o PSP teve um catálogo digno de console doméstico.</div>
+          <div class="card-meta"><span>18 abr 2026</span><span class="sep"></span><span>6 min</span></div>
+        </div>
+      </div>
+
+      <div class="news-card" data-gen="ps1" data-cat="Retrô">
+        <div class="card-stripe ps"></div>
+        <div class="card-body">
+          <div class="card-tags"><span class="tag tag-gen">PS1</span><span class="badge badge-retro">Retrô</span></div>
+          <div class="card-title">PS1: como o PlayStation original mudou os games para sempre</div>
+          <div class="card-excerpt">30 anos depois, revisitamos o impacto histórico do PlayStation original e os títulos que moldaram toda a indústria.</div>
+          <div class="card-meta"><span>15 abr 2026</span><span class="sep"></span><span>9 min</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<footer id="site-footer"></footer>
+<script src="shared.js"></script>
+<script>
+  renderHeader('ps');
+  renderFooter();
+</script>
+</body>
+</html>

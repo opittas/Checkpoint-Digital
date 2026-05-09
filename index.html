@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Checkpoint Digital — Blog de Games</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  /* ── HOME HERO ── */
+  .hero {
+    background: linear-gradient(135deg, #f0f9ff 0%, #faf5ff 50%, #fff1f2 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 48px 0 40px;
+  }
+  .hero-inner {
+    max-width: 1100px; margin: 0 auto; padding: 0 24px;
+    display: grid; grid-template-columns: 1fr 340px; gap: 32px; align-items: start;
+  }
+  .hero-tag {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: var(--ps-light); color: var(--ps);
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 1px; padding: 4px 10px; border-radius: 20px; margin-bottom: 14px;
+  }
+  .hero-tag .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ps); }
+  .hero-title { font-size: 28px; font-weight: 700; line-height: 1.3; color: var(--text); margin-bottom: 12px; }
+  .hero-meta { font-size: 13px; color: var(--text2); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+
+  /* ── SIDE NEWS ── */
+  .side-news { display: flex; flex-direction: column; gap: 0; }
+  .side-news-title { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--text3); margin-bottom: 12px; }
+  .side-item { padding: 12px 0; border-bottom: 1px solid var(--border); cursor: pointer; transition: opacity 0.15s; }
+  .side-item:last-child { border-bottom: none; }
+  .side-item:hover { opacity: 0.7; }
+  .side-item-plat { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 4px; }
+  .side-item-plat.xbox  { color: var(--xbox); }
+  .side-item-plat.ps    { color: var(--ps); }
+  .side-item-plat.nin   { color: var(--nin); }
+  .side-item-plat.steam { color: var(--steam); }
+  .side-item-title { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.4; margin-bottom: 3px; }
+  .side-item-date  { font-size: 11px; color: var(--text3); }
+
+  /* ── HOME PLATFORM SECTIONS ── */
+  .home-sections { padding: 40px 0; }
+  .home-plat-section { margin-bottom: 40px; }
+  .home-plat-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid var(--border); }
+  .home-plat-name { font-size: 18px; font-weight: 700; display: flex; align-items: center; gap: 10px; }
+  .plat-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .plat-dot.xbox  { background: var(--xbox); }
+  .plat-dot.ps    { background: var(--ps); }
+  .plat-dot.nin   { background: var(--nin); }
+  .plat-dot.steam { background: var(--steam); }
+  .see-all-btn {
+    font-size: 12px; font-weight: 600; color: var(--text2);
+    background: none; border: 1px solid var(--border);
+    padding: 4px 12px; border-radius: 6px; cursor: pointer; transition: all 0.15s;
+    text-decoration: none;
+  }
+  .see-all-btn:hover { border-color: var(--text3); color: var(--text); }
+  .see-all-btn.xbox  { color: var(--xbox);  border-color: var(--xbox); }
+  .see-all-btn.ps    { color: var(--ps);    border-color: var(--ps); }
+  .see-all-btn.nin   { color: var(--nin);   border-color: var(--nin); }
+  .see-all-btn.steam { color: var(--steam); border-color: var(--steam); }
+
+  @media (max-width: 768px) {
+    .hero-inner { grid-template-columns: 1fr; }
+    .side-news  { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<!-- ── HERO ── -->
+<div class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="hero-tag"><span class="dot"></span> PlayStation 5 · Destaque</div>
+      <h1 class="hero-title">GTA VI — Data de lançamento confirmada para PS5 e Xbox Series X/S</h1>
+      <div class="hero-meta">
+        <span>7 mai 2026</span>
+        <span style="width:3px;height:3px;border-radius:50%;background:#9ca3af;display:inline-block"></span>
+        <span>4 min de leitura</span>
+        <span class="badge badge-new">Novo</span>
+      </div>
+      <p style="margin-top:16px;font-size:14px;color:#6b7280;line-height:1.7;max-width:560px">
+        A Rockstar Games confirmou oficialmente a janela de lançamento de GTA VI para outono de 2026, com versões para PS5 e Xbox Series X/S.
+      </p>
+      <a href="playstation.html" style="display:inline-block;margin-top:18px;background:#2563eb;color:#fff;padding:10px 22px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none">Ver mais no PlayStation →</a>
+    </div>
+    <aside class="side-news">
+      <div class="side-news-title">Últimas notícias</div>
+      <a href="xbox.html" style="text-decoration:none">
+        <div class="side-item"><div class="side-item-plat xbox">Xbox Series</div><div class="side-item-title">Halo: New Era revelado com trailer de gameplay</div><div class="side-item-date">3 mai 2026</div></div>
+      </a>
+      <a href="nintendo.html" style="text-decoration:none">
+        <div class="side-item"><div class="side-item-plat nin">Switch 2</div><div class="side-item-title">Switch 2 já tem 14 jogos confirmados para lançamento</div><div class="side-item-date">2 mai 2026</div></div>
+      </a>
+      <a href="steam.html" style="text-decoration:none">
+        <div class="side-item"><div class="side-item-plat steam">Steam</div><div class="side-item-title">Steam Deck recebe nova atualização de firmware</div><div class="side-item-date">1 mai 2026</div></div>
+      </a>
+      <a href="nintendo.html" style="text-decoration:none">
+        <div class="side-item"><div class="side-item-plat nin">Nintendo Switch</div><div class="side-item-title">Metroid Prime 4: Beyond — review completo</div><div class="side-item-date">30 abr 2026</div></div>
+      </a>
+      <a href="playstation.html" style="text-decoration:none">
+        <div class="side-item"><div class="side-item-plat ps">PS5</div><div class="side-item-title">Sony anuncia novos jogos exclusivos para 2026</div><div class="side-item-date">29 abr 2026</div></div>
+      </a>
+    </aside>
+  </div>
+</div>
+
+<!-- ── HOME PLATFORM SECTIONS ── -->
+<div class="home-sections">
+  <div class="wrapper">
+
+    <div class="home-plat-section">
+      <div class="home-plat-header">
+        <div class="home-plat-name"><span class="plat-dot xbox"></span> Xbox</div>
+        <a class="see-all-btn xbox" href="xbox.html">Ver tudo →</a>
+      </div>
+      <div class="cards-grid">
+        <div class="news-card"><div class="card-stripe xbox"></div><div class="card-body"><div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="badge badge-new">Novo</span></div><div class="card-title">Halo: New Era — Microsoft revela o próximo capítulo da saga</div><div class="card-excerpt">Trailer de gameplay mostrou ambientes abertos, novo protagonista e modo cooperativo para 4 jogadores.</div><div class="card-meta"><span>3 mai 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe xbox"></div><div class="card-body"><div class="card-tags"><span class="tag tag-xbox">Project Helix</span><span class="badge badge-preview">Previsto</span></div><div class="card-title">Project Helix: tudo que sabemos sobre o próximo console Xbox</div><div class="card-excerpt">Microsoft confirma retrocompatibilidade total com todas as gerações e lançamento previsto para 2027.</div><div class="card-meta"><span>28 abr 2026</span><span class="sep"></span><span>5 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe xbox"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">Xbox 360</span><span class="badge badge-retro">Retrô</span></div><div class="card-title">Os 10 melhores jogos do Xbox 360 que resistem ao tempo</div><div class="card-excerpt">De Red Dead Redemption a Mass Effect 2, revisitamos a geração que definiu os games modernos.</div><div class="card-meta"><span>25 abr 2026</span><span class="sep"></span><span>7 min</span></div></div></div>
+      </div>
+    </div>
+
+    <div class="home-plat-section">
+      <div class="home-plat-header">
+        <div class="home-plat-name"><span class="plat-dot ps"></span> PlayStation</div>
+        <a class="see-all-btn ps" href="playstation.html">Ver tudo →</a>
+      </div>
+      <div class="cards-grid">
+        <div class="news-card"><div class="card-stripe ps"></div><div class="card-body"><div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-new">Novo</span></div><div class="card-title">God of War: Valhalla Rising — primeiras imagens reveladas</div><div class="card-excerpt">Santa Monica Studio surpreende com anúncio do próximo God of War, prometendo explorar a mitologia egípcia.</div><div class="card-meta"><span>5 mai 2026</span><span class="sep"></span><span>4 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe ps"></div><div class="card-body"><div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-review">Review</span></div><div class="card-title">Demon's Souls Remake 2 — review: uma obra-prima da dificuldade</div><div class="card-excerpt">Nota 9.2. Bluepoint volta com um dos remakes mais ambiciosos da geração, redefinindo o gênero souls.</div><div class="card-meta"><span>2 mai 2026</span><span class="sep"></span><span>8 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe ps"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">PS Vita</span><span class="badge badge-retro">Retrô</span></div><div class="card-title">PS Vita: por que o portátil da Sony merece ser lembrado</div><div class="card-excerpt">Um hardware incrível que não recebeu o suporte que merecia. Revisitamos os jogos que definiram o Vita.</div><div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>6 min</span></div></div></div>
+      </div>
+    </div>
+
+    <div class="home-plat-section">
+      <div class="home-plat-header">
+        <div class="home-plat-name"><span class="plat-dot nin"></span> Nintendo</div>
+        <a class="see-all-btn nin" href="nintendo.html">Ver tudo →</a>
+      </div>
+      <div class="cards-grid">
+        <div class="news-card"><div class="card-stripe nin"></div><div class="card-body"><div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-new">Novo</span></div><div class="card-title">Zelda: Echoes of Time — trailer oficial e data de lançamento</div><div class="card-excerpt">O novo capítulo da saga Zelda foi revelado com mecânicas de viagem no tempo e mundo aberto expandido.</div><div class="card-meta"><span>4 mai 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe nin"></div><div class="card-body"><div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-preview">Previsto</span></div><div class="card-title">Mario Odyssey 2 — vazamentos apontam para lançamento em 2026</div><div class="card-excerpt">Fontes internas indicam que o próximo Mario 3D está em desenvolvimento avançado para o Switch 2.</div><div class="card-meta"><span>30 abr 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe nin"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">GameCube</span><span class="badge badge-retro">Retrô</span></div><div class="card-title">GameCube: os 15 jogos essenciais do cubo roxo da Nintendo</div><div class="card-excerpt">De Metroid Prime a Resident Evil 4, o GameCube teve um catálogo secretamente incrível. Relembre os clássicos.</div><div class="card-meta"><span>27 abr 2026</span><span class="sep"></span><span>6 min</span></div></div></div>
+      </div>
+    </div>
+
+    <div class="home-plat-section">
+      <div class="home-plat-header">
+        <div class="home-plat-name"><span class="plat-dot steam"></span> Steam / PC</div>
+        <a class="see-all-btn steam" href="steam.html">Ver tudo →</a>
+      </div>
+      <div class="cards-grid">
+        <div class="news-card"><div class="card-stripe steam"></div><div class="card-body"><div class="card-tags"><span class="tag tag-steam">Steam Deck</span><span class="badge badge-new">Novo</span></div><div class="card-title">Steam Deck recebe nova atualização com melhorias de desempenho</div><div class="card-excerpt">Valve lança firmware 3.7 com suporte expandido a jogos AAA e melhorias na gestão de bateria.</div><div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe steam"></div><div class="card-body"><div class="card-tags"><span class="tag tag-steam">Windows</span><span class="badge badge-review">Review</span></div><div class="card-title">Elden Ring: Shadow of the Erdtree — review da expansão definitiva</div><div class="card-excerpt">Nota 9.5. FromSoftware entrega o DLC mais ambicioso da história dos games, com 50+ horas de conteúdo.</div><div class="card-meta"><span>26 abr 2026</span><span class="sep"></span><span>10 min</span></div></div></div>
+        <div class="news-card"><div class="card-stripe steam"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">Linux</span><span class="badge badge-preview">Guia</span></div><div class="card-title">Como rodar jogos Windows no Linux em 2026 — guia completo</div><div class="card-excerpt">Com Proton e Wine cada vez melhores, jogar no Linux nunca foi tão fácil. Confira o guia atualizado.</div><div class="card-meta"><span>24 abr 2026</span><span class="sep"></span><span>8 min</span></div></div></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<footer id="site-footer"></footer>
+
+<script src="shared.js"></script>
+<script>
+  renderHeader('home');
+  renderFooter();
+</script>
+</body>
+</html>

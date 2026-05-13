@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Steam / PC — Checkpoint Digital</title>
 <link rel="stylesheet" href="shared.css">
+<style>
+  .cards-loading { text-align:center; padding:60px 24px; color:var(--text3); grid-column:1/-1; }
+  .cards-loading .spinner {
+    width:32px; height:32px; border-radius:50%;
+    border:3px solid var(--border); border-top-color:#1b2838;
+    animation:spin 0.7s linear infinite; margin:0 auto 12px;
+  }
+  @keyframes spin { to { transform:rotate(360deg); } }
+</style>
 </head>
 <body>
 
@@ -35,87 +44,7 @@
 <div class="cards-section">
   <div class="wrapper">
     <div class="cards-grid" id="steam-cards">
-
-      <div class="news-card" data-gen="deck" data-cat="Notícias">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">Steam Deck</span><span class="badge badge-new">Novo</span></div>
-          <div class="card-title">Steam Deck recebe firmware 3.7 com melhorias de desempenho e bateria</div>
-          <div class="card-excerpt">Valve lança nova atualização com suporte expandido a títulos AAA, melhor gestão de energia e novo modo de baixo consumo.</div>
-          <div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="windows" data-cat="Reviews">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">Windows</span><span class="badge badge-review">Review</span></div>
-          <div class="card-title">Elden Ring: Shadow of the Erdtree — o DLC que redefiniu o gênero</div>
-          <div class="card-excerpt">Nota 9.5. FromSoftware entrega uma expansão maior que muitos jogos completos, com 50+ horas de conteúdo inédito.</div>
-          <div class="card-meta"><span>26 abr 2026</span><span class="sep"></span><span>10 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="linux" data-cat="Guias">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">Linux</span><span class="badge badge-preview">Guia</span></div>
-          <div class="card-title">Como rodar jogos Windows no Linux em 2026 — guia completo e atualizado</div>
-          <div class="card-excerpt">Com Proton 9.0 e Wine 9.x, a compatibilidade de jogos no Linux nunca foi tão boa. Veja como configurar tudo.</div>
-          <div class="card-meta"><span>24 abr 2026</span><span class="sep"></span><span>8 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="windows" data-cat="Previstos">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">Windows</span><span class="badge badge-preview">Previsto</span></div>
-          <div class="card-title">GTA VI para PC — Rockstar confirma lançamento para 2027</div>
-          <div class="card-excerpt">Seguindo a tradição da empresa, GTA VI chegará ao PC aproximadamente 12 meses após o lançamento nos consoles.</div>
-          <div class="card-meta"><span>7 mai 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="deck" data-cat="Guias">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">Steam Deck</span></div>
-          <div class="card-title">Os 20 melhores jogos verificados para Steam Deck em 2026</div>
-          <div class="card-excerpt">De Hades II a Cyberpunk 2077, selecionamos os títulos com melhor desempenho e experiência no Steam Deck.</div>
-          <div class="card-meta"><span>20 abr 2026</span><span class="sep"></span><span>6 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="macos" data-cat="Notícias">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">macOS</span></div>
-          <div class="card-title">Apple Game Porting Toolkit 3.0 chega com suporte a DX12 aprimorado</div>
-          <div class="card-excerpt">A Apple lança nova versão do toolkit que permite portar jogos Windows para Mac com maior compatibilidade e desempenho.</div>
-          <div class="card-meta"><span>22 abr 2026</span><span class="sep"></span><span>4 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="windows" data-cat="Lançamentos">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">Windows</span><span class="badge badge-new">Lançamento</span></div>
-          <div class="card-title">Hollow Knight: Silksong finalmente tem data de lançamento confirmada</div>
-          <div class="card-excerpt">Team Cherry anuncia Hollow Knight: Silksong para junho de 2026, um dos jogos mais aguardados da história do Steam.</div>
-          <div class="card-meta"><span>18 abr 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="deck" data-cat="Reviews">
-        <div class="card-stripe steam"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-steam">Steam Deck</span><span class="badge badge-review">Review</span></div>
-          <div class="card-title">Steam Deck OLED 2 — review: o portátil PC definitivo chegou</div>
-          <div class="card-excerpt">Nota 9.3. Valve aprimora o Deck com tela OLED maior, bateria melhorada e processador mais eficiente.</div>
-          <div class="card-meta"><span>10 abr 2026</span><span class="sep"></span><span>7 min</span></div>
-        </div>
-      </div>
-
+      <div class="cards-loading"><div class="spinner"></div>Carregando notícias…</div>
     </div>
   </div>
 </div>
@@ -125,6 +54,86 @@
 <script>
   renderHeader('steam');
   renderFooter();
+
+  const GEN_LABELS = {
+    'deck':'Steam Deck','windows':'Windows','macos':'macOS','linux':'Linux'
+  };
+  const CAT_BADGE = {
+    'Notícias':'badge-new','Lançamentos':'badge-new',
+    'Previstos':'badge-preview','Reviews':'badge-review',
+    'Retrô':'badge-retro','Guias':'badge-preview'
+  };
+
+  let allCards = [];
+
+  async function loadArticles() {
+    try {
+      const res = await fetch(
+        `${SUPA_URL}/rest/v1/articles?platform=eq.steam&select=id,title,excerpt,title_en,excerpt_en,category,gen,published_at,read_time,image_url&order=published_at.desc`,
+        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
+      );
+      const arts = await res.json();
+      allCards = arts;
+      renderCards(arts);
+    } catch(e) {
+      document.getElementById('steam-cards').innerHTML =
+        `<div class="cards-loading" style="color:#dc2626">⚠️ Erro ao carregar notícias.</div>`;
+    }
+  }
+
+  const isEN = getLang() === 'en';
+
+  function renderCards(arts) {
+    const grid = document.getElementById('steam-cards');
+    if (!arts.length) {
+      grid.innerHTML = `<div class="cards-loading">${isEN ? 'No news found.' : 'Nenhuma notícia encontrada.'}</div>`;
+      return;
+    }
+    const locale = isEN ? 'en-US' : 'pt-BR';
+    grid.innerHTML = arts.map(a => {
+      const genLabel = GEN_LABELS[a.gen] || 'PC';
+      const catBadge = CAT_BADGE[a.category] || 'badge-new';
+      const date = new Date(a.published_at).toLocaleDateString(locale,{day:'2-digit',month:'short',year:'numeric'});
+      const cardTitle   = (isEN && a.title_en)   ? a.title_en   : a.title;
+      const cardExcerpt = (isEN && a.excerpt_en) ? a.excerpt_en : a.excerpt;
+      const imgHtml = a.image_url
+        ? `<img src="${a.image_url}" alt="${cardTitle}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-fallback steam\\'>⚫</div>'">`
+        : `<div class="card-img-fallback steam">⚫</div>`;
+      return `
+        <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="steam" data-gen="${a.gen||'all'}" data-cat="${a.category}" style="text-decoration:none">
+          <div class="card-img-wrap">
+            ${imgHtml}
+            <div class="card-hover-overlay"><div class="card-hover-excerpt">${cardExcerpt}</div></div>
+          </div>
+          <div class="card-body">
+            <div class="card-tags">
+              <span class="tag tag-steam">${genLabel}</span>
+              <span class="badge ${catBadge}">${a.category}</span>
+            </div>
+            <div class="card-title">${cardTitle}</div>
+            <div class="card-meta"><span>${date}</span><span class="sep"></span><span>${a.read_time||'3 min'}</span></div>
+          </div>
+        </a>`;
+    }).join('');
+  }
+
+  window.filterGen = function(btn, plat) {
+    document.querySelectorAll('#steam-gens .gen-btn').forEach(b => { b.className = 'gen-btn'; });
+    btn.classList.add('active-steam');
+    const gen = btn.dataset.gen;
+    renderCards(gen === 'all' ? allCards : allCards.filter(a => a.gen === gen));
+  };
+
+  window.addEventListener('DOMContentLoaded', () => {
+    if (isEN) {
+      document.querySelector('#steam-gens [data-gen="all"]').textContent = 'All platforms';
+      document.querySelectorAll('.cat-btn').forEach(b => {
+        const map = {'Tudo':'All','Lançamentos':'Releases','Previstos':'Upcoming','Reviews':'Reviews','Notícias':'News','Retrô':'Retro'};
+        if (map[b.textContent]) b.textContent = map[b.textContent];
+      });
+    }
+    loadArticles();
+  });
 </script>
 </body>
 </html>

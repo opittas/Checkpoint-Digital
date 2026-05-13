@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Nintendo — Checkpoint Digital</title>
 <link rel="stylesheet" href="shared.css">
+<style>
+  .cards-loading { text-align:center; padding:60px 24px; color:var(--text3); grid-column:1/-1; }
+  .cards-loading .spinner {
+    width:32px; height:32px; border-radius:50%;
+    border:3px solid var(--border); border-top-color:#e60012;
+    animation:spin 0.7s linear infinite; margin:0 auto 12px;
+  }
+  @keyframes spin { to { transform:rotate(360deg); } }
+</style>
 </head>
 <body>
 
@@ -40,87 +49,7 @@
 <div class="cards-section">
   <div class="wrapper">
     <div class="cards-grid" id="nin-cards">
-
-      <div class="news-card" data-gen="switch2" data-cat="Notícias">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-new">Novo</span></div>
-          <div class="card-title">Zelda: Echoes of Time — data de lançamento e novo trailer revelados</div>
-          <div class="card-excerpt">Nintendo confirma Zelda: Echoes of Time para setembro de 2026 no Switch 2, com mecânicas inéditas de manipulação do tempo.</div>
-          <div class="card-meta"><span>4 mai 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="switch2" data-cat="Reviews">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-review">Review</span></div>
-          <div class="card-title">Metroid Prime 4: Beyond — review: a melhor aventura espacial do Switch 2</div>
-          <div class="card-excerpt">Nota 9.6. Retro Studios entrega uma obra-prima que ressuscita Samus com gráficos impressionantes e gameplay viciante.</div>
-          <div class="card-meta"><span>30 abr 2026</span><span class="sep"></span><span>9 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="switch2" data-cat="Previstos">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-preview">Previsto</span></div>
-          <div class="card-title">Mario Odyssey 2 — vazamentos apontam para novembro de 2026</div>
-          <div class="card-excerpt">Fontes internas e registros de patente da Nintendo sugerem que o próximo Mario 3D está em produção avançada.</div>
-          <div class="card-meta"><span>30 abr 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="switch2" data-cat="Notícias">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-nin">Switch 2</span></div>
-          <div class="card-title">Switch 2 — os 14 jogos confirmados para o lançamento do console</div>
-          <div class="card-excerpt">Nintendo revela o line-up completo de lançamento do Switch 2, com destaque para Mario Kart World e Kirby's Return.</div>
-          <div class="card-meta"><span>2 mai 2026</span><span class="sep"></span><span>4 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="gamecube" data-cat="Retrô">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">GameCube</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">GameCube: os 15 jogos essenciais do cubo roxo da Nintendo</div>
-          <div class="card-excerpt">De Metroid Prime a Resident Evil 4 e Wind Waker, o GameCube teve um catálogo secretamente incrível.</div>
-          <div class="card-meta"><span>27 abr 2026</span><span class="sep"></span><span>6 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="switch" data-cat="Retrô">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">Nintendo Switch</span><span class="badge badge-retro">Especial</span></div>
-          <div class="card-title">Nintendo Switch: legado de um console que mudou a forma de jogar</div>
-          <div class="card-excerpt">Com mais de 140 milhões de unidades vendidas, o Switch se consolida como um dos maiores consoles da história.</div>
-          <div class="card-meta"><span>20 abr 2026</span><span class="sep"></span><span>7 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="nes" data-cat="Retrô">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">NES</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">NES: 40 anos do console que salvou a indústria dos games</div>
-          <div class="card-excerpt">Em 1985, o Nintendo Entertainment System ressuscitou um mercado em colapso e criou franquias que existem até hoje.</div>
-          <div class="card-meta"><span>15 abr 2026</span><span class="sep"></span><span>8 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="3ds" data-cat="Retrô">
-        <div class="card-stripe nin"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">3DS</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">Nintendo 3DS: o portátil que durou mais de uma década</div>
-          <div class="card-excerpt">Com suporte até 2020, o 3DS foi o console de maior longevidade da Nintendo. Revisitamos sua trajetória completa.</div>
-          <div class="card-meta"><span>12 abr 2026</span><span class="sep"></span><span>6 min</span></div>
-        </div>
-      </div>
-
+      <div class="cards-loading"><div class="spinner"></div>Carregando notícias…</div>
     </div>
   </div>
 </div>
@@ -130,6 +59,87 @@
 <script>
   renderHeader('nin');
   renderFooter();
+
+  const GEN_LABELS = {
+    'nes':'NES','snes':'SNES','gamecube':'GameCube','wii':'Wii',
+    'ds':'DS','3ds':'3DS','wiiu':'Wii U','switch':'Switch','switch2':'Switch 2'
+  };
+  const CAT_BADGE = {
+    'Notícias':'badge-new','Lançamentos':'badge-new',
+    'Previstos':'badge-preview','Reviews':'badge-review',
+    'Retrô':'badge-retro','Guias':'badge-preview'
+  };
+
+  let allCards = [];
+
+  async function loadArticles() {
+    try {
+      const res = await fetch(
+        `${SUPA_URL}/rest/v1/articles?platform=eq.nin&select=id,title,excerpt,title_en,excerpt_en,category,gen,published_at,read_time,image_url&order=published_at.desc`,
+        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
+      );
+      const arts = await res.json();
+      allCards = arts;
+      renderCards(arts);
+    } catch(e) {
+      document.getElementById('nin-cards').innerHTML =
+        `<div class="cards-loading" style="color:#dc2626">⚠️ Erro ao carregar notícias.</div>`;
+    }
+  }
+
+  const isEN = getLang() === 'en';
+
+  function renderCards(arts) {
+    const grid = document.getElementById('nin-cards');
+    if (!arts.length) {
+      grid.innerHTML = `<div class="cards-loading">${isEN ? 'No news found.' : 'Nenhuma notícia encontrada.'}</div>`;
+      return;
+    }
+    const locale = isEN ? 'en-US' : 'pt-BR';
+    grid.innerHTML = arts.map(a => {
+      const genLabel = GEN_LABELS[a.gen] || 'Nintendo';
+      const catBadge = CAT_BADGE[a.category] || 'badge-new';
+      const date = new Date(a.published_at).toLocaleDateString(locale,{day:'2-digit',month:'short',year:'numeric'});
+      const cardTitle   = (isEN && a.title_en)   ? a.title_en   : a.title;
+      const cardExcerpt = (isEN && a.excerpt_en) ? a.excerpt_en : a.excerpt;
+      const imgHtml = a.image_url
+        ? `<img src="${a.image_url}" alt="${cardTitle}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-fallback nin\\'>🔴</div>'">`
+        : `<div class="card-img-fallback nin">🔴</div>`;
+      return `
+        <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="nin" data-gen="${a.gen||'all'}" data-cat="${a.category}" style="text-decoration:none">
+          <div class="card-img-wrap">
+            ${imgHtml}
+            <div class="card-hover-overlay"><div class="card-hover-excerpt">${cardExcerpt}</div></div>
+          </div>
+          <div class="card-body">
+            <div class="card-tags">
+              <span class="tag tag-nin">${genLabel}</span>
+              <span class="badge ${catBadge}">${a.category}</span>
+            </div>
+            <div class="card-title">${cardTitle}</div>
+            <div class="card-meta"><span>${date}</span><span class="sep"></span><span>${a.read_time||'3 min'}</span></div>
+          </div>
+        </a>`;
+    }).join('');
+  }
+
+  window.filterGen = function(btn, plat) {
+    document.querySelectorAll('#nin-gens .gen-btn').forEach(b => { b.className = 'gen-btn'; });
+    btn.classList.add('active-nin');
+    const gen = btn.dataset.gen;
+    renderCards(gen === 'all' ? allCards : allCards.filter(a => a.gen === gen));
+  };
+
+  window.addEventListener('DOMContentLoaded', () => {
+    if (isEN) {
+      document.querySelector('#nin-gens [data-gen="all"]').textContent = 'All generations';
+      document.querySelectorAll('.cat-btn').forEach(b => {
+        const map = {'Tudo':'All','Lançamentos':'Releases','Previstos':'Upcoming','Reviews':'Reviews','Notícias':'News','Retrô':'Retro'};
+        if (map[b.textContent]) b.textContent = map[b.textContent];
+      });
+    }
+    loadArticles();
+  });
 </script>
 </body>
 </html>

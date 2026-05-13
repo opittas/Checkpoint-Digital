@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Xbox — Checkpoint Digital</title>
 <link rel="stylesheet" href="shared.css">
+<style>
+  .cards-loading { text-align:center; padding:60px 24px; color:var(--text3); grid-column:1/-1; }
+  .cards-loading .spinner {
+    width:32px; height:32px; border-radius:50%;
+    border:3px solid var(--border); border-top-color:#107c10;
+    animation:spin 0.7s linear infinite; margin:0 auto 12px;
+  }
+  @keyframes spin { to { transform:rotate(360deg); } }
+</style>
 </head>
 <body>
 
@@ -17,13 +26,13 @@
       <button class="gen-btn active-xbox" data-gen="all"        data-plat="xbox" onclick="filterGen(this,'xbox')">Todas as gerações</button>
       <button class="gen-btn"             data-gen="xbox360"    data-plat="xbox" onclick="filterGen(this,'xbox')">Xbox 360</button>
       <button class="gen-btn"             data-gen="xboxone"    data-plat="xbox" onclick="filterGen(this,'xbox')">Xbox One</button>
-      <button class="gen-btn"             data-gen="xboxseries" data-plat="xbox" onclick="filterGen(this,'xbox')">Xbox Series S/X</button>
+      <button class="gen-btn"             data-gen="series-x"   data-plat="xbox" onclick="filterGen(this,'xbox')">Xbox Series S/X</button>
       <button class="gen-btn"             data-gen="helix"      data-plat="xbox" onclick="filterGen(this,'xbox')">Project Helix</button>
     </div>
   </div>
 </div>
 
-<div class="cat-filter">
+<div class="cat-filter" id="cat-filter-xbox">
   <button class="cat-btn active" onclick="filterCat(this)">Tudo</button>
   <button class="cat-btn" onclick="filterCat(this)">Lançamentos</button>
   <button class="cat-btn" onclick="filterCat(this)">Previstos</button>
@@ -35,87 +44,7 @@
 <div class="cards-section">
   <div class="wrapper">
     <div class="cards-grid" id="xbox-cards">
-
-      <div class="news-card" data-gen="xboxseries" data-cat="Notícias">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="badge badge-new">Novo</span></div>
-          <div class="card-title">Halo: New Era — trailer oficial revela novo protagonista e mundo aberto</div>
-          <div class="card-excerpt">Microsoft e 343 Industries revelam o próximo capítulo da saga Halo com gameplay inédito, co-op para 4 jogadores e ambientes abertos nunca vistos na franquia.</div>
-          <div class="card-meta"><span>3 mai 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="helix" data-cat="Previstos">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-xbox">Project Helix</span><span class="badge badge-preview">Previsto</span></div>
-          <div class="card-title">Project Helix: Microsoft confirma retrocompatibilidade total e lançamento em 2027</div>
-          <div class="card-excerpt">O próximo console Xbox rodará jogos de todas as gerações anteriores, do Xbox original ao Xbox Series, sem emulação adicional.</div>
-          <div class="card-meta"><span>28 abr 2026</span><span class="sep"></span><span>5 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="xboxseries" data-cat="Reviews">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="badge badge-review">Review</span></div>
-          <div class="card-title">Forza Motorsport 2026 — review: simulação automotiva elevada a novo nível</div>
-          <div class="card-excerpt">Nota 9.1. Turn 10 entrega o jogo de corrida mais completo da geração, com física aprimorada e 800+ carros.</div>
-          <div class="card-meta"><span>20 abr 2026</span><span class="sep"></span><span>7 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="xboxseries" data-cat="Lançamentos">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="tag tag-xbox">PC</span><span class="badge badge-new">Lançamento</span></div>
-          <div class="card-title">Forza Horizon 6 chega em junho de 2026 com mapa ambientado no Japão</div>
-          <div class="card-excerpt">Playground Games confirma Japão como cenário do próximo Forza Horizon, com mais de 600 km² de área explorável.</div>
-          <div class="card-meta"><span>15 abr 2026</span><span class="sep"></span><span>4 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="xboxone" data-cat="Retrô">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">Xbox One</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">Os 10 exclusivos do Xbox One que você precisa jogar antes de esquecer</div>
-          <div class="card-excerpt">De Sunset Overdrive a Quantum Break, revisitamos os exclusivos da era Xbox One que definiram uma geração.</div>
-          <div class="card-meta"><span>10 abr 2026</span><span class="sep"></span><span>6 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="xbox360" data-cat="Retrô">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">Xbox 360</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">Os 10 melhores jogos do Xbox 360 que resistem ao tempo</div>
-          <div class="card-excerpt">De Red Dead Redemption a Mass Effect 2, revisitamos a geração que definiu os games modernos e moldou a indústria.</div>
-          <div class="card-meta"><span>25 abr 2026</span><span class="sep"></span><span>7 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="xboxseries" data-cat="Notícias">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-xbox">Xbox Series</span></div>
-          <div class="card-title">Game Pass recebe 12 novos jogos em maio, incluindo títulos do dia 1</div>
-          <div class="card-excerpt">Microsoft anuncia a linha-up do Game Pass para maio com destaque para Halo: New Era disponível no lançamento.</div>
-          <div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>2 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="helix" data-cat="Notícias">
-        <div class="card-stripe xbox"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-xbox">Project Helix</span><span class="badge badge-preview">Especulação</span></div>
-          <div class="card-title">Project Helix pode custar US$ 499 e incluir controle com bateria recarregável</div>
-          <div class="card-excerpt">Analistas e vazamentos apontam para preço competitivo e novo controle com bateria integrada e haptic feedback.</div>
-          <div class="card-meta"><span>22 abr 2026</span><span class="sep"></span><span>4 min</span></div>
-        </div>
-      </div>
-
+      <div class="cards-loading"><div class="spinner"></div>Carregando notícias…</div>
     </div>
   </div>
 </div>
@@ -125,6 +54,91 @@
 <script>
   renderHeader('xbox');
   renderFooter();
+
+  const GEN_LABELS = {
+    'xbox360':'Xbox 360', 'xboxone':'Xbox One',
+    'series-x':'Xbox Series', 'helix':'Project Helix'
+  };
+
+  const CAT_BADGE = {
+    'Notícias':'badge-new','Lançamentos':'badge-new',
+    'Previstos':'badge-preview','Reviews':'badge-review',
+    'Retrô':'badge-retro','Guias':'badge-preview'
+  };
+
+  let allCards = [];
+
+  async function loadArticles() {
+    try {
+      const res = await fetch(
+        `${SUPA_URL}/rest/v1/articles?platform=eq.xbox&select=id,title,excerpt,title_en,excerpt_en,category,gen,published_at,read_time,image_url&order=published_at.desc`,
+        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
+      );
+      const arts = await res.json();
+      allCards = arts;
+      renderCards(arts);
+    } catch(e) {
+      document.getElementById('xbox-cards').innerHTML =
+        `<div class="cards-loading" style="color:#dc2626">⚠️ Erro ao carregar notícias.</div>`;
+    }
+  }
+
+  const isEN = getLang() === 'en';
+
+  function renderCards(arts) {
+    const grid = document.getElementById('xbox-cards');
+    if (!arts.length) {
+      grid.innerHTML = `<div class="cards-loading">${isEN ? 'No news found.' : 'Nenhuma notícia encontrada.'}</div>`;
+      return;
+    }
+    const locale = isEN ? 'en-US' : 'pt-BR';
+    grid.innerHTML = arts.map(a => {
+      const genLabel = GEN_LABELS[a.gen] || 'Xbox';
+      const catBadge = CAT_BADGE[a.category] || 'badge-new';
+      const date = new Date(a.published_at).toLocaleDateString(locale,{day:'2-digit',month:'short',year:'numeric'});
+      const cardTitle   = (isEN && a.title_en)   ? a.title_en   : a.title;
+      const cardExcerpt = (isEN && a.excerpt_en) ? a.excerpt_en : a.excerpt;
+      const imgHtml = a.image_url
+        ? `<img src="${a.image_url}" alt="${cardTitle}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-fallback xbox\\'>🟢</div>'">`
+        : `<div class="card-img-fallback xbox">🟢</div>`;
+      return `
+        <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="xbox" data-gen="${a.gen||'all'}" data-cat="${a.category}" style="text-decoration:none">
+          <div class="card-img-wrap">
+            ${imgHtml}
+            <div class="card-hover-overlay"><div class="card-hover-excerpt">${cardExcerpt}</div></div>
+          </div>
+          <div class="card-body">
+            <div class="card-tags">
+              <span class="tag tag-xbox">${genLabel}</span>
+              <span class="badge ${catBadge}">${a.category}</span>
+            </div>
+            <div class="card-title">${cardTitle}</div>
+            <div class="card-meta"><span>${date}</span><span class="sep"></span><span>${a.read_time||'3 min'}</span></div>
+          </div>
+        </a>`;
+    }).join('');
+  }
+
+  // Sobrescreve filterGen para filtrar os dados do Supabase
+  window.filterGen = function(btn, plat) {
+    document.querySelectorAll(`#xbox-gens .gen-btn`).forEach(b => { b.className = 'gen-btn'; });
+    btn.classList.add('active-xbox');
+    const gen = btn.dataset.gen;
+    const filtered = gen === 'all' ? allCards : allCards.filter(a => a.gen === gen);
+    renderCards(filtered);
+  };
+
+  window.addEventListener('DOMContentLoaded', () => {
+    // Traduz filtros estáticos de UI
+    if (isEN) {
+      document.querySelector('#xbox-gens [data-gen="all"]').textContent = 'All generations';
+      document.querySelectorAll('.cat-btn').forEach(b => {
+        const map = {'Tudo':'All','Lançamentos':'Releases','Previstos':'Upcoming','Reviews':'Reviews','Notícias':'News','Retrô':'Retro'};
+        if (map[b.textContent]) b.textContent = map[b.textContent];
+      });
+    }
+    loadArticles();
+  });
 </script>
 </body>
 </html>

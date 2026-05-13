@@ -114,12 +114,15 @@
   renderHeader('ach');
   renderFooter();
 
+  const isEN = getLang() === 'en';
+
   // ════════════════════════════════════════════════════════
   // MAPA DE PÁGINAS: game_id → arquivo HTML na pasta /conquistas/
   // Ao criar a página de um novo jogo, adicione aqui.
   // ════════════════════════════════════════════════════════
   const GAME_PAGES = {
-    'eldenring':   'conquistas/elden-ring.html',
+    'eldenring':      'conquistas/elden-ring.html',
+    'doom-dark-ages': 'conquistas/doom-dark-ages.html',
     // 'gow':        'conquistas/god-of-war.html',
     // 'halo':       'conquistas/halo-infinite.html',
     // 'tlou':       'conquistas/tlou.html',
@@ -143,7 +146,7 @@
       document.getElementById('ach-games-grid').innerHTML =
         `<div class="games-loading" style="grid-column:1/-1;color:#dc2626">
           <div style="font-size:32px;margin-bottom:12px">⚠️</div>
-          Não foi possível carregar os jogos.
+          ${isEN ? 'Could not load games.' : 'Não foi possível carregar os jogos.'}
         </div>`;
     }
   }
@@ -152,10 +155,15 @@
     return d === 'Alta' ? 'diff-hard' : d === 'Fácil' ? 'diff-low' : 'diff-med';
   }
 
+  function diffLabel(d) {
+    if (!isEN) return d;
+    return d === 'Alta' ? 'High' : d === 'Fácil' ? 'Easy' : 'Medium';
+  }
+
   function buildPlatBadges(g) {
     let h = '';
     if (g.xbox_label)  h += `<span class="ach-plat-badge xbox-badge">🟢 ${g.xbox_label}</span>`;
-    if (g.ps_label)    h += `<span class="ach-plat-badge ps-badge">🔵 ${g.ps_label}</span>`;
+    if (g.ps_label)    h += `<span class="ach-plat-badge ps-badge">🔵 ${isEN && g.ps_label === 'Platina' ? 'Platinum' : g.ps_label}</span>`;
     if (g.nin_label)   h += `<span class="ach-plat-badge nin-badge">🔴 ${g.nin_label}</span>`;
     if (g.steam_label) h += `<span class="ach-plat-badge steam-badge">⚫ ${g.steam_label}</span>`;
     return h;
@@ -164,19 +172,21 @@
   function renderGameGrid(games) {
     const grid = document.getElementById('ach-games-grid');
     if (!games.length) {
-      grid.innerHTML = `<div class="games-loading" style="grid-column:1/-1">Nenhum jogo encontrado.</div>`;
+      grid.innerHTML = `<div class="games-loading" style="grid-column:1/-1">${isEN ? 'No games found.' : 'Nenhum jogo encontrado.'}</div>`;
       return;
     }
     grid.innerHTML = games.map(g => {
       const page = GAME_PAGES[g.id];
       const hasPage = !!page;
-      // Se o jogo tem página, vira link; senão é um card desabilitado
-      const tag  = hasPage ? 'a' : 'div';
-      const href = hasPage ? `href="${page}"` : '';
+      const tag    = hasPage ? 'a' : 'div';
+      const href   = hasPage ? `href="${page}"` : '';
       const cursor = hasPage ? '' : 'style="cursor:default;opacity:0.6"';
       const comingSoon = !hasPage
-        ? `<span class="no-page-badge">Guia em breve</span>`
-        : `<span style="font-size:11px;color:#7c3aed;font-weight:700">Ver guia →</span>`;
+        ? `<span class="no-page-badge">${isEN ? 'Guide coming soon' : 'Guia em breve'}</span>`
+        : `<span style="font-size:11px;color:#7c3aed;font-weight:700">${isEN ? 'View guide →' : 'Ver guia →'}</span>`;
+      const missableStr = g.missable_count > 0
+        ? ` · ${g.missable_count} ${isEN ? 'missable' : 'missáveis'}`
+        : '';
 
       return `
         <${tag} class="ach-game-card" ${href} ${cursor}>
@@ -188,8 +198,8 @@
             <div class="ach-game-dev">${g.developer} · ${g.release_year}</div>
             <div class="ach-game-plats">${buildPlatBadges(g)}</div>
             <div class="ach-game-meta">
-              <span class="ach-diff-badge ${diffClass(g.difficulty)}">${g.difficulty}</span>
-              <span style="color:var(--text3);font-size:12px">${g.hours_estimate}${g.missable_count > 0 ? ' · ' + g.missable_count + ' missáveis' : ''}</span>
+              <span class="ach-diff-badge ${diffClass(g.difficulty)}">${diffLabel(g.difficulty)}</span>
+              <span style="color:var(--text3);font-size:12px">${g.hours_estimate}${missableStr}</span>
               <span style="margin-left:auto">${comingSoon}</span>
             </div>
           </div>
@@ -200,11 +210,24 @@
   function filterGameList(plat) {
     activeFilter = plat;
     document.querySelectorAll('[id^="gl-filter-"]').forEach(b => b.classList.remove('active'));
-    document.getElementById('gl-filter-' + plat).classList.add('active');
+    document.getElementById('gl-filter-' + plat)?.classList.add('active');
     renderGameGrid(plat === 'all' ? allGames : allGames.filter(g => (g.platforms||[]).includes(plat)));
   }
 
-  window.addEventListener('DOMContentLoaded', fetchGames);
+  window.addEventListener('DOMContentLoaded', () => {
+    // Atualiza textos estáticos da UI
+    if (isEN) {
+      document.querySelector('.ach-hero-eyebrow').textContent = '🏆 Achievement Guides';
+      document.querySelector('.ach-hero-title').textContent   = 'Choose a game to see the full guide';
+      document.querySelector('.ach-hero-meta').textContent    = 'Xbox Achievements · PlayStation Trophies · Steam Achievements';
+      document.getElementById('gl-filter-all').textContent   = 'All';
+      document.getElementById('gl-filter-xbox').textContent  = '🟢 Xbox';
+      document.getElementById('gl-filter-ps').textContent    = '🔵 PlayStation';
+      document.getElementById('gl-filter-nin').textContent   = '🔴 Nintendo';
+      document.getElementById('gl-filter-steam').textContent = '⚫ Steam';
+    }
+    fetchGames();
+  });
 </script>
 </body>
 </html>

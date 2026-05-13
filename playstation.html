@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PlayStation — Checkpoint Digital</title>
 <link rel="stylesheet" href="shared.css">
+<style>
+  .cards-loading { text-align:center; padding:60px 24px; color:var(--text3); grid-column:1/-1; }
+  .cards-loading .spinner {
+    width:32px; height:32px; border-radius:50%;
+    border:3px solid var(--border); border-top-color:#003791;
+    animation:spin 0.7s linear infinite; margin:0 auto 12px;
+  }
+  @keyframes spin { to { transform:rotate(360deg); } }
+</style>
 </head>
 <body>
 
@@ -39,87 +48,7 @@
 <div class="cards-section">
   <div class="wrapper">
     <div class="cards-grid" id="ps-cards">
-
-      <div class="news-card" data-gen="ps5" data-cat="Notícias">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-new">Novo</span></div>
-          <div class="card-title">God of War: Valhalla Rising — primeiras imagens e data de lançamento</div>
-          <div class="card-excerpt">Santa Monica Studio revela o próximo God of War ambientado na mitologia egípcia, com lançamento previsto para 2027.</div>
-          <div class="card-meta"><span>5 mai 2026</span><span class="sep"></span><span>4 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="ps5" data-cat="Reviews">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-review">Review</span></div>
-          <div class="card-title">Demon's Souls Remake 2 — review: o soulslike perfeito chegou ao PS5</div>
-          <div class="card-excerpt">Nota 9.2. Bluepoint entrega um remake que supera o original em ambição e execução, redefinindo o gênero souls.</div>
-          <div class="card-meta"><span>2 mai 2026</span><span class="sep"></span><span>8 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="ps5" data-cat="Previstos">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-preview">Previsto</span></div>
-          <div class="card-title">Spider-Man 3 — Insomniac confirma desenvolvimento para PS5</div>
-          <div class="card-excerpt">Insomniac Games confirma que o terceiro capítulo de Spider-Man está em produção, com lançamento esperado para 2027.</div>
-          <div class="card-meta"><span>29 abr 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="ps4" data-cat="Retrô">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">PS4</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">PS4: os jogos que definiram uma geração de ouro da PlayStation</div>
-          <div class="card-excerpt">De Bloodborne a The Last of Us Part II, o PS4 teve o melhor catálogo de exclusivos da história da Sony.</div>
-          <div class="card-meta"><span>26 abr 2026</span><span class="sep"></span><span>8 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="psvita" data-cat="Retrô">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">PS Vita</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">PS Vita: o portátil incompreendido que merecia muito mais sucesso</div>
-          <div class="card-excerpt">Hardware incrível, catálogo surpreendente e suporte mínimo da Sony. Revisitamos os melhores jogos do Vita.</div>
-          <div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>6 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="portal" data-cat="Notícias">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">PlayStation Portal</span><span class="badge badge-new">Atualização</span></div>
-          <div class="card-title">PlayStation Portal recebe suporte a jogos em nuvem sem PS5</div>
-          <div class="card-excerpt">Sony expande as capacidades do Portal, permitindo jogar via cloud streaming sem precisar de um PS5 em casa.</div>
-          <div class="card-meta"><span>3 mai 2026</span><span class="sep"></span><span>3 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="psp" data-cat="Retrô">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">PSP</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">Os 15 melhores jogos do PSP — o portátil que revolucionou o mercado</div>
-          <div class="card-excerpt">De God of War: Chains of Olympus a Crisis Core, o PSP teve um catálogo digno de console doméstico.</div>
-          <div class="card-meta"><span>18 abr 2026</span><span class="sep"></span><span>6 min</span></div>
-        </div>
-      </div>
-
-      <div class="news-card" data-gen="ps1" data-cat="Retrô">
-        <div class="card-stripe ps"></div>
-        <div class="card-body">
-          <div class="card-tags"><span class="tag tag-gen">PS1</span><span class="badge badge-retro">Retrô</span></div>
-          <div class="card-title">PS1: como o PlayStation original mudou os games para sempre</div>
-          <div class="card-excerpt">30 anos depois, revisitamos o impacto histórico do PlayStation original e os títulos que moldaram toda a indústria.</div>
-          <div class="card-meta"><span>15 abr 2026</span><span class="sep"></span><span>9 min</span></div>
-        </div>
-      </div>
-
+      <div class="cards-loading"><div class="spinner"></div>Carregando notícias…</div>
     </div>
   </div>
 </div>
@@ -129,6 +58,87 @@
 <script>
   renderHeader('ps');
   renderFooter();
+
+  const GEN_LABELS = {
+    'ps1':'PS1','ps2':'PS2','ps3':'PS3','ps4':'PS4','ps5':'PS5',
+    'portal':'PlayStation Portal','psp':'PSP','psvita':'PS Vita'
+  };
+  const CAT_BADGE = {
+    'Notícias':'badge-new','Lançamentos':'badge-new',
+    'Previstos':'badge-preview','Reviews':'badge-review',
+    'Retrô':'badge-retro','Guias':'badge-preview'
+  };
+
+  let allCards = [];
+
+  async function loadArticles() {
+    try {
+      const res = await fetch(
+        `${SUPA_URL}/rest/v1/articles?platform=eq.ps&select=id,title,excerpt,title_en,excerpt_en,category,gen,published_at,read_time,image_url&order=published_at.desc`,
+        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
+      );
+      const arts = await res.json();
+      allCards = arts;
+      renderCards(arts);
+    } catch(e) {
+      document.getElementById('ps-cards').innerHTML =
+        `<div class="cards-loading" style="color:#dc2626">⚠️ Erro ao carregar notícias.</div>`;
+    }
+  }
+
+  const isEN = getLang() === 'en';
+
+  function renderCards(arts) {
+    const grid = document.getElementById('ps-cards');
+    if (!arts.length) {
+      grid.innerHTML = `<div class="cards-loading">${isEN ? 'No news found.' : 'Nenhuma notícia encontrada.'}</div>`;
+      return;
+    }
+    const locale = isEN ? 'en-US' : 'pt-BR';
+    grid.innerHTML = arts.map(a => {
+      const genLabel = GEN_LABELS[a.gen] || 'PlayStation';
+      const catBadge = CAT_BADGE[a.category] || 'badge-new';
+      const date = new Date(a.published_at).toLocaleDateString(locale,{day:'2-digit',month:'short',year:'numeric'});
+      const cardTitle   = (isEN && a.title_en)   ? a.title_en   : a.title;
+      const cardExcerpt = (isEN && a.excerpt_en) ? a.excerpt_en : a.excerpt;
+      const imgHtml = a.image_url
+        ? `<img src="${a.image_url}" alt="${cardTitle}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-fallback ps\\'>🔵</div>'">`
+        : `<div class="card-img-fallback ps">🔵</div>`;
+      return `
+        <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="ps" data-gen="${a.gen||'all'}" data-cat="${a.category}" style="text-decoration:none">
+          <div class="card-img-wrap">
+            ${imgHtml}
+            <div class="card-hover-overlay"><div class="card-hover-excerpt">${cardExcerpt}</div></div>
+          </div>
+          <div class="card-body">
+            <div class="card-tags">
+              <span class="tag tag-ps">${genLabel}</span>
+              <span class="badge ${catBadge}">${a.category}</span>
+            </div>
+            <div class="card-title">${cardTitle}</div>
+            <div class="card-meta"><span>${date}</span><span class="sep"></span><span>${a.read_time||'3 min'}</span></div>
+          </div>
+        </a>`;
+    }).join('');
+  }
+
+  window.filterGen = function(btn, plat) {
+    document.querySelectorAll('#ps-gens .gen-btn').forEach(b => { b.className = 'gen-btn'; });
+    btn.classList.add('active-ps');
+    const gen = btn.dataset.gen;
+    renderCards(gen === 'all' ? allCards : allCards.filter(a => a.gen === gen));
+  };
+
+  window.addEventListener('DOMContentLoaded', () => {
+    if (isEN) {
+      document.querySelector('#ps-gens [data-gen="all"]').textContent = 'All generations';
+      document.querySelectorAll('.cat-btn').forEach(b => {
+        const map = {'Tudo':'All','Lançamentos':'Releases','Previstos':'Upcoming','Reviews':'Reviews','Notícias':'News','Retrô':'Retro'};
+        if (map[b.textContent]) b.textContent = map[b.textContent];
+      });
+    }
+    loadArticles();
+  });
 </script>
 </body>
 </html>

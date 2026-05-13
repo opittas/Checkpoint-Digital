@@ -8,9 +8,10 @@
 <style>
   /* ── HOME HERO ── */
   .hero {
-    background: linear-gradient(135deg, #f0f9ff 0%, #faf5ff 50%, #fff1f2 100%);
+    background: var(--bg2);
     border-bottom: 1px solid var(--border);
     padding: 48px 0 40px;
+    transition: var(--theme-transition);
   }
   .hero-inner {
     max-width: 1100px; margin: 0 auto; padding: 0 24px;
@@ -18,18 +19,20 @@
   }
   .hero-tag {
     display: inline-flex; align-items: center; gap: 6px;
-    background: var(--ps-light); color: var(--ps);
     font-size: 11px; font-weight: 700; text-transform: uppercase;
     letter-spacing: 1px; padding: 4px 10px; border-radius: 20px; margin-bottom: 14px;
   }
-  .hero-tag .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ps); }
+  .hero-tag.xbox  { background: var(--xbox-light);  color: var(--xbox-dark); }
+  .hero-tag.ps    { background: var(--ps-light);    color: var(--ps-dark); }
+  .hero-tag.nin   { background: var(--nin-light);   color: var(--nin-dark); }
+  .hero-tag.steam { background: var(--steam-light); color: var(--steam-dark); }
   .hero-title { font-size: 28px; font-weight: 700; line-height: 1.3; color: var(--text); margin-bottom: 12px; }
   .hero-meta { font-size: 13px; color: var(--text2); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 
   /* ── SIDE NEWS ── */
   .side-news { display: flex; flex-direction: column; gap: 0; }
   .side-news-title { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--text3); margin-bottom: 12px; }
-  .side-item { padding: 12px 0; border-bottom: 1px solid var(--border); cursor: pointer; transition: opacity 0.15s; }
+  .side-item { padding: 12px 0; border-bottom: 1px solid var(--border); transition: opacity 0.15s; text-decoration: none; display: block; }
   .side-item:last-child { border-bottom: none; }
   .side-item:hover { opacity: 0.7; }
   .side-item-plat { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 4px; }
@@ -51,7 +54,7 @@
   .plat-dot.nin   { background: var(--nin); }
   .plat-dot.steam { background: var(--steam); }
   .see-all-btn {
-    font-size: 12px; font-weight: 600; color: var(--text2);
+    font-size: 12px; font-weight: 600;
     background: none; border: 1px solid var(--border);
     padding: 4px 12px; border-radius: 6px; cursor: pointer; transition: all 0.15s;
     text-decoration: none;
@@ -61,6 +64,12 @@
   .see-all-btn.ps    { color: var(--ps);    border-color: var(--ps); }
   .see-all-btn.nin   { color: var(--nin);   border-color: var(--nin); }
   .see-all-btn.steam { color: var(--steam); border-color: var(--steam); }
+
+  /* Skeleton / loading */
+  .home-skeleton { grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text3); font-size: 13px; }
+
+  /* Hero loading */
+  .hero-loading { color: var(--text3); font-size: 14px; padding: 20px 0; }
 
   @media (max-width: 768px) {
     .hero-inner { grid-template-columns: 1fr; }
@@ -72,45 +81,20 @@
 
 <header class="site-header" id="site-header"></header>
 
-<!-- ── HERO ── -->
+<!-- ── HERO (preenchido via Supabase) ── -->
 <div class="hero">
   <div class="hero-inner">
-    <div>
-      <div class="hero-tag"><span class="dot"></span> PlayStation 5 · Destaque</div>
-      <h1 class="hero-title">GTA VI — Data de lançamento confirmada para PS5 e Xbox Series X/S</h1>
-      <div class="hero-meta">
-        <span>7 mai 2026</span>
-        <span style="width:3px;height:3px;border-radius:50%;background:#9ca3af;display:inline-block"></span>
-        <span>4 min de leitura</span>
-        <span class="badge badge-new">Novo</span>
-      </div>
-      <p style="margin-top:16px;font-size:14px;color:#6b7280;line-height:1.7;max-width:560px">
-        A Rockstar Games confirmou oficialmente a janela de lançamento de GTA VI para outono de 2026, com versões para PS5 e Xbox Series X/S.
-      </p>
-      <a href="playstation.html" style="display:inline-block;margin-top:18px;background:#2563eb;color:#fff;padding:10px 22px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none">Ver mais no PlayStation →</a>
+    <div id="hero-main">
+      <div class="hero-loading">Carregando destaque…</div>
     </div>
     <aside class="side-news">
       <div class="side-news-title">Últimas notícias</div>
-      <a href="xbox.html" style="text-decoration:none">
-        <div class="side-item"><div class="side-item-plat xbox">Xbox Series</div><div class="side-item-title">Halo: New Era revelado com trailer de gameplay</div><div class="side-item-date">3 mai 2026</div></div>
-      </a>
-      <a href="nintendo.html" style="text-decoration:none">
-        <div class="side-item"><div class="side-item-plat nin">Switch 2</div><div class="side-item-title">Switch 2 já tem 14 jogos confirmados para lançamento</div><div class="side-item-date">2 mai 2026</div></div>
-      </a>
-      <a href="steam.html" style="text-decoration:none">
-        <div class="side-item"><div class="side-item-plat steam">Steam</div><div class="side-item-title">Steam Deck recebe nova atualização de firmware</div><div class="side-item-date">1 mai 2026</div></div>
-      </a>
-      <a href="nintendo.html" style="text-decoration:none">
-        <div class="side-item"><div class="side-item-plat nin">Nintendo Switch</div><div class="side-item-title">Metroid Prime 4: Beyond — review completo</div><div class="side-item-date">30 abr 2026</div></div>
-      </a>
-      <a href="playstation.html" style="text-decoration:none">
-        <div class="side-item"><div class="side-item-plat ps">PS5</div><div class="side-item-title">Sony anuncia novos jogos exclusivos para 2026</div><div class="side-item-date">29 abr 2026</div></div>
-      </a>
+      <div id="side-news-list" style="color:var(--text3);font-size:13px">Carregando…</div>
     </aside>
   </div>
 </div>
 
-<!-- ── HOME PLATFORM SECTIONS ── -->
+<!-- ── SEÇÕES POR PLATAFORMA ── -->
 <div class="home-sections">
   <div class="wrapper">
 
@@ -119,10 +103,8 @@
         <div class="home-plat-name"><span class="plat-dot xbox"></span> Xbox</div>
         <a class="see-all-btn xbox" href="xbox.html">Ver tudo →</a>
       </div>
-      <div class="cards-grid">
-        <div class="news-card"><div class="card-stripe xbox"></div><div class="card-body"><div class="card-tags"><span class="tag tag-xbox">Xbox Series</span><span class="badge badge-new">Novo</span></div><div class="card-title">Halo: New Era — Microsoft revela o próximo capítulo da saga</div><div class="card-excerpt">Trailer de gameplay mostrou ambientes abertos, novo protagonista e modo cooperativo para 4 jogadores.</div><div class="card-meta"><span>3 mai 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe xbox"></div><div class="card-body"><div class="card-tags"><span class="tag tag-xbox">Project Helix</span><span class="badge badge-preview">Previsto</span></div><div class="card-title">Project Helix: tudo que sabemos sobre o próximo console Xbox</div><div class="card-excerpt">Microsoft confirma retrocompatibilidade total com todas as gerações e lançamento previsto para 2027.</div><div class="card-meta"><span>28 abr 2026</span><span class="sep"></span><span>5 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe xbox"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">Xbox 360</span><span class="badge badge-retro">Retrô</span></div><div class="card-title">Os 10 melhores jogos do Xbox 360 que resistem ao tempo</div><div class="card-excerpt">De Red Dead Redemption a Mass Effect 2, revisitamos a geração que definiu os games modernos.</div><div class="card-meta"><span>25 abr 2026</span><span class="sep"></span><span>7 min</span></div></div></div>
+      <div class="cards-grid" id="home-xbox">
+        <div class="home-skeleton">Carregando…</div>
       </div>
     </div>
 
@@ -131,10 +113,8 @@
         <div class="home-plat-name"><span class="plat-dot ps"></span> PlayStation</div>
         <a class="see-all-btn ps" href="playstation.html">Ver tudo →</a>
       </div>
-      <div class="cards-grid">
-        <div class="news-card"><div class="card-stripe ps"></div><div class="card-body"><div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-new">Novo</span></div><div class="card-title">God of War: Valhalla Rising — primeiras imagens reveladas</div><div class="card-excerpt">Santa Monica Studio surpreende com anúncio do próximo God of War, prometendo explorar a mitologia egípcia.</div><div class="card-meta"><span>5 mai 2026</span><span class="sep"></span><span>4 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe ps"></div><div class="card-body"><div class="card-tags"><span class="tag tag-ps">PS5</span><span class="badge badge-review">Review</span></div><div class="card-title">Demon's Souls Remake 2 — review: uma obra-prima da dificuldade</div><div class="card-excerpt">Nota 9.2. Bluepoint volta com um dos remakes mais ambiciosos da geração, redefinindo o gênero souls.</div><div class="card-meta"><span>2 mai 2026</span><span class="sep"></span><span>8 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe ps"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">PS Vita</span><span class="badge badge-retro">Retrô</span></div><div class="card-title">PS Vita: por que o portátil da Sony merece ser lembrado</div><div class="card-excerpt">Um hardware incrível que não recebeu o suporte que merecia. Revisitamos os jogos que definiram o Vita.</div><div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>6 min</span></div></div></div>
+      <div class="cards-grid" id="home-ps">
+        <div class="home-skeleton">Carregando…</div>
       </div>
     </div>
 
@@ -143,10 +123,8 @@
         <div class="home-plat-name"><span class="plat-dot nin"></span> Nintendo</div>
         <a class="see-all-btn nin" href="nintendo.html">Ver tudo →</a>
       </div>
-      <div class="cards-grid">
-        <div class="news-card"><div class="card-stripe nin"></div><div class="card-body"><div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-new">Novo</span></div><div class="card-title">Zelda: Echoes of Time — trailer oficial e data de lançamento</div><div class="card-excerpt">O novo capítulo da saga Zelda foi revelado com mecânicas de viagem no tempo e mundo aberto expandido.</div><div class="card-meta"><span>4 mai 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe nin"></div><div class="card-body"><div class="card-tags"><span class="tag tag-nin">Switch 2</span><span class="badge badge-preview">Previsto</span></div><div class="card-title">Mario Odyssey 2 — vazamentos apontam para lançamento em 2026</div><div class="card-excerpt">Fontes internas indicam que o próximo Mario 3D está em desenvolvimento avançado para o Switch 2.</div><div class="card-meta"><span>30 abr 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe nin"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">GameCube</span><span class="badge badge-retro">Retrô</span></div><div class="card-title">GameCube: os 15 jogos essenciais do cubo roxo da Nintendo</div><div class="card-excerpt">De Metroid Prime a Resident Evil 4, o GameCube teve um catálogo secretamente incrível. Relembre os clássicos.</div><div class="card-meta"><span>27 abr 2026</span><span class="sep"></span><span>6 min</span></div></div></div>
+      <div class="cards-grid" id="home-nin">
+        <div class="home-skeleton">Carregando…</div>
       </div>
     </div>
 
@@ -155,10 +133,8 @@
         <div class="home-plat-name"><span class="plat-dot steam"></span> Steam / PC</div>
         <a class="see-all-btn steam" href="steam.html">Ver tudo →</a>
       </div>
-      <div class="cards-grid">
-        <div class="news-card"><div class="card-stripe steam"></div><div class="card-body"><div class="card-tags"><span class="tag tag-steam">Steam Deck</span><span class="badge badge-new">Novo</span></div><div class="card-title">Steam Deck recebe nova atualização com melhorias de desempenho</div><div class="card-excerpt">Valve lança firmware 3.7 com suporte expandido a jogos AAA e melhorias na gestão de bateria.</div><div class="card-meta"><span>1 mai 2026</span><span class="sep"></span><span>3 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe steam"></div><div class="card-body"><div class="card-tags"><span class="tag tag-steam">Windows</span><span class="badge badge-review">Review</span></div><div class="card-title">Elden Ring: Shadow of the Erdtree — review da expansão definitiva</div><div class="card-excerpt">Nota 9.5. FromSoftware entrega o DLC mais ambicioso da história dos games, com 50+ horas de conteúdo.</div><div class="card-meta"><span>26 abr 2026</span><span class="sep"></span><span>10 min</span></div></div></div>
-        <div class="news-card"><div class="card-stripe steam"></div><div class="card-body"><div class="card-tags"><span class="tag tag-gen">Linux</span><span class="badge badge-preview">Guia</span></div><div class="card-title">Como rodar jogos Windows no Linux em 2026 — guia completo</div><div class="card-excerpt">Com Proton e Wine cada vez melhores, jogar no Linux nunca foi tão fácil. Confira o guia atualizado.</div><div class="card-meta"><span>24 abr 2026</span><span class="sep"></span><span>8 min</span></div></div></div>
+      <div class="cards-grid" id="home-steam">
+        <div class="home-skeleton">Carregando…</div>
       </div>
     </div>
 
@@ -166,11 +142,157 @@
 </div>
 
 <footer id="site-footer"></footer>
-
 <script src="shared.js"></script>
 <script>
   renderHeader('home');
   renderFooter();
+
+  const isEN = getLang() === 'en';
+
+  const PLAT_META = {
+    xbox:  { emoji: '🟢', label: 'Xbox',        tagCls: 'tag-xbox',  stripeCls: 'xbox',  heroTagCls: 'xbox',  page: 'xbox.html'        },
+    ps:    { emoji: '🔵', label: 'PlayStation', tagCls: 'tag-ps',    stripeCls: 'ps',    heroTagCls: 'ps',    page: 'playstation.html' },
+    nin:   { emoji: '🔴', label: 'Nintendo',    tagCls: 'tag-nin',   stripeCls: 'nin',   heroTagCls: 'nin',   page: 'nintendo.html'    },
+    steam: { emoji: '⚫', label: 'Steam / PC',  tagCls: 'tag-steam', stripeCls: 'steam', heroTagCls: 'steam', page: 'steam.html'       },
+  };
+
+  const CAT_BADGE = {
+    'Notícias':    'badge-new',  'News':      'badge-new',
+    'Lançamentos': 'badge-new',  'Releases':  'badge-new',
+    'Previstos':   'badge-preview','Upcoming': 'badge-preview',
+    'Reviews':     'badge-review',
+    'Retrô':       'badge-retro', 'Retro':    'badge-retro',
+    'Guias':       'badge-preview','Guides':   'badge-preview',
+  };
+
+  function fmtDate(iso) {
+    const locale = isEN ? 'en-US' : 'pt-BR';
+    return new Date(iso).toLocaleDateString(locale, { day: '2-digit', month: 'short', year: 'numeric' });
+  }
+
+  function buildCard(a) {
+    const pm = PLAT_META[a.platform] || PLAT_META.steam;
+    const badge = CAT_BADGE[a.category] || 'badge-new';
+    const title   = t(a, 'title');
+    const excerpt = t(a, 'excerpt');
+    const imgHtml = a.image_url
+      ? `<img src="${a.image_url}" alt="${title}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-fallback ${a.platform}\\'>${pm.emoji}</div>'">`
+      : `<div class="card-img-fallback ${a.platform}">${pm.emoji}</div>`;
+    return `
+      <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="${a.platform}" style="text-decoration:none">
+        <div class="card-img-wrap">
+          ${imgHtml}
+          <div class="card-hover-overlay">
+            <div class="card-hover-excerpt">${excerpt}</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-tags">
+            <span class="tag ${pm.tagCls}">${pm.emoji} ${pm.label}</span>
+            <span class="badge ${badge}">${a.category}</span>
+          </div>
+          <div class="card-title">${title}</div>
+          <div class="card-meta">
+            <span>${fmtDate(a.published_at)}</span>
+            <span class="sep"></span>
+            <span>${a.read_time || '3 min'}</span>
+          </div>
+        </div>
+      </a>`;
+  }
+
+  function buildHero(a) {
+    const pm = PLAT_META[a.platform] || PLAT_META.steam;
+    const title   = t(a, 'title');
+    const excerpt = t(a, 'excerpt');
+    const readLabel = isEN ? 'read' : 'de leitura';
+    const spotlight = isEN ? 'Spotlight' : 'Destaque';
+    const btnLabel  = isEN ? 'Read full article →' : 'Ler artigo completo →';
+    return `
+      <div class="hero-tag ${pm.heroTagCls}">${pm.emoji} ${pm.label} · ${spotlight}</div>
+      <h1 class="hero-title">${title}</h1>
+      <div class="hero-meta">
+        <span>${fmtDate(a.published_at)}</span>
+        <span style="width:3px;height:3px;border-radius:50%;background:var(--text3);display:inline-block"></span>
+        <span>${a.read_time || '3 min'} ${readLabel}</span>
+        <span class="badge ${CAT_BADGE[a.category] || 'badge-new'}">${a.category}</span>
+      </div>
+      <p style="margin-top:16px;font-size:14px;color:var(--text2);line-height:1.7;max-width:560px">${excerpt}</p>
+      <a href="artigo.html?id=${encodeURIComponent(a.id)}"
+         style="display:inline-block;margin-top:18px;background:#7c3aed;color:#fff;padding:10px 22px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none">
+        ${btnLabel}
+      </a>`;
+  }
+
+  function buildSideItem(a) {
+    const pm = PLAT_META[a.platform] || PLAT_META.steam;
+    const title = t(a, 'title');
+    return `
+      <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="side-item">
+        <div class="side-item-plat ${a.platform}">${pm.emoji} ${pm.label}</div>
+        <div class="side-item-title">${title}</div>
+        <div class="side-item-date">${fmtDate(a.published_at)}</div>
+      </a>`;
+  }
+
+  async function loadHome() {
+    try {
+      // Busca os 20 artigos mais recentes de todas as plataformas (com campos EN)
+      const res = await fetch(
+        `${SUPA_URL}/rest/v1/articles?select=id,platform,category,gen,title,excerpt,title_en,excerpt_en,published_at,read_time,featured,image_url&order=published_at.desc&limit=20`,
+        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
+      );
+      const arts = await res.json();
+
+      if (!arts.length) {
+        document.getElementById('hero-main').innerHTML = `<p style="color:var(--text3)">${isEN ? 'No articles published yet.' : 'Nenhum artigo publicado ainda.'}</p>`;
+        return;
+      }
+
+      // ── Hero: artigo mais recente (featured se existir, senão o primeiro) ──
+      const featured = arts.find(a => a.featured) || arts[0];
+      document.getElementById('hero-main').innerHTML = buildHero(featured);
+
+      // ── Side news: 5 mais recentes excluindo o hero ──
+      const sideList = arts.filter(a => a.id !== featured.id).slice(0, 5);
+      document.getElementById('side-news-list').innerHTML = sideList.map(buildSideItem).join('')
+        || `<span style="color:var(--text3)">${isEN ? 'No other news yet.' : 'Sem outras notícias ainda.'}</span>`;
+
+      // ── Cards por plataforma: 3 mais recentes de cada ──
+      const platIds = ['xbox', 'ps', 'nin', 'steam'];
+      for (const plat of platIds) {
+        const platArts = arts.filter(a => a.platform === plat).slice(0, 3);
+        const el = document.getElementById('home-' + plat);
+        if (!platArts.length) {
+          el.innerHTML = `<div class="home-skeleton" style="font-style:italic">${isEN ? 'No news on this platform yet.' : 'Nenhuma notícia ainda nesta plataforma.'}</div>`;
+        } else {
+          el.innerHTML = platArts.map(buildCard).join('');
+        }
+      }
+
+    } catch(e) {
+      document.getElementById('hero-main').innerHTML =
+        `<p style="color:#dc2626">⚠️ ${isEN ? 'Error loading news: ' : 'Erro ao carregar notícias: '}${e.message}</p>`;
+    }
+  }
+
+  window.addEventListener('DOMContentLoaded', () => {
+    // Traduz textos estáticos da UI antes de carregar
+    if (isEN) {
+      document.querySelector('.side-news-title').textContent = 'Latest news';
+      document.getElementById('hero-main').innerHTML = '<div class="hero-loading">Loading…</div>';
+      document.getElementById('side-news-list').textContent = 'Loading…';
+      // "Ver tudo" buttons
+      document.querySelectorAll('.see-all-btn').forEach(b => {
+        b.textContent = 'See all →';
+      });
+      // Platform names in section headers
+      document.querySelectorAll('.home-skeleton').forEach(b => {
+        b.textContent = 'Loading…';
+      });
+    }
+    loadHome();
+  });
 </script>
 </body>
 </html>

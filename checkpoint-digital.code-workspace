@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false,
+    "files.associations": {
+      "*.html": "html"
+    },
+    "emmet.includeLanguages": {
+      "html": "html"
+    },
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}

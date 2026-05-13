@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Upload Achievement Icons → Supabase</title>
+<style>
+  body { font-family: monospace; background: #0f0f0f; color: #e0e0e0; padding: 20px; max-width: 800px; margin: 0 auto; }
+  h1 { color: #a78bfa; }
+  #status { background: #1a1a2e; border: 1px solid #333; padding: 16px; border-radius: 8px; height: 400px; overflow-y: auto; font-size: 13px; }
+  .ok  { color: #4ade80; }
+  .err { color: #f87171; }
+  .info{ color: #60a5fa; }
+  button { background: #7c3aed; color: white; border: none; padding: 12px 24px; border-radius: 6px; cursor: pointer; font-size: 16px; margin-top: 16px; }
+  button:disabled { background: #444; cursor: not-allowed; }
+  #progress { margin-top: 10px; font-size: 14px; color: #94a3b8; }
+  input[type=file] { display: none; }
+  label.file-btn { display: inline-block; background: #1e3a5f; color: #60a5fa; padding: 10px 20px; border-radius: 6px; cursor: pointer; margin-bottom: 10px; border: 1px solid #3b82f6; }
+</style>
+</head>
+<body>
+<h1>🏆 Upload Achievement Icons → Supabase</h1>
+<p>Selecione a pasta <strong>conquistas</strong> com os 42 PNGs, depois clique em Upload.</p>
+
+<label class="file-btn" for="folderInput">📁 Selecionar pasta de conquistas</label>
+<input type="file" id="folderInput" webkitdirectory multiple accept="image/png">
+<div id="fileCount" style="color:#94a3b8; margin-bottom:12px;"></div>
+
+<button id="uploadBtn" disabled onclick="startUpload()">⬆ Fazer Upload para Supabase</button>
+<div id="progress"></div>
+<div id="status"></div>
+
+<script>
+const SUPA_URL = "https://ytehtjgbxkwpfabqhojm.supabase.co";
+const SUPA_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl0ZWh0amdieGt3cGZhYnFob2ptIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgyNDkyOTYsImV4cCI6MjA5MzgyNTI5Nn0.SeToYeh4Fbbz4xUvoY2iF1ZQ5av70IJC3TCjzIEwowE";
+const BUCKET = "achievement-icons";
+
+let selectedFiles = [];
+
+document.getElementById('folderInput').addEventListener('change', (e) => {
+  selectedFiles = Array.from(e.target.files).filter(f => f.name.endsWith('.png'));
+  document.getElementById('fileCount').textContent = `${selectedFiles.length} arquivos PNG encontrados`;
+  document.getElementById('uploadBtn').disabled = selectedFiles.length === 0;
+});
+
+function log(msg, cls='info') {
+  const el = document.getElementById('status');
+  el.innerHTML += `<div class="${cls}">${msg}</div>`;
+  el.scrollTop = el.scrollHeight;
+}
+
+async function startUpload() {
+  const btn = document.getElementById('uploadBtn');
+  btn.disabled = true;
+  document.getElementById('status').innerHTML = '';
+
+  let ok = 0, fail = 0;
+
+  for (let i = 0; i < selectedFiles.length; i++) {
+    const file = selectedFiles[i];
+    document.getElementById('progress').textContent = `Enviando ${i+1}/${selectedFiles.length}: ${file.name}`;
+
+    try {
+      const arrayBuffer = await file.arrayBuffer();
+      const res = await fetch(`${SUPA_URL}/storage/v1/object/${BUCKET}/${encodeURIComponent(file.name)}`, {
+        method: 'POST',
+        headers: {
+          'apikey': SUPA_KEY,
+          'Authorization': `Bearer ${SUPA_KEY}`,
+          'Content-Type': 'image/png',
+          'x-upsert': 'true'
+        },
+        body: arrayBuffer
+      });
+
+      if (res.ok) {
+        const publicUrl = `${SUPA_URL}/storage/v1/object/public/${BUCKET}/${file.name}`;
+        log(`✅ ${file.name}`, 'ok');
+        ok++;
+      } else {
+        const txt = await res.text();
+        log(`❌ ${file.name}: ${res.status} ${txt}`, 'err');
+        fail++;
+      }
+    } catch(e) {
+      log(`❌ ${file.name}: ${e.message}`, 'err');
+      fail++;
+    }
+  }
+
+  document.getElementById('progress').textContent = `Concluído! ✅ ${ok} enviados, ❌ ${fail} erros`;
+
+  if (ok > 0) {
+    log('', 'info');
+    log('🎉 Upload concluído! Agora volte ao Claude para ele atualizar o banco de dados.', 'ok');
+    log(`URL base das imagens: ${SUPA_URL}/storage/v1/object/public/${BUCKET}/`, 'info');
+  }
+
+  btn.disabled = false;
+  btn.textContent = '⬆ Fazer Upload Novamente';
+}
+</script>
+</body>
+</html>

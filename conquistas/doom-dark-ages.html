@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DOOM: The Dark Ages — Conquistas · Checkpoint Digital</title>
+<link rel="stylesheet" href="../shared.css">
+<style>
+  /* ── HERO ── */
+  .ach-hero {
+    background: linear-gradient(135deg, #1a0a00 0%, #3d1200 60%, #1a0a00 100%);
+    padding: 36px 0 32px;
+    border-bottom: 1px solid #7c2d12;
+  }
+  .ach-hero-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+  .ach-hero-eyebrow {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: #ffffff18; color: #fca5a5;
+    font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;
+    padding: 4px 12px; border-radius: 20px; margin-bottom: 14px;
+  }
+  .ach-hero-title { font-size: 28px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+  .ach-hero-meta  { font-size: 13px; color: #fca5a5; display: flex; gap: 12px; flex-wrap: wrap; }
+  .ach-hero-meta span { display: flex; align-items: center; gap: 5px; }
+
+  /* ── TABS ── */
+  .ach-plat-tabs {
+    max-width: 1100px; margin: 0 auto;
+    padding: 20px 24px 0;
+    display: flex; gap: 8px; border-bottom: 1px solid var(--border);
+  }
+  .ach-tab {
+    padding: 10px 22px; border-radius: 8px 8px 0 0;
+    font-size: 13px; font-weight: 700; cursor: pointer;
+    border: 1px solid var(--border); border-bottom: none;
+    background: var(--bg3); color: var(--text2);
+    transition: all 0.15s; margin-bottom: -1px;
+  }
+  .ach-tab:hover { background: var(--bg); color: var(--text); }
+  .ach-tab.active-xbox  { background: var(--bg); color: var(--xbox);       border-bottom: 1px solid var(--bg); }
+  .ach-tab.active-ps    { background: var(--bg); color: var(--ps);         border-bottom: 1px solid var(--bg); }
+  .ach-tab.active-steam { background: var(--bg); color: var(--steam-dark); border-bottom: 1px solid var(--bg); }
+
+  /* ── PAINÉIS ── */
+  .ach-platform-panel { display: none; }
+  .ach-platform-panel.active { display: block; }
+
+  /* ── REVIEW BOX ── */
+  .review-box-section {
+    max-width: 1100px; margin: 0 auto;
+    padding: 28px 24px 0;
+  }
+  .review-box-title {
+    font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .8px;
+    color: var(--text3); margin-bottom: 14px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .review-box-title::before {
+    content: ''; display: inline-block; width: 3px; height: 16px;
+    border-radius: 2px; background: #ef4444;
+  }
+  .rb {
+    border: 1px solid var(--border); border-radius: 12px;
+    overflow: hidden; background: var(--bg2);
+    transition: var(--theme-transition);
+  }
+  .rb-top { display: grid; grid-template-columns: 160px 1fr; }
+  .rb-score {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    padding: 28px 24px; background: var(--bg3); border-right: 1px solid var(--border);
+  }
+  .rb-score-num { font-size: 52px; font-weight: 800; line-height: 1; color: var(--text); }
+  .rb-score-denom { font-size: 15px; color: var(--text3); margin-top: 2px; }
+  .rb-score-bar { width: 64px; height: 6px; border-radius: 3px; background: var(--border); margin-top: 12px; overflow: hidden; }
+  .rb-score-fill { height: 100%; border-radius: 3px; background: #22c55e; }
+  .rb-score-label { font-size: 11px; color: #22c55e; margin-top: 8px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; }
+  .rb-cols { display: grid; grid-template-columns: 1fr 1fr; }
+  .rb-col { padding: 20px 18px 16px; }
+  .rb-col + .rb-col { border-left: 1px solid var(--border); }
+  .rb-col-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .7px; margin-bottom: 10px; }
+  .rb-col-title.pros { color: #22c55e; }
+  .rb-col-title.cons { color: #ef4444; }
+  .rb-item { font-size: 14px; color: var(--text2); margin-bottom: 7px; line-height: 1.5; display: flex; align-items: flex-start; gap: 7px; }
+  .rb-item-pro::before { content: '✓'; color: #22c55e; font-weight: 700; flex-shrink: 0; }
+  .rb-item-con::before { content: '✗'; color: #ef4444; font-weight: 700; flex-shrink: 0; }
+  .rb-verdict {
+    border-top: 1px solid var(--border); padding: 18px 22px;
+    font-size: 14px; color: var(--text2); line-height: 1.7;
+    display: flex; gap: 14px; align-items: flex-start;
+  }
+  .rb-verdict-body { flex: 1; }
+  .rb-verdict-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .7px; color: var(--text3); margin-bottom: 5px; }
+  .rb-verdict-text { font-size: 14px; color: var(--text2); line-height: 1.7; }
+  .rb-review-link {
+    display: inline-flex; align-items: center; gap: 6px;
+    margin-top: 12px; font-size: 13px; font-weight: 700; color: #ef4444;
+    text-decoration: none; padding: 7px 14px; border-radius: 6px;
+    border: 1px solid #ef444460; transition: all 0.15s;
+  }
+  .rb-review-link:hover { background: #ef444415; border-color: #ef4444; }
+  @media (max-width: 600px) {
+    .rb-top { grid-template-columns: 1fr; }
+    .rb-score { border-right: none; border-bottom: 1px solid var(--border); padding: 20px; flex-direction: row; gap: 16px; }
+    .rb-cols { grid-template-columns: 1fr; }
+    .rb-col + .rb-col { border-left: none; border-top: 1px solid var(--border); }
+  }
+
+  /* ── SUMMARY ── */
+  .ach-summary {
+    max-width: 1100px; margin: 0 auto; padding: 20px 24px;
+    display: flex; gap: 12px; flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+  }
+  .ach-stat {
+    background: var(--bg3); border-radius: var(--radius-lg);
+    padding: 12px 20px; flex: 1; min-width: 120px;
+    display: flex; flex-direction: column; gap: 3px;
+  }
+  .ach-stat-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: var(--text3); }
+  .ach-stat-value { font-size: 22px; font-weight: 700; color: var(--text); }
+  .ach-stat-value.xbox-color { color: var(--xbox); }
+  .ach-stat-value.ps-color   { color: var(--ps); }
+
+  /* ── FILTROS ── */
+  .ach-filter-row {
+    max-width: 1100px; margin: 0 auto; padding: 14px 24px;
+    display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+    border-bottom: 1px solid var(--border);
+  }
+  .ach-filter-label { font-size: 12px; font-weight: 600; color: var(--text3); margin-right: 4px; }
+  .ach-filter-btn {
+    border: 1px solid var(--border); background: var(--bg);
+    padding: 4px 12px; border-radius: 20px;
+    font-size: 12px; font-weight: 600; cursor: pointer; color: var(--text2);
+    transition: all 0.15s;
+  }
+  .ach-filter-btn:hover { border-color: var(--text3); color: var(--text); }
+  .ach-filter-btn.active { background: var(--text); color: #fff; border-color: var(--text); }
+
+  /* ── LISTA ── */
+  .ach-list {
+    max-width: 1100px; margin: 0 auto;
+    padding: 20px 24px 48px;
+    display: flex; flex-direction: column;
+  }
+  .ach-item {
+    display: grid; grid-template-columns: 56px 1fr auto;
+    gap: 16px; align-items: start;
+    padding: 18px 0; border-bottom: 1px solid var(--border);
+    cursor: pointer; transition: background 0.1s;
+  }
+  .ach-item:hover { background: var(--bg2); margin: 0 -24px; padding: 18px 24px; }
+  .ach-item:last-child { border-bottom: none; }
+
+  /* ── ÍCONE ── */
+  .ach-icon {
+    width: 56px; height: 56px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0; border: 2px solid var(--border); overflow: hidden;
+  }
+  .ach-icon.gold     { background: #fef9c3; border-color: #fde047; }
+  .ach-icon.silver   { background: #f1f5f9; border-color: #cbd5e1; }
+  .ach-icon.bronze   { background: #fef3e2; border-color: #fdba74; }
+  .ach-icon.platinum { background: linear-gradient(135deg,#e0e7ff,#ede9fe); border-color: #a5b4fc; }
+  .ach-icon-img { width: 100%; height: 100%; object-fit: contain; display: block; padding: 4px; }
+  .ach-icon-svg { display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; }
+  .ach-icon-svg svg { width: 28px; height: 28px; }
+  .ach-icon-img + .ach-icon-svg { display: none; }
+
+  /* ── INFO ── */
+  .ach-name { font-size: 15px; font-weight: 700; color: var(--text); margin-bottom: 3px; }
+  .ach-desc { font-size: 13px; color: var(--text2); margin-bottom: 6px; line-height: 1.5; }
+  .ach-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .ach-tag { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 7px; border-radius: 4px; }
+  .tag-missable   { background: #fee2e2; color: #7f1d1d; }
+  .tag-unmissable { background: #d1fae5; color: #064e3b; }
+  .tag-secret     { background: #f3e8ff; color: #4c1d95; }
+  .tag-story      { background: #e0f2fe; color: #0c4a6e; }
+
+  /* ── PONTOS / TROFÉU ── */
+  .ach-pts { text-align: right; flex-shrink: 0; }
+  .ach-pts-value { font-size: 17px; font-weight: 700; }
+  .ach-pts-value.xbox-pts { color: var(--xbox); }
+  .ach-pts-label { font-size: 10px; color: var(--text3); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+  .trophy-platina { background: linear-gradient(135deg,#c7d2fe,#ddd6fe); color: #3730a3; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+  .trophy-ouro    { background: #fef9c3; color: #78350f; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+  .trophy-prata   { background: #f1f5f9; color: #334155; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+  .trophy-bronze  { background: #fef3e2; color: #92400e; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+
+  /* ── GUIA DRAWER ── */
+  .ach-guide-drawer {
+    display: none; background: var(--bg2);
+    border: 1px solid var(--border); border-radius: var(--radius-lg);
+    margin: 0 0 2px; padding: 20px 24px;
+  }
+  .ach-guide-drawer.open { display: block; }
+  .ach-guide-title { font-size: 13px; font-weight: 700; color: var(--text); margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .ach-guide-title::before { content: ''; display: inline-block; width: 3px; height: 16px; border-radius: 2px; background: #ef4444; }
+  .ach-guide-body { font-size: 13px; color: var(--text2); line-height: 1.75; }
+  .ach-guide-step { display: flex; gap: 10px; margin-bottom: 10px; }
+  .ach-step-num {
+    width: 22px; height: 22px; border-radius: 50%;
+    background: #ef4444; color: #fff; font-size: 11px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 1px;
+  }
+  .ach-step-text { font-size: 13px; color: var(--text2); line-height: 1.7; }
+  .ach-tip     { background: #fef9c3; border-left: 3px solid #fbbf24; border-radius: 0 6px 6px 0; padding: 10px 14px; margin-top: 10px; font-size: 12px; color: #78350f; line-height: 1.6; }
+  .ach-warning { background: #fee2e2; border-left: 3px solid #f87171; border-radius: 0 6px 6px 0; padding: 10px 14px; margin-top: 10px; font-size: 12px; color: #7f1d1d; line-height: 1.6; }
+
+  /* ── LOADING ── */
+  .games-loading { text-align: center; padding: 80px 24px; color: var(--text3); font-size: 14px; }
+  .games-loading .spinner {
+    width: 36px; height: 36px; border-radius: 50%;
+    border: 3px solid var(--border); border-top-color: #ef4444;
+    animation: spin 0.7s linear infinite; margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── BACK BUTTON ── */
+  .back-bar { background: var(--bg); border-bottom: 1px solid var(--border); padding: 10px 24px; }
+  .back-bar-inner { max-width: 1100px; margin: 0 auto; }
+  .back-btn {
+    background: none; border: 1px solid var(--border);
+    padding: 6px 14px; border-radius: 6px;
+    font-size: 13px; font-weight: 600; color: var(--text2);
+    cursor: pointer; text-decoration: none; display: inline-block;
+  }
+  .back-btn:hover { border-color: var(--text3); color: var(--text); }
+</style>
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<div class="back-bar">
+  <div class="back-bar-inner">
+    <a class="back-btn" id="back-btn" href="../conquistas.html">← Voltar à lista de jogos</a>
+  </div>
+</div>
+
+<div class="ach-hero">
+  <div class="ach-hero-inner">
+    <div class="ach-hero-eyebrow" id="hero-eyebrow">🏆 Guia de Conquistas</div>
+    <h1 class="ach-hero-title" id="game-title">DOOM: The Dark Ages</h1>
+    <div class="ach-hero-meta" id="game-meta"></div>
+  </div>
+</div>
+
+<!-- Review Box (preenchido via JS p/ suportar PT/EN) -->
+<div class="review-box-section">
+  <div class="review-box-title" id="rb-section-title">Nossa nota</div>
+  <div class="rb">
+    <div class="rb-top">
+      <div class="rb-score">
+        <span class="rb-score-num">8.5</span>
+        <span class="rb-score-denom">/ 10</span>
+        <div class="rb-score-bar"><div class="rb-score-fill" style="width:85%"></div></div>
+        <span class="rb-score-label" id="rb-score-label">Ótimo</span>
+      </div>
+      <div class="rb-cols">
+        <div class="rb-col">
+          <div class="rb-col-title pros" id="pros-title">✔ Prós</div>
+          <div class="rb-item rb-item-pro" id="pro-1"></div>
+          <div class="rb-item rb-item-pro" id="pro-2"></div>
+          <div class="rb-item rb-item-pro" id="pro-3"></div>
+          <div class="rb-item rb-item-pro" id="pro-4"></div>
+        </div>
+        <div class="rb-col">
+          <div class="rb-col-title cons" id="cons-title">✘ Contras</div>
+          <div class="rb-item rb-item-con" id="con-1"></div>
+          <div class="rb-item rb-item-con" id="con-2"></div>
+          <div class="rb-item rb-item-con" id="con-3"></div>
+        </div>
+      </div>
+    </div>
+    <div class="rb-verdict">
+      <div class="rb-verdict-body">
+        <div class="rb-verdict-label" id="verdict-label">Veredicto final</div>
+        <div class="rb-verdict-text" id="verdict-text"></div>
+        <a href="../artigo.html?id=steam-doom-dark-ages-review" class="rb-review-link" id="review-link">
+          📰 Leia o review completo →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Tabs de plataforma -->
+<div class="ach-plat-tabs" style="margin-top:28px">
+  <button class="ach-tab active-xbox" id="ach-tab-xbox" onclick="switchPlatform('xbox')">
+    🟢 <span id="label-xbox">Xbox — 1000G</span>
+  </button>
+  <button class="ach-tab" id="ach-tab-ps" onclick="switchPlatform('ps')">
+    🔵 <span id="label-ps">PlayStation — Platina</span>
+  </button>
+  <button class="ach-tab" id="ach-tab-steam" onclick="switchPlatform('steam')">
+    🖥️ <span id="label-steam">Steam</span>
+  </button>
+</div>
+
+<div class="ach-platform-panel active" id="panel-xbox">
+  <div class="games-loading"><div class="spinner"></div><span id="loading-txt">Carregando conquistas…</span></div>
+</div>
+<div class="ach-platform-panel" id="panel-ps">
+  <div class="games-loading"><div class="spinner"></div><span>Carregando conquistas…</span></div>
+</div>
+<div class="ach-platform-panel" id="panel-steam">
+  <div class="games-loading"><div class="spinner"></div><span>Carregando conquistas…</span></div>
+</div>
+
+<footer id="site-footer"></footer>
+<script src="../shared.js"></script>
+<script>
+  renderHeader('ach', '../');
+  renderFooter('../');
+
+  const GAME_DATA = {
+    id: 'doom-dark-ages',
+    title: 'DOOM: The Dark Ages',
+    developer: 'id Software',
+    release_year: 2025,
+    difficulty: 'Média',
+    hours_estimate: '15–25h',
+    missable_count: 0,
+    xbox_label: '1000G',
+    ps_label: 'Platina',
+    steam_label: 'Achievements',
+  };
+
+  const ICON_SVG = {
+    'História':   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>`,
+    'Chefes':     `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>`,
+    'Upgrades':   `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M4.93 4.93a10 10 0 0 0 0 14.14"/></svg>`,
+    'Coletáveis': `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>`,
+    'Grind':      `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>`,
+  };
+  const RARITY_COLOR = { platinum:'#a78bfa', gold:'#ca8a04', silver:'#64748b', bronze:'#b45309' };
+
+  // ════════════════════════════════════════════════════════════
+  // CONQUISTAS HARDCODED — DOOM: The Dark Ages
+  // 28 conquistas Xbox/PC + 29 troféus PS (+ Platina)
+  // ════════════════════════════════════════════════════════════
+  const ACHIEVEMENTS = [
+    // ── PLATINA (PS) ──
+    { id:'ps-0',    platform:'ps',   sort_order:0,  name:'Trophy Master',           description:'Obtenha todos os outros troféus de DOOM: The Dark Ages.',                         description_en:'Obtain all other trophies in DOOM: The Dark Ages.',                                    category:'Grind',     rarity:'platinum', missable:false, secret:false, points:null,    trophy_type:'Platina', icon_url:'' },
+
+    // ── CAMPANHA COMPLETA ──
+    { id:'xbox-1',  platform:'xbox', sort_order:1,  name:'Game Complete',           description:'Conclua a campanha em qualquer dificuldade.',                                       description_en:'Complete the campaign on any difficulty.',                                              category:'História',  rarity:'gold',   missable:false, secret:false, points:'100G', trophy_type:null,      icon_url:'' },
+    { id:'ps-1',    platform:'ps',   sort_order:1,  name:'Game Complete',           description:'Conclua a campanha em qualquer dificuldade.',                                       description_en:'Complete the campaign on any difficulty.',                                              category:'História',  rarity:'gold',   missable:false, secret:false, points:null,    trophy_type:'Ouro',    icon_url:'' },
+
+    // ── CAPÍTULOS (Bronze) ──
+    { id:'xbox-2',  platform:'xbox', sort_order:2,  name:'A Dark Beginning',        description:'Conclua o Capítulo 1: Aldeia de Khalim.',                                           description_en:'Complete Chapter 1: Village of Khalim.',                                                category:'História',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-2',    platform:'ps',   sort_order:2,  name:'A Dark Beginning',        description:'Conclua o Capítulo 1: Aldeia de Khalim.',                                           description_en:'Complete Chapter 1: Village of Khalim.',                                                category:'História',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-3',  platform:'xbox', sort_order:3,  name:'Supersized Brawl',        description:'Conclua o Capítulo 3: Núcleo da Barreira.',                                         description_en:'Complete Chapter 3: Barrier Core.',                                                     category:'História',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-3',    platform:'ps',   sort_order:3,  name:'Supersized Brawl',        description:'Conclua o Capítulo 3: Núcleo da Barreira.',                                         description_en:'Complete Chapter 3: Barrier Core.',                                                     category:'História',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-4',  platform:'xbox', sort_order:4,  name:'Bringing the House Down', description:'Conclua o Capítulo 5: A Santa Cidade de Aratum.',                                   description_en:'Complete Chapter 5: The Holy City of Aratum.',                                          category:'História',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-4',    platform:'ps',   sort_order:4,  name:'Bringing the House Down', description:'Conclua o Capítulo 5: A Santa Cidade de Aratum.',                                   description_en:'Complete Chapter 5: The Holy City of Aratum.',                                          category:'História',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-5',  platform:'xbox', sort_order:5,  name:'Jailbreak',               description:'Conclua o Capítulo 14: Espiral de Nerathul.',                                        description_en:'Complete Chapter 14: Nerathul\'s Spiral.',                                              category:'História',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-5',    platform:'ps',   sort_order:5,  name:'Jailbreak',               description:'Conclua o Capítulo 14: Espiral de Nerathul.',                                        description_en:'Complete Chapter 14: Nerathul\'s Spiral.',                                              category:'História',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-6',  platform:'xbox', sort_order:6,  name:'Too Angry to Die',        description:'Conclua o Capítulo 19: Porto das Almas.',                                            description_en:'Complete Chapter 19: Port of Souls.',                                                   category:'História',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-6',    platform:'ps',   sort_order:6,  name:'Too Angry to Die',        description:'Conclua o Capítulo 19: Porto das Almas.',                                            description_en:'Complete Chapter 19: Port of Souls.',                                                   category:'História',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-7',  platform:'xbox', sort_order:7,  name:'Argent Return',           description:'Conclua o Capítulo 20: Ressurreição.',                                               description_en:'Complete Chapter 20: Resurrection.',                                                    category:'História',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-7',    platform:'ps',   sort_order:7,  name:'Argent Return',           description:'Conclua o Capítulo 20: Ressurreição.',                                               description_en:'Complete Chapter 20: Resurrection.',                                                    category:'História',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+
+    // ── CHEFES (Silver) ──
+    { id:'xbox-8',  platform:'xbox', sort_order:8,  name:'Vagary Down!',            description:'Derrote a Vagary Campeã.',                                                           description_en:'Defeat the Champion Vagary.',                                                           category:'Chefes',    rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-8',    platform:'ps',   sort_order:8,  name:'Vagary Down!',            description:'Derrote a Vagary Campeã.',                                                           description_en:'Defeat the Champion Vagary.',                                                           category:'Chefes',    rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-9',  platform:'xbox', sort_order:9,  name:'Agaddon Champion Down',   description:'Derrote o Agaddon Campeão.',                                                         description_en:'Defeat the Agaddon Champion.',                                                          category:'Chefes',    rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-9',    platform:'ps',   sort_order:9,  name:'Agaddon Champion Down',   description:'Derrote o Agaddon Campeão.',                                                         description_en:'Defeat the Agaddon Champion.',                                                          category:'Chefes',    rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-10', platform:'xbox', sort_order:10, name:'Komodo Champion Down',    description:'Derrote o Komodo Campeão.',                                                          description_en:'Defeat the Komodo Champion.',                                                           category:'Chefes',    rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-10',   platform:'ps',   sort_order:10, name:'Komodo Champion Down',    description:'Derrote o Komodo Campeão.',                                                          description_en:'Defeat the Komodo Champion.',                                                           category:'Chefes',    rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-11', platform:'xbox', sort_order:11, name:'The Only Thing They Fear', description:'Derrote O Ancestral e Ahzrak Aprimorado.',                                          description_en:'Defeat The Progenitor and Enhanced Ahzrak.',                                            category:'Chefes',    rarity:'gold',   missable:false, secret:false, points:'50G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-11',   platform:'ps',   sort_order:11, name:'The Only Thing They Fear', description:'Derrote O Ancestral e Ahzrak Aprimorado.',                                          description_en:'Defeat The Progenitor and Enhanced Ahzrak.',                                            category:'Chefes',    rarity:'gold',   missable:false, secret:false, points:null,    trophy_type:'Ouro',    icon_url:'' },
+
+    // ── UPGRADES DE ARMAS (Silver/Gold) ──
+    { id:'xbox-12', platform:'xbox', sort_order:12, name:'Upgraded',                description:'Obtenha seu primeiro upgrade de arma.',                                              description_en:'Obtain your first weapon upgrade.',                                                     category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-12',   platform:'ps',   sort_order:12, name:'Upgraded',                description:'Obtenha seu primeiro upgrade de arma.',                                              description_en:'Obtain your first weapon upgrade.',                                                     category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-13', platform:'xbox', sort_order:13, name:'Fully Loaded',            description:'Conclua o Mastery Challenge de uma arma.',                                           description_en:'Complete the Mastery Challenge for one weapon.',                                         category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-13',   platform:'ps',   sort_order:13, name:'Fully Loaded',            description:'Conclua o Mastery Challenge de uma arma.',                                           description_en:'Complete the Mastery Challenge for one weapon.',                                         category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-14', platform:'xbox', sort_order:14, name:'Gunpletionist',           description:'Conclua o Mastery Challenge de todas as armas.',                                     description_en:'Complete the Mastery Challenge for all weapons.',                                        category:'Upgrades',  rarity:'gold',   missable:false, secret:false, points:'100G', trophy_type:null,      icon_url:'' },
+    { id:'ps-14',   platform:'ps',   sort_order:14, name:'Gunpletionist',           description:'Conclua o Mastery Challenge de todas as armas.',                                     description_en:'Complete the Mastery Challenge for all weapons.',                                        category:'Upgrades',  rarity:'gold',   missable:false, secret:false, points:null,    trophy_type:'Ouro',    icon_url:'' },
+    { id:'xbox-15', platform:'xbox', sort_order:15, name:'Melee Expert',            description:'Desbloqueie todos os upgrades de arma melee.',                                       description_en:'Unlock all melee weapon upgrades.',                                                      category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-15',   platform:'ps',   sort_order:15, name:'Melee Expert',            description:'Desbloqueie todos os upgrades de arma melee.',                                       description_en:'Unlock all melee weapon upgrades.',                                                      category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-16', platform:'xbox', sort_order:16, name:'Shield Adept',            description:'Desbloqueie todos os upgrades base do escudo.',                                      description_en:'Unlock all base shield upgrades.',                                                       category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-16',   platform:'ps',   sort_order:16, name:'Shield Adept',            description:'Desbloqueie todos os upgrades base do escudo.',                                      description_en:'Unlock all base shield upgrades.',                                                       category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-17', platform:'xbox', sort_order:17, name:'Berserker',               description:'Desbloqueie todos os upgrades de Escudo Base, Shield Rune e Arma Melee.',           description_en:'Unlock all Base Shield, Shield Rune, and Melee Weapon upgrades.',                        category:'Upgrades',  rarity:'gold',   missable:false, secret:false, points:'100G', trophy_type:null,      icon_url:'' },
+    { id:'ps-17',   platform:'ps',   sort_order:17, name:'Berserker',               description:'Desbloqueie todos os upgrades de Escudo Base, Shield Rune e Arma Melee.',           description_en:'Unlock all Base Shield, Shield Rune, and Melee Weapon upgrades.',                        category:'Upgrades',  rarity:'gold',   missable:false, secret:false, points:null,    trophy_type:'Ouro',    icon_url:'' },
+
+    // ── DEMONIC ESSENCE (Upgrades de status) ──
+    { id:'xbox-18', platform:'xbox', sort_order:18, name:'Essential Upgrade',       description:'Obtenha seu primeiro upgrade de Essência Demoníaca.',                               description_en:'Obtain your first Demonic Essence upgrade.',                                             category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-18',   platform:'ps',   sort_order:18, name:'Essential Upgrade',       description:'Obtenha seu primeiro upgrade de Essência Demoníaca.',                               description_en:'Obtain your first Demonic Essence upgrade.',                                             category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-19', platform:'xbox', sort_order:19, name:'Essential Ammo',          description:'Obtenha todos os upgrades de munição da Essência Demoníaca.',                        description_en:'Obtain all Demonic Essence ammo upgrades.',                                              category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-19',   platform:'ps',   sort_order:19, name:'Essential Ammo',          description:'Obtenha todos os upgrades de munição da Essência Demoníaca.',                        description_en:'Obtain all Demonic Essence ammo upgrades.',                                              category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-20', platform:'xbox', sort_order:20, name:'Essential Armor',         description:'Obtenha todos os upgrades de armadura da Essência Demoníaca.',                       description_en:'Obtain all Demonic Essence armor upgrades.',                                             category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-20',   platform:'ps',   sort_order:20, name:'Essential Armor',         description:'Obtenha todos os upgrades de armadura da Essência Demoníaca.',                       description_en:'Obtain all Demonic Essence armor upgrades.',                                             category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-21', platform:'xbox', sort_order:21, name:'Essential Health',        description:'Obtenha todos os upgrades de vida da Essência Demoníaca.',                           description_en:'Obtain all Demonic Essence health upgrades.',                                            category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-21',   platform:'ps',   sort_order:21, name:'Essential Health',        description:'Obtenha todos os upgrades de vida da Essência Demoníaca.',                           description_en:'Obtain all Demonic Essence health upgrades.',                                            category:'Upgrades',  rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-22', platform:'xbox', sort_order:22, name:'Essentially Unstoppable', description:'Obtenha todos os upgrades de Essência Demoníaca.',                                   description_en:'Obtain all Demonic Essence upgrades.',                                                   category:'Upgrades',  rarity:'gold',   missable:false, secret:false, points:'100G', trophy_type:null,      icon_url:'' },
+    { id:'ps-22',   platform:'ps',   sort_order:22, name:'Essentially Unstoppable', description:'Obtenha todos os upgrades de Essência Demoníaca.',                                   description_en:'Obtain all Demonic Essence upgrades.',                                                   category:'Upgrades',  rarity:'gold',   missable:false, secret:false, points:null,    trophy_type:'Ouro',    icon_url:'' },
+
+    // ── SHIELD RUNES ──
+    { id:'xbox-23', platform:'xbox', sort_order:23, name:'Ancestral Blessing',      description:'Obtenha sua primeira Shield Rune.',                                                  description_en:'Obtain your first Shield Rune.',                                                         category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-23',   platform:'ps',   sort_order:23, name:'Ancestral Blessing',      description:'Obtenha sua primeira Shield Rune.',                                                  description_en:'Obtain your first Shield Rune.',                                                         category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+    { id:'xbox-24', platform:'xbox', sort_order:24, name:'Powerful Investment',     description:'Maximize uma única Shield Rune.',                                                    description_en:'Fully upgrade a single Shield Rune.',                                                    category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-24',   platform:'ps',   sort_order:24, name:'Powerful Investment',     description:'Maximize uma única Shield Rune.',                                                    description_en:'Fully upgrade a single Shield Rune.',                                                    category:'Upgrades',  rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+
+    // ── COLETÁVEIS / CHALLENGES ──
+    { id:'xbox-25', platform:'xbox', sort_order:25, name:'Toy Collector',           description:'Colete todos os brinquedos colecionáveis do jogo.',                                 description_en:'Collect all collectible toys in the game.',                                              category:'Coletáveis',rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-25',   platform:'ps',   sort_order:25, name:'Toy Collector',           description:'Colete todos os brinquedos colecionáveis do jogo.',                                 description_en:'Collect all collectible toys in the game.',                                              category:'Coletáveis',rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-26', platform:'xbox', sort_order:26, name:'Lore Nerd',               description:'Colete todos os itens de lore do jogo.',                                             description_en:'Collect all lore items in the game.',                                                    category:'Coletáveis',rarity:'silver', missable:false, secret:false, points:'30G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-26',   platform:'ps',   sort_order:26, name:'Lore Nerd',               description:'Colete todos os itens de lore do jogo.',                                             description_en:'Collect all lore items in the game.',                                                    category:'Coletáveis',rarity:'silver', missable:false, secret:false, points:null,    trophy_type:'Prata',   icon_url:'' },
+    { id:'xbox-27', platform:'xbox', sort_order:27, name:'Challenge Completed',     description:'Conclua todos os Mission Challenges da campanha.',                                   description_en:'Complete all Mission Challenges in the campaign.',                                        category:'Grind',     rarity:'gold',   missable:false, secret:false, points:'100G', trophy_type:null,      icon_url:'' },
+    { id:'ps-27',   platform:'ps',   sort_order:27, name:'Challenge Completed',     description:'Conclua todos os Mission Challenges da campanha.',                                   description_en:'Complete all Mission Challenges in the campaign.',                                        category:'Grind',     rarity:'gold',   missable:false, secret:false, points:null,    trophy_type:'Ouro',    icon_url:'' },
+    { id:'xbox-28', platform:'xbox', sort_order:28, name:'Gimme That',              description:'Pegue um item de um inimigo usando o escudo como bumerangue.',                       description_en:'Grab an item from an enemy using the shield as a boomerang.',                            category:'Coletáveis',rarity:'bronze', missable:false, secret:false, points:'15G',  trophy_type:null,      icon_url:'' },
+    { id:'ps-28',   platform:'ps',   sort_order:28, name:'Gimme That',              description:'Pegue um item de um inimigo usando o escudo como bumerangue.',                       description_en:'Grab an item from an enemy using the shield as a boomerang.',                            category:'Coletáveis',rarity:'bronze', missable:false, secret:false, points:null,    trophy_type:'Bronze',  icon_url:'' },
+  ];
+
+  // Mapa de categorias PT→EN para os filtros e tags
+  const CAT_EN = {
+    'História':'Story','Chefes':'Bosses','Upgrades':'Upgrades','Coletáveis':'Collectibles','Grind':'Grind'
+  };
+
+  function buildPanel(achievements, platform, isEN) {
+    const sourceList = platform === 'steam'
+      ? achievements.filter(a => a.platform === 'xbox' && a.rarity !== 'platinum').map(a => ({...a, platform:'steam'}))
+      : achievements.filter(a => a.platform === platform && a.rarity !== 'platinum');
+
+    const totalPts = platform === 'xbox'
+      ? achievements.filter(a => a.platform === 'xbox').reduce((s,a) => s + parseInt(a.points||0), 0) + 'G'
+      : platform === 'ps' ? (isEN ? 'Platinum' : 'Platina') : '🖥️ PC';
+    const ptsLabel = platform === 'xbox'
+      ? (isEN ? 'Total Points' : 'Total de Pontos')
+      : platform === 'ps' ? (isEN ? 'Max Trophy' : 'Troféu Máximo') : (isEN ? 'Platform' : 'Plataforma');
+    const ptsColor = platform === 'xbox' ? 'xbox-color' : platform === 'ps' ? 'ps-color' : '';
+    const missable = sourceList.filter(a => a.missable).length;
+
+    const filtersPT = ['Todas','História','Chefes','Upgrades','Coletáveis','Grind'];
+    const filtersEN = ['All','Story','Bosses','Upgrades','Collectibles','Grind'];
+    const filters   = isEN ? filtersEN : filtersPT;
+
+    const achLabel      = isEN ? 'Achievements' : 'Conquistas';
+    const missableLabel = isEN ? 'Missable' : 'Missáveis';
+    const filterLabel   = isEN ? 'Filter:' : 'Filtrar:';
+    const noneLabel     = isEN ? '✓ None' : '✓ Nenhuma';
+
+    let html = `
+      <div class="ach-summary">
+        <div class="ach-stat">
+          <div class="ach-stat-label">${ptsLabel}</div>
+          <div class="ach-stat-value ${ptsColor}">${totalPts}</div>
+        </div>
+        <div class="ach-stat">
+          <div class="ach-stat-label">${achLabel}</div>
+          <div class="ach-stat-value">${sourceList.length}</div>
+        </div>
+        <div class="ach-stat">
+          <div class="ach-stat-label">${missableLabel}</div>
+          <div class="ach-stat-value" style="color:#16a34a">${missable === 0 ? noneLabel : missable}</div>
+        </div>
+      </div>
+      <div class="ach-filter-row">
+        <span class="ach-filter-label">${filterLabel}</span>
+        ${filters.map((l,i) => `<button class="ach-filter-btn${i===0?' active':''}" data-filter-en="${filtersEN[i]}" data-filter-pt="${filtersPT[i]}" onclick="filterAch(this,'${platform}')">${l}</button>`).join('')}
+      </div>
+      <div class="ach-list">`;
+
+    sourceList.sort((a,b) => a.sort_order - b.sort_order).forEach(a => {
+      const uid = `${platform}-${a.id}`;
+      const catLabel = isEN ? (CAT_EN[a.category] || a.category) : a.category;
+      const desc = isEN && a.description_en ? a.description_en : a.description;
+
+      const tags = [
+        `<span class="ach-tag tag-story">${catLabel}</span>`,
+        a.secret ? `<span class="ach-tag tag-secret">${isEN ? 'Secret' : 'Secreto'}</span>` : '',
+        `<span class="ach-tag tag-unmissable">${isEN ? 'Unmissable' : 'Unmissable'}</span>`,
+      ].filter(Boolean).join('');
+
+      const trophyLabel = a.trophy_type === 'Platina' ? (isEN ? 'Platinum' : 'Platina')
+        : a.trophy_type === 'Ouro'   ? (isEN ? 'Gold'   : 'Ouro')
+        : a.trophy_type === 'Prata'  ? (isEN ? 'Silver' : 'Prata')
+        : (isEN ? 'Bronze' : 'Bronze');
+      const trophyCls = a.trophy_type === 'Platina' ? 'platinum'
+        : a.trophy_type === 'Ouro' ? 'ouro'
+        : a.trophy_type === 'Prata' ? 'prata' : 'bronze';
+
+      const pts = platform === 'xbox'
+        ? `<div class="ach-pts-value xbox-pts">${a.points||'?'}</div><div class="ach-pts-label">Gamerscore</div>`
+        : platform === 'steam'
+          ? `<div style="font-size:20px;text-align:center">🏆</div>`
+          : `<div class="trophy-${trophyCls}">${trophyLabel}</div>`;
+
+      const svgFallback = `<span class="ach-icon-svg" style="color:${RARITY_COLOR[a.rarity]||'#b45309'}">${ICON_SVG[a.category]||ICON_SVG['História']}</span>`;
+      const icon = a.icon_url
+        ? `<img src="${a.icon_url}" alt="${a.name}" class="ach-icon-img" onerror="this.replaceWith(this.nextElementSibling)">${svgFallback}`
+        : svgFallback;
+
+      const guideTitle = isEN ? `How to unlock: ${a.name}` : `Como desbloquear: ${a.name}`;
+
+      html += `
+        <div class="ach-item" data-achcat="${a.category}" onclick="toggleGuide('${uid}')">
+          <div class="ach-icon ${a.rarity}">${icon}</div>
+          <div class="ach-info">
+            <div class="ach-name">${a.name}</div>
+            <div class="ach-desc">${desc}</div>
+            <div class="ach-tags">${tags}</div>
+          </div>
+          <div class="ach-pts">${pts}</div>
+        </div>
+        <div class="ach-guide-drawer" id="guide-${uid}">
+          <div class="ach-guide-title">${guideTitle}</div>
+          <div class="ach-guide-body">
+            <p>${isEN ? 'Click to see the detailed guide for this achievement.' : 'Clique para ver o guia detalhado desta conquista.'}</p>
+          </div>
+        </div>`;
+    });
+
+    html += '</div>';
+    return html;
+  }
+
+  function switchPlatform(plat) {
+    ['xbox','ps','steam'].forEach(p => {
+      document.getElementById('panel-' + p).classList.toggle('active', p === plat);
+      const tab = document.getElementById('ach-tab-' + p);
+      tab.className = 'ach-tab';
+      if (p === plat) tab.classList.add('active-' + p);
+    });
+  }
+
+  function toggleGuide(id) {
+    const drawer = document.getElementById('guide-' + id);
+    if (!drawer) return;
+    const isOpen = drawer.classList.contains('open');
+    drawer.closest('.ach-platform-panel').querySelectorAll('.ach-guide-drawer').forEach(d => d.classList.remove('open'));
+    if (!isOpen) drawer.classList.add('open');
+  }
+
+  function filterAch(btn, plat) {
+    const panel = document.getElementById('panel-' + plat);
+    panel.querySelectorAll('.ach-filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    // Usa sempre o valor PT para comparar com data-achcat (que é sempre PT)
+    const catPT = btn.dataset.filterPt || btn.textContent.trim();
+    const isAll = catPT === 'Todas' || catPT === 'All';
+    panel.querySelectorAll('.ach-item').forEach(item => {
+      const show = isAll ? true : item.dataset.achcat === catPT;
+      item.style.display = show ? '' : 'none';
+      const next = item.nextElementSibling;
+      if (next?.classList.contains('ach-guide-drawer')) {
+        next.style.display = show ? '' : 'none';
+        if (!show) next.classList.remove('open');
+      }
+    });
+  }
+
+  window.addEventListener('DOMContentLoaded', () => {
+    const isEN = getLang() === 'en';
+    const game = GAME_DATA;
+
+    // ── Título e meta do jogo ──
+    document.getElementById('game-title').textContent = game.title;
+    document.title = `${game.title} — ${isEN ? 'Achievements' : 'Conquistas'} · Checkpoint Digital`;
+    document.getElementById('game-meta').innerHTML =
+      `<span>🎮 ${game.developer}</span>` +
+      `<span>📅 ${game.release_year}</span>` +
+      `<span>⚡ ${isEN ? 'Difficulty' : 'Dificuldade'}: ${isEN ? 'Medium' : game.difficulty}</span>` +
+      `<span>⏱ ${game.hours_estimate}</span>` +
+      `<span style="color:#4ade80">✓ ${isEN ? 'No missable achievements' : 'Nenhuma conquista missável'}</span>`;
+
+    // ── Hero eyebrow ──
+    document.getElementById('hero-eyebrow').textContent = isEN ? '🏆 Achievement Guide' : '🏆 Guia de Conquistas';
+
+    // ── Back button ──
+    document.getElementById('back-btn').textContent = isEN ? '← Back to game list' : '← Voltar à lista de jogos';
+
+    // ── Review Box ──
+    document.getElementById('rb-section-title').textContent = isEN ? 'Our score' : 'Nossa nota';
+    document.getElementById('rb-score-label').textContent   = isEN ? 'Great' : 'Ótimo';
+    document.getElementById('pros-title').innerHTML  = isEN ? '✔ Pros'  : '✔ Prós';
+    document.getElementById('cons-title').innerHTML  = isEN ? '✘ Cons'  : '✘ Contras';
+    document.getElementById('verdict-label').textContent = isEN ? 'Final verdict' : 'Veredicto final';
+
+    document.getElementById('pro-1').textContent = isEN
+      ? 'Combat that rewards aggression and mastery'
+      : 'Combate que recompensa agressividade e maestria';
+    document.getElementById('pro-2').textContent = isEN
+      ? 'Imposing and diverse boss gallery'
+      : 'Galeria de chefes imponente e diversificada';
+    document.getElementById('pro-3').textContent = isEN
+      ? 'Medieval aesthetic with brutal personality'
+      : 'Estética medieval com personalidade brutal';
+    document.getElementById('pro-4').textContent = isEN
+      ? 'Fluid progression with zero missable achievements'
+      : 'Progressão fluida com zero conquistas missáveis';
+
+    document.getElementById('con-1').textContent = isEN
+      ? 'Shorter campaign than Eternal or 2016'
+      : 'Campanha mais curta que Eternal ou 2016';
+    document.getElementById('con-2').textContent = isEN
+      ? 'No online multiplayer at launch'
+      : 'Sem multijogador online no lançamento';
+    document.getElementById('con-3').textContent = isEN
+      ? 'Navigation mechanics can frustrate newcomers'
+      : 'Mecânicas de navegação podem frustrar iniciantes';
+
+    document.getElementById('verdict-text').textContent = isEN
+      ? 'DOOM: The Dark Ages proves that id Software still knows how to reinvent without breaking. The medieval setting breathes new life into the franchise and the achievement list reflects that spirit: challenging but fair, without cheap missables. If you\'re a fan of intense action, this is one of the best completions of 2025.'
+      : 'DOOM: The Dark Ages prova que a id Software ainda sabe como reinventar sem quebrar. O cenário medieval dá um novo fôlego para a franquia e a lista de conquistas reflete esse espírito: desafiadora mas justa, sem missáveis baratos. Se você é fã de ação intensa, esse é um dos melhores completionisms de 2025.';
+
+    document.getElementById('review-link').textContent = isEN
+      ? '📰 Read the full review →'
+      : '📰 Leia o review completo →';
+
+    // ── Tabs ──
+    document.getElementById('label-xbox').textContent  = `Xbox — 1000G`;
+    document.getElementById('label-ps').textContent    = `PlayStation — ${isEN ? 'Platinum' : 'Platina'}`;
+    document.getElementById('label-steam').textContent = `Steam`;
+
+    // ── Renderiza painéis ──
+    document.getElementById('panel-xbox').innerHTML  = buildPanel(ACHIEVEMENTS, 'xbox',  isEN);
+    document.getElementById('panel-ps').innerHTML    = buildPanel(ACHIEVEMENTS, 'ps',    isEN);
+    document.getElementById('panel-steam').innerHTML = buildPanel(ACHIEVEMENTS, 'steam', isEN);
+    switchPlatform('xbox');
+  });
+</script>
+</body>
+</html>

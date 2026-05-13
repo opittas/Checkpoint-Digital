@@ -1,0 +1,17 @@
+# Imagens locais (hospedadas no Supabase Storage)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+
+# Scripts de manutenção
+upload_images.py
+setup_github.py
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

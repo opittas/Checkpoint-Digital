@@ -330,3 +330,4 @@ const CK_AUTH = (function () {
            SOCIAIS, provedores, entrarCom, identidades, vincularProvedor, desvincularProvedor,
            vinculos, salvarVinculoManual, urlSteam, concluirSteam, importarSteam, chamarSteam };
 })();
+window.CK_AUTH = CK_AUTH;

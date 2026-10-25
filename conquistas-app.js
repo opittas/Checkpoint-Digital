@@ -149,3 +149,4 @@ const CK = (function () {
            rarity, diffMeter, platBadges, esc, norm, toast, imgSrc,
            STATUS, getLib, saveLib, setLibItem, inLib, statusLabel };
 })();
+window.CK = CK;

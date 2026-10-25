@@ -1,0 +1,202 @@
+{
+ "resumo": "Roguelite com uma das listas mais pesadas: 5 Células de Chefe, chefes sem levar dano e runs com condições especiais. Nada é perdível — cada run é uma nova chance — mas quase metade das conquistas exige as DLCs pagas.",
+ "roadmap": [
+  {
+   "titulo": "Runas e biomas",
+   "texto": "Explore para pegar as runas (Liana, Teletransporte, Ruína, Aranha e Desafiante). Elas abrem os caminhos para todos os biomas do jogo base."
+  },
+  {
+   "titulo": "Células de Chefe",
+   "texto": "Vença a Mão do Rei para ganhar cada Célula de Chefe (até 5) e termine uma run com cada nível ativo. Na 5ª, o caminho final leva ao Coletor."
+  },
+  {
+   "titulo": "Sem levar dano",
+   "texto": "As lutas sem dano valem em qualquer dificuldade: treine cada chefe no 0 Célula de Chefe, com builds de sobrevivência."
+  },
+  {
+   "titulo": "Runs especiais",
+   "texto": "Termine com a arma inicial, com a Espada Maldita e com o amuleto de vida única. Separe runs para as escolhas do Cogumelo Companheiro."
+  },
+  {
+   "titulo": "DLCs",
+   "texto": "The Bad Seed, Fatal Falls, The Queen and the Sea e Return to Castlevania somam mais de 40 conquistas próprias."
+  }
+ ],
+ "avisos": [
+  "Algumas conquistas do Cogumelo Companheiro se excluem na mesma run, mas podem ser feitas em runs diferentes.",
+  "O Desafio Diário precisa de internet."
+ ],
+ "conquistas": {
+  "BIOME_REACHED_GREENHOUSE": {
+   "dlc": "The Bad Seed"
+  },
+  "BIOME_REACHED_SWAMP": {
+   "dlc": "The Bad Seed"
+  },
+  "BIOME_REACHED_SWAMPHEART": {
+   "dlc": "The Bad Seed"
+  },
+  "FIGHT_BEAT_MAMATICK": {
+   "dlc": "The Bad Seed"
+  },
+  "FIGHT_BEAT_MAMATICK_NODAMAGE": {
+   "dlc": "The Bad Seed"
+  },
+  "BIOME_REACHED_GARDENER": {
+   "dlc": "Fatal Falls"
+  },
+  "BIOME_REACHED_CLIFF": {
+   "dlc": "Fatal Falls"
+  },
+  "BIOME_REACHED_TUMULUS": {
+   "dlc": "Fatal Falls"
+  },
+  "FIGHT_BEAT_GARDENER": {
+   "dlc": "Fatal Falls"
+  },
+  "FIGHT_BEAT_GARDENER_NODAMAGE": {
+   "dlc": "Fatal Falls"
+  },
+  "FIGHT_BEAT_GARDENER_NOBOUNCE": {
+   "dlc": "Fatal Falls"
+  },
+  "FEAT_COMBO_SICKLES": {
+   "dlc": "Fatal Falls"
+  },
+  "FEAT_PENDULO_TRAP_KILL": {
+   "dlc": "Fatal Falls"
+  },
+  "FEAT_COSTUME_REQUIRED": {
+   "dlc": "Fatal Falls"
+  },
+  "BIOME_REACHED_SHIPWRECK": {
+   "dlc": "The Queen and the Sea"
+  },
+  "BIOME_REACHED_LIGHTHOUSE": {
+   "dlc": "The Queen and the Sea"
+  },
+  "BIOME_REACHED_QUEENARENA": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FIGHT_BEAT_QUEEN": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FIGHT_BEAT_QUEEN_NODAMAGE": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FIGHT_BEAT_QUEEN_FALL": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FIGHT_BEAT_QUEEN_CARDS": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FIGHT_BEAT_QUEEN_COSTUME": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FEAT_STAPHY_EVOLVE": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FEAT_STAPHY_KILL_STAPHY": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FEAT_KILL_PIRATE_CANNON": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FEAT_WRECKINGBALL_STRIKE": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FEAT_HANDHOOK_SPIKES": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FEAT_SHARK_WATER": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FEAT_SERVANT_COSTUME": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FIGHT_BEAT_AMAZONS": {
+   "dlc": "The Queen and the Sea"
+  },
+  "FIGHT_BEAT_AMAZONS_NODAMAGE": {
+   "dlc": "The Queen and the Sea"
+  },
+  "BIOME_REACHED_PGARDEN": {
+   "dlc": "Return to Castlevania"
+  },
+  "BIOME_REACHED_PCASTLE": {
+   "dlc": "Return to Castlevania"
+  },
+  "BIOME_REACHED_DEATH": {
+   "dlc": "Return to Castlevania"
+  },
+  "BIOME_REACHED_DOOKU": {
+   "dlc": "Return to Castlevania"
+  },
+  "FIGHT_BEAT_DEATH": {
+   "dlc": "Return to Castlevania"
+  },
+  "FIGHT_BEAT_DEATH_NODAMAGE": {
+   "dlc": "Return to Castlevania"
+  },
+  "FIGHT_BEAT_DOOKU": {
+   "dlc": "Return to Castlevania"
+  },
+  "FIGHT_BEAT_DOOKU_BEAST": {
+   "dlc": "Return to Castlevania"
+  },
+  "FIGHT_BEAT_DOOKU_NODAMAGE": {
+   "dlc": "Return to Castlevania"
+  },
+  "FEAT_CAT_KILL_DEATH": {
+   "dlc": "Return to Castlevania"
+  },
+  "FEAT_AXE_KILL_WWOLF": {
+   "dlc": "Return to Castlevania"
+  },
+  "FEAT_VKILLER_KILL_DOOKU": {
+   "dlc": "Return to Castlevania"
+  },
+  "FEAT_BIBLE_MULTI_HIT": {
+   "dlc": "Return to Castlevania"
+  },
+  "FEAT_DEATH_LOST_100_CELLS": {
+   "dica": "Faça numa run em que você não se importe de perder: junte 100 células antes de um Coletor e morra de propósito."
+  },
+  "FEAT_KILLYOURSELF_ELEVATOR": {
+   "dica": "Fique embaixo de um elevador que está descendo."
+  },
+  "FEAT_DIVE_SPIKES": {
+   "dica": "Use o ataque de mergulho (para baixo no ar) em cima de estacas."
+  },
+  "FEAT_ENDGAME_STARTWEAPON": {
+   "dica": "Vença a Mão do Rei usando só a espada, o arco ou o escudo iniciais — mais fácil no 0 Célula de Chefe."
+  },
+  "FEAT_SURVIVE_CURSE": {
+   "dica": "Pegue um baú amaldiçoado e mate a quantidade de inimigos pedida sem levar dano."
+  },
+  "EQUIP_ENDGAME_CURSEDSWORD": {
+   "dica": "A Espada Maldita mata você com um golpe; use mutações defensivas e vá devagar."
+  },
+  "FEAT_ENDGAME_NOKILL_MUSHROOM_BOI": {
+   "dica": "Excludente na mesma run com 'Direto pro Inferno' — faça em runs separadas."
+  },
+  "FEAT_EXPLODE_MUSHROOM_BOI": {
+   "dica": "Faça em uma run diferente de 'Quem é um bom garoto?'."
+  },
+  "FEAT_PRISON_NOBREAK_DOOR": {
+   "dica": "Na primeira fase, abra todas as portas normalmente, sem quebrá-las com ataques."
+  },
+  "FEAT_FINISHLEVEL_NOLAUNCHER": {
+   "dica": "Atravesse a Destilaria sem usar os Lança-barris para subir."
+  },
+  "FEAT_DEBT": {
+   "dica": "No Banco, pegue o máximo de empréstimo e termine a run sem pagar."
+  },
+  "FIGHT_BEAT_BEHEMOTH_NODAMAGE": {
+   "dica": "As conquistas 'sem ser atingido' valem em qualquer dificuldade: treine no 0 Célula de Chefe."
+  },
+  "FEAT_COMPLETE_1_DAILYRUN": {
+   "dica": "O Desafio Diário fica no menu principal e exige conexão com a internet."
+  }
+ }
+}

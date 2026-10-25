@@ -135,6 +135,31 @@
   "image": "imagens/jogos/hollowknight.jpg"
  },
  {
+  "id": "deadcells",
+  "title": "Dead Cells",
+  "developer": "Motion Twin · Evil Empire",
+  "year": 2018,
+  "steam_appid": 588650,
+  "platforms": [
+   "xbox",
+   "ps",
+   "steam",
+   "nin"
+  ],
+  "labels": {
+   "xbox": "1000G",
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 9,
+  "hours": "150–250h",
+  "playthroughs": "Várias runs (roguelite)",
+  "online": false,
+  "dlc_note": "Várias conquistas exigem as DLCs pagas: The Bad Seed, Fatal Falls, The Queen and the Sea e Return to Castlevania.",
+  "mode": "conquistas",
+  "image": "imagens/jogos/deadcells.jpg"
+ },
+ {
   "id": "halo",
   "title": "Halo Infinite",
   "developer": "343 Industries · Xbox Game Studios",

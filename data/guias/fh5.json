@@ -1,0 +1,11 @@
+{
+  "resumo": "Conquistas acessíveis, mas numerosas e demoradas. Várias exigem modos online (Arcade do Festival, Eliminator, Horizon Open) e as expansões trazem mais 54.",
+  "roadmap": [
+    { "titulo": "Campanha", "texto": "Complete as Expedições e as séries de eventos para liberar os capítulos do Festival." },
+    { "titulo": "Exploração", "texto": "Placas de bônus, estradas, celeiros escondidos e fotos das atrações." },
+    { "titulo": "Online", "texto": "Faça as conquistas de modo online quando houver mais jogadores disponíveis." },
+    { "titulo": "Expansões", "texto": "Hot Wheels e Rally Adventure têm listas próprias." }
+  ],
+  "avisos": ["Parte das conquistas depende de modos online."],
+  "conquistas": {}
+}

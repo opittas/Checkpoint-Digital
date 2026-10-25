@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Conquistas — Checkpoint Digital</title>
+<link rel="stylesheet" href="../shared.css">
+<link rel="stylesheet" href="../conquistas-app.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+<div id="app">
+  <div class="ck-empty" style="padding:120px 20px"><div class="ck-spinner"></div></div>
+</div>
+<footer id="site-footer"></footer>
+
+<script src="../shared.js"></script>
+<script src="../conquistas-app.js"></script>
+<script>
+  renderHeader('ach', '../');
+  renderFooter('../');
+
+  const T = CK.tr, EN = CK.isEN(), esc = CK.esc;
+  const gid = new URLSearchParams(location.search).get('id') || '';
+  const S = { view: 'todas', tag: '', q: '', sort: 'ordem', hideSpoilers: true };
+  try { S.hideSpoilers = localStorage.getItem('ck_spoilers') !== 'show'; } catch (e) {}
+
+  let game, achs = [], guide, meta, prog;
+  const app = document.getElementById('app');
+
+  function fail(msg) {
+    app.innerHTML = `<div class="ck-empty" style="padding:120px 20px"><div class="big">😕</div>
+      <div style="font-weight:800;color:var(--text);margin-bottom:8px">${msg}</div>
+      <a href="../conquistas.html" style="color:var(--ach-strong);font-weight:700">${T('← Voltar à lista de jogos', '← Back to game list')}</a></div>`;
+  }
+
+  const nm = a => (EN ? a.n_en || a.n : a.n) || '';
+  const ds = a => (EN ? a.d_en || a.d : a.d) || '';
+
+  // ── HERO ──
+  function heroHTML() {
+    const miss = achs.filter(a => a.missavel).length;
+    const chips = [
+      achs.length ? `🏆 ${achs.length} ${game.mode === 'checklist' ? T('metas', 'goals') : T('conquistas', 'achievements')}` : '',
+      game.difficulty ? `⚡ ${T('Dificuldade', 'Difficulty')} ${game.difficulty}/10` : '',
+      game.hours ? `⏱ ${game.hours}` : '',
+      game.playthroughs ? `🔁 ${game.playthroughs}` : '',
+      game.online ? `🌐 ${T('Tem conquistas online', 'Has online achievements')}` : '',
+    ].filter(Boolean).map(c => `<span class="g-chip">${esc(c)}</span>`).join('')
+      + (miss ? `<span class="g-chip warn">⚠️ ${miss} ${T('perdíveis', 'missable')}</span>` : '');
+    const img = CK.imgSrc(game.image);
+    return `
+      <section class="g-hero">
+        <div class="g-hero-bg" style="background-image:url('${img}')"></div>
+        <div class="g-hero-shade"></div>
+        <div class="g-hero-inner">
+          <img class="g-cover" src="${img}" alt="${esc(game.title)}" onerror="this.style.visibility='hidden'">
+          <div>
+            <a class="g-back" href="../conquistas.html">← ${T('Todos os jogos', 'All games')}</a>
+            <h1 class="g-title">${esc(game.title)}</h1>
+            <div class="g-dev">${esc(game.developer)} · ${game.year}</div>
+            <div class="ck-plats" style="margin-bottom:12px">${CK.platBadges(game)}</div>
+            <div class="g-chips">${chips}</div>
+          </div>
+        </div>
+      </section>`;
+  }
+
+  // ── PROGRESSO ──
+  function progressHTML() {
+    const done = achs.filter(a => CK.isDone(a, prog)).length;
+    const pct = achs.length ? Math.round(done / achs.length * 100) : 0;
+    const msg = done === 0 ? T('Marque as conquistas que você já tem — fica salvo neste navegador.', 'Tick the achievements you already have — saved in this browser.')
+      : done === achs.length ? T('Parabéns, você completou tudo! 🏆', 'Congrats, you got everything! 🏆')
+      : T(`Faltam ${achs.length - done}. Continue assim!`, `${achs.length - done} to go. Keep it up!`);
+    return `
+      <div class="g-progress" id="progress">
+        <div class="g-ring" style="--pct:${pct}"><div>${pct}%</div></div>
+        <div><h3>${done} ${T('de', 'of')} ${achs.length} ${T('concluídas', 'completed')}</h3><p>${msg}</p></div>
+        <div class="g-actions">
+          <button class="ck-btn" data-act="all">✓ ${T('Marcar todas', 'Mark all')}</button>
+          <button class="ck-btn" data-act="clear">↺ ${T('Limpar', 'Reset')}</button>
+        </div>
+      </div>`;
+  }
+
+  // ── GUIA ──
+  function guideHTML() {
+    if (!guide) return '';
+    const steps = (guide.roadmap || []).map((s, i) =>
+      `<div class="g-step"><div class="g-step-n">${i + 1}</div><b>${esc(s.titulo)}</b><p>${esc(s.texto)}</p></div>`).join('');
+    const avisos = (guide.avisos || []).concat(game.dlc_note ? [game.dlc_note] : [])
+      .map(a => `<div class="g-aviso">${esc(a)}</div>`).join('');
+    const open = !Object.keys(prog).length ? ' open' : '';
+    return `
+      <details class="g-guide"${open}>
+        <summary>🗺️ ${T('Roteiro para platinar', 'Roadmap')}${EN ? ' <span style="font-weight:600;color:var(--text3);font-size:12px">(in Portuguese)</span>' : ''}<span class="chev">▾</span></summary>
+        <div class="g-guide-body">
+          ${guide.resumo ? `<p class="g-resumo">${esc(guide.resumo)}</p>` : ''}
+          ${steps ? `<div class="g-steps">${steps}</div>` : ''}
+          ${avisos ? `<div class="g-avisos">${avisos}</div>` : ''}
+        </div>
+      </details>`;
+  }
+
+  // ── FILTROS ──
+  const TAGS = [
+    ['miss',   T('Perdíveis', 'Missable'),  a => a.missavel],
+    ['secret', T('Secretas', 'Secret'),     a => a.h],
+    ['rare',   T('Raras (<15%)', 'Rare (<15%)'), a => a.p != null && a.p < 15],
+    ['dlc',    'DLC',                       a => !!a.dlc],
+    ['online', 'Online',                    a => a.online],
+  ];
+  function toolbarHTML() {
+    const done = achs.filter(a => CK.isDone(a, prog)).length;
+    const views = [['todas', T('Todas', 'All'), achs.length], ['pend', T('Pendentes', 'To do'), achs.length - done], ['feitas', T('Concluídas', 'Done'), done]];
+    const tags = TAGS.map(([id, lbl, fn]) => [id, lbl, achs.filter(fn).length]).filter(t => t[2] > 0);
+    const sorts = [['ordem', T('Ordem do jogo', 'Game order')], ['raras', T('Mais raras primeiro', 'Rarest first')],
+                   ['comuns', T('Mais comuns primeiro', 'Most common first')], ['az', 'A–Z']];
+    const hasPct = achs.some(a => a.p != null);
+    const hasSecret = achs.some(a => a.h);
+    return `
+      <div class="ck-toolbar"><div class="ck-toolbar-inner">
+        <label class="ck-search">🔎 <input id="q" type="search" value="${esc(S.q)}" placeholder="${T('Buscar conquista…', 'Search achievement…')}" autocomplete="off"></label>
+        <div class="ck-chips">${views.map(([id, l, n]) => `<button class="ck-chip${S.view === id ? ' on' : ''}" data-view="${id}">${l}<span class="n">${n}</span></button>`).join('')}</div>
+        <div class="ck-chips">${tags.map(([id, l, n]) => `<button class="ck-chip${S.tag === id ? ' on' : ''}" data-tag="${id}">${l}<span class="n">${n}</span></button>`).join('')}</div>
+        ${hasPct ? `<select class="ck-select" id="sort">${sorts.map(([v, l]) => `<option value="${v}"${S.sort === v ? ' selected' : ''}>${l}</option>`).join('')}</select>` : ''}
+        ${hasSecret ? `<label class="ck-toggle"><input type="checkbox" id="spoil"${S.hideSpoilers ? ' checked' : ''}> ${T('Esconder spoilers', 'Hide spoilers')}</label>` : ''}
+      </div></div>`;
+  }
+
+  // ── LINHA ──
+  function rowHTML(a) {
+    const done = CK.isDone(a, prog);
+    const r = CK.rarity(a.p);
+    const desc = ds(a);
+    const spoil = a.h && S.hideSpoilers && !done && desc;
+    const tags = [
+      a.missavel ? `<span class="a-tag miss">⚠ ${T('Perdível', 'Missable')}</span>` : '',
+      a.h ? `<span class="a-tag secret">${T('Secreta', 'Secret')}</span>` : '',
+      a.dlc ? `<span class="a-tag dlc">${esc(a.dlc)}</span>` : '',
+      a.online ? `<span class="a-tag online">Online</span>` : '',
+    ].join('');
+    const icon = a.i ? `<img src="${esc(a.i)}" alt="" loading="lazy" onerror="this.replaceWith('🏆')">` : (a.qtd ? '🎯' : '🏆');
+    let side = '';
+    if (a.qtd) {
+      const cur = Number(prog['#' + a.k]) || (done ? a.qtd : 0);
+      side = `<div class="a-side"><span class="a-qty"><input type="number" min="0" max="${a.qtd}" value="${cur}" data-qty="${esc(a.k)}"><span>/ ${a.qtd}</span></span></div>`;
+    } else if (r) {
+      side = `<div class="a-side"><div class="a-pct">${a.p.toLocaleString(EN ? 'en' : 'pt-BR')}%</div><div class="a-rar ${r.cls}">${r.label}</div>
+              <div class="a-pbar ${r.cls}"><div style="width:${Math.max(2, a.p)}%"></div></div></div>`;
+    }
+    return `
+      <div class="a-row${done ? ' done' : ''}" data-k="${esc(a.k)}">
+        <button class="a-check" data-toggle="${esc(a.k)}" title="${done ? T('Desmarcar', 'Unmark') : T('Marcar como concluída', 'Mark as done')}" aria-pressed="${done}">${done ? '✓' : ''}</button>
+        <div class="a-icon">${icon}</div>
+        <div class="a-main">
+          <div class="a-name">${esc(nm(a))}</div>
+          ${desc ? `<div class="a-desc${spoil ? ' spoiler' : ''}" ${spoil ? `title="${T('Clique para revelar', 'Click to reveal')}"` : ''}>${esc(desc)}</div>` : ''}
+          ${tags ? `<div class="a-tags">${tags}</div>` : ''}
+          ${a.dica ? `<div class="a-tip">💡 <b>${T('Dica', 'Tip')}:</b> ${esc(a.dica)}</div>` : ''}
+        </div>
+        ${side}
+      </div>`;
+  }
+
+  function filtered() {
+    const q = CK.norm(S.q);
+    const tagFn = (TAGS.find(t => t[0] === S.tag) || [])[2];
+    let list = achs.filter(a => {
+      const done = CK.isDone(a, prog);
+      if (S.view === 'pend' && done) return false;
+      if (S.view === 'feitas' && !done) return false;
+      if (tagFn && !tagFn(a)) return false;
+      if (q && !CK.norm(nm(a) + ' ' + ds(a) + ' ' + a.n + ' ' + a.n_en).includes(q)) return false;
+      return true;
+    });
+    const by = {
+      ordem: (a, b) => a.ordem - b.ordem,
+      raras: (a, b) => (a.p ?? 101) - (b.p ?? 101),
+      comuns: (a, b) => (b.p ?? -1) - (a.p ?? -1),
+      az: (a, b) => nm(a).localeCompare(nm(b)),
+    }[S.sort];
+    return list.sort(by);
+  }
+
+  function listHTML() {
+    const list = filtered();
+    if (!list.length) return `<div class="ck-empty"><div class="big">🔍</div>${T('Nada encontrado com esses filtros.', 'Nothing matches these filters.')}</div>`;
+    const grupos = (meta && meta.grupos) || [];
+    if (S.sort === 'ordem' && grupos.length > 1) {
+      return grupos.map((g, gi) => {
+        const items = list.filter(a => a.g === gi);
+        if (!items.length) return '';
+        const title = g.nome || T('Jogo base', 'Base game');
+        return `<div class="a-group-title">${esc(title)} · ${items.length}</div>` + items.map(rowHTML).join('');
+      }).join('');
+    }
+    return list.map(rowHTML).join('');
+  }
+
+  function render() {
+    if (game.mode === 'sem-conquistas') {
+      app.innerHTML = heroHTML() + `
+        <main class="ck-wrap"><div class="g-guide" style="margin:28px 0 60px"><div class="g-guide-body" style="padding:22px">
+          <p class="g-resumo" style="margin:0">${T(
+            'Os consoles da Nintendo não têm um sistema oficial de conquistas ou troféus, então este jogo não possui uma lista para acompanhar. Quando houver metas de 100% confirmadas, elas aparecem aqui como checklist.',
+            'Nintendo consoles have no official achievement or trophy system, so there is no list to track for this game. Once confirmed 100% goals are available they will show up here as a checklist.')}</p>
+        </div></div></main>`;
+      return;
+    }
+    app.innerHTML = heroHTML() + `<main class="ck-wrap">${progressHTML()}${guideHTML()}</main>`
+      + toolbarHTML() + `<main class="ck-wrap"><div class="a-list" id="list">${listHTML()}</div>${noteHTML()}</main>`;
+  }
+
+  function noteHTML() {
+    if (!meta) return '';
+    const src = meta.fonte === 'Steam'
+      ? `${T('Lista e porcentagens oficiais da', 'Official list and percentages from')} <a href="https://steamcommunity.com/stats/${meta.appid}/achievements/" target="_blank" rel="noopener">Steam</a>`
+      : esc(meta.fonte || '');
+    const plat = meta.fonte === 'Steam' && (game.platforms.includes('xbox') || game.platforms.includes('ps'))
+      ? T(' · Xbox e PlayStation costumam ter a mesma lista (o PS soma o troféu de Platina).', ' · Xbox and PlayStation usually share the same list (PS adds the Platinum trophy).') : '';
+    const upd = meta.atualizado ? ` · ${T('atualizado em', 'updated')} ${new Date(meta.atualizado + 'T12:00:00').toLocaleDateString(EN ? 'en' : 'pt-BR')}` : '';
+    return `<p class="g-note">${src}${upd}${plat}</p>`;
+  }
+
+  // Atualiza só o que muda ao marcar (sem perder o scroll)
+  function refresh() {
+    const prev = document.getElementById('progress');
+    if (prev) prev.outerHTML = progressHTML();
+    const tb = document.querySelector('.ck-toolbar');
+    if (tb) {
+      const focused = document.activeElement && document.activeElement.id === 'q';
+      tb.outerHTML = toolbarHTML();
+      if (focused) { const q = document.getElementById('q'); q.focus(); q.setSelectionRange(q.value.length, q.value.length); }
+    }
+    const list = document.getElementById('list');
+    if (list) list.innerHTML = listHTML();
+  }
+
+  function save() { CK.setProg(gid, prog); }
+
+  // ── EVENTOS (delegação) ──
+  app.addEventListener('click', e => {
+    const t = e.target;
+    const tog = t.closest('[data-toggle]');
+    if (tog) {
+      const k = tog.dataset.toggle;
+      const a = achs.find(x => x.k === k);
+      if (prog[k]) { delete prog[k]; if (a && a.qtd) delete prog['#' + k]; }
+      else { prog[k] = 1; if (a && a.qtd) prog['#' + k] = a.qtd; }
+      save();
+      if (S.view === 'todas') {   // atualização local, sem redesenhar a lista
+        const row = tog.closest('.a-row');
+        row.outerHTML = rowHTML(a);
+        document.getElementById('progress').outerHTML = progressHTML();
+        document.querySelectorAll('[data-view]').forEach(b => {
+          const done = achs.filter(x => CK.isDone(x, prog)).length;
+          const n = { todas: achs.length, pend: achs.length - done, feitas: done }[b.dataset.view];
+          b.querySelector('.n').textContent = n;
+        });
+      } else refresh();
+      if (prog[k]) CK.toast(T('Conquista marcada ✓', 'Achievement marked ✓'));
+      return;
+    }
+    const sp = t.closest('.a-desc.spoiler');
+    if (sp) { sp.classList.remove('spoiler'); sp.removeAttribute('title'); return; }
+    const v = t.closest('[data-view]');
+    if (v) { S.view = v.dataset.view; refresh(); return; }
+    const tg = t.closest('[data-tag]');
+    if (tg) { S.tag = S.tag === tg.dataset.tag ? '' : tg.dataset.tag; refresh(); return; }
+    const act = t.closest('[data-act]');
+    if (act) {
+      if (act.dataset.act === 'all' && confirm(T('Marcar todas as conquistas como concluídas?', 'Mark every achievement as done?'))) {
+        achs.forEach(a => { prog[a.k] = 1; if (a.qtd) prog['#' + a.k] = a.qtd; });
+      } else if (act.dataset.act === 'clear' && confirm(T('Apagar todo o progresso deste jogo?', 'Erase all progress for this game?'))) {
+        prog = {};
+      } else return;
+      save(); refresh();
+    }
+  });
+  app.addEventListener('input', e => {
+    if (e.target.id === 'q') { S.q = e.target.value; document.getElementById('list').innerHTML = listHTML(); }
+  });
+  app.addEventListener('change', e => {
+    const t = e.target;
+    if (t.id === 'sort') { S.sort = t.value; document.getElementById('list').innerHTML = listHTML(); }
+    if (t.id === 'spoil') {
+      S.hideSpoilers = t.checked;
+      try { localStorage.setItem('ck_spoilers', t.checked ? 'hide' : 'show'); } catch (err) {}
+      document.getElementById('list').innerHTML = listHTML();
+    }
+    if (t.dataset.qty) {
+      const k = t.dataset.qty, a = achs.find(x => x.k === k);
+      const n = Math.max(0, Math.min(a.qtd, parseInt(t.value, 10) || 0));
+      t.value = n;
+      if (n) prog['#' + k] = n; else delete prog['#' + k];
+      if (n >= a.qtd) prog[k] = 1; else delete prog[k];
+      save(); refresh();
+    }
+  });
+
+  // ── INÍCIO ──
+  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid)])
+    .then(([games, achData, g]) => {
+      game = games.find(x => x.id === gid);
+      if (!game) return fail(T('Jogo não encontrado.', 'Game not found.'));
+      document.title = `${game.title} — ${T('Conquistas', 'Achievements')} · Checkpoint Digital`;
+      guide = g; meta = achData; prog = CK.getProg(gid);
+      if (game.mode !== 'sem-conquistas' && !(achData && achData.conquistas && achData.conquistas.length)) {
+        app.innerHTML = heroHTML();
+        app.insertAdjacentHTML('beforeend', `<div class="ck-empty">${T('A lista de conquistas deste jogo está sendo atualizada. Volte em breve!', 'This achievement list is being updated. Check back soon!')}</div>`);
+        return;
+      }
+      achs = achData ? CK.mergeGuide(achData, guide) : [];
+      render();
+    })
+    .catch(() => fail(T('Não foi possível carregar este jogo.', 'Could not load this game.')));
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "resumo": "Sem conquistas de dificuldade. Todos os colecionáveis podem ser recuperados pela seleção de capítulos (o jogo mostra quantos faltam em cada capítulo).",
+  "roadmap": [
+    { "titulo": "1ª jogatina", "texto": "Jogue a história na dificuldade que quiser, pegando o que encontrar: pingentes, gibis, manuais, bilhetes, ferramentas e cofres." },
+    { "titulo": "Left Behind", "texto": "Termine a expansão e faça as conquistas do shopping: arremesso de tijolos, guerra de pistolas d'água, fliperama e o Jak X." },
+    { "titulo": "Limpeza por capítulo", "texto": "Use a seleção de capítulos e o contador de colecionáveis para completar o que faltou, incluindo as conversas opcionais e as piadas da Ellie." }
+  ],
+  "avisos": ["As conversas opcionais e piadas são fáceis de perder, mas podem ser refeitas pela seleção de capítulos."],
+  "conquistas": {
+    "48d13f3e8665916e": { "dica": "As piadas aparecem quando a Ellie pega o livro de piadas; algumas só surgem se você esperar em pontos específicos." },
+    "8e2d13fc783f696f": { "dica": "Procure o ícone de triângulo para iniciar conversas opcionais com os companheiros." }
+  }
+}

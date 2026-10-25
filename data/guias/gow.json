@@ -1,0 +1,19 @@
+{
+  "resumo": "Sem conquistas de dificuldade e sem perdíveis: depois da história você pode voltar a qualquer reino para pegar colecionáveis, caçadas e chefes opcionais.",
+  "roadmap": [
+    { "titulo": "História", "texto": "Jogue na dificuldade que preferir e pegue os colecionáveis que estiverem no caminho." },
+    { "titulo": "Pós-jogo", "texto": "Volte aos reinos para colecionáveis, Provas de Muspelheim, caçadas em cratera e chefes opcionais (Gná e Rei Hrólf)." },
+    { "titulo": "Equipamento", "texto": "Aprimore um conjunto de armadura ao máximo e forje a Armadura de Escamas de Dragão." },
+    { "titulo": "Valhalla (opcional)", "texto": "O modo roguelite gratuito tem 12 conquistas próprias." }
+  ],
+  "avisos": ["Nada é perdível."],
+  "conquistas": {
+    "NEW_ACHIEVEMENT_2_4": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_5": { "dlc": "Valhalla" },
+    "NEW_ACHIEVEMENT_2_6": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_7": { "dlc": "Valhalla" },
+    "NEW_ACHIEVEMENT_2_8": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_9": { "dlc": "Valhalla" },
+    "NEW_ACHIEVEMENT_2_10": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_11": { "dlc": "Valhalla" },
+    "NEW_ACHIEVEMENT_2_12": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_13": { "dlc": "Valhalla" },
+    "NEW_ACHIEVEMENT_2_14": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_15": { "dlc": "Valhalla" },
+    "NEW_ACHIEVEMENT_1_31": { "dica": "Provas de Muspelheim: libere todas as provas, incluindo as versões mais difíceis." }
+  }
+}

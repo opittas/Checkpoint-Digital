@@ -1,0 +1,11 @@
+{
+  "resumo": "Lista enorme que mistura campanha e multijogador. A campanha é mundo aberto, então nada fica perdido; o desafio maior é terminar no Lendário com todas as caveiras (LASO).",
+  "roadmap": [
+    { "titulo": "Campanha", "texto": "Termine a história e limpe Zeta Halo: bases, alvos de alto valor, registros de áudio, armários Mjolnir e caveiras." },
+    { "titulo": "Lendário", "texto": "Termine a campanha no Lendário (pode ser em co-op)." },
+    { "titulo": "Desafios da campanha", "texto": "Conquistas de missão com condições específicas; consulte a descrição de cada uma." },
+    { "titulo": "Multijogador", "texto": "Partidas casuais, ranqueadas e modos específicos completam o restante." }
+  ],
+  "avisos": ["Muitas conquistas exigem multijogador online."],
+  "conquistas": {}
+}

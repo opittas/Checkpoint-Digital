@@ -1,0 +1,10 @@
+{
+  "resumo": "Jogos da Nintendo não têm sistema de conquistas. Esta é uma checklist de 100% para você acompanhar o que falta — marque cada meta concluída.",
+  "roadmap": [
+    { "titulo": "Planalto e torres", "texto": "Ative as torres Sheikah: elas revelam o mapa e facilitam encontrar santuários e sementes Korok." },
+    { "titulo": "Feras Divinas", "texto": "Liberte as quatro em qualquer ordem; cada uma dá um poder de campeão." },
+    { "titulo": "Limpeza", "texto": "Santuários, sementes Korok (o Saco de Hestu cresce com elas), memórias e compêndio." }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

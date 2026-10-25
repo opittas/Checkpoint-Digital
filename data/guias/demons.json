@@ -1,0 +1,23 @@
+{
+  "resumo": "Lista exclusiva do PS5. Anéis, magias e milagres exigem mais de uma jogatina (NG+), e vários troféus dependem de NPCs e de condições específicas de chefes — leia as dicas antes de cada luta.",
+  "roadmap": [
+    { "titulo": "1ª jogatina", "texto": "Derrote todos os demônios, faça os troféus de condição especial (Cavaleiro da Torre sem matar arqueiros, Adjudicador sem cair etc.) e resgate os NPCs." },
+    { "titulo": "Online", "texto": "Ajude alguém a vencer um chefe e vença uma invasão." },
+    { "titulo": "NG+", "texto": "Complete anéis, magias e milagres que dependem de outros ciclos ou tendências de mundo." }
+  ],
+  "avisos": [
+    "Troféus de NPC (Biorr, Garl Vinland, Satsuki, Yuria, Freke, Urbain) podem ser perdidos se o NPC morrer.",
+    "Condições de chefe (sem matar arqueiros, sem acertar clones, Adjudicador sem cair) valem só naquela luta — dá para refazer no NG+."
+  ],
+  "conquistas": {
+    "return-to-form": { "online": true }, "unwelcome-guest": { "online": true },
+    "one-shall-fall": { "missavel": true, "dica": "Ignore os arqueiros nas muralhas durante a luta." },
+    "brother-in-arms": { "missavel": true, "dica": "Resgate Biorr na 2-1 para ele ajudar contra o Penetrador." },
+    "not-fooled": { "missavel": true, "dica": "Ataque apenas o Ídolo verdadeiro e ignore as cópias." },
+    "one-shall-stand": { "missavel": true, "dica": "Não ataque o ponto fraco da barriga que o derruba." },
+    "may-you-be-unharmed": { "missavel": true, "dica": "Passe por Garl Vinland sem matá-lo e derrote Astraea." },
+    "worthy-of-the-sword": { "missavel": true },
+    "seekest-soul-power": { "dica": "É um dos finais: aceite o poder do Antigo após o último chefe." },
+    "king-of-rings": { "dica": "Alguns anéis exigem NG+ ou tendência de mundo específica." }
+  }
+}

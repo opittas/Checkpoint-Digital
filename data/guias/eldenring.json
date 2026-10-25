@@ -1,0 +1,23 @@
+{
+  "resumo": "Platina longa, mas sem dificuldade extrema. Nada é permanentemente perdível: o que você deixar passar pode ser feito no NG+. Com um backup do save antes do chefe final, dá para pegar os 3 finais em uma jogatina só.",
+  "roadmap": [
+    { "titulo": "1ª jogatina completa", "texto": "Explore tudo e derrote todos os chefes da lista. Vários são opcionais e ficam em áreas escondidas (Placidusax, Fortissax, Astel, Mohg, Malenia, Loretta da Árvore Sacra)." },
+    { "titulo": "Quests que liberam lendários", "texto": "Faça a quest da Ranni do começo ao fim: ela dá a Grande Espada da Lua Negra e o feitiço Lua Sombria de Ranni (lendários) e abre o final Era das Estrelas." },
+    { "titulo": "Colecione os lendários", "texto": "Armas, talismãs, feitiços/encantos e cinzas lendárias. Use um checklist — a Espada Relíquia Sagrada sai da Lembrança do chefe final." },
+    { "titulo": "Finais", "texto": "Antes de enfrentar o chefe final, faça backup do save (nuvem no console; copie a pasta do save no PC). Pegue Lorde Prístino, restaure e faça Era das Estrelas e Lorde da Chama Frenética." }
+  ],
+  "avisos": [
+    "Os 3 finais são excludentes: use backup do save ou NG+.",
+    "Receber a Chama Frenética faz a Melina abandonar você, mas não bloqueia nenhuma conquista."
+  ],
+  "conquistas": {
+    "ACH01": { "missavel": true, "dica": "Final padrão. Faça backup do save antes do chefe final." },
+    "ACH02": { "missavel": true, "dica": "Exige a quest completa da Ranni (Nokron → Ainsel → Lago da Podridão → Catedral de Manus Celes)." },
+    "ACH03": { "missavel": true, "dica": "Receba a Chama Frenética dos Três Dedos, sob Leyndell (é preciso estar sem roupa para passar pela porta)." },
+    "ACH12": { "dica": "Em Farum Azula em Ruínas, perto da graça 'Ao lado da Grande Ponte', há um ponto escondido onde você pode se deitar — ele leva à arena." },
+    "ACH19": { "dica": "Faça a quest da Fia até o Leito Profundo; o chefe aparece no 'sonho' da Fia." },
+    "ACH33": { "dica": "Acesso pelo Lago da Podridão, na rota da quest da Ranni." },
+    "ACH09": { "dica": "Chegue ao Palácio Mohgwyn pela quest do Varré ou pelo medalhão no Rio Siofra." },
+    "ACH13": { "dica": "Leve qualquer arma ao +25 (pedras de forja comuns) ou +10 (pedras sombrias)." }
+  }
+}

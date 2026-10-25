@@ -1,0 +1,149 @@
+{
+ "id": "botw",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Expansões",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "santuarios",
+   "g": 0,
+   "n": "Santuários",
+   "d": "Complete os 120 santuários do jogo base.",
+   "n_en": "Shrines",
+   "d_en": "Complete all 120 base-game shrines.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 120
+  },
+  {
+   "k": "korok",
+   "g": 0,
+   "n": "Sementes Korok",
+   "d": "Encontre as 900 sementes Korok (inclui o mapa 100%).",
+   "n_en": "Korok Seeds",
+   "d_en": "Find all 900 Korok seeds.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 900
+  },
+  {
+   "k": "feras",
+   "g": 0,
+   "n": "Feras Divinas",
+   "d": "Liberte Vah Ruta, Vah Rudania, Vah Medoh e Vah Naboris.",
+   "n_en": "Divine Beasts",
+   "d_en": "Free Vah Ruta, Vah Rudania, Vah Medoh and Vah Naboris.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "memorias",
+   "g": 0,
+   "n": "Memórias",
+   "d": "Encontre todas as memórias capturadas da Zelda.",
+   "n_en": "Memories",
+   "d_en": "Find all of Zelda's captured memories.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 18
+  },
+  {
+   "k": "fadas",
+   "g": 0,
+   "n": "Grandes Fadas",
+   "d": "Encontre as 4 Grandes Fadas para melhorar armaduras.",
+   "n_en": "Great Fairies",
+   "d_en": "Find all 4 Great Fairy Fountains.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "espada",
+   "g": 0,
+   "n": "Espada Mestra",
+   "d": "Retire a Espada Mestra na Floresta Perdida (exige 13 corações).",
+   "n_en": "Master Sword",
+   "d_en": "Pull the Master Sword in the Lost Woods (requires 13 hearts).",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 1
+  },
+  {
+   "k": "escudo",
+   "g": 0,
+   "n": "Escudo Hyliano",
+   "d": "Obtenha o Escudo Hyliano no Castelo de Hyrule.",
+   "n_en": "Hylian Shield",
+   "d_en": "Get the Hylian Shield in Hyrule Castle.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 1
+  },
+  {
+   "k": "compendio",
+   "g": 0,
+   "n": "Compêndio de Hyrule",
+   "d": "Registre todas as entradas do compêndio com a Câmera Sheikah.",
+   "n_en": "Hyrule Compendium",
+   "d_en": "Register every compendium entry with the Sheikah Slate camera.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 385
+  },
+  {
+   "k": "ganon",
+   "g": 0,
+   "n": "Calamidade Ganon",
+   "d": "Derrote Ganon no Castelo de Hyrule.",
+   "n_en": "Calamity Ganon",
+   "d_en": "Defeat Ganon in Hyrule Castle.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 1
+  },
+  {
+   "k": "espadas_dlc",
+   "g": 1,
+   "n": "Prova da Espada (DLC)",
+   "d": "Complete a Prova da Espada nas três dificuldades.",
+   "n_en": "Trial of the Sword (DLC)",
+   "d_en": "Clear the Trial of the Sword on all three tiers.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  },
+  {
+   "k": "balada_dlc",
+   "g": 1,
+   "n": "A Balada dos Campeões (DLC)",
+   "d": "Complete a expansão A Balada dos Campeões.",
+   "n_en": "The Champions' Ballad (DLC)",
+   "d_en": "Complete The Champions' Ballad expansion.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 1
+  }
+ ]
+}

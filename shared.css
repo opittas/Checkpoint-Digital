@@ -391,7 +391,8 @@ body.light footer {
 }
 @media (max-width: 768px) {
   .header-inner { gap: 8px; padding: 0 16px; }
-  .main-nav { gap: 1px; overflow-x: auto; flex-shrink: 1; }
+  .main-nav { gap: 1px; overflow-x: auto; flex-shrink: 1; min-width: 0; scrollbar-width: none; }
+  .main-nav::-webkit-scrollbar { display: none; }
   .nav-btn { padding: 5px 9px; font-size: 11px; }
   .header-controls { gap: 6px; }
   .lang-btn { padding: 3px 6px; font-size: 10px; }

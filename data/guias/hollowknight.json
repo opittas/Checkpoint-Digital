@@ -1,0 +1,26 @@
+{
+  "resumo": "Uma das listas mais difíceis: Alma de Aço (morte permanente), speedrun em menos de 5 horas e o Panteão de Hallownest. Algumas escolhas são excludentes no mesmo save.",
+  "roadmap": [
+    { "titulo": "1ª jogatina (100%)", "texto": "Explore tudo, pegue amuletos, fragmentos, larvas e o Diário do Caçador. Termine com 112% para Conclusão Pura." },
+    { "titulo": "Escolhas opostas", "texto": "Em outro save, faça o oposto: matar o Forjador de Ferrões, deixar o Zote morrer e banir a Trupe Grimm." },
+    { "titulo": "Speedrun", "texto": "Uma corrida em menos de 5 horas garante Speedrun 1 e 2 juntas." },
+    { "titulo": "Alma de Aço", "texto": "Modo de morte permanente. Quem quiser o Coração de Aço precisa ainda de 100% nesse modo." },
+    { "titulo": "Panteões", "texto": "Os 5 Panteões ficam na Casa dos Deuses; o 5º (Abrace o Vazio) é o desafio mais difícil da lista." }
+  ],
+  "avisos": [
+    "Pureza × Casal Feliz: escolhas opostas do Forjador de Ferrões.",
+    "Negligência × Rivalidade/Romance Sombrio: deixar o Zote morrer impede as conquistas que exigem salvá-lo.",
+    "Ritual × Banimento: completar ou banir a Trupe Grimm."
+  ],
+  "conquistas": {
+    "NAILSMITH_KILL": { "missavel": true, "dica": "Escolha oposta a Casal Feliz — faça em outro save." },
+    "NAILSMITH_SPARE": { "missavel": true, "dica": "Escolha oposta a Pureza — faça em outro save." },
+    "NEGLECT": { "missavel": true, "dica": "Não salve o Zote do Vengefly King (Caminho Verde). Faça em um save diferente das conquistas do Zote." },
+    "ZOTE": { "missavel": true, "dica": "Exige salvar o Zote duas vezes." },
+    "GREY_PRINCE": { "missavel": true, "dica": "Exige o Zote salvo e enfrentá-lo no sonho da Bretta." },
+    "NIGHTMARE_GRIMM": { "missavel": true, "dica": "Excludente com Banimento." },
+    "BANISHMENT": { "missavel": true, "dica": "Excludente com Ritual: fale com Brumm em Deepnest antes de terminar o ritual." },
+    "SPEEDRUN_2": { "dica": "Siga uma rota de speedrun (sem 100%); garante também a Speedrun 1." },
+    "STEELSOUL": { "dica": "Morrer apaga o save: jogue com amuletos defensivos e evite riscos." }
+  }
+}

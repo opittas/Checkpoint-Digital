@@ -74,10 +74,7 @@
 
   async function loadArticles() {
     try {
-      const res = await fetch(
-        `${SUPA_URL}/rest/v1/articles?platform=eq.nin&select=id,title,excerpt,title_en,excerpt_en,category,gen,published_at,read_time,image_url&order=published_at.desc`,
-        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
-      );
+      const res = await dbFetch(`articles?platform=eq.nin&select=id,title,excerpt,title_en,excerpt_en,category,gen,published_at,read_time,image_url&order=published_at.desc`);
       const arts = await res.json();
       allCards = arts;
       renderCards(arts);

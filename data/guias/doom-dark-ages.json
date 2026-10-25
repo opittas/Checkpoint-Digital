@@ -1,0 +1,10 @@
+{
+  "resumo": "Platina direta: sem conquistas de dificuldade e com seleção de capítulos para recuperar colecionáveis, desafios de missão e relíquias.",
+  "roadmap": [
+    { "titulo": "Campanha", "texto": "Jogue em qualquer dificuldade pegando os colecionáveis que encontrar." },
+    { "titulo": "Desafios e colecionáveis", "texto": "Use a seleção de capítulos para os Desafios de Missão, brinquedos, páginas do Códice e fragmentos de relíquia." },
+    { "titulo": "Aprimoramentos", "texto": "Junte moeda para maximizar escudo, runas, corpo a corpo e Essências Demoníacas; conclua o Domínio de todas as armas." }
+  ],
+  "avisos": ["Algumas conquistas pedem tudo 'em um único espaço de salvamento'."],
+  "conquistas": {}
+}

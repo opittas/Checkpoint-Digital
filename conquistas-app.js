@@ -1,0 +1,116 @@
+// ══════════════════════════════════════════════════════════
+// ÁREA DE CONQUISTAS — funções compartilhadas
+// Requer shared.js carregado antes (SITE_ROOT, getLang).
+// ══════════════════════════════════════════════════════════
+const CK = (function () {
+  const isEN = () => getLang() === 'en';
+  const tr = (pt, en) => (isEN() ? en : pt);
+
+  // ── Progresso (salvo no navegador) ──
+  const KEY = gid => 'ck_prog_' + gid;
+  function getProg(gid) {
+    try { return JSON.parse(localStorage.getItem(KEY(gid))) || {}; } catch (e) { return {}; }
+  }
+  function setProg(gid, obj) {
+    try { localStorage.setItem(KEY(gid), JSON.stringify(obj)); } catch (e) {}
+  }
+  function isDone(a, prog) {
+    return !!prog[a.k];
+  }
+  function exportAll() {
+    const out = {};
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith('ck_prog_')) out[k.slice(8)] = getProg(k.slice(8));
+    }
+    return out;
+  }
+  function importAll(obj) {
+    let n = 0;
+    Object.entries(obj || {}).forEach(([gid, prog]) => {
+      if (prog && typeof prog === 'object') { setProg(gid, prog); n++; }
+    });
+    return n;
+  }
+
+  // ── Carregamento de dados ──
+  const cache = {};
+  function loadJSON(path) {
+    if (!cache[path]) {
+      cache[path] = fetch(SITE_ROOT + path, { cache: 'no-cache' }).then(r => {
+        if (!r.ok) throw new Error(path + ' ' + r.status);
+        return r.json();
+      });
+    }
+    return cache[path];
+  }
+  const loadGames = () => loadJSON('data/jogos.json');
+  const loadIndex = () => loadJSON('data/conquistas/index.json').catch(() => ({}));
+  const loadAch   = gid => loadJSON(`data/conquistas/${gid}.json`);
+  const loadGuide = gid => loadJSON(`data/guias/${gid}.json`).catch(() => null);
+
+  // Junta lista da Steam + guia manual
+  function mergeGuide(achData, guide) {
+    const extras = (guide && guide.conquistas) || {};
+    const grupos = achData.grupos || [];
+    return (achData.conquistas || []).map((a, idx) => {
+      const x = extras[a.k] || {};
+      const g = grupos[a.g] || {};
+      return Object.assign({}, a, {
+        ordem: idx,
+        missavel: !!x.missavel,
+        dlc: x.dlc || (g.dlc ? g.nome : ''),
+        online: !!x.online,
+        dica: x.dica || '',
+      });
+    });
+  }
+
+  // ── Visual ──
+  function rarity(p) {
+    if (p === null || p === undefined) return null;
+    if (p < 5)  return { cls: 'ultra',   label: tr('Ultra rara', 'Ultra rare') };
+    if (p < 15) return { cls: 'rara',    label: tr('Rara', 'Rare') };
+    if (p < 40) return { cls: 'incomum', label: tr('Incomum', 'Uncommon') };
+    return { cls: 'comum', label: tr('Comum', 'Common') };
+  }
+  function diffColor(s) {
+    return s >= 8 ? '#ef4444' : s >= 6 ? '#f97316' : s >= 4 ? '#f59e0b' : '#22c55e';
+  }
+  function diffMeter(s) {
+    if (!s) return '';
+    let h = `<span class="ck-diff" style="--d:${diffColor(s)}" title="${tr('Dificuldade', 'Difficulty')} ${s}/10">`;
+    for (let i = 1; i <= 10; i++) h += `<i class="${i <= s ? 'on' : ''}"></i>`;
+    return h + '</span>';
+  }
+  const PLAT = { xbox: 'Xbox', ps: 'PlayStation', nin: 'Nintendo', steam: 'Steam' };
+  function platBadges(j) {
+    return (j.platforms || []).map(pl => {
+      let lbl = (j.labels || {})[pl] || '';
+      if (isEN()) lbl = lbl.replace('Platina', 'Platinum').replace('Conquistas', 'Achievements')
+                         .replace('Sem conquistas', 'No achievements').replace('Checklist 100%', '100% checklist');
+      return `<span class="ck-plat ${pl}">${PLAT[pl]}${lbl ? ' · ' + lbl : ''}</span>`;
+    }).join('');
+  }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+  function norm(s) {
+    return String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  }
+  function toast(msg) {
+    let t = document.querySelector('.ck-toast');
+    if (!t) { t = document.createElement('div'); t.className = 'ck-toast'; document.body.appendChild(t); }
+    t.textContent = msg;
+    t.classList.add('show');
+    clearTimeout(t._h);
+    t._h = setTimeout(() => t.classList.remove('show'), 1800);
+  }
+  function imgSrc(path) {
+    return /^https?:/.test(path || '') ? path : SITE_ROOT + (path || '');
+  }
+
+  return { isEN, tr, getProg, setProg, isDone, exportAll, importAll,
+           loadGames, loadIndex, loadAch, loadGuide, mergeGuide,
+           rarity, diffMeter, platBadges, esc, norm, toast, imgSrc };
+})();

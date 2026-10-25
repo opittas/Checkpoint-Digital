@@ -238,10 +238,7 @@
   async function loadHome() {
     try {
       // Busca os 20 artigos mais recentes de todas as plataformas (com campos EN)
-      const res = await fetch(
-        `${SUPA_URL}/rest/v1/articles?select=id,platform,category,gen,title,excerpt,title_en,excerpt_en,published_at,read_time,featured,image_url&order=published_at.desc&limit=20`,
-        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
-      );
+      const res = await dbFetch(`articles?select=id,platform,category,gen,title,excerpt,title_en,excerpt_en,published_at,read_time,featured,image_url&order=published_at.desc&limit=20`);
       const arts = await res.json();
 
       if (!arts.length) {

@@ -1,0 +1,15 @@
+{
+  "resumo": "Uma das platinas mais fáceis da geração. Nada é perdível; a única exigência extra é terminar a história no Novo Jogo+.",
+  "roadmap": [
+    { "titulo": "História + atividades", "texto": "Faça a campanha e as atividades dos distritos conforme aparecem no mapa." },
+    { "titulo": "100% dos distritos", "texto": "Esconderijos de tecnologia, Fotos Espontâneas, pedidos do app SMAV e atividades da FEM." },
+    { "titulo": "Conquistas variadas", "texto": "Faça as de habilidade (Radical, Corda Bamba, Voando, Home Run!) e erre de propósito uma acrobacia para Espatifada." },
+    { "titulo": "Novo Jogo+", "texto": "Termine a história de novo no NG+ — dá para usar a dificuldade mais baixa." }
+  ],
+  "avisos": ["Nada é perdível: o mundo fica aberto depois dos créditos."],
+  "conquistas": {
+    "WingsuitConeyIslandToQueens": { "dica": "Comece num prédio alto do Financial District e plane sem usar túneis de vento; corrija a altura com correntes de ar sobre a água." },
+    "FailAirTrick": { "dica": "Comece uma acrobacia aérea e deixe o personagem cair antes de terminá-la." },
+    "NewGamePlusComplete": { "dica": "Libere o NG+ terminando a história; qualquer dificuldade vale." }
+  }
+}

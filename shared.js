@@ -2,6 +2,55 @@
 const SUPA_URL = 'https://ytehtjgbxkwpfabqhojm.supabase.co';
 const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl0ZWh0amdieGt3cGZhYnFob2ptIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgyNDkyOTYsImV4cCI6MjA5MzgyNTI5Nn0.SeToYeh4Fbbz4xUvoY2iF1ZQ5av70IJC3TCjzIEwowE';
 
+// ── Raiz do site (funciona na raiz e em subpastas, ex.: /conquistas/) ──
+const SITE_ROOT = (function () {
+  const s = document.currentScript && document.currentScript.src;
+  return s ? s.replace(/shared\.js(\?.*)?$/, '') : '';
+})();
+
+// ── Dados locais (pasta /data) com Supabase como reserva ──
+// O site lê primeiro os arquivos JSON publicados junto com ele (GitHub Pages),
+// então continua funcionando mesmo se o Supabase estiver pausado.
+// Uso: dbFetch('articles?platform=eq.xbox&order=published_at.desc&limit=3')
+const _dbCache = {};
+function _loadTable(table) {
+  if (!_dbCache[table]) {
+    _dbCache[table] = fetch(SITE_ROOT + 'data/' + table + '.json', { cache: 'no-cache' })
+      .then(r => { if (!r.ok) throw new Error('local ' + r.status); return r.json(); });
+  }
+  return _dbCache[table];
+}
+function _applyQuery(rows, qs) {
+  const params = new URLSearchParams(qs);
+  let out = rows.slice();
+  let order = null, limit = null;
+  for (const [k, v] of params) {
+    if (k === 'select') continue;
+    if (k === 'order') { order = v; continue; }
+    if (k === 'limit') { limit = parseInt(v, 10); continue; }
+    const dot = v.indexOf('.');
+    const op = v.slice(0, dot), val = v.slice(dot + 1);
+    if (op === 'eq')  out = out.filter(r => String(r[k]) === val);
+    if (op === 'neq') out = out.filter(r => String(r[k]) !== val);
+  }
+  if (order) {
+    const [col, dir] = order.split('.');
+    out.sort((a, b) => (a[col] > b[col] ? 1 : a[col] < b[col] ? -1 : 0) * (dir === 'desc' ? -1 : 1));
+  }
+  if (limit) out = out.slice(0, limit);
+  return out;
+}
+async function dbFetch(path) {
+  const [table, qs = ''] = path.split('?');
+  try {
+    const rows = _applyQuery(await _loadTable(table), qs);
+    return { ok: true, status: 200, json: async () => rows };
+  } catch (e) {
+    // Reserva: Supabase
+    return fetch(`${SUPA_URL}/rest/v1/${path}`, { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } });
+  }
+}
+
 // ── Idioma ──
 // Retorna 'pt' ou 'en'. Salvo em localStorage para persistir entre páginas.
 function getLang() {

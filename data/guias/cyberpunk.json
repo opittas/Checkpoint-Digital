@@ -1,0 +1,34 @@
+{
+  "resumo": "Platina tranquila e sem conquistas de dificuldade. O cuidado principal são os finais e as escolhas do Phantom Liberty: crie saves manuais nos pontos indicados e recarregue.",
+  "roadmap": [
+    { "titulo": "História + romances", "texto": "Avance a história principal fazendo as linhas da Judy, Panam, River e Kerry — cada uma tem conquista." },
+    { "titulo": "Limpe os distritos", "texto": "Gigs e ocorrências do NCPD em cada distrito dão 8 conquistas. Faça também todos os Ciberpsicopatas." },
+    { "titulo": "Phantom Liberty", "texto": "Faça a expansão antes do final do jogo base. Crie um save antes de decidir o destino da Songbird: os 4 'Reis' e A Torre dependem dessas escolhas." },
+    { "titulo": "Finais", "texto": "Na missão do ponto sem volta (\"Nocturne Op55N1\"), salve manualmente e recarregue para O Diabo, A Estrela, O Sol e Temperança." },
+    { "titulo": "Limpeza", "texto": "Itens do Johnny, murais de tarô, dataterms de viagem rápida, todos os veículos e conquistas de combate." }
+  ],
+  "avisos": [
+    "Finais e escolhas da Songbird são excludentes: use saves manuais.",
+    "Alguns murais de tarô ficam em áreas de missões — use um mapa de localização."
+  ],
+  "conquistas": {
+    "TheDevil": { "missavel": true, "dica": "Final da Arasaka. Recarregue o save do ponto sem volta." },
+    "TheStar": { "missavel": true, "dica": "Final com a Panam e os Aldecaldos (exige a linha da Panam completa)." },
+    "TheSun": { "missavel": true, "dica": "Final da Afterlife com a Rogue (exige a linha da Rogue/Johnny)." },
+    "Temperance": { "missavel": true, "dica": "Deixe o Johnny ficar com o corpo no final." },
+    "TheTower": { "missavel": true, "dlc": "Phantom Liberty", "dica": "Final exclusivo do Phantom Liberty — tem que ser escolhido antes do final do jogo base." },
+    "KingOfTheCups": { "missavel": true, "dlc": "Phantom Liberty" },
+    "KingOfThePentacles": { "missavel": true, "dlc": "Phantom Liberty" },
+    "KingOfTheWands": { "missavel": true, "dlc": "Phantom Liberty" },
+    "KingOfTheSwords": { "missavel": true, "dlc": "Phantom Liberty" },
+    "Kingmaker": { "dlc": "Phantom Liberty" },
+    "AllThePresidentsMen": { "dlc": "Phantom Liberty" },
+    "DirtyWork": { "dlc": "Phantom Liberty" },
+    "HydraIsDead": { "dlc": "Phantom Liberty" },
+    "EasyComeEasyGo": { "dlc": "Phantom Liberty" },
+    "IHateSpider": { "dlc": "Phantom Liberty" },
+    "RelicMaster": { "dlc": "Phantom Liberty" },
+    "DogtownLaw": { "dlc": "Phantom Liberty" },
+    "Gearhead": { "dica": "Deixe para o fim: junte eurodólares com contratos e venda de itens." }
+  }
+}

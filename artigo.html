@@ -171,15 +171,11 @@
   async function loadArticle() {
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
+    const isEN = getLang() === 'en';
     if (!id) { showError(isEN ? 'Article not found.' : 'Artigo não encontrado.'); return; }
 
-    const isEN = getLang() === 'en';
-
     try {
-      const res = await fetch(
-        `${SUPA_URL}/rest/v1/articles?id=eq.${encodeURIComponent(id)}&select=*`,
-        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
-      );
+      const res = await dbFetch(`articles?id=eq.${encodeURIComponent(id)}&select=*`);
       const [art] = await res.json();
       if (!art) { showError(isEN ? 'Article not found.' : 'Artigo não encontrado.'); return; }
 
@@ -223,10 +219,7 @@
   async function loadMore(platform, excludeId) {
     const isEN = getLang() === 'en';
     try {
-      const res = await fetch(
-        `${SUPA_URL}/rest/v1/articles?platform=eq.${platform}&id=neq.${encodeURIComponent(excludeId)}&select=id,title,excerpt,title_en,excerpt_en,category,published_at,read_time,image_url&order=published_at.desc&limit=3`,
-        { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` } }
-      );
+      const res = await dbFetch(`articles?platform=eq.${platform}&id=neq.${encodeURIComponent(excludeId)}&select=id,title,excerpt,title_en,excerpt_en,category,published_at,read_time,image_url&order=published_at.desc&limit=3`);
       const arts = await res.json();
       if (!arts.length) return;
 

@@ -1,0 +1,284 @@
+[
+ {
+  "id": "eldenring",
+  "title": "Elden Ring",
+  "developer": "FromSoftware · Bandai Namco",
+  "year": 2022,
+  "steam_appid": 1245620,
+  "platforms": [
+   "xbox",
+   "ps",
+   "steam"
+  ],
+  "labels": {
+   "xbox": "1000G",
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 5,
+  "hours": "80–120h",
+  "playthroughs": "1 (+ backup do save para os finais)",
+  "online": false,
+  "mode": "conquistas",
+  "image": "imagens/jogos/eldenring.jpg"
+ },
+ {
+  "id": "cyberpunk",
+  "title": "Cyberpunk 2077",
+  "developer": "CD Projekt Red",
+  "year": 2020,
+  "steam_appid": 1091500,
+  "platforms": [
+   "xbox",
+   "ps",
+   "steam"
+  ],
+  "labels": {
+   "xbox": "1000G",
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 3,
+  "hours": "70–110h",
+  "playthroughs": "1 (com saves antes dos finais)",
+  "online": false,
+  "dlc_note": "13 conquistas exigem a expansão Phantom Liberty.",
+  "mode": "conquistas",
+  "image": "imagens/jogos/cyberpunk.jpg"
+ },
+ {
+  "id": "gow",
+  "title": "God of War Ragnarök",
+  "developer": "Santa Monica Studio",
+  "year": 2022,
+  "steam_appid": 2322010,
+  "platforms": [
+   "ps",
+   "steam"
+  ],
+  "labels": {
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 3,
+  "hours": "45–60h",
+  "playthroughs": "1",
+  "online": false,
+  "dlc_note": "12 conquistas são do modo Valhalla (gratuito).",
+  "mode": "conquistas",
+  "image": "imagens/jogos/gow.jpg"
+ },
+ {
+  "id": "spiderman2",
+  "title": "Marvel's Spider-Man 2",
+  "developer": "Insomniac Games",
+  "year": 2023,
+  "steam_appid": 2651280,
+  "platforms": [
+   "ps",
+   "steam"
+  ],
+  "labels": {
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 2,
+  "hours": "30–40h",
+  "playthroughs": "2 (Novo Jogo+)",
+  "online": false,
+  "mode": "conquistas",
+  "image": "imagens/jogos/spiderman2.jpg"
+ },
+ {
+  "id": "tlou",
+  "title": "The Last of Us Part I",
+  "developer": "Naughty Dog",
+  "year": 2022,
+  "steam_appid": 1888930,
+  "platforms": [
+   "ps",
+   "steam"
+  ],
+  "labels": {
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 3,
+  "hours": "25–35h",
+  "playthroughs": "1 (+ seleção de capítulos)",
+  "online": false,
+  "mode": "conquistas",
+  "image": "imagens/jogos/tlou.jpg"
+ },
+ {
+  "id": "hollowknight",
+  "title": "Hollow Knight",
+  "developer": "Team Cherry",
+  "year": 2017,
+  "steam_appid": 367520,
+  "platforms": [
+   "xbox",
+   "ps",
+   "steam",
+   "nin"
+  ],
+  "labels": {
+   "xbox": "1000G",
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 9,
+  "hours": "80–120h",
+  "playthroughs": "3+ (Alma de Aço e speedrun)",
+  "online": false,
+  "mode": "conquistas",
+  "image": "imagens/jogos/hollowknight.jpg"
+ },
+ {
+  "id": "halo",
+  "title": "Halo Infinite",
+  "developer": "343 Industries · Xbox Game Studios",
+  "year": 2021,
+  "steam_appid": 1240440,
+  "platforms": [
+   "xbox",
+   "steam"
+  ],
+  "labels": {
+   "xbox": "Conquistas",
+   "steam": ""
+  },
+  "difficulty": 7,
+  "hours": "150h+",
+  "playthroughs": "2+ (Lendário e LASO)",
+  "online": true,
+  "mode": "conquistas",
+  "image": "imagens/jogos/halo.jpg"
+ },
+ {
+  "id": "fh5",
+  "title": "Forza Horizon 5",
+  "developer": "Playground Games · Xbox Game Studios",
+  "year": 2021,
+  "steam_appid": 1551360,
+  "platforms": [
+   "xbox",
+   "steam"
+  ],
+  "labels": {
+   "xbox": "Conquistas",
+   "steam": ""
+  },
+  "difficulty": 3,
+  "hours": "150h+",
+  "playthroughs": "1",
+  "online": true,
+  "dlc_note": "54 conquistas são das expansões Hot Wheels e Rally Adventure.",
+  "mode": "conquistas",
+  "image": "imagens/jogos/fh5.jpg"
+ },
+ {
+  "id": "rdr2",
+  "title": "Red Dead Redemption 2",
+  "developer": "Rockstar Games",
+  "year": 2018,
+  "steam_appid": 1174180,
+  "platforms": [
+   "xbox",
+   "ps",
+   "steam"
+  ],
+  "labels": {
+   "xbox": "1000G",
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 4,
+  "hours": "130–170h",
+  "playthroughs": "1",
+  "online": true,
+  "dlc_note": "17 conquistas são do Red Dead Online.",
+  "mode": "conquistas",
+  "image": "imagens/jogos/rdr2.jpg"
+ },
+ {
+  "id": "doom-dark-ages",
+  "title": "DOOM: The Dark Ages",
+  "developer": "id Software",
+  "year": 2025,
+  "steam_appid": 3017860,
+  "platforms": [
+   "xbox",
+   "ps",
+   "steam"
+  ],
+  "labels": {
+   "xbox": "1000G",
+   "ps": "Platina",
+   "steam": ""
+  },
+  "difficulty": 3,
+  "hours": "25–35h",
+  "playthroughs": "1 (+ seleção de capítulos)",
+  "online": false,
+  "mode": "conquistas",
+  "image": "imagens/jogos/doom-dark-ages.jpg"
+ },
+ {
+  "id": "demons",
+  "title": "Demon's Souls",
+  "developer": "Bluepoint Games · PlayStation Studios",
+  "year": 2020,
+  "steam_appid": null,
+  "platforms": [
+   "ps"
+  ],
+  "labels": {
+   "ps": "Platina"
+  },
+  "difficulty": 5,
+  "hours": "50–60h",
+  "playthroughs": "2–3 (NG+)",
+  "online": true,
+  "mode": "conquistas",
+  "image": "imagens/jogos/demons.jpg"
+ },
+ {
+  "id": "botw",
+  "title": "Zelda: Breath of the Wild",
+  "developer": "Nintendo EPD",
+  "year": 2017,
+  "steam_appid": null,
+  "platforms": [
+   "nin"
+  ],
+  "labels": {
+   "nin": "Checklist 100%"
+  },
+  "difficulty": 4,
+  "hours": "150h+",
+  "playthroughs": "1",
+  "online": false,
+  "mode": "checklist",
+  "image": "imagens/jogos/botw.jpg"
+ },
+ {
+  "id": "metroid4",
+  "title": "Metroid Prime 4: Beyond",
+  "developer": "Retro Studios · Nintendo",
+  "year": 2025,
+  "steam_appid": null,
+  "platforms": [
+   "nin"
+  ],
+  "labels": {
+   "nin": "Sem conquistas"
+  },
+  "difficulty": null,
+  "hours": null,
+  "playthroughs": null,
+  "online": false,
+  "mode": "sem-conquistas",
+  "image": "imagens/jogos/metroid4.jpg"
+ }
+]

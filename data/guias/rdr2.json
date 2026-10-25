@@ -1,0 +1,20 @@
+{
+  "resumo": "A parte mais longa é O Melhor do Oeste (100% de conclusão). 17 conquistas são do Red Dead Online. As medalhas de ouro podem ser refeitas pelo menu de missões.",
+  "roadmap": [
+    { "titulo": "História", "texto": "Faça as missões principais e de desconhecidos conforme aparecem. Alguns personagens só ficam disponíveis em capítulos específicos." },
+    { "titulo": "Epílogo", "texto": "No epílogo você volta ao mundo aberto completo: termine caçadas, estudos de animais, desafios e colecionáveis." },
+    { "titulo": "Medalhas de ouro", "texto": "Refaça missões pelo menu de progresso até ter 70 medalhas de ouro." },
+    { "titulo": "Red Dead Online", "texto": "As 17 conquistas do online são simples e saem naturalmente ao subir de nível." }
+  ],
+  "avisos": ["Faça as missões de desconhecidos cedo: algumas expiram ao avançar a história."],
+  "conquistas": {
+    "Achievement35": { "online": true }, "Achievement36": { "online": true }, "Achievement37": { "online": true },
+    "Achievement38": { "online": true }, "Achievement39": { "online": true }, "Achievement40": { "online": true },
+    "Achievement41": { "online": true }, "Achievement42": { "online": true }, "Achievement43": { "online": true },
+    "Achievement44": { "online": true }, "Achievement45": { "online": true }, "Achievement46": { "online": true },
+    "Achievement47": { "online": true }, "Achievement48": { "online": true }, "Achievement49": { "online": true },
+    "Achievement50": { "online": true }, "Achievement51": { "online": true },
+    "Achievement12": { "dica": "Acompanhe a porcentagem no menu de progresso: missões, desconhecidos, desafios, compêndio e colecionáveis." },
+    "Achievement13": { "dica": "Os objetivos de ouro aparecem na tela de resultado de cada missão; refaça pelo menu de progresso." }
+  }
+}

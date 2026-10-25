@@ -266,7 +266,7 @@ const CK_AUTH = (function () {
   }
 
   async function sincronizarBiblioteca(s) {
-    const { data, error } = await client().from('biblioteca').select('game_id, plataformas, status, favorito, origem, atualizado_em');
+    const { data, error } = await client().from('biblioteca').select('game_id, plataformas, dlcs, status, favorito, origem, atualizado_em');
     if (error) return;
     const local = CK.getLib();
     const ultimo = localStorage.getItem('ck_lib_sync');
@@ -275,7 +275,7 @@ const CK_AUTH = (function () {
     const enviar = [];
     new Set(Object.keys(remotos).concat(Object.keys(local))).forEach(gid => {
       const r = remotos[gid], l = local[gid];
-      const deRemoto = r && { plataformas: r.plataformas, status: r.status, favorito: r.favorito, origem: r.origem, ts: r.atualizado_em };
+      const deRemoto = r && { plataformas: r.plataformas, dlcs: r.dlcs || [], status: r.status, favorito: r.favorito, origem: r.origem, ts: r.atualizado_em };
       if (r && !l) { local[gid] = deRemoto; return; }
       if (l && !r) {
         if (ultimo && l.ts && new Date(l.ts) <= new Date(ultimo)) delete local[gid];   // removido em outro aparelho
@@ -288,7 +288,7 @@ const CK_AUTH = (function () {
     CK.saveLib(local);
     if (enviar.length) {
       await client().from('biblioteca').upsert(enviar.map(([gid, l]) => ({
-        user_id: s.user.id, game_id: gid, plataformas: l.plataformas || [], status: l.status || 'jogando',
+        user_id: s.user.id, game_id: gid, plataformas: l.plataformas || [], dlcs: l.dlcs || [], status: l.status || 'jogando',
         favorito: !!l.favorito, origem: l.origem || 'manual', atualizado_em: l.ts || new Date().toISOString() })));
     }
     localStorage.setItem('ck_lib_sync', new Date().toISOString());
@@ -300,7 +300,7 @@ const CK_AUTH = (function () {
     if (!s) return;
     const q = client().from('biblioteca');
     const { error } = item
-      ? await q.upsert({ user_id: s.user.id, game_id: gid, plataformas: item.plataformas || [], status: item.status || 'jogando',
+      ? await q.upsert({ user_id: s.user.id, game_id: gid, plataformas: item.plataformas || [], dlcs: item.dlcs || [], status: item.status || 'jogando',
                          favorito: !!item.favorito, origem: item.origem || 'manual', atualizado_em: item.ts })
       : await q.delete().eq('user_id', s.user.id).eq('game_id', gid);
     if (error && window.CK) CK.toast(T('Sem conexão: a lista será enviada depois.', 'Offline: list will sync later.'));

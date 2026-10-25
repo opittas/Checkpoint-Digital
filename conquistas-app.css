@@ -245,3 +245,21 @@ body.light .a-tag.miss { color: #b91c1c; } body.light .a-tag.dlc { color: #0369a
 }
 .ck-libbtn:hover { background: var(--ach); transform: scale(1.08); }
 .ck-libbtn.on { background: var(--done); }
+.ck-dlc-pill { display: inline-block; margin-left: 4px; font-size: 10px; font-weight: 800; padding: 1px 6px; border-radius: 5px; background: #0ea5e922; color: #38bdf8; }
+body.light .ck-dlc-pill { color: #0369a1; }
+/* ── Abas jogo base × DLCs ── */
+.g-tabs { display: flex; gap: 8px; overflow-x: auto; padding: 22px 0 2px; margin-bottom: -8px; scrollbar-width: thin; }
+.g-tab {
+  flex: 0 0 auto; min-width: 170px; text-align: left; display: flex; flex-direction: column; gap: 4px;
+  background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; padding: 10px 14px;
+  color: var(--text2); font: inherit; cursor: pointer; transition: border-color .15s, background .15s;
+}
+.g-tab:hover { border-color: var(--text3); }
+.g-tab.on { border-color: var(--ach); background: color-mix(in srgb, var(--ach) 12%, var(--bg2)); color: var(--text); }
+.g-tab.nao { opacity: .75; }
+.g-tab-n { font-size: 13px; font-weight: 800; white-space: nowrap; }
+.g-tab-p { font-size: 12px; color: var(--text3); }
+.g-tab-p b { color: var(--ach-strong); }
+.g-tab-bar { display: block; height: 4px; background: var(--bg3); border-radius: 3px; overflow: hidden; }
+.g-tab-bar span { display: block; height: 100%; background: linear-gradient(90deg, var(--ach), #22c55e); }
+.g-own { margin-right: 6px; }

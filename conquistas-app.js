@@ -67,6 +67,26 @@ const CK = (function () {
   function inLib(gid) { return !!getLib()[gid]; }
   const statusLabel = s => (STATUS[s] ? `${STATUS[s][2]} ${tr(STATUS[s][0], STATUS[s][1])}` : s);
 
+
+  // ── Progresso separado: jogo base × cada DLC ──
+  // Usa data/conquistas/index.json ({ total, base, dlcs: { nome: [chaves] } })
+  function gameProgress(gid, index) {
+    const inf = (index && index[gid]) || {};
+    const prog = getProg(gid);
+    const feitas = new Set(Object.keys(prog).filter(k => k[0] !== '#' && prog[k]));
+    const dlcSets = Object.entries(inf.dlcs || {});
+    const noDlc = new Set(dlcSets.flatMap(([, ks]) => ks));
+    const tenho = ((getLib()[gid] || {}).dlcs) || [];
+    const pct = (a, b) => (b ? Math.round(a / b * 100) : 0);
+    const baseTotal = inf.base != null ? inf.base : (inf.total || 0);
+    const baseFeitas = Math.min(baseTotal, [...feitas].filter(k => !noDlc.has(k)).length);
+    const dlcs = dlcSets.map(([nome, ks]) => {
+      const f = ks.filter(k => feitas.has(k)).length;
+      return { nome, total: ks.length, feitas: f, pct: pct(f, ks.length), tenho: tenho.includes(nome) };
+    });
+    return { base: { total: baseTotal, feitas: baseFeitas, pct: pct(baseFeitas, baseTotal) }, dlcs };
+  }
+
   // ── Carregamento de dados ──
   const cache = {};
   function loadJSON(path) {
@@ -147,6 +167,6 @@ const CK = (function () {
   return { isEN, tr, getProg, setProg, isDone, exportAll, importAll,
            loadGames, loadIndex, loadAch, loadGuide, mergeGuide,
            rarity, diffMeter, platBadges, esc, norm, toast, imgSrc,
-           STATUS, getLib, saveLib, setLibItem, inLib, statusLabel };
+           STATUS, getLib, saveLib, setLibItem, inLib, statusLabel, gameProgress };
 })();
 window.CK = CK;

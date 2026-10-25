@@ -19,7 +19,7 @@
   },
   {
    "titulo": "DLCs",
-   "texto": "The Bad Seed, Fatal Falls, The Queen and the Sea e Return to Castlevania somam mais de 40 conquistas próprias."
+   "texto": "The Bad Seed, Fatal Falls, The Queen and the Sea e Return to Castlevania são DLCs pagas, cada uma com sua aba e porcentagem própria. Rise of the Giant, Derelict Distillery e Break the Bank foram atualizações gratuitas e contam no jogo base."
   }
  ],
  "avisos": [
@@ -178,7 +178,8 @@
    "dica": "A Espada Maldita mata você com um golpe; use mutações defensivas e vá devagar."
   },
   "FEAT_ENDGAME_NOKILL_MUSHROOM_BOI": {
-   "dica": "Excludente na mesma run com 'Direto pro Inferno' — faça em runs separadas."
+   "dica": "Excludente com 'Direto pro Inferno' na mesma run (essa é do jogo base) — faça em runs separadas.",
+   "dlc": "The Bad Seed"
   },
   "FEAT_EXPLODE_MUSHROOM_BOI": {
    "dica": "Faça em uma run diferente de 'Quem é um bom garoto?'."
@@ -197,6 +198,18 @@
   },
   "FEAT_COMPLETE_1_DAILYRUN": {
    "dica": "O Desafio Diário fica no menu principal e exige conexão com a internet."
+  },
+  "FEAT_SACRIFICE_MUSHROOM_BOI": {
+   "dlc": "The Bad Seed"
+  },
+  "FEAT_NECROMANT_REVIVE_3_MOBS": {
+   "dlc": "Fatal Falls"
+  },
+  "FEAT_FLYINGSWORD_JEALOUSY": {
+   "dlc": "Fatal Falls"
+  },
+  "FEAT_LIGHTNING_WATER_KILL": {
+   "dlc": "Fatal Falls"
   }
  }
 }

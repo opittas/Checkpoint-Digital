@@ -6,7 +6,7 @@
 <title>Conquistas — Checkpoint Digital</title>
 <meta name="description" content="Guias de conquistas e troféus com checklist de progresso, raridade e roteiro para platinar.">
 <link rel="stylesheet" href="shared.css?v=4c492af7">
-<link rel="stylesheet" href="conquistas-app.css?v=2d827efc">
+<link rel="stylesheet" href="conquistas-app.css?v=105f87d7">
 </head>
 <body>
 
@@ -43,8 +43,8 @@
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="shared.js?v=4ccbf6e5"></script>
-<script src="conquistas-app.js?v=f1bccdea"></script>
-<script src="auth.js?v=fb6fcd75"></script>
+<script src="conquistas-app.js?v=70ef7666"></script>
+<script src="auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('ach');
   renderFooter();
@@ -75,18 +75,19 @@
 
   let games = [], index = {};
 
+  // Porcentagem = só jogo base; DLCs têm progresso próprio
   function gameStats(j) {
-    const total = (index[j.id] && index[j.id].total) || 0;
-    const prog = CK.getProg(j.id);
-    const done = Object.keys(prog).filter(k => k[0] !== '#' && prog[k]).length;
-    return { total, done: Math.min(done, total || done), pct: total ? Math.round(Math.min(done, total) / total * 100) : 0 };
+    const gp = CK.gameProgress(j.id, index);
+    const dlcFeitas = gp.dlcs.reduce((s, d) => s + d.feitas, 0);
+    return { total: gp.base.total, done: gp.base.feitas, pct: gp.base.pct, dlcs: gp.dlcs,
+             tudo: (index[j.id] || {}).total || 0, marcadas: gp.base.feitas + dlcFeitas };
   }
 
   function renderStats() {
     let totalAch = 0, marked = 0, started = 0, finished = 0;
     games.forEach(j => {
       const s = gameStats(j);
-      totalAch += s.total; marked += s.done;
+      totalAch += s.tudo; marked += s.marcadas;
       if (s.done > 0) started++;
       if (s.total && s.done >= s.total) finished++;
     });
@@ -118,10 +119,11 @@
       foot = `<div class="ck-card-foot-row"><span>${T('Sem sistema de conquistas', 'No achievement system')}</span><b>${T('Ver detalhes →', 'Details →')}</b></div>`;
     } else {
       const label = j.mode === 'checklist' ? T('metas', 'goals') : T('conquistas', 'achievements');
+      const dlcTxt = s.dlcs.length ? `<span class="ck-dlc-pill" title="${CK.esc(s.dlcs.map(d => d.nome).join(', '))}">＋ ${s.dlcs.length} DLC${s.dlcs.length > 1 ? 's' : ''}</span>` : '';
       foot = `
         <div class="ck-bar"><div style="width:${s.pct}%"></div></div>
         <div class="ck-card-foot-row">
-          <span>${s.total ? `${s.done}/${s.total} ${label}` : T('Lista em atualização', 'List updating')}</span>
+          <span>${s.total ? `${s.done}/${s.total} ${label}${s.dlcs.length ? ' · ' + T('base', 'base') : ''}` : T('Lista em atualização', 'List updating')} ${dlcTxt}</span>
           <b>${s.done ? s.pct + '%' : T('Começar →', 'Start →')}</b>
         </div>`;
     }

@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Minha conta — Checkpoint Digital</title>
 <link rel="stylesheet" href="shared.css?v=4c492af7">
-<link rel="stylesheet" href="conquistas-app.css?v=2d827efc">
+<link rel="stylesheet" href="conquistas-app.css?v=105f87d7">
 <style>
   .acc-wrap { max-width: 1000px; margin: 0 auto; padding: 40px 24px 80px; }
   .acc-auth { max-width: 420px; margin: 20px auto 0; }
@@ -89,8 +89,8 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="shared.js?v=4ccbf6e5"></script>
-<script src="conquistas-app.js?v=f1bccdea"></script>
-<script src="auth.js?v=fb6fcd75"></script>
+<script src="conquistas-app.js?v=70ef7666"></script>
+<script src="auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('conta');
   renderFooter();
@@ -207,12 +207,11 @@
     renderHeader('conta');
     const [jogos, index] = await Promise.all([CK.loadGames().catch(() => []), CK.loadIndex()]);
     const linhas = jogos.map(j => {
-      const total = (index[j.id] || {}).total || 0;
-      const prog = CK.getProg(j.id);
-      const feitas = Math.min(total || Infinity, Object.keys(prog).filter(k => k[0] !== '#' && prog[k]).length);
-      return { j, total, feitas, pct: total ? Math.round(feitas / total * 100) : 0 };
-    }).filter(x => x.feitas > 0).sort((a, b) => b.pct - a.pct);
-    const totalFeitas = linhas.reduce((s, x) => s + x.feitas, 0);
+      const gp = CK.gameProgress(j.id, index);
+      const dlcF = gp.dlcs.reduce((x, d) => x + d.feitas, 0);
+      return { j, total: gp.base.total, feitas: gp.base.feitas, pct: gp.base.pct, dlcs: gp.dlcs.filter(d => d.tenho || d.feitas), marcadas: gp.base.feitas + dlcF };
+    }).filter(x => x.marcadas > 0).sort((a, b) => b.pct - a.pct);
+    const totalFeitas = linhas.reduce((s, x) => s + x.marcadas, 0);
     const completos = linhas.filter(x => x.total && x.feitas >= x.total).length;
     const desde = c.criado_em ? new Date(c.criado_em).toLocaleDateString(CK.isEN() ? 'en' : 'pt-BR', { month: 'long', year: 'numeric' }) : '';
 
@@ -234,7 +233,7 @@
         <a class="dg" href="conquistas/jogo.html?id=${encodeURIComponent(x.j.id)}">
           <img src="${CK.imgSrc(x.j.image)}" alt="" loading="lazy">
           <div><b>${esc(x.j.title)}</b>
-            <div style="font-size:12px;color:var(--text3)">${x.feitas}/${x.total} ${T('concluídas', 'completed')}</div>
+            <div style="font-size:12px;color:var(--text3)">${T('Jogo base', 'Base game')}: ${x.feitas}/${x.total}${x.dlcs.map(d => ` · ${esc(d.nome)}: ${d.pct}%`).join('')}</div>
             <div class="ck-bar"><div style="width:${x.pct}%"></div></div></div>
           <div class="dg-pct${x.pct === 100 ? ' full' : ''}">${x.pct === 100 ? '🏆' : x.pct + '%'}</div>
         </a>`).join('') : `

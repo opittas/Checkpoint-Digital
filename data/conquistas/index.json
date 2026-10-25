@@ -1,58 +1,239 @@
 {
- "demons": {
-  "total": 37,
-  "atualizado": "2026-10-25"
- },
- "botw": {
-  "total": 11,
-  "atualizado": "2026-10-25"
- },
- "metroid4": {
-  "total": 0,
-  "atualizado": "2026-10-25"
- },
  "eldenring": {
   "total": 42,
+  "base": 42,
+  "dlcs": {},
   "atualizado": "2026-10-25"
  },
  "cyberpunk": {
   "total": 57,
+  "base": 44,
+  "dlcs": {
+   "Phantom Liberty": [
+    "KingOfTheCups",
+    "KingOfThePentacles",
+    "KingOfTheWands",
+    "KingOfTheSwords",
+    "TheTower",
+    "Kingmaker",
+    "AllThePresidentsMen",
+    "DirtyWork",
+    "HydraIsDead",
+    "EasyComeEasyGo",
+    "IHateSpider",
+    "RelicMaster",
+    "DogtownLaw"
+   ]
+  },
   "atualizado": "2026-10-25"
  },
  "gow": {
   "total": 48,
+  "base": 36,
+  "dlcs": {
+   "Valhalla": [
+    "NEW_ACHIEVEMENT_2_4",
+    "NEW_ACHIEVEMENT_2_5",
+    "NEW_ACHIEVEMENT_2_6",
+    "NEW_ACHIEVEMENT_2_7",
+    "NEW_ACHIEVEMENT_2_8",
+    "NEW_ACHIEVEMENT_2_9",
+    "NEW_ACHIEVEMENT_2_10",
+    "NEW_ACHIEVEMENT_2_11",
+    "NEW_ACHIEVEMENT_2_12",
+    "NEW_ACHIEVEMENT_2_13",
+    "NEW_ACHIEVEMENT_2_14",
+    "NEW_ACHIEVEMENT_2_15"
+   ]
+  },
   "atualizado": "2026-10-25"
  },
  "spiderman2": {
   "total": 43,
+  "base": 43,
+  "dlcs": {},
   "atualizado": "2026-10-25"
  },
  "tlou": {
   "total": 29,
+  "base": 29,
+  "dlcs": {},
   "atualizado": "2026-10-25"
  },
  "hollowknight": {
   "total": 63,
-  "atualizado": "2026-10-25"
- },
- "halo": {
-  "total": 144,
-  "atualizado": "2026-10-25"
- },
- "fh5": {
-  "total": 164,
-  "atualizado": "2026-10-25"
- },
- "rdr2": {
-  "total": 51,
-  "atualizado": "2026-10-25"
- },
- "doom-dark-ages": {
-  "total": 38,
+  "base": 63,
+  "dlcs": {},
   "atualizado": "2026-10-25"
  },
  "deadcells": {
   "total": 121,
+  "base": 72,
+  "dlcs": {
+   "The Bad Seed": [
+    "FIGHT_BEAT_MAMATICK",
+    "FIGHT_BEAT_MAMATICK_NODAMAGE",
+    "FEAT_ENDGAME_NOKILL_MUSHROOM_BOI",
+    "FEAT_SACRIFICE_MUSHROOM_BOI",
+    "BIOME_REACHED_GREENHOUSE",
+    "BIOME_REACHED_SWAMP",
+    "BIOME_REACHED_SWAMPHEART"
+   ],
+   "Fatal Falls": [
+    "BIOME_REACHED_GARDENER",
+    "BIOME_REACHED_CLIFF",
+    "BIOME_REACHED_TUMULUS",
+    "FIGHT_BEAT_GARDENER_NOBOUNCE",
+    "FIGHT_BEAT_GARDENER",
+    "FIGHT_BEAT_GARDENER_NODAMAGE",
+    "FEAT_NECROMANT_REVIVE_3_MOBS",
+    "FEAT_FLYINGSWORD_JEALOUSY",
+    "FEAT_LIGHTNING_WATER_KILL",
+    "FEAT_COMBO_SICKLES",
+    "FEAT_PENDULO_TRAP_KILL",
+    "FEAT_COSTUME_REQUIRED"
+   ],
+   "The Queen and the Sea": [
+    "BIOME_REACHED_SHIPWRECK",
+    "BIOME_REACHED_LIGHTHOUSE",
+    "BIOME_REACHED_QUEENARENA",
+    "FIGHT_BEAT_QUEEN",
+    "FIGHT_BEAT_QUEEN_NODAMAGE",
+    "FIGHT_BEAT_QUEEN_FALL",
+    "FIGHT_BEAT_QUEEN_CARDS",
+    "FIGHT_BEAT_QUEEN_COSTUME",
+    "FEAT_STAPHY_EVOLVE",
+    "FEAT_KILL_PIRATE_CANNON",
+    "FEAT_WRECKINGBALL_STRIKE",
+    "FEAT_HANDHOOK_SPIKES",
+    "FEAT_SHARK_WATER",
+    "FEAT_SERVANT_COSTUME",
+    "FEAT_STAPHY_KILL_STAPHY",
+    "FIGHT_BEAT_AMAZONS",
+    "FIGHT_BEAT_AMAZONS_NODAMAGE"
+   ],
+   "Return to Castlevania": [
+    "BIOME_REACHED_PGARDEN",
+    "BIOME_REACHED_PCASTLE",
+    "BIOME_REACHED_DEATH",
+    "BIOME_REACHED_DOOKU",
+    "FIGHT_BEAT_DEATH",
+    "FIGHT_BEAT_DEATH_NODAMAGE",
+    "FIGHT_BEAT_DOOKU",
+    "FIGHT_BEAT_DOOKU_BEAST",
+    "FIGHT_BEAT_DOOKU_NODAMAGE",
+    "FEAT_CAT_KILL_DEATH",
+    "FEAT_AXE_KILL_WWOLF",
+    "FEAT_VKILLER_KILL_DOOKU",
+    "FEAT_BIBLE_MULTI_HIT"
+   ]
+  },
   "atualizado": "2026-10-25"
+ },
+ "halo": {
+  "total": 144,
+  "base": 144,
+  "dlcs": {},
+  "atualizado": "2026-10-25"
+ },
+ "fh5": {
+  "total": 164,
+  "base": 110,
+  "dlcs": {
+   "Hot Wheels": [
+    "ACHIEVEMENT_58",
+    "ACHIEVEMENT_59",
+    "ACHIEVEMENT_60",
+    "ACHIEVEMENT_61",
+    "ACHIEVEMENT_62",
+    "ACHIEVEMENT_63",
+    "ACHIEVEMENT_64",
+    "ACHIEVEMENT_65",
+    "ACHIEVEMENT_66",
+    "ACHIEVEMENT_67",
+    "ACHIEVEMENT_68",
+    "ACHIEVEMENT_69",
+    "ACHIEVEMENT_70",
+    "ACHIEVEMENT_71",
+    "ACHIEVEMENT_72",
+    "ACHIEVEMENT_73",
+    "ACHIEVEMENT_74",
+    "ACHIEVEMENT_76",
+    "ACHIEVEMENT_77",
+    "ACHIEVEMENT_78",
+    "ACHIEVEMENT_79",
+    "ACHIEVEMENT_80",
+    "ACHIEVEMENT_81",
+    "ACHIEVEMENT_82",
+    "ACHIEVEMENT_83",
+    "ACHIEVEMENT_84",
+    "ACHIEVEMENT_85"
+   ],
+   "Rally Adventure": [
+    "ACHIEVEMENT_102",
+    "ACHIEVEMENT_103",
+    "ACHIEVEMENT_104",
+    "ACHIEVEMENT_105",
+    "ACHIEVEMENT_106",
+    "ACHIEVEMENT_107",
+    "ACHIEVEMENT_108",
+    "ACHIEVEMENT_109",
+    "ACHIEVEMENT_110",
+    "ACHIEVEMENT_111",
+    "ACHIEVEMENT_112",
+    "ACHIEVEMENT_113",
+    "ACHIEVEMENT_114",
+    "ACHIEVEMENT_115",
+    "ACHIEVEMENT_116",
+    "ACHIEVEMENT_117",
+    "ACHIEVEMENT_118",
+    "ACHIEVEMENT_119",
+    "ACHIEVEMENT_120",
+    "ACHIEVEMENT_121",
+    "ACHIEVEMENT_122",
+    "ACHIEVEMENT_123",
+    "ACHIEVEMENT_124",
+    "ACHIEVEMENT_125",
+    "ACHIEVEMENT_126",
+    "ACHIEVEMENT_127",
+    "ACHIEVEMENT_128"
+   ]
+  },
+  "atualizado": "2026-10-25"
+ },
+ "rdr2": {
+  "total": 51,
+  "base": 51,
+  "dlcs": {},
+  "atualizado": "2026-10-25"
+ },
+ "doom-dark-ages": {
+  "total": 38,
+  "base": 38,
+  "dlcs": {},
+  "atualizado": "2026-10-25"
+ },
+ "demons": {
+  "total": 37,
+  "base": 37,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "botw": {
+  "total": 11,
+  "base": 9,
+  "dlcs": {
+   "Passe de Expansão": [
+    "espadas_dlc",
+    "balada_dlc"
+   ]
+  },
+  "atualizado": null
+ },
+ "metroid4": {
+  "total": 0,
+  "base": 0,
+  "dlcs": {},
+  "atualizado": null
  }
 }

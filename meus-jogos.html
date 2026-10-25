@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Meus Jogos — Checkpoint Digital</title>
 <link rel="stylesheet" href="shared.css?v=4c492af7">
-<link rel="stylesheet" href="conquistas-app.css?v=2d827efc">
+<link rel="stylesheet" href="conquistas-app.css?v=105f87d7">
 <style>
   .mj-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 18px; }
   .mj-card { position: relative; }
@@ -21,6 +21,9 @@
   .mj-plat.on.ps    { background: var(--ps-light);    color: var(--ps-dark);    border: 1px solid transparent; }
   .mj-plat.on.nin   { background: var(--nin-light);   color: var(--nin-dark);   border: 1px solid transparent; }
   .mj-plat.on.steam { background: var(--steam-light); color: var(--steam-dark); border: 1px solid transparent; }
+  .mj-dlc { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 4px; }
+  .mj-dlc-pct { font-size: 12px; color: var(--text3); white-space: nowrap; }
+  .mj-dlc-pct b { color: var(--ach-strong); }
   .mj-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
   .mj-link { color: var(--ach-strong); font-weight: 800; font-size: 13px; text-decoration: none; }
   .mj-hint { font-size: 11px; color: var(--text3); }
@@ -91,8 +94,8 @@
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="shared.js?v=4ccbf6e5"></script>
-<script src="conquistas-app.js?v=f1bccdea"></script>
-<script src="auth.js?v=fb6fcd75"></script>
+<script src="conquistas-app.js?v=70ef7666"></script>
+<script src="auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('mj');
   renderFooter();
@@ -113,18 +116,18 @@
   document.getElementById('q2').placeholder = T('Buscar jogo…', 'Search game…');
 
   const byId = id => jogos.find(j => j.id === id);
+  // % do jogo base; DLCs que a pessoa tem aparecem separadas
   function stats(j) {
-    const total = (index[j.id] || {}).total || 0;
-    const p = CK.getProg(j.id);
-    const feitas = Math.min(total || 1e9, Object.keys(p).filter(k => k[0] !== '#' && p[k]).length);
-    return { total, feitas, pct: total ? Math.round(feitas / total * 100) : 0 };
+    const gp = CK.gameProgress(j.id, index);
+    return { total: gp.base.total, feitas: gp.base.feitas, pct: gp.base.pct, dlcs: gp.dlcs,
+             marcadas: gp.base.feitas + gp.dlcs.reduce((x, d) => x + d.feitas, 0) };
   }
   function meus() { return Object.keys(lib).map(byId).filter(Boolean); }
 
   // ── Cabeçalho ──
   function renderStats() {
     const m = meus();
-    const marcadas = m.reduce((s, j) => s + stats(j).feitas, 0);
+    const marcadas = m.reduce((s, j) => s + stats(j).marcadas, 0);
     const plat = m.filter(j => lib[j.id].status === 'platinado' || (stats(j).total && stats(j).pct === 100)).length;
     const jogando = m.filter(j => lib[j.id].status === 'jogando').length;
     document.getElementById('stats').innerHTML = [
@@ -205,7 +208,13 @@
           <div class="ck-card-foot">
             ${j.mode === 'sem-conquistas' ? `<div class="mj-hint">${T('Este jogo não tem conquistas oficiais.', 'This game has no official achievements.')}</div>` : `
             <div class="ck-bar"><div style="width:${s.pct}%"></div></div>
-            <div class="ck-card-foot-row"><span>${s.feitas}/${s.total || '—'}</span><b>${s.pct}%</b></div>`}
+            <div class="ck-card-foot-row"><span>${T('Jogo base', 'Base game')} · ${s.feitas}/${s.total || '—'}</span><b>${s.pct}%</b></div>
+            ${s.dlcs.length ? `<div class="mj-dlcs">
+              <div class="mj-hint" style="margin:4px 0 5px">${T('DLCs que eu tenho:', 'DLCs I own:')}</div>
+              ${s.dlcs.map(d => `<div class="mj-dlc${d.tenho ? ' on' : ''}">
+                <button class="mj-plat${d.tenho ? ' on steam' : ''}" data-dlc-toggle="${esc(d.nome)}">${d.tenho ? '✓ ' : ''}${esc(d.nome)}</button>
+                ${d.tenho ? `<span class="mj-dlc-pct">${d.feitas}/${d.total} · <b>${d.pct}%</b></span>` : ''}</div>`).join('')}
+            </div>` : ''}`}
             <a class="mj-link" href="conquistas/jogo.html?id=${encodeURIComponent(j.id)}">${T('Ver conquistas →', 'View achievements →')}</a>
           </div>
         </div>
@@ -289,6 +298,12 @@
       CK.setLibItem(gid, null); lib = CK.getLib(); tudo(); return;
     }
     if (t.closest('[data-fav]')) { atualizar(gid, { favorito: !lib[gid].favorito }); renderGrid(); return; }
+    const dt = t.closest('[data-dlc-toggle]');
+    if (dt) {
+      const n = dt.dataset.dlcToggle, set = new Set(lib[gid].dlcs || []);
+      set.has(n) ? set.delete(n) : set.add(n);
+      atualizar(gid, { dlcs: [...set] }); renderGrid(); return;
+    }
     const tog = t.closest('[data-plat-toggle]');
     if (tog) {
       const p = tog.dataset.platToggle, set = new Set(lib[gid].plataformas || []);

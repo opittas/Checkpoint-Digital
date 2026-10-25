@@ -11,8 +11,14 @@ const CK = (function () {
   function getProg(gid) {
     try { return JSON.parse(localStorage.getItem(KEY(gid))) || {}; } catch (e) { return {}; }
   }
-  function setProg(gid, obj) {
-    try { localStorage.setItem(KEY(gid), JSON.stringify(obj)); } catch (e) {}
+  // remoto = true quando o dado veio da conta (não reenviar)
+  function setProg(gid, obj, remoto) {
+    const ts = remoto && remoto.ts ? remoto.ts : new Date().toISOString();
+    try {
+      localStorage.setItem(KEY(gid), JSON.stringify(obj));
+      localStorage.setItem('ck_ts_' + gid, ts);
+    } catch (e) {}
+    if (!remoto && window.CK_AUTH) CK_AUTH.salvar(gid, obj, ts);
   }
   function isDone(a, prog) {
     return !!prog[a.k];
@@ -32,6 +38,34 @@ const CK = (function () {
     });
     return n;
   }
+
+
+  // ── Meus Jogos (biblioteca) ──
+  // ck_lib = { game_id: { plataformas: [], status, favorito, origem, ts } }
+  const STATUS = {
+    jogando:   ['Jogando', 'Playing', '🎮'],
+    zerado:    ['Zerado', 'Beaten', '✅'],
+    platinado: ['Platinado / 100%', 'Platinum / 100%', '🏆'],
+    pausado:   ['Pausado', 'Paused', '⏸️'],
+    quero:     ['Quero jogar', 'Want to play', '⭐'],
+  };
+  function getLib() {
+    try { return JSON.parse(localStorage.getItem('ck_lib')) || {}; } catch (e) { return {}; }
+  }
+  function saveLib(lib) {
+    try { localStorage.setItem('ck_lib', JSON.stringify(lib)); } catch (e) {}
+  }
+  // item = null remove o jogo. remoto = true quando veio da conta.
+  function setLibItem(gid, item, remoto) {
+    const lib = getLib();
+    if (item) lib[gid] = Object.assign({}, item, { ts: remoto && item.ts ? item.ts : new Date().toISOString() });
+    else delete lib[gid];
+    saveLib(lib);
+    if (!remoto && window.CK_AUTH) CK_AUTH.salvarLib(gid, lib[gid] || null);
+    return lib[gid] || null;
+  }
+  function inLib(gid) { return !!getLib()[gid]; }
+  const statusLabel = s => (STATUS[s] ? `${STATUS[s][2]} ${tr(STATUS[s][0], STATUS[s][1])}` : s);
 
   // ── Carregamento de dados ──
   const cache = {};
@@ -112,5 +146,6 @@ const CK = (function () {
 
   return { isEN, tr, getProg, setProg, isDone, exportAll, importAll,
            loadGames, loadIndex, loadAch, loadGuide, mergeGuide,
-           rarity, diffMeter, platBadges, esc, norm, toast, imgSrc };
+           rarity, diffMeter, platBadges, esc, norm, toast, imgSrc,
+           STATUS, getLib, saveLib, setLibItem, inLib, statusLabel };
 })();

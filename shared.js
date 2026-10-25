@@ -149,6 +149,7 @@ function renderHeader(activePage, base) {
     { id: 'nin',   labelPT: 'Nintendo',      labelEN: 'Nintendo',       href: base + 'nintendo.html',     cls: 'active-nin' },
     { id: 'steam', labelPT: 'Steam',         labelEN: 'Steam',          href: base + 'steam.html',        cls: 'active-steam' },
     { id: 'ach',   labelPT: '🏆 Conquistas', labelEN: '🏆 Achievements', href: base + 'conquistas.html',   cls: 'active-ach' },
+    { id: 'mj',    labelPT: '⭐ Meus Jogos',  labelEN: '⭐ My Games',      href: base + 'meus-jogos.html',  cls: 'active-ach' },
   ];
 
   const nav = pages.map(p =>
@@ -175,11 +176,20 @@ function renderHeader(activePage, base) {
       <span class="theme-switch-icon">🌙</span>
     </div>`;
 
+  // Botão de conta (lê o usuário salvo pelo auth.js)
+  let ckUser = null;
+  try { ckUser = JSON.parse(localStorage.getItem('ck_user')); } catch (e) {}
+  const nomeUser = ckUser && ckUser.usuario ? String(ckUser.usuario).replace(/[^A-Za-z0-9_.]/g, '') : '';
+  const accountBtn = nomeUser
+    ? `<a class="account-btn logged${activePage === 'conta' ? ' active' : ''}" href="${base}conta.html" title="${isEN ? 'My account' : 'Minha conta'}"><span class="account-avatar">${nomeUser[0].toUpperCase()}</span><span class="account-name">${nomeUser}</span></a>`
+    : `<a class="account-btn${activePage === 'conta' ? ' active' : ''}" href="${base}conta.html">👤 <span class="account-name">${isEN ? 'Sign in' : 'Entrar'}</span></a>`;
+
   document.getElementById('site-header').innerHTML = `
     <div class="header-inner">
       <a class="logo" href="${base}index.html">Checkpoint<span> Digital</span></a>
       <nav class="main-nav">${nav}</nav>
       <div class="header-controls">
+        ${accountBtn}
         ${langToggle}
         ${themeSwitch}
       </div>

@@ -15,8 +15,10 @@
 </div>
 <footer id="site-footer"></footer>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="../shared.js"></script>
 <script src="../conquistas-app.js"></script>
+<script src="../auth.js"></script>
 <script>
   renderHeader('ach', '../');
   renderFooter('../');
@@ -62,16 +64,28 @@
             <div class="g-dev">${esc(game.developer)} · ${game.year}</div>
             <div class="ck-plats" style="margin-bottom:12px">${CK.platBadges(game)}</div>
             <div class="g-chips">${chips}</div>
+            <div style="margin-top:14px" id="lib-slot">${libBtnHTML()}</div>
           </div>
         </div>
       </section>`;
+  }
+
+  // ── MEUS JOGOS ──
+  function libBtnHTML() {
+    const it = CK.getLib()[gid];
+    if (!it) return `<button class="ck-btn primary" data-lib="add">＋ ${T('Adicionar aos Meus Jogos', 'Add to My Games')}</button>`;
+    return `<span class="g-chip" style="background:#22c55e26;border-color:#22c55e55;color:#bbf7d0">✓ ${T('Nos Meus Jogos', 'In My Games')}</span>
+      <select class="ck-select" data-lib="status" style="margin-left:6px">${Object.keys(CK.STATUS).map(k => `<option value="${k}"${it.status === k ? ' selected' : ''}>${CK.statusLabel(k)}</option>`).join('')}</select>
+      <a class="ck-btn" href="../meus-jogos.html" style="text-decoration:none;margin-left:6px">⭐ ${T('Ver coleção', 'View collection')}</a>`;
   }
 
   // ── PROGRESSO ──
   function progressHTML() {
     const done = achs.filter(a => CK.isDone(a, prog)).length;
     const pct = achs.length ? Math.round(done / achs.length * 100) : 0;
-    const msg = done === 0 ? T('Marque as conquistas que você já tem — fica salvo neste navegador.', 'Tick the achievements you already have — saved in this browser.')
+    const logado = window.CK_AUTH && CK_AUTH.usuario();
+    const msg = done === 0 ? (logado ? T('Marque as conquistas que você já tem — fica salvo na sua conta.', 'Tick the achievements you already have — saved to your account.')
+                                     : T('Marque as conquistas que você já tem. <a href="../conta.html?voltar=conquistas/jogo.html%3Fid%3D' + encodeURIComponent(gid) + '">Entre</a> para salvar na sua conta.', 'Tick the achievements you already have. <a href="../conta.html?voltar=conquistas/jogo.html%3Fid%3D' + encodeURIComponent(gid) + '">Sign in</a> to save them to your account.'))
       : done === achs.length ? T('Parabéns, você completou tudo! 🏆', 'Congrats, you got everything! 🏆')
       : T(`Faltam ${achs.length - done}. Continue assim!`, `${achs.length - done} to go. Keep it up!`);
     return `
@@ -244,6 +258,12 @@
   // ── EVENTOS (delegação) ──
   app.addEventListener('click', e => {
     const t = e.target;
+    if (t.closest('[data-lib="add"]')) {
+      CK.setLibItem(gid, { plataformas: game.platforms.length === 1 ? game.platforms.slice() : [], status: 'jogando', favorito: false, origem: 'manual' });
+      document.getElementById('lib-slot').innerHTML = libBtnHTML();
+      CK.toast(T('Adicionado aos Meus Jogos', 'Added to My Games'));
+      return;
+    }
     const tog = t.closest('[data-toggle]');
     if (tog) {
       const k = tog.dataset.toggle;
@@ -285,6 +305,11 @@
   });
   app.addEventListener('change', e => {
     const t = e.target;
+    if (t.dataset.lib === 'status') {
+      CK.setLibItem(gid, Object.assign({}, CK.getLib()[gid], { status: t.value }));
+      CK.toast(T('Status atualizado', 'Status updated'));
+      return;
+    }
     if (t.id === 'sort') { S.sort = t.value; document.getElementById('list').innerHTML = listHTML(); }
     if (t.id === 'spoil') {
       S.hideSpoilers = t.checked;
@@ -302,7 +327,7 @@
   });
 
   // ── INÍCIO ──
-  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid)])
+  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid), window.CK_AUTH ? CK_AUTH.sincronizarRapido() : null])
     .then(([games, achData, g]) => {
       game = games.find(x => x.id === gid);
       if (!game) return fail(T('Jogo não encontrado.', 'Game not found.'));

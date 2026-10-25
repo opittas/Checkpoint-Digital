@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Minha conta — Checkpoint Digital</title>
+<link rel="stylesheet" href="shared.css">
+<link rel="stylesheet" href="conquistas-app.css">
+<style>
+  .acc-wrap { max-width: 1000px; margin: 0 auto; padding: 40px 24px 80px; }
+  .acc-auth { max-width: 420px; margin: 20px auto 0; }
+  .acc-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 16px; padding: 26px; }
+  .acc-tabs { display: grid; grid-template-columns: 1fr 1fr; background: var(--bg3); border-radius: 12px; padding: 4px; margin-bottom: 22px; }
+  .acc-tab { border: 0; background: transparent; color: var(--text2); font: inherit; font-weight: 800; font-size: 14px; padding: 10px; border-radius: 9px; cursor: pointer; }
+  .acc-tab.on { background: var(--bg); color: var(--text); box-shadow: 0 2px 8px var(--shadow); }
+  .acc-title { font-size: 24px; font-weight: 900; color: var(--text); margin-bottom: 6px; text-align: center; }
+  .acc-sub { color: var(--text2); font-size: 14px; text-align: center; margin-bottom: 22px; }
+  .fld { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+  .fld label { font-size: 12px; font-weight: 800; color: var(--text2); text-transform: uppercase; letter-spacing: .5px; }
+  .fld input {
+    background: var(--bg); border: 1px solid var(--border); border-radius: 10px; color: var(--text);
+    font: inherit; font-size: 15px; padding: 11px 13px; outline: 0; transition: border-color .15s, box-shadow .15s;
+  }
+  .fld input:focus { border-color: var(--ach); box-shadow: 0 0 0 3px var(--ach-soft); }
+  .fld small { font-size: 12px; color: var(--text3); }
+  .acc-btn {
+    width: 100%; border: 0; border-radius: 10px; background: var(--ach); color: #fff; font: inherit;
+    font-weight: 800; font-size: 15px; padding: 12px; cursor: pointer; transition: filter .15s, opacity .15s;
+  }
+  .acc-btn:hover { filter: brightness(1.1); }
+  .acc-btn:disabled { opacity: .6; cursor: wait; }
+  .acc-btn.ghost { background: transparent; color: var(--text2); border: 1px solid var(--border); }
+  .acc-btn.danger { background: transparent; color: #f87171; border: 1px solid #ef444466; }
+  .acc-link { background: none; border: 0; color: var(--ach-strong); font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; padding: 0; }
+  .acc-msg { font-size: 13px; padding: 10px 12px; border-radius: 9px; margin-bottom: 14px; display: none; }
+  .acc-msg.err { display: block; background: #ef444418; color: #f87171; border: 1px solid #ef444444; }
+  .acc-msg.ok  { display: block; background: #22c55e18; color: #4ade80; border: 1px solid #22c55e44; }
+  body.light .acc-msg.err { color: #b91c1c; } body.light .acc-msg.ok { color: #15803d; }
+  .acc-note { font-size: 12px; color: var(--text3); margin-top: 16px; text-align: center; line-height: 1.6; }
+
+  /* Painel */
+  .dash-head { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; margin-bottom: 24px; }
+  .dash-avatar { width: 72px; height: 72px; border-radius: 50%; display: grid; place-items: center; font-size: 30px; font-weight: 900; color: #fff; background: linear-gradient(135deg, #7c3aed, #2563eb); box-shadow: 0 10px 30px #7c3aed55; }
+  .dash-name { font-size: 28px; font-weight: 900; color: var(--text); line-height: 1.1; }
+  .dash-since { color: var(--text3); font-size: 13px; margin-top: 4px; }
+  .dash-sync { margin-left: auto; font-size: 12px; color: var(--text3); }
+  .dash-games { display: flex; flex-direction: column; gap: 10px; margin: 14px 0 34px; }
+  .dg { display: grid; grid-template-columns: 120px 1fr auto; gap: 14px; align-items: center; background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; padding: 10px; text-decoration: none; color: inherit; transition: border-color .15s, transform .15s; }
+  .dg:hover { border-color: #8b5cf666; transform: translateX(3px); }
+  .dg img { width: 120px; aspect-ratio: 460/215; object-fit: cover; border-radius: 8px; background: var(--bg3); }
+  .dg b { color: var(--text); font-size: 15px; }
+  .dg .ck-bar { margin-top: 8px; }
+  .dg-pct { font-weight: 900; font-size: 18px; color: var(--text); min-width: 56px; text-align: right; }
+  .dg-pct.full { color: var(--gold); }
+  .h2 { font-size: 18px; font-weight: 900; color: var(--text); margin-top: 8px; }
+  .settings { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin-top: 14px; }
+  .settings .acc-card { padding: 20px; }
+  .settings h3 { font-size: 15px; color: var(--text); margin-bottom: 4px; }
+  .settings p { font-size: 13px; color: var(--text2); margin-bottom: 14px; line-height: 1.6; }
+  .soc-sep { display: flex; align-items: center; gap: 10px; color: var(--text3); font-size: 12px; font-weight: 700; margin: 18px 0 12px; }
+  .soc-sep::before, .soc-sep::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+  .soc-btns { display: flex; flex-direction: column; gap: 8px; }
+  .soc-btn { display: flex; align-items: center; justify-content: center; gap: 10px; border: 1px solid var(--border); background: var(--bg);
+    color: var(--text); font: inherit; font-weight: 800; font-size: 14px; padding: 11px; border-radius: 10px; cursor: pointer; transition: border-color .15s; }
+  .soc-btn:hover { border-color: var(--text3); }
+  .soc-ico { width: 20px; height: 20px; display: grid; place-items: center; font-size: 15px; font-weight: 900; border-radius: 5px; color: #fff; }
+  .soc-ico.google { background: #fff; color: #4285f4; border: 1px solid #ddd; } .soc-ico.apple { background: #000; } .soc-ico.discord { background: #5865f2; }
+  .soc-ico.steam { background: #171a21; } .soc-ico.xbox { background: #107c10; } .soc-ico.psn { background: #003791; } .soc-ico.nintendo { background: #e60012; }
+  .links { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; margin-top: 14px; margin-bottom: 30px; }
+  .link-row { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .link-row:last-child { border-bottom: 0; }
+  .link-row .grow { flex: 1; min-width: 0; }
+  .link-row b { color: var(--text); font-size: 14px; display: block; }
+  .link-row small { color: var(--text3); font-size: 12px; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .mini { border: 1px solid var(--border); background: var(--bg); color: var(--text2); font: inherit; font-size: 12px; font-weight: 800; padding: 7px 11px; border-radius: 8px; cursor: pointer; white-space: nowrap; }
+  .mini:hover { color: var(--text); border-color: var(--text3); }
+  .mini.on { background: var(--ach); border-color: var(--ach); color: #fff; }
+  .steam-av { width: 44px; height: 44px; border-radius: 8px; background: var(--bg3); object-fit: cover; }
+  .manual input { width: 100%; background: var(--bg); border: 1px solid var(--border); border-radius: 8px; color: var(--text); font: inherit; font-size: 13px; padding: 7px 10px; }
+  @media (max-width: 600px) { .dg { grid-template-columns: 80px 1fr auto; } .dg img { width: 80px; } .dash-sync { margin-left: 0; width: 100%; } }
+</style>
+</head>
+<body>
+<header class="site-header" id="site-header"></header>
+<main class="acc-wrap" id="app">
+  <div class="ck-empty" style="padding:100px 0"><div class="ck-spinner"></div></div>
+</main>
+<footer id="site-footer"></footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="shared.js"></script>
+<script src="conquistas-app.js"></script>
+<script src="auth.js"></script>
+<script>
+  renderHeader('conta');
+  renderFooter();
+  const T = CK.tr, esc = CK.esc, app = document.getElementById('app');
+  let modo = 'entrar';
+
+  function msg(el, texto, tipo) { el.textContent = texto; el.className = 'acc-msg ' + (tipo || 'err'); }
+  async function ocupado(btn, fn) {
+    const txt = btn.textContent; btn.disabled = true; btn.textContent = T('Aguarde…', 'Please wait…');
+    try { await fn(); } finally { btn.disabled = false; btn.textContent = txt; }
+  }
+
+  // ── Telas de login / cadastro ──
+  function telaAuth() {
+    const cad = modo === 'cadastrar';
+    app.innerHTML = `
+      <div class="acc-auth">
+        <div class="acc-title">${cad ? T('Crie sua conta', 'Create your account') : T('Bem-vindo de volta', 'Welcome back')}</div>
+        <div class="acc-sub">${T('Salve suas conquistas e veja o progresso em qualquer aparelho.', 'Save your achievements and see your progress on any device.')}</div>
+        <div class="acc-card">
+          <div class="acc-tabs">
+            <button class="acc-tab${!cad ? ' on' : ''}" data-modo="entrar">${T('Entrar', 'Sign in')}</button>
+            <button class="acc-tab${cad ? ' on' : ''}" data-modo="cadastrar">${T('Criar conta', 'Sign up')}</button>
+          </div>
+          <form id="f-auth" novalidate>
+            <div class="acc-msg" id="m"></div>
+            <div class="fld"><label for="u">${cad ? T('Nome de usuário', 'Username') : T('Usuário ou e-mail', 'Username or e-mail')}</label>
+              <input id="u" autocomplete="username" autocapitalize="off" spellcheck="false" maxlength="${cad ? 20 : 120}" required>
+              ${cad ? `<small>${T('3 a 20 caracteres: letras, números, _ ou .', '3–20 characters: letters, numbers, _ or .')}</small>` : ''}</div>
+            <div class="fld"><label for="p">${T('Senha', 'Password')}</label>
+              <input id="p" type="password" autocomplete="${cad ? 'new-password' : 'current-password'}" required>
+              ${cad ? `<small>${T('Mínimo de 8 caracteres.', 'At least 8 characters.')}</small>` : ''}</div>
+            ${cad ? `
+            <div class="fld"><label for="p2">${T('Confirme a senha', 'Confirm password')}</label>
+              <input id="p2" type="password" autocomplete="new-password" required></div>
+            <div class="fld"><label for="e">${T('E-mail (opcional)', 'E-mail (optional)')}</label>
+              <input id="e" type="email" autocomplete="email" placeholder="${T('para recuperar a senha', 'to recover your password')}">
+              <small>${T('Sem e-mail, não há como recuperar a senha se você esquecê-la.', 'Without an e-mail you cannot recover a forgotten password.')}</small></div>` : ''}
+            <button class="acc-btn" id="go">${cad ? T('Criar conta', 'Create account') : T('Entrar', 'Sign in')}</button>
+          </form>
+          ${!cad ? `<div style="text-align:center;margin-top:14px"><button class="acc-link" id="esqueci">${T('Esqueci minha senha', 'Forgot my password')}</button></div>` : ''}
+        </div>
+        <p class="acc-note">${T('O progresso que você já marcou neste navegador será adicionado à sua conta.', 'Progress already marked in this browser will be added to your account.')}</p>
+      </div>`;
+    document.getElementById('u').focus();
+    CK_AUTH.provedores().then(lista => {
+      if (!lista.length) return;
+      const card = app.querySelector('.acc-card');
+      card.insertAdjacentHTML('beforeend', `<div class="soc-sep">${T('ou continue com', 'or continue with')}</div>
+        <div class="soc-btns">${lista.map(p => `<button class="soc-btn" data-social="${p}">${ICONE[p]} ${CK_AUTH.SOCIAIS[p]}</button>`).join('')}</div>`);
+    });
+  }
+
+  const ICONE = {
+    google: '<span class="soc-ico google">G</span>', apple: '<span class="soc-ico apple"></span>',
+    discord: '<span class="soc-ico discord">D</span>', steam: '<span class="soc-ico steam">S</span>',
+    xbox: '<span class="soc-ico xbox">X</span>', psn: '<span class="soc-ico psn">P</span>', nintendo: '<span class="soc-ico nintendo">N</span>',
+  };
+
+  function telaNome(sugestao) {
+    app.innerHTML = `
+      <div class="acc-auth">
+        <div class="acc-title">${T('Escolha seu nome de usuário', 'Pick your username')}</div>
+        <div class="acc-sub">${T('É assim que você vai aparecer no site. Dá para entrar com ele depois, se criar uma senha.', 'This is how you will appear on the site.')}</div>
+        <div class="acc-card">
+          <form id="f-nome" novalidate>
+            <div class="acc-msg" id="m"></div>
+            <div class="fld"><label for="u">${T('Nome de usuário', 'Username')}</label>
+              <input id="u" value="${esc(sugestao || '')}" maxlength="20" autocapitalize="off" spellcheck="false">
+              <small>${T('3 a 20 caracteres: letras, números, _ ou .', '3–20 characters: letters, numbers, _ or .')}</small></div>
+            <button class="acc-btn">${T('Continuar', 'Continue')}</button>
+          </form>
+        </div>
+      </div>`;
+    document.getElementById('u').focus();
+  }
+
+  function telaEsqueci() {
+    app.innerHTML = `
+      <div class="acc-auth">
+        <div class="acc-title">${T('Recuperar senha', 'Recover password')}</div>
+        <div class="acc-sub">${T('Digite o e-mail cadastrado na sua conta. Vamos enviar um link para criar uma nova senha.', 'Enter the e-mail on your account and we will send a link to set a new password.')}</div>
+        <div class="acc-card">
+          <form id="f-rec" novalidate>
+            <div class="acc-msg" id="m"></div>
+            <div class="fld"><label for="e">E-mail</label><input id="e" type="email" autocomplete="email" required></div>
+            <button class="acc-btn" id="go">${T('Enviar link', 'Send link')}</button>
+          </form>
+          <div style="text-align:center;margin-top:14px"><button class="acc-link" data-modo="entrar">← ${T('Voltar para o login', 'Back to sign in')}</button></div>
+        </div>
+        <p class="acc-note">${T('Contas sem e-mail não podem recuperar a senha.', 'Accounts without an e-mail cannot recover the password.')}</p>
+      </div>`;
+  }
+
+  function telaNovaSenha() {
+    app.innerHTML = `
+      <div class="acc-auth">
+        <div class="acc-title">${T('Crie uma nova senha', 'Set a new password')}</div>
+        <div class="acc-card">
+          <form id="f-nova" novalidate>
+            <div class="acc-msg" id="m"></div>
+            <div class="fld"><label for="p">${T('Nova senha', 'New password')}</label><input id="p" type="password" autocomplete="new-password"></div>
+            <div class="fld"><label for="p2">${T('Confirme', 'Confirm')}</label><input id="p2" type="password" autocomplete="new-password"></div>
+            <button class="acc-btn" id="go">${T('Salvar senha', 'Save password')}</button>
+          </form>
+        </div>
+      </div>`;
+  }
+
+  // ── Painel do usuário ──
+  async function telaPainel() {
+    const c = await CK_AUTH.conta();
+    if (!c) { telaAuth(); return; }
+    renderHeader('conta');
+    const [jogos, index] = await Promise.all([CK.loadGames().catch(() => []), CK.loadIndex()]);
+    const linhas = jogos.map(j => {
+      const total = (index[j.id] || {}).total || 0;
+      const prog = CK.getProg(j.id);
+      const feitas = Math.min(total || Infinity, Object.keys(prog).filter(k => k[0] !== '#' && prog[k]).length);
+      return { j, total, feitas, pct: total ? Math.round(feitas / total * 100) : 0 };
+    }).filter(x => x.feitas > 0).sort((a, b) => b.pct - a.pct);
+    const totalFeitas = linhas.reduce((s, x) => s + x.feitas, 0);
+    const completos = linhas.filter(x => x.total && x.feitas >= x.total).length;
+    const desde = c.criado_em ? new Date(c.criado_em).toLocaleDateString(CK.isEN() ? 'en' : 'pt-BR', { month: 'long', year: 'numeric' }) : '';
+
+    app.innerHTML = `
+      <div class="dash-head">
+        <div class="dash-avatar">${esc((c.usuario || '?')[0].toUpperCase())}</div>
+        <div><div class="dash-name">${esc(c.usuario)}</div>
+          <div class="dash-since">${desde ? T('Membro desde ', 'Member since ') + desde : ''}</div></div>
+        <div class="dash-sync">☁️ ${T('Progresso sincronizado com a sua conta', 'Progress synced to your account')}<br>
+          <a href="meus-jogos.html" style="color:var(--ach-strong);font-weight:800">⭐ ${T('Ir para Meus Jogos →', 'Go to My Games →')}</a></div>
+      </div>
+      <div class="ck-stats" style="margin:0 0 28px">
+        <div class="ck-stat"><b>${totalFeitas}</b><span>${T('Conquistas marcadas', 'Achievements marked')}</span></div>
+        <div class="ck-stat"><b>${linhas.length}</b><span>${T('Jogos em andamento', 'Games in progress')}</span></div>
+        <div class="ck-stat"><b>${completos} 🏆</b><span>${T('Jogos completos', 'Games completed')}</span></div>
+      </div>
+      <div class="h2">${T('Minhas conquistas', 'My achievements')}</div>
+      <div class="dash-games">${linhas.length ? linhas.map(x => `
+        <a class="dg" href="conquistas/jogo.html?id=${encodeURIComponent(x.j.id)}">
+          <img src="${CK.imgSrc(x.j.image)}" alt="" loading="lazy">
+          <div><b>${esc(x.j.title)}</b>
+            <div style="font-size:12px;color:var(--text3)">${x.feitas}/${x.total} ${T('concluídas', 'completed')}</div>
+            <div class="ck-bar"><div style="width:${x.pct}%"></div></div></div>
+          <div class="dg-pct${x.pct === 100 ? ' full' : ''}">${x.pct === 100 ? '🏆' : x.pct + '%'}</div>
+        </a>`).join('') : `
+        <div class="ck-empty" style="padding:40px 20px"><div class="big">🎮</div>
+          ${T('Você ainda não marcou nenhuma conquista.', 'You have not marked any achievement yet.')}<br>
+          <a href="conquistas.html" style="color:var(--ach-strong);font-weight:800">${T('Escolher um jogo →', 'Pick a game →')}</a></div>`}
+      </div>
+
+      <div class="h2">${T('Contas vinculadas', 'Linked accounts')}</div>
+      <div class="links" id="links"><div class="acc-card"><div class="ck-spinner"></div></div></div>
+
+      <div class="h2">${T('Configurações da conta', 'Account settings')}</div>
+      <div class="settings">
+        <div class="acc-card">
+          <h3>📧 ${T('E-mail de recuperação', 'Recovery e-mail')}</h3>
+          <p>${c.email ? T('Atual: ', 'Current: ') + '<b>' + esc(c.email) + '</b>' : T('Nenhum e-mail cadastrado. Sem ele não dá para recuperar a senha.', 'No e-mail yet. Without it you cannot recover your password.')}</p>
+          <form id="f-email" novalidate>
+            <div class="acc-msg" id="m-email"></div>
+            <div class="fld"><input id="email" type="email" placeholder="${T('seu@email.com', 'you@email.com')}" value="${esc(c.email || '')}" autocomplete="email"></div>
+            <button class="acc-btn" id="go-email">${T('Salvar e-mail', 'Save e-mail')}</button>
+            ${c.email ? `<button type="button" class="acc-btn ghost" id="rm-email" style="margin-top:8px">${T('Remover e-mail', 'Remove e-mail')}</button>` : ''}
+          </form>
+        </div>
+        <div class="acc-card">
+          <h3>🔒 ${T('Trocar senha', 'Change password')}</h3>
+          <p>${T('Use pelo menos 8 caracteres.', 'Use at least 8 characters.')}</p>
+          <form id="f-senha" novalidate>
+            <div class="acc-msg" id="m-senha"></div>
+            <div class="fld"><input id="np" type="password" placeholder="${T('Nova senha', 'New password')}" autocomplete="new-password"></div>
+            <div class="fld"><input id="np2" type="password" placeholder="${T('Confirme a nova senha', 'Confirm new password')}" autocomplete="new-password"></div>
+            <button class="acc-btn" id="go-senha">${T('Trocar senha', 'Change password')}</button>
+          </form>
+        </div>
+        <div class="acc-card">
+          <h3>🚪 ${T('Sair', 'Sign out')}</h3>
+          <p>${T('Ao sair, o progresso some deste navegador, mas continua salvo na sua conta.', 'Signing out removes progress from this browser, but it stays in your account.')}</p>
+          <button class="acc-btn danger" id="sair">${T('Sair da conta', 'Sign out')}</button>
+        </div>
+      </div>`;
+    renderVinculos();
+  }
+
+  // ── Contas vinculadas ──
+  async function renderVinculos() {
+    const box = document.getElementById('links');
+    if (!box) return;
+    const [prov, ids, vin] = await Promise.all([CK_AUTH.provedores(), CK_AUTH.identidades().catch(() => []), CK_AUTH.vinculos().catch(() => ({}))]);
+    const st = vin.steam;
+    const linhasLogin = prov.map(p => {
+      const ident = ids.find(i => i.provider === p);
+      const nome = ident && ident.identity_data ? (ident.identity_data.email || ident.identity_data.full_name || ident.identity_data.name || '') : '';
+      return `<div class="link-row">${ICONE[p]}<div class="grow"><b>${CK_AUTH.SOCIAIS[p]}</b><small>${ident ? esc(nome || T('Vinculado', 'Linked')) : T('Não vinculado', 'Not linked')}</small></div>
+        ${ident ? `<button class="mini" data-desv="${p}">${T('Desvincular', 'Unlink')}</button>` : `<button class="mini on" data-vinc="${p}">${T('Vincular', 'Link')}</button>`}</div>`;
+    }).join('');
+    const manual = [['xbox', 'Xbox', T('Gamertag', 'Gamertag')], ['psn', 'PlayStation', T('ID Online da PSN', 'PSN Online ID')], ['nintendo', 'Nintendo', T('Código de amigo (SW-…)', 'Friend code (SW-…)')]];
+    const imp = st && st.importado_em ? T('Última importação: ', 'Last import: ') + new Date(st.importado_em).toLocaleString(CK.isEN() ? 'en' : 'pt-BR') : T('Ainda não importado', 'Not imported yet');
+    box.innerHTML = `
+      <div class="acc-card">
+        <h3 style="font-size:15px;color:var(--text);margin-bottom:4px">🎮 Steam</h3>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:10px">${T('Vincule para importar automaticamente seus jogos e conquistas.', 'Link to import your games and achievements automatically.')}</p>
+        ${st ? `
+          <div class="link-row">${st.avatar ? `<img class="steam-av" src="${esc(st.avatar)}" alt="">` : ICONE.steam}
+            <div class="grow"><b>${esc(st.nome || st.id_externo)}</b><small>${imp}</small></div></div>
+          <div class="acc-msg" id="m-steam"></div>
+          <button class="acc-btn" id="steam-imp" style="margin-top:10px">⬇️ ${T('Importar conquistas agora', 'Import achievements now')}</button>
+          <button class="acc-btn ghost" id="steam-desv" style="margin-top:8px">${T('Desvincular Steam', 'Unlink Steam')}</button>`
+        : `<a class="acc-btn" href="${CK_AUTH.urlSteam()}" style="display:block;text-align:center;text-decoration:none">${T('Vincular conta Steam', 'Link Steam account')}</a>
+           <p class="acc-note" style="text-align:left">${T('Você entra pelo site oficial da Steam; a gente nunca vê sua senha.', 'You sign in on the official Steam site; we never see your password.')}</p>`}
+      </div>
+      <div class="acc-card">
+        <h3 style="font-size:15px;color:var(--text);margin-bottom:4px">🕹️ ${T('Consoles', 'Consoles')}</h3>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:6px">${T('Xbox, PlayStation e Nintendo não liberam as conquistas para outros sites, então aqui o vínculo é só informativo — marque o progresso manualmente.', 'Xbox, PlayStation and Nintendo do not share achievements with other sites, so these are informational — track progress manually.')}</p>
+        <form id="f-manual" class="manual">
+          ${manual.map(([k, nome, ph]) => `<div class="link-row">${ICONE[k]}<div class="grow"><b>${nome}</b>
+            <input data-manual="${k}" placeholder="${ph}" value="${esc((vin[k] || {}).id_externo || '')}" maxlength="64"></div></div>`).join('')}
+          <div class="acc-msg" id="m-manual"></div>
+          <button class="acc-btn ghost" style="margin-top:8px">${T('Salvar', 'Save')}</button>
+        </form>
+      </div>
+      ${prov.length ? `<div class="acc-card"><h3 style="font-size:15px;color:var(--text);margin-bottom:4px">🔑 ${T('Formas de entrar', 'Sign-in methods')}</h3>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:6px">${T('Vincule para entrar com um clique.', 'Link to sign in with one click.')}</p>${linhasLogin}</div>` : ''}`;
+  }
+
+  async function importarSteam(btn) {
+    const box = document.getElementById('m-steam');
+    await ocupado(btn, async () => {
+      try {
+        const r = await CK_AUTH.importarSteam();
+        const n = r.jogos.length;
+        CK.toast(T(`${r.conquistas_novas} conquistas importadas de ${n} jogo(s)`, `${r.conquistas_novas} achievements imported from ${n} game(s)`));
+        await telaPainel();
+      } catch (err) { if (box) msg(box, err.message); else CK.toast(err.message); }
+    });
+  }
+
+  // ── Eventos ──
+  app.addEventListener('click', e => {
+    const m = e.target.closest('[data-modo]');
+    if (m) { modo = m.dataset.modo; telaAuth(); return; }
+    if (e.target.id === 'esqueci') { telaEsqueci(); return; }
+    const soc = e.target.closest('[data-social]');
+    if (soc) { CK_AUTH.entrarCom(soc.dataset.social).catch(err => msg(document.getElementById('m'), err.message)); return; }
+    const vinc = e.target.closest('[data-vinc]');
+    if (vinc) { CK_AUTH.vincularProvedor(vinc.dataset.vinc).catch(err => CK.toast(err.message)); return; }
+    const desv = e.target.closest('[data-desv]');
+    if (desv) {
+      CK_AUTH.identidades().then(ids => {
+        const i = ids.find(x => x.provider === desv.dataset.desv);
+        return i && CK_AUTH.desvincularProvedor(i);
+      }).then(renderVinculos).catch(err => CK.toast(err.message));
+      return;
+    }
+    if (e.target.id === 'steam-imp') { importarSteam(e.target); return; }
+    if (e.target.id === 'steam-desv') {
+      if (!confirm(T('Desvincular a Steam? Suas conquistas já importadas continuam salvas.', 'Unlink Steam? Imported achievements stay saved.'))) return;
+      CK_AUTH.chamarSteam('desvincular', {}).then(renderVinculos).catch(err => CK.toast(err.message));
+      return;
+    }
+    if (e.target.id === 'sair') {
+      CK_AUTH.sair().then(() => { renderHeader('conta'); modo = 'entrar'; telaAuth(); CK.toast(T('Você saiu da conta', 'Signed out')); });
+      return;
+    }
+    if (e.target.id === 'rm-email') {
+      ocupado(e.target, async () => {
+        try { await CK_AUTH.definirEmail(''); await telaPainel(); CK.toast(T('E-mail removido', 'E-mail removed')); }
+        catch (err) { msg(document.getElementById('m-email'), err.message); }
+      });
+    }
+  });
+
+  app.addEventListener('submit', e => {
+    e.preventDefault();
+    const f = e.target, v = id => (document.getElementById(id) || {}).value || '';
+    const btn = f.querySelector('.acc-btn');
+
+    if (f.id === 'f-auth') {
+      const box = document.getElementById('m');
+      const u = v('u').trim(), p = v('p');
+      if (!u || !p) return msg(box, T('Preencha usuário e senha.', 'Fill in username and password.'));
+      if (modo === 'cadastrar') {
+        if (!/^[A-Za-z0-9_.]{3,20}$/.test(u)) return msg(box, T('O nome de usuário deve ter de 3 a 20 caracteres (letras, números, _ ou .).', 'Username must be 3–20 characters (letters, numbers, _ or .).'));
+        if (p.length < 8) return msg(box, T('A senha precisa ter pelo menos 8 caracteres.', 'Password must have at least 8 characters.'));
+        if (p !== v('p2')) return msg(box, T('As senhas não conferem.', 'Passwords do not match.'));
+      }
+      ocupado(btn, async () => {
+        try {
+          const nome = modo === 'cadastrar' ? await CK_AUTH.cadastrar(u, p, v('e').trim()) : await CK_AUTH.entrar(u, p);
+          CK.toast(T(`Olá, ${nome}!`, `Hi, ${nome}!`));
+          const volta = new URLSearchParams(location.search).get('voltar');
+          if (volta && /^[\w\-/.?=&%]+$/.test(volta) && !volta.includes('//')) { location.href = volta; return; }
+          await telaPainel();
+        } catch (err) { msg(box, err.message); }
+      });
+    }
+
+    if (f.id === 'f-rec') {
+      const box = document.getElementById('m');
+      if (!/^\S+@\S+\.\S+$/.test(v('e'))) return msg(box, T('Digite um e-mail válido.', 'Enter a valid e-mail.'));
+      ocupado(btn, async () => {
+        try {
+          await CK_AUTH.recuperarSenha(v('e'));
+          msg(box, T('Se esse e-mail estiver cadastrado, você vai receber um link em instantes. Confira também o spam.', 'If this e-mail is registered, a link is on its way. Check your spam folder too.'), 'ok');
+        } catch (err) { msg(box, err.message); }
+      });
+    }
+
+    if (f.id === 'f-nova' || f.id === 'f-senha') {
+      const box = document.getElementById(f.id === 'f-nova' ? 'm' : 'm-senha');
+      const p = v(f.id === 'f-nova' ? 'p' : 'np'), p2 = v(f.id === 'f-nova' ? 'p2' : 'np2');
+      if (p.length < 8) return msg(box, T('A senha precisa ter pelo menos 8 caracteres.', 'Password must have at least 8 characters.'));
+      if (p !== p2) return msg(box, T('As senhas não conferem.', 'Passwords do not match.'));
+      ocupado(btn, async () => {
+        try {
+          await CK_AUTH.trocarSenha(p);
+          if (f.id === 'f-nova') { history.replaceState(null, '', 'conta.html'); await CK_AUTH.sincronizarRapido(); await telaPainel(); CK.toast(T('Senha atualizada!', 'Password updated!')); }
+          else { f.reset(); msg(box, T('Senha trocada com sucesso.', 'Password changed.'), 'ok'); }
+        } catch (err) { msg(box, err.message); }
+      });
+    }
+
+    if (f.id === 'f-nome') {
+      ocupado(btn, async () => {
+        try { await CK_AUTH.criarPerfil(v('u').trim()); renderHeader('conta'); await telaPainel(); CK.toast(T('Conta pronta!', 'Account ready!')); }
+        catch (err) { msg(document.getElementById('m'), err.message); }
+      });
+    }
+
+    if (f.id === 'f-manual') {
+      ocupado(btn, async () => {
+        try {
+          for (const inp of f.querySelectorAll('[data-manual]')) await CK_AUTH.salvarVinculoManual(inp.dataset.manual, inp.value);
+          msg(document.getElementById('m-manual'), T('Salvo!', 'Saved!'), 'ok');
+        } catch (err) { msg(document.getElementById('m-manual'), err.message); }
+      });
+    }
+
+    if (f.id === 'f-email') {
+      const box = document.getElementById('m-email');
+      const em = v('email').trim();
+      if (em && !/^\S+@\S+\.\S+$/.test(em)) return msg(box, T('Digite um e-mail válido.', 'Enter a valid e-mail.'));
+      ocupado(btn, async () => {
+        try { await CK_AUTH.definirEmail(em); await telaPainel(); CK.toast(T('E-mail salvo', 'E-mail saved')); }
+        catch (err) { msg(box, err.message); }
+      });
+    }
+  });
+
+  // ── Início ──
+  let recuperando = /type=recovery/.test(location.hash);
+  CK_AUTH.aoRecuperarSenha(() => { recuperando = true; telaNovaSenha(); });
+  (async () => {
+    if (!window.supabase) {
+      app.innerHTML = `<div class="ck-empty"><div class="big">⚠️</div>${T('Não foi possível carregar o sistema de contas. Verifique sua conexão.', 'Could not load the account system. Check your connection.')}</div>`;
+      return;
+    }
+    const s = await CK_AUTH.sessao();
+    if (recuperando) { telaNovaSenha(); return; }
+    if (!s) {
+      if (CK_AUTH.usuario()) { localStorage.removeItem('ck_user'); renderHeader('conta'); }
+      if (new URLSearchParams(location.search).get('steam')) CK.toast(T('Entre na sua conta para vincular a Steam.', 'Sign in to link Steam.'));
+      telaAuth(); return;
+    }
+    const c = await CK_AUTH.conta();
+    if (c && c.semPerfil) { telaNome(c.sugestao); return; }     // primeiro login pelo Google/Discord/Apple
+    renderHeader('conta');
+    await CK_AUTH.sincronizarRapido();
+    const qs = new URLSearchParams(location.search);
+    if (qs.get('steam') === 'retorno' && qs.get('openid.mode')) {   // voltando do login da Steam
+      history.replaceState(null, '', 'conta.html');
+      try {
+        const r = await CK_AUTH.concluirSteam(qs);
+        CK.toast(T('Steam vinculada!', 'Steam linked!'));
+        if (r.importacao_disponivel) { try { await CK_AUTH.importarSteam(); } catch (e) { CK.toast(e.message); } }
+      } catch (err) { CK.toast(err.message); }
+    }
+    await telaPainel();
+  })();
+</script>
+</body>
+</html>

@@ -237,3 +237,11 @@ body.light .a-tag.miss { color: #b91c1c; } body.light .a-tag.dlc { color: #0369a
   .ck-toolbar-inner { padding: 12px 16px; }
   .ck-wrap { padding: 0 16px; }
 }
+.g-progress p a { color: var(--ach-strong); font-weight: 700; }
+.ck-libbtn {
+  position: absolute; top: 10px; left: 10px; z-index: 3; width: 32px; height: 32px; border-radius: 50%;
+  border: 0; background: #000000a8; color: #fff; font-size: 16px; font-weight: 900; cursor: pointer;
+  display: grid; place-items: center; backdrop-filter: blur(4px); transition: background .15s, transform .15s;
+}
+.ck-libbtn:hover { background: var(--ach); transform: scale(1.08); }
+.ck-libbtn.on { background: var(--done); }

@@ -134,6 +134,21 @@ body {
   display: flex; align-items: center; gap: 8px; flex-shrink: 0;
 }
 
+/* Botão de conta */
+.account-btn {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none;
+  font-size: 12px; font-weight: 700; color: var(--text2);
+  border: 1px solid var(--border); background: var(--bg3);
+  padding: 4px 11px 4px 9px; border-radius: 20px; transition: all 0.15s; white-space: nowrap;
+}
+.account-btn:hover, .account-btn.active { color: var(--text); border-color: #7c3aed; }
+.account-btn.logged { padding-left: 4px; }
+.account-avatar {
+  width: 22px; height: 22px; border-radius: 50%; display: grid; place-items: center;
+  background: linear-gradient(135deg, #7c3aed, #2563eb); color: #fff; font-size: 11px; font-weight: 800;
+}
+.account-name { max-width: 110px; overflow: hidden; text-overflow: ellipsis; }
+
 /* Seletor de idioma */
 .lang-toggle {
   display: flex; align-items: center; gap: 2px;
@@ -397,4 +412,6 @@ body.light footer {
   .header-controls { gap: 6px; }
   .lang-btn { padding: 3px 6px; font-size: 10px; }
   .theme-switch-icon { display: none; }
+  .account-name { display: none; }
+  .account-btn { padding: 4px 8px; }
 }

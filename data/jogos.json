@@ -20,7 +20,15 @@
   "playthroughs": "1 (+ backup do save para os finais)",
   "online": false,
   "mode": "conquistas",
-  "image": "imagens/jogos/eldenring.jpg"
+  "image": "imagens/jogos/eldenring.jpg",
+  "generos": [
+   "RPG",
+   "Soulslike",
+   "Mundo aberto"
+  ],
+  "palavras": [
+   "elden ring"
+  ]
  },
  {
   "id": "cyberpunk",
@@ -44,7 +52,15 @@
   "online": false,
   "dlc_note": "13 conquistas exigem a expansão Phantom Liberty.",
   "mode": "conquistas",
-  "image": "imagens/jogos/cyberpunk.jpg"
+  "image": "imagens/jogos/cyberpunk.jpg",
+  "generos": [
+   "RPG",
+   "Ação",
+   "Mundo aberto"
+  ],
+  "palavras": [
+   "cyberpunk"
+  ]
  },
  {
   "id": "gow",
@@ -66,7 +82,14 @@
   "online": false,
   "dlc_note": "12 conquistas são do modo Valhalla (gratuito).",
   "mode": "conquistas",
-  "image": "imagens/jogos/gow.jpg"
+  "image": "imagens/jogos/gow.jpg",
+  "generos": [
+   "Ação",
+   "Aventura"
+  ],
+  "palavras": [
+   "god of war"
+  ]
  },
  {
   "id": "spiderman2",
@@ -87,7 +110,16 @@
   "playthroughs": "2 (Novo Jogo+)",
   "online": false,
   "mode": "conquistas",
-  "image": "imagens/jogos/spiderman2.jpg"
+  "image": "imagens/jogos/spiderman2.jpg",
+  "generos": [
+   "Ação",
+   "Aventura",
+   "Mundo aberto"
+  ],
+  "palavras": [
+   "spider-man",
+   "homem-aranha"
+  ]
  },
  {
   "id": "tlou",
@@ -108,7 +140,15 @@
   "playthroughs": "1 (+ seleção de capítulos)",
   "online": false,
   "mode": "conquistas",
-  "image": "imagens/jogos/tlou.jpg"
+  "image": "imagens/jogos/tlou.jpg",
+  "generos": [
+   "Ação",
+   "Aventura",
+   "Terror"
+  ],
+  "palavras": [
+   "the last of us"
+  ]
  },
  {
   "id": "hollowknight",
@@ -132,7 +172,15 @@
   "playthroughs": "3+ (Alma de Aço e speedrun)",
   "online": false,
   "mode": "conquistas",
-  "image": "imagens/jogos/hollowknight.jpg"
+  "image": "imagens/jogos/hollowknight.jpg",
+  "generos": [
+   "Metroidvania",
+   "Plataforma",
+   "Indie"
+  ],
+  "palavras": [
+   "hollow knight"
+  ]
  },
  {
   "id": "deadcells",
@@ -157,7 +205,15 @@
   "online": false,
   "dlc_note": "Várias conquistas exigem as DLCs pagas: The Bad Seed, Fatal Falls, The Queen and the Sea e Return to Castlevania.",
   "mode": "conquistas",
-  "image": "imagens/jogos/deadcells.jpg"
+  "image": "imagens/jogos/deadcells.jpg",
+  "generos": [
+   "Roguelite",
+   "Metroidvania",
+   "Indie"
+  ],
+  "palavras": [
+   "dead cells"
+  ]
  },
  {
   "id": "halo",
@@ -178,7 +234,15 @@
   "playthroughs": "2+ (Lendário e LASO)",
   "online": true,
   "mode": "conquistas",
-  "image": "imagens/jogos/halo.jpg"
+  "image": "imagens/jogos/halo.jpg",
+  "generos": [
+   "Tiro",
+   "Multijogador"
+  ],
+  "palavras": [
+   "halo infinite",
+   "halo"
+  ]
  },
  {
   "id": "fh5",
@@ -200,7 +264,15 @@
   "online": true,
   "dlc_note": "54 conquistas são das expansões Hot Wheels e Rally Adventure.",
   "mode": "conquistas",
-  "image": "imagens/jogos/fh5.jpg"
+  "image": "imagens/jogos/fh5.jpg",
+  "generos": [
+   "Corrida",
+   "Mundo aberto",
+   "Multijogador"
+  ],
+  "palavras": [
+   "forza horizon 5"
+  ]
  },
  {
   "id": "rdr2",
@@ -224,7 +296,15 @@
   "online": true,
   "dlc_note": "17 conquistas são do Red Dead Online.",
   "mode": "conquistas",
-  "image": "imagens/jogos/rdr2.jpg"
+  "image": "imagens/jogos/rdr2.jpg",
+  "generos": [
+   "Ação",
+   "Aventura",
+   "Mundo aberto"
+  ],
+  "palavras": [
+   "red dead"
+  ]
  },
  {
   "id": "doom-dark-ages",
@@ -247,7 +327,14 @@
   "playthroughs": "1 (+ seleção de capítulos)",
   "online": false,
   "mode": "conquistas",
-  "image": "imagens/jogos/doom-dark-ages.jpg"
+  "image": "imagens/jogos/doom-dark-ages.jpg",
+  "generos": [
+   "Tiro",
+   "Ação"
+  ],
+  "palavras": [
+   "doom"
+  ]
  },
  {
   "id": "demons",
@@ -266,7 +353,15 @@
   "playthroughs": "2–3 (NG+)",
   "online": true,
   "mode": "conquistas",
-  "image": "imagens/jogos/demons.jpg"
+  "image": "imagens/jogos/demons.jpg",
+  "generos": [
+   "RPG",
+   "Soulslike"
+  ],
+  "palavras": [
+   "demon's souls",
+   "demons souls"
+  ]
  },
  {
   "id": "botw",
@@ -285,7 +380,15 @@
   "playthroughs": "1",
   "online": false,
   "mode": "checklist",
-  "image": "imagens/jogos/botw.jpg"
+  "image": "imagens/jogos/botw.jpg",
+  "generos": [
+   "Aventura",
+   "Mundo aberto"
+  ],
+  "palavras": [
+   "breath of the wild",
+   "zelda"
+  ]
  },
  {
   "id": "metroid4",
@@ -304,6 +407,14 @@
   "playthroughs": null,
   "online": false,
   "mode": "sem-conquistas",
-  "image": "imagens/jogos/metroid4.jpg"
+  "image": "imagens/jogos/metroid4.jpg",
+  "generos": [
+   "Ação",
+   "Aventura",
+   "Tiro"
+  ],
+  "palavras": [
+   "metroid"
+  ]
  }
 ]

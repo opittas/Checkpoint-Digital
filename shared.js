@@ -150,7 +150,7 @@ function newsCardHTML(a, site, opts) {
     : fallback;
   const tag = opts.tag === 'geracao' ? genLabel(site, a.platform, a.gen) || p.nome : `${p.emoji} ${p.nome}`;
   return `
-    <a href="${base}artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="${escHTML(a.platform)}" data-gen="${escHTML(a.gen || '')}" data-cat="${escHTML(a.category || '')}">
+    <a href="${base}noticias/${encodeURIComponent(a.id)}.html" class="news-card" data-plat="${escHTML(a.platform)}" data-gen="${escHTML(a.gen || '')}" data-cat="${escHTML(a.category || '')}">
       <div class="card-img-wrap">
         ${img}
         <div class="card-hover-overlay"><div class="card-hover-excerpt">${escHTML(excerpt)}</div></div>

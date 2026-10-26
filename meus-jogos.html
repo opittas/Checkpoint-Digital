@@ -5,6 +5,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
 <title>Meus Jogos — Checkpoint Digital</title>
+<!--SEO-->
+<meta name="description" content="Sua coleção de jogos com progresso de conquistas e notícias de cada jogo.">
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/meus-jogos.html">
+<meta property="og:site_name" content="Checkpoint Digital">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Meus Jogos — Checkpoint Digital">
+<meta property="og:description" content="Sua coleção de jogos com progresso de conquistas e notícias de cada jogo.">
+<meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/meus-jogos.html">
+<meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Meus Jogos — Checkpoint Digital">
+<meta name="twitter:description" content="Sua coleção de jogos com progresso de conquistas e notícias de cada jogo.">
+<meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
+<!--/SEO-->
 <link rel="stylesheet" href="shared.css?v=cc0e673f">
 <link rel="stylesheet" href="conquistas-app.css?v=3b11cbda">
 <style>
@@ -94,7 +110,7 @@
 
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=cfac8d46"></script>
+<script src="shared.js?v=da7f87e4"></script>
 <script src="conquistas-app.js?v=70ef7666"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
@@ -192,7 +208,7 @@
           <button class="mj-ico${it.favorito ? ' fav' : ''}" data-fav title="${T('Favorito', 'Favorite')}">${it.favorito ? '★' : '☆'}</button>
           <button class="mj-ico" data-rm title="${T('Remover dos Meus Jogos', 'Remove from My Games')}">✕</button>
         </div>
-        <a class="ck-cover" href="conquistas/jogo.html?id=${encodeURIComponent(j.id)}">
+        <a class="ck-cover" href="conquistas/${encodeURIComponent(j.id)}.html">
           <div class="ck-fallback">🎮</div><img src="${CK.imgSrc(j.image)}" alt="" loading="lazy" onerror="this.remove()">
         </a>
         <div class="ck-card-body">
@@ -216,7 +232,7 @@
                 <button class="mj-plat${d.tenho ? ' on steam' : ''}" data-dlc-toggle="${esc(d.nome)}">${d.tenho ? '✓ ' : ''}${esc(d.nome)}</button>
                 ${d.tenho ? `<span class="mj-dlc-pct">${d.feitas}/${d.total} · <b>${d.pct}%</b></span>` : ''}</div>`).join('')}
             </div>` : ''}`}
-            <a class="mj-link" href="conquistas/jogo.html?id=${encodeURIComponent(j.id)}">${T('Ver conquistas →', 'View achievements →')}</a>
+            <a class="mj-link" href="conquistas/${encodeURIComponent(j.id)}.html">${T('Ver conquistas →', 'View achievements →')}</a>
           </div>
         </div>
       </div>`;
@@ -253,7 +269,7 @@
       const tit = EN && a.title_en ? a.title_en : a.title;
       const img = a.image_url ? `<img src="${esc(/^https?:/.test(a.image_url) ? a.image_url : a.image_url)}" alt="" loading="lazy" onerror="this.outerHTML='<div class=ph>📰</div>'">` : '<div class="ph">📰</div>';
       const data = new Date(a.published_at).toLocaleDateString(EN ? 'en' : 'pt-BR', { day: '2-digit', month: 'short', year: 'numeric' });
-      return `<a class="ni" href="artigo.html?id=${encodeURIComponent(a.id)}">${img}<div><span class="tag">${esc(j.title)}</span><b>${esc(tit)}</b><small>${data}</small></div></a>`;
+      return `<a class="ni" href="noticias/${encodeURIComponent(a.id)}.html">${img}<div><span class="tag">${esc(j.title)}</span><b>${esc(tit)}</b><small>${data}</small></div></a>`;
     }).join('') : `<div class="ck-empty" style="padding:30px 0">${meus().length ? T('Ainda não há notícias sobre esses jogos.', 'No news about these games yet.') : T('Adicione jogos para ver as notícias deles aqui.', 'Add games to see their news here.')}</div>`;
   }
 

@@ -125,7 +125,7 @@
 
 <header class="site-header" id="site-header"></header>
 
-<div id="article-content">
+<div id="article-content"><!--PRE-->
   <div class="art-loading"><div class="spinner"></div>Carregando artigo…</div>
 </div>
 
@@ -137,7 +137,7 @@
 </section>
 
 <footer id="site-footer"></footer>
-<script src="shared.js?v=cfac8d46"></script>
+<script src="shared.js?v=da7f87e4"></script>
 <script>
   renderHeader('');
   renderFooter();
@@ -161,7 +161,7 @@
 
   async function loadArticle() {
     const params = new URLSearchParams(window.location.search);
-    const id = params.get('id');
+    const id = params.get('id') || window.ARTIGO_ID;
     const isEN = getLang() === 'en';
     if (!id) { showError(isEN ? 'Article not found.' : 'Artigo não encontrado.'); return; }
 

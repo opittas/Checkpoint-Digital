@@ -17,7 +17,7 @@
 <footer id="site-footer"></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="../shared.js?v=cfac8d46"></script>
+<script src="../shared.js?v=da7f87e4"></script>
 <script src="../conquistas-app.js?v=70ef7666"></script>
 <script src="../auth.js?v=2cd7afc5"></script>
 <script>
@@ -25,7 +25,7 @@
   renderFooter('../');
 
   const T = CK.tr, EN = CK.isEN(), esc = CK.esc;
-  const gid = new URLSearchParams(location.search).get('id') || '';
+  const gid = new URLSearchParams(location.search).get('id') || window.JOGO_ID || '';
   const S = { view: 'todas', tag: '', q: '', sort: 'ordem', hideSpoilers: true,
               sec: new URLSearchParams(location.search).get('secao') || 'base' };
   try { S.hideSpoilers = localStorage.getItem('ck_spoilers') !== 'show'; } catch (e) {}
@@ -120,7 +120,7 @@
     const total = lista.length;
     const logado = window.CK_AUTH && CK_AUTH.usuario();
     const msg = done === 0 ? (logado ? T('Marque as conquistas que você já tem — fica salvo na sua conta.', 'Tick the achievements you already have — saved to your account.')
-                                     : T('Marque as conquistas que você já tem. <a href="../conta.html?voltar=conquistas/jogo.html%3Fid%3D' + encodeURIComponent(gid) + '">Entre</a> para salvar na sua conta.', 'Tick the achievements you already have. <a href="../conta.html?voltar=conquistas/jogo.html%3Fid%3D' + encodeURIComponent(gid) + '">Sign in</a> to save them to your account.'))
+                                     : T('Marque as conquistas que você já tem. <a href="../conta.html?voltar=conquistas/' + encodeURIComponent(gid) + '.html">Entre</a> para salvar na sua conta.', 'Tick the achievements you already have. <a href="../conta.html?voltar=conquistas/' + encodeURIComponent(gid) + '.html">Sign in</a> to save them to your account.'))
       : done === total ? (ehBase ? T('Jogo base 100%! 🏆', 'Base game 100%! 🏆') : T(`${sec.nome} 100%! 🏆`, `${sec.nome} 100%! 🏆`))
       : T(`Faltam ${total - done}. Continue assim!`, `${total - done} to go. Keep it up!`);
     const dlcCtl = ehBase ? '' : `<label class="ck-toggle g-own"><input type="checkbox" data-own="${esc(sec.id)}"${tenhoDlc(sec.id) ? ' checked' : ''}> ${T('Tenho esta DLC', 'I own this DLC')}</label>`;

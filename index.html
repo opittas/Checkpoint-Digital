@@ -4,7 +4,23 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
-<title>Checkpoint Digital — Blog de Games</title>
+<title>Checkpoint Digital — Notícias, reviews e guias de conquistas</title>
+<!--SEO-->
+<meta name="description" content="Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/">
+<meta property="og:site_name" content="Checkpoint Digital">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Checkpoint Digital — Notícias, reviews e guias de conquistas">
+<meta property="og:description" content="Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso.">
+<meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/">
+<meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Checkpoint Digital — Notícias, reviews e guias de conquistas">
+<meta name="twitter:description" content="Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso.">
+<meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
+<!--/SEO-->
 <link rel="stylesheet" href="shared.css?v=cc0e673f">
 <style>
   /* ── HOME HERO ── */
@@ -99,7 +115,7 @@
 </div>
 
 <footer id="site-footer"></footer>
-<script src="shared.js?v=cfac8d46"></script>
+<script src="shared.js?v=da7f87e4"></script>
 <script>
   renderHeader('home');
   renderFooter();
@@ -117,13 +133,13 @@
         <span class="badge ${catBadge(site, a.category)}">${escHTML(catLabel(site, a.category))}</span>
       </div>
       <p class="hero-excerpt">${escHTML(t(a, 'excerpt'))}</p>
-      <a class="hero-btn" href="artigo.html?id=${encodeURIComponent(a.id)}">${L('Ler artigo completo →', 'Read full article →')}</a>`;
+      <a class="hero-btn" href="noticias/${encodeURIComponent(a.id)}.html">${L('Ler artigo completo →', 'Read full article →')}</a>`;
   }
 
   function sideHTML(a, site) {
     const p = site.porId[a.platform] || { emoji: '📰', nome: '' };
     return `
-      <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="side-item">
+      <a href="noticias/${encodeURIComponent(a.id)}.html" class="side-item">
         <div class="side-item-plat ${escHTML(a.platform)}">${p.emoji} ${escHTML(p.nome)}</div>
         <div class="side-item-title">${escHTML(t(a, 'title'))}</div>
         <div class="side-item-date">${fmtDate(a.published_at)}</div>
@@ -151,7 +167,7 @@
         document.getElementById('hero-main').innerHTML = `<p style="color:var(--text3)">${L('Nenhum artigo publicado ainda.', 'No articles published yet.')}</p>`;
         return;
       }
-      const destaque = arts.find(a => a.featured) || arts[0];
+      const destaque = arts.find(a => a.featured === true || a.featured === 'true') || arts[0];
       document.getElementById('hero-main').innerHTML = heroHTML(destaque, site);
       document.getElementById('side-news-list').innerHTML =
         arts.filter(a => a.id !== destaque.id).slice(0, 5).map(a => sideHTML(a, site)).join('');

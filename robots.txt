@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://opittas.github.io/Checkpoint-Digital/sitemap.xml

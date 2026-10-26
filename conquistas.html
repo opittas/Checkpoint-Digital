@@ -4,7 +4,23 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
-<title>Conquistas — Checkpoint Digital</title>
+<title>Guias de Conquistas e Troféus — Checkpoint Digital</title>
+<!--SEO-->
+<meta name="description" content="Listas oficiais de conquistas com % de jogadores, roteiros para platinar e checklist salvo na sua conta.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/conquistas.html">
+<meta property="og:site_name" content="Checkpoint Digital">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Guias de Conquistas e Troféus — Checkpoint Digital">
+<meta property="og:description" content="Listas oficiais de conquistas com % de jogadores, roteiros para platinar e checklist salvo na sua conta.">
+<meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/conquistas.html">
+<meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Guias de Conquistas e Troféus — Checkpoint Digital">
+<meta name="twitter:description" content="Listas oficiais de conquistas com % de jogadores, roteiros para platinar e checklist salvo na sua conta.">
+<meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
+<!--/SEO-->
 <meta name="description" content="Guias de conquistas e troféus com checklist de progresso, raridade e roteiro para platinar.">
 <link rel="stylesheet" href="shared.css?v=cc0e673f">
 <link rel="stylesheet" href="conquistas-app.css?v=3b11cbda">
@@ -43,7 +59,7 @@
 
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=cfac8d46"></script>
+<script src="shared.js?v=da7f87e4"></script>
 <script src="conquistas-app.js?v=70ef7666"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
@@ -114,7 +130,7 @@
 
   function card(j) {
     const s = gameStats(j);
-    const href = `conquistas/jogo.html?id=${encodeURIComponent(j.id)}`;
+    const href = `conquistas/${encodeURIComponent(j.id)}.html`;
     let foot;
     if (j.mode === 'sem-conquistas') {
       foot = `<div class="ck-card-foot-row"><span>${T('Sem sistema de conquistas', 'No achievement system')}</span><b>${T('Ver detalhes →', 'Details →')}</b></div>`;

@@ -21,7 +21,7 @@
 <meta name="twitter:description" content="Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <!--/SEO-->
-<link rel="stylesheet" href="shared.css?v=cc0e673f">
+<link rel="stylesheet" href="shared.css?v=acdc1308">
 <style>
   /* ── HOME HERO ── */
   .hero {
@@ -115,7 +115,7 @@
 </div>
 
 <footer id="site-footer"></footer>
-<script src="shared.js?v=da7f87e4"></script>
+<script src="shared.js?v=32a7bb6c"></script>
 <script>
   renderHeader('home');
   renderFooter();
@@ -133,13 +133,13 @@
         <span class="badge ${catBadge(site, a.category)}">${escHTML(catLabel(site, a.category))}</span>
       </div>
       <p class="hero-excerpt">${escHTML(t(a, 'excerpt'))}</p>
-      <a class="hero-btn" href="noticias/${encodeURIComponent(a.id)}.html">${L('Ler artigo completo →', 'Read full article →')}</a>`;
+      <a class="hero-btn" href="${newsURL(a)}">${L('Ler artigo completo →', 'Read full article →')}</a>`;
   }
 
   function sideHTML(a, site) {
     const p = site.porId[a.platform] || { emoji: '📰', nome: '' };
     return `
-      <a href="noticias/${encodeURIComponent(a.id)}.html" class="side-item">
+      <a href="${newsURL(a)}" class="side-item">
         <div class="side-item-plat ${escHTML(a.platform)}">${p.emoji} ${escHTML(p.nome)}</div>
         <div class="side-item-title">${escHTML(t(a, 'title'))}</div>
         <div class="side-item-date">${fmtDate(a.published_at)}</div>

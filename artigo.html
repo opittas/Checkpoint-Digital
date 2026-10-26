@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
 <title>Carregando… — Checkpoint Digital</title>
-<link rel="stylesheet" href="shared.css?v=cc0e673f">
+<link rel="stylesheet" href="shared.css?v=acdc1308">
 <style>
   .article-hero {
     background: var(--bg2);
@@ -111,6 +111,14 @@
     .rb-col + .rb-col { border-left: none; border-top: 1px solid var(--border); }
   }
 
+  /* Fontes */
+  .article-sources { margin-top: 36px; padding: 18px 20px; border: 1px solid var(--border); border-radius: 12px; background: var(--bg2); }
+  .article-sources-title { font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: .6px; color: var(--text); margin-bottom: 6px; }
+  .article-sources p { font-size: 13px; color: var(--text3); margin-bottom: 8px; }
+  .article-sources ul { margin: 0; padding-left: 18px; display: flex; flex-wrap: wrap; gap: 4px 22px; }
+  .article-sources a { color: #a78bfa; font-weight: 700; font-size: 14px; text-decoration: none; }
+  .article-sources a:hover { text-decoration: underline; }
+
   /* Outros artigos */
   .more-section {
     background: var(--bg2); border-top: 1px solid var(--border);
@@ -137,7 +145,7 @@
 </section>
 
 <footer id="site-footer"></footer>
-<script src="shared.js?v=da7f87e4"></script>
+<script src="shared.js?v=32a7bb6c"></script>
 <script>
   renderHeader('');
   renderFooter();
@@ -154,6 +162,19 @@
   // Plataformas vêm de data/site.json (loadSite, em shared.js)
   const BADGE = { xbox: 'badge-xbox', ps: 'badge-ps', nin: 'badge-nin', steam: 'badge-steam' };
   let SITE = null;
+
+  // Fontes consultadas para escrever a notícia
+  function fontesHTML(fontes, isEN) {
+    if (!Array.isArray(fontes) || !fontes.length) return '';
+    const itens = fontes.filter(f => f && f.url && /^https?:\/\//.test(f.url)).map(f =>
+      `<li><a href="${escHTML(f.url)}" target="_blank" rel="noopener nofollow">${escHTML(f.nome || new URL(f.url).hostname)}</a></li>`).join('');
+    if (!itens) return '';
+    return `<aside class="article-sources">
+      <div class="article-sources-title">📚 ${isEN ? 'Sources' : 'Fontes'}</div>
+      <p>${isEN ? 'This article was written by Checkpoint Digital based on information published by:' : 'Esta notícia foi escrita pelo Checkpoint Digital com base em informações publicadas por:'}</p>
+      <ul>${itens}</ul>
+    </aside>`;
+  }
 
   function formatDate(iso) {
     return new Date(iso).toLocaleDateString('pt-BR', { day:'2-digit', month:'long', year:'numeric' });
@@ -199,6 +220,7 @@
         </div>
         <div class="article-body-wrap">
           <div class="article-body">${body}</div>
+          ${fontesHTML(art.fontes, isEN)}
         </div>`;
 
       // Carrega mais artigos da mesma plataforma

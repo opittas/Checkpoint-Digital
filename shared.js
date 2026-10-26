@@ -15,8 +15,24 @@ const SITE_ROOT = (function () {
 const _dbCache = {};
 function _loadTable(table) {
   if (!_dbCache[table]) {
-    _dbCache[table] = fetch(SITE_ROOT + 'data/' + table + '.json', { cache: 'no-cache' })
+    const local = fetch(SITE_ROOT + 'data/' + table + '.json', { cache: 'no-cache' })
       .then(r => { if (!r.ok) throw new Error('local ' + r.status); return r.json(); });
+    // Notícias: soma as publicadas no banco depois da última geração do site
+    // (aparecem na hora; a rotina do GitHub cria a página fixa depois).
+    _dbCache[table] = table !== 'articles' ? local : local.then(async rows => {
+      try {
+        const ultima = rows.reduce((m, r) => (r.published_at > m ? r.published_at : m), '1970-01-01');
+        const ctl = new AbortController();
+        const timer = setTimeout(() => ctl.abort(), 2500);
+        const r = await fetch(`${SUPA_URL}/rest/v1/articles?select=*&published_at=gt.${encodeURIComponent(ultima)}&order=published_at.desc&limit=30`,
+          { headers: { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}` }, signal: ctl.signal });
+        clearTimeout(timer);
+        if (!r.ok) return rows;
+        const ids = new Set(rows.map(x => x.id));
+        const novas = (await r.json()).filter(x => !ids.has(x.id)).map(x => Object.assign(x, { _remoto: true }));
+        return novas.concat(rows);
+      } catch (e) { return rows; }
+    });
   }
   return _dbCache[table];
 }
@@ -138,6 +154,10 @@ function genLabel(site, plat, gen) {
   const g = p && p.geracoes.find(x => x.id === gen);
   return g ? g.nome : (p ? p.nome : '');
 }
+// Endereço da notícia: página fixa (melhor para Google/redes) ou dinâmica se ainda não foi gerada
+function newsURL(a) {
+  return a._remoto ? `artigo.html?id=${encodeURIComponent(a.id)}` : `noticias/${encodeURIComponent(a.id)}.html`;
+}
 // Card de notícia padrão. opts.tag = 'plataforma' (padrão) ou 'geracao'
 function newsCardHTML(a, site, opts) {
   opts = opts || {};
@@ -150,7 +170,7 @@ function newsCardHTML(a, site, opts) {
     : fallback;
   const tag = opts.tag === 'geracao' ? genLabel(site, a.platform, a.gen) || p.nome : `${p.emoji} ${p.nome}`;
   return `
-    <a href="${base}noticias/${encodeURIComponent(a.id)}.html" class="news-card" data-plat="${escHTML(a.platform)}" data-gen="${escHTML(a.gen || '')}" data-cat="${escHTML(a.category || '')}">
+    <a href="${base}${newsURL(a)}" class="news-card" data-plat="${escHTML(a.platform)}" data-gen="${escHTML(a.gen || '')}" data-cat="${escHTML(a.category || '')}">
       <div class="card-img-wrap">
         ${img}
         <div class="card-hover-overlay"><div class="card-hover-excerpt">${escHTML(excerpt)}</div></div>
@@ -264,7 +284,7 @@ function renderFooter(base) {
       <div class="footer-tagline">${escHTML(site.rodape.slogan[lang])}</div>
       <div class="footer-grid">${cols}</div>
       <div class="footer-bottom">
-        <span>${escHTML(site.rodape.direitos[lang])}</span>
+        <span>${escHTML(site.rodape.direitos[lang])} · <a href="${base}privacidade.html">${lang === 'en' ? 'Privacy' : 'Privacidade'}</a> · <a href="${base}termos.html">${lang === 'en' ? 'Terms' : 'Termos'}</a></span>
         <span>${escHTML(site.rodape.assinatura[lang])}</span>
       </div>
     </div>`;

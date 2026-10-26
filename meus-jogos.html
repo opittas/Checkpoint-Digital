@@ -21,7 +21,7 @@
 <meta name="twitter:description" content="Sua coleção de jogos com progresso de conquistas e notícias de cada jogo.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <!--/SEO-->
-<link rel="stylesheet" href="shared.css?v=cc0e673f">
+<link rel="stylesheet" href="shared.css?v=acdc1308">
 <link rel="stylesheet" href="conquistas-app.css?v=3b11cbda">
 <style>
   .mj-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 18px; }
@@ -110,7 +110,7 @@
 
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=da7f87e4"></script>
+<script src="shared.js?v=32a7bb6c"></script>
 <script src="conquistas-app.js?v=70ef7666"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
@@ -269,7 +269,7 @@
       const tit = EN && a.title_en ? a.title_en : a.title;
       const img = a.image_url ? `<img src="${esc(/^https?:/.test(a.image_url) ? a.image_url : a.image_url)}" alt="" loading="lazy" onerror="this.outerHTML='<div class=ph>📰</div>'">` : '<div class="ph">📰</div>';
       const data = new Date(a.published_at).toLocaleDateString(EN ? 'en' : 'pt-BR', { day: '2-digit', month: 'short', year: 'numeric' });
-      return `<a class="ni" href="noticias/${encodeURIComponent(a.id)}.html">${img}<div><span class="tag">${esc(j.title)}</span><b>${esc(tit)}</b><small>${data}</small></div></a>`;
+      return `<a class="ni" href="${newsURL(a)}">${img}<div><span class="tag">${esc(j.title)}</span><b>${esc(tit)}</b><small>${data}</small></div></a>`;
     }).join('') : `<div class="ck-empty" style="padding:30px 0">${meus().length ? T('Ainda não há notícias sobre esses jogos.', 'No news about these games yet.') : T('Adicione jogos para ver as notícias deles aqui.', 'Add games to see their news here.')}</div>`;
   }
 

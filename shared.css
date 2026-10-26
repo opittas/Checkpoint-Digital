@@ -480,3 +480,4 @@ footer { padding-bottom: env(safe-area-inset-bottom); }
   .nav-btn { scroll-snap-align: start; padding: 7px 12px; font-size: 13px; border: 1px solid var(--border); }
   .nav-btn[class*="active-"] { border-color: transparent; }
 }
+.footer-bottom a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }

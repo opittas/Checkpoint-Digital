@@ -2,16 +2,17 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f1117">
 <title>Meus Jogos — Checkpoint Digital</title>
-<link rel="stylesheet" href="shared.css?v=4c492af7">
-<link rel="stylesheet" href="conquistas-app.css?v=105f87d7">
+<link rel="stylesheet" href="shared.css?v=cc0e673f">
+<link rel="stylesheet" href="conquistas-app.css?v=3b11cbda">
 <style>
   .mj-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 18px; }
   .mj-card { position: relative; }
   .mj-top { position: absolute; top: 10px; left: 10px; right: 10px; display: flex; justify-content: space-between; z-index: 2; pointer-events: none; }
   .mj-top > * { pointer-events: auto; }
-  .mj-ico { width: 32px; height: 32px; border-radius: 50%; border: 0; background: #000000a8; color: #fff; font-size: 15px; cursor: pointer; display: grid; place-items: center; backdrop-filter: blur(4px); }
+  .mj-ico { width: 32px; height: 32px; border-radius: 50%; border: 0; background: #000000a8; color: #fff; font-size: 15px; cursor: pointer; display: grid; place-items: center; -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); }
   .mj-ico:hover { background: #000000d0; }
   .mj-ico.fav { color: #fbbf24; }
   .mj-status { background: var(--bg); color: var(--text); border: 1px solid var(--border); border-radius: 8px; font: inherit; font-size: 12px; font-weight: 700; padding: 6px 8px; cursor: pointer; }
@@ -93,7 +94,7 @@
 
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=4ccbf6e5"></script>
+<script src="shared.js?v=cfac8d46"></script>
 <script src="conquistas-app.js?v=70ef7666"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
@@ -265,7 +266,7 @@
           ${lib[j.id] ? `<button class="added" disabled>✓ ${T('Na coleção', 'In collection')}</button>` : `<button data-add="${esc(j.id)}">＋ ${T('Adicionar', 'Add')}</button>`}
         </div></div>`).join('');
   }
-  function abrir() { document.getElementById('modal').classList.add('open'); renderPick(); document.getElementById('q2').focus(); }
+  function abrir() { document.getElementById('modal').classList.add('open'); renderPick(); if (matchMedia('(pointer: fine)').matches) document.getElementById('q2').focus(); }
   function fechar() { document.getElementById('modal').classList.remove('open'); }
 
   function atualizar(gid, mudanca) {

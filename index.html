@@ -2,9 +2,10 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f1117">
 <title>Checkpoint Digital — Blog de Games</title>
-<link rel="stylesheet" href="shared.css?v=4c492af7">
+<link rel="stylesheet" href="shared.css?v=cc0e673f">
 <style>
   /* ── HOME HERO ── */
   .hero {
@@ -81,215 +82,86 @@
 
 <header class="site-header" id="site-header"></header>
 
-<!-- ── HERO (preenchido via Supabase) ── -->
+<!-- ── HERO ── -->
 <div class="hero">
   <div class="hero-inner">
-    <div id="hero-main">
-      <div class="hero-loading">Carregando destaque…</div>
-    </div>
+    <div id="hero-main"><div class="hero-loading"><div class="spinner"></div></div></div>
     <aside class="side-news">
-      <div class="side-news-title">Últimas notícias</div>
-      <div id="side-news-list" style="color:var(--text3);font-size:13px">Carregando…</div>
+      <div class="side-news-title" id="t-side">Últimas notícias</div>
+      <div id="side-news-list" style="color:var(--text3);font-size:13px"></div>
     </aside>
   </div>
 </div>
 
-<!-- ── SEÇÕES POR PLATAFORMA ── -->
+<!-- ── SEÇÕES POR PLATAFORMA (montadas a partir de data/site.json) ── -->
 <div class="home-sections">
-  <div class="wrapper">
-
-    <div class="home-plat-section">
-      <div class="home-plat-header">
-        <div class="home-plat-name"><span class="plat-dot xbox"></span> Xbox</div>
-        <a class="see-all-btn xbox" href="xbox.html">Ver tudo →</a>
-      </div>
-      <div class="cards-grid" id="home-xbox">
-        <div class="home-skeleton">Carregando…</div>
-      </div>
-    </div>
-
-    <div class="home-plat-section">
-      <div class="home-plat-header">
-        <div class="home-plat-name"><span class="plat-dot ps"></span> PlayStation</div>
-        <a class="see-all-btn ps" href="playstation.html">Ver tudo →</a>
-      </div>
-      <div class="cards-grid" id="home-ps">
-        <div class="home-skeleton">Carregando…</div>
-      </div>
-    </div>
-
-    <div class="home-plat-section">
-      <div class="home-plat-header">
-        <div class="home-plat-name"><span class="plat-dot nin"></span> Nintendo</div>
-        <a class="see-all-btn nin" href="nintendo.html">Ver tudo →</a>
-      </div>
-      <div class="cards-grid" id="home-nin">
-        <div class="home-skeleton">Carregando…</div>
-      </div>
-    </div>
-
-    <div class="home-plat-section">
-      <div class="home-plat-header">
-        <div class="home-plat-name"><span class="plat-dot steam"></span> Steam / PC</div>
-        <a class="see-all-btn steam" href="steam.html">Ver tudo →</a>
-      </div>
-      <div class="cards-grid" id="home-steam">
-        <div class="home-skeleton">Carregando…</div>
-      </div>
-    </div>
-
-  </div>
+  <div class="wrapper" id="home-sections"></div>
 </div>
 
 <footer id="site-footer"></footer>
-<script src="shared.js?v=4ccbf6e5"></script>
+<script src="shared.js?v=cfac8d46"></script>
 <script>
   renderHeader('home');
   renderFooter();
+  document.getElementById('t-side').textContent = L('Últimas notícias', 'Latest news');
 
-  const isEN = getLang() === 'en';
-
-  const PLAT_META = {
-    xbox:  { emoji: '🟢', label: 'Xbox',        tagCls: 'tag-xbox',  stripeCls: 'xbox',  heroTagCls: 'xbox',  page: 'xbox.html'        },
-    ps:    { emoji: '🔵', label: 'PlayStation', tagCls: 'tag-ps',    stripeCls: 'ps',    heroTagCls: 'ps',    page: 'playstation.html' },
-    nin:   { emoji: '🔴', label: 'Nintendo',    tagCls: 'tag-nin',   stripeCls: 'nin',   heroTagCls: 'nin',   page: 'nintendo.html'    },
-    steam: { emoji: '⚫', label: 'Steam / PC',  tagCls: 'tag-steam', stripeCls: 'steam', heroTagCls: 'steam', page: 'steam.html'       },
-  };
-
-  const CAT_BADGE = {
-    'Notícias':    'badge-new',  'News':      'badge-new',
-    'Lançamentos': 'badge-new',  'Releases':  'badge-new',
-    'Previstos':   'badge-preview','Upcoming': 'badge-preview',
-    'Reviews':     'badge-review',
-    'Retrô':       'badge-retro', 'Retro':    'badge-retro',
-    'Guias':       'badge-preview','Guides':   'badge-preview',
-  };
-
-  function fmtDate(iso) {
-    const locale = isEN ? 'en-US' : 'pt-BR';
-    return new Date(iso).toLocaleDateString(locale, { day: '2-digit', month: 'short', year: 'numeric' });
-  }
-
-  function buildCard(a) {
-    const pm = PLAT_META[a.platform] || PLAT_META.steam;
-    const badge = CAT_BADGE[a.category] || 'badge-new';
-    const title   = t(a, 'title');
-    const excerpt = t(a, 'excerpt');
-    const imgHtml = a.image_url
-      ? `<img src="${a.image_url}" alt="${title}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-fallback ${a.platform}\\'>${pm.emoji}</div>'">`
-      : `<div class="card-img-fallback ${a.platform}">${pm.emoji}</div>`;
+  function heroHTML(a, site) {
+    const p = site.porId[a.platform] || { emoji: '📰', nome: '' };
     return `
-      <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="${a.platform}" style="text-decoration:none">
-        <div class="card-img-wrap">
-          ${imgHtml}
-          <div class="card-hover-overlay">
-            <div class="card-hover-excerpt">${excerpt}</div>
-          </div>
-        </div>
-        <div class="card-body">
-          <div class="card-tags">
-            <span class="tag ${pm.tagCls}">${pm.emoji} ${pm.label}</span>
-            <span class="badge ${badge}">${a.category}</span>
-          </div>
-          <div class="card-title">${title}</div>
-          <div class="card-meta">
-            <span>${fmtDate(a.published_at)}</span>
-            <span class="sep"></span>
-            <span>${a.read_time || '3 min'}</span>
-          </div>
-        </div>
-      </a>`;
-  }
-
-  function buildHero(a) {
-    const pm = PLAT_META[a.platform] || PLAT_META.steam;
-    const title   = t(a, 'title');
-    const excerpt = t(a, 'excerpt');
-    const readLabel = isEN ? 'read' : 'de leitura';
-    const spotlight = isEN ? 'Spotlight' : 'Destaque';
-    const btnLabel  = isEN ? 'Read full article →' : 'Ler artigo completo →';
-    return `
-      <div class="hero-tag ${pm.heroTagCls}">${pm.emoji} ${pm.label} · ${spotlight}</div>
-      <h1 class="hero-title">${title}</h1>
+      <div class="hero-tag ${escHTML(a.platform)}">${p.emoji} ${escHTML(p.nome)} · ${L('Destaque', 'Spotlight')}</div>
+      <h1 class="hero-title">${escHTML(t(a, 'title'))}</h1>
       <div class="hero-meta">
         <span>${fmtDate(a.published_at)}</span>
-        <span style="width:3px;height:3px;border-radius:50%;background:var(--text3);display:inline-block"></span>
-        <span>${a.read_time || '3 min'} ${readLabel}</span>
-        <span class="badge ${CAT_BADGE[a.category] || 'badge-new'}">${a.category}</span>
+        <span class="hero-dot"></span>
+        <span>${escHTML(a.read_time || '3 min')} ${L('de leitura', 'read')}</span>
+        <span class="badge ${catBadge(site, a.category)}">${escHTML(catLabel(site, a.category))}</span>
       </div>
-      <p style="margin-top:16px;font-size:14px;color:var(--text2);line-height:1.7;max-width:560px">${excerpt}</p>
-      <a href="artigo.html?id=${encodeURIComponent(a.id)}"
-         style="display:inline-block;margin-top:18px;background:#7c3aed;color:#fff;padding:10px 22px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none">
-        ${btnLabel}
-      </a>`;
+      <p class="hero-excerpt">${escHTML(t(a, 'excerpt'))}</p>
+      <a class="hero-btn" href="artigo.html?id=${encodeURIComponent(a.id)}">${L('Ler artigo completo →', 'Read full article →')}</a>`;
   }
 
-  function buildSideItem(a) {
-    const pm = PLAT_META[a.platform] || PLAT_META.steam;
-    const title = t(a, 'title');
+  function sideHTML(a, site) {
+    const p = site.porId[a.platform] || { emoji: '📰', nome: '' };
     return `
       <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="side-item">
-        <div class="side-item-plat ${a.platform}">${pm.emoji} ${pm.label}</div>
-        <div class="side-item-title">${title}</div>
+        <div class="side-item-plat ${escHTML(a.platform)}">${p.emoji} ${escHTML(p.nome)}</div>
+        <div class="side-item-title">${escHTML(t(a, 'title'))}</div>
         <div class="side-item-date">${fmtDate(a.published_at)}</div>
       </a>`;
   }
 
-  async function loadHome() {
-    try {
-      // Busca os 20 artigos mais recentes de todas as plataformas (com campos EN)
-      const res = await dbFetch(`articles?select=id,platform,category,gen,title,excerpt,title_en,excerpt_en,published_at,read_time,featured,image_url&order=published_at.desc&limit=20`);
-      const arts = await res.json();
-
-      if (!arts.length) {
-        document.getElementById('hero-main').innerHTML = `<p style="color:var(--text3)">${isEN ? 'No articles published yet.' : 'Nenhum artigo publicado ainda.'}</p>`;
-        return;
-      }
-
-      // ── Hero: artigo mais recente (featured se existir, senão o primeiro) ──
-      const featured = arts.find(a => a.featured) || arts[0];
-      document.getElementById('hero-main').innerHTML = buildHero(featured);
-
-      // ── Side news: 5 mais recentes excluindo o hero ──
-      const sideList = arts.filter(a => a.id !== featured.id).slice(0, 5);
-      document.getElementById('side-news-list').innerHTML = sideList.map(buildSideItem).join('')
-        || `<span style="color:var(--text3)">${isEN ? 'No other news yet.' : 'Sem outras notícias ainda.'}</span>`;
-
-      // ── Cards por plataforma: 3 mais recentes de cada ──
-      const platIds = ['xbox', 'ps', 'nin', 'steam'];
-      for (const plat of platIds) {
-        const platArts = arts.filter(a => a.platform === plat).slice(0, 3);
-        const el = document.getElementById('home-' + plat);
-        if (!platArts.length) {
-          el.innerHTML = `<div class="home-skeleton" style="font-style:italic">${isEN ? 'No news on this platform yet.' : 'Nenhuma notícia ainda nesta plataforma.'}</div>`;
-        } else {
-          el.innerHTML = platArts.map(buildCard).join('');
-        }
-      }
-
-    } catch(e) {
-      document.getElementById('hero-main').innerHTML =
-        `<p style="color:#dc2626">⚠️ ${isEN ? 'Error loading news: ' : 'Erro ao carregar notícias: '}${e.message}</p>`;
-    }
+  function secaoHTML(p, arts, site) {
+    const cards = arts.length
+      ? arts.map(a => newsCardHTML(a, site)).join('')
+      : `<div class="home-skeleton" style="font-style:italic">${L('Nenhuma notícia ainda nesta plataforma.', 'No news on this platform yet.')}</div>`;
+    return `
+      <div class="home-plat-section">
+        <div class="home-plat-header">
+          <div class="home-plat-name"><span class="plat-dot ${p.id}"></span> ${escHTML(p.nome)}</div>
+          <a class="see-all-btn ${p.id}" href="${p.pagina}">${L('Ver tudo →', 'See all →')}</a>
+        </div>
+        <div class="cards-grid">${cards}</div>
+      </div>`;
   }
 
-  window.addEventListener('DOMContentLoaded', () => {
-    // Traduz textos estáticos da UI antes de carregar
-    if (isEN) {
-      document.querySelector('.side-news-title').textContent = 'Latest news';
-      document.getElementById('hero-main').innerHTML = '<div class="hero-loading">Loading…</div>';
-      document.getElementById('side-news-list').textContent = 'Loading…';
-      // "Ver tudo" buttons
-      document.querySelectorAll('.see-all-btn').forEach(b => {
-        b.textContent = 'See all →';
-      });
-      // Platform names in section headers
-      document.querySelectorAll('.home-skeleton').forEach(b => {
-        b.textContent = 'Loading…';
-      });
-    }
-    loadHome();
-  });
+  Promise.all([loadSite(), dbFetch('articles?order=published_at.desc').then(r => r.json())])
+    .then(([site, arts]) => {
+      arts = Array.isArray(arts) ? arts : [];
+      if (!arts.length) {
+        document.getElementById('hero-main').innerHTML = `<p style="color:var(--text3)">${L('Nenhum artigo publicado ainda.', 'No articles published yet.')}</p>`;
+        return;
+      }
+      const destaque = arts.find(a => a.featured) || arts[0];
+      document.getElementById('hero-main').innerHTML = heroHTML(destaque, site);
+      document.getElementById('side-news-list').innerHTML =
+        arts.filter(a => a.id !== destaque.id).slice(0, 5).map(a => sideHTML(a, site)).join('');
+      document.getElementById('home-sections').innerHTML = site.plataformas
+        .map(p => secaoHTML(p, arts.filter(a => a.platform === p.id).slice(0, 3), site)).join('');
+    })
+    .catch(e => {
+      document.getElementById('hero-main').innerHTML =
+        `<p style="color:#dc2626">⚠️ ${L('Erro ao carregar notícias.', 'Could not load news.')}</p>`;
+    });
 </script>
 </body>
 </html>

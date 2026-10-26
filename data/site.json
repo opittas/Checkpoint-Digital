@@ -1,0 +1,66 @@
+{
+  "plataformas": [
+    {
+      "id": "xbox", "nome": "Xbox", "emoji": "🟢", "pagina": "xbox.html",
+      "todas": { "pt": "Todas as gerações", "en": "All generations" },
+      "geracoes": [
+        { "id": "xbox360",  "nome": "Xbox 360" },
+        { "id": "xboxone",  "nome": "Xbox One" },
+        { "id": "series-x", "nome": "Xbox Series S/X" },
+        { "id": "helix",    "nome": "Project Helix" }
+      ]
+    },
+    {
+      "id": "ps", "nome": "PlayStation", "emoji": "🔵", "pagina": "playstation.html",
+      "todas": { "pt": "Todas as gerações", "en": "All generations" },
+      "geracoes": [
+        { "id": "ps1",    "nome": "PS1" },
+        { "id": "ps2",    "nome": "PS2" },
+        { "id": "ps3",    "nome": "PS3" },
+        { "id": "ps4",    "nome": "PS4" },
+        { "id": "ps5",    "nome": "PS5" },
+        { "id": "portal", "nome": "PlayStation Portal" },
+        { "id": "psp",    "nome": "PSP" },
+        { "id": "psvita", "nome": "PS Vita" }
+      ]
+    },
+    {
+      "id": "nin", "nome": "Nintendo", "emoji": "🔴", "pagina": "nintendo.html",
+      "todas": { "pt": "Todas as gerações", "en": "All generations" },
+      "geracoes": [
+        { "id": "nes",      "nome": "NES" },
+        { "id": "snes",     "nome": "SNES" },
+        { "id": "gamecube", "nome": "GameCube" },
+        { "id": "wii",      "nome": "Wii" },
+        { "id": "ds",       "nome": "DS" },
+        { "id": "3ds",      "nome": "3DS" },
+        { "id": "wiiu",     "nome": "Wii U" },
+        { "id": "switch",   "nome": "Switch" },
+        { "id": "switch2",  "nome": "Switch 2" }
+      ]
+    },
+    {
+      "id": "steam", "nome": "Steam / PC", "emoji": "⚫", "pagina": "steam.html",
+      "todas": { "pt": "Todas as plataformas", "en": "All platforms" },
+      "geracoes": [
+        { "id": "deck",    "nome": "Steam Deck" },
+        { "id": "windows", "nome": "Windows" },
+        { "id": "macos",   "nome": "macOS" },
+        { "id": "linux",   "nome": "Linux" }
+      ]
+    }
+  ],
+  "categorias": [
+    { "id": "Lançamentos", "en": "Releases", "badge": "badge-new" },
+    { "id": "Previstos",   "en": "Upcoming", "badge": "badge-preview" },
+    { "id": "Reviews",     "en": "Reviews",  "badge": "badge-review" },
+    { "id": "Notícias",    "en": "News",     "badge": "badge-new" },
+    { "id": "Retrô",       "en": "Retro",    "badge": "badge-retro" },
+    { "id": "Guias",       "en": "Guides",   "badge": "badge-preview" }
+  ],
+  "rodape": {
+    "slogan": { "pt": "Notícias, lançamentos e análises de todas as plataformas e gerações", "en": "News, releases and reviews for every platform and generation" },
+    "direitos": { "pt": "© 2026 Checkpoint Digital — Blog de Games. Todos os direitos reservados.", "en": "© 2026 Checkpoint Digital — Gaming Blog. All rights reserved." },
+    "assinatura": { "pt": "Feito com paixão por games", "en": "Made with love for games" }
+  }
+}

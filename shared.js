@@ -51,88 +51,119 @@ async function dbFetch(path) {
   }
 }
 
+// ── Armazenamento seguro ──
+// No Safari (modo restrito / cookies bloqueados) o localStorage pode lançar erro.
+const store = {
+  get(k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } },
+  set(k, v) { try { window.localStorage.setItem(k, v); } catch (e) {} },
+  del(k) { try { window.localStorage.removeItem(k); } catch (e) {} },
+};
+
 // ── Idioma ──
-// Retorna 'pt' ou 'en'. Salvo em localStorage para persistir entre páginas.
+// Retorna 'pt' ou 'en'. Salvo no navegador para persistir entre páginas.
 function getLang() {
-  return localStorage.getItem('ck_lang') || 'pt';
+  return store.get('ck_lang') === 'en' ? 'en' : 'pt';
 }
 function setLang(lang) {
-  localStorage.setItem('ck_lang', lang);
+  store.set('ck_lang', lang);
   location.reload();
 }
 // Aplica texto localizado a um artigo: se idioma=en e campo _en existir, usa _en; senão usa PT.
 function t(article, field) {
-  const lang = getLang();
-  if (lang === 'en') {
+  if (getLang() === 'en') {
     const enVal = article[field + '_en'];
     if (enVal) return enVal;
   }
   return article[field] || '';
 }
+const L = (pt, en) => (getLang() === 'en' ? en : pt);
 
 // ── Tema Dark / Light ──
 function getTheme() {
-  return localStorage.getItem('ck_theme') || 'dark';
+  return store.get('ck_theme') === 'light' ? 'light' : 'dark';
 }
 function setTheme(theme) {
-  localStorage.setItem('ck_theme', theme);
+  store.set('ck_theme', theme);
   applyTheme();
 }
 function toggleTheme() {
-  const current = getTheme();
-  setTheme(current === 'dark' ? 'light' : 'dark');
+  setTheme(getTheme() === 'dark' ? 'light' : 'dark');
 }
 function applyTheme() {
   const theme = getTheme();
   document.body.classList.toggle('light', theme === 'light');
   const track = document.querySelector('.theme-switch-track');
-  if (track) {
-    track.classList.toggle('dark-on', theme === 'dark');
-  }
+  if (track) track.classList.toggle('dark-on', theme === 'dark');
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.setAttribute('content', theme === 'light' ? '#ffffff' : '#0f1117');
 }
-// Aplica o tema imediatamente ao carregar qualquer página (antes do render do header)
 document.addEventListener('DOMContentLoaded', applyTheme);
-// Também aplica inline (antes do DOMContentLoaded) para evitar flash
-(function() {
-  const theme = localStorage.getItem('ck_theme') || 'dark';
-  if (theme === 'light') document.body.classList.add('light');
-})();
+(function () { if (getTheme() === 'light' && document.body) document.body.classList.add('light'); })();
 
-// ── Geração de filtro ──
-function filterGen(btn, plat) {
-  const gen = btn.dataset.gen;
-  const activeClass = 'active-' + plat;
-  document.querySelectorAll('#' + plat + '-gens .gen-btn').forEach(b => b.classList.remove(activeClass));
-  btn.classList.add(activeClass);
-  const cards = document.querySelectorAll('#' + plat + '-cards .news-card');
-  cards.forEach(card => {
-    card.style.display = (gen === 'all' || card.dataset.gen === gen) ? '' : 'none';
-  });
-  // Reaplica filtro de categoria se houver
-  const activeCat = document.querySelector('.cat-btn.active');
-  if (activeCat) filterCat(activeCat);
+// ── Configuração do site (data/site.json): plataformas, gerações, categorias, rodapé ──
+let _sitePromise = null;
+function loadSite() {
+  if (!_sitePromise) {
+    _sitePromise = fetch(SITE_ROOT + 'data/site.json', { cache: 'no-cache' })
+      .then(r => { if (!r.ok) throw new Error('site.json ' + r.status); return r.json(); })
+      .then(s => {
+        s.porId = {};
+        s.plataformas.forEach(p => { s.porId[p.id] = p; });
+        s.cat = {};
+        s.categorias.forEach(c => { s.cat[c.id] = c; s.cat[c.en] = c; });
+        return s;
+      });
+  }
+  return _sitePromise;
 }
 
-function filterGenById(gen, plat) {
-  const btn = document.querySelector('#' + plat + '-gens [data-gen="' + gen + '"]');
-  if (btn) filterGen(btn, plat);
+// ── Utilidades de notícias (usadas na home, nas plataformas e no artigo) ──
+function escHTML(v) {
+  return String(v == null ? '' : v).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 }
-
-// ── Filtro de categoria ──
-function filterCat(btn) {
-  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  const cat = btn.textContent.trim();
-  const cardsContainer = document.querySelector('.cards-grid');
-  if (!cardsContainer) return;
-  const plat = document.querySelector('[id$="-gens"]')?.id?.replace('-gens','');
-  const activeGenBtn = plat ? document.querySelector('#' + plat + '-gens .gen-btn.active-' + plat) : null;
-  const activeGen = activeGenBtn ? activeGenBtn.dataset.gen : 'all';
-  cardsContainer.querySelectorAll('.news-card').forEach(card => {
-    const genOk = activeGen === 'all' || card.dataset.gen === activeGen;
-    const catOk = cat === 'Tudo' || cat === 'All' || card.dataset.cat === cat;
-    card.style.display = (genOk && catOk) ? '' : 'none';
-  });
+function fmtDate(iso, opts) {
+  return new Date(iso).toLocaleDateString(getLang() === 'en' ? 'en-US' : 'pt-BR',
+    opts || { day: '2-digit', month: 'short', year: 'numeric' });
+}
+function catLabel(site, cat) {
+  const c = site && site.cat[cat];
+  return c ? (getLang() === 'en' ? c.en : c.id) : (cat || '');
+}
+function catBadge(site, cat) {
+  const c = site && site.cat[cat];
+  return c ? c.badge : 'badge-new';
+}
+function genLabel(site, plat, gen) {
+  const p = site && site.porId[plat];
+  const g = p && p.geracoes.find(x => x.id === gen);
+  return g ? g.nome : (p ? p.nome : '');
+}
+// Card de notícia padrão. opts.tag = 'plataforma' (padrão) ou 'geracao'
+function newsCardHTML(a, site, opts) {
+  opts = opts || {};
+  const base = opts.base || '';
+  const p = (site && site.porId[a.platform]) || { emoji: '📰', nome: '' };
+  const title = t(a, 'title'), excerpt = t(a, 'excerpt');
+  const fallback = `<div class="card-img-fallback ${escHTML(a.platform)}">${p.emoji}</div>`;
+  const img = a.image_url
+    ? `<img src="${escHTML(/^https?:/.test(a.image_url) ? a.image_url : base + a.image_url)}" alt="" loading="lazy" onerror="this.outerHTML=this.dataset.fb" data-fb="${escHTML(fallback)}">`
+    : fallback;
+  const tag = opts.tag === 'geracao' ? genLabel(site, a.platform, a.gen) || p.nome : `${p.emoji} ${p.nome}`;
+  return `
+    <a href="${base}artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="${escHTML(a.platform)}" data-gen="${escHTML(a.gen || '')}" data-cat="${escHTML(a.category || '')}">
+      <div class="card-img-wrap">
+        ${img}
+        <div class="card-hover-overlay"><div class="card-hover-excerpt">${escHTML(excerpt)}</div></div>
+      </div>
+      <div class="card-body">
+        <div class="card-tags">
+          <span class="tag tag-${escHTML(a.platform)}">${escHTML(tag)}</span>
+          <span class="badge ${catBadge(site, a.category)}">${escHTML(catLabel(site, a.category))}</span>
+        </div>
+        <div class="card-title">${escHTML(title)}</div>
+        <div class="card-meta"><span>${fmtDate(a.published_at)}</span><span class="sep"></span><span>${escHTML(a.read_time || '3 min')}</span></div>
+      </div>
+    </a>`;
 }
 
 // ── Header HTML compartilhado ──
@@ -178,7 +209,7 @@ function renderHeader(activePage, base) {
 
   // Botão de conta (lê o usuário salvo pelo auth.js)
   let ckUser = null;
-  try { ckUser = JSON.parse(localStorage.getItem('ck_user')); } catch (e) {}
+  try { ckUser = JSON.parse(store.get('ck_user')); } catch (e) {}
   const nomeUser = ckUser && ckUser.usuario ? String(ckUser.usuario).replace(/[^A-Za-z0-9_.]/g, '') : '';
   const accountBtn = nomeUser
     ? `<a class="account-btn logged${activePage === 'conta' ? ' active' : ''}" href="${base}conta.html" title="${isEN ? 'My account' : 'Minha conta'}"><span class="account-avatar">${nomeUser[0].toUpperCase()}</span><span class="account-name">${nomeUser}</span></a>`
@@ -197,60 +228,47 @@ function renderHeader(activePage, base) {
 
   // Re-aplica tema para sincronizar o switch visual após render
   applyTheme();
+
+  // Altura do cabeçalho fixo: usada pelas barras de filtro "grudadas" logo abaixo dele
+  const medir = () => {
+    const h = document.getElementById('site-header');
+    if (h) document.documentElement.style.setProperty('--header-h', h.offsetHeight + 'px');
+  };
+  medir();
+  const ativo = document.querySelector('.main-nav .nav-btn[class*="active-"]');
+  if (ativo && ativo.scrollIntoView && window.innerWidth <= 860) {
+    const nav = ativo.parentElement;
+    nav.scrollLeft = ativo.offsetLeft - 16;
+  }
+  if (!window._ckHeaderResize) { window._ckHeaderResize = true; window.addEventListener('resize', medir); }
 }
 
-// ── Footer HTML compartilhado ──
+// ── Footer HTML compartilhado (montado a partir de data/site.json) ──
 // base: prefixo para os hrefs (ex: '../' quando em subpastas). Padrão: ''
 function renderFooter(base) {
   base = base || '';
-  document.getElementById('site-footer').innerHTML = `
+  const el = document.getElementById('site-footer');
+  if (!el) return;
+  loadSite().then(site => {
+    const lang = getLang();
+    const cols = site.plataformas.map(p => `
+        <div>
+          <div class="footer-col-title ${p.id}">${escHTML(p.nome)}</div>
+          <ul class="footer-links">
+            ${p.geracoes.map(g => `<li><a href="${base}${p.pagina}?gen=${encodeURIComponent(g.id)}">${escHTML(g.nome)}</a></li>`).join('')}
+          </ul>
+        </div>`).join('');
+    el.innerHTML = `
     <div class="footer-inner">
       <div class="footer-logo">Checkpoint<span> Digital</span></div>
-      <div class="footer-tagline">Notícias, lançamentos e análises de todas as plataformas e gerações</div>
-      <div class="footer-grid">
-        <div>
-          <div class="footer-col-title xbox">Xbox</div>
-          <ul class="footer-links">
-            <li><a href="${base}xbox.html">Xbox 360</a></li>
-            <li><a href="${base}xbox.html">Xbox One</a></li>
-            <li><a href="${base}xbox.html">Xbox Series S/X</a></li>
-            <li><a href="${base}xbox.html">Project Helix</a></li>
-          </ul>
-        </div>
-        <div>
-          <div class="footer-col-title nin">Nintendo</div>
-          <ul class="footer-links">
-            <li><a href="${base}nintendo.html">NES / SNES</a></li>
-            <li><a href="${base}nintendo.html">GameCube</a></li>
-            <li><a href="${base}nintendo.html">Wii / Wii U</a></li>
-            <li><a href="${base}nintendo.html">DS / 3DS</a></li>
-            <li><a href="${base}nintendo.html">Switch</a></li>
-            <li><a href="${base}nintendo.html">Switch 2</a></li>
-          </ul>
-        </div>
-        <div>
-          <div class="footer-col-title ps">PlayStation</div>
-          <ul class="footer-links">
-            <li><a href="${base}playstation.html">PS1 / PS2 / PS3</a></li>
-            <li><a href="${base}playstation.html">PS4</a></li>
-            <li><a href="${base}playstation.html">PS5</a></li>
-            <li><a href="${base}playstation.html">PSP / PS Vita</a></li>
-            <li><a href="${base}playstation.html">PlayStation Portal</a></li>
-          </ul>
-        </div>
-        <div>
-          <div class="footer-col-title steam">Steam / PC</div>
-          <ul class="footer-links">
-            <li><a href="${base}steam.html">Steam Deck</a></li>
-            <li><a href="${base}steam.html">Windows</a></li>
-            <li><a href="${base}steam.html">macOS</a></li>
-            <li><a href="${base}steam.html">Linux</a></li>
-          </ul>
-        </div>
-      </div>
+      <div class="footer-tagline">${escHTML(site.rodape.slogan[lang])}</div>
+      <div class="footer-grid">${cols}</div>
       <div class="footer-bottom">
-        <span>© 2026 Checkpoint Digital — Blog de Games. Todos os direitos reservados.</span>
-        <span>Feito com paixão por games</span>
+        <span>${escHTML(site.rodape.direitos[lang])}</span>
+        <span>${escHTML(site.rodape.assinatura[lang])}</span>
       </div>
     </div>`;
+  }).catch(() => {
+    el.innerHTML = `<div class="footer-inner"><div class="footer-logo">Checkpoint<span> Digital</span></div></div>`;
+  });
 }

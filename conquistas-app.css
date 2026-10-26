@@ -40,9 +40,10 @@ body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
 
 /* ── BARRA DE FERRAMENTAS ── */
 .ck-toolbar {
-  position: sticky; top: 0; z-index: 20;
+  position: sticky; top: var(--header-h, 61px); z-index: 20;
+  background: var(--bg);
   background: color-mix(in srgb, var(--bg) 92%, transparent);
-  backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);
 }
 .ck-toolbar-inner { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; padding: 14px 24px; max-width: 1100px; margin: 0 auto; }
@@ -85,7 +86,7 @@ body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
 .ck-cover .ck-fallback { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 40px; }
 .ck-cover-badge {
   position: absolute; top: 10px; right: 10px; font-size: 11px; font-weight: 800;
-  padding: 4px 9px; border-radius: 20px; background: #000000b3; color: #fff; backdrop-filter: blur(4px);
+  padding: 4px 9px; border-radius: 20px; background: #000000b3; color: #fff; -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px);
 }
 .ck-cover-badge.done { background: var(--done); }
 .ck-card-body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
@@ -170,6 +171,7 @@ body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
   transition: border-color .15s, background .15s;
 }
 .a-row:hover { border-color: #8b5cf655; }
+.a-row.done { background: var(--bg2); border-color: #22c55e66; }
 .a-row.done { background: color-mix(in srgb, var(--done) 7%, var(--bg2)); border-color: color-mix(in srgb, var(--done) 35%, var(--border)); }
 .a-check {
   width: 28px; height: 28px; border-radius: 8px; border: 2px solid var(--text3); background: transparent;
@@ -241,7 +243,7 @@ body.light .a-tag.miss { color: #b91c1c; } body.light .a-tag.dlc { color: #0369a
 .ck-libbtn {
   position: absolute; top: 10px; left: 10px; z-index: 3; width: 32px; height: 32px; border-radius: 50%;
   border: 0; background: #000000a8; color: #fff; font-size: 16px; font-weight: 900; cursor: pointer;
-  display: grid; place-items: center; backdrop-filter: blur(4px); transition: background .15s, transform .15s;
+  display: grid; place-items: center; -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); transition: background .15s, transform .15s;
 }
 .ck-libbtn:hover { background: var(--ach); transform: scale(1.08); }
 .ck-libbtn.on { background: var(--done); }
@@ -255,6 +257,7 @@ body.light .ck-dlc-pill { color: #0369a1; }
   color: var(--text2); font: inherit; cursor: pointer; transition: border-color .15s, background .15s;
 }
 .g-tab:hover { border-color: var(--text3); }
+.g-tab.on { border-color: var(--ach); background: var(--bg3); }
 .g-tab.on { border-color: var(--ach); background: color-mix(in srgb, var(--ach) 12%, var(--bg2)); color: var(--text); }
 .g-tab.nao { opacity: .75; }
 .g-tab-n { font-size: 13px; font-weight: 800; white-space: nowrap; }
@@ -263,3 +266,15 @@ body.light .ck-dlc-pill { color: #0369a1; }
 .g-tab-bar { display: block; height: 4px; background: var(--bg3); border-radius: 3px; overflow: hidden; }
 .g-tab-bar span { display: block; height: 100%; background: linear-gradient(90deg, var(--ach), #22c55e); }
 .g-own { margin-right: 6px; }
+
+/* Toque: alvos maiores e notificação acima da barra do iPhone */
+@media (pointer: coarse) {
+  .a-check { width: 34px; height: 34px; }
+  .a-row { grid-template-columns: 38px 58px 1fr auto; }
+  .ck-chip { padding: 8px 13px; }
+  .ck-libbtn, .mj-ico { width: 38px; height: 38px; }
+}
+@media (pointer: coarse) and (max-width: 760px) {
+  .a-row { grid-template-columns: 38px 46px 1fr; }
+}
+.ck-toast { bottom: calc(24px + env(safe-area-inset-bottom)); }

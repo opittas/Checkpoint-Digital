@@ -2,9 +2,10 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f1117">
 <title>Carregando… — Checkpoint Digital</title>
-<link rel="stylesheet" href="shared.css?v=4c492af7">
+<link rel="stylesheet" href="shared.css?v=cc0e673f">
 <style>
   .article-hero {
     background: var(--bg2);
@@ -136,7 +137,7 @@
 </section>
 
 <footer id="site-footer"></footer>
-<script src="shared.js?v=4ccbf6e5"></script>
+<script src="shared.js?v=cfac8d46"></script>
 <script>
   renderHeader('');
   renderFooter();
@@ -150,19 +151,9 @@
     }
   })();
 
-  const PLATFORM_LABELS = {
-    xbox:  { emoji:'🟢', labelPT:'Xbox',          labelEN:'Xbox',          cls:'badge-xbox'  },
-    ps:    { emoji:'🔵', labelPT:'PlayStation',   labelEN:'PlayStation',   cls:'badge-ps'    },
-    nin:   { emoji:'🔴', labelPT:'Nintendo',      labelEN:'Nintendo',      cls:'badge-nin'   },
-    steam: { emoji:'⚫', labelPT:'Steam / PC',    labelEN:'Steam / PC',    cls:'badge-steam' },
-  };
-
-  const PLATFORM_PAGES = {
-    xbox:  'xbox.html',
-    ps:    'playstation.html',
-    nin:   'nintendo.html',
-    steam: 'steam.html',
-  };
+  // Plataformas vêm de data/site.json (loadSite, em shared.js)
+  const BADGE = { xbox: 'badge-xbox', ps: 'badge-ps', nin: 'badge-nin', steam: 'badge-steam' };
+  let SITE = null;
 
   function formatDate(iso) {
     return new Date(iso).toLocaleDateString('pt-BR', { day:'2-digit', month:'long', year:'numeric' });
@@ -179,9 +170,11 @@
       const [art] = await res.json();
       if (!art) { showError(isEN ? 'Article not found.' : 'Artigo não encontrado.'); return; }
 
-      const platRaw = PLATFORM_LABELS[art.platform] || { emoji:'📰', labelPT:'Notícias', labelEN:'News', cls:'badge-steam' };
+      SITE = await loadSite();
+      const pInfo = SITE.porId[art.platform] || { emoji: '📰', nome: isEN ? 'News' : 'Notícias', pagina: 'index.html' };
+      const platRaw = { emoji: pInfo.emoji, labelPT: pInfo.nome, labelEN: pInfo.nome, cls: BADGE[art.platform] || 'badge-steam' };
       const platLabel = isEN ? platRaw.labelEN : platRaw.labelPT;
-      const backPage = PLATFORM_PAGES[art.platform] || 'index.html';
+      const backPage = pInfo.pagina || 'index.html';
 
       // Seleciona idioma
       const title  = (isEN && art.title_en)   ? art.title_en   : art.title;
@@ -223,38 +216,10 @@
       const arts = await res.json();
       if (!arts.length) return;
 
-      const platRaw2 = PLATFORM_LABELS[platform] || { emoji:'📰', labelPT:'', labelEN:'', cls:'badge-steam' };
-      const platLabel2 = isEN ? platRaw2.labelEN : platRaw2.labelPT;
       const moreLabel = isEN ? 'More news' : 'Mais notícias';
       document.querySelector('.more-title').textContent = moreLabel;
-
       const grid = document.getElementById('more-grid');
-      grid.innerHTML = arts.map(a => {
-        const cardTitle   = (isEN && a.title_en)   ? a.title_en   : a.title;
-        const cardExcerpt = (isEN && a.excerpt_en) ? a.excerpt_en : a.excerpt;
-        const imgHtml = a.image_url
-          ? `<img src="${a.image_url}" alt="${cardTitle}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-img-fallback ${platform}\\'>${platRaw2.emoji}</div>'">`
-          : `<div class="card-img-fallback ${platform}">${platRaw2.emoji}</div>`;
-        return `
-          <a href="artigo.html?id=${encodeURIComponent(a.id)}" class="news-card" data-plat="${platform}" style="text-decoration:none">
-            <div class="card-img-wrap">
-              ${imgHtml}
-              <div class="card-hover-overlay"><div class="card-hover-excerpt">${cardExcerpt}</div></div>
-            </div>
-            <div class="card-body">
-              <div class="card-tags">
-                <span class="tag tag-${platform}">${platRaw2.emoji} ${platLabel2}</span>
-                <span class="badge badge-new">${a.category}</span>
-              </div>
-              <div class="card-title">${cardTitle}</div>
-              <div class="card-meta">
-                <span>${formatDate(a.published_at)}</span>
-                <span class="sep"></span>
-                <span>${a.read_time || '3 min'}</span>
-              </div>
-            </div>
-          </a>`;
-      }).join('');
+      grid.innerHTML = arts.map(a => newsCardHTML(Object.assign({ platform }, a), SITE)).join('');
       document.getElementById('more-section').style.display = '';
     } catch(e) {}
   }

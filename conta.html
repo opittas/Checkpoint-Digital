@@ -2,10 +2,11 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f1117">
 <title>Minha conta — Checkpoint Digital</title>
-<link rel="stylesheet" href="shared.css?v=4c492af7">
-<link rel="stylesheet" href="conquistas-app.css?v=105f87d7">
+<link rel="stylesheet" href="shared.css?v=cc0e673f">
+<link rel="stylesheet" href="conquistas-app.css?v=3b11cbda">
 <style>
   .acc-wrap { max-width: 1000px; margin: 0 auto; padding: 40px 24px 80px; }
   .acc-auth { max-width: 420px; margin: 20px auto 0; }
@@ -88,7 +89,7 @@
 <footer id="site-footer"></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=4ccbf6e5"></script>
+<script src="shared.js?v=cfac8d46"></script>
 <script src="conquistas-app.js?v=70ef7666"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
@@ -135,7 +136,7 @@
         </div>
         <p class="acc-note">${T('O progresso que você já marcou neste navegador será adicionado à sua conta.', 'Progress already marked in this browser will be added to your account.')}</p>
       </div>`;
-    document.getElementById('u').focus();
+    if (matchMedia('(pointer: fine)').matches) document.getElementById('u').focus();
     CK_AUTH.provedores().then(lista => {
       if (!lista.length) return;
       const card = app.querySelector('.acc-card');
@@ -165,7 +166,7 @@
           </form>
         </div>
       </div>`;
-    document.getElementById('u').focus();
+    if (matchMedia('(pointer: fine)').matches) document.getElementById('u').focus();
   }
 
   function telaEsqueci() {

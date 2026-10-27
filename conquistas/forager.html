@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f1117">
+<title>Forager — Guia de Conquistas e Troféus · Checkpoint Digital</title>
+<!--SEO-->
+<meta name="description" content="Todas as 103 conquistas de Forager com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/conquistas/forager.html">
+<meta property="og:site_name" content="Checkpoint Digital">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Forager — Guia de Conquistas e Troféus · Checkpoint Digital">
+<meta property="og:description" content="Todas as 103 conquistas de Forager com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/conquistas/forager.html">
+<meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/forager.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Forager — Guia de Conquistas e Troféus · Checkpoint Digital">
+<meta name="twitter:description" content="Todas as 103 conquistas de Forager com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/forager.jpg">
+<!--/SEO-->
+<link rel="stylesheet" href="../shared.css?v=acdc1308">
+<link rel="stylesheet" href="../conquistas-app.css?v=3b11cbda">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+<div id="app"><main class="ck-wrap" style="padding:40px 24px"><h1>Forager — Conquistas</h1><p>Todas as 103 conquistas de Forager com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.</p><ul><li>Magnata</li><li>Minerador</li><li>Realeza</li><li>Gemólogo</li><li>Durão</li><li>Invasor de Tumbas</li><li>Desbravador</li><li>Quebra-Gelo</li><li>Caçador de Demônios</li><li>Astrônomo Ancestral</li><li>Astrônomo de Crânio</li><li>Astrônomo Congelado</li><li>Astrônomo do Fogo</li><li>Ileso</li><li>Oculto</li><li>Bobo</li><li>Atirador de Elite</li><li>Mestre Espadachim</li><li>Vencedor</li><li>Ganancioso</li><li>Monstro</li><li>Duelista</li><li>Arco-íris</li><li>Robótico</li><li>Bomberman</li><li>Spelunker</li><li>Bom de Garfo</li><li>Sem Esperança</li><li>Viciado</li><li>Pedreiro</li><li>Expansionista</li><li>Destruidor</li><li>Invejoso</li><li>Repugnante</li><li>Pescador</li><li>Acumulador</li><li>Acumulador Incurável</li><li>Irrigador</li><li>Colhedor</li><li>Bem de Vida</li><li>Milionário</li><li>Fundidor</li><li>Casa da Moeda</li><li>Caçador de Tesouros</li><li>Coveiro</li><li>Artesão</li><li>Construtor</li><li>Campeão</li><li>à Prova d&#x27;água</li><li>Descobridor de Segredos</li><li>Iluminado</li><li>Artilheiro</li><li>Acrobata</li><li>Atrevido</li><li>Saqueador</li><li>Caçador de Insetos</li><li>Extrovertido</li><li>Diligente</li><li>Ajudante de Druida</li><li>Ajudante de Princesa</li><li>Ajudante de Mago</li><li>Ajudante de Goblin</li><li>Ajudante de Fada</li><li>Ajudante de Engenheiro</li><li>Ajudante de Fantasma</li><li>Ajudante de Velhinhos</li><li>Ajudante de Raposa</li><li>Coletor Mestre</li><li>Minerador Mestre</li><li>Construtor Mestre</li><li>Fazendeiro Mestre</li><li>Chef Mestre</li><li>Alquimista Mestre</li><li>Sapador Mestre</li><li>Arqueólogo Mestre</li><li>Curador</li><li>Engenhoso</li><li>Imperialista</li><li>Mestre do Tesouro</li><li>Colecionador de Ferramentas</li><li>Colecionador de Acessórios</li><li>Colecionador de Selos</li><li>Colecionador de Artefatos</li><li>Perfeccionista</li><li>Void Scout</li><li>Void Explorer</li><li>Void Champion</li><li>Void Master</li><li>Illuminator</li><li>Other Worldly</li><li>Galactic</li><li>Summoner</li><li>Slime Regicide</li><li>Bone Regicide</li><li>Not A Monster</li><li>Coin Collector</li><li>Unlimited Power</li><li>Billionaire</li><li>Trillionaire</li><li>Toxic Vanquisher</li><li>Radioactive</li><li>Mad Scientist</li><li>Production Master</li></ul></main></div>
+<footer id="site-footer"></footer>
+<script>window.JOGO_ID = "forager";</script>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../shared.js?v=32a7bb6c"></script>
+<script src="../conquistas-app.js?v=70ef7666"></script>
+<script src="../auth.js?v=2cd7afc5"></script>
+<script>
+  renderHeader('ach', '../');
+  renderFooter('../');
+
+  const T = CK.tr, EN = CK.isEN(), esc = CK.esc;
+  const gid = new URLSearchParams(location.search).get('id') || window.JOGO_ID || '';
+  const S = { view: 'todas', tag: '', q: '', sort: 'ordem', hideSpoilers: true,
+              sec: new URLSearchParams(location.search).get('secao') || 'base' };
+  try { S.hideSpoilers = localStorage.getItem('ck_spoilers') !== 'show'; } catch (e) {}
+
+  let game, achs = [], guide, meta, prog;
+  const app = document.getElementById('app');
+
+  function fail(msg) {
+    app.innerHTML = `<div class="ck-empty" style="padding:120px 20px"><div class="big">😕</div>
+      <div style="font-weight:800;color:var(--text);margin-bottom:8px">${msg}</div>
+      <a href="../conquistas.html" style="color:var(--ach-strong);font-weight:700">${T('← Voltar à lista de jogos', '← Back to game list')}</a></div>`;
+  }
+
+  // ── SEÇÕES: jogo base + uma aba por DLC (cada uma com sua %) ──
+  function secoes() {
+    const nomes = [];
+    achs.forEach(a => { if (a.dlc && !nomes.includes(a.dlc)) nomes.push(a.dlc); });
+    return [{ id: 'base', nome: T('Jogo base', 'Base game'), list: achs.filter(a => !a.dlc) }]
+      .concat(nomes.map(n => ({ id: n, nome: n, list: achs.filter(a => a.dlc === n) })));
+  }
+  function secAtual() {
+    const ss = secoes();
+    return ss.find(x => x.id === S.sec) || ss[0];
+  }
+  const cur = () => secAtual().list;
+  const tenhoDlc = n => ((CK.getLib()[gid] || {}).dlcs || []).includes(n);
+  function contagem(list) {
+    const f = list.filter(a => CK.isDone(a, prog)).length;
+    return { f, t: list.length, pct: list.length ? Math.round(f / list.length * 100) : 0 };
+  }
+  function abasHTML() {
+    const ss = secoes();
+    if (ss.length < 2) return '';
+    return `<div class="g-tabs" id="tabs">${ss.map(x => {
+      const c = contagem(x.list);
+      const dono = x.id === 'base' || tenhoDlc(x.id);
+      return `<button class="g-tab${S.sec === x.id ? ' on' : ''}${dono ? '' : ' nao'}" data-sec="${esc(x.id)}">
+        <span class="g-tab-n">${x.id === 'base' ? '🎮' : (dono ? '🧩' : '🔒')} ${esc(x.nome)}</span>
+        <span class="g-tab-p">${c.f}/${c.t} · <b>${c.pct}%</b></span>
+        <span class="g-tab-bar"><span style="width:${c.pct}%"></span></span></button>`;
+    }).join('')}</div>`;
+  }
+
+  const nm = a => (EN ? a.n_en || a.n : a.n) || '';
+  const ds = a => (EN ? a.d_en || a.d : a.d) || '';
+
+  // ── HERO ──
+  function heroHTML() {
+    const miss = achs.filter(a => a.missavel).length;
+    const chips = [
+      achs.length ? `🏆 ${secoes()[0].list.length} ${game.mode === 'checklist' ? T('metas', 'goals') : T('conquistas', 'achievements')}${secoes().length > 1 ? ' ' + T('no jogo base', 'in base game') : ''}` : '',
+      secoes().length > 1 ? `🧩 ${secoes().length - 1} DLC${secoes().length > 2 ? 's' : ''} (${achs.length - secoes()[0].list.length})` : '',
+      game.difficulty ? `⚡ ${T('Dificuldade', 'Difficulty')} ${game.difficulty}/10` : '',
+      game.hours ? `⏱ ${game.hours}` : '',
+      game.playthroughs ? `🔁 ${game.playthroughs}` : '',
+      game.online ? `🌐 ${T('Tem conquistas online', 'Has online achievements')}` : '',
+    ].filter(Boolean).map(c => `<span class="g-chip">${esc(c)}</span>`).join('')
+      + (miss ? `<span class="g-chip warn">⚠️ ${miss} ${T('perdíveis', 'missable')}</span>` : '');
+    const img = CK.imgSrc(game.image);
+    return `
+      <section class="g-hero">
+        <div class="g-hero-bg" style="background-image:url('${img}')"></div>
+        <div class="g-hero-shade"></div>
+        <div class="g-hero-inner">
+          <img class="g-cover" src="${img}" alt="${esc(game.title)}" onerror="this.style.visibility='hidden'">
+          <div>
+            <a class="g-back" href="../conquistas.html">← ${T('Todos os jogos', 'All games')}</a>
+            <h1 class="g-title">${esc(game.title)}</h1>
+            <div class="g-dev">${esc(game.developer)} · ${game.year}</div>
+            <div class="ck-plats" style="margin-bottom:12px">${CK.platBadges(game)}</div>
+            <div class="g-chips">${chips}</div>
+            <div style="margin-top:14px" id="lib-slot">${libBtnHTML()}</div>
+          </div>
+        </div>
+      </section>`;
+  }
+
+  // ── MEUS JOGOS ──
+  function libBtnHTML() {
+    const it = CK.getLib()[gid];
+    if (!it) return `<button class="ck-btn primary" data-lib="add">＋ ${T('Adicionar aos Meus Jogos', 'Add to My Games')}</button>`;
+    return `<span class="g-chip" style="background:#22c55e26;border-color:#22c55e55;color:#bbf7d0">✓ ${T('Nos Meus Jogos', 'In My Games')}</span>
+      <select class="ck-select" data-lib="status" style="margin-left:6px">${Object.keys(CK.STATUS).map(k => `<option value="${k}"${it.status === k ? ' selected' : ''}>${CK.statusLabel(k)}</option>`).join('')}</select>
+      <a class="ck-btn" href="../meus-jogos.html" style="text-decoration:none;margin-left:6px">⭐ ${T('Ver coleção', 'View collection')}</a>`;
+  }
+
+  // ── PROGRESSO ──
+  function progressHTML() {
+    const sec = secAtual(), lista = sec.list, ehBase = sec.id === 'base';
+    const done = lista.filter(a => CK.isDone(a, prog)).length;
+    const pct = lista.length ? Math.round(done / lista.length * 100) : 0;
+    const total = lista.length;
+    const logado = window.CK_AUTH && CK_AUTH.usuario();
+    const msg = done === 0 ? (logado ? T('Marque as conquistas que você já tem — fica salvo na sua conta.', 'Tick the achievements you already have — saved to your account.')
+                                     : T('Marque as conquistas que você já tem. <a href="../conta.html?voltar=conquistas/' + encodeURIComponent(gid) + '.html">Entre</a> para salvar na sua conta.', 'Tick the achievements you already have. <a href="../conta.html?voltar=conquistas/' + encodeURIComponent(gid) + '.html">Sign in</a> to save them to your account.'))
+      : done === total ? (ehBase ? T('Jogo base 100%! 🏆', 'Base game 100%! 🏆') : T(`${sec.nome} 100%! 🏆`, `${sec.nome} 100%! 🏆`))
+      : T(`Faltam ${total - done}. Continue assim!`, `${total - done} to go. Keep it up!`);
+    const dlcCtl = ehBase ? '' : `<label class="ck-toggle g-own"><input type="checkbox" data-own="${esc(sec.id)}"${tenhoDlc(sec.id) ? ' checked' : ''}> ${T('Tenho esta DLC', 'I own this DLC')}</label>`;
+    return `
+      <div class="g-progress" id="progress">
+        <div class="g-ring" style="--pct:${pct}"><div>${pct}%</div></div>
+        <div><h3>${ehBase && secoes().length > 1 ? T('Jogo base', 'Base game') + ': ' : (!ehBase ? esc(sec.nome) + ': ' : '')}${done} ${T('de', 'of')} ${total} ${T('concluídas', 'completed')}</h3><p>${msg}</p></div>
+        <div class="g-actions">${dlcCtl}
+          <button class="ck-btn" data-act="all">✓ ${T('Marcar todas', 'Mark all')}</button>
+          <button class="ck-btn" data-act="clear">↺ ${T('Limpar', 'Reset')}</button>
+        </div>
+      </div>`;
+  }
+
+  // ── GUIA ──
+  function guideHTML() {
+    if (!guide) return '';
+    const steps = (guide.roadmap || []).map((s, i) =>
+      `<div class="g-step"><div class="g-step-n">${i + 1}</div><b>${esc(s.titulo)}</b><p>${esc(s.texto)}</p></div>`).join('');
+    const avisos = (guide.avisos || []).concat(game.dlc_note ? [game.dlc_note] : [])
+      .map(a => `<div class="g-aviso">${esc(a)}</div>`).join('');
+    const open = !Object.keys(prog).length ? ' open' : '';
+    return `
+      <details class="g-guide"${open}>
+        <summary>🗺️ ${T('Roteiro para platinar', 'Roadmap')}${EN ? ' <span style="font-weight:600;color:var(--text3);font-size:12px">(in Portuguese)</span>' : ''}<span class="chev">▾</span></summary>
+        <div class="g-guide-body">
+          ${guide.resumo ? `<p class="g-resumo">${esc(guide.resumo)}</p>` : ''}
+          ${steps ? `<div class="g-steps">${steps}</div>` : ''}
+          ${avisos ? `<div class="g-avisos">${avisos}</div>` : ''}
+        </div>
+      </details>`;
+  }
+
+  // ── FILTROS ──
+  const TAGS = [
+    ['miss',   T('Perdíveis', 'Missable'),  a => a.missavel],
+    ['secret', T('Secretas', 'Secret'),     a => a.h],
+    ['rare',   T('Raras (<15%)', 'Rare (<15%)'), a => a.p != null && a.p < 15],
+    ['online', 'Online',                    a => a.online],
+  ];
+  function toolbarHTML() {
+    const lista = cur();
+    const done = lista.filter(a => CK.isDone(a, prog)).length;
+    const views = [['todas', T('Todas', 'All'), lista.length], ['pend', T('Pendentes', 'To do'), lista.length - done], ['feitas', T('Concluídas', 'Done'), done]];
+    const tags = TAGS.map(([id, lbl, fn]) => [id, lbl, lista.filter(fn).length]).filter(t => t[2] > 0);
+    const sorts = [['ordem', T('Ordem do jogo', 'Game order')], ['raras', T('Mais raras primeiro', 'Rarest first')],
+                   ['comuns', T('Mais comuns primeiro', 'Most common first')], ['az', 'A–Z']];
+    const hasPct = achs.some(a => a.p != null);
+    const hasSecret = achs.some(a => a.h);
+    return `
+      <div class="ck-toolbar"><div class="ck-toolbar-inner">
+        <label class="ck-search">🔎 <input id="q" type="search" value="${esc(S.q)}" placeholder="${T('Buscar conquista…', 'Search achievement…')}" autocomplete="off"></label>
+        <div class="ck-chips">${views.map(([id, l, n]) => `<button class="ck-chip${S.view === id ? ' on' : ''}" data-view="${id}">${l}<span class="n">${n}</span></button>`).join('')}</div>
+        <div class="ck-chips">${tags.map(([id, l, n]) => `<button class="ck-chip${S.tag === id ? ' on' : ''}" data-tag="${id}">${l}<span class="n">${n}</span></button>`).join('')}</div>
+        ${hasPct ? `<select class="ck-select" id="sort">${sorts.map(([v, l]) => `<option value="${v}"${S.sort === v ? ' selected' : ''}>${l}</option>`).join('')}</select>` : ''}
+        ${hasSecret ? `<label class="ck-toggle"><input type="checkbox" id="spoil"${S.hideSpoilers ? ' checked' : ''}> ${T('Esconder spoilers', 'Hide spoilers')}</label>` : ''}
+      </div></div>`;
+  }
+
+  // ── LINHA ──
+  function rowHTML(a) {
+    const done = CK.isDone(a, prog);
+    const r = CK.rarity(a.p);
+    const desc = ds(a);
+    const spoil = a.h && S.hideSpoilers && !done && desc;
+    const tags = [
+      a.missavel ? `<span class="a-tag miss">⚠ ${T('Perdível', 'Missable')}</span>` : '',
+      a.h ? `<span class="a-tag secret">${T('Secreta', 'Secret')}</span>` : '',
+      a.online ? `<span class="a-tag online">Online</span>` : '',
+    ].join('');
+    const icon = a.i ? `<img src="${esc(a.i)}" alt="" loading="lazy" onerror="this.replaceWith('🏆')">` : (a.qtd ? '🎯' : '🏆');
+    let side = '';
+    if (a.qtd) {
+      const cur = Number(prog['#' + a.k]) || (done ? a.qtd : 0);
+      side = `<div class="a-side"><span class="a-qty"><input type="number" min="0" max="${a.qtd}" value="${cur}" data-qty="${esc(a.k)}"><span>/ ${a.qtd}</span></span></div>`;
+    } else if (r) {
+      side = `<div class="a-side"><div class="a-pct">${a.p.toLocaleString(EN ? 'en' : 'pt-BR')}%</div><div class="a-rar ${r.cls}">${r.label}</div>
+              <div class="a-pbar ${r.cls}"><div style="width:${Math.max(2, a.p)}%"></div></div></div>`;
+    }
+    return `
+      <div class="a-row${done ? ' done' : ''}" data-k="${esc(a.k)}">
+        <button class="a-check" data-toggle="${esc(a.k)}" title="${done ? T('Desmarcar', 'Unmark') : T('Marcar como concluída', 'Mark as done')}" aria-pressed="${done}">${done ? '✓' : ''}</button>
+        <div class="a-icon">${icon}</div>
+        <div class="a-main">
+          <div class="a-name">${esc(nm(a))}</div>
+          ${desc ? `<div class="a-desc${spoil ? ' spoiler' : ''}" ${spoil ? `title="${T('Clique para revelar', 'Click to reveal')}"` : ''}>${esc(desc)}</div>` : ''}
+          ${tags ? `<div class="a-tags">${tags}</div>` : ''}
+          ${a.dica ? `<div class="a-tip">💡 <b>${T('Dica', 'Tip')}:</b> ${esc(a.dica)}</div>` : ''}
+        </div>
+        ${side}
+      </div>`;
+  }
+
+  function filtered() {
+    const q = CK.norm(S.q);
+    const tagFn = (TAGS.find(t => t[0] === S.tag) || [])[2];
+    let list = cur().filter(a => {
+      const done = CK.isDone(a, prog);
+      if (S.view === 'pend' && done) return false;
+      if (S.view === 'feitas' && !done) return false;
+      if (tagFn && !tagFn(a)) return false;
+      if (q && !CK.norm(nm(a) + ' ' + ds(a) + ' ' + a.n + ' ' + a.n_en).includes(q)) return false;
+      return true;
+    });
+    const by = {
+      ordem: (a, b) => a.ordem - b.ordem,
+      raras: (a, b) => (a.p ?? 101) - (b.p ?? 101),
+      comuns: (a, b) => (b.p ?? -1) - (a.p ?? -1),
+      az: (a, b) => nm(a).localeCompare(nm(b)),
+    }[S.sort];
+    return list.sort(by);
+  }
+
+  function listHTML() {
+    const list = filtered();
+    if (!list.length) return `<div class="ck-empty"><div class="big">🔍</div>${T('Nada encontrado com esses filtros.', 'Nothing matches these filters.')}</div>`;
+    const sec = secAtual();
+    const aviso = sec.id !== 'base' && !tenhoDlc(sec.id)
+      ? `<div class="g-aviso" style="border-left-color:#38bdf8;background:#0ea5e914;margin-bottom:6px">🔒 ${T(`Essas conquistas são da DLC ${esc(sec.nome)} e não contam no 100% do jogo base. Marque "Tenho esta DLC" quando comprar para acompanhá-la nos Meus Jogos.`, `These achievements belong to the ${esc(sec.nome)} DLC and do not count toward the base game 100%. Tick "I own this DLC" once you buy it.`)}</div>` : '';
+    return aviso + list.map(rowHTML).join('');
+  }
+
+  function render() {
+    if (game.mode === 'sem-conquistas') {
+      app.innerHTML = heroHTML() + `
+        <main class="ck-wrap"><div class="g-guide" style="margin:28px 0 60px"><div class="g-guide-body" style="padding:22px">
+          <p class="g-resumo" style="margin:0">${T(
+            'Os consoles da Nintendo não têm um sistema oficial de conquistas ou troféus, então este jogo não possui uma lista para acompanhar. Quando houver metas de 100% confirmadas, elas aparecem aqui como checklist.',
+            'Nintendo consoles have no official achievement or trophy system, so there is no list to track for this game. Once confirmed 100% goals are available they will show up here as a checklist.')}</p>
+        </div></div></main>`;
+      return;
+    }
+    app.innerHTML = heroHTML() + `<main class="ck-wrap">${abasHTML()}${progressHTML()}${guideHTML()}</main>`
+      + toolbarHTML() + `<main class="ck-wrap"><div class="a-list" id="list">${listHTML()}</div>${noteHTML()}</main>`;
+  }
+
+  function noteHTML() {
+    if (!meta) return '';
+    const src = meta.fonte === 'Steam'
+      ? `${T('Lista e porcentagens oficiais da', 'Official list and percentages from')} <a href="https://steamcommunity.com/stats/${meta.appid}/achievements/" target="_blank" rel="noopener">Steam</a>`
+      : esc(meta.fonte || '');
+    const plat = meta.fonte === 'Steam' && (game.platforms.includes('xbox') || game.platforms.includes('ps'))
+      ? T(' · Xbox e PlayStation costumam ter a mesma lista (o PS soma o troféu de Platina).', ' · Xbox and PlayStation usually share the same list (PS adds the Platinum trophy).') : '';
+    const upd = meta.atualizado ? ` · ${T('atualizado em', 'updated')} ${new Date(meta.atualizado + 'T12:00:00').toLocaleDateString(EN ? 'en' : 'pt-BR')}` : '';
+    return `<p class="g-note">${src}${upd}${plat}</p>`;
+  }
+
+  // Atualiza só o que muda ao marcar (sem perder o scroll)
+  function refresh() {
+    const tabs = document.getElementById('tabs');
+    if (tabs) tabs.outerHTML = abasHTML();
+    const prev = document.getElementById('progress');
+    if (prev) prev.outerHTML = progressHTML();
+    const tb = document.querySelector('.ck-toolbar');
+    if (tb) {
+      const focused = document.activeElement && document.activeElement.id === 'q';
+      tb.outerHTML = toolbarHTML();
+      if (focused) { const q = document.getElementById('q'); q.focus(); q.setSelectionRange(q.value.length, q.value.length); }
+    }
+    const list = document.getElementById('list');
+    if (list) list.innerHTML = listHTML();
+  }
+
+  function save() { CK.setProg(gid, prog); }
+
+  // ── EVENTOS (delegação) ──
+  app.addEventListener('click', e => {
+    const t = e.target;
+    if (t.closest('[data-lib="add"]')) {
+      CK.setLibItem(gid, { plataformas: game.platforms.length === 1 ? game.platforms.slice() : [], status: 'jogando', favorito: false, origem: 'manual' });
+      document.getElementById('lib-slot').innerHTML = libBtnHTML();
+      CK.toast(T('Adicionado aos Meus Jogos', 'Added to My Games'));
+      return;
+    }
+    const tog = t.closest('[data-toggle]');
+    if (tog) {
+      const k = tog.dataset.toggle;
+      const a = achs.find(x => x.k === k);
+      if (prog[k]) { delete prog[k]; if (a && a.qtd) delete prog['#' + k]; }
+      else { prog[k] = 1; if (a && a.qtd) prog['#' + k] = a.qtd; }
+      save();
+      if (S.view === 'todas') {   // atualização local, sem redesenhar a lista
+        const row = tog.closest('.a-row');
+        row.outerHTML = rowHTML(a);
+        document.getElementById('progress').outerHTML = progressHTML();
+        const tabs = document.getElementById('tabs');
+        if (tabs) tabs.outerHTML = abasHTML();
+        document.querySelectorAll('[data-view]').forEach(b => {
+          const lista = cur(), done = lista.filter(x => CK.isDone(x, prog)).length;
+          const n = { todas: lista.length, pend: lista.length - done, feitas: done }[b.dataset.view];
+          b.querySelector('.n').textContent = n;
+        });
+      } else refresh();
+      if (prog[k]) CK.toast(T('Conquista marcada ✓', 'Achievement marked ✓'));
+      return;
+    }
+    const tab = t.closest('[data-sec]');
+    if (tab) {
+      S.sec = tab.dataset.sec; S.view = 'todas'; S.tag = '';
+      const u = new URL(location.href);
+      if (S.sec === 'base') u.searchParams.delete('secao'); else u.searchParams.set('secao', S.sec);
+      history.replaceState(null, '', u);
+      refresh(); return;
+    }
+    const sp = t.closest('.a-desc.spoiler');
+    if (sp) { sp.classList.remove('spoiler'); sp.removeAttribute('title'); return; }
+    const v = t.closest('[data-view]');
+    if (v) { S.view = v.dataset.view; refresh(); return; }
+    const tg = t.closest('[data-tag]');
+    if (tg) { S.tag = S.tag === tg.dataset.tag ? '' : tg.dataset.tag; refresh(); return; }
+    const act = t.closest('[data-act]');
+    if (act) {
+      const sec = secAtual(), alvo = sec.id === 'base' && secoes().length > 1 ? T('do jogo base', 'of the base game') : (sec.id === 'base' ? T('deste jogo', 'of this game') : T(`da DLC ${sec.nome}`, `of the ${sec.nome} DLC`));
+      if (act.dataset.act === 'all' && confirm(T(`Marcar todas as conquistas ${alvo} como concluídas?`, `Mark every achievement ${alvo} as done?`))) {
+        sec.list.forEach(a => { prog[a.k] = 1; if (a.qtd) prog['#' + a.k] = a.qtd; });
+      } else if (act.dataset.act === 'clear' && confirm(T(`Apagar o progresso ${alvo}?`, `Erase progress ${alvo}?`))) {
+        sec.list.forEach(a => { delete prog[a.k]; delete prog['#' + a.k]; });
+      } else return;
+      save(); refresh();
+    }
+  });
+  app.addEventListener('input', e => {
+    if (e.target.id === 'q') { S.q = e.target.value; document.getElementById('list').innerHTML = listHTML(); }
+  });
+  app.addEventListener('change', e => {
+    const t = e.target;
+    if (t.dataset.lib === 'status') {
+      CK.setLibItem(gid, Object.assign({}, CK.getLib()[gid], { status: t.value }));
+      CK.toast(T('Status atualizado', 'Status updated'));
+      return;
+    }
+    if (t.dataset.own) {
+      const nome = t.dataset.own, atual = CK.getLib()[gid];
+      const base = atual || { plataformas: game.platforms.length === 1 ? game.platforms.slice() : [], status: 'jogando', favorito: false, origem: 'manual' };
+      const set = new Set(base.dlcs || []);
+      t.checked ? set.add(nome) : set.delete(nome);
+      CK.setLibItem(gid, Object.assign({}, base, { dlcs: [...set] }));
+      document.getElementById('lib-slot').innerHTML = libBtnHTML();
+      CK.toast(t.checked ? T(`${nome} adicionada aos Meus Jogos`, `${nome} added to My Games`) : T('DLC removida', 'DLC removed'));
+      refresh(); return;
+    }
+    if (t.id === 'sort') { S.sort = t.value; document.getElementById('list').innerHTML = listHTML(); }
+    if (t.id === 'spoil') {
+      S.hideSpoilers = t.checked;
+      try { localStorage.setItem('ck_spoilers', t.checked ? 'hide' : 'show'); } catch (err) {}
+      document.getElementById('list').innerHTML = listHTML();
+    }
+    if (t.dataset.qty) {
+      const k = t.dataset.qty, a = achs.find(x => x.k === k);
+      const n = Math.max(0, Math.min(a.qtd, parseInt(t.value, 10) || 0));
+      t.value = n;
+      if (n) prog['#' + k] = n; else delete prog['#' + k];
+      if (n >= a.qtd) prog[k] = 1; else delete prog[k];
+      save(); refresh();
+    }
+  });
+
+  // ── INÍCIO ──
+  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid), window.CK_AUTH ? CK_AUTH.sincronizarRapido() : null])
+    .then(([games, achData, g]) => {
+      game = games.find(x => x.id === gid);
+      if (!game) return fail(T('Jogo não encontrado.', 'Game not found.'));
+      document.title = `${game.title} — ${T('Conquistas', 'Achievements')} · Checkpoint Digital`;
+      guide = g; meta = achData; prog = CK.getProg(gid);
+      if (game.mode !== 'sem-conquistas' && !(achData && achData.conquistas && achData.conquistas.length)) {
+        app.innerHTML = heroHTML();
+        app.insertAdjacentHTML('beforeend', `<div class="ck-empty">${T('A lista de conquistas deste jogo está sendo atualizada. Volte em breve!', 'This achievement list is being updated. Check back soon!')}</div>`);
+        return;
+      }
+      achs = achData ? CK.mergeGuide(achData, guide) : [];
+      achs.forEach(a => { if (a.dlc) a.dlc = a.dlc.replace(game.title + ': ', ''); });
+      if (!secoes().some(x => x.id === S.sec)) S.sec = 'base';
+      render();
+    })
+    .catch(() => fail(T('Não foi possível carregar este jogo.', 'Could not load this game.')));
+</script>
+</body>
+</html>

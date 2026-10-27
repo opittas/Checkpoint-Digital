@@ -11,7 +11,7 @@
 }
 body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
 
-.ck-wrap { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+.ck-wrap { max-width: var(--page-w, 1100px); margin: 0 auto; padding: 0 24px; }
 
 /* ── HERO DA LISTA ── */
 .ck-hero {
@@ -46,7 +46,7 @@ body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
   -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);
 }
-.ck-toolbar-inner { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; padding: 14px 24px; max-width: 1100px; margin: 0 auto; }
+.ck-toolbar-inner { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; padding: 14px 24px; max-width: var(--page-w, 1100px); margin: 0 auto; }
 .ck-search {
   flex: 1 1 220px; min-width: 180px; display: flex; align-items: center; gap: 8px;
   background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; padding: 0 12px;
@@ -118,7 +118,7 @@ body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
 .g-hero { position: relative; overflow: hidden; border-bottom: 1px solid var(--border); background: #0b0d13; }
 .g-hero-bg { position: absolute; inset: -40px; background-size: cover; background-position: center; filter: blur(28px) saturate(1.2); opacity: .45; transform: scale(1.1); }
 .g-hero-shade { position: absolute; inset: 0; background: linear-gradient(180deg, #0b0d1300 0%, #0b0d13cc 70%, #0b0d13 100%); }
-.g-hero-inner { position: relative; display: grid; grid-template-columns: 300px 1fr; gap: 28px; align-items: end; padding: 36px 24px 30px; max-width: 1100px; margin: 0 auto; }
+.g-hero-inner { position: relative; display: grid; grid-template-columns: 300px 1fr; gap: 28px; align-items: end; padding: 36px 24px 30px; max-width: var(--page-w, 1100px); margin: 0 auto; }
 .g-cover { width: 100%; aspect-ratio: 460 / 215; object-fit: cover; border-radius: 12px; box-shadow: 0 18px 40px #0009; background: #1e2535; }
 .g-back { display: inline-flex; gap: 6px; color: #cbd5e1; font-size: 13px; font-weight: 700; text-decoration: none; margin-bottom: 12px; opacity: .85; }
 .g-back:hover { opacity: 1; }
@@ -313,3 +313,32 @@ body.light .ck-dlc-pill { color: #0369a1; }
 .a-tag.hard { background: #f9731626; color: #fdba74; border-color: #f9731655; }
 .ck-chip.orig { border-color: #f9a8d466; }
 .ck-chip.orig.on { background: linear-gradient(135deg, #fde68a, #f9a8d4 55%, #a78bfa); color: #1a1033; border-color: transparent; }
+
+/* ── Telas grandes: mais jogos por linha e conquistas em 2 colunas ── */
+@media (min-width: 1440px) {
+  .ck-grid { grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; }
+  .ck-card-body { padding: 12px 14px 14px; gap: 8px; }
+  .ck-card-title { font-size: 15px; }
+  .a-list { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 12px; align-items: start; }
+  .a-list > .ck-empty { grid-column: 1 / -1; }
+}
+@media (min-width: 2300px) {
+  .ck-grid { grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); }
+  .a-list { grid-template-columns: 1fr 1fr 1fr; }
+}
+/* ── Celular: 2 jogos por linha com cartões compactos ── */
+@media (max-width: 600px) {
+  .ck-grid:has(> a.ck-card) { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; padding-top: 16px; }
+  a.ck-card .ck-card-body { padding: 9px 10px 11px; gap: 6px; }
+  a.ck-card .ck-card-title { font-size: 13px; line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  a.ck-card .ck-card-dev, a.ck-card .ck-meta { display: none; }
+  a.ck-card .ck-plat { font-size: 9px; padding: 2px 6px; }
+  a.ck-card .ck-card-foot-row { font-size: 10.5px; flex-wrap: wrap; gap: 2px 6px; }
+  a.ck-card .ck-dlc-pill { display: none; }
+  a.ck-card .ck-orig { font-size: 9px; padding: 3px 7px; left: 6px; bottom: 6px; }
+  a.ck-card .ck-cover-badge { font-size: 10px; top: 6px; right: 6px; padding: 3px 7px; }
+  a.ck-card .ck-libbtn { width: 30px; height: 30px; top: 6px; left: 6px; font-size: 14px; }
+  .ck-chips { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; padding-bottom: 2px; }
+  .ck-chips::-webkit-scrollbar { display: none; }
+  .ck-chip { flex-shrink: 0; }
+}

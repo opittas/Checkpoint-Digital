@@ -86,7 +86,7 @@ body {
   transition: var(--theme-transition);
 }
 .header-inner {
-  max-width: 1100px;
+  max-width: var(--page-w, 1100px);
   margin: 0 auto;
   padding: 0 24px;
   height: 60px;
@@ -198,7 +198,7 @@ body {
 /* ══════════════════════════════════════════════════════════
    WRAPPER
 ══════════════════════════════════════════════════════════ */
-.wrapper { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+.wrapper { max-width: var(--page-w, 1100px); margin: 0 auto; padding: 0 24px; }
 
 /* ══════════════════════════════════════════════════════════
    BADGES
@@ -232,7 +232,7 @@ body.light .badge-retro   { background: #f3f4f6; color: #374151; }
 ══════════════════════════════════════════════════════════ */
 .plat-header { padding: 24px 0 0; }
 .plat-header-inner {
-  max-width: 1100px; margin: 0 auto;
+  max-width: var(--page-w, 1100px); margin: 0 auto;
   padding: 0 24px 16px;
   border-bottom: 1px solid var(--border);
 }
@@ -264,7 +264,7 @@ body.light .badge-retro   { background: #f3f4f6; color: #374151; }
 .cat-filter {
   display: flex; gap: 6px; flex-wrap: wrap;
   padding: 16px 24px; border-bottom: 1px solid var(--border);
-  max-width: 1100px; margin: 0 auto;
+  max-width: var(--page-w, 1100px); margin: 0 auto;
 }
 .cat-btn {
   border: none; background: var(--bg3);
@@ -378,7 +378,7 @@ footer {
 body.light footer {
   background: #111827;
 }
-.footer-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+.footer-inner { max-width: var(--page-w, 1100px); margin: 0 auto; padding: 0 24px; }
 .footer-logo { font-size: 22px; font-weight: 700; color: #f1f5f9; margin-bottom: 8px; }
 .footer-logo span { color: var(--ps); }
 .footer-tagline { font-size: 13px; color: #475569; margin-bottom: 32px; }
@@ -481,3 +481,14 @@ footer { padding-bottom: env(safe-area-inset-bottom); }
   .nav-btn[class*="active-"] { border-color: transparent; }
 }
 .footer-bottom a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+
+/* ══════════════════════════════════════════════════════════
+   TELAS GRANDES (monitores 24"–32") E CELULAR
+══════════════════════════════════════════════════════════ */
+:root { --page-w: 1100px; }
+@media (min-width: 1440px) { :root { --page-w: 1360px; } }
+@media (min-width: 1800px) { :root { --page-w: 1680px; } }
+@media (min-width: 2300px) { :root { --page-w: 2080px; } }
+@media (min-width: 1440px) {
+  .cards-grid { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 18px; }
+}

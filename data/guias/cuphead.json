@@ -1,0 +1,72 @@
+{
+  "resumo": "Run de chefes difícil, mas justa. O jogo base tem 28 conquistas; as 14 da DLC The Delicious Last Course ficam numa aba separada.",
+  "roadmap": [
+    {
+      "titulo": "1. Zere no Normal",
+      "texto": "Derrote todos os chefes e o Diabo no Normal. Pegue as moedas das fases run 'n gun enquanto passa e compre tudo na loja do Porkrind."
+    },
+    {
+      "titulo": "2. Modo Especialista",
+      "texto": "Depois de zerar, libere o Especialista e jogue de novo do início. É a conquista mais difícil do jogo base."
+    },
+    {
+      "titulo": "3. Ranks e desafios",
+      "texto": "Volte nos chefes para tirar A ou mais em todos e um S-Rank (Especialista, sem dano, com parry e super). Faça as fases sem matar inimigos para Pacifist."
+    },
+    {
+      "titulo": "4. Limpeza",
+      "texto": "Conquistas situacionais: vencer com Super Art, com EX, só com tiros do mini-avião, 5 parries seguidos e uma fase sem tomar dano."
+    }
+  ],
+  "avisos": [
+    "Não aceite a proposta do Diabo se não quiser o final ruim antes da hora: dá para pegar 'Selling Out' e depois recarregar e terminar normalmente.",
+    "S-Rank só existe no modo Especialista."
+  ],
+  "conquistas": {
+    "CompleteWorldDLC": {
+      "dlc": "The Delicious Last Course"
+    },
+    "ARankWorldDLC": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatBossAsChalice": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatXBossesAsChalice": {
+      "dlc": "The Delicious Last Course"
+    },
+    "ChaliceSuperWin": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatBossDLCWeapon": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatAllKOG": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatKOGGauntlet": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatSaltbaker": {
+      "dlc": "The Delicious Last Course"
+    },
+    "SRankAnyDLC": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatBossNoMinions": {
+      "dlc": "The Delicious Last Course"
+    },
+    "HP9": {
+      "dlc": "The Delicious Last Course"
+    },
+    "DefeatDevilPhase2": {
+      "dlc": "The Delicious Last Course"
+    },
+    "Paladin": {
+      "dlc": "The Delicious Last Course"
+    },
+    "PacifistRun": {
+      "dica": "Nas fases run 'n gun, só pule e desvie: qualquer inimigo morto anula a run."
+    }
+  }
+}

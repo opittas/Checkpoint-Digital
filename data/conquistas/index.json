@@ -238,8 +238,25 @@
  },
  "cuphead": {
   "total": 42,
-  "base": 42,
-  "dlcs": {},
+  "base": 28,
+  "dlcs": {
+   "The Delicious Last Course": [
+    "CompleteWorldDLC",
+    "ARankWorldDLC",
+    "DefeatBossAsChalice",
+    "DefeatXBossesAsChalice",
+    "ChaliceSuperWin",
+    "DefeatBossDLCWeapon",
+    "DefeatAllKOG",
+    "DefeatKOGGauntlet",
+    "DefeatSaltbaker",
+    "SRankAnyDLC",
+    "DefeatBossNoMinions",
+    "HP9",
+    "DefeatDevilPhase2",
+    "Paladin"
+   ]
+  },
   "atualizado": "2026-10-27"
  },
  "forager": {

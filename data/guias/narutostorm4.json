@@ -1,0 +1,56 @@
+{
+  "resumo": "Platina tranquila e longa: zerar a história com classe S, completar o Modo Aventura e os modos de Sobrevivência e Liga. As conquistas de batalha saem jogando normalmente.",
+  "roadmap": [
+    {
+      "titulo": "1. Modo História",
+      "texto": "Jogue a história inteira. Não precisa buscar classe S na primeira vez: depois dá para repetir cada luta pelo menu."
+    },
+    {
+      "titulo": "2. Classe S",
+      "texto": "Volte nas lutas que ficaram sem S. A nota vem de tempo, vida restante e acertar os botões dos eventos (QTEs). Se errar um QTE, reinicie."
+    },
+    {
+      "titulo": "3. Modo Aventura",
+      "texto": "Em Rastros da Tempestade, faça todos os eventos principais e secundários. É a parte mais demorada."
+    },
+    {
+      "titulo": "4. Sobrevivência e Liga",
+      "texto": "Complete a Sobrevivência com Limite de Habilidade (iniciante, médio, avançado), 30 vitórias na Sobrevivência Suprema e a Liga de Desafio nos três níveis."
+    },
+    {
+      "titulo": "5. Batalha",
+      "texto": "No Modo Livre, faça as conquistas de luta: combo de 50 hits, contra-ataque, finalizar com Despertar, Despertar Conectado, técnica secreta de cada membro, trocar de líder no combo e vencer sem dano."
+    },
+    {
+      "titulo": "6. Road to Boruto (aba separada)",
+      "texto": "Se tiver a expansão, termine a História de Boruto, as missões paralelas e todos os eventos principais com classe S."
+    }
+  ],
+  "avisos": [
+    "Nenhuma conquista é perdível: tudo pode ser refeito pelo menu.",
+    "As 3 conquistas de Boruto exigem a expansão Road to Boruto."
+  ],
+  "conquistas": {
+    "NEW_ACHIEVEMENT_3_0": {
+      "dlc": "Road to Boruto"
+    },
+    "NEW_ACHIEVEMENT_3_1": {
+      "dlc": "Road to Boruto"
+    },
+    "NEW_ACHIEVEMENT_3_2": {
+      "dlc": "Road to Boruto"
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "dica": "Os eventos principais ficam marcados no mapa do Modo Aventura."
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "dica": "Fale com todos os personagens com balão no mapa; alguns só aparecem depois de avançar a história."
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "dica": "Use um personagem forte como Naruto (Seis Caminhos) e itens de cura."
+    },
+    "NEW_ACHIEVEMENT_2_15": {
+      "dica": "Configure uma partida de 3 rodadas no Modo Livre contra a CPU fácil."
+    }
+  }
+}

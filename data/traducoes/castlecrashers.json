@@ -1,0 +1,50 @@
+{
+ "ACH_MELEEISBEST": {
+  "n": "Corpo a Corpo É Melhor",
+  "d": "Derrote qualquer chefe final sem usar magia."
+ },
+ "ACH_KISS": {
+  "n": "B-E-I-J-O",
+  "d": "Ganhe o beijo das 4 princesas numa partida multijogador."
+ },
+ "ACH_TRADITIONAL": {
+  "n": "Tradicional",
+  "d": "Termine o jogo com qualquer personagem."
+ },
+ "ACH_THETRAITOR": {
+  "n": "O Traidor",
+  "d": "Derrote um chefe jogando com um dos próprios capangas dele."
+ },
+ "ACH_DEERTRAINER": {
+  "n": "Treinador de Cervos",
+  "d": "Atravesse o Moinho Abandonado sem bater em nenhum obstáculo."
+ },
+ "ACH_CONOBJECTOR": {
+  "n": "Objetor de Consciência",
+  "d": "Complete do Castelo Natal até a área do Chefe Bárbaro sem atacar nenhum inimigo."
+ },
+ "ACH_MAXFIREPOWR": {
+  "n": "Poder de Fogo Máximo",
+  "d": "Lance um cavaleiro com força máxima usando uma catapulta."
+ },
+ "ACH_ANMLTRAINER": {
+  "n": "Domador de Animais",
+  "d": "Colete todos os orbes de animais."
+ },
+ "ACH_ARENAMASTER": {
+  "n": "Mestre da Arena",
+  "d": "Vença 40 partidas online na Arena."
+ },
+ "ACH_GLORK": {
+  "n": "A Contagem Final",
+  "d": "Sobreviva até 2:30 numa partida de Afaste o Bárbaro."
+ },
+ "ACH_TREASURHNTR": {
+  "n": "Caçador de Tesouros",
+  "d": "Encontre e desenterre dez itens enterrados."
+ },
+ "ACH_MEDIC": {
+  "n": "Médico!",
+  "d": "Numa partida de 4 jogadores, ressuscite cada um dos colegas caídos pelo menos uma vez."
+ }
+}

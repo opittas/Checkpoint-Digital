@@ -511,5 +511,101 @@
     "palavras": [
       "celeste"
     ]
+  },
+  {
+    "id": "castlecrashers",
+    "title": "Castle Crashers",
+    "developer": "The Behemoth",
+    "year": 2008,
+    "steam_appid": 204360,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "200G",
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "25–35h",
+    "playthroughs": "Normal + Insano",
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/castlecrashers.jpg",
+    "generos": [
+      "Ação",
+      "Beat 'em up",
+      "Indie"
+    ],
+    "palavras": [
+      "castle crashers"
+    ]
+  },
+  {
+    "id": "supermeatboy",
+    "title": "Super Meat Boy",
+    "developer": "Team Meat",
+    "year": 2010,
+    "steam_appid": 40800,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "Troféus",
+      "steam": ""
+    },
+    "difficulty": 9,
+    "hours": "30–60h",
+    "playthroughs": "1 + Mundo Sombrio",
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/supermeatboy.jpg",
+    "generos": [
+      "Plataforma",
+      "Indie"
+    ],
+    "palavras": [
+      "super meat boy",
+      "meat boy"
+    ]
+  },
+  {
+    "id": "narutostorm4",
+    "title": "Naruto Shippuden: Ultimate Ninja Storm 4",
+    "developer": "CyberConnect2 · Bandai Namco",
+    "year": 2016,
+    "steam_appid": 349040,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Platina",
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "50–70h",
+    "playthroughs": "1",
+    "online": true,
+    "dlc_note": "A expansão Road to Boruto tem conquistas próprias, separadas do jogo base.",
+    "mode": "conquistas",
+    "image": "imagens/jogos/narutostorm4.jpg",
+    "generos": [
+      "Luta",
+      "Anime"
+    ],
+    "palavras": [
+      "naruto",
+      "ultimate ninja storm"
+    ]
   }
 ]

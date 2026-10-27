@@ -1,0 +1,49 @@
+{
+  "resumo": "Plataforma de precisão brutal. A história é curta; o 100% (Deus Dourado) pede todos os curativos, zonas de warp, mundos sombrios e as conquistas sem morrer.",
+  "roadmap": [
+    {
+      "titulo": "1. Mundo claro",
+      "texto": "Termine os 7 capítulos no mundo claro. Faça cada fase abaixo do tempo A+ para liberar a versão sombria dela."
+    },
+    {
+      "titulo": "2. Curativos e personagens",
+      "texto": "Pegue os curativos das fases (alguns só com o personagem certo). Com 10, 30, 50, 70, 90 e 100 curativos você libera personagens e as conquistas deles."
+    },
+    {
+      "titulo": "3. Zonas de warp",
+      "texto": "Os portais escondidos nas fases levam às zonas de warp retrô. Complete todas (20) para Fúria Retrô; algumas também têm personagens."
+    },
+    {
+      "titulo": "4. Mundo sombrio",
+      "texto": "Termine o mundo sombrio para O Verdadeiro Fim. É bem mais difícil: vá com calma e use personagens com mais controle no ar."
+    },
+    {
+      "titulo": "5. Sem morrer",
+      "texto": "As conquistas 'Menino...' pedem terminar um capítulo inteiro sem morrer. Nas mais difíceis (O Fim e Beco do Algodão sombrios), treine cada fase antes."
+    },
+    {
+      "titulo": "6. Glitches e extras",
+      "texto": "As 6 conquistas com nomes embaralhados vêm das fases de glitch escondidas nas zonas de warp. As de tempo (Malpassado, Médio, Bem Passado...) pedem zerar o capítulo em tempo bem baixo."
+    }
+  ],
+  "avisos": [
+    "Deus Dourado exige 100%: todos os curativos, warp zones e A+ em todas as fases.",
+    "As conquistas 'The Kids Xmas' dependem do Super Meat World, que pode não estar mais disponível."
+  ],
+  "conquistas": {
+    "ACH_100%": {
+      "dica": "Deixe para o fim; a tela do mapa mostra o que ainda falta."
+    },
+    "ACH_IRONMAN_DARKCOTTONALLEY": {
+      "dica": "A mais difícil do jogo. Pratique as fases separadas antes de tentar."
+    },
+    "kid_gift_1": {
+      "online": true,
+      "dica": "Depende do modo online Super Meat World."
+    },
+    "kid_gift_2": {
+      "online": true,
+      "dica": "Todas as fases do capítulo numa só sessão, sem fechar o jogo."
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+ "ACH_IRONMAN_FOREST": {
+  "n": "Menino de Madeira",
+  "d": "Complete a Floresta sem morrer"
+ },
+ "ACH_IRONMAN_HOSPITAL": {
+  "n": "Menino Agulha",
+  "d": "Complete o Hospital sem morrer"
+ },
+ "ACH_IRONMAN_SALTFACTORY": {
+  "n": "Menino de Sal",
+  "d": "Complete a Fábrica de Sal sem morrer"
+ },
+ "ACH_IRONMAN_HELL": {
+  "n": "Menino de Enxofre",
+  "d": "Complete o Inferno sem morrer"
+ },
+ "ACH_IRONMAN_RAPTURE": {
+  "n": "Menino Larva",
+  "d": "Complete o Arrebatamento sem morrer"
+ },
+ "ACH_IRONMAN_THEEND": {
+  "n": "Menino Morto",
+  "d": "Complete O Fim sem morrer"
+ },
+ "ACH_IRONMAN_COTTONALLEY": {
+  "n": "Menina Menino",
+  "d": "Complete o Beco do Algodão sem morrer"
+ },
+ "ACH_WARP_1": {
+  "n": "Nostalgia",
+  "d": "Desbloqueie uma zona de warp retrô"
+ },
+ "ACH_WARP_5": {
+  "n": "Vivendo no Passado",
+  "d": "Complete 5 zonas de warp retrô"
+ },
+ "ACH_WARP_10": {
+  "n": "Velha Guarda",
+  "d": "Complete 10 zonas de warp retrô"
+ },
+ "ACH_WARP_20": {
+  "n": "Fúria Retrô",
+  "d": "Complete todas as zonas de warp retrô"
+ },
+ "ACH_THEEND": {
+  "n": "O Fim",
+  "d": "Termine o mundo claro"
+ },
+ "ACH_THEREALEND": {
+  "n": "O Verdadeiro Fim",
+  "d": "Termine o mundo sombrio"
+ },
+ "ACH_100%": {
+  "n": "Deus Dourado",
+  "d": "Faça 100% do jogo"
+ },
+ "ACH_CH7LIGHT": {
+  "n": "Sufragista",
+  "d": "Complete o mundo claro do Beco do Algodão"
+ },
+ "ACH_CH7DARK": {
+  "n": "Seneca Falls",
+  "d": "Complete o mundo sombrio do Beco do Algodão"
+ },
+ "ACH_CHAR_HEADCRAB": {
+  "n": "Peguei Caranguejos!",
+  "d": "Desbloqueie o Head Crab (10 curativos)"
+ },
+ "ACH_CHAR_MACH": {
+  "n": "Cabeça de Metal",
+  "d": "Desbloqueie o robô de Machinarium (30 curativos)"
+ },
+ "ACH_CHAR_NAIJA": {
+  "n": "Tem Algo Cheirando a Peixe...",
+  "d": "Desbloqueie a Naija (50 curativos)"
+ },
+ "ACH_CHAR_MINECRAFT": {
+  "n": "Incendiário Acidental",
+  "d": "Desbloqueie o Mr. Minecraft (100 curativos)"
+ },
+ "ACH_CHAR_RUNMAN": {
+  "n": "MS PAINT É DEMAIS!",
+  "d": "Desbloqueie o RunMan (70 curativos)"
+ },
+ "ACH_CHAR_V": {
+  "n": "Vx6",
+  "d": "Desbloqueie o Capitão Viridian (90 curativos)"
+ },
+ "ACH_CHAR_CV": {
+  "n": "O Comandante",
+  "d": "Desbloqueie o CommanderVideo"
+ },
+ "ACH_CHAR_JILL": {
+  "n": "A Puxa-Saco",
+  "d": "Desbloqueie a Jill"
+ },
+ "ACH_CHAR_OGMO": {
+  "n": "O Saltador",
+  "d": "Desbloqueie o Ogmo"
+ },
+ "ACH_CHAR_FLY": {
+  "n": "O Voador",
+  "d": "Desbloqueie o Flywrench"
+ },
+ "ACH_CHAR_KID": {
+  "n": "O Garoto",
+  "d": "Desbloqueie o Kid"
+ },
+ "ACH_CHAR_TOFU": {
+  "n": "Olha Só Você!",
+  "d": "Você acabou de mudar o mundo!"
+ },
+ "ACH_IRONMAN_DARKFOREST": {
+  "n": "Menino Esquilo",
+  "d": "Complete o Mundo Sombrio da Floresta sem morrer"
+ },
+ "ACH_IRONMAN_DARKHOSPITAL": {
+  "n": "Menino Coágulo",
+  "d": "Complete o Mundo Sombrio do Hospital sem morrer"
+ },
+ "ACH_IRONMAN_DARKFACTORY": {
+  "n": "Menino Míssil",
+  "d": "Complete o Mundo Sombrio da Fábrica de Sal sem morrer"
+ },
+ "ACH_IRONMAN_DARKHELL": {
+  "n": "Menino Demônio",
+  "d": "Complete o Mundo Sombrio do Inferno sem morrer"
+ },
+ "ACH_IRONMAN_DARKRAPTURE": {
+  "n": "Menino Zumbi",
+  "d": "Complete o Mundo Sombrio do Arrebatamento sem morrer"
+ },
+ "ACH_IRONMAN_DARKTHEEND": {
+  "n": "Menino Dr. Fetus",
+  "d": "Complete o Mundo Sombrio de O Fim sem morrer"
+ },
+ "ACH_IRONMAN_DARKCOTTONALLEY": {
+  "n": "Menino Impossível",
+  "d": "Complete o Mundo Sombrio do Beco do Algodão sem morrer"
+ },
+ "ACH_SUMMER_HELL": {
+  "n": "Ao Ponto",
+  "d": "Passe o menor tempo possível no Inferno"
+ },
+ "ACH_RARE": {
+  "n": "Malpassado",
+  "d": "Passe o menor tempo possível na Floresta"
+ },
+ "ACH_MEDIUM": {
+  "n": "Médio",
+  "d": "Passe o menor tempo possível na Fábrica de Sal"
+ },
+ "ACH_WELLDONE": {
+  "n": "Bem Passado",
+  "d": "Passe o menor tempo possível no Arrebatamento"
+ },
+ "ACH_MEDIUMRARE": {
+  "n": "Ao Ponto para Mal",
+  "d": "Passe o menor tempo possível no Hospital"
+ },
+ "kid_gift_1": {
+  "n": "O Natal do Kid!",
+  "d": "Complete uma fase do capítulo \"The Kids Xmas\" no Super Meat World"
+ },
+ "kid_gift_2": {
+  "n": "O Presente Dourado!",
+  "d": "Complete todas as fases do capítulo \"The Kids Xmas\" no Super Meat World EM UMA SÓ SESSÃO."
+ }
+}

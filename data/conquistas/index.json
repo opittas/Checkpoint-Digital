@@ -270,5 +270,29 @@
   "base": 32,
   "dlcs": {},
   "atualizado": "2026-10-27"
+ },
+ "castlecrashers": {
+  "total": 12,
+  "base": 12,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "supermeatboy": {
+  "total": 48,
+  "base": 48,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "narutostorm4": {
+  "total": 53,
+  "base": 50,
+  "dlcs": {
+   "Road to Boruto": [
+    "NEW_ACHIEVEMENT_3_0",
+    "NEW_ACHIEVEMENT_3_1",
+    "NEW_ACHIEVEMENT_3_2"
+   ]
+  },
+  "atualizado": "2026-10-27"
  }
 }

@@ -1,0 +1,48 @@
+{
+  "resumo": "A versão da Steam tem só 12 conquistas, e duas exigem jogar com mais gente (4 jogadores e Arena online). O resto sai com uma jogatina e alguns desafios.",
+  "roadmap": [
+    {
+      "titulo": "1. Zerar o jogo",
+      "texto": "Termine a campanha com qualquer cavaleiro. No caminho, compre a pá numa das lojas para desenterrar itens (procure os pontos marcados no chão) e pegue os orbes de animais que encontrar."
+    },
+    {
+      "titulo": "2. Desafios de fase",
+      "texto": "Moinho Abandonado sem bater em nada (Treinador de Cervos); lançar um cavaleiro com força máxima na catapulta; derrotar um chefe final só no corpo a corpo, sem magia."
+    },
+    {
+      "titulo": "3. Objetor de Consciência",
+      "texto": "Comece um save novo e vá do Castelo Natal até o Chefe Bárbaro sem atacar ninguém: só desvie e deixe os aliados lutarem."
+    },
+    {
+      "titulo": "4. O Traidor",
+      "texto": "Personagens inimigos, como Bárbaro e Cavaleiro Ladrão, são liberados ao zerar o jogo com cavaleiros diferentes. Use um deles contra o chefe da própria facção."
+    },
+    {
+      "titulo": "5. Multijogador",
+      "texto": "Com 4 jogadores (local ou online): beijos das 4 princesas e reviver todos os colegas. Mestre da Arena pede 40 vitórias online; Contagem Final é no minijogo Afaste o Bárbaro."
+    }
+  ],
+  "avisos": [
+    "Médico! e B-E-I-J-O exigem 4 jogadores na mesma partida.",
+    "Mestre da Arena depende de achar partidas online."
+  ],
+  "conquistas": {
+    "ACH_ARENAMASTER": {
+      "online": true,
+      "dica": "Combine com amigos para fechar as 40 vitórias mais rápido."
+    },
+    "ACH_KISS": {
+      "online": true,
+      "dica": "As 4 princesas aparecem ao longo da campanha; cada jogador precisa ganhar uma."
+    },
+    "ACH_MEDIC": {
+      "online": true
+    },
+    "ACH_CONOBJECTOR": {
+      "dica": "Use um save novo e não aperte ataque nenhuma vez até o Chefe Bárbaro."
+    },
+    "ACH_ANMLTRAINER": {
+      "dica": "Alguns orbes ficam escondidos ou na loja; confira a lista do Zoológico Animal na tela do jogo."
+    }
+  }
+}

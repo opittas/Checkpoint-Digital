@@ -1,0 +1,23 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine os mundos até o Bowser."
+    },
+    {
+      "titulo": "2. Moedas-estrela",
+      "texto": "Volte nas fases com pássaros e use a Toadette se precisar."
+    },
+    {
+      "titulo": "3. Segredos",
+      "texto": "As saídas secretas abrem caminhos e a Estrada Superestrela."
+    },
+    {
+      "titulo": "4. Luigi U",
+      "texto": "A campanha do Luigi é mais curta e bem mais difícil."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

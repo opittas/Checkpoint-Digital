@@ -1,0 +1,19 @@
+{
+  "resumo": "Metroidvania desenhado à mão. Explore tudo, ache os finais e os chefes opcionais.",
+  "roadmap": [
+    {
+      "titulo": "1. Exploração",
+      "texto": "Libere habilidades de movimento e volte às áreas antigas."
+    },
+    {
+      "titulo": "2. Chefes",
+      "texto": "Derrote os chefes, inclusive os opcionais."
+    },
+    {
+      "titulo": "3. Finais",
+      "texto": "O jogo tem finais diferentes; guarde um save antes do fim."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

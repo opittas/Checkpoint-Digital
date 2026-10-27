@@ -1,0 +1,117 @@
+{
+ "id": "kirby-forgotten-land",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Star-Crossed World",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "História",
+   "d": "Termine a história e derrote o chefe final.",
+   "n_en": "Story",
+   "d_en": "Finish the story and defeat the final boss.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "waddle",
+   "g": 0,
+   "n": "Waddle Dees",
+   "d": "Resgate os 300 Waddle Dees.",
+   "n_en": "Waddle Dees",
+   "d_en": "Rescue all 300 Waddle Dees.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 300
+  },
+  {
+   "k": "missoes",
+   "g": 0,
+   "n": "Missões das fases",
+   "d": "Complete todas as missões escondidas de cada fase.",
+   "n_en": "Stage missions",
+   "d_en": "Complete every hidden mission in each stage.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bonecos",
+   "g": 0,
+   "n": "Bonecos de cápsula",
+   "d": "Colecione todos os bonecos das máquinas de cápsula.",
+   "n_en": "Capsule figures",
+   "d_en": "Collect every capsule figure.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "trilha",
+   "g": 0,
+   "n": "Trilha dos Tesouros",
+   "d": "Complete os desafios da Trilha dos Tesouros com ouro.",
+   "n_en": "Treasure Road",
+   "d_en": "Clear the Treasure Road challenges with gold times.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "copiar",
+   "g": 0,
+   "n": "Evoluções",
+   "d": "Libere todas as evoluções das habilidades de cópia.",
+   "n_en": "Evolutions",
+   "d_en": "Unlock every copy ability evolution.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "coliseu",
+   "g": 0,
+   "n": "Coliseu",
+   "d": "Vença a copa mais difícil do Coliseu.",
+   "n_en": "Colosseum",
+   "d_en": "Win the hardest Colosseum cup.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pos",
+   "g": 0,
+   "n": "Ilha Isolada",
+   "d": "Termine a Ilha Isolada: Forgo Dreams.",
+   "n_en": "Isolated Isles",
+   "d_en": "Clear Isolated Isles: Forgo Dreams.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrela",
+   "g": 1,
+   "n": "Star-Crossed World",
+   "d": "Termine a aventura extra da edição Nintendo Switch 2.",
+   "n_en": "Star-Crossed World",
+   "d_en": "Clear the Switch 2 Edition bonus adventure.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

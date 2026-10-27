@@ -1,0 +1,19 @@
+{
+  "resumo": "Bullet heaven onde você monta uma equipe de criaturas elementais (Shards).",
+  "roadmap": [
+    {
+      "titulo": "1. Runs",
+      "texto": "Monte equipes com Shards de traços que combinem."
+    },
+    {
+      "titulo": "2. Chefes",
+      "texto": "Derrote os chefes e eventos especiais."
+    },
+    {
+      "titulo": "3. Coleção",
+      "texto": "Libere todos os Shards e personagens."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

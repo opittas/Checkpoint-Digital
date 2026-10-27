@@ -1,0 +1,101 @@
+{
+ "id": "pokemon-champions",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "time",
+   "g": 0,
+   "n": "Monte um time",
+   "d": "Leve ou recrute 6 Pokémon e monte seu primeiro time.",
+   "n_en": "Build a team",
+   "d_en": "Bring or recruit 6 Pokémon and build your first team.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "home",
+   "g": 0,
+   "n": "Pokémon HOME",
+   "d": "Traga um Pokémon do Pokémon HOME.",
+   "n_en": "Pokémon HOME",
+   "d_en": "Bring a Pokémon over from Pokémon HOME.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "simples",
+   "g": 0,
+   "n": "Batalha Simples",
+   "d": "Vença uma batalha 1x1.",
+   "n_en": "Single Battle",
+   "d_en": "Win a Single Battle.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dupla",
+   "g": 0,
+   "n": "Batalha Dupla",
+   "d": "Vença uma batalha 2x2.",
+   "n_en": "Double Battle",
+   "d_en": "Win a Double Battle.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rank",
+   "g": 0,
+   "n": "Ranqueada",
+   "d": "Jogue uma temporada ranqueada.",
+   "n_en": "Ranked",
+   "d_en": "Play a Ranked season.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mestre",
+   "g": 0,
+   "n": "Rank máximo",
+   "d": "Chegue ao rank mais alto de uma temporada.",
+   "n_en": "Top rank",
+   "d_en": "Reach the top rank in a season.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "privada",
+   "g": 0,
+   "n": "Batalha Privada",
+   "d": "Lute com um amigo numa batalha privada.",
+   "n_en": "Private Battle",
+   "d_en": "Battle a friend in a Private Battle.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "passe",
+   "g": 0,
+   "n": "Passe de Batalha",
+   "d": "Complete um Passe de Batalha.",
+   "n_en": "Battle Pass",
+   "d_en": "Complete a Battle Pass.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

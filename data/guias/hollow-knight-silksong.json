@@ -1,0 +1,23 @@
+{
+  "resumo": "A continuação de Hollow Knight com a Hornet. Lista difícil, com exploração completa, missões e chefes.",
+  "roadmap": [
+    {
+      "titulo": "1. Exploração",
+      "texto": "Explore Pharloom, junte ferramentas e melhorias."
+    },
+    {
+      "titulo": "2. Missões",
+      "texto": "Faça os pedidos do quadro de missões."
+    },
+    {
+      "titulo": "3. Chefes",
+      "texto": "Derrote os chefes, inclusive os opcionais."
+    },
+    {
+      "titulo": "100%",
+      "texto": "Termine com a maior porcentagem de conclusão."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

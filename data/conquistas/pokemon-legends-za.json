@@ -1,0 +1,116 @@
+{
+ "id": "pokemon-legends-za",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Mega Dimensão",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "História",
+   "d": "Termine a história principal em Lumiose.",
+   "n_en": "Story",
+   "d_en": "Finish the main story in Lumiose.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ranks",
+   "g": 0,
+   "n": "Batalha Z-A",
+   "d": "Suba até o rank A nas batalhas noturnas.",
+   "n_en": "Z-A Royale",
+   "d_en": "Climb to Rank A in the night battles.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "megas",
+   "g": 0,
+   "n": "Megaevoluções",
+   "d": "Enfrente e acalme todos os Pokémon Mega Desenfreados.",
+   "n_en": "Mega Evolutions",
+   "d_en": "Face and calm every Rogue Mega Pokémon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pokedex",
+   "g": 0,
+   "n": "Pokédex de Lumiose",
+   "d": "Complete a Pokédex de Lumiose.",
+   "n_en": "Lumiose Pokédex",
+   "d_en": "Complete the Lumiose Pokédex.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lendarios",
+   "g": 0,
+   "n": "Lendários",
+   "d": "Capture Zygarde e os lendários do fim de jogo.",
+   "n_en": "Legendaries",
+   "d_en": "Catch Zygarde and the post-game legendaries.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "missoes",
+   "g": 0,
+   "n": "Missões secundárias",
+   "d": "Complete todas as missões secundárias.",
+   "n_en": "Side missions",
+   "d_en": "Complete every side mission.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "celulas",
+   "g": 0,
+   "n": "Células de Zygarde",
+   "d": "Junte as células de Zygarde espalhadas pela cidade.",
+   "n_en": "Zygarde Cells",
+   "d_en": "Collect the Zygarde Cells around the city.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "alpha",
+   "g": 0,
+   "n": "Alfa",
+   "d": "Capture um Pokémon Alfa.",
+   "n_en": "Alpha",
+   "d_en": "Catch an Alpha Pokémon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mega",
+   "g": 1,
+   "n": "Mega Dimensão",
+   "d": "Termine a história da expansão Mega Dimensão.",
+   "n_en": "Mega Dimension",
+   "d_en": "Finish the Mega Dimension expansion story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

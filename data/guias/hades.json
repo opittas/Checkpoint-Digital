@@ -1,0 +1,23 @@
+{
+  "resumo": "Roguelike na mitologia grega. As conquistas vêm de fugir do Submundo, relações com os deuses e o Pacto da Punição.",
+  "roadmap": [
+    {
+      "titulo": "1. Fuja",
+      "texto": "Faça a primeira fuga e continue até ver o epílogo (10 fugas)."
+    },
+    {
+      "titulo": "2. Relações",
+      "texto": "Dê néctar e ambrosia para subir as amizades."
+    },
+    {
+      "titulo": "3. Armas",
+      "texto": "Libere e use todas as armas e aspectos."
+    },
+    {
+      "titulo": "4. Calor",
+      "texto": "O Pacto da Punição aumenta a dificuldade para algumas conquistas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

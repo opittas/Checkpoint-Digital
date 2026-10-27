@@ -1,0 +1,105 @@
+{
+ "id": "nsmbu-deluxe",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Luigi U",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "bowser",
+   "g": 0,
+   "n": "Bowser derrotado",
+   "d": "Termine o New Super Mario Bros. U.",
+   "n_en": "Bowser defeated",
+   "d_en": "Beat New Super Mario Bros. U.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mundos",
+   "g": 0,
+   "n": "Todos os mundos",
+   "d": "Termine todos os mundos e fases, incluindo as saídas secretas.",
+   "n_en": "All worlds",
+   "d_en": "Clear every world and level, including secret exits.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "moedas",
+   "g": 0,
+   "n": "Moedas-estrela",
+   "d": "Colete todas as moedas-estrela.",
+   "n_en": "Star Coins",
+   "d_en": "Collect every Star Coin.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "superstar",
+   "g": 0,
+   "n": "Estrada Superestrela",
+   "d": "Libere e termine a Estrada Superestrela.",
+   "n_en": "Superstar Road",
+   "d_en": "Unlock and clear Superstar Road.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas",
+   "g": 0,
+   "n": "5 estrelas no save",
+   "d": "Deixe o arquivo com as 5 estrelas brilhando.",
+   "n_en": "5-star save",
+   "d_en": "Get all 5 stars on your save file.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafios",
+   "g": 0,
+   "n": "Desafios",
+   "d": "Complete os desafios (contra o tempo, 1-UP, etc.).",
+   "n_en": "Challenges",
+   "d_en": "Complete the Challenge mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "luigiu",
+   "g": 1,
+   "n": "Luigi U",
+   "d": "Termine o New Super Luigi U.",
+   "n_en": "Luigi U",
+   "d_en": "Beat New Super Luigi U.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "luigimoedas",
+   "g": 1,
+   "n": "Moedas-estrela do Luigi U",
+   "d": "Colete todas as moedas-estrela do Luigi U.",
+   "n_en": "Luigi U Star Coins",
+   "d_en": "Collect every Star Coin in Luigi U.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

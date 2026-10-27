@@ -589,34 +589,36 @@ def publicar():
 
     st, ref = _gh("GET", f"{repo}/git/ref/heads/{GH_BRANCH}", token)
     parent = ref["object"]["sha"] if st == 200 else None
-    existentes = {}
+    existentes, base_tree = {}, None
     if parent:
         _, commit = _gh("GET", f"{repo}/git/commits/{parent}", token)
-        _, tree = _gh("GET", f"{repo}/git/trees/{commit['tree']['sha']}?recursive=1", token)
+        base_tree = commit["tree"]["sha"]
+        _, tree = _gh("GET", f"{repo}/git/trees/{base_tree}?recursive=1", token)
         existentes = {t["path"]: t["sha"] for t in (tree or {}).get("tree", []) if t["type"] == "blob"}
 
-    entries, enviados = [], 0
+    # Só manda o que mudou (base_tree): árvores completas ficam grandes demais para a API.
+    mudados, locais = [], set()
     for rel in _arquivos_do_site():
-        if rel.startswith(".github/") and rel in existentes:
-            with open(p(rel), "rb") as f:
-                if _git_sha(f.read()) == existentes[rel]:
-                    entries.append({"path": rel, "mode": "100644", "type": "blob", "sha": existentes[rel]})
-                    continue
+        locais.add(rel)
         with open(p(rel), "rb") as f:
             content = f.read()
-        sha = _git_sha(content)
-        if existentes.get(rel) != sha:
-            st, blob = _gh("POST", f"{repo}/git/blobs", token,
-                           {"content": base64.b64encode(content).decode(), "encoding": "base64"})
-            if st != 201:
-                print(f"   ❌ falha ao enviar {rel}: {st} {blob}")
-                sys.exit(1)
-            sha = blob["sha"]
-            enviados += 1
-        entries.append({"path": rel, "mode": "100644", "type": "blob", "sha": sha})
+        if existentes.get(rel) == _git_sha(content):
+            continue
+        st, blob = _gh("POST", f"{repo}/git/blobs", token,
+                       {"content": base64.b64encode(content).decode(), "encoding": "base64"})
+        if st != 201:
+            print(f"   ❌ falha ao enviar {rel}: {st} {blob}")
+            sys.exit(1)
+        mudados.append({"path": rel, "mode": "100644", "type": "blob", "sha": blob["sha"]})
+    # remove do site o que não existe mais aqui (nunca mexe em .github, criado pelo site do GitHub)
+    removidos = [{"path": x, "mode": "100644", "type": "blob", "sha": None}
+                 for x in existentes if x not in locais and not x.startswith(".github/")]
 
     def enviar_commit(itens):
-        st, tree = _gh("POST", f"{repo}/git/trees", token, {"tree": itens})
+        corpo = {"tree": itens}
+        if base_tree:
+            corpo["base_tree"] = base_tree
+        st, tree = _gh("POST", f"{repo}/git/trees", token, corpo)
         if st != 201:
             return st, tree
         msg = f"Atualização do site — {datetime.now().strftime('%d/%m/%Y %H:%M')}"
@@ -626,24 +628,19 @@ def publicar():
             return _gh("PATCH", f"{repo}/git/refs/heads/{GH_BRANCH}", token, {"sha": commit["sha"], "force": False})
         return _gh("POST", f"{repo}/git/refs", token, {"ref": f"refs/heads/{GH_BRANCH}", "sha": commit["sha"]})
 
-    removidos = len(set(existentes) - {e["path"] for e in entries})
-    if enviados == 0 and removidos == 0:
+    if not mudados and not removidos:
         ok("nada mudou desde a última publicação")
     else:
-        st, resp = enviar_commit(entries)
-        tem_workflow = any(e["path"].startswith(".github/") for e in entries)
-        if st not in (200, 201) and tem_workflow:
-            warn("seu token não tem permissão 'workflow' — publicando sem a rotina automática (.github).")
-            warn("para ativá-la, crie um token com os escopos 'repo' e 'workflow' e rode de novo.")
-            # mantém no repositório a versão do .github que já está lá (criada pelo site do GitHub)
-            entries = [e for e in entries if not e["path"].startswith(".github/")]
-            entries += [{"path": pth, "mode": "100644", "type": "blob", "sha": sha}
-                        for pth, sha in existentes.items() if pth.startswith(".github/")]
-            st, resp = enviar_commit(entries)
+        itens = mudados + removidos
+        st, resp = enviar_commit(itens)
+        if st not in (200, 201) and any(e["path"].startswith(".github/") for e in itens):
+            warn("seu token não tem permissão 'workflow' — publicando sem as mudanças em .github.")
+            itens = [e for e in itens if not e["path"].startswith(".github/")]
+            st, resp = enviar_commit(itens)
         if st not in (200, 201):
             print(f"   ❌ não consegui atualizar a branch ({st}): {resp}")
             sys.exit(1)
-        ok(f"commit enviado: {enviados} arquivo(s) novo(s)/alterado(s), {removidos} removido(s)")
+        ok(f"commit enviado: {len(mudados)} arquivo(s) novo(s)/alterado(s), {len(removidos)} removido(s)")
 
     # GitHub Pages
     alvo = {"branch": GH_BRANCH, "path": "/"}

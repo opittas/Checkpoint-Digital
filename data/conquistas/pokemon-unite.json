@@ -1,0 +1,103 @@
+{
+ "id": "pokemon-unite",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "tutorial",
+   "g": 0,
+   "n": "Treinamento",
+   "d": "Complete o treinamento inicial.",
+   "n_en": "Training",
+   "d_en": "Complete the starter training.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "licencas",
+   "g": 0,
+   "n": "Licenças",
+   "d": "Libere 10 licenças de Pokémon.",
+   "n_en": "Licenses",
+   "d_en": "Unlock 10 Unite licenses.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "funcoes",
+   "g": 0,
+   "n": "Todas as funções",
+   "d": "Vença com um Pokémon de cada função (Atacante, Defensor, Suporte, Veloz, Completo).",
+   "n_en": "All roles",
+   "d_en": "Win with each role.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "ultra",
+   "g": 0,
+   "n": "Movimento Unite",
+   "d": "Use o Movimento Unite para virar uma luta.",
+   "n_en": "Unite Move",
+   "d_en": "Use a Unite Move to turn a fight.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "zapdos",
+   "g": 0,
+   "n": "Zapdos",
+   "d": "Derrote o Zapdos no fim da partida.",
+   "n_en": "Zapdos",
+   "d_en": "Defeat Zapdos at the end of a match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ranked",
+   "g": 0,
+   "n": "Ranqueada",
+   "d": "Jogue partidas ranqueadas.",
+   "n_en": "Ranked",
+   "d_en": "Play Ranked matches.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "master",
+   "g": 0,
+   "n": "Classe Mestre",
+   "d": "Chegue à Classe Mestre numa temporada.",
+   "n_en": "Master Class",
+   "d_en": "Reach Master Class in a season.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "passe",
+   "g": 0,
+   "n": "Passe de Batalha",
+   "d": "Complete um Passe de Batalha.",
+   "n_en": "Battle Pass",
+   "d_en": "Complete a Battle Pass.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

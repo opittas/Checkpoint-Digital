@@ -1,0 +1,23 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Aventura em Lumiose com batalhas em tempo real.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Avance a história e suba nos ranks da Batalha Z-A à noite."
+    },
+    {
+      "titulo": "2. Megas",
+      "texto": "Enfrente os Mega Desenfreados para liberar Megapedras."
+    },
+    {
+      "titulo": "3. Coleção",
+      "texto": "Pokédex de Lumiose, células de Zygarde e missões secundárias."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "A Mega Dimensão fica numa aba separada."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

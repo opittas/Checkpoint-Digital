@@ -1,0 +1,93 @@
+{
+ "id": "pokemon-firered",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "insignias",
+   "g": 0,
+   "n": "Insígnias",
+   "d": "Vença os 8 líderes de ginásio de Kanto.",
+   "n_en": "Badges",
+   "d_en": "Beat all 8 Kanto gym leaders.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "liga",
+   "g": 0,
+   "n": "Liga Pokémon",
+   "d": "Vença a Elite 4 e o Campeão.",
+   "n_en": "Pokémon League",
+   "d_en": "Beat the Elite Four and the Champion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "sevii",
+   "g": 0,
+   "n": "Ilhas Sevii",
+   "d": "Complete a história das Ilhas Sevii.",
+   "n_en": "Sevii Islands",
+   "d_en": "Finish the Sevii Islands story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "aves",
+   "g": 0,
+   "n": "Aves lendárias",
+   "d": "Capture Articuno, Zapdos e Moltres.",
+   "n_en": "Legendary birds",
+   "d_en": "Catch Articuno, Zapdos and Moltres.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  },
+  {
+   "k": "mewtwo",
+   "g": 0,
+   "n": "Mewtwo",
+   "d": "Capture Mewtwo na Caverna Desconhecida.",
+   "n_en": "Mewtwo",
+   "d_en": "Catch Mewtwo in Cerulean Cave.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "kanto",
+   "g": 0,
+   "n": "Pokédex de Kanto",
+   "d": "Registre os 150 Pokémon de Kanto possíveis no jogo.",
+   "n_en": "Kanto Pokédex",
+   "d_en": "Register the 150 Kanto Pokémon available.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 150
+  },
+  {
+   "k": "nacional",
+   "g": 0,
+   "n": "Pokédex Nacional",
+   "d": "Libere a Pokédex Nacional com o Prof. Carvalho.",
+   "n_en": "National Pokédex",
+   "d_en": "Unlock the National Pokédex from Prof. Oak.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

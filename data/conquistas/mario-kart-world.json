@@ -1,0 +1,160 @@
+{
+ "id": "mario-kart-world",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "gp50",
+   "g": 0,
+   "n": "Grand Prix 50cc",
+   "d": "Vença todas as copas do Grand Prix em 50cc.",
+   "n_en": "Grand Prix 50cc",
+   "d_en": "Win every Grand Prix cup in 50cc.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "gp100",
+   "g": 0,
+   "n": "Grand Prix 100cc",
+   "d": "Vença todas as copas do Grand Prix em 100cc.",
+   "n_en": "Grand Prix 100cc",
+   "d_en": "Win every Grand Prix cup in 100cc.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "gp150",
+   "g": 0,
+   "n": "Grand Prix 150cc",
+   "d": "Vença todas as copas do Grand Prix em 150cc.",
+   "n_en": "Grand Prix 150cc",
+   "d_en": "Win every Grand Prix cup in 150cc.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "mirror",
+   "g": 0,
+   "n": "Modo Espelho",
+   "d": "Libere e vença todas as copas no Modo Espelho.",
+   "n_en": "Mirror Mode",
+   "d_en": "Unlock and win every cup in Mirror Mode.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "estrelas3",
+   "g": 0,
+   "n": "Três estrelas",
+   "d": "Consiga 3 estrelas de classificação em todas as copas.",
+   "n_en": "Three stars",
+   "d_en": "Get a 3-star rank in every cup.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "knockout",
+   "g": 0,
+   "n": "Knockout Tour",
+   "d": "Vença todos os rallies do Knockout Tour.",
+   "n_en": "Knockout Tour",
+   "d_en": "Win every Knockout Tour rally.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pswitch",
+   "g": 0,
+   "n": "Missões P-Switch",
+   "d": "Complete as missões dos interruptores P no modo Livre.",
+   "n_en": "P-Switch missions",
+   "d_en": "Complete the P-Switch missions in Free Roam.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "paineis",
+   "g": 0,
+   "n": "Painéis ?",
+   "d": "Encontre os painéis ? escondidos pelo mapa.",
+   "n_en": "? Panels",
+   "d_en": "Find the hidden ? Panels around the map.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "medalhoes",
+   "g": 0,
+   "n": "Medalhões da Peach",
+   "d": "Colete os medalhões da Peach no modo Livre.",
+   "n_en": "Peach Medallions",
+   "d_en": "Collect Peach Medallions in Free Roam.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pilotos",
+   "g": 0,
+   "n": "Todos os pilotos",
+   "d": "Desbloqueie todos os pilotos e fantasias.",
+   "n_en": "All drivers",
+   "d_en": "Unlock every driver and costume.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "karts",
+   "g": 0,
+   "n": "Todos os karts",
+   "d": "Desbloqueie todos os karts.",
+   "n_en": "All karts",
+   "d_en": "Unlock every kart.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "adesivos",
+   "g": 0,
+   "n": "Adesivos",
+   "d": "Junte adesivos completando desafios.",
+   "n_en": "Stickers",
+   "d_en": "Collect stickers by completing challenges.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "online",
+   "g": 0,
+   "n": "Online",
+   "d": "Vença uma partida online.",
+   "n_en": "Online",
+   "d_en": "Win an online race.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

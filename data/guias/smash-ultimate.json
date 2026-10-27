@@ -1,0 +1,23 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%.",
+  "roadmap": [
+    {
+      "titulo": "1. Lutadores",
+      "texto": "Jogue o Modo Clássico e partidas para liberar todos os lutadores."
+    },
+    {
+      "titulo": "2. Mundo da Luz",
+      "texto": "Termine a aventura e junte espíritos."
+    },
+    {
+      "titulo": "3. Desafios",
+      "texto": "Use o Painel de Desafios para ver o que falta; o martelo de ouro pula desafios difíceis."
+    },
+    {
+      "titulo": "4. Online",
+      "texto": "Elite Smash pede um bom número de vitórias online com o mesmo lutador."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

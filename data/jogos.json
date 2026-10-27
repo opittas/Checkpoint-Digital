@@ -365,7 +365,7 @@
   },
   {
     "id": "botw",
-    "title": "Zelda: Breath of the Wild",
+    "title": "Zelda: Breath of the Wild (Nintendo Switch 2 Edition)",
     "developer": "Nintendo EPD",
     "year": 2017,
     "steam_appid": null,
@@ -975,10 +975,16 @@
     "year": 2020,
     "steam_appid": 1097150,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
     },
     "difficulty": 3,
     "hours": "30–60h",
@@ -3823,6 +3829,554 @@
     ],
     "palavras": [
       "winexy"
+    ]
+  },
+  {
+    "id": "unpacking",
+    "title": "Unpacking",
+    "developer": "Witch Beam",
+    "year": 2021,
+    "steam_appid": 1135690,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 1,
+    "hours": "4–6h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/unpacking.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "unpacking"
+    ]
+  },
+  {
+    "id": "super-meat-boy-forever",
+    "title": "Super Meat Boy Forever",
+    "developer": "Team Meat",
+    "year": 2022,
+    "steam_appid": 581660,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 8,
+    "hours": "15–30h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/super-meat-boy-forever.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "super meat boy forever"
+    ]
+  },
+  {
+    "id": "hades",
+    "title": "Hades",
+    "developer": "Supergiant Games",
+    "year": 2020,
+    "steam_appid": 1145360,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 6,
+    "hours": "60–100h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/hades.jpg",
+    "generos": [
+      "Ação",
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "hades"
+    ]
+  },
+  {
+    "id": "afterimage",
+    "title": "Afterimage",
+    "developer": "Aurogon Shanghai",
+    "year": 2023,
+    "steam_appid": 1701520,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 5,
+    "hours": "30–40h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/afterimage.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "afterimage"
+    ]
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "developer": "Team Cherry",
+    "year": 2025,
+    "steam_appid": 1030300,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 8,
+    "hours": "50–80h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/hollow-knight-silksong.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "hollow knight"
+    ]
+  },
+  {
+    "id": "pragmata",
+    "title": "Pragmata",
+    "developer": "CAPCOM Co., Ltd.",
+    "year": 2026,
+    "steam_appid": 3357650,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 5,
+    "hours": "20–30h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/pragmata.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "pragmata"
+    ]
+  },
+  {
+    "id": "shard-squad",
+    "title": "Shard Squad",
+    "developer": "The Root Studios",
+    "year": 2025,
+    "steam_appid": 3363560,
+    "platforms": [
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 4,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/shard-squad.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "shard squad"
+    ]
+  },
+  {
+    "id": "rocket-league",
+    "title": "Rocket League",
+    "developer": "Psyonix",
+    "year": 2015,
+    "steam_appid": 252950,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": "",
+      "nin": "Lista da Steam"
+    },
+    "difficulty": 5,
+    "hours": "100h+",
+    "playthroughs": "—",
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/rocket-league.jpg",
+    "generos": [
+      "Esportes",
+      "Corrida"
+    ],
+    "palavras": [
+      "rocket league"
+    ]
+  },
+  {
+    "id": "mario-kart-world",
+    "title": "Mario Kart World",
+    "developer": "Nintendo EPD",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 4,
+    "hours": "60–100h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-kart-world.jpg",
+    "generos": [
+      "Corrida"
+    ],
+    "palavras": [
+      "mario kart"
+    ]
+  },
+  {
+    "id": "pokemon-violet",
+    "title": "Pokémon Violet",
+    "developer": "Game Freak · Nintendo",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 3,
+    "hours": "80–150h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-violet.jpg",
+    "generos": [
+      "RPG",
+      "Aventura"
+    ],
+    "palavras": [
+      "pokémon violet",
+      "pokemon scarlet",
+      "pokémon scarlet"
+    ]
+  },
+  {
+    "id": "nsmbu-deluxe",
+    "title": "New Super Mario Bros. U Deluxe",
+    "developer": "Nintendo EPD",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 5,
+    "hours": "25–40h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/nsmbu-deluxe.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "new super mario bros"
+    ]
+  },
+  {
+    "id": "pokemon-champions",
+    "title": "Pokémon Champions",
+    "developer": "The Pokémon Works",
+    "year": 2026,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 5,
+    "hours": "Contínuo",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-champions.jpg",
+    "generos": [
+      "Estratégia",
+      "Luta"
+    ],
+    "palavras": [
+      "pokémon champions"
+    ]
+  },
+  {
+    "id": "pokemon-pokopia",
+    "title": "Pokémon Pokopia",
+    "developer": "Omega Force · Game Freak",
+    "year": 2026,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 2,
+    "hours": "40–80h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-pokopia.jpg",
+    "generos": [
+      "Simulação",
+      "Aventura"
+    ],
+    "palavras": [
+      "pokopia"
+    ]
+  },
+  {
+    "id": "pokemon-unite",
+    "title": "Pokémon Unite",
+    "developer": "TiMi Studio · The Pokémon Company",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 4,
+    "hours": "Contínuo",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-unite.jpg",
+    "generos": [
+      "MOBA",
+      "Estratégia"
+    ],
+    "palavras": [
+      "pokémon unite"
+    ]
+  },
+  {
+    "id": "pokemon-legends-za",
+    "title": "Pokémon Legends: Z-A",
+    "developer": "Game Freak · Nintendo",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 3,
+    "hours": "50–80h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-legends-za.jpg",
+    "generos": [
+      "RPG",
+      "Ação"
+    ],
+    "palavras": [
+      "legends z-a",
+      "legends: z-a"
+    ]
+  },
+  {
+    "id": "smash-ultimate",
+    "title": "Super Smash Bros. Ultimate",
+    "developer": "Bandai Namco · Sora Ltd.",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 5,
+    "hours": "100h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/smash-ultimate.jpg",
+    "generos": [
+      "Luta"
+    ],
+    "palavras": [
+      "smash bros"
+    ]
+  },
+  {
+    "id": "kirby-forgotten-land",
+    "title": "Kirby e a Terra Esquecida",
+    "developer": "HAL Laboratory",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 3,
+    "hours": "25–40h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/kirby-forgotten-land.jpg",
+    "generos": [
+      "Plataforma",
+      "Aventura"
+    ],
+    "palavras": [
+      "kirby"
+    ]
+  },
+  {
+    "id": "pokemon-firered",
+    "title": "Pokémon FireRed",
+    "developer": "Game Freak",
+    "year": 2004,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 3,
+    "hours": "30–50h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-firered.jpg",
+    "generos": [
+      "RPG",
+      "Retrô"
+    ],
+    "palavras": [
+      "firered",
+      "fire red"
+    ]
+  },
+  {
+    "id": "dragon-ball-gekishin-squadra",
+    "title": "Dragon Ball Gekishin Squadra",
+    "developer": "Bandai Namco",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "steam": "",
+      "nin": "Checklist 100%"
+    },
+    "difficulty": 4,
+    "hours": "Contínuo",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/dragon-ball-gekishin-squadra.jpg",
+    "generos": [
+      "Ação",
+      "Anime"
+    ],
+    "palavras": [
+      "gekishin squadra",
+      "dragon ball"
     ]
   }
 ]

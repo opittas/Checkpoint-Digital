@@ -1,0 +1,19 @@
+{
+  "resumo": "Corrida automática de precisão. Termine os mundos, as versões sombrias e pegue as chupetas.",
+  "roadmap": [
+    {
+      "titulo": "1. Mundos",
+      "texto": "Termine os mundos claros."
+    },
+    {
+      "titulo": "2. Mundo sombrio",
+      "texto": "Pegue notas altas para liberar as fases sombrias."
+    },
+    {
+      "titulo": "3. Coleção",
+      "texto": "Chupetas e personagens."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

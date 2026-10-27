@@ -1,0 +1,193 @@
+{
+ "id": "pokemon-violet",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "The Teal Mask",
+   "dlc": 1
+  },
+  {
+   "nome": "The Indigo Disk",
+   "dlc": 2
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "ginasios",
+   "g": 0,
+   "n": "Insígnias",
+   "d": "Vença os 8 líderes de ginásio (Caminho da Vitória).",
+   "n_en": "Badges",
+   "d_en": "Beat all 8 gym leaders (Victory Road).",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "titas",
+   "g": 0,
+   "n": "Pokémon Titã",
+   "d": "Derrote os 5 Pokémon Titã (Caminho das Lendas).",
+   "n_en": "Titan Pokémon",
+   "d_en": "Defeat all 5 Titan Pokémon (Path of Legends).",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "starbases",
+   "g": 0,
+   "n": "Equipe Estrela",
+   "d": "Derrote as 5 bases da Equipe Estrela (Estrada Estelar).",
+   "n_en": "Team Star",
+   "d_en": "Defeat all 5 Team Star bases (Starfall Street).",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "campeao",
+   "g": 0,
+   "n": "Campeão",
+   "d": "Vença a Liga Pokémon e vire Campeão.",
+   "n_en": "Champion",
+   "d_en": "Win the Pokémon League and become Champion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "areazero",
+   "g": 0,
+   "n": "Área Zero",
+   "d": "Termine a história na Área Zero.",
+   "n_en": "Area Zero",
+   "d_en": "Finish the story in Area Zero.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pokedex",
+   "g": 0,
+   "n": "Pokédex de Paldea",
+   "d": "Registre os 400 Pokémon da Pokédex de Paldea.",
+   "n_en": "Paldea Pokédex",
+   "d_en": "Register all 400 Pokémon in the Paldea Pokédex.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 400
+  },
+  {
+   "k": "shinycharm",
+   "g": 0,
+   "n": "Amuleto Brilhante",
+   "d": "Complete a Pokédex e receba o Amuleto Brilhante.",
+   "n_en": "Shiny Charm",
+   "d_en": "Complete the Pokédex and get the Shiny Charm.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estacas",
+   "g": 0,
+   "n": "Tesouros da Ruína",
+   "d": "Arranque as estacas e capture os 4 Tesouros da Ruína.",
+   "n_en": "Treasures of Ruin",
+   "d_en": "Pull the stakes and catch all 4 Treasures of Ruin.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "raid6",
+   "g": 0,
+   "n": "Reides 6 estrelas",
+   "d": "Vença uma reide Tera de 6 estrelas.",
+   "n_en": "6-star raids",
+   "d_en": "Win a 6-star Tera Raid.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "kitakami",
+   "g": 1,
+   "n": "Pokédex de Kitakami",
+   "d": "Registre os 200 Pokémon da Pokédex de Kitakami.",
+   "n_en": "Kitakami Pokédex",
+   "d_en": "Register all 200 Kitakami Pokédex entries.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 200
+  },
+  {
+   "k": "ogerpon",
+   "g": 1,
+   "n": "Ogerpon e os Leais",
+   "d": "Termine a história e capture Ogerpon, Okidogi, Munkidori e Fezandipiti.",
+   "n_en": "Ogerpon and the Loyal Three",
+   "d_en": "Finish the story and catch Ogerpon and the Loyal Three.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "bb",
+   "g": 2,
+   "n": "Liga Mirtilo",
+   "d": "Vença a Elite 4 da Liga Mirtilo.",
+   "n_en": "Blueberry League",
+   "d_en": "Beat the Blueberry League Elite Four.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bbdex",
+   "g": 2,
+   "n": "Pokédex Mirtilo",
+   "d": "Registre a Pokédex Mirtilo.",
+   "n_en": "Blueberry Pokédex",
+   "d_en": "Complete the Blueberry Pokédex.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "terapagos",
+   "g": 2,
+   "n": "Terapagos",
+   "d": "Termine a história e capture Terapagos.",
+   "n_en": "Terapagos",
+   "d_en": "Finish the story and catch Terapagos.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "epilogo",
+   "g": 2,
+   "n": "Epílogo do Mochi",
+   "d": "Complete o epílogo extra.",
+   "n_en": "Mochi Mayhem",
+   "d_en": "Complete the bonus epilogue.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

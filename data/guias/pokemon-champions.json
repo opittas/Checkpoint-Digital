@@ -1,0 +1,21 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. É um jogo só de batalhas online, sem modo história.",
+  "roadmap": [
+    {
+      "titulo": "1. Monte o time",
+      "texto": "Traga Pokémon do HOME ou recrute no jogo. Use os Pontos de Vitória para ajustar golpes, natureza e atributos."
+    },
+    {
+      "titulo": "2. Batalhas",
+      "texto": "Jogue Casual e Ranqueada, em batalhas simples e duplas."
+    },
+    {
+      "titulo": "3. Temporadas",
+      "texto": "Suba de rank e complete o Passe de Batalha."
+    }
+  ],
+  "avisos": [
+    "Precisa de internet."
+  ],
+  "conquistas": {}
+}

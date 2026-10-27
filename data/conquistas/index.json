@@ -1395,5 +1395,143 @@
   "base": 16,
   "dlcs": {},
   "atualizado": "2026-10-27"
+ },
+ "unpacking": {
+  "total": 25,
+  "base": 25,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "super-meat-boy-forever": {
+  "total": 36,
+  "base": 36,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "hades": {
+  "total": 49,
+  "base": 49,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "afterimage": {
+  "total": 46,
+  "base": 46,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "hollow-knight-silksong": {
+  "total": 52,
+  "base": 52,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "pragmata": {
+  "total": 35,
+  "base": 35,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "shard-squad": {
+  "total": 69,
+  "base": 69,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "rocket-league": {
+  "total": 88,
+  "base": 88,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "mario-kart-world": {
+  "total": 13,
+  "base": 13,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-violet": {
+  "total": 15,
+  "base": 9,
+  "dlcs": {
+   "The Teal Mask": [
+    "kitakami",
+    "ogerpon"
+   ],
+   "The Indigo Disk": [
+    "bb",
+    "bbdex",
+    "terapagos",
+    "epilogo"
+   ]
+  },
+  "atualizado": null
+ },
+ "nsmbu-deluxe": {
+  "total": 8,
+  "base": 6,
+  "dlcs": {
+   "Luigi U": [
+    "luigiu",
+    "luigimoedas"
+   ]
+  },
+  "atualizado": null
+ },
+ "pokemon-champions": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-pokopia": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-unite": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-legends-za": {
+  "total": 9,
+  "base": 8,
+  "dlcs": {
+   "Mega Dimensão": [
+    "mega"
+   ]
+  },
+  "atualizado": null
+ },
+ "smash-ultimate": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "kirby-forgotten-land": {
+  "total": 9,
+  "base": 8,
+  "dlcs": {
+   "Star-Crossed World": [
+    "estrela"
+   ]
+  },
+  "atualizado": null
+ },
+ "pokemon-firered": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "dragon-ball-gekishin-squadra": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
  }
 }

@@ -1,0 +1,101 @@
+{
+ "id": "smash-ultimate",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "lutadores",
+   "g": 0,
+   "n": "Todos os lutadores",
+   "d": "Desbloqueie todos os lutadores do jogo base.",
+   "n_en": "All fighters",
+   "d_en": "Unlock every base-game fighter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "luz",
+   "g": 0,
+   "n": "Mundo da Luz",
+   "d": "Termine o modo Mundo da Luz (Aventura) com o final verdadeiro.",
+   "n_en": "World of Light",
+   "d_en": "Beat World of Light with the true ending.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "classico",
+   "g": 0,
+   "n": "Modo Clássico",
+   "d": "Termine o Modo Clássico com todos os lutadores.",
+   "n_en": "Classic Mode",
+   "d_en": "Clear Classic Mode with every fighter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "espiritos",
+   "g": 0,
+   "n": "Espíritos",
+   "d": "Colecione espíritos (Mundo da Luz, Quadro de Espíritos e loja).",
+   "n_en": "Spirits",
+   "d_en": "Collect spirits (World of Light, Spirit Board and shop).",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafios",
+   "g": 0,
+   "n": "Painel de Desafios",
+   "d": "Complete o painel de desafios.",
+   "n_en": "Challenge board",
+   "d_en": "Complete the Challenge board.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "musicas",
+   "g": 0,
+   "n": "Músicas e cenários",
+   "d": "Desbloqueie todas as músicas e cenários.",
+   "n_en": "Music and stages",
+   "d_en": "Unlock every song and stage.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "online",
+   "g": 0,
+   "n": "Elite Smash",
+   "d": "Chegue ao Elite Smash online com um lutador.",
+   "n_en": "Elite Smash",
+   "d_en": "Reach Elite Smash online with a fighter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc",
+   "g": 0,
+   "n": "Lutadores extras",
+   "d": "Jogue com os lutadores dos Fighters Pass (DLC).",
+   "n_en": "Extra fighters",
+   "d_en": "Play the Fighters Pass fighters (DLC).",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

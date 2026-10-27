@@ -1,0 +1,21 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. MOBA 5x5 online.",
+  "roadmap": [
+    {
+      "titulo": "1. Aprenda",
+      "texto": "Faça o treinamento e jogue partidas rápidas."
+    },
+    {
+      "titulo": "2. Licenças",
+      "texto": "Libere Pokémon e experimente cada função."
+    },
+    {
+      "titulo": "3. Ranqueada",
+      "texto": "Suba de classe até a Mestre numa temporada."
+    }
+  ],
+  "avisos": [
+    "Precisa de internet."
+  ],
+  "conquistas": {}
+}

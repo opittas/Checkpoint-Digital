@@ -1,0 +1,25 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Corridas, Knockout Tour e a exploração do modo Livre.",
+  "roadmap": [
+    {
+      "titulo": "1. Grand Prix",
+      "texto": "Vença as copas em 50cc, 100cc e 150cc. O Modo Espelho abre depois."
+    },
+    {
+      "titulo": "2. Knockout Tour",
+      "texto": "Termine os rallies de eliminação; ficar entre os primeiros fica mais fácil com itens defensivos."
+    },
+    {
+      "titulo": "3. Modo Livre",
+      "texto": "Explore o mapa atrás das missões P-Switch, painéis ? e medalhões da Peach."
+    },
+    {
+      "titulo": "4. Coleção",
+      "texto": "Pilotos, fantasias, karts e adesivos saem jogando de tudo um pouco."
+    }
+  ],
+  "avisos": [
+    "O online pede assinatura do Nintendo Switch Online."
+  ],
+  "conquistas": {}
+}

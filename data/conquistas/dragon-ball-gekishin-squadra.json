@@ -1,0 +1,90 @@
+{
+ "id": "dragon-ball-gekishin-squadra",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "tutorial",
+   "g": 0,
+   "n": "Treinamento",
+   "d": "Complete o tutorial.",
+   "n_en": "Training",
+   "d_en": "Complete the tutorial.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "vitoria",
+   "g": 0,
+   "n": "Primeira vitória",
+   "d": "Vença uma partida 4x4.",
+   "n_en": "First win",
+   "d_en": "Win a 4v4 match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "esferas",
+   "g": 0,
+   "n": "Esferas do Dragão",
+   "d": "Junte as Esferas do Dragão numa partida e faça um desejo.",
+   "n_en": "Dragon Balls",
+   "d_en": "Gather the Dragon Balls in a match and make a wish.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "personagens",
+   "g": 0,
+   "n": "Personagens",
+   "d": "Libere todos os personagens disponíveis.",
+   "n_en": "Characters",
+   "d_en": "Unlock every available character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "funcoes",
+   "g": 0,
+   "n": "Funções",
+   "d": "Vença com personagens de cada função.",
+   "n_en": "Roles",
+   "d_en": "Win with characters of each role.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ranked",
+   "g": 0,
+   "n": "Ranqueada",
+   "d": "Jogue partidas ranqueadas.",
+   "n_en": "Ranked",
+   "d_en": "Play Ranked matches.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "passe",
+   "g": 0,
+   "n": "Passe",
+   "d": "Complete um passe de temporada.",
+   "n_en": "Pass",
+   "d_en": "Complete a season pass.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

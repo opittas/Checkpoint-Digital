@@ -1,0 +1,101 @@
+{
+ "id": "pokemon-pokopia",
+ "fonte": "Checklist do Checkpoint Digital",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "casa",
+   "g": 0,
+   "n": "Primeira casa",
+   "d": "Construa sua primeira casa na ilha.",
+   "n_en": "First house",
+   "d_en": "Build your first house on the island.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "habitats",
+   "g": 0,
+   "n": "Habitats",
+   "d": "Crie habitats para atrair Pokémon novos.",
+   "n_en": "Habitats",
+   "d_en": "Create habitats to attract new Pokémon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pokedex",
+   "g": 0,
+   "n": "Pokédex",
+   "d": "Registre todos os Pokémon que podem morar na ilha.",
+   "n_en": "Pokédex",
+   "d_en": "Register every Pokémon that can live on the island.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cidade",
+   "g": 0,
+   "n": "Cidade completa",
+   "d": "Construa todas as estruturas de uma cidade.",
+   "n_en": "Full town",
+   "d_en": "Build every structure in a town.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mundos",
+   "g": 0,
+   "n": "Novos mundos",
+   "d": "Libere todas as áreas cumprindo os requisitos de melhoria.",
+   "n_en": "New worlds",
+   "d_en": "Unlock every area by meeting the upgrade requirements.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "sonho",
+   "g": 0,
+   "n": "Ilha dos Sonhos",
+   "d": "Visite a Ilha dos Sonhos com o Drifloon.",
+   "n_en": "Dream Island",
+   "d_en": "Visit the Dream Island with Drifloon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fazenda",
+   "g": 0,
+   "n": "Fazendeiro",
+   "d": "Plante e colha em campos lavrados.",
+   "n_en": "Farmer",
+   "d_en": "Plant and harvest in tilled fields.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "moveis",
+   "g": 0,
+   "n": "Decorador",
+   "d": "Monte e personalize móveis e utilidades.",
+   "n_en": "Decorator",
+   "d_en": "Craft and customize furniture and utilities.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Você é um Ditto transformando uma ilha vazia num lar para Pokémon.",
+  "roadmap": [
+    {
+      "titulo": "1. Comece",
+      "texto": "Pegue tudo o que encontrar: galhos, pedras e até lixo servem depois."
+    },
+    {
+      "titulo": "2. Construir",
+      "texto": "Junte materiais e leve Pokémon com a habilidade certa ao local da obra. Construções levam tempo real."
+    },
+    {
+      "titulo": "3. Habitats",
+      "texto": "Cada Pokémon aparece num habitat próprio, às vezes só em certo horário ou clima."
+    },
+    {
+      "titulo": "4. Novas áreas",
+      "texto": "Cumpra os requisitos de melhoria para liberar outros mundos."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

@@ -1,0 +1,21 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Jogado pelo Nintendo Switch Online (Game Boy Advance).",
+  "roadmap": [
+    {
+      "titulo": "1. Kanto",
+      "texto": "Vença os 8 ginásios e a Liga."
+    },
+    {
+      "titulo": "2. Ilhas Sevii",
+      "texto": "Depois da Liga, siga para as Ilhas Sevii para liberar a Pokédex Nacional."
+    },
+    {
+      "titulo": "3. Lendários",
+      "texto": "Aves lendárias e Mewtwo na Caverna Desconhecida."
+    }
+  ],
+  "avisos": [
+    "Alguns Pokémon exigem troca com LeafGreen."
+  ],
+  "conquistas": {}
+}

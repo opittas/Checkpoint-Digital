@@ -1,0 +1,21 @@
+{
+  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Batalhas 4x4 online.",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Aprenda as funções e vença partidas em equipe."
+    },
+    {
+      "titulo": "2. Esferas",
+      "texto": "Junte as Esferas do Dragão durante a partida para o desejo."
+    },
+    {
+      "titulo": "3. Temporadas",
+      "texto": "Ranqueada e passe de temporada."
+    }
+  ],
+  "avisos": [
+    "Precisa de internet."
+  ],
+  "conquistas": {}
+}

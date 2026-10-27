@@ -1,0 +1,21 @@
+{
+  "resumo": "Futebol com carros. As conquistas são de partidas, exibições, temporadas e treinos.",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Jogue partidas online e offline."
+    },
+    {
+      "titulo": "2. Treino",
+      "texto": "Faça os treinos e o tutorial."
+    },
+    {
+      "titulo": "3. Feitos",
+      "texto": "Gols aéreos, defesas e vitórias saem jogando."
+    }
+  ],
+  "avisos": [
+    "Saiu da loja Steam, mas a lista continua valendo."
+  ],
+  "conquistas": {}
+}

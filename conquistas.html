@@ -23,7 +23,7 @@
 <!--/SEO-->
 <meta name="description" content="Guias de conquistas e troféus com checklist de progresso, raridade e roteiro para platinar.">
 <link rel="stylesheet" href="shared.css?v=acdc1308">
-<link rel="stylesheet" href="conquistas-app.css?v=3b11cbda">
+<link rel="stylesheet" href="conquistas-app.css?v=58e50520">
 </head>
 <body>
 
@@ -159,6 +159,7 @@
           <div class="ck-fallback">🎮</div>
           <img src="${CK.imgSrc(j.image)}" alt="${CK.esc(j.title)}" loading="lazy" onerror="this.remove()">
           ${badge}
+          ${j.mode === 'checklist' ? `<span class="ck-orig" title="${T('Lista criada pelo Checkpoint Digital para jogos sem conquistas oficiais', 'List created by Checkpoint Digital for games without official achievements')}">✦ ${T('Original Checkpoint', 'Checkpoint Original')}</span>` : ''}
         </div>
         <div class="ck-card-body">
           <div>

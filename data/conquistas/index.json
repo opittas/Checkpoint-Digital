@@ -220,12 +220,15 @@
   "atualizado": null
  },
  "botw": {
-  "total": 11,
+  "total": 12,
   "base": 9,
   "dlcs": {
    "Passe de Expansão": [
     "espadas_dlc",
     "balada_dlc"
+   ],
+   "Nintendo Switch 2 Edition": [
+    "zeldanotes"
    ]
   },
   "atualizado": null
@@ -1516,7 +1519,7 @@
   "total": 9,
   "base": 8,
   "dlcs": {
-   "Star-Crossed World": [
+   "Nintendo Switch 2 Edition + Star-Crossed World": [
     "estrela"
    ]
   },

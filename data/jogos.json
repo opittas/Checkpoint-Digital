@@ -165,7 +165,8 @@
     "labels": {
       "xbox": "1000G",
       "ps": "Platina",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 9,
     "hours": "80–120h",
@@ -197,7 +198,8 @@
     "labels": {
       "xbox": "1000G",
       "ps": "Platina",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 9,
     "hours": "150–250h",
@@ -365,7 +367,7 @@
   },
   {
     "id": "botw",
-    "title": "Zelda: Breath of the Wild (Nintendo Switch 2 Edition)",
+    "title": "The Legend of Zelda: Breath of the Wild",
     "developer": "Nintendo EPD",
     "year": 2017,
     "steam_appid": null,
@@ -373,7 +375,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "150h+",
@@ -400,7 +402,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Sem conquistas"
+      "nin": ""
     },
     "difficulty": null,
     "hours": null,
@@ -432,7 +434,8 @@
     "labels": {
       "xbox": "1000G",
       "ps": "Platina",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 8,
     "hours": "25–40h",
@@ -465,7 +468,8 @@
     "labels": {
       "xbox": "1000G",
       "ps": "Platina",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "20–30h",
@@ -496,7 +500,8 @@
     ],
     "labels": {
       "xbox": "1000G",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 8,
     "hours": "40–60h",
@@ -526,7 +531,8 @@
     ],
     "labels": {
       "xbox": "200G",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "25–35h",
@@ -558,7 +564,8 @@
     "labels": {
       "xbox": "",
       "ps": "Troféus",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 9,
     "hours": "30–60h",
@@ -590,7 +597,8 @@
     "labels": {
       "xbox": "1000G",
       "ps": "Platina",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "50–70h",
@@ -623,7 +631,8 @@
     "labels": {
       "xbox": "1000G",
       "ps": "Troféus",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "40–60h",
@@ -655,7 +664,8 @@
     "labels": {
       "xbox": "1000G",
       "ps": "Troféus",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 2,
     "hours": "30–40h",
@@ -763,7 +773,8 @@
       "nin"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "6–10h",
@@ -984,7 +995,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "30–60h",
@@ -3847,7 +3858,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 1,
     "hours": "4–6h",
@@ -3880,7 +3891,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 8,
     "hours": "15–30h",
@@ -3913,7 +3924,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 6,
     "hours": "60–100h",
@@ -3946,7 +3957,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "30–40h",
@@ -3979,7 +3990,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 8,
     "hours": "50–80h",
@@ -4012,7 +4023,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "20–30h",
@@ -4040,7 +4051,7 @@
     ],
     "labels": {
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "10–20h",
@@ -4073,7 +4084,7 @@
       "xbox": "1000G",
       "ps": "Troféus",
       "steam": "",
-      "nin": "Lista da Steam"
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "100h+",
@@ -4099,7 +4110,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "60–100h",
@@ -4124,7 +4135,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "80–150h",
@@ -4152,7 +4163,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "25–40h",
@@ -4177,7 +4188,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "Contínuo",
@@ -4203,7 +4214,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 2,
     "hours": "40–80h",
@@ -4229,7 +4240,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "Contínuo",
@@ -4255,7 +4266,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "50–80h",
@@ -4282,7 +4293,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "100h+",
@@ -4299,7 +4310,7 @@
   },
   {
     "id": "kirby-forgotten-land",
-    "title": "Kirby e a Terra Esquecida",
+    "title": "Kirby and the Forgotten Land",
     "developer": "HAL Laboratory",
     "year": 2022,
     "steam_appid": null,
@@ -4307,7 +4318,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "25–40h",
@@ -4325,7 +4336,7 @@
   },
   {
     "id": "pokemon-firered",
-    "title": "Pokémon FireRed",
+    "title": "Pokémon FireRed Version",
     "developer": "Game Freak",
     "year": 2004,
     "steam_appid": null,
@@ -4333,7 +4344,7 @@
       "nin"
     ],
     "labels": {
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "30–50h",
@@ -4362,7 +4373,7 @@
     ],
     "labels": {
       "steam": "",
-      "nin": "Checklist 100%"
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "Contínuo",

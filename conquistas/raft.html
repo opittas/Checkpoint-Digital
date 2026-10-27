@@ -22,7 +22,7 @@
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/raft.jpg">
 <!--/SEO-->
 <link rel="stylesheet" href="../shared.css?v=acdc1308">
-<link rel="stylesheet" href="../conquistas-app.css?v=3b11cbda">
+<link rel="stylesheet" href="../conquistas-app.css?v=58e50520">
 </head>
 <body>
 
@@ -111,6 +111,7 @@
             <h1 class="g-title">${esc(game.title)}</h1>
             <div class="g-dev">${esc(game.developer)} · ${game.year}</div>
             <div class="ck-plats" style="margin-bottom:12px">${CK.platBadges(game)}</div>
+            ${game.mode === 'checklist' ? `<div class="g-orig"><b>✦ ${T('Conquistas originais Checkpoint', 'Checkpoint original achievements')}</b><span>${T('Este jogo não tem conquistas oficiais. Esta lista foi criada pela equipe do Checkpoint Digital para você acompanhar o seu 100%.', 'This game has no official achievements. This list was created by the Checkpoint Digital team so you can track your 100%.')}</span></div>` : ''}
             <div class="g-chips">${chips}</div>
             <div style="margin-top:14px" id="lib-slot">${libBtnHTML()}</div>
           </div>

@@ -4,30 +4,30 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
-<title>Zelda: Breath of the Wild (Nintendo Switch 2 Edition) — Guia de Conquistas e Troféus · Checkpoint Digital</title>
+<title>The Legend of Zelda: Breath of the Wild — Guia de Conquistas e Troféus · Checkpoint Digital</title>
 <!--SEO-->
-<meta name="description" content="Todas as 9 conquistas de Zelda: Breath of the Wild (Nintendo Switch 2 Edition) (+2 de DLC) com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta name="description" content="Todas as 9 conquistas de The Legend of Zelda: Breath of the Wild (+3 de DLC) com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/conquistas/botw.html">
 <meta property="og:site_name" content="Checkpoint Digital">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Zelda: Breath of the Wild (Nintendo Switch 2 Edition) — Guia de Conquistas e Troféus · Checkpoint Digital">
-<meta property="og:description" content="Todas as 9 conquistas de Zelda: Breath of the Wild (Nintendo Switch 2 Edition) (+2 de DLC) com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta property="og:title" content="The Legend of Zelda: Breath of the Wild — Guia de Conquistas e Troféus · Checkpoint Digital">
+<meta property="og:description" content="Todas as 9 conquistas de The Legend of Zelda: Breath of the Wild (+3 de DLC) com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
 <meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/conquistas/botw.html">
 <meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/botw.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Zelda: Breath of the Wild (Nintendo Switch 2 Edition) — Guia de Conquistas e Troféus · Checkpoint Digital">
-<meta name="twitter:description" content="Todas as 9 conquistas de Zelda: Breath of the Wild (Nintendo Switch 2 Edition) (+2 de DLC) com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta name="twitter:title" content="The Legend of Zelda: Breath of the Wild — Guia de Conquistas e Troféus · Checkpoint Digital">
+<meta name="twitter:description" content="Todas as 9 conquistas de The Legend of Zelda: Breath of the Wild (+3 de DLC) com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/botw.jpg">
 <!--/SEO-->
 <link rel="stylesheet" href="../shared.css?v=acdc1308">
-<link rel="stylesheet" href="../conquistas-app.css?v=3b11cbda">
+<link rel="stylesheet" href="../conquistas-app.css?v=58e50520">
 </head>
 <body>
 
 <header class="site-header" id="site-header"></header>
-<div id="app"><main class="ck-wrap" style="padding:40px 24px"><h1>Zelda: Breath of the Wild (Nintendo Switch 2 Edition) — Conquistas</h1><p>Jogos da Nintendo não têm sistema de conquistas. Esta é uma checklist de 100% para você acompanhar o que falta — marque cada meta concluída.</p><ul><li>Santuários</li><li>Sementes Korok</li><li>Feras Divinas</li><li>Memórias</li><li>Grandes Fadas</li><li>Espada Mestra</li><li>Escudo Hyliano</li><li>Compêndio de Hyrule</li><li>Calamidade Ganon</li><li>Prova da Espada (DLC)</li><li>A Balada dos Campeões (DLC)</li></ul></main></div>
+<div id="app"><main class="ck-wrap" style="padding:40px 24px"><h1>The Legend of Zelda: Breath of the Wild — Conquistas</h1><p>Jogos da Nintendo não têm sistema de conquistas. Esta é uma checklist de 100% para você acompanhar o que falta — marque cada meta concluída.</p><ul><li>Santuários</li><li>Sementes Korok</li><li>Feras Divinas</li><li>Memórias</li><li>Grandes Fadas</li><li>Espada Mestra</li><li>Escudo Hyliano</li><li>Compêndio de Hyrule</li><li>Calamidade Ganon</li><li>Prova da Espada (DLC)</li><li>A Balada dos Campeões (DLC)</li><li>Zelda Notes</li></ul></main></div>
 <footer id="site-footer"></footer>
 <script>window.JOGO_ID = "botw";</script>
 
@@ -111,6 +111,7 @@
             <h1 class="g-title">${esc(game.title)}</h1>
             <div class="g-dev">${esc(game.developer)} · ${game.year}</div>
             <div class="ck-plats" style="margin-bottom:12px">${CK.platBadges(game)}</div>
+            ${game.mode === 'checklist' ? `<div class="g-orig"><b>✦ ${T('Conquistas originais Checkpoint', 'Checkpoint original achievements')}</b><span>${T('Este jogo não tem conquistas oficiais. Esta lista foi criada pela equipe do Checkpoint Digital para você acompanhar o seu 100%.', 'This game has no official achievements. This list was created by the Checkpoint Digital team so you can track your 100%.')}</span></div>` : ''}
             <div class="g-chips">${chips}</div>
             <div style="margin-top:14px" id="lib-slot">${libBtnHTML()}</div>
           </div>

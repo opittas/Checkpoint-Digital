@@ -10,6 +10,10 @@
   {
    "nome": "Passe de Expansão",
    "dlc": 1
+  },
+  {
+   "nome": "Nintendo Switch 2 Edition",
+   "dlc": 2
   }
  ],
  "conquistas": [
@@ -144,6 +148,17 @@
    "i": null,
    "p": null,
    "qtd": 1
+  },
+  {
+   "k": "zeldanotes",
+   "g": 2,
+   "n": "Zelda Notes",
+   "d": "Use o Zelda Notes no app Nintendo Switch (recurso do pacote Nintendo Switch 2 Edition, vendido à parte).",
+   "n_en": "Zelda Notes",
+   "d_en": "Use Zelda Notes in the Nintendo Switch App (feature of the separately sold Nintendo Switch 2 Edition upgrade).",
+   "h": 0,
+   "i": null,
+   "p": null
   }
  ]
 }

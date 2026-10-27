@@ -1,0 +1,19 @@
+{
+  "resumo": "Terror com plataforma. Conquistas de história, segredos e DLCs.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine os capítulos."
+    },
+    {
+      "titulo": "2. Segredos",
+      "texto": "Quebre as estátuas e acenda as lanternas."
+    },
+    {
+      "titulo": "3. DLCs",
+      "texto": "As expansões contam a história do Fugitivo."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

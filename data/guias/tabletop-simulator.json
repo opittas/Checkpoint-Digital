@@ -1,0 +1,19 @@
+{
+  "resumo": "Mesa virtual. Muitas conquistas são de tempo de jogo (até 1000 horas) e piadas, como virar a mesa.",
+  "roadmap": [
+    {
+      "titulo": "1. Rápidas",
+      "texto": "Tutorial em menos de 30 s, virar a mesa, gravidade zero e luzes."
+    },
+    {
+      "titulo": "2. Com amigos",
+      "texto": "Sala cheia de 8, jogar com amigo da lista e partida de xadrez por 1 h."
+    },
+    {
+      "titulo": "3. Tempo",
+      "texto": "As de horas saem com o tempo; a de 1000 h é a mais longa."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

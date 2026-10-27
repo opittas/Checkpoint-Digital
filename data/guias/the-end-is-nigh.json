@@ -1,0 +1,25 @@
+{
+  "resumo": "Plataforma de precisão do criador de Super Meat Boy. Muito conteúdo: tumores, cartuchos e áreas secretas.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine as áreas principais."
+    },
+    {
+      "titulo": "2. Tumores",
+      "texto": "Colete os tumores (até 450)."
+    },
+    {
+      "titulo": "3. Cartuchos",
+      "texto": "Ache e termine os cartuchos retrô, inclusive sem morrer."
+    },
+    {
+      "titulo": "4. Extremas",
+      "texto": "Menos de 200 mortes, zerar em 1h30 e Deus de Ferro."
+    }
+  ],
+  "avisos": [
+    "Algumas conquistas são das mais difíceis da Steam."
+  ],
+  "conquistas": {}
+}

@@ -1,0 +1,54 @@
+{
+ "GAME_STARTED": {
+  "n": "A Aventura do Copo Começa!",
+  "d": "Comece um jogo novo"
+ },
+ "ICE_CLIMB_STARTED": {
+  "n": "Rumo à Montanha Gelada",
+  "d": "Comece a fase 7"
+ },
+ "ETHANOL_TEMPLE_STARTED": {
+  "n": "Onde a Cerveja Corre como Etanol",
+  "d": "Comece a fase 13"
+ },
+ "MINISTRY_INFILTRATION_STARTED": {
+  "n": "Derrube os Soberanos",
+  "d": "Comece a fase 19"
+ },
+ "GAME_COMPLETE": {
+  "n": "Paraíso dos Copos",
+  "d": "Termine o jogo"
+ },
+ "COASTERS_COLLECTED_10": {
+  "n": "Um Lugar para o Copo",
+  "d": "Colete 10 porta-copos"
+ },
+ "COASTERS_COLLECTED_25": {
+  "n": "Um Punhado de Lembranças",
+  "d": "Colete 25 porta-copos"
+ },
+ "COASTERS_COLLECTED_40": {
+  "n": "40 Bandejas e 40 Copos",
+  "d": "Colete 40 porta-copos"
+ },
+ "COASTERS_COLLECTED_72": {
+  "n": "Os Últimos São Sempre os Mais Difíceis",
+  "d": "Colete 72 porta-copos"
+ },
+ "LEVEL_CREATED": {
+  "n": "Um Pouco de Cevada e Água",
+  "d": "Salve uma fase no modo editor"
+ },
+ "COASTERS_COLLECTED_50": {
+  "n": "Protetores de 50 Graus",
+  "d": "Colete 50 porta-copos"
+ },
+ "COASTERS_COLLECTED_60": {
+  "n": "60 Graus de Embriaguez",
+  "d": "Colete 60 porta-copos"
+ },
+ "COASTERS_COLLECTED_70": {
+  "n": "Arranjo de Platina",
+  "d": "Colete 70 porta-copos"
+ }
+}

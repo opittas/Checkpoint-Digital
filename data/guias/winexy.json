@@ -1,0 +1,15 @@
+{
+  "resumo": "Puzzle curto.",
+  "roadmap": [
+    {
+      "titulo": "1. Fases",
+      "texto": "Termine todos os tipos de fase e pegue as letras B-O-N-U-S."
+    },
+    {
+      "titulo": "2. Ouro",
+      "texto": "Termine todas as fases no ouro e a fase de speedrun."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

@@ -1,0 +1,21 @@
+{
+  "resumo": "Sobrevivência com dinossauros. Conquistas de chefes, níveis e mapas.",
+  "roadmap": [
+    {
+      "titulo": "1. Base e domesticação",
+      "texto": "Construa abrigo, domestique dinossauros e suba de nível."
+    },
+    {
+      "titulo": "2. Cavernas e artefatos",
+      "texto": "Pegue os artefatos das cavernas para invocar os chefes."
+    },
+    {
+      "titulo": "3. Chefes",
+      "texto": "Derrote os guardiões de cada mapa com um exército domado."
+    }
+  ],
+  "avisos": [
+    "Chefes exigem muito preparo; é mais fácil em servidor próprio ou single."
+  ],
+  "conquistas": {}
+}

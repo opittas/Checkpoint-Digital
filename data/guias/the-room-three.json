@@ -1,0 +1,15 @@
+{
+  "resumo": "Puzzle de caixas misteriosas com vários finais.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Resolva as salas principais."
+    },
+    {
+      "titulo": "2. Finais",
+      "texto": "O jogo tem finais diferentes: depois do primeiro, volte para pegar os outros."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

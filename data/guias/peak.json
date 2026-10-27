@@ -1,0 +1,17 @@
+{
+  "resumo": "Escalada cooperativa: chegue ao topo da montanha com seus amigos e ganhe distintivos.",
+  "roadmap": [
+    {
+      "titulo": "1. Subir",
+      "texto": "Coopere para escalar, dividindo comida e ajudando com cordas."
+    },
+    {
+      "titulo": "2. Distintivos",
+      "texto": "Cada distintivo é uma conquista: faça os desafios de bioma e de grupo."
+    }
+  ],
+  "avisos": [
+    "Melhor com amigos."
+  ],
+  "conquistas": {}
+}

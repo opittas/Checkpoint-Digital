@@ -1,0 +1,21 @@
+{
+  "resumo": "Battle royale. Conquistas de vitórias (Chicken Dinner), abates e modos.",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Jogue solo, dupla e esquadrão."
+    },
+    {
+      "titulo": "2. Vitórias",
+      "texto": "A de Chicken Dinner solo é a mais difícil."
+    },
+    {
+      "titulo": "3. Feitos",
+      "texto": "Abates com armas específicas e distância."
+    }
+  ],
+  "avisos": [
+    "Precisa de online."
+  ],
+  "conquistas": {}
+}

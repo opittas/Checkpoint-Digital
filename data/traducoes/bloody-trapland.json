@@ -1,0 +1,118 @@
+{
+ "ACH_FLY": {
+  "n": "Gatinho Voa!",
+  "d": "Fez um pulo no ar."
+ },
+ "ACH_CAKE": {
+  "n": "O Bolo É uma Mentira!",
+  "d": "Caiu em queda livre por portais."
+ },
+ "ACH_DEDICATED": {
+  "n": "Símbolo de Dedicação!",
+  "d": "Terminou o modo Aventura e pegou todas as estrelas do modo Corrida."
+ },
+ "ACH_WORLD1_COMPLETE": {
+  "n": "E Assim Começa!",
+  "d": "Completou o mundo 1 no modo Aventura."
+ },
+ "ACH_WORLD2_COMPLETE": {
+  "n": "Depois da Chuva Vem o Sol!",
+  "d": "Completou o mundo 2 no modo Aventura."
+ },
+ "ACH_WORLD3_COMPLETE": {
+  "n": "Fácil, Né?",
+  "d": "Completou o mundo 3 no modo Aventura."
+ },
+ "ACH_WORLD4_COMPLETE": {
+  "n": "Gelado, Né?",
+  "d": "Completou o mundo 4 no modo Aventura."
+ },
+ "ACH_WORLD5_COMPLETE": {
+  "n": "De um Inferno para Outro.",
+  "d": "Completou o mundo 5 no modo Aventura."
+ },
+ "ACH_HALLOFFAME": {
+  "n": "Hall da Fama.",
+  "d": "Terminou o modo Aventura."
+ },
+ "ACH_COOP": {
+  "n": "Quanto Mais, Mais Sangrento!",
+  "d": "Jogou uma partida com outros jogadores."
+ },
+ "ACH_SPRINGBOARD": {
+  "n": "O Trampolim Perfeito!",
+  "d": "Pulou usando outro jogador como trampolim."
+ },
+ "ACH_1_STARS": {
+  "n": "Estrela Dourada!",
+  "d": "Pegou uma estrela dourada."
+ },
+ "ACH_3_STARS": {
+  "n": "Gato-Truque!",
+  "d": "Pegou 3 estrelas douradas."
+ },
+ "ACH_10_STARS": {
+  "n": "Que Classe!",
+  "d": "Pegou 10 estrelas douradas."
+ },
+ "ACH_25_STARS": {
+  "n": "Estrelas, Estrelas, Estrelas!",
+  "d": "Pegou 25 estrelas douradas."
+ },
+ "ACH_50_STARS": {
+  "n": "Só Mais Algumas!",
+  "d": "Pegue 50 estrelas douradas."
+ },
+ "ACH_COLLECTOR": {
+  "n": "O Colecionador.",
+  "d": "Pegou todas as estrelas douradas."
+ },
+ "ACH_SECRET_A5": {
+  "n": "Jogo Sujo!",
+  "d": "Encontrou uma fase secreta."
+ },
+ "ACH_SECRET_A8": {
+  "n": "Por uma Boa Causa.",
+  "d": "Encontrou uma fase secreta."
+ },
+ "ACH_SECRET_B4": {
+  "n": "Um Risco que Vale a Pena.",
+  "d": "Encontrou uma fase secreta."
+ },
+ "ACH_SECRET_C5": {
+  "n": "O Caminho Esquecido.",
+  "d": "Encontrou uma fase secreta."
+ },
+ "ACH_SECRET_D4": {
+  "n": "Só um Pouco Mais Alto!",
+  "d": "Encontrou uma fase secreta."
+ },
+ "ACH_SECRET_E6": {
+  "n": "Você Só Tinha um Trabalho!",
+  "d": "Encontrou uma fase secreta."
+ },
+ "ACH_SECRET_ALL": {
+  "n": "Que Segredos?",
+  "d": "Encontre todas as fases secretas."
+ },
+ "ACH_WIN_RACE_1": {
+  "n": "Rápido como um Gato!",
+  "d": "Ficou em primeiro numa corrida."
+ },
+ "ACH_WIN_RACE_5": {
+  "n": "Exibido!",
+  "d": "Terminou em 1º em 5 fases de corrida."
+ },
+ "ACH_WIN_RACE_20": {
+  "n": "Gato Bolt",
+  "d": "Terminou em 1º em 20 fases de corrida."
+ },
+ "ACH_WIN_DEATH_1": {
+  "n": "Primeiro Sangue!",
+  "d": "Venceu 1 partida de mata-mata."
+ },
+ "ACH_WIN_DEATH_5": {
+  "n": "Assassino em Série.",
+  "d": "Venceu 5 partidas de mata-mata."
+ }
+}

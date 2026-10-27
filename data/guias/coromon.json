@@ -1,0 +1,23 @@
+{
+  "resumo": "RPG de monstrinhos estilo Pokémon. A lista é grande, mas quase tudo sai jogando e explorando.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Derrote os titãs e termine a história."
+    },
+    {
+      "titulo": "2. Captura",
+      "texto": "Capture todas as espécies; use iscas e aromas."
+    },
+    {
+      "titulo": "3. Segredos",
+      "texto": "Roupas escondidas, crop circle e cavernas dentro de cavernas."
+    },
+    {
+      "titulo": "4. Dificuldade",
+      "texto": "Termine no Insano para Imparável."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

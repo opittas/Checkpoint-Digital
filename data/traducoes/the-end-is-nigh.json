@@ -1,0 +1,426 @@
+{
+ "stage_1": {
+  "n": "Estágio I",
+  "d": "Colete 50 tumores"
+ },
+ "stage_2": {
+  "n": "Estágio II",
+  "d": "Colete 100 tumores"
+ },
+ "stage_3": {
+  "n": "Estágio III",
+  "d": "Colete 170 tumores"
+ },
+ "stage_4": {
+  "n": "Estágio IV",
+  "d": "Colete 300 tumores"
+ },
+ "stage_5": {
+  "n": "Estágio V",
+  "d": "Colete 450 tumores"
+ },
+ "beat_main_1": {
+  "n": "O Fim",
+  "d": "Complete O Fim"
+ },
+ "beat_main_2": {
+  "n": "As Planícies Áridas",
+  "d": "Complete As Planícies Áridas"
+ },
+ "beat_main_3": {
+  "n": "Transbordo",
+  "d": "Complete Transbordo"
+ },
+ "beat_main_4a": {
+  "n": "O Muro da Tristeza",
+  "d": "Complete O Muro da Tristeza"
+ },
+ "beat_main_4b": {
+  "n": "Retrógrado",
+  "d": "Complete Retrógrado"
+ },
+ "beat_main_4c": {
+  "n": "As Cavidades",
+  "d": "Complete As Cavidades"
+ },
+ "beat_main_5a": {
+  "n": "SS Êxodo",
+  "d": "Complete SS Êxodo"
+ },
+ "beat_main_5b": {
+  "n": "A Máquina",
+  "d": "Complete A Máquina"
+ },
+ "beat_main_5c": {
+  "n": "Gólgota",
+  "d": "Complete Gólgota"
+ },
+ "got_dark_world": {
+  "n": "O Futuro!",
+  "d": "Complete O Passado"
+ },
+ "beat_main_1d": {
+  "n": "Angústia!",
+  "d": "Complete Angústia"
+ },
+ "beat_main_2d": {
+  "n": "Melancolia!!",
+  "d": "Complete Melancolia"
+ },
+ "beat_main_3d": {
+  "n": "Praga!!!",
+  "d": "Complete Praga"
+ },
+ "beat_main_6": {
+  "n": "Ruína!!!!",
+  "d": "Complete Ruína"
+ },
+ "beat_main_7": {
+  "n": "Nunca Mais",
+  "d": ". . ."
+ },
+ "game_all_items": {
+  "n": "Acumulador",
+  "d": "Colete todos os colecionáveis"
+ },
+ "carts_all_beat": {
+  "n": "Fúria Retrô!",
+  "d": "Complete todos os cartuchos"
+ },
+ "carts_all_achieve": {
+  "n": "Deus Retrô!",
+  "d": "Faça 100% em todos os cartuchos"
+ },
+ "carts_all_ironman": {
+  "n": "Pixels de Ferro!",
+  "d": "Complete todos os cartuchos sem morrer"
+ },
+ "true_god": {
+  "n": "DEUS MORTO!",
+  "d": "Faça tudo!"
+ },
+ "beat_main_escape": {
+  "n": "Aceitação",
+  "d": "Complete Aceitação"
+ },
+ "main_game_lowdeath": {
+  "n": "IMORTAL!",
+  "d": "Complete o jogo principal com menos de 200 mortes"
+ },
+ "main_game_speedrun": {
+  "n": "VIVA RÁPIDO, MORRA!",
+  "d": "Complete o jogo em uma hora e meia ou menos"
+ },
+ "cart_c1_beat": {
+  "n": "Morta Man - O Mínimo",
+  "d": "Complete Morta Man"
+ },
+ "cart_c1_nocontinue": {
+  "n": "Morta Man - Sem Continue",
+  "d": "Complete Morta Man sem usar continue"
+ },
+ "cart_c1_halfcoins": {
+  "n": "Morta Man - Meio Vazio",
+  "d": "Complete Morta Man com 50+ anéis"
+ },
+ "cart_c1_allcoins": {
+  "n": "Morta Man - 100% de Nada!",
+  "d": "Complete Morta Man com 100 anéis"
+ },
+ "cart_c1_ironman": {
+  "n": "Morta Man - Inquebrável",
+  "d": "Complete Morta Man sem morrer"
+ },
+ "cart_c2_beat": {
+  "n": "Blaster Massacre - O Mínimo",
+  "d": "Complete Blaster Massacre"
+ },
+ "cart_c2_nocontinue": {
+  "n": "Blaster Massacre - Sem Continue",
+  "d": "Complete Blaster Massacre sem usar continue"
+ },
+ "cart_c2_halfcoins": {
+  "n": "Blaster Massacre - Meio Vazio",
+  "d": "Complete Blaster Massacre com 50+ anéis"
+ },
+ "cart_c2_allcoins": {
+  "n": "Blaster Massacre - 100% de Nada!",
+  "d": "Complete Blaster Massacre com 100 anéis"
+ },
+ "cart_c2_ironman": {
+  "n": "Blaster Massacre - Inquebrável",
+  "d": "Complete Blaster Massacre sem morrer"
+ },
+ "cart_c3_beat": {
+  "n": "River City Rancid - O Mínimo",
+  "d": "Complete River City Rancid"
+ },
+ "cart_c3_nocontinue": {
+  "n": "River City Rancid - Sem Continue",
+  "d": "Complete River City Rancid sem usar continue"
+ },
+ "cart_c3_halfcoins": {
+  "n": "River City Rancid - Meio Vazio",
+  "d": "Complete River City Rancid com 50+ anéis"
+ },
+ "cart_c3_allcoins": {
+  "n": "River City Rancid - 100% de Nada!",
+  "d": "Complete River City Rancid com 100 anéis"
+ },
+ "cart_c3_ironman": {
+  "n": "River City Rancid - Inquebrável",
+  "d": "Complete River City Rancid sem morrer"
+ },
+ "cart_c4a_beat": {
+  "n": "Ash Climber - O Mínimo",
+  "d": "Complete Ash Climber"
+ },
+ "cart_c4a_nocontinue": {
+  "n": "Ash Climber - Sem Continue",
+  "d": "Complete Ash Climber sem usar continue"
+ },
+ "cart_c4a_halfcoins": {
+  "n": "Ash Climber - Meio Vazio",
+  "d": "Complete Ash Climber com 50+ anéis"
+ },
+ "cart_c4a_allcoins": {
+  "n": "Ash Climber - 100% de Nada",
+  "d": "Complete Ash Climber com 100 anéis"
+ },
+ "cart_c4a_ironman": {
+  "n": "Ash Climber - Inquebrável",
+  "d": "Complete Ash Climber sem morrer"
+ },
+ "cart_c4b_beat": {
+  "n": "Rubble Bobble - O Mínimo",
+  "d": "Complete Rubble Bobble"
+ },
+ "cart_c4b_nocontinue": {
+  "n": "Rubble Bobble - Sem Continue",
+  "d": "Complete Rubble Bobble sem usar continue"
+ },
+ "cart_c4b_halfcoins": {
+  "n": "Rubble Bobble - Meio Vazio",
+  "d": "Complete Rubble Bobble com 50+ anéis"
+ },
+ "cart_c4b_allcoins": {
+  "n": "Rubble Bobble - 100% de Nada",
+  "d": "Complete Rubble Bobble com 100 anéis"
+ },
+ "cart_c4b_ironman": {
+  "n": "Rubble Bobble - Inquebrável",
+  "d": "Complete Rubble Bobble sem morrer"
+ },
+ "cart_c4c_beat": {
+  "n": "Catastrovania - O Mínimo",
+  "d": "Complete Catastrovania"
+ },
+ "cart_c4c_nocontinue": {
+  "n": "Catastrovania - Sem Continue",
+  "d": "Complete Catastrovania sem usar continue"
+ },
+ "cart_c4c_halfcoins": {
+  "n": "Catastrovania - Meio Vazio",
+  "d": "Complete Catastrovania com 50+ anéis"
+ },
+ "cart_c4c_allcoins": {
+  "n": "Catastrovania - 100% de Nada",
+  "d": "Complete Catastrovania com 100 anéis"
+ },
+ "cart_c4c_ironman": {
+  "n": "Catastrovania - Inquebrável",
+  "d": "Complete Catastrovania sem morrer"
+ },
+ "cart_c5a_beat": {
+  "n": "Fallen Fantasy - O Mínimo",
+  "d": "Complete Fallen Fantasy"
+ },
+ "cart_c5a_nocontinue": {
+  "n": "Fallen Fantasy - Sem Continue",
+  "d": "Complete Fallen Fantasy sem usar continue"
+ },
+ "cart_c5a_halfcoins": {
+  "n": "Fallen Fantasy - Meio Vazio",
+  "d": "Complete Fallen Fantasy com 50+ anéis"
+ },
+ "cart_c5a_allcoins": {
+  "n": "Fallen Fantasy - 100% de Nada",
+  "d": "Complete Fallen Fantasy com 100 anéis"
+ },
+ "cart_c5a_ironman": {
+  "n": "Fallen Fantasy - Inquebrável",
+  "d": "Complete Fallen Fantasy sem morrer"
+ },
+ "cart_c5b_beat": {
+  "n": "Morbid Gear - O Mínimo",
+  "d": "Complete Morbid Gear"
+ },
+ "cart_c5b_nocontinue": {
+  "n": "Morbid Gear - Sem Continue",
+  "d": "Complete Morbid Gear sem usar continue"
+ },
+ "cart_c5b_halfcoins": {
+  "n": "Morbid Gear - Meio Vazio",
+  "d": "Complete Morbid Gear com 50+ anéis"
+ },
+ "cart_c5b_allcoins": {
+  "n": "Morbid Gear - 100% de Nada",
+  "d": "Complete Morbid Gear com 100 anéis"
+ },
+ "cart_c5b_ironman": {
+  "n": "Morbid Gear - Inquebrável",
+  "d": "Complete Morbid Gear sem morrer"
+ },
+ "cart_c5c_beat": {
+  "n": "Dig Dead - O Mínimo",
+  "d": "Complete Dig Dead"
+ },
+ "cart_c5c_nocontinue": {
+  "n": "Dig Dead - Sem Continue",
+  "d": "Complete Dig Dead sem usar continue"
+ },
+ "cart_c5c_halfcoins": {
+  "n": "Dig Dead - Meio Vazio",
+  "d": "Complete Dig Dead com 50+ anéis"
+ },
+ "cart_c5c_allcoins": {
+  "n": "Dig Dead - 100% de Nada",
+  "d": "Complete Dig Dead com 100 anéis"
+ },
+ "cart_c5c_ironman": {
+  "n": "Dig Dead - Inquebrável",
+  "d": "Complete Dig Dead sem morrer"
+ },
+ "cart_c6_beat": {
+  "n": "The Super Mega Cart! - O Mínimo",
+  "d": "Complete The Super Mega Cart"
+ },
+ "cart_c6_nocontinue": {
+  "n": "The Super Mega Cart! - Sem Continue",
+  "d": "Complete The Super Mega Cart sem usar continue"
+ },
+ "cart_c6_halfcoins": {
+  "n": "The Super Mega Cart! - Meio Vazio",
+  "d": "Complete The Super Mega Cart com 500+ anéis"
+ },
+ "cart_c6_allcoins": {
+  "n": "The Super Mega Cart! - 100% de Nada",
+  "d": "Complete The Super Mega Cart com 1000 anéis"
+ },
+ "cart_c6_ironman": {
+  "n": "The Super Mega Cart! - Inquebrável",
+  "d": "Complete The Super Mega Cart sem morrer"
+ },
+ "cart_i1_beat": {
+  "n": "Negação...",
+  "d": "Complete Negação"
+ },
+ "cart_i2_beat": {
+  "n": "Raiva...",
+  "d": "Complete Raiva"
+ },
+ "cart_i3_beat": {
+  "n": "Barganha...",
+  "d": "Complete Barganha"
+ },
+ "cart_i4_beat": {
+  "n": "Depressão...",
+  "d": "Complete Depressão"
+ },
+ "cart_i5_beat": {
+  "n": "A Torre da Ascensão!",
+  "d": "Complete A Torre da Ascensão"
+ },
+ "cart_g0_beat": {
+  "n": "Ghosts n Grieving - Bugado",
+  "d": "Complete Ghosts n Grieving"
+ },
+ "cart_g0_ironman": {
+  "n": "Ghosts n Grieving - Inquebrável",
+  "d": "Complete Ghosts n Grieving sem morrer"
+ },
+ "cart_g1_beat": {
+  "n": "Spike Tales - Bugado",
+  "d": "Complete Spike Tales"
+ },
+ "cart_g1_ironman": {
+  "n": "Spike Tales - Inquebrável",
+  "d": "Complete Spike Tales sem morrer"
+ },
+ "cart_g2_beat": {
+  "n": "Scab or Die - Bugado",
+  "d": "Complete Scab or Die"
+ },
+ "cart_g2_ironman": {
+  "n": "Scab or Die - Inquebrável",
+  "d": "Complete Scab or Die sem morrer"
+ },
+ "cart_g3_beat": {
+  "n": "Tombs and Torture - Bugado",
+  "d": "Complete Tombs and Torture"
+ },
+ "cart_g3_ironman": {
+  "n": "Tombs and Torture - Inquebrável",
+  "d": "Complete Tombs and Torture sem morrer"
+ },
+ "cart_g4_beat": {
+  "n": "Pus Man - Bugado",
+  "d": "Complete Pus Man"
+ },
+ "cart_g4_ironman": {
+  "n": "Pus Man - Inquebrável",
+  "d": "Complete Pus Man sem morrer"
+ },
+ "cart_g5_beat": {
+  "n": "Dead Racer - Bugado",
+  "d": "Complete Dead Racer"
+ },
+ "cart_g5_ironman": {
+  "n": "Dead Racer - Inquebrável",
+  "d": "Complete Dead Racer sem morrer"
+ },
+ "cart_g9_beat": {
+  "n": "The End is Nigh! - Bugado",
+  "d": "Complete The End is Nigh!"
+ },
+ "cart_g9_ironman": {
+  "n": "The End is Nigh! - Inquebrável",
+  "d": "Complete The End is Nigh! sem morrer"
+ },
+ "good_ending": {
+  "n": "Mimi na Live",
+  "d": "Complete a live do Ash"
+ },
+ "unlock_supercart": {
+  "n": "O SUPER MEGA CARTUCHO!",
+  "d": "Colete os 9 cartuchos retrô do passado"
+ },
+ "unlock_towercart": {
+  "n": "A TORRE DA ASCENSÃO!",
+  "d": "Colete os 4 cartuchos retrô de ???"
+ },
+ "hundred_percent": {
+  "n": "ZEROU!",
+  "d": "Termine o jogo completo e todos os cartuchos"
+ },
+ "iron_cart1": {
+  "n": "Cartucho de Ferro I",
+  "d": "Colete o Cartucho de Ferro I do desconhecido"
+ },
+ "iron_cart2": {
+  "n": "Cartucho de Ferro II",
+  "d": "Colete o Cartucho de Ferro II do desconhecido"
+ },
+ "iron_cart3": {
+  "n": "Cartucho de Ferro III",
+  "d": "Colete o Cartucho de Ferro III do desconhecido"
+ },
+ "iron_cart4": {
+  "n": "Cartucho de Ferro IV",
+  "d": "Colete o Cartucho de Ferro IV do desconhecido"
+ },
+ "main_game_ironman": {
+  "n": "Deus de Ferro!",
+  "d": "Termine o jogo sem morrer (como o eenox)"
+ }
+}

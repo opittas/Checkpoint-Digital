@@ -1,0 +1,21 @@
+{
+  "resumo": "O hub do Call of Duty na Steam junta conquistas de várias campanhas e modos (Modern Warfare II/III, Black Ops 6 e outros), cada um numa aba.",
+  "roadmap": [
+    {
+      "titulo": "1. Campanhas",
+      "texto": "Termine as campanhas e faça os desafios de cada missão; nas mais difíceis, jogue no Veterano."
+    },
+    {
+      "titulo": "2. Multijogador",
+      "texto": "Muitas pedem jogar e vencer partidas online e subir de nível."
+    },
+    {
+      "titulo": "3. Zombies/DMZ",
+      "texto": "Os modos cooperativos têm conquistas próprias: jogue com amigos."
+    }
+  ],
+  "avisos": [
+    "Cada jogo do pacote só conta se você tiver ele."
+  ],
+  "conquistas": {}
+}

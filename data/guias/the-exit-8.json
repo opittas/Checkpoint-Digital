@@ -1,0 +1,15 @@
+{
+  "resumo": "Encontre anomalias num corredor de metrô em loop.",
+  "roadmap": [
+    {
+      "titulo": "1. Saia",
+      "texto": "Chegue à Saída 8 voltando sempre que vir algo estranho."
+    },
+    {
+      "titulo": "2. Anomalias",
+      "texto": "Para a segunda, encontre todas as anomalias (o jogo mostra a lista)."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

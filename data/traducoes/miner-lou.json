@@ -1,0 +1,190 @@
+{
+ "LEVEL1_VICTORY": {
+  "n": "Nível 1 Completo",
+  "d": "Complete a rodada 100 em qualquer dificuldade"
+ },
+ "LEVEL2_VICTORY": {
+  "n": "Nível 2 Completo",
+  "d": "Complete a rodada 50 em qualquer dificuldade"
+ },
+ "TUTORIAL_VICTORY": {
+  "n": "Tutorial Completo",
+  "d": "Complete o tutorial"
+ },
+ "LEVEL3_VICTORY": {
+  "n": "Nível 3 Completo",
+  "d": "Complete a rodada 50 em qualquer dificuldade"
+ },
+ "LEVEL4_VICTORY": {
+  "n": "Nível 4 Completo",
+  "d": "Complete a rodada 50 em qualquer dificuldade"
+ },
+ "LEVEL5_VICTORY": {
+  "n": "Nível 5 Completo",
+  "d": "Complete a rodada 50 em qualquer dificuldade"
+ },
+ "LEVEL6_VICTORY": {
+  "n": "Nível 6 Completo",
+  "d": "Complete a rodada 100 em qualquer dificuldade"
+ },
+ "KILLING_BLOWS_50": {
+  "n": "Derrote 50 Inimigos",
+  "d": "50 inimigos derrotados"
+ },
+ "KILLING_BLOWS_100": {
+  "n": "Derrote 100 Inimigos",
+  "d": "100 inimigos derrotados"
+ },
+ "KILLING_BLOWS_500": {
+  "n": "Derrote 500 Inimigos",
+  "d": "500 inimigos derrotados"
+ },
+ "KILLING_BLOWS_1000": {
+  "n": "Derrote 1000 Inimigos",
+  "d": "1000 inimigos derrotados"
+ },
+ "KILLING_BLOWS_5000": {
+  "n": "Derrote 5000 Inimigos",
+  "d": "5000 inimigos derrotados"
+ },
+ "KILLING_BLOWS_10000": {
+  "n": "Derrote 10.000 Inimigos",
+  "d": "10.000 inimigos derrotados"
+ },
+ "KILLING_BLOWS_100000": {
+  "n": "Derrote 100.000 Inimigos",
+  "d": "100.000 inimigos derrotados"
+ },
+ "KILLING_BLOWS_1000000": {
+  "n": "Derrote 1.000.000 de Inimigos",
+  "d": "1.000.000 de inimigos derrotados"
+ },
+ "DPS_DEALT_100": {
+  "n": "100 DPS",
+  "d": "Chegue a 100 DPS"
+ },
+ "DPS_DEALT_200": {
+  "n": "200 DPS",
+  "d": "Chegue a 200 DPS"
+ },
+ "DPS_DEALT_300": {
+  "n": "300 DPS",
+  "d": "Chegue a 300 DPS"
+ },
+ "DPS_DEALT_500": {
+  "n": "500 DPS",
+  "d": "Chegue a 400 DPS"
+ },
+ "DPS_DEALT_OVER999": {
+  "n": "Mais de 999",
+  "d": "Chegue a 999 DPS"
+ },
+ "LOU_KNOCKED_OUT_5": {
+  "n": "5 Nocautes",
+  "d": "Lou foi nocauteado 5 vezes"
+ },
+ "LOU_KNOCKED_OUT_25": {
+  "n": "25 Nocautes",
+  "d": "Lou foi nocauteado 25 vezes"
+ },
+ "LOU_KNOCKED_OUT_100": {
+  "n": "100 Nocautes",
+  "d": "Lou foi nocauteado 100 vezes"
+ },
+ "LOU_KNOCKED_OUT_1000": {
+  "n": "1000 Nocautes",
+  "d": "Lou foi nocauteado 1000 vezes"
+ },
+ "DAMAGE_DEALT_5000": {
+  "n": "Cause 5000 de Dano",
+  "d": "Cause 5000 de dano no total"
+ },
+ "DAMAGE_DEALT_10000": {
+  "n": "Cause 10.000 de Dano",
+  "d": "Cause 10.000 de dano no total"
+ },
+ "DAMAGE_DEALT_50000": {
+  "n": "Cause 50.000 de Dano",
+  "d": "Cause 50.000 de dano no total"
+ },
+ "DAMAGE_DEALT_100000": {
+  "n": "Cause 100.000 de Dano",
+  "d": "Cause 100.000 de dano no total"
+ },
+ "DAMAGE_DEALT_1000000": {
+  "n": "Cause 1.000.000 de Dano",
+  "d": "Cause 1.000.000 de dano no total"
+ },
+ "DAMAGE_DEALT_10000000": {
+  "n": "Cause 10.000.000 de Dano",
+  "d": "Cause 10.000.000 de dano no total"
+ },
+ "DPS_DEALT_1500": {
+  "n": "1500 DPS",
+  "d": "Chegue a 1500 DPS"
+ },
+ "DPS_DEALT_2000": {
+  "n": "2000 DPS",
+  "d": "Chegue a 2000 DPS"
+ },
+ "DPS_DEALT_3000": {
+  "n": "3000 DPS",
+  "d": "Chegue a 3000 DPS"
+ },
+ "DPS_DEALT_4000": {
+  "n": "4000 DPS",
+  "d": "Chegue a 4000 DPS"
+ },
+ "DPS_DEALT_5000": {
+  "n": "5000 DPS",
+  "d": "Chegue a 5000 DPS"
+ },
+ "DPS_DEALT_9999": {
+  "n": "Mais de 9999",
+  "d": "Chegue a 9999 DPS"
+ },
+ "LEVEL7_VICTORY": {
+  "n": "Nível 7 Completo",
+  "d": "Complete a rodada 75 em qualquer dificuldade"
+ },
+ "LEVEL8_VICTORY": {
+  "n": "Nível 8 Completo",
+  "d": "Complete a rodada 75 em qualquer dificuldade"
+ },
+ "LEVEL9_VICTORY": {
+  "n": "Nível 9 Completo",
+  "d": "Complete a rodada 100 em qualquer dificuldade"
+ },
+ "MUSHROOM_PERFECTION_STORY_1": {
+  "n": "Muito Cogumelo por Nada",
+  "d": "Colha todos os cogumelos do Bosque dos Cogumelos. (Modo História)"
+ },
+ "MUSHROOM_PERFECTION_ARCADE_1": {
+  "n": "Cogumelo para Crescer",
+  "d": "Colha todos os cogumelos do Bosque dos Cogumelos do Nível 6"
+ },
+ "FLICKERING_WISP_60": {
+  "n": "Melhores Amigos (Fogo-Fátuo Tremulante)",
+  "d": "Leve a Sinergia do Fogo-Fátuo Tremulante ao nível 60"
+ },
+ "BOUND_ROOT_60": {
+  "n": "Companhia Silenciosa (Raiz Presa)",
+  "d": "Leve a Sinergia da Raiz Presa ao nível 60"
+ },
+ "QUIET_EYES_60": {
+  "n": "Amizade Ardente (Olhos Quietos)",
+  "d": "Leve a Sinergia dos Olhos Quietos ao nível 60"
+ },
+ "DPS_DEALT_6000": {
+  "n": "6000 DPS",
+  "d": "Chegue a 6000 DPS"
+ },
+ "DPS_DEALT_7000": {
+  "n": "7000 DPS",
+  "d": "Chegue a 7000 DPS"
+ },
+ "DPS_DEALT_8000": {
+  "n": "8000 DPS",
+  "d": "Chegue a 8000 DPS"
+ }
+}

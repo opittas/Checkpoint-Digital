@@ -1,0 +1,19 @@
+{
+  "resumo": "Plataforma de velocidade em primeira pessoa.",
+  "roadmap": [
+    {
+      "titulo": "1. Capítulos",
+      "texto": "Termine o Prólogo e os 5 capítulos."
+    },
+    {
+      "titulo": "2. Tempo",
+      "texto": "Faça o tempo rápido em todas as fases."
+    },
+    {
+      "titulo": "3. Coleção",
+      "texto": "Pegue os colecionáveis e os itens secretos (sapo, espada, arma)."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

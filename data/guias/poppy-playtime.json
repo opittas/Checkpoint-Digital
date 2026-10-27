@@ -1,0 +1,304 @@
+{
+  "resumo": "Terror na fábrica Playtime Co. Cada capítulo tem suas conquistas; os capítulos 2 a 4 são vendidos à parte e ficam em abas separadas.",
+  "roadmap": [
+    {
+      "titulo": "1. Capítulo 1",
+      "texto": "Termine o capítulo e assista às fitas VHS."
+    },
+    {
+      "titulo": "2. Capítulos 2 a 4",
+      "texto": "Termine cada capítulo, pegue documentos, fitas e troféus escondidos."
+    },
+    {
+      "titulo": "3. Desafios",
+      "texto": "Sem morrer, rápido, sem lanterna e com poucos lançamentos do GrabPack."
+    }
+  ],
+  "avisos": [
+    "Os desafios sem morrer exigem conhecer bem as perseguições."
+  ],
+  "conquistas": {
+    "CH2_DISMEMBERED": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_TAKING_CHARGE": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_MUSICAL_MEMORY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_WHACK_A_WUGGY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_STATUES": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_WHAT_HAVE_YOU_DONE": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_ESCAPE": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_MEMORY_MASTER": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_SHOT_IN_THE_DARK": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_ABRIDGED": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_AHEAD_OF_SCHEDULE": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_UNDEFEATED": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_AVID_READER": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_AVID_LISTENER": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_DAISY_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_TRAIN_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_GREEN_HAND_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_BUNZO_BUNNY_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_KISSY_MISSY_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_PJ_PUG_A_PILLAR_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_BARRY_CART_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_MOMMY_LONG_LEGS_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_CLAW_TROPHY": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_SWEET_REVENGE": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_BAD_LISTENER": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_TALK_TO_THE_HAND": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_THE_SCARIEST_DINOSAUR": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_SUGAR_RUSH": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_BAD_HIDING_SPOT": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_IS_SHE_GONE_YET": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_YOURE_FIRED": {
+      "dlc": "Capítulo 2"
+    },
+    "CH2_WHISTLEBLOWER": {
+      "dlc": "Capítulo 2"
+    },
+    "CH3_WELCOME_TO_PLAYCARE": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_WELL_ARMED": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_BAD_DREAM": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_CLASS_DISMISSED": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_LAST_OF_THE_SMILING_CRITTERS": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_REMEMBER": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_THE_NIGHTMARE_ENDS": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_DELVING_DEEPER": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_EXPERT_NAVIGATOR": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_SNEAK_ATTACK": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_QUICK_LEARNER": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_ECO_FRIENDLY": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_SCREAMING_CRITTERS": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_THRILL_SEEKER": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_SELF_RESTRAINT": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_POPPYS_ANGEL": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_STUDIOUS": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_AVID_LISTENER": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_TIGHT_SQUEEZE": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_HURRY_UP": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_SLEEP_WELL": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_AIRTIME": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_MEMORY_LANE": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_SPEED_DEMON": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_STOP_HITTING_YOURSELF": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_BYE_KISSY": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_WORSHIP": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_EXTERMINATOR": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_LIONS_DEN": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_PREDATION": {
+      "dlc": "Capítulo 3"
+    },
+    "CH3_CANT_CATCH_ME": {
+      "dlc": "Capítulo 3"
+    },
+    "CH4_DONT_LOSE_IT_THIS_TIME": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_SANCTUARY": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_HOOK_LION_AND_SINKER": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_AN_APPLE_A_DAY": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_SAVIOR_OF_SAFE_HAVEN": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_COLD_BLOODED": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_START_RUNNING": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_UNTOUCHABLE": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_YOU_CAN_RUN": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_HOLD_YOUR_BREATH": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_PIPING_HOTSHOT": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_EFFICNCY": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_MANE_ATTRACTION": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_JOIN_THE_CHORUS": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_TRIPLE_TIMES_THE_FUN": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_DEAR_DIARY": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_AVID_READER": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_AVID_LISTENER": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_FEARLESS": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_SELF_RESTRAINT": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_ACCESS_DENIED": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_D_O_E_Y": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_PERSISTENT_PETS": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_RESCUE_MISSION": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_HAT_TRICK": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_MOMENT_OF_SILENCE": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_BOO": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_EAVESDROPPING": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_MUSCLE_MEMORY": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_HEART_OF_GOLD": {
+      "dlc": "Capítulo 4"
+    },
+    "CH4_UNCOVERING_THE_PAST": {
+      "dlc": "Capítulo 4"
+    }
+  }
+}

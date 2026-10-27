@@ -1,0 +1,23 @@
+{
+  "resumo": "Construa trilhos para o trem não bater. Melhor com amigos.",
+  "roadmap": [
+    {
+      "titulo": "1. Modo infinito",
+      "texto": "Chegue a 2000 m nas dificuldades fácil, médio e difícil."
+    },
+    {
+      "titulo": "2. Trilhos longos",
+      "texto": "Construa trilhos de até 4000 m."
+    },
+    {
+      "titulo": "3. Biomas",
+      "texto": "Visite inverno, deserto, inferno e espaço."
+    },
+    {
+      "titulo": "4. Piadas",
+      "texto": "Bata em 1337 m, leve uma vaca ao espaço e use dinamite em patos."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

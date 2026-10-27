@@ -1,0 +1,222 @@
+{
+ "ACH_REACH_LEVEL_10": {
+  "n": "O Começo",
+  "d": "Alcance o nível 10"
+ },
+ "ACH_REACH_LEVEL_20": {
+  "n": "Paciência É Tudo",
+  "d": "Alcance o nível 20"
+ },
+ "ACH_REACH_LEVEL_30": {
+  "n": "Torne-se a Pedra",
+  "d": "Alcance o nível 30"
+ },
+ "ACH_REACH_LEVEL_40": {
+  "n": "Sonhe com a Pedra",
+  "d": "Alcance o nível 40"
+ },
+ "ACH_REACH_LEVEL_50": {
+  "n": "Valorize a Pedra",
+  "d": "Alcance o nível 50"
+ },
+ "ACH_REACH_LEVEL_100": {
+  "n": "Viva pela Pedra",
+  "d": "Alcance o nível 100"
+ },
+ "ACH_REACH_LEVEL_200": {
+  "n": "Escute a Pedra",
+  "d": "Alcance o nível 200"
+ },
+ "ACH_REACH_LEVEL_300": {
+  "n": "Aprenda a Pedra",
+  "d": "Alcance o nível 300"
+ },
+ "ACH_REACH_LEVEL_400": {
+  "n": "Sinta a Pedra",
+  "d": "Alcance o nível 400"
+ },
+ "ACH_REACH_LEVEL_500": {
+  "n": "Abrace a Pedra",
+  "d": "Alcance o nível 500"
+ },
+ "ACH_REACH_LEVEL_1000": {
+  "n": "Entenda a Pedra",
+  "d": "Alcance o nível 1000"
+ },
+ "ACH_REACH_LEVEL_2000": {
+  "n": "Fale com a Pedra",
+  "d": "Alcance o nível 2000"
+ },
+ "ACH_REACH_LEVEL_3000": {
+  "n": "A Pedra Fala com Você",
+  "d": "Alcance o nível 3000"
+ },
+ "ACH_REACH_LEVEL_4000": {
+  "n": "Torne-se o que Imaginou",
+  "d": "Alcance o nível 4000"
+ },
+ "ACH_REACH_LEVEL_5000": {
+  "n": "Você É a Pedra",
+  "d": "Alcance o nível 5000"
+ },
+ "ACH_PLAINS_COMPLETE": {
+  "n": "Fácil Demais",
+  "d": "Complete o quebra-cabeça das Planícies"
+ },
+ "ACH_DESERT_COMPLETE": {
+  "n": "Moleza",
+  "d": "Complete o quebra-cabeça do Deserto"
+ },
+ "ACH_SPACE_COMPLETE": {
+  "n": "A Lua É uma Pedra?",
+  "d": "Complete o quebra-cabeça do Espaço"
+ },
+ "ACH_SNOW_COMPLETE": {
+  "n": "Como o Inverno Devia Ser...",
+  "d": "Complete o quebra-cabeça da Neve"
+ },
+ "ACH_CABIN_COMPLETE": {
+  "n": "Febre da Cabana",
+  "d": "Complete o quebra-cabeça da Cabana"
+ },
+ "ACH_NORTH_COMPLETE": {
+  "n": "Duro como Pedra",
+  "d": "Complete o quebra-cabeça do Norte"
+ },
+ "ACH_JUNGLE_COMPLETE": {
+  "n": "Ascensão",
+  "d": "Complete o quebra-cabeça da Selva"
+ },
+ "ACH_GOLDPOLISHED_PURCHASED": {
+  "n": "Ouro (Polido)",
+  "d": "Compre Ouro (Polido)"
+ },
+ "ACH_GOLDWORN_PURCHASED": {
+  "n": "Ouro (Gasto)",
+  "d": "Compre Ouro (Gasto)"
+ },
+ "ACH_SHADOWRED_PURCHASED": {
+  "n": "Sombra (Vermelha)",
+  "d": "Compre Sombra (Vermelha)"
+ },
+ "ACH_SHADOWPURPLE_PURCHASED": {
+  "n": "Sombra (Roxa)",
+  "d": "Compre Sombra (Roxa)"
+ },
+ "ACH_SHADOWGREEN_PURCHASED": {
+  "n": "Sombra (Verde)",
+  "d": "Compre Sombra (Verde)"
+ },
+ "ACH_SHADOWBLUE_PURCHASED": {
+  "n": "Sombra (Azul)",
+  "d": "Compre Sombra (Azul)"
+ },
+ "ACH_SHADOWYELLOW_PURCHASED": {
+  "n": "Sombra (Amarela)",
+  "d": "Compre Sombra (Amarela)"
+ },
+ "ACH_SHADOWWHITE_PURCHASED": {
+  "n": "Sombra (Branca)",
+  "d": "Compre Sombra (Branca)"
+ },
+ "ACH_HOLOBLUE_PURCHASED": {
+  "n": "Holo (Azul)",
+  "d": "Compre Holo (Azul)"
+ },
+ "ACH_HOLOWHITE_PURCHASED": {
+  "n": "Holo (Branco)",
+  "d": "Compre Holo (Branco)"
+ },
+ "ACH_HOLORED_PURCHASED": {
+  "n": "Holo (Vermelho)",
+  "d": "Compre Holo (Vermelho)"
+ },
+ "ACH_HOLOYELLOW_PURCHASED": {
+  "n": "Holo (Amarelo)",
+  "d": "Compre Holo (Amarelo)"
+ },
+ "ACH_HOLOGREEN_PURCHASED": {
+  "n": "Holo (Verde)",
+  "d": "Compre Holo (Verde)"
+ },
+ "ACH_HOLOPURPLE_PURCHASED": {
+  "n": "Holo (Roxo)",
+  "d": "Compre Holo (Roxo)"
+ },
+ "ACH_ALIEN_PURCHASED": {
+  "n": "Alienígena",
+  "d": "Compre Alienígena"
+ },
+ "ACH_PLASTICRED_PURCHASED": {
+  "n": "Plástico (Vermelho)",
+  "d": "Compre Plástico (Vermelho)"
+ },
+ "ACH_PLASTICWHITE_PURCHASED": {
+  "n": "Plástico (Branco)",
+  "d": "Compre Plástico (Branco)"
+ },
+ "ACH_PLASTICYELLOW_PURCHASED": {
+  "n": "Plástico (Amarelo)",
+  "d": "Compre Plástico (Amarelo)"
+ },
+ "ACH_PLASTICGREEN_PURCHASED": {
+  "n": "Plástico (Verde)",
+  "d": "Compre Plástico (Verde)"
+ },
+ "ACH_PLASTICPURPLE_PURCHASED": {
+  "n": "Plástico (Roxo)",
+  "d": "Compre Plástico (Roxo)"
+ },
+ "ACH_PLASTICBLUE_PURCHASED": {
+  "n": "Plástico (Azul)",
+  "d": "Compre Plástico (Azul)"
+ },
+ "ACH_STEELWORN_PURCHASED": {
+  "n": "Aço (Gasto)",
+  "d": "Compre Aço (Gasto)"
+ },
+ "ACH_STEELWORNGREEN_PURCHASED": {
+  "n": "Aço (Gasto) (Verde)",
+  "d": "Compre Aço (Gasto) (Verde)"
+ },
+ "ACH_STEELWORNPURPLE_PURCHASED": {
+  "n": "Aço (Gasto) (Roxo)",
+  "d": "Compre Aço (Gasto) (Roxo)"
+ },
+ "ACH_STEELWORNRED_PURCHASED": {
+  "n": "Aço (Gasto) (Vermelho)",
+  "d": "Compre Aço (Gasto) (Vermelho)"
+ },
+ "ACH_GRANITE_PURCHASED": {
+  "n": "Granito",
+  "d": "Compre Granito"
+ },
+ "ACH_PICNIC_PURCHASED": {
+  "n": "Piquenique",
+  "d": "Compre Piquenique"
+ },
+ "ACH_BRICK_PURCHASED": {
+  "n": "Tijolo",
+  "d": "Compre Tijolo"
+ },
+ "ACH_CARDBOARD_PURCHASED": {
+  "n": "Papelão",
+  "d": "Compre Papelão"
+ },
+ "ACH_CONCRETE_PURCHASED": {
+  "n": "Concreto",
+  "d": "Compre Concreto"
+ },
+ "ACH_MOSS_PURCHASED": {
+  "n": "Musgo",
+  "d": "Compre Musgo"
+ },
+ "ACH_LEATHER_PURCHASED": {
+  "n": "Couro",
+  "d": "Compre Couro"
+ },
+ "ACH_ASPHALT_PURCHASED": {
+  "n": "Asfalto",
+  "d": "Compre Asfalto"
+ }
+}

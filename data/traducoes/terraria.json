@@ -1,0 +1,550 @@
+{
+ "TIMBER": {
+  "n": "Madeiraaa!!",
+  "d": "Corte sua primeira árvore."
+ },
+ "NO_HOBO": {
+  "n": "Sem Sem-Teto",
+  "d": "Construa uma casa boa o bastante para seu primeiro NPC da cidade, como o guia, se mudar."
+ },
+ "OBTAIN_HAMMER": {
+  "n": "Pare! Hora do Martelo!",
+  "d": "Consiga seu primeiro martelo, fabricando ou de outro jeito."
+ },
+ "OOO_SHINY": {
+  "n": "Ooo! Brilhante!",
+  "d": "Minere sua primeira pepita de minério com uma picareta."
+ },
+ "HEART_BREAKER": {
+  "n": "Destruidor de Corações",
+  "d": "Encontre e quebre seu primeiro cristal de coração no subterrâneo."
+ },
+ "HEAVY_METAL": {
+  "n": "Heavy Metal",
+  "d": "Consiga uma bigorna de ferro ou chumbo."
+ },
+ "I_AM_LOOT": {
+  "n": "Eu Sou o Saque!",
+  "d": "Encontre um baú dourado no subterrâneo e dê uma olhada no conteúdo."
+ },
+ "STAR_POWER": {
+  "n": "Poder Estelar",
+  "d": "Fabrique um cristal de mana com estrelas cadentes e consuma-o."
+ },
+ "HOLD_ON_TIGHT": {
+  "n": "Segura Firme!",
+  "d": "Equipe seu primeiro gancho."
+ },
+ "EYE_ON_YOU": {
+  "n": "De Olho em Você",
+  "d": "Derrote o Olho de Cthulhu, uma ameaça ocular que só aparece à noite."
+ },
+ "SMASHING_POPPET": {
+  "n": "Arrasou, Querido!",
+  "d": "Com explosivos ou seu fiel martelo, quebre um Orbe Sombrio ou Coração Carmesim nas partes malignas do mundo."
+ },
+ "WORM_FODDER": {
+  "n": "Comida de Verme",
+  "d": "Derrote o Devorador de Mundos, um verme enorme que vive na Corrupção."
+ },
+ "MASTERMIND": {
+  "n": "Mente Brilhante",
+  "d": "Derrote o Cérebro de Cthulhu, um enorme cérebro demoníaco que assombra o Carmim."
+ },
+ "WHERES_MY_HONEY": {
+  "n": "Cadê Meu Mel?",
+  "d": "Encontre uma grande colmeia nas profundezas da selva."
+ },
+ "STING_OPERATION": {
+  "n": "Operação Ferrão",
+  "d": "Derrote a Abelha Rainha, matriarca das colmeias da selva."
+ },
+ "BONED": {
+  "n": "Ossos do Ofício",
+  "d": "Derrote o Esqueletron, guardião amaldiçoado da masmorra."
+ },
+ "DUNGEON_HEIST": {
+  "n": "Assalto à Masmorra",
+  "d": "Roube uma chave dos mortos-vivos da masmorra e abra um de seus preciosos baús dourados."
+ },
+ "ITS_GETTING_HOT_IN_HERE": {
+  "n": "Está Ficando Quente Aqui",
+  "d": "Desça fundo o bastante para chegar ao submundo derretido."
+ },
+ "MINER_FOR_FIRE": {
+  "n": "Minerador de Fogo",
+  "d": "Fabrique uma picareta derretida com os materiais mais quentes."
+ },
+ "STILL_HUNGRY": {
+  "n": "Ainda com Fome",
+  "d": "Derrote a Parede de Carne, mestre e núcleo do mundo, que surge depois de um grande sacrifício em chamas."
+ },
+ "ITS_HARD": {
+  "n": "Ficou Difícil!",
+  "d": "Liberte os espíritos antigos da luz e das trevas pelo mundo, trazendo inimigos muito mais fortes e tesouros deslumbrantes (e arco-íris!)."
+ },
+ "BEGONE_EVIL": {
+  "n": "Vá Embora, Mal!",
+  "d": "Quebre um altar demoníaco ou carmesim com um martelo sagrado poderoso."
+ },
+ "EXTRA_SHINY": {
+  "n": "Superbrilhante!",
+  "d": "Minere um minério poderoso que acabou de abençoar seu mundo."
+ },
+ "HEAD_IN_THE_CLOUDS": {
+  "n": "Com a Cabeça nas Nuvens",
+  "d": "Equipe um par de asas."
+ },
+ "LIKE_A_BOSS": {
+  "n": "Como um Chefe",
+  "d": "Consiga um item de invocar chefe."
+ },
+ "BUCKETS_OF_BOLTS": {
+  "n": "Montes de Parafusos",
+  "d": "Derrote as três ameaças mecânicas noturnas: os Gêmeos, o Destruidor e o Esqueletron Primordial."
+ },
+ "DRAX_ATTAX": {
+  "n": "Ataque de Drax",
+  "d": "Fabrique um drax ou picareta-machado com barras consagradas e as almas dos três chefes mecânicos."
+ },
+ "PHOTOSYNTHESIS": {
+  "n": "Fotossíntese",
+  "d": "Minere clorofita, um minério orgânico encontrado no meio da vegetação mais densa."
+ },
+ "GET_A_LIFE": {
+  "n": "Arrume uma Vida",
+  "d": "Consuma uma fruta da vida, que cresce na grama da selva subterrânea."
+ },
+ "THE_GREAT_SOUTHERN_PLANTKILL": {
+  "n": "O Grande Planticídio do Sul",
+  "d": "Derrote a Plantera, a monstruosidade crescida das profundezas da selva."
+ },
+ "TEMPLE_RAIDER": {
+  "n": "Saqueador de Templos",
+  "d": "Atravesse as paredes impenetráveis do templo da selva."
+ },
+ "LIHZAHRDIAN_IDOL": {
+  "n": "Ídolo Lagharto",
+  "d": "Derrote o Golem, o ídolo ritualístico de pedra da tribo lagharto."
+ },
+ "ROBBING_THE_GRAVE": {
+  "n": "Roubando Túmulos",
+  "d": "Consiga um tesouro raro de um monstro difícil da masmorra."
+ },
+ "BIG_BOOTY": {
+  "n": "Grande Saque",
+  "d": "Abra um dos baús grandes e misteriosos da masmorra com uma chave especial."
+ },
+ "FISH_OUT_OF_WATER": {
+  "n": "Peixe Fora d'Água",
+  "d": "Derrote o Duque Peixe-Dragão, o terror mutante dos mares."
+ },
+ "OBSESSIVE_DEVOTION": {
+  "n": "Devoção Obsessiva",
+  "d": "Derrote o Cultista Antigo, líder fanático do culto da masmorra."
+ },
+ "STAR_DESTROYER": {
+  "n": "Destruidor de Estrelas",
+  "d": "Derrote as quatro torres celestiais da lua."
+ },
+ "CHAMPION_OF_TERRARIA": {
+  "n": "Campeão de Terraria",
+  "d": "Derrote o Senhor da Lua."
+ },
+ "BLOODBATH": {
+  "n": "Banho de Sangue",
+  "d": "Sobreviva a uma lua de sangue, evento noturno em que os rios ficam vermelhos e os monstros se multiplicam."
+ },
+ "SLIPPERY_SHINOBI": {
+  "n": "Shinobi Escorregadio",
+  "d": "Derrote o Rei Slime, senhor de todas as coisas gosmentas."
+ },
+ "GOBLIN_PUNTER": {
+  "n": "Chutador de Goblins",
+  "d": "Vença uma invasão goblin, um regimento bagunçado de guerreiros bárbaros de orelhas pontudas e seus feiticeiros."
+ },
+ "WALK_THE_PLANK": {
+  "n": "Ande na Prancha",
+  "d": "Vença uma invasão pirata, um grupo de saqueadores do mar atrás do seu tesouro... e da sua vida!"
+ },
+ "KILL_THE_SUN": {
+  "n": "Matar o Sol",
+  "d": "Sobreviva a um eclipse solar, um dia mais escuro que a noite cheio de criaturas de terror."
+ },
+ "DO_YOU_WANT_TO_SLAY_A_SNOWMAN": {
+  "n": "Quer Matar um Boneco de Neve?",
+  "d": "Vença a Legião Gélida, uma família festiva de bonecos de neve mafiosos."
+ },
+ "TIN_FOIL_HATTER": {
+  "n": "Chapéu de Alumínio",
+  "d": "Vença uma invasão marciana, quando seres de outro mundo vêm bagunçar seu cérebro."
+ },
+ "BALEFUL_HARVEST": {
+  "n": "Colheita Funesta",
+  "d": "Chegue à 15ª onda de uma lua de abóbora, onde o mal se esconde na colheita de outono."
+ },
+ "ICE_SCREAM": {
+  "n": "Grito de Gelo",
+  "d": "Chegue à 15ª onda de uma lua gélida, onde as festas de fim de ano viram loucura."
+ },
+ "STICKY_SITUATION": {
+  "n": "Situação Grudenta",
+  "d": "Sobreviva à chuva de slime, quando organismos gelatinosos caem do céu aos montes."
+ },
+ "REAL_ESTATE_AGENT": {
+  "n": "Corretor de Imóveis",
+  "d": "Tenha todos os NPCs de cidade possíveis morando no seu mundo."
+ },
+ "NOT_THE_BEES": {
+  "n": "As Abelhas Não!",
+  "d": "Dispare uma Arma de Abelhas usando a Armadura de Abelha completa."
+ },
+ "JEEPERS_CREEPERS": {
+  "n": "Jeepers Creepers",
+  "d": "Tropece numa caverna de aranhas no subterrâneo."
+ },
+ "FUNKYTOWN": {
+  "n": "Funkytown",
+  "d": "Construa ou encontre um campo de cogumelos brilhantes na superfície."
+ },
+ "INTO_ORBIT": {
+  "n": "Em Órbita",
+  "d": "Daqui só dá para descer!"
+ },
+ "ROCK_BOTTOM": {
+  "n": "Fundo do Poço",
+  "d": "Daqui só dá para subir!"
+ },
+ "MECHA_MAYHEM": {
+  "n": "Caos Mecânico",
+  "d": "Enfrente os Gêmeos, o Destruidor e o Esqueletron Primordial ao mesmo tempo e saia vitorioso."
+ },
+ "GELATIN_WORLD_TOUR": {
+  "n": "Turnê Gelatinosa",
+  "d": "Derrote todos os tipos de slime que existem!"
+ },
+ "FASHION_STATEMENT": {
+  "n": "Estilo Próprio",
+  "d": "Equipe armadura ou roupas de vaidade nos três espaços sociais."
+ },
+ "VEHICULAR_MANSLAUGHTER": {
+  "n": "Homicídio Veicular",
+  "d": "Derrote um inimigo atropelando-o com um carrinho de mina."
+ },
+ "BULLDOZER": {
+  "n": "Escavadeira",
+  "d": "Destrua um total de 10.000 blocos."
+ },
+ "THERE_ARE_SOME_WHO_CALL_HIM": {
+  "n": "Há Quem o Chame de...",
+  "d": "Mate o Tim."
+ },
+ "DECEIVER_OF_FOOLS": {
+  "n": "Enganadora de Tolos",
+  "d": "Mate uma ninfa."
+ },
+ "SWORD_OF_THE_HERO": {
+  "n": "Espada do Herói",
+  "d": "Consiga uma Lâmina Terra, forjada com as melhores lâminas de luz e trevas."
+ },
+ "LUCKY_BREAK": {
+  "n": "Por um Fio",
+  "d": "Sobreviva a uma queda longa com quase nada de vida."
+ },
+ "THROWING_LINES": {
+  "n": "Lançando Linhas",
+  "d": "Jogue um ioiô."
+ },
+ "DYE_HARD": {
+  "n": "Tingido",
+  "d": "Equipe uma tintura em todos os espaços de tintura possíveis."
+ },
+ "SICK_THROW": {
+  "n": "Arremesso Insano",
+  "d": "Consiga o Terrariano."
+ },
+ "FREQUENT_FLYER": {
+  "n": "Cliente Frequente",
+  "d": "Gaste mais de 1 ouro sendo tratado pela enfermeira."
+ },
+ "THE_CAVALRY": {
+  "n": "A Cavalaria",
+  "d": "Equipe uma montaria."
+ },
+ "COMPLETELY_AWESOME": {
+  "n": "Totalmente Incrível",
+  "d": "Consiga um minitubarão."
+ },
+ "TIL_DEATH": {
+  "n": "Até que a Morte...",
+  "d": "Mate o noivo."
+ },
+ "ARCHAEOLOGIST": {
+  "n": "Arqueólogo",
+  "d": "Mate o Doutor Ossos."
+ },
+ "PRETTY_IN_PINK": {
+  "n": "Rosa Choque",
+  "d": "Mate a Pinky."
+ },
+ "RAINBOWS_AND_UNICORNS": {
+  "n": "Arco-Íris e Unicórnios",
+  "d": "Dispare uma arma de arco-íris montado num unicórnio."
+ },
+ "YOU_AND_WHAT_ARMY": {
+  "n": "Você e Que Exército?",
+  "d": "Comande nove lacaios invocados ao mesmo tempo."
+ },
+ "PRISMANCER": {
+  "n": "Prismante",
+  "d": "Consiga um bastão de arco-íris."
+ },
+ "IT_CAN_TALK": {
+  "n": "Ele Fala?!",
+  "d": "Construa uma casa num bioma de cogumelos e faça o Trufa se mudar."
+ },
+ "WATCH_YOUR_STEP": {
+  "n": "Olha o Degrau!",
+  "d": "Caia numa armadilha subterrânea."
+ },
+ "MARATHON_MEDALIST": {
+  "n": "Medalhista de Maratona",
+  "d": "Percorra 42,2 km a pé."
+ },
+ "GLORIOUS_GOLDEN_POLE": {
+  "n": "Vara Dourada Gloriosa",
+  "d": "Consiga uma vara de pescar dourada."
+ },
+ "SERVANT_IN_TRAINING": {
+  "n": "Servo em Treinamento",
+  "d": "Complete sua 1ª missão para o pescador."
+ },
+ "GOOD_LITTLE_SLAVE": {
+  "n": "Bom Escravinho",
+  "d": "Complete sua 10ª missão para o pescador."
+ },
+ "TROUT_MONKEY": {
+  "n": "Macaco das Trutas",
+  "d": "Complete sua 25ª missão para o pescador."
+ },
+ "FAST_AND_FISHIOUS": {
+  "n": "Velozes e Peixosos",
+  "d": "Complete sua 50ª missão para o pescador."
+ },
+ "SUPREME_HELPER_MINION": {
+  "n": "Ajudante Supremo!",
+  "d": "Complete 200 missões no total para o pescador."
+ },
+ "TOPPED_OFF": {
+  "n": "Até a Tampa",
+  "d": "Chegue ao máximo de vida e mana possível sem acessórios ou bônus."
+ },
+ "SLAYER_OF_WORLDS": {
+  "n": "Matador de Mundos",
+  "d": "Derrote todos os chefes de Terraria."
+ },
+ "YOU_CAN_DO_IT": {
+  "n": "Você Consegue!",
+  "d": "Sobreviva à primeira noite inteira do seu personagem."
+ },
+ "MATCHING_ATTIRE": {
+  "n": "Roupa Combinando",
+  "d": "Equipe armadura nos três espaços: cabeça, peito e pés."
+ },
+ "BENCHED": {
+  "n": "No Banco",
+  "d": "Fabrique sua primeira bancada."
+ },
+ "DEFEAT_EMPRESS_OF_LIGHT": {
+  "n": "Esfoladora de Fadas",
+  "d": "Derrote a Imperatriz da Luz, responsável por todas aquelas luzes e brilhos."
+ },
+ "DEFEAT_QUEEN_SLIME": {
+  "n": "Sobremesa Merecida",
+  "d": "Derrote a Rainha Slime e dê o golpe final na soberana de tudo que balança."
+ },
+ "DEFEAT_DREADNAUTILUS": {
+  "n": "Não Pise em Mim",
+  "d": "Derrote o Dreadnautilus, molusco assassino que espreita sob os mares de sangue."
+ },
+ "DEFEAT_OLD_ONES_ARMY_TIER3": {
+  "n": "Herói de Etheria",
+  "d": "Repila as forças mais fortes que o Exército do Antigo consegue reunir."
+ },
+ "GET_ZENITH": {
+  "n": "Espada Infinito +1",
+  "d": "Consiga a Zênite, o ápice de uma jornada forjado na espada definitiva."
+ },
+ "GET_TERRASPARK_BOOTS": {
+  "n": "Botas do Herói",
+  "d": "Consiga as Botas Terrafagulha, forjadas com as melhores botas de fogo e gelo."
+ },
+ "FLY_A_KITE_ON_A_WINDY_DAY": {
+  "n": "Um Dia de Ventania",
+  "d": "Empine uma pipa num dia de vento."
+ },
+ "FOUND_GRAVEYARD": {
+  "n": "Vizinhança Tranquila",
+  "d": "Entre num cemitério enevoado cheio de mortos mal-humorados."
+ },
+ "GO_LAVA_FISHING": {
+  "n": "Molinete Quente!",
+  "d": "Jogue a isca numa poça de lava para uma pesca já frita!"
+ },
+ "TURN_GNOME_TO_STATUE": {
+  "n": "Heliofobia",
+  "d": "Engane um gnomo para ele virar pedra!"
+ },
+ "TALK_TO_NPC_AT_MAX_HAPPINESS": {
+  "n": "Senhorio Exemplar",
+  "d": "Encontre um inquilino que esteja o mais feliz possível!"
+ },
+ "PET_THE_PET": {
+  "n": "Carinho",
+  "d": "Faça carinho no pet da cidade."
+ },
+ "FIND_A_FAIRY": {
+  "n": "Ei! Escuta!",
+  "d": "Encontre uma fada."
+ },
+ "THROW_A_PARTY": {
+  "n": "Festança",
+  "d": "Não importa o que você está comemorando, dê logo uma festa!"
+ },
+ "DIE_TO_DEAD_MANS_CHEST": {
+  "n": "Mortos Não Contam Histórias",
+  "d": "Você estava tão preocupado se conseguia abrir o baú que nem parou para pensar se devia."
+ },
+ "DEFEAT_DEERCLOPS": {
+  "n": "Olho por Olho",
+  "d": "Derrote o Deerclops, a monstruosidade gelada de um olho só vinda de outra terra."
+ },
+ "GET_GOLDEN_DELIGHT": {
+  "n": "Banquete de Midas",
+  "d": "Consiga o Deleite Dourado, a refeição da mais alta qualidade feita com os mais altos... ingredientes."
+ },
+ "DRINK_BOTTLED_WATER_WHILE_DROWNING": {
+  "n": "Estratégias de Sobrevivência Incomuns",
+  "d": "Adie a morte por afogamento bebendo água. Não faz muito sentido, mas você fez o que precisava."
+ },
+ "GET_CELL_PHONE": {
+  "n": "Espelho Negro",
+  "d": "Consiga o Celular. Você nunca mais vai sair de casa sem ele."
+ },
+ "GET_ANKH_SHIELD": {
+  "n": "Ankhumulação Completa",
+  "d": "Consiga o Escudo Ankh, a melhor proteção contra doenças e males desagradáveis."
+ },
+ "GAIN_TORCH_GODS_FAVOR": {
+  "n": "Deus das Tochas",
+  "d": "Despertou a ira do Deus das Tochas e sobreviveu o bastante para ganhar sua bênção."
+ },
+ "PLAY_ON_A_SPECIAL_SEED": {
+  "n": "Um Reino Raro",
+  "d": "Algumas sementes muito especiais levam a experiências únicas. Consegue achar uma?"
+ },
+ "ALL_TOWN_SLIMES": {
+  "n": "A Grande Mitose Slime",
+  "d": "Encontre todos os pets slime e faça eles se mudarem!"
+ },
+ "TRANSMUTE_ITEM": {
+  "n": "Um Brilho no Escuro",
+  "d": "Transmute um item em outro com o Brilho. Que outras transmutações você consegue achar?"
+ },
+ "PURIFY_ENTIRE_WORLD": {
+  "n": "E Já Vai Tarde!",
+  "d": "Purifique totalmente a Corrupção, o Carmim e o Consagrado do seu mundo, até a Dríade ficar satisfeita!"
+ },
+ "TO_INFINITY_AND_BEYOND": {
+  "n": "Ao Infinito... e Além!",
+  "d": "Voe com um Kwad Racer até o espaço."
+ },
+ "BOOK_WORM": {
+  "n": "Rato de Biblioteca",
+  "d": "Catalogue todas as criaturas do mundo."
+ },
+ "BOULDER_LORD": {
+  "n": "Senhor das Pedras",
+  "d": "Prove seu valor contra o pior do Senhor da Lua."
+ },
+ "QUEEN_MACHINE": {
+  "n": "Máquina Rainha",
+  "d": "Derrotou a forma combinada dos 3 gigantes mecânicos."
+ },
+ "ROLLIN_IN_YOUR_GRAVE": {
+  "n": "Rolando no Túmulo",
+  "d": "Dê uma volta no seu lugar de descanso final."
+ },
+ "FEAR_THE_SUN": {
+  "n": "Tema o Sol",
+  "d": "Vista a roupa de vampiro e pegue uma queimadura de sol."
+ },
+ "ITS_SHALING_OUTSIDE": {
+  "n": "Está Chovendo Pedra",
+  "d": "Sobreviva à temida chuva de pedregulhos."
+ },
+ "EXTRA_LIFE": {
+  "n": "Vida Extra",
+  "d": "Morra com um personagem hardcore e sobreviva para contar a história."
+ },
+ "GRAVE_MISTAKE": {
+  "n": "Erro Mortal",
+  "d": "Mate um amigo \"sem querer\" com sua lápide."
+ },
+ "SPICY_LICKS": {
+  "n": "Solo Apimentado",
+  "d": "Toque um som num instrumento de seis cordas."
+ },
+ "ORGANIZED_CHAOS": {
+  "n": "Caos Organizado",
+  "d": "Encontre o raríssimo Bastão da Discórdia."
+ },
+ "ON_FLEEK": {
+  "n": "Na Estica",
+  "d": "Veja o sol num dia \"descolado\"."
+ },
+ "FORTUNE_FAVORS_THE_BOULD": {
+  "n": "A Sorte Favorece a Pedra",
+  "d": "Descubra um pedregulho amigável."
+ },
+ "TRAINING_DAY": {
+  "n": "Dia de Treino",
+  "d": "Deixe seus moradores totalmente prontos para combate."
+ },
+ "MINI_ME": {
+  "n": "Mini-Eu",
+  "d": "Vire um imitador do Senhor da Lua."
+ },
+ "TERRARIST": {
+  "n": "Terrarista",
+  "d": "Assuste seus moradores com uma espada de percevejo fedorento."
+ },
+ "NEW_DIGS": {
+  "n": "Visual Novo",
+  "d": "Dê um visual novo a qualquer morador."
+ },
+ "MY_PEOPLE_NEED_ME": {
+  "n": "Meu Povo Precisa de Mim",
+  "d": "Embarque numa viagem só de ida para o espaço."
+ },
+ "GOING_OLDSCHOOL": {
+  "n": "Voltando às Origens",
+  "d": "Traga de volta a tela de título original."
+ },
+ "SEA_YOU_LATER": {
+  "n": "Mar Ver Você Depois",
+  "d": "Fabrique a melhoria final do Celular."
+ },
+ "TRASH_COMPACTOR": {
+  "n": "Compactador de Lixo",
+  "d": "Pesquise 50% de todos os itens no Modo Jornada."
+ },
+ "CONSERVATIONIST": {
+  "n": "Conservacionista",
+  "d": "Apoie a extração sustentável plantando 100 bolotas."
+ },
+ "INTERDIMENSIONAL_RECYCLING": {
+  "n": "Reciclagem Interdimensional",
+  "d": "Dê uma lata de Joja Cola para a Dríade."
+ }
+}

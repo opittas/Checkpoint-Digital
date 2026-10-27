@@ -1,0 +1,139 @@
+{
+ "Play_SP": {
+  "n": "Um Jogador",
+  "d": "Jogue no modo um jogador"
+ },
+ "Play_Multi": {
+  "n": "Multijogador",
+  "d": "Jogue no multijogador"
+ },
+ "TDS_1M": {
+  "n": "Novato",
+  "d": "Pontuação total de drift de 1M"
+ },
+ "TDS_5M": {
+  "n": "Drifter",
+  "d": "Pontuação total de drift de 5M"
+ },
+ "TDS_10M": {
+  "n": "Especialista",
+  "d": "Pontuação total de drift de 10M"
+ },
+ "TDS_100M": {
+  "n": "Rei do Drift",
+  "d": "Pontuação total de drift de 100M"
+ },
+ "BDS_50K": {
+  "n": "Carteira de Motorista Novato",
+  "d": "Melhor pontuação de drift de 50k"
+ },
+ "BDS_100K": {
+  "n": "Piloto de Touge",
+  "d": "Melhor pontuação de drift de 100k"
+ },
+ "BDS_500K": {
+  "n": "Lenda",
+  "d": "Melhor pontuação de drift de 500k"
+ },
+ "BDS_1M": {
+  "n": "Entregador de Tofu",
+  "d": "Melhor pontuação de drift de 1M"
+ },
+ "TRT_1H": {
+  "n": "Itsuki",
+  "d": "Tempo total de corrida de 1h"
+ },
+ "TRT_10H": {
+  "n": "Takumi",
+  "d": "Tempo total de corrida de 10h"
+ },
+ "TRT_100H": {
+  "n": "Bunta",
+  "d": "Tempo total de corrida de 100h"
+ },
+ "CreateRoom": {
+  "n": "Sociável",
+  "d": "Crie uma sala multijogador"
+ },
+ "PG86_Mk3": {
+  "d": "Jogue com o EG86"
+ },
+ "BMGv35": {
+  "d": "Jogue com o BMG V92"
+ },
+ "MuscleCar_1970": {
+  "d": "Jogue com o MuscleCar 1969"
+ },
+ "SunLineGTE 1": {
+  "d": "Jogue com o Sunline GTE"
+ },
+ "AE86tunning": {
+  "d": "Jogue com o EG86 Tuned"
+ },
+ "RX71": {
+  "d": "Jogue com o XR-7"
+ },
+ "X13": {
+  "d": "Jogue com o X13"
+ },
+ "Supra": {
+  "d": "Jogue com o SuprX"
+ },
+ "EvoX": {
+  "d": "Jogue com o Eva X"
+ },
+ "CRX": {
+  "d": "Jogue com o RCX"
+ },
+ "EG6": {
+  "d": "Jogue com o 6GE"
+ },
+ "Clio V6": {
+  "d": "Jogue com o Clia V6"
+ },
+ "SunLineGTE35": {
+  "d": "Jogue com o GTE 35"
+ },
+ "Lado1": {
+  "d": "Jogue com o VEZ 6012"
+ },
+ "EvoVIII": {
+  "d": "Jogue com o EVA VIII"
+ },
+ "Sub1": {
+  "d": "Jogue com o Imprezo"
+ },
+ "SunLine2000": {
+  "d": "Jogue com o Sunline 2000"
+ },
+ "GT86": {
+  "d": "Jogue com o TG68"
+ },
+ "SupraNew": {
+  "d": "Jogue com o SuprXX"
+ },
+ "GTR32 1": {
+  "d": "Jogue com o R32 Black Reaper"
+ },
+ "NSX 2": {
+  "d": "Jogue com o NXS"
+ },
+ "MX5": {
+  "d": "Jogue com o XM5"
+ },
+ "S13 2": {
+  "d": "Jogue com o S13"
+ },
+ "RX7FC": {
+  "d": "Jogue com o XR-7C"
+ },
+ "MR2": {
+  "d": "Jogue com o Might 2"
+ },
+ "GTR31MOYO": {
+  "d": "Jogue com o Sunline 31 MayoMan"
+ },
+ "F40": {
+  "d": "Jogue com o Falcon 400"
+ }
+}

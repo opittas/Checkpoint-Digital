@@ -1,0 +1,230 @@
+{
+ "SELL_PLORTS_A": {
+  "n": "Mascate de Plorts",
+  "d": "Venda 100 plorts no Mercado de Plorts"
+ },
+ "SELL_PLORTS_B": {
+  "n": "Transplortador",
+  "d": "Venda 500 plorts no Mercado de Plorts"
+ },
+ "SELL_PLORTS_C": {
+  "n": "Autoridade em Plorts",
+  "d": "Venda 1.000 plorts no Mercado de Plorts"
+ },
+ "SELL_PLORTS_D": {
+  "n": "Potência dos Plorts",
+  "d": "Venda 2.500 plorts no Mercado de Plorts"
+ },
+ "SELL_PLORTS_E": {
+  "n": "Magnata dos Plorts",
+  "d": "Venda 5.000 plorts no Mercado de Plorts"
+ },
+ "FEED_SLIMES_CHICKENS": {
+  "n": "Có Có Cocó-",
+  "d": "Alimente slimes com 100 galinhas no Rancho"
+ },
+ "FRUIT_TREE_TYPES": {
+  "n": "Coquetel de Frutas",
+  "d": "Tenha 3 árvores frutíferas diferentes no Rancho ao mesmo tempo"
+ },
+ "VEGGIE_PATCH_TYPES": {
+  "n": "Bufê de Saladas",
+  "d": "Tenha 3 hortas diferentes no Rancho ao mesmo tempo"
+ },
+ "EARN_CURRENCY_A": {
+  "n": "Afortunado",
+  "d": "Ganhe mais de 5.000 newbucks"
+ },
+ "EARN_CURRENCY_B": {
+  "n": "Rancheiro Bem de Vida",
+  "d": "Ganhe mais de 25.000 newbucks"
+ },
+ "EARN_CURRENCY_C": {
+  "n": "Alta Sociedade",
+  "d": "Ganhe mais de 100.000 newbucks"
+ },
+ "DAY_CURRENCY": {
+  "n": "Dinheiro Rápido",
+  "d": "Ganhe 5.000 newbucks em um só dia"
+ },
+ "AWAKE_UNTIL_MORNING": {
+  "n": "Virando a Noite",
+  "d": "Fique acordado das 6h às 6h do dia seguinte"
+ },
+ "KNOCKOUT_MORNING": {
+  "n": "Não É Minha Manhã",
+  "d": "Desmaie antes das 10h"
+ },
+ "AWAY_FROM_RANCH": {
+  "n": "Enquanto Você Estava Fora",
+  "d": "Volte ao Rancho depois de mais de 24 horas"
+ },
+ "FEED_AIRBORNE": {
+  "n": "Pega!",
+  "d": "Atire comida na boca de um slime no ar"
+ },
+ "PINK_SLIMES_FOOD_TYPES": {
+  "n": "Onívoro",
+  "d": "Dê 10 tipos diferentes de comida aos slimes rosa do Rancho"
+ },
+ "FEED_FAVORITES": {
+  "n": "Que Delícia!",
+  "d": "Dê a 50 slimes do Rancho sua comida favorita"
+ },
+ "DISCOVERED_QUARRY": {
+  "n": "Tudo Meu",
+  "d": "Descobriu a Pedreira"
+ },
+ "DISCOVERED_MOSS": {
+  "n": "Do Outro Lado",
+  "d": "Descobriu o Manto de Musgo"
+ },
+ "DISCOVERED_DESERT": {
+  "n": "Fumaça, Fogo e Espelhos",
+  "d": "Descobriu o Deserto de Vidro"
+ },
+ "BURST_GORDO": {
+  "n": "Explosão Gelatinosa",
+  "d": "Estoure um slime gordo"
+ },
+ "OPEN_SLIME_GATE": {
+  "n": "Abre-te Sésamo",
+  "d": "Abra um portão de slime"
+ },
+ "INCINERATE_ELDER_CHICKEN": {
+  "n": "Carrossel",
+  "d": "Incinere uma galinha anciã"
+ },
+ "INCINERATE_CHICK": {
+  "n": "Seu... Monstro!",
+  "d": "Mande um pintinho fofo para um fim flamejante, o mesmo lugar para onde você vai"
+ },
+ "FILLED_SILO": {
+  "n": "Explodindo de Cheio",
+  "d": "Coloque pelo menos 50 unidades em cada espaço de um silo totalmente melhorado"
+ },
+ "RANCH_UPGRADED_STORAGE": {
+  "n": "Completo",
+  "d": "Tenha curral, galinheiro e silo melhorados ao máximo no Rancho"
+ },
+ "FULFILL_EXCHANGE_EARLY": {
+  "n": "Troca Apressada",
+  "d": "Cumpra um pedido da Troca do Campo entre meio-dia e 14h"
+ },
+ "DAY_COLLECT_PLORTS": {
+  "n": "Criação Livre",
+  "d": "Colete 50 plorts no Campo em um só dia"
+ },
+ "GOLD_SLIME_TRIPLE_PLORT": {
+  "n": "Truque Triplo",
+  "d": "Consiga pelo menos 3 plorts de ouro de um único slime dourado"
+ },
+ "EXTENDED_RAD_EXPOSURE": {
+  "n": "Isso Só Funciona nos Quadrinhos",
+  "d": "Fique dentro de uma aura radioativa por pelo menos 15 segundos"
+ },
+ "EXTENDED_TARR_HOLD": {
+  "n": "Mordido Uma Vez, Duas... Mordido",
+  "d": "Segure um tarr por 15 segundos"
+ },
+ "TABBY_HEADBUTT": {
+  "n": "Bup!",
+  "d": "Deixe um slime malhado dar uma cabeçada bem no seu nariz"
+ },
+ "LAUNCHED_BOOM_EXPLODE": {
+  "n": "Fogos de Artifício",
+  "d": "Atire um largo de slime explosivo para o alto e faça ele explodir antes de cair"
+ },
+ "MANY_SLIMES_IN_VAC": {
+  "n": "Controlando o Caos",
+  "d": "Segure mais de 15 slimes no aspirador ao mesmo tempo no campo"
+ },
+ "CORRAL_SLIME_TYPES": {
+  "n": "Pacote de Seis",
+  "d": "Tenha pelo menos 6 tipos diferentes de slimes no mesmo curral"
+ },
+ "CORRAL_LARGO_TYPES": {
+  "n": "Negócio Arriscado",
+  "d": "Tenha pelo menos 3 tipos diferentes de largos no mesmo curral"
+ },
+ "POND_SLIME_TYPES": {
+  "n": "Festa na Piscina",
+  "d": "Encha um lago do Rancho com pelo menos 5 tipos diferentes de slimes"
+ },
+ "RANCH_LARGO_TYPES": {
+  "n": "Diversificação",
+  "d": "Tenha pelo menos 10 tipos de largos no Rancho"
+ },
+ "ENTERED_CORRAL_SLIMES": {
+  "n": "Piscina de Bolinhas",
+  "d": "Pule num curral com pelo menos 40 slimes"
+ },
+ "TIME_LIMIT_CURRENCY_A": {
+  "n": "Desafiante do Rush",
+  "d": "Chegue a pelo menos 10.000 newbucks no Modo Rush"
+ },
+ "TIME_LIMIT_CURRENCY_B": {
+  "n": "Campeão do Rush",
+  "d": "Chegue a pelo menos 35.000 newbucks no Modo Rush"
+ },
+ "TIME_LIMIT_CURRENCY_C": {
+  "n": "Mestre dos Plorts no Rush",
+  "d": "Chegue a pelo menos 75.000 newbucks no Modo Rush"
+ },
+ "DISCOVERED_RUINS": {
+  "n": "Rumo ao Passado",
+  "d": "Descubra as Ruínas Antigas"
+ },
+ "FABRICATE_GADGETS_A": {
+  "n": "Avante... pela CIÊNCIA!",
+  "d": "Fabrique seu primeiro aparelho de Ciência Slime"
+ },
+ "FABRICATE_GADGETS_B": {
+  "n": "Bea, a Construtora",
+  "d": "Fabrique 35 aparelhos de Ciência Slime"
+ },
+ "FABRICATE_GADGETS_C": {
+  "n": "Nunca Pare de Criar",
+  "d": "Fabrique 100 aparelhos de Ciência Slime"
+ },
+ "SLIME_STAGE_TARR": {
+  "n": "O Melhor dos Piores",
+  "d": "Coloque um tarr no Palco Slime nº 1"
+ },
+ "SLIMEBALL_SCORE": {
+  "n": "Ela Está Pegando Fogo!",
+  "d": "Faça 50 pontos numa partida de slimeball"
+ },
+ "JOIN_REWARDS_CLUB": {
+  "n": "Uma Pessoa de Cada Vez",
+  "d": "Entre no Clube de Recompensas 7Zee"
+ },
+ "USE_CHROMAS": {
+  "n": "Fiquei Impressionado",
+  "d": "Use pacotes de cor para mudar a cor da casa, da tecnologia e do aspirador"
+ },
+ "COLLECT_SLIME_TOYS": {
+  "n": "Na Caixa",
+  "d": "Compre pelo menos 10 tipos diferentes de brinquedos de slime"
+ },
+ "SNARE_HUNTER_GORDO": {
+  "n": "O Caçador Virou... a Outra Coisa",
+  "d": "Capture um Gordo Caçador"
+ },
+ "ACTIVATE_OASIS": {
+  "n": "Renovação",
+  "d": "Comece a trazer vida de volta ao Deserto de Vidro"
+ },
+ "COMPLETE_SLIMEPEDIA": {
+  "n": "Estilo Profissional",
+  "d": "Complete a Slimepédia"
+ },
+ "FIND_HOBSONS_END": {
+  "n": "Portas como Estas",
+  "d": "Descubra onde a jornada de Hobson terminou e começou de novo."
+ },
+ "FINISH_ADVENTURE": {
+  "n": "A Aventura Continua!",
+  "d": "Complete o Modo Aventura e siga para o que vem depois."
+ }
+}

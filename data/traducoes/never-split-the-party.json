@@ -1,0 +1,346 @@
+{
+ "Experienced": {
+  "n": "Mapa da Masmorra",
+  "d": "Complete 5 partidas"
+ },
+ "Level2": {
+  "n": "Força de Mil Homens",
+  "d": "Chegue ao nível 2 da masmorra"
+ },
+ "Level3": {
+  "n": "Turbante de Raseed",
+  "d": "Chegue ao nível 3 da masmorra"
+ },
+ "Level4": {
+  "n": "Manoplas de Seda",
+  "d": "Chegue ao nível 4 da masmorra"
+ },
+ "Level5": {
+  "n": "Barra de Ouro",
+  "d": "Chegue ao nível 5 da masmorra"
+ },
+ "YouTubeFollower": {
+  "n": "Encantar Arma",
+  "d": "Clique no botão do YouTube... é, fizemos isso"
+ },
+ "TwitchFollower": {
+  "n": "Túnica de Mago",
+  "d": "Clique no botão da Twitch... é, fizemos isso"
+ },
+ "NewsletterFollower": {
+  "n": "Pedra de Mana",
+  "d": "Clique no botão da newsletter... é, fizemos isso"
+ },
+ "StillAlive": {
+  "n": "História de Nós Dois",
+  "d": "Termine o jogo com o Orbe do Companheiro Sem Peso"
+ },
+ "FighterVictory": {
+  "n": "Lótus Branca",
+  "d": "Vença jogando com o Guerreiro"
+ },
+ "FighterSpeedRunVictory": {
+  "n": "Javali Apimentado",
+  "d": "Vença em menos de 20 minutos jogando com o Guerreiro"
+ },
+ "FighterNoKnockdownVictory": {
+  "n": "Escudo de Dragão",
+  "d": "Vença sem ser derrubado jogando com o Guerreiro"
+ },
+ "FighterHardModeVictory": {
+  "n": "Manopla do Duelista",
+  "d": "Vença no Modo Difícil jogando com o Guerreiro"
+ },
+ "ClericVictory": {
+  "n": "Regeneração",
+  "d": "Vença jogando com o Clérigo"
+ },
+ "ClericSpeedRunVictory": {
+  "n": "Cura em Grupo",
+  "d": "Vença em menos de 20 minutos jogando com o Clérigo"
+ },
+ "ClericNoKnockdownVictory": {
+  "n": "Corpus",
+  "d": "Vença sem ser derrubado jogando com o Clérigo"
+ },
+ "ClericHardModeVictory": {
+  "n": "Escaravelho",
+  "d": "Vença no Modo Difícil jogando com o Clérigo"
+ },
+ "RogueVictory": {
+  "n": "Truque Sombrio",
+  "d": "Vença jogando com o Ladino"
+ },
+ "RogueSpeedRunVictory": {
+  "n": "Pingente de Estrela Dourada",
+  "d": "Vença em menos de 20 minutos jogando com o Ladino"
+ },
+ "RogueNoKnockdownVictory": {
+  "n": "Gotas de Veneno",
+  "d": "Vença sem ser derrubado jogando com o Ladino"
+ },
+ "RogueHardModeVictory": {
+  "n": "Lámen",
+  "d": "Vença no Modo Difícil jogando com o Ladino"
+ },
+ "MageVictory": {
+  "n": "Relâmpago",
+  "d": "Vença jogando com o Mago"
+ },
+ "MageSpeedRunVictory": {
+  "n": "Orbe do Companheiro Sem Peso",
+  "d": "Vença em menos de 20 minutos jogando com o Mago"
+ },
+ "MageNoKnockdownVictory": {
+  "n": "Invocação",
+  "d": "Vença sem ser derrubado jogando com o Mago"
+ },
+ "MageHardModeVictory": {
+  "n": "Bola de Fogo",
+  "d": "Vença no Modo Difícil jogando com o Mago"
+ },
+ "RangerVictory": {
+  "n": "Pedra de Amolar",
+  "d": "Vença jogando com o Patrulheiro"
+ },
+ "RangerSpeedRunVictory": {
+  "n": "Caveirinha",
+  "d": "Vença em menos de 20 minutos jogando com o Patrulheiro"
+ },
+ "RangerNoKnockdownVictory": {
+  "n": "Pena Mágica",
+  "d": "Vença sem ser derrubado jogando com o Patrulheiro"
+ },
+ "RangerHardModeVictory": {
+  "n": "Orelhas de Gato",
+  "d": "Vença no Modo Difícil jogando com o Patrulheiro"
+ },
+ "MercenaryVictory": {
+  "n": "Mercenário",
+  "d": "Vença jogando com o Mercenário"
+ },
+ "MercenarySpeedRunVictory": {
+  "n": "Demolição",
+  "d": "Vença em menos de 20 minutos jogando com o Mercenário"
+ },
+ "MercenaryNoKnockdownVictory": {
+  "n": "Reparo de Campo",
+  "d": "Vença sem ser derrubado jogando com o Mercenário"
+ },
+ "MercenaryHardModeVictory": {
+  "n": "Humanus",
+  "d": "Vença no Modo Difícil jogando com o Mercenário"
+ },
+ "BeastMasterVictory": {
+  "n": "Dente de Lobo",
+  "d": "Vença jogando com o Mestre das Feras"
+ },
+ "BeastMasterSpeedRunVictory": {
+  "n": "Asa de Morcego",
+  "d": "Vença em menos de 20 minutos jogando com o Mestre das Feras"
+ },
+ "BeastMasterNoKnockdownVictory": {
+  "n": "Cauda de Leão",
+  "d": "Vença sem ser derrubado jogando com o Mestre das Feras"
+ },
+ "BeastMasterHardModeVictory": {
+  "n": "Garra de Águia",
+  "d": "Vença no Modo Difícil jogando com o Mestre das Feras"
+ },
+ "PaladinVictory": {
+  "n": "Grito de Guerra",
+  "d": "Vença jogando com o Paladino"
+ },
+ "PaladinSpeedRunVictory": {
+  "n": "Atacar!",
+  "d": "Vença em menos de 20 minutos jogando com o Paladino"
+ },
+ "PaladinNoKnockdownVictory": {
+  "n": "Presença Reconfortante",
+  "d": "Vença sem ser derrubado jogando com o Paladino"
+ },
+ "PaladinHardModeVictory": {
+  "n": "Promoção a Líder",
+  "d": "Vença no Modo Difícil jogando com o Paladino"
+ },
+ "LancerVictory": {
+  "n": "Anel da Geladura",
+  "d": "Vença jogando com o Lanceiro"
+ },
+ "LancerSpeedRunVictory": {
+  "n": "Anel do Demônio",
+  "d": "Vença em menos de 20 minutos jogando com o Lanceiro"
+ },
+ "LancerNoKnockdownVictory": {
+  "n": "Anel da Grande Invencibilidade",
+  "d": "Vença sem ser derrubado jogando com o Lanceiro"
+ },
+ "LancerHardModeVictory": {
+  "n": "Anel Vampírico",
+  "d": "Vença no Modo Difícil jogando com o Lanceiro"
+ },
+ "ChallengeBombCraftCompleted": {
+  "n": "Propulsor Explosivo",
+  "d": "Vença o desafio Bombas Artesanais"
+ },
+ "ChallengePlayerVsPlayerVictory": {
+  "n": "Frango no Jantar",
+  "d": "Fique em primeiro num desafio Jogador contra Jogador"
+ },
+ "ChallengeEpicDungeonsCompleted": {
+  "n": "Mjolnir",
+  "d": "Vença o desafio Masmorras Épicas"
+ },
+ "ChallengeFourBlackMagesCompleted": {
+  "n": "Pote de Mel",
+  "d": "Vença o desafio Quatro Magos Negros"
+ },
+ "ChallengeRaceAgainstTimeCompleted": {
+  "n": "Cajado da Graça",
+  "d": "Vença o desafio Corrida Contra o Tempo"
+ },
+ "ChallengeFullPlateCompleted": {
+  "n": "Fúria",
+  "d": "Vença o desafio Armadura Completa"
+ },
+ "AlchemistVictory": {
+  "n": "Frasco Quebrado",
+  "d": "Vença jogando com o Alquimista"
+ },
+ "AlchemistSpeedRunVictory": {
+  "n": "Simbiose",
+  "d": "Vença em menos de 20 minutos jogando com o Alquimista"
+ },
+ "AlchemistNoKnockdownVictory": {
+  "n": "Transmogrificador",
+  "d": "Vença sem ser derrubado jogando com o Alquimista"
+ },
+ "AlchemistHardModeVictory": {
+  "n": "Reagente do Apostador",
+  "d": "Vença no Modo Difícil jogando com o Alquimista"
+ },
+ "BardVictory": {
+  "n": "Fortissimo",
+  "d": "Vença jogando com o Bardo"
+ },
+ "BardSpeedRunVictory": {
+  "n": "Vivace",
+  "d": "Vença em menos de 20 minutos jogando com o Bardo"
+ },
+ "BardNoKnockdownVictory": {
+  "n": "Legato",
+  "d": "Vença sem ser derrubado jogando com o Bardo"
+ },
+ "BardHardModeVictory": {
+  "n": "Allegro",
+  "d": "Vença no Modo Difícil jogando com o Bardo"
+ },
+ "MonkVictory": {
+  "n": "Faixa da Paz",
+  "d": "Vença jogando com o Monge"
+ },
+ "MonkSpeedRunVictory": {
+  "n": "Rajada de Golpes",
+  "d": "Vença em menos de 20 minutos jogando com o Monge"
+ },
+ "MonkNoKnockdownVictory": {
+  "n": "Deflexão",
+  "d": "Vença sem ser derrubado jogando com o Monge"
+ },
+ "MonkHardModeVictory": {
+  "n": "Luvas do Lutador",
+  "d": "Vença no Modo Difícil jogando com o Monge"
+ },
+ "MusicRoomMystery1": {
+  "n": "Cão Enlouquecido",
+  "d": "Resolva a Sala de Música"
+ },
+ "GrenadierVictory": {
+  "n": "Pavio Curto",
+  "d": "Vença jogando com o Granadeiro"
+ },
+ "GrenadierSpeedRunVictory": {
+  "n": "Detonador Remoto",
+  "d": "Vença em menos de 20 minutos jogando com o Granadeiro"
+ },
+ "GrenadierNoKnockdownVictory": {
+  "n": "Botas-Foguete",
+  "d": "Vença sem ser derrubado jogando com o Granadeiro"
+ },
+ "GrenadierHardModeVictory": {
+  "n": "Bombas Grudentas",
+  "d": "Vença no Modo Difícil jogando com o Granadeiro"
+ },
+ "ShopkeeperVictory": {
+  "n": "Pote-vis",
+  "d": "Vença jogando com o Lojista"
+ },
+ "ShopkeeperSpeedRunVictory": {
+  "n": "Oferta Especial",
+  "d": "Vença em menos de 20 minutos jogando com o Lojista"
+ },
+ "ShopkeeperNoKnockdownVictory": {
+  "n": "Caixa Dourada",
+  "d": "Vença sem ser derrubado jogando com o Lojista"
+ },
+ "ShopkeeperHardModeVictory": {
+  "n": "Crachá de Funcionário",
+  "d": "Vença no Modo Difícil jogando com o Lojista"
+ },
+ "CountessVictory": {
+  "n": "Manto da Levitação",
+  "d": "Vença jogando com a Condessa"
+ },
+ "CountessSpeedRunVictory": {
+  "n": "Ricochete",
+  "d": "Vença em menos de 20 minutos jogando com a Condessa"
+ },
+ "CountessNoKnockdownVictory": {
+  "n": "Botas de Aço",
+  "d": "Vença sem ser derrubado jogando com a Condessa"
+ },
+ "CountessHardModeVictory": {
+  "n": "Fita Branca",
+  "d": "Vença no Modo Difícil jogando com a Condessa"
+ },
+ "ChallengeImmortalSnailCompleted": {
+  "n": "Concha de Náutilo",
+  "d": "Vença o desafio Caracol Imortal"
+ },
+ "ChallengeHealthPoolCompleted": {
+  "n": "Coração Pesado",
+  "d": "Vença o desafio Poço de Vida"
+ },
+ "ChallengeFearOfTheDarkCompleted": {
+  "n": "Visão Noturna",
+  "d": "Vença o desafio Medo do Escuro"
+ },
+ "ChallengeBossRunCompleted": {
+  "n": "A Recompensa",
+  "d": "Vença o desafio Sequência de Chefes"
+ },
+ "OuterRealmVictory": {
+  "n": "Chave da Masmorra",
+  "d": "Complete o Reino Exterior"
+ },
+ "DefeatShopkeeper": {
+  "n": "Liberar Classe Lojista",
+  "d": "Derrote o Lojista"
+ },
+ "DefeatCountessMalformed": {
+  "n": "Deformada",
+  "d": "Derrote a Condessa Deformada"
+ },
+ "DefeatCountessAscended": {
+  "n": "Ascendida",
+  "d": "Derrote a Condessa Ascendida"
+ },
+ "RevengeClassesLeveled": {
+  "n": "Evoluído",
+  "d": "Nível 25 em todas as classes de Vingança"
+ },
+ "RevengeComplete": {
+  "n": "Vingado",
+  "d": "Complete A Vingança da Condessa"
+ }
+}

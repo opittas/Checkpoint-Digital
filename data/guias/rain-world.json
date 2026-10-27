@@ -1,0 +1,25 @@
+{
+  "resumo": "Sobrevivência difícil num ecossistema hostil. Conquistas de passagens (Passages), finais e campanhas das DLCs.",
+  "roadmap": [
+    {
+      "titulo": "1. Sobreviver",
+      "texto": "Aprenda a fugir de predadores e a hibernar com comida."
+    },
+    {
+      "titulo": "2. Passagens",
+      "texto": "As Passagens (Pacifista, Caçador, Errante...) são as conquistas principais."
+    },
+    {
+      "titulo": "3. Finais",
+      "texto": "Termine as campanhas dos personagens."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "As campanhas de Downpour ficam nas abas separadas."
+    }
+  ],
+  "avisos": [
+    "É um jogo propositalmente cruel."
+  ],
+  "conquistas": {}
+}

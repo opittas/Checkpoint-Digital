@@ -1,0 +1,19 @@
+{
+  "resumo": "Monte e conserte PCs na sua oficina. Conquistas de trabalhos, componentes e overclock.",
+  "roadmap": [
+    {
+      "titulo": "1. Carreira",
+      "texto": "Atenda os clientes e cresça a oficina."
+    },
+    {
+      "titulo": "2. Montagens",
+      "texto": "Faça builds específicas pedidas pelas conquistas."
+    },
+    {
+      "titulo": "3. Extras",
+      "texto": "Algumas são piadas, como bater em impressoras."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

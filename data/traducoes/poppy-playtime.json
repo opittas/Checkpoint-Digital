@@ -1,0 +1,402 @@
+{
+ "CH1_YOUR_FRIEND_HUGGY": {
+  "n": "(Capítulo 1) Seu Amigo Huggy",
+  "d": "Escute a música-tema do Huggy Wuggy"
+ },
+ "CH1_USE_RESPONSIBLY": {
+  "n": "(Capítulo 1) Use com Responsabilidade",
+  "d": "Complete o GrabPack"
+ },
+ "CH1_MADE_A_FRIEND": {
+  "n": "(Capítulo 1) Fiz um Amigo",
+  "d": "Monte o brinquedo Gato-Abelha"
+ },
+ "CH1_NARROW_ESCAPE": {
+  "n": "(Capítulo 1) Por um Triz",
+  "d": "Fuja do Huggy Wuggy"
+ },
+ "CH1_TIME_TO_PLAY": {
+  "n": "(Capítulo 1) Hora de Brincar",
+  "d": "Termine o jogo"
+ },
+ "CH1_AVID_LISTENER": {
+  "n": "(Capítulo 1) Ouvinte Assíduo",
+  "d": "Assista a todas as fitas VHS"
+ },
+ "CH2_DISMEMBERED": {
+  "n": "(Capítulo 2) Desmembrado",
+  "d": "Perca a Mão Vermelha"
+ },
+ "CH2_TAKING_CHARGE": {
+  "n": "(Capítulo 2) Assumindo o Controle",
+  "d": "Pegue a Mão Verde"
+ },
+ "CH2_MUSICAL_MEMORY": {
+  "n": "(Capítulo 2) Memória Musical",
+  "d": "Vença o Memória Musical"
+ },
+ "CH2_WHACK_A_WUGGY": {
+  "n": "(Capítulo 2) Acerte o Wuggy",
+  "d": "Vença o Acerte o Wuggy"
+ },
+ "CH2_STATUES": {
+  "n": "(Capítulo 2) Estátuas",
+  "d": "Fuja do Estátua"
+ },
+ "CH2_WHAT_HAVE_YOU_DONE": {
+  "n": "(Capítulo 2) O Que Você Fez?",
+  "d": "Derrote a Mommy Long Legs"
+ },
+ "CH2_ESCAPE": {
+  "n": "(Capítulo 2) Fuga",
+  "d": "Termine o jogo"
+ },
+ "CH2_MEMORY_MASTER": {
+  "n": "(Capítulo 2) Mestre da Memória",
+  "d": "Vença o Memória Musical sem errar"
+ },
+ "CH2_SHOT_IN_THE_DARK": {
+  "n": "(Capítulo 2) Tiro no Escuro",
+  "d": "Vença o Acerte o Wuggy sem usar a lanterna"
+ },
+ "CH2_ABRIDGED": {
+  "n": "(Capítulo 2) Resumido",
+  "d": "Complete o puzzle do Tratamento de Água com o mínimo de movimentos"
+ },
+ "CH2_AHEAD_OF_SCHEDULE": {
+  "n": "(Capítulo 2) Adiantado",
+  "d": "Termine o jogo inteiro em menos de 45 minutos"
+ },
+ "CH2_UNDEFEATED": {
+  "n": "(Capítulo 2) Invicto",
+  "d": "Termine o jogo sem morrer"
+ },
+ "CH2_AVID_READER": {
+  "n": "(Capítulo 2) Leitor Assíduo",
+  "d": "Colete todos os documentos escondidos"
+ },
+ "CH2_AVID_LISTENER": {
+  "n": "(Capítulo 2) Ouvinte Assíduo",
+  "d": "Assista a todas as fitas VHS"
+ },
+ "CH2_DAISY_TROPHY": {
+  "n": "(Capítulo 2) Troféu da Daisy",
+  "d": "Pegue o troféu da Daisy"
+ },
+ "CH2_TRAIN_TROPHY": {
+  "n": "(Capítulo 2) Troféu do Trem",
+  "d": "Pegue o troféu do Trem"
+ },
+ "CH2_GREEN_HAND_TROPHY": {
+  "n": "(Capítulo 2) Troféu da Mão Verde",
+  "d": "Pegue o troféu da Mão Verde"
+ },
+ "CH2_BUNZO_BUNNY_TROPHY": {
+  "n": "(Capítulo 2) Troféu do Bunzo Bunny",
+  "d": "Pegue o troféu do Bunzo Bunny"
+ },
+ "CH2_KISSY_MISSY_TROPHY": {
+  "n": "(Capítulo 2) Troféu da Kissy Missy",
+  "d": "Pegue o troféu da Kissy Missy"
+ },
+ "CH2_PJ_PUG_A_PILLAR_TROPHY": {
+  "n": "(Capítulo 2) Troféu do PJ Pug-A-Pillar",
+  "d": "Pegue o troféu do PJ Pug-A-Pillar"
+ },
+ "CH2_BARRY_CART_TROPHY": {
+  "n": "(Capítulo 2) Troféu do Barry Cart",
+  "d": "Pegue o troféu do Barry Cart"
+ },
+ "CH2_MOMMY_LONG_LEGS_TROPHY": {
+  "n": "(Capítulo 2) Troféu da Mommy Long Legs",
+  "d": "Pegue o troféu da Mommy Long Legs"
+ },
+ "CH2_CLAW_TROPHY": {
+  "n": "(Capítulo 2) Troféu da Garra",
+  "d": "Pegue o troféu da Garra"
+ },
+ "CH2_SWEET_REVENGE": {
+  "n": "(Capítulo 2) Doce Vingança",
+  "d": "Derrube o painel de papelão do Huggy"
+ },
+ "CH2_BAD_LISTENER": {
+  "n": "(Capítulo 2) Mau Ouvinte",
+  "d": "Deixe a Poppy triste"
+ },
+ "CH2_TALK_TO_THE_HAND": {
+  "n": "(Capítulo 2) Fala com a Mão",
+  "d": "Dê um tapa na cara da Mommy"
+ },
+ "CH2_THE_SCARIEST_DINOSAUR": {
+  "n": "(Capítulo 2) O Dinossauro Mais Assustador",
+  "d": "Escute todas as piadas do Bron"
+ },
+ "CH2_SUGAR_RUSH": {
+  "n": "(Capítulo 2) Overdose de Açúcar",
+  "d": "Dê comida demais ao CandyCat"
+ },
+ "CH2_BAD_HIDING_SPOT": {
+  "n": "(Capítulo 2) Esconderijo Ruim",
+  "d": "Você ao menos tentou?"
+ },
+ "CH2_IS_SHE_GONE_YET": {
+  "n": "(Capítulo 2) Ela Já Foi?",
+  "d": "Pode descer agora"
+ },
+ "CH2_YOURE_FIRED": {
+  "n": "(Capítulo 2) Você Está Demitido",
+  "d": "Saia em grande estilo"
+ },
+ "CH2_WHISTLEBLOWER": {
+  "n": "(Capítulo 2) Apitador",
+  "d": "Piuí!"
+ },
+ "CH3_WELCOME_TO_PLAYCARE": {
+  "n": "(Capítulo 3) Bem-vindo à Playcare!",
+  "d": "Entre na cúpula da Playcare"
+ },
+ "CH3_WELL_ARMED": {
+  "n": "(Capítulo 3) Bem Armado",
+  "d": "Pegue o GrabPack 2.0"
+ },
+ "CH3_BAD_DREAM": {
+  "n": "(Capítulo 3) Pesadelo",
+  "d": "\"Fuja\" do Huggy Pesadelo"
+ },
+ "CH3_CLASS_DISMISSED": {
+  "n": "(Capítulo 3) Aula Dispensada",
+  "d": "Derrote a Miss Delight"
+ },
+ "CH3_LAST_OF_THE_SMILING_CRITTERS": {
+  "n": "(Capítulo 3) O Último dos Smiling Critters",
+  "d": "Fuja do DogDay"
+ },
+ "CH3_REMEMBER": {
+  "n": "(Capítulo 3) Lembre-se...",
+  "d": "Sobreviva a um encontro de pesadelo"
+ },
+ "CH3_THE_NIGHTMARE_ENDS": {
+  "n": "(Capítulo 3) O Pesadelo Acaba",
+  "d": "Derrote o CatNap"
+ },
+ "CH3_DELVING_DEEPER": {
+  "n": "(Capítulo 3) Indo Mais Fundo",
+  "d": "Termine o jogo"
+ },
+ "CH3_EXPERT_NAVIGATOR": {
+  "n": "(Capítulo 3) Navegador Experiente",
+  "d": "Fuja do primeiro sonho sem errar o caminho"
+ },
+ "CH3_SNEAK_ATTACK": {
+  "n": "(Capítulo 3) Ataque Furtivo",
+  "d": "Tire a bateria do Bobby BearHug sem ser notado"
+ },
+ "CH3_QUICK_LEARNER": {
+  "n": "(Capítulo 3) Aprendiz Rápido",
+  "d": "Derrote a Miss Delight em menos de dois minutos"
+ },
+ "CH3_ECO_FRIENDLY": {
+  "n": "(Capítulo 3) Ecológico",
+  "d": "Derrote o CatNap sem usar baterias extras"
+ },
+ "CH3_SCREAMING_CRITTERS": {
+  "n": "(Capítulo 3) Critters Gritando",
+  "d": "Escute todos os painéis de papelão dos Smiling Critters"
+ },
+ "CH3_THRILL_SEEKER": {
+  "n": "(Capítulo 3) Caçador de Emoções",
+  "d": "Leve todos os sustos"
+ },
+ "CH3_SELF_RESTRAINT": {
+  "n": "(Capítulo 3) Autocontrole",
+  "d": "Chegue à Sala Segura sem lançar as mãos do GrabPack mais de 200 vezes"
+ },
+ "CH3_POPPYS_ANGEL": {
+  "n": "(Capítulo 3) Anjo da Poppy",
+  "d": "Termine o jogo sem morrer"
+ },
+ "CH3_STUDIOUS": {
+  "n": "(Capítulo 3) Estudioso",
+  "d": "Colete todas as anotações da escola"
+ },
+ "CH3_AVID_LISTENER": {
+  "n": "(Capítulo 3) Ouvinte Assíduo",
+  "d": "Assista a todas as fitas VHS"
+ },
+ "CH3_TIGHT_SQUEEZE": {
+  "n": "(Capítulo 3) Aperto",
+  "d": "Seja esmagado no compactador de lixo"
+ },
+ "CH3_HURRY_UP": {
+  "n": "(Capítulo 3) Anda Logo!",
+  "d": "Leve uma bronca do Ollie"
+ },
+ "CH3_SLEEP_WELL": {
+  "n": "(Capítulo 3) Durma Bem",
+  "d": "Escute uma música secreta com o CatNap"
+ },
+ "CH3_AIRTIME": {
+  "n": "(Capítulo 3) Tempo no Ar",
+  "d": "Fique 30 segundos no ar usando a Mão Roxa"
+ },
+ "CH3_MEMORY_LANE": {
+  "n": "(Capítulo 3) Recordações",
+  "d": "Encontre a Kissy Missy em Lar Doce Lar"
+ },
+ "CH3_SPEED_DEMON": {
+  "n": "(Capítulo 3) Demônio da Velocidade",
+  "d": "Ande num carro de corrida em Lar Doce Lar"
+ },
+ "CH3_STOP_HITTING_YOURSELF": {
+  "n": "(Capítulo 3) Pare de Se Bater",
+  "d": "Atire em si mesmo com uma Torre de Agarrar cinco vezes"
+ },
+ "CH3_BYE_KISSY": {
+  "n": "(Capítulo 3) Tchau, Kissy!",
+  "d": "Dê tchau para a Kissy Missy"
+ },
+ "CH3_WORSHIP": {
+  "n": "(Capítulo 3) Adoração",
+  "d": "Veja o CatNap adorando o Protótipo"
+ },
+ "CH3_EXTERMINATOR": {
+  "n": "(Capítulo 3) Exterminador",
+  "d": "Atire um sinalizador em cada variante dos Smiling Critters"
+ },
+ "CH3_LIONS_DEN": {
+  "n": "(Capítulo 3) Covil do Leão",
+  "d": "Descubra o covil secreto do CatNap"
+ },
+ "CH3_PREDATION": {
+  "n": "(Capítulo 3) Predação",
+  "d": "É o ciclo da vida!"
+ },
+ "CH3_CANT_CATCH_ME": {
+  "n": "(Capítulo 3) Não Me Pega!",
+  "d": "Corra com o CatNap por um minuto"
+ },
+ "CH4_DONT_LOSE_IT_THIS_TIME": {
+  "n": "(Capítulo 4) Não Perca Desta Vez",
+  "d": "Pegue a Mão Vermelha"
+ },
+ "CH4_SANCTUARY": {
+  "n": "(Capítulo 4) Santuário",
+  "d": "Chegue ao Refúgio Seguro"
+ },
+ "CH4_HOOK_LION_AND_SINKER": {
+  "n": "(Capítulo 4) Anzol, Leão e Chumbada",
+  "d": "Derrote o Yarnaby"
+ },
+ "CH4_AN_APPLE_A_DAY": {
+  "n": "(Capítulo 4) Uma Maçã por Dia",
+  "d": "Pegue a Omni-Mão do Doutor"
+ },
+ "CH4_SAVIOR_OF_SAFE_HAVEN": {
+  "n": "(Capítulo 4) Salvador do Refúgio",
+  "d": "Conserte o gerador"
+ },
+ "CH4_COLD_BLOODED": {
+  "n": "(Capítulo 4) Sangue Frio",
+  "d": "Derrote o Doey"
+ },
+ "CH4_START_RUNNING": {
+  "n": "(Capítulo 4) Comece a Correr",
+  "d": "Termine o jogo"
+ },
+ "CH4_UNTOUCHABLE": {
+  "n": "(Capítulo 4) Intocável",
+  "d": "Sobreviva à Horda sem sofrer dano"
+ },
+ "CH4_YOU_CAN_RUN": {
+  "n": "(Capítulo 4) Pode Correr...",
+  "d": "Derrote o Yarnaby sem usar esconderijos"
+ },
+ "CH4_HOLD_YOUR_BREATH": {
+  "n": "(Capítulo 4) Prenda a Respiração",
+  "d": "Complete o labirinto de gás sem recarregar o tanque de oxigênio"
+ },
+ "CH4_PIPING_HOTSHOT": {
+  "n": "(Capítulo 4) Craque dos Canos",
+  "d": "Redirecione o gás da Fundação com o mínimo de movimentos"
+ },
+ "CH4_EFFICNCY": {
+  "n": "(Capítulo 4) Eficiência",
+  "d": "Derrote o Doey sem desperdiçar cilindros de nitrogênio"
+ },
+ "CH4_MANE_ATTRACTION": {
+  "n": "(Capítulo 4) Atração da Juba",
+  "d": "Escute o painel de papelão do Yarnaby"
+ },
+ "CH4_JOIN_THE_CHORUS": {
+  "n": "(Capítulo 4) Entre no Coro",
+  "d": "Escute o painel de papelão do Pianosaurus"
+ },
+ "CH4_TRIPLE_TIMES_THE_FUN": {
+  "n": "(Capítulo 4) Diversão em Triplo",
+  "d": "Escute o painel de papelão do Doey"
+ },
+ "CH4_DEAR_DIARY": {
+  "n": "(Capítulo 4) Querido Diário",
+  "d": "Colete todos os diários escondidos"
+ },
+ "CH4_AVID_READER": {
+  "n": "(Capítulo 4) Leitor Assíduo",
+  "d": "Colete todos os documentos escondidos"
+ },
+ "CH4_AVID_LISTENER": {
+  "n": "(Capítulo 4) Ouvinte Assíduo",
+  "d": "Assista a todas as fitas VHS"
+ },
+ "CH4_FEARLESS": {
+  "n": "(Capítulo 4) Destemido",
+  "d": "Termine o jogo sem morrer"
+ },
+ "CH4_SELF_RESTRAINT": {
+  "n": "(Capítulo 4) Autocontrole",
+  "d": "Termine o jogo sem lançar as mãos do GrabPack mais de 200 vezes"
+ },
+ "CH4_ACCESS_DENIED": {
+  "n": "(Capítulo 4) Acesso Negado",
+  "d": ":("
+ },
+ "CH4_D_O_E_Y": {
+  "n": "(Capítulo 4) D-O-E-Y",
+  "d": "Diversão até o dia em que você morrer!"
+ },
+ "CH4_PERSISTENT_PETS": {
+  "n": "(Capítulo 4) Bichinhos Insistentes",
+  "d": "Por favor, não faça carinho no Yarnaby"
+ },
+ "CH4_RESCUE_MISSION": {
+  "n": "(Capítulo 4) Missão de Resgate",
+  "d": "Leve um amigo para um lugar seguro"
+ },
+ "CH4_HAT_TRICK": {
+  "n": "(Capítulo 4) Truque Triplo",
+  "d": "Marque três gols num CraftyCorn ativo"
+ },
+ "CH4_MOMENT_OF_SILENCE": {
+  "n": "(Capítulo 4) Minuto de Silêncio",
+  "d": "Preste homenagem aos brinquedos caídos"
+ },
+ "CH4_BOO": {
+  "n": "(Capítulo 4) Buu!",
+  "d": "Você me achou!"
+ },
+ "CH4_EAVESDROPPING": {
+  "n": "(Capítulo 4) Bisbilhotando",
+  "d": "Escute uma conversa particular"
+ },
+ "CH4_MUSCLE_MEMORY": {
+  "n": "(Capítulo 4) Memória Muscular",
+  "d": "É, com certeza está quebrado"
+ },
+ "CH4_HEART_OF_GOLD": {
+  "n": "(Capítulo 4) Coração de Ouro",
+  "d": "Escolha poupar uma vida"
+ },
+ "CH4_UNCOVERING_THE_PAST": {
+  "n": "(Capítulo 4) Desvendando o Passado",
+  "d": "Entre na sala secreta do Doutor"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "ACH_STABLECOMP_NORM": {
+  "n": "SEQUÊNCIA ESTÁVEL COMPLETA NORMAL",
+  "d": "Completou uma sequência estável inteira no normal"
+ },
+ "ACH_STABLECOMP_EASY": {
+  "n": "SEQUÊNCIA ESTÁVEL COMPLETA FÁCIL",
+  "d": "Completou uma sequência estável inteira no fácil"
+ },
+ "ACH_STABLECOMP_HARD": {
+  "n": "SEQUÊNCIA ESTÁVEL COMPLETA DIFÍCIL",
+  "d": "Completou uma sequência estável inteira no difícil"
+ },
+ "ACH_INSTABLECOMP_NORM": {
+  "n": "SEQUÊNCIA INSTÁVEL COMPLETA NORMAL",
+  "d": "Completou uma sequência instável no normal"
+ },
+ "ACH_INSTABLECOMP_EASY": {
+  "n": "SEQUÊNCIA INSTÁVEL COMPLETA FÁCIL",
+  "d": "Completou uma sequência instável no fácil"
+ },
+ "ACH_INSTABLECOMP_HARD": {
+  "n": "SEQUÊNCIA INSTÁVEL COMPLETA DIFÍCIL",
+  "d": "Completou uma sequência instável no difícil"
+ }
+}

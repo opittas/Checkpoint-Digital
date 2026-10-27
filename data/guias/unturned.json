@@ -1,0 +1,21 @@
+{
+  "resumo": "Sobrevivência zumbi gratuita com muitos mapas. Cada mapa tem suas conquistas.",
+  "roadmap": [
+    {
+      "titulo": "1. Básico",
+      "texto": "Sobreviva, colete, fabrique e construa."
+    },
+    {
+      "titulo": "2. Mapas",
+      "texto": "Visite cada mapa (PEI, Yukon, Washington, Rússia, Alemanha, Califórnia, Rio...)."
+    },
+    {
+      "titulo": "3. Missões",
+      "texto": "Complete as linhas de missão de cada mapa."
+    }
+  ],
+  "avisos": [
+    "Algumas são de eventos sazonais (Natal)."
+  ],
+  "conquistas": {}
+}

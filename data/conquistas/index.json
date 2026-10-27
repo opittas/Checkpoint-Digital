@@ -395,5 +395,1005 @@
   "base": 3,
   "dlcs": {},
   "atualizado": "2026-10-27"
+ },
+ "brawlhalla": {
+  "total": 65,
+  "base": 65,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "among-us": {
+  "total": 33,
+  "base": 33,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "call-of-duty": {
+  "total": 175,
+  "base": 0,
+  "dlcs": {
+   "Call of Duty®: Modern Warfare® 4 - Campanha": [
+    "rex_sp_noharmdone",
+    "rex_sp_holdtheline",
+    "rex_sp_worthit",
+    "rex_sp_deaddrop",
+    "rex_sp_onlygunneed",
+    "rex_sp_canttouchthis",
+    "rex_sp_nostoneunturned",
+    "rex_sp_bullettrain",
+    "rex_sp_rainingthunder",
+    "rex_sp_revenge",
+    "rex_sp_pacifist",
+    "rex_sp_timetocrate",
+    "rex_sp_scavenger",
+    "rex_sp_incoming",
+    "rex_sp_longshot",
+    "rex_sp_neverforgotten",
+    "rex_sp_trenchbroom",
+    "rex_sp_noteworthy"
+   ],
+   "Call of Duty®: Black Ops 7": [
+    "sat_global_newdynasty",
+    "sat_global_myrifle",
+    "sat_global_masterofarms",
+    "sat_global_drippedout",
+    "sat_global_decoratedveteran"
+   ],
+   "Call of Duty®: Black Ops 7 - Campanha Co-Op": [
+    "sat_wc_completecampaign",
+    "sat_wc_turbocharged",
+    "sat_wc_loremaster",
+    "sat_wc_purveyoroffinegoods",
+    "sat_wc_mission1",
+    "sat_wc_mission2and3",
+    "sat_wc_mission4and5",
+    "sat_wc_mission6and7",
+    "sat_wc_mission8and9",
+    "sat_wc_mission10and11",
+    "sat_wc_dontdieonme",
+    "sat_wc_glide800m",
+    "sat_wc_capricorn_stealth",
+    "sat_wc_complete10assignments"
+   ],
+   "Call of Duty®: Black Ops 7 - Multijogador": [
+    "sat_mp_maximumoverdrive",
+    "sat_mp_frontlineoffensive",
+    "sat_mp_destroyer",
+    "sat_mp_glamorshot",
+    "sat_mp_takingnames",
+    "sat_mp_archenemy",
+    "sat_mp_perfected",
+    "sat_mp_callingforbackup",
+    "sat_mp_notinmyhouse",
+    "sat_mp_legitimatestrategy",
+    "sat_mp_readyforaction",
+    "sat_mp_pathfinder",
+    "sat_mp_farsight",
+    "sat_mp_freshmoves"
+   ],
+   "Call of Duty®: Black Ops 7 - Zumbis": [
+    "sat_zm_dusttodust",
+    "sat_zm_corpseaplenty",
+    "sat_zm_survivalfittest",
+    "sat_zm_expertcurator",
+    "sat_zm_hoarder",
+    "sat_zm_mixologist",
+    "sat_zm_chewonthis",
+    "sat_zm_intesitea",
+    "sat_zm_youlikeupgrades",
+    "sat_zm_goodsoldiers",
+    "sat_zm_poisonparadise",
+    "sat_zm_yoursoulismine",
+    "sat_zm_scientificbreakthrough",
+    "sat_zm_enforcedfreedom",
+    "sat_doa_reunited",
+    "sat_doa_foreverfated",
+    "sat_doa_fowlfivepiece"
+   ],
+   "Call of Duty®: Black Ops 6": [
+    "t10_global_return_king",
+    "t10_global_showoff",
+    "t10_global_camosforever"
+   ],
+   "Call of Duty®: Black Ops 6 - Campanha": [
+    "t10_sp_complete_any",
+    "t10_sp_complete_veteran",
+    "t10_sp_mission_intro",
+    "t10_sp_mission_contract",
+    "t10_sp_mission_union",
+    "t10_sp_mission_sandbox",
+    "t10_sp_mission_redacted",
+    "t10_sp_mission_heist",
+    "t10_sp_mission_storm",
+    "t10_sp_mission_sabotage",
+    "t10_sp_mission_interrogation",
+    "t10_sp_mission_safehouse",
+    "t10_sp_contract_covert",
+    "t10_sp_union_takedowns",
+    "t10_sp_sandbox_full",
+    "t10_sp_sabotage_target",
+    "t10_sp_storm_crush",
+    "t10_sp_safehouse_apc",
+    "t10_sp_safehouse_purchase",
+    "t10_sp_safehouse_puzzles",
+    "t10_sp_remote_knife",
+    "t10_sp_adrenaline",
+    "t10_sp_takedowns",
+    "t10_sp_killstreak"
+   ],
+   "Call of Duty®: Black Ops 6 - Multijogador": [
+    "t10_mp_palehorse",
+    "t10_mp_podiumfinish",
+    "t10_mp_rushhour",
+    "t10_mp_redcarpet",
+    "t10_mp_doingyourpart",
+    "t10_mp_betrayal",
+    "t10_mp_heavyordinance",
+    "t10_mp_stylishkill"
+   ],
+   "Call of Duty®: Black Ops 6- Zumbis": [
+    "t10_zm_complete_quartz_mq",
+    "t10_zm_culinary_delight",
+    "t10_zm_treasure_hunter",
+    "t10_zm_complete_garnet_mq",
+    "t10_zm_world_domination",
+    "t10_zm_deadwood",
+    "t10_zm_knowyourenemy",
+    "t10_zm_cyberized",
+    "t10_zm_annihilation"
+   ],
+   "Call of Duty®: Modern Warfare® III - Campanha": [
+    "jup_sp_boundandmagged",
+    "jup_sp_timeforanewplan",
+    "jup_sp_professionalhoarder",
+    "jup_sp_partyfavors",
+    "jup_sp_engineeringdegree",
+    "jup_sp_iliketopretendihaveaplan",
+    "jup_sp_suit_up",
+    "jup_sp_haveyoutriedturningitoff",
+    "jup_sp_thatsonewaytodoit",
+    "jup_sp_heycatch",
+    "jup_sp_frequentflier",
+    "jup_sp_driveby",
+    "jup_sp_whatthehellkindofnameis",
+    "jup_sp_141ready",
+    "jup_sp_deathpenalty",
+    "jup_sp_fightorflight",
+    "jup_sp_jackofallweapons",
+    "jup_sp_cccollateral",
+    "jup_sp_oldhabitsdiehard",
+    "jup_sp_shotblocked",
+    "jup_sp_enjoythelittlethings",
+    "jup_sp_fullsweep",
+    "jup_sp_hushhush",
+    "jup_sp_hitchhiker",
+    "jup_sp_yourtaxdollarsatwork"
+   ],
+   "Call of Duty®: Modern Warfare® III - Multijogador": [
+    "jup_mp_thefirststep"
+   ],
+   "Call of Duty®: Modern Warfare® III - Zumbis": [
+    "jup_ob_andsoitbegins",
+    "jup_ob_writeoff",
+    "jup_ob_perkaholic",
+    "jup_ob_gravestone",
+    "jup_ob_backfromthedead",
+    "jup_ob_helpfulstranger",
+    "jup_ob_youcanpetthedog",
+    "jup_ob_hiredgun",
+    "jup_ob_seeingred",
+    "jup_ob_theend",
+    "jup_ob_slaughterhouse",
+    "jup_ob_conqueror",
+    "jup_ob_oneagainstall"
+   ],
+   "Call of Duty®: Modern Warfare® II - Campanha e cooperativo": [
+    "acrappywaytodie",
+    "backpackguy",
+    "crocodile",
+    "daredevil",
+    "gentlemanthief",
+    "ghostintraining",
+    "mustbewind",
+    "nessy",
+    "nobodywasthere",
+    "noshootwounded",
+    "notimetolose",
+    "onehijack",
+    "practicemakesperfect",
+    "spfinish",
+    "testdrive",
+    "thefloorislava",
+    "vetfinish",
+    "wallofduty",
+    "fullsse",
+    "noalarmbadsit",
+    "onestarcp",
+    "threestarbadsit",
+    "threestarobservatory",
+    "threestarvehesc"
+   ]
+  },
+  "atualizado": "2026-10-27"
+ },
+ "fall-guys": {
+  "total": 34,
+  "base": 34,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "call-of-duty-black-ops-cold-war": {
+  "total": 44,
+  "base": 44,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "counter-strike-2": {
+  "total": 1,
+  "base": 1,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "paladins": {
+  "total": 58,
+  "base": 58,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "ea-sports-fc-24": {
+  "total": 40,
+  "base": 40,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "realm-royale-reforged": {
+  "total": 22,
+  "base": 22,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "amaze-classic": {
+  "total": 200,
+  "base": 200,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "a-story-about-my-uncle": {
+  "total": 15,
+  "base": 15,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "scribblenauts-unlimited": {
+  "total": 25,
+  "base": 25,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "the-room-three": {
+  "total": 10,
+  "base": 10,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "sword-art-online-hollow-realization-delu": {
+  "total": 53,
+  "base": 53,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "the-room-two": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "my-dream-setup": {
+  "total": 16,
+  "base": 16,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "kurtzpel": {
+  "total": 85,
+  "base": 85,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "buckshot-roulette": {
+  "total": 16,
+  "base": 16,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "the-witness": {
+  "total": 2,
+  "base": 2,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "smite-2": {
+  "total": 27,
+  "base": 27,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "trove": {
+  "total": 19,
+  "base": 19,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "rock-simulator": {
+  "total": 55,
+  "base": 55,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "streamer-life-simulator": {
+  "total": 15,
+  "base": 15,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "slime-rancher": {
+  "total": 57,
+  "base": 57,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "stardew-valley": {
+  "total": 49,
+  "base": 49,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "battleblock-theater": {
+  "total": 30,
+  "base": 30,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "lovechoice": {
+  "total": 20,
+  "base": 20,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "peak": {
+  "total": 64,
+  "base": 64,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "rain-world": {
+  "total": 47,
+  "base": 21,
+  "dlcs": {
+   "DLC: Downpour": [
+    "HunterPayload",
+    "HunterWin",
+    "GourmandEnding",
+    "ArtificerEnding",
+    "RivuletEnding",
+    "SpearmasterEnding",
+    "SaintEnding",
+    "ChallengeMode",
+    "Quests",
+    "PassageMartyr",
+    "PassageNomad",
+    "PassagePilgrim",
+    "PassageMother"
+   ],
+   "DLC: The Watcher": [
+    "WarpPoint",
+    "BadWarp",
+    "AncientUrban",
+    "SpinningTopEnding",
+    "RotPrince",
+    "RotPrinceEnding",
+    "RippleDimension",
+    "RippleCreature",
+    "VoidWeaver",
+    "WeaverAbility",
+    "VoidWeaverEnding",
+    "PearlReader",
+    "WatcherAscension"
+   ]
+  },
+  "atualizado": "2026-10-27"
+ },
+ "pc-building-simulator": {
+  "total": 94,
+  "base": 94,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "the-noexistencen-of-you-and-me": {
+  "total": 31,
+  "base": 31,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "tabletop-simulator": {
+  "total": 26,
+  "base": 26,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "pacify": {
+  "total": 52,
+  "base": 52,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "coromon": {
+  "total": 80,
+  "base": 80,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "banana": {
+  "total": 76,
+  "base": 76,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "sword-art-online-lost-song": {
+  "total": 43,
+  "base": 43,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "never-split-the-party": {
+  "total": 86,
+  "base": 86,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "unrailed": {
+  "total": 53,
+  "base": 53,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "ark-survival-evolved": {
+  "total": 32,
+  "base": 32,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "pubg-battlegrounds": {
+  "total": 37,
+  "base": 37,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "modern-combat-versus": {
+  "total": 21,
+  "base": 21,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "the-exit-8": {
+  "total": 2,
+  "base": 2,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "left-4-dead-2": {
+  "total": 101,
+  "base": 101,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "poppy-playtime": {
+  "total": 100,
+  "base": 6,
+  "dlcs": {
+   "Capítulo 2": [
+    "CH2_DISMEMBERED",
+    "CH2_TAKING_CHARGE",
+    "CH2_MUSICAL_MEMORY",
+    "CH2_WHACK_A_WUGGY",
+    "CH2_STATUES",
+    "CH2_WHAT_HAVE_YOU_DONE",
+    "CH2_ESCAPE",
+    "CH2_MEMORY_MASTER",
+    "CH2_SHOT_IN_THE_DARK",
+    "CH2_ABRIDGED",
+    "CH2_AHEAD_OF_SCHEDULE",
+    "CH2_UNDEFEATED",
+    "CH2_AVID_READER",
+    "CH2_AVID_LISTENER",
+    "CH2_DAISY_TROPHY",
+    "CH2_TRAIN_TROPHY",
+    "CH2_GREEN_HAND_TROPHY",
+    "CH2_BUNZO_BUNNY_TROPHY",
+    "CH2_KISSY_MISSY_TROPHY",
+    "CH2_PJ_PUG_A_PILLAR_TROPHY",
+    "CH2_BARRY_CART_TROPHY",
+    "CH2_MOMMY_LONG_LEGS_TROPHY",
+    "CH2_CLAW_TROPHY",
+    "CH2_SWEET_REVENGE",
+    "CH2_BAD_LISTENER",
+    "CH2_TALK_TO_THE_HAND",
+    "CH2_THE_SCARIEST_DINOSAUR",
+    "CH2_SUGAR_RUSH",
+    "CH2_BAD_HIDING_SPOT",
+    "CH2_IS_SHE_GONE_YET",
+    "CH2_YOURE_FIRED",
+    "CH2_WHISTLEBLOWER"
+   ],
+   "Capítulo 3": [
+    "CH3_WELCOME_TO_PLAYCARE",
+    "CH3_WELL_ARMED",
+    "CH3_BAD_DREAM",
+    "CH3_CLASS_DISMISSED",
+    "CH3_LAST_OF_THE_SMILING_CRITTERS",
+    "CH3_REMEMBER",
+    "CH3_THE_NIGHTMARE_ENDS",
+    "CH3_DELVING_DEEPER",
+    "CH3_EXPERT_NAVIGATOR",
+    "CH3_SNEAK_ATTACK",
+    "CH3_QUICK_LEARNER",
+    "CH3_ECO_FRIENDLY",
+    "CH3_SCREAMING_CRITTERS",
+    "CH3_THRILL_SEEKER",
+    "CH3_SELF_RESTRAINT",
+    "CH3_POPPYS_ANGEL",
+    "CH3_STUDIOUS",
+    "CH3_AVID_LISTENER",
+    "CH3_TIGHT_SQUEEZE",
+    "CH3_HURRY_UP",
+    "CH3_SLEEP_WELL",
+    "CH3_AIRTIME",
+    "CH3_MEMORY_LANE",
+    "CH3_SPEED_DEMON",
+    "CH3_STOP_HITTING_YOURSELF",
+    "CH3_BYE_KISSY",
+    "CH3_WORSHIP",
+    "CH3_EXTERMINATOR",
+    "CH3_LIONS_DEN",
+    "CH3_PREDATION",
+    "CH3_CANT_CATCH_ME"
+   ],
+   "Capítulo 4": [
+    "CH4_DONT_LOSE_IT_THIS_TIME",
+    "CH4_SANCTUARY",
+    "CH4_HOOK_LION_AND_SINKER",
+    "CH4_AN_APPLE_A_DAY",
+    "CH4_SAVIOR_OF_SAFE_HAVEN",
+    "CH4_COLD_BLOODED",
+    "CH4_START_RUNNING",
+    "CH4_UNTOUCHABLE",
+    "CH4_YOU_CAN_RUN",
+    "CH4_HOLD_YOUR_BREATH",
+    "CH4_PIPING_HOTSHOT",
+    "CH4_EFFICNCY",
+    "CH4_MANE_ATTRACTION",
+    "CH4_JOIN_THE_CHORUS",
+    "CH4_TRIPLE_TIMES_THE_FUN",
+    "CH4_DEAR_DIARY",
+    "CH4_AVID_READER",
+    "CH4_AVID_LISTENER",
+    "CH4_FEARLESS",
+    "CH4_SELF_RESTRAINT",
+    "CH4_ACCESS_DENIED",
+    "CH4_D_O_E_Y",
+    "CH4_PERSISTENT_PETS",
+    "CH4_RESCUE_MISSION",
+    "CH4_HAT_TRICK",
+    "CH4_MOMENT_OF_SILENCE",
+    "CH4_BOO",
+    "CH4_EAVESDROPPING",
+    "CH4_MUSCLE_MEMORY",
+    "CH4_HEART_OF_GOLD",
+    "CH4_UNCOVERING_THE_PAST"
+   ]
+  },
+  "atualizado": "2026-10-27"
+ },
+ "muck": {
+  "total": 49,
+  "base": 49,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "darza-s-dominion": {
+  "total": 17,
+  "base": 17,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "florence": {
+  "total": 12,
+  "base": 12,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "never-alone-kisima-ingitchuna": {
+  "total": 19,
+  "base": 19,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "cube-escape-paradox": {
+  "total": 28,
+  "base": 28,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "hand-simulator-survival": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "business-tour-jogo-de-tabuleiro-multipla": {
+  "total": 19,
+  "base": 19,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "portal-2": {
+  "total": 51,
+  "base": 51,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "a-lenda-do-her-i-edi-o-definitiva": {
+  "total": 59,
+  "base": 59,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "clustertruck": {
+  "total": 19,
+  "base": 19,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "bloody-trapland": {
+  "total": 29,
+  "base": 29,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "lil-arena": {
+  "total": 69,
+  "base": 69,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "resident-evil-6": {
+  "total": 70,
+  "base": 70,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "frostrunner": {
+  "total": 28,
+  "base": 28,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "just-cause-2": {
+  "total": 50,
+  "base": 50,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "shank-2": {
+  "total": 20,
+  "base": 20,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "speedrunners": {
+  "total": 29,
+  "base": 29,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "dragon-ball-fighterz": {
+  "total": 35,
+  "base": 35,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "kingdom-classic": {
+  "total": 34,
+  "base": 34,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "goat-simulator": {
+  "total": 127,
+  "base": 127,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "terraria": {
+  "total": 137,
+  "base": 137,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "thief-simulator": {
+  "total": 33,
+  "base": 33,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "the-end-is-nigh": {
+  "total": 106,
+  "base": 106,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "egg": {
+  "total": 1,
+  "base": 1,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "little-nightmares": {
+  "total": 22,
+  "base": 22,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "polygon": {
+  "total": 1,
+  "base": 1,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "dragon-ball-xenoverse-2": {
+  "total": 61,
+  "base": 61,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "journey": {
+  "total": 14,
+  "base": 14,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "stumble-guys": {
+  "total": 36,
+  "base": 36,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "bilhar-3d-pool": {
+  "total": 13,
+  "base": 13,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "spooky-station": {
+  "total": 20,
+  "base": 20,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "dead-or-alive-5-last-round-core-fighters": {
+  "total": 45,
+  "base": 45,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "miner-lou": {
+  "total": 47,
+  "base": 47,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "drunken-wrestlers-2": {
+  "total": 20,
+  "base": 20,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "flower": {
+  "total": 14,
+  "base": 14,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "himno": {
+  "total": 11,
+  "base": 11,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "keep-talking-and-nobody-explodes": {
+  "total": 10,
+  "base": 10,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "temple-of-rust": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "accel-world-vs-sword-art-online-deluxe-e": {
+  "total": 40,
+  "base": 40,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "carpe-diem": {
+  "total": 2,
+  "base": 2,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "cup-of-ethanol": {
+  "total": 13,
+  "base": 13,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "drawful-2": {
+  "total": 10,
+  "base": 10,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "one-dreamer-prologue": {
+  "total": 9,
+  "base": 9,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "cheeky-chooks": {
+  "total": 33,
+  "base": 33,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "chill-corner": {
+  "total": 34,
+  "base": 34,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "destiny-2": {
+  "total": 23,
+  "base": 23,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "drift86": {
+  "total": 41,
+  "base": 41,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "garry-s-mod": {
+  "total": 29,
+  "base": 29,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "geoguessr-steam-edition": {
+  "total": 45,
+  "base": 45,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "gravity-circuit": {
+  "total": 53,
+  "base": 53,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "grim-clicker": {
+  "total": 56,
+  "base": 56,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "life-is-strange-episode-1": {
+  "total": 60,
+  "base": 60,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "marvel-rivals": {
+  "total": 49,
+  "base": 49,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "metro-2033-redux": {
+  "total": 49,
+  "base": 49,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "outbreak-epidemic": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "overwatch": {
+  "total": 164,
+  "base": 164,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "path-of-exile": {
+  "total": 127,
+  "base": 127,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "resident-evil-revelations-2": {
+  "total": 43,
+  "base": 43,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "scp-secret-laboratory": {
+  "total": 52,
+  "base": 52,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "sega-mega-drive-and-genesis-classics": {
+  "total": 25,
+  "base": 25,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "tbh-task-bar-hero": {
+  "total": 80,
+  "base": 80,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "tell-me-why": {
+  "total": 30,
+  "base": 30,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "the-room-4-old-sins": {
+  "total": 9,
+  "base": 9,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "untrusted": {
+  "total": 34,
+  "base": 34,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "unturned": {
+  "total": 95,
+  "base": 95,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "warframe": {
+  "total": 193,
+  "base": 193,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "winexy": {
+  "total": 16,
+  "base": 16,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
  }
 }

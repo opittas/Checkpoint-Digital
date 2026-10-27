@@ -1,0 +1,214 @@
+{
+ "_01_00_DISTANCE_100_EASY": {
+  "n": "Passeador",
+  "d": "Chegou a 100 m no modo infinito (fácil)."
+ },
+ "_01_01_DISTANCE_200_EASY": {
+  "n": "Caminhante",
+  "d": "Chegou a 200 m no modo infinito (fácil)."
+ },
+ "_01_02_DISTANCE_500_EASY": {
+  "n": "Viajante",
+  "d": "Chegou a 500 m no modo infinito (fácil)."
+ },
+ "_01_03_DISTANCE_1000_EASY": {
+  "n": "Andarilho",
+  "d": "Chegou a 1000 m no modo infinito (fácil)."
+ },
+ "_01_04_DISTANCE_2000_EASY": {
+  "n": "Explorador",
+  "d": "Chegou a 2000 m no modo infinito (fácil)."
+ },
+ "_02_00_DUCKY_DANGER": {
+  "n": "Perigo dos Patos",
+  "d": "Removeu 100 patos com dinamite."
+ },
+ "_02_01_SHEPHERD": {
+  "n": "Pastor",
+  "d": "Teve quatro animais diferentes presos no vagão de leite ao mesmo tempo."
+ },
+ "_02_02_ENGINEER": {
+  "n": "Engenheiro",
+  "d": "Fabricou mais de 10000 trilhos no total."
+ },
+ "_02_03_DESTRUCTIONIST": {
+  "n": "Destruidor",
+  "d": "Usou (muita) dinamite."
+ },
+ "_01_30_LEET": {
+  "n": "Leet",
+  "d": "Bateu exatamente aos 1337 m."
+ },
+ "_02_04_INDUSTRIALIST": {
+  "n": "Industrial",
+  "d": "Deixou o vagão de fabricação ocupado por um minuto inteiro."
+ },
+ "_02_05_ROCKETMAN": {
+  "n": "Homem-Foguete",
+  "d": "Voou com o jetpack por 30 minutos numa só partida."
+ },
+ "_03_02_NANUK": {
+  "n": "Nanuk",
+  "d": "Você gosta mesmo de frio, né?"
+ },
+ "_03_01_MOJAVE_COURIER": {
+  "n": "Mensageiro do Mojave",
+  "d": "O calor nunca te incomodou mesmo."
+ },
+ "_03_00_INCURIOUS": {
+  "n": "Sem Curiosidade",
+  "d": "Existem outros biomas?!"
+ },
+ "_03_03_SATANS_MINION": {
+  "n": "Servo de Satanás",
+  "d": "É tão agradável assim por aqui?"
+ },
+ "_03_04_APPOLLO_13": {
+  "n": "Apollo 13",
+  "d": "Foi atrás do outro lado do universo."
+ },
+ "_01_31_WRONG_WAY": {
+  "n": "Caminho Errado!",
+  "d": "Você precisa ir para a direita!"
+ },
+ "_02_06_MISSED_STATIONS": {
+  "n": "Oportunidades Perdidas",
+  "d": "50 estações ignoradas com sucesso!"
+ },
+ "_02_07_UNCLE_SCROOGE": {
+  "n": "Tio Patinhas",
+  "d": "Acumulou 25 parafusos."
+ },
+ "_04_00_COLLECTOR": {
+  "n": "Colecionador",
+  "d": "Desbloqueou tudo."
+ },
+ "_04_01_ACHIEVEMENT_MASTER": {
+  "n": "Mestre das Conquistas",
+  "d": "Você ainda está jogando?"
+ },
+ "_01_32_MARATHON": {
+  "n": "Maratona",
+  "d": "Você acabou de correr uma maratona!"
+ },
+ "_10_00_LOST_IN_MENU": {
+  "n": "Perdido",
+  "d": "Por favor, volte!"
+ },
+ "_03_07_SHOPAHOLIC": {
+  "n": "Compulsivo por Compras",
+  "d": "Quem não gosta de longas idas às compras?"
+ },
+ "_01_05_DISTANCE_100_MEDIUM": {
+  "n": "Passeador Avançado",
+  "d": "Chegou a 100 m no modo infinito (médio)."
+ },
+ "_01_06_DISTANCE_200_MEDIUM": {
+  "n": "Caminhante Avançado",
+  "d": "Chegou a 200 m no modo infinito (médio)."
+ },
+ "_01_07_DISTANCE_500_MEDIUM": {
+  "n": "Viajante Avançado",
+  "d": "Chegou a 500 m no modo infinito (médio)."
+ },
+ "_01_08_DISTANCE_1000_MEDIUM": {
+  "n": "Andarilho Avançado",
+  "d": "Chegou a 1000 m no modo infinito (médio)."
+ },
+ "_01_09_DISTANCE_2000_MEDIUM": {
+  "n": "Explorador Avançado",
+  "d": "Chegou a 2000 m no modo infinito (médio)."
+ },
+ "_01_10_DISTANCE_100_HARD": {
+  "n": "Passeador Especialista",
+  "d": "Chegou a 100 m no modo infinito (difícil)."
+ },
+ "_01_11_DISTANCE_200_HARD": {
+  "n": "Caminhante Especialista",
+  "d": "Chegou a 200 m no modo infinito (difícil)."
+ },
+ "_01_12_DISTANCE_500_HARD": {
+  "n": "Viajante Especialista",
+  "d": "Chegou a 500 m no modo infinito (difícil)."
+ },
+ "_01_13_DISTANCE_1000_HARD": {
+  "n": "Andarilho Especialista",
+  "d": "Chegou a 1000 m no modo infinito (difícil)."
+ },
+ "_01_14_DISTANCE_2000_HARD": {
+  "n": "Explorador Especialista",
+  "d": "Chegou a 2000 m no modo infinito (difícil)."
+ },
+ "_01_20_TRACKS_500": {
+  "n": "Trem de Brinquedo",
+  "d": "Construiu um trilho de 500 m no modo infinito (qualquer dificuldade)."
+ },
+ "_01_21_TRACKS_1000": {
+  "n": "Expresso do Oriente",
+  "d": "Construiu um trilho de 1000 m no modo infinito (qualquer dificuldade)."
+ },
+ "_01_22_TRACKS_2000": {
+  "n": "Transiberiana",
+  "d": "Construiu um trilho de 2000 m no modo infinito (qualquer dificuldade)."
+ },
+ "_01_23_TRACKS_4000": {
+  "n": "Trânsito no Espaço Profundo",
+  "d": "Construiu um trilho de 4000 m no modo infinito (qualquer dificuldade)."
+ },
+ "_02_08_COWTER_SPACE": {
+  "n": "Vaca Espacial",
+  "d": "Levou uma vaca ao espaço."
+ },
+ "_11_00_CLIMATE_CHANGE": {
+  "n": "Mudança Climática",
+  "d": "Use o balde para derreter neve."
+ },
+ "_11_00_FIRE_FIGHTER": {
+  "n": "Bombeiro",
+  "d": "Apague 10 bolhas de lava numa partida."
+ },
+ "_11_00_MEGALOMANIAC": {
+  "n": "Megalomaníaco",
+  "d": "Exploda 3 tipos diferentes de animais de uma vez com dinamite."
+ },
+ "_11_00_NO_SPACE_FOR_IMPROVEMENT": {
+  "n": "Sem Espaço para Melhorias",
+  "d": "Chegue ao bioma espacial sem gastar parafusos, exceto nas locomotivas."
+ },
+ "_11_00_WHERE_THEY_BELONG": {
+  "n": "Onde Eles Merecem",
+  "d": "Leve um bandido ou fora da lei para o inferno."
+ },
+ "_11_00_TERMINAL_STATION": {
+  "n": "Estação Terminal",
+  "d": "Chegue à estação terminal no modo infinito"
+ },
+ "_12_00_SNOWMANS_LAND": {
+  "n": "Terra dos Bonecos de Neve",
+  "d": "Desmonte 20 bonecos de neve."
+ },
+ "_12_00_TOUGH_NUT": {
+  "n": "Osso Duro!",
+  "d": "Chegue ao bioma de inverno no extremo."
+ },
+ "_03_06_MARTIAN": {
+  "n": "Marciano",
+  "d": "Descubra um mundo novo."
+ },
+ "_13_00_MILES_UNDER": {
+  "n": "20 Milhas Submarinas",
+  "d": "Parece que você gosta de ficar debaixo d'água!"
+ },
+ "_13_00_BLAST_FISHING": {
+  "n": "Pesca com Dinamite",
+  "d": "Esses peixes são explosivos, cuidado!"
+ },
+ "_13_00_SAVED_BY_NAUSICAA": {
+  "n": "Salvo pela Nausicaä",
+  "d": "Você encontrou a saída."
+ },
+ "_13_00_FIREWORKS": {
+  "n": "Fogos de Artifício!",
+  "d": "Juntar todos esses parafusos deve ter levado um tempo!"
+ }
+}

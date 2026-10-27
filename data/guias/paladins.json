@@ -1,0 +1,21 @@
+{
+  "resumo": "Hero shooter gratuito. As conquistas vêm de jogar com cada classe, vencer partidas e fazer feitos específicos.",
+  "roadmap": [
+    {
+      "titulo": "1. Classes",
+      "texto": "Jogue com campeões de cada função (Linha de Frente, Dano, Suporte, Flanco)."
+    },
+    {
+      "titulo": "2. Feitos",
+      "texto": "Muitas pedem algo específico numa partida, como matar de longe ou curar muito."
+    },
+    {
+      "titulo": "3. Contas",
+      "texto": "Vitórias e nível sobem com o tempo."
+    }
+  ],
+  "avisos": [
+    "Precisa de servidores online."
+  ],
+  "conquistas": {}
+}

@@ -1,0 +1,198 @@
+{
+ "Easy Peasy": {
+  "n": "Moleza",
+  "d": "Termine o jogo no fácil"
+ },
+ "Learning the ropes": {
+  "n": "Aprendendo o Básico",
+  "d": "Termine o jogo no normal"
+ },
+ "Hardcore gamer": {
+  "n": "Gamer Raiz",
+  "d": "Termine o jogo na dificuldade gamer"
+ },
+ "A gamer move": {
+  "n": "Jogada de Gamer",
+  "d": "Termine o jogo em menos de 10 dias no modo Gamer"
+ },
+ "Speedrunner_": {
+  "n": "Speedrunner",
+  "d": "Termine o jogo em menos de 8 dias"
+ },
+ "What the muck": {
+  "n": "Que Muck É Esse",
+  "d": "Termine o jogo sem nenhum jogador pegar power-up"
+ },
+ "Set sail_": {
+  "n": "Zarpar",
+  "d": "Saia de Muck"
+ },
+ "Untouchable_": {
+  "n": "Intocável",
+  "d": "Termine o jogo sozinho sem sofrer dano (Normal ou mais difícil)"
+ },
+ "Dream Team_": {
+  "n": "Time dos Sonhos",
+  "d": "Termine o jogo com 2 jogadores sem ninguém sofrer dano (Normal ou mais difícil)"
+ },
+ "The bois_": {
+  "n": "Os Parças",
+  "d": "Termine o jogo com 4 jogadores sem ninguém sofrer dano (Normal ou mais difícil)"
+ },
+ "Sweat and tears_": {
+  "n": "Suor e Lágrimas",
+  "d": "Termine o jogo com 8 jogadores sem ninguém sofrer dano (Normal ou mais difícil)"
+ },
+ "Muckinator": {
+  "n": "Muckinator",
+  "d": "Mate 100 criaturas"
+ },
+ "Muckinator 2": {
+  "n": "Muckinator 2",
+  "d": "Mate 1.000 criaturas"
+ },
+ "Muckinator 3": {
+  "n": "Muckinator 3",
+  "d": "Mate 10.000 criaturas"
+ },
+ "Muckinator 4": {
+  "n": "Muckinator 4",
+  "d": "Mate 100.000 criaturas"
+ },
+ "Underdog": {
+  "n": "Azarão",
+  "d": "Mate 250 criaturas fortalecidas"
+ },
+ "Bullseye": {
+  "n": "Na Mosca",
+  "d": "Mate 200 inimigos usando arcos"
+ },
+ "That's not very milk of you, sir": {
+  "n": "Isso Não Foi Nada Leite da Sua Parte",
+  "d": "Mate 250 vacas"
+ },
+ "David vs Goliath": {
+  "n": "Davi contra Golias",
+  "d": "Derrote o Big Chunk"
+ },
+ "Gronk": {
+  "n": "Gronk",
+  "d": "Derrote o Gronk"
+ },
+ "Guardian": {
+  "n": "Guardião",
+  "d": "Derrote o Guardião"
+ },
+ "Fearless_": {
+  "n": "Destemido",
+  "d": "Derrote todos os chefes"
+ },
+ "Death Wish": {
+  "n": "Desejo de Morte",
+  "d": "Ative 200 totens de batalha"
+ },
+ "Goblin Slayer": {
+  "n": "Matador de Goblins",
+  "d": "Mate 1000 goblins"
+ },
+ "Big Mistake": {
+  "n": "Grande Erro",
+  "d": "Jogue Muck pela primeira vez"
+ },
+ "Pain and suffering": {
+  "n": "Dor e Sofrimento",
+  "d": "Morra 10 vezes"
+ },
+ "This is fine": {
+  "n": "Tá Tudo Bem",
+  "d": "Morra 25 vezes"
+ },
+ "Muck off": {
+  "n": "Muck Fora",
+  "d": "Morra 50 vezes"
+ },
+ "Muck this game": {
+  "n": "Que Muck de Jogo",
+  "d": "Morra 100 vezes"
+ },
+ "You're not a fish": {
+  "n": "Você Não É um Peixe",
+  "d": "Morra afogado"
+ },
+ "Treasure Hunter": {
+  "n": "Caçador de Tesouros",
+  "d": "Abra 500 baús"
+ },
+ "Architect": {
+  "n": "Arquiteto",
+  "d": "Faça 250 construções"
+ },
+ "Illegal work": {
+  "n": "Trabalho Ilegal",
+  "d": "Fabrique 1.000 moedas"
+ },
+ "Go outside": {
+  "n": "Vá Lá Fora",
+  "d": "Sobreviva por 100 dias"
+ },
+ "The Black Swordsman_": {
+  "n": "O Espadachim Negro",
+  "d": "Empunhe a Lâmina da Noite"
+ },
+ "Milkman_": {
+  "n": "Leiteiro",
+  "d": "Pegue 10 power-ups de Leite numa partida"
+ },
+ "You're a fish": {
+  "n": "Você É um Peixe",
+  "d": "Nade 25 km"
+ },
+ "Team player": {
+  "n": "Espírito de Equipe",
+  "d": "Reviva um colega"
+ },
+ "The red plumber man lied": {
+  "n": "O Encanador Vermelho Mentiu",
+  "d": "Coma 50 cogumelos vermelhos sem crescer"
+ },
+ "Salty": {
+  "n": "Salgado",
+  "d": "Mate um amigo no Modo Sobrevivência"
+ },
+ "Leg day": {
+  "n": "Dia de Perna",
+  "d": "Ande 250 km"
+ },
+ "I am Inevitable": {
+  "n": "Eu Sou Inevitável",
+  "d": "Colete as 5 gemas"
+ },
+ "Phoon": {
+  "n": "Phoon",
+  "d": "Pule 10.000 vezes"
+ },
+ "Oh you don't know what Karlson is?": {
+  "n": "Você Não Conhece Karlson?",
+  "d": "Ache e coloque Karlson na lista de desejos dentro de Muck"
+ },
+ "Caveman_": {
+  "n": "Homem das Cavernas",
+  "d": "Termine o jogo usando só uma pedra como arma e ferramenta. Vale para todos os jogadores."
+ },
+ "Muck_": {
+  "n": "Muck",
+  "d": "Termine o jogo só com uma pedra, sem sofrer dano e sem power-ups. Vale para todos do lobby. (Normal ou mais difícil)"
+ },
+ "Chief": {
+  "n": "Chefe",
+  "d": "Derrote o Chefe"
+ },
+ "ChiefChest": {
+  "n": "Irresistível",
+  "d": "Abra o baú do Chefe"
+ },
+ "PublicEnemy": {
+  "n": "Inimigo Público",
+  "d": "Mate 100 Homens de Madeira"
+ }
+}

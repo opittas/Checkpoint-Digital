@@ -1,0 +1,17 @@
+{
+  "resumo": "Ação online de arena. Conquistas de modos PvP e PvE, armas e nível.",
+  "roadmap": [
+    {
+      "titulo": "1. Missões",
+      "texto": "Faça as missões PvE com várias armas."
+    },
+    {
+      "titulo": "2. PvP",
+      "texto": "Jogue partidas de arena e duelo."
+    }
+  ],
+  "avisos": [
+    "Depende dos servidores."
+  ],
+  "conquistas": {}
+}

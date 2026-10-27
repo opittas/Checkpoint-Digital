@@ -1,0 +1,182 @@
+{
+ "duelWinsTotal1": {
+  "n": "Duelista I",
+  "d": "Vença 1 Duelo ranqueado"
+ },
+ "duelWinsTotal2": {
+  "n": "Duelista II",
+  "d": "Vença 10 Duelos ranqueados"
+ },
+ "duelWinsTotal3": {
+  "n": "Duelista III",
+  "d": "Vença 100 Duelos ranqueados"
+ },
+ "duelWinsTotal4": {
+  "n": "Duelista IV",
+  "d": "Vença 250 Duelos ranqueados"
+ },
+ "duelWinsTotal5": {
+  "n": "Duelista V",
+  "d": "Vença 500 Duelos ranqueados"
+ },
+ "duelWinsTotal6": {
+  "n": "Duelista VI",
+  "d": "Vença 1000 Duelos ranqueados"
+ },
+ "duelWinsMoving1": {
+  "n": "Duelista em Movimento I",
+  "d": "Vença 1 Duelo em Movimento ranqueado"
+ },
+ "duelWinsMoving2": {
+  "n": "Duelista em Movimento II",
+  "d": "Vença 10 Duelos em Movimento ranqueados"
+ },
+ "duelWinsMoving3": {
+  "n": "Duelista em Movimento III",
+  "d": "Vença 100 Duelos em Movimento ranqueados"
+ },
+ "duelWinsMoving4": {
+  "n": "Duelista em Movimento IV",
+  "d": "Vença 250 Duelos em Movimento ranqueados"
+ },
+ "duelWinsMoving5": {
+  "n": "Duelista em Movimento V",
+  "d": "Vença 500 Duelos em Movimento ranqueados"
+ },
+ "duelWinsNoMove1": {
+  "n": "Duelista Parado I",
+  "d": "Vença 1 Duelo Parado ranqueado"
+ },
+ "duelWinsNoMove2": {
+  "n": "Duelista Parado II",
+  "d": "Vença 10 Duelos Parados ranqueados"
+ },
+ "duelWinsNoMove3": {
+  "n": "Duelista Parado III",
+  "d": "Vença 100 Duelos Parados ranqueados"
+ },
+ "duelWinsNoMove4": {
+  "n": "Duelista Parado IV",
+  "d": "Vença 250 Duelos Parados ranqueados"
+ },
+ "duelWinsNoMove5": {
+  "n": "Duelista Parado V",
+  "d": "Vença 500 Duelos Parados ranqueados"
+ },
+ "duelWinsNmpz1": {
+  "n": "Duelista NMPZ I",
+  "d": "Vença 1 Duelo NMPZ ranqueado"
+ },
+ "duelWinsNmpz2": {
+  "n": "Duelista NMPZ II",
+  "d": "Vença 10 Duelos NMPZ ranqueados"
+ },
+ "duelWinsNmpz3": {
+  "n": "Duelista NMPZ III",
+  "d": "Vença 100 Duelos NMPZ ranqueados"
+ },
+ "duelWinsNmpz4": {
+  "n": "Duelista NMPZ IV",
+  "d": "Vença 250 Duelos NMPZ ranqueados"
+ },
+ "duelWinsNmpz5": {
+  "n": "Duelista NMPZ V",
+  "d": "Vença 500 Duelos NMPZ ranqueados"
+ },
+ "duelWinsFlawless1": {
+  "n": "Ás I",
+  "d": "Vença 1 Duelo ranqueado sem perder vida"
+ },
+ "duelWinsFlawless2": {
+  "n": "Ás II",
+  "d": "Vença 10 Duelos ranqueados sem perder vida"
+ },
+ "duelWinsFlawless3": {
+  "n": "Ás III",
+  "d": "Vença 100 Duelos ranqueados sem perder vida"
+ },
+ "perfectRounds1": {
+  "n": "Na Mosca! I",
+  "d": "Acerte um palpite perfeito"
+ },
+ "perfectRounds2": {
+  "n": "Na Mosca! II",
+  "d": "Acerte 10 palpites perfeitos"
+ },
+ "perfectRounds3": {
+  "n": "Na Mosca! III",
+  "d": "Acerte 100 palpites perfeitos"
+ },
+ "quickplayWinsFlawless1": {
+  "n": "Ás da Partida Rápida I",
+  "d": "Vença 1 Duelo Solo da Partida Rápida sem perder vida"
+ },
+ "quickplayWinsFlawless2": {
+  "n": "Ás da Partida Rápida II",
+  "d": "Vença 10 Duelos Solo da Partida Rápida sem perder vida"
+ },
+ "quickplayWinsFlawless3": {
+  "n": "Ás da Partida Rápida III",
+  "d": "Vença 100 Duelos Solo da Partida Rápida sem perder vida"
+ },
+ "quickplayDuelsWins1": {
+  "n": "Duelista da Partida Rápida I",
+  "d": "Vença 1 Duelo da Partida Rápida"
+ },
+ "quickplayDuelsWins2": {
+  "n": "Duelista da Partida Rápida II",
+  "d": "Vença 10 Duelos da Partida Rápida"
+ },
+ "quickplayDuelsWins3": {
+  "n": "Duelista da Partida Rápida III",
+  "d": "Vença 100 Duelos da Partida Rápida"
+ },
+ "quickplayDuelsWins4": {
+  "n": "Duelista da Partida Rápida IV",
+  "d": "Vença 250 Duelos da Partida Rápida"
+ },
+ "quickplayDuelsWins5": {
+  "n": "Duelista da Partida Rápida V",
+  "d": "Vença 500 Duelos da Partida Rápida"
+ },
+ "teamDuelsWins1": {
+  "n": "Duelista de Equipe Casual I",
+  "d": "Vença 1 Duelo de Equipe casual"
+ },
+ "teamDuelsWins2": {
+  "n": "Duelista de Equipe Casual II",
+  "d": "Vença 10 Duelos de Equipe casual"
+ },
+ "teamDuelsWins3": {
+  "n": "Duelista de Equipe Casual III",
+  "d": "Vença 100 Duelos de Equipe casual"
+ },
+ "teamDuelsWins4": {
+  "n": "Duelista de Equipe Casual IV",
+  "d": "Vença 250 Duelos de Equipe casual"
+ },
+ "teamDuelsWins5": {
+  "n": "Duelista de Equipe Casual V",
+  "d": "Vença 500 Duelos de Equipe casual"
+ },
+ "dcStreak1": {
+  "n": "Sequência Diária I",
+  "d": "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 7 dias seguidos"
+ },
+ "dcStreak2": {
+  "n": "Sequência Diária II",
+  "d": "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 30 dias seguidos"
+ },
+ "dcStreak3": {
+  "n": "Sequência Diária III",
+  "d": "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 100 dias seguidos"
+ },
+ "dcStreak4": {
+  "n": "Sequência Diária IV",
+  "d": "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 365 dias seguidos"
+ },
+ "dcStreak5": {
+  "n": "Sequência Diária V",
+  "d": "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 1000 dias seguidos"
+ }
+}

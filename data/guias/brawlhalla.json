@@ -1,0 +1,21 @@
+{
+  "resumo": "Jogo de luta gratuito e online. As conquistas vêm de subir de nível com lendas de cada arma, vencer partidas e jogar os modos variados.",
+  "roadmap": [
+    {
+      "titulo": "1. Escolha uma arma",
+      "texto": "Muitas conquistas pedem nível 10 com lendas de cada tipo de arma. Jogue partidas casuais e de treino com elas."
+    },
+    {
+      "titulo": "2. Modos e partidas",
+      "texto": "Vença partidas online, ranqueadas e modos especiais (Brawlball, Kung Foot, etc.)."
+    },
+    {
+      "titulo": "3. Longo prazo",
+      "texto": "As de nível alto e vitórias acumuladas saem jogando aos poucos."
+    }
+  ],
+  "avisos": [
+    "Depende de servidores online."
+  ],
+  "conquistas": {}
+}

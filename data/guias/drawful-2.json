@@ -1,0 +1,17 @@
+{
+  "resumo": "Jogo de desenho em grupo da Jackbox.",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Jogue com amigos (celular como controle) e com plateia."
+    },
+    {
+      "titulo": "2. Extras",
+      "texto": "Use conteúdo da comunidade e o título secreto."
+    }
+  ],
+  "avisos": [
+    "Precisa de várias pessoas."
+  ],
+  "conquistas": {}
+}

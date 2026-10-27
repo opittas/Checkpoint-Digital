@@ -1,0 +1,302 @@
+{
+ "ACHIEVEMENT_00": {
+  "n": "CLIQUE",
+  "d": "CLIQUE"
+ },
+ "GAMEPLAY_CLICKS_10": {
+  "n": "10 Cliques!",
+  "d": "Você está chegando a algum lugar..!"
+ },
+ "GAMEPLAY_CLICKS_1B": {
+  "n": "1 000 000 000 de Cliques!",
+  "d": "Um bilhão de cliques! O auge da maestria em cliques!"
+ },
+ "GAMEPLAY_CLICKS_1K": {
+  "n": "1 000 Cliques!",
+  "d": "Mil cliques! Você está mesmo comprometido!"
+ },
+ "GAMEPLAY_CLICKS_1M": {
+  "n": "1 000 000 de Cliques!",
+  "d": "Clicador milionário! Uma conquista extraordinária!"
+ },
+ "GAMEPLAY_CLICKS_2K": {
+  "n": "2 000 Cliques!",
+  "d": "Marco duplo! Perseverança fora de série!"
+ },
+ "GAMEPLAY_CLICKS_2M": {
+  "n": "2 000 000 de Cliques!",
+  "d": "Dínamo da Banana! Seu poder de clique é imparável!"
+ },
+ "GAMEPLAY_CLICKS_4K": {
+  "n": "4 000 Cliques!",
+  "d": "Conquista notável! Seu esforço brilha!"
+ },
+ "GAMEPLAY_CLICKS_4M": {
+  "n": "4 000 000 de Cliques!",
+  "d": "Esforço fenomenal! Você é uma lenda dos cliques!"
+ },
+ "GAMEPLAY_CLICKS_8K": {
+  "n": "8 000 Cliques!",
+  "d": "Compromisso excepcional! Continue avançando!"
+ },
+ "GAMEPLAY_CLICKS_8M": {
+  "n": "8 000 000 de Cliques!",
+  "d": "Marco épico! Sua dedicação não tem limites!"
+ },
+ "GAMEPLAY_CLICKS_16K": {
+  "n": "16 000 Cliques!",
+  "d": "Fôlego impressionante! Você é uma potência dos cliques!"
+ },
+ "GAMEPLAY_CLICKS_16M": {
+  "n": "16 000 000 de Cliques!",
+  "d": "Clicador icônico! Perseverança notável!"
+ },
+ "GAMEPLAY_CLICKS_32K": {
+  "n": "32 000 Cliques!",
+  "d": "Nível elite! Sua dedicação é incomparável!"
+ },
+ "GAMEPLAY_CLICKS_32M": {
+  "n": "32 000 000 de Cliques!",
+  "d": "Conquista suprema! Seu compromisso não tem igual!"
+ },
+ "GAMEPLAY_CLICKS_50": {
+  "n": "50 Cliques!",
+  "d": "Progresso constante! Você está indo muito bem!"
+ },
+ "GAMEPLAY_CLICKS_64K": {
+  "n": "64 000 Cliques!",
+  "d": "Mestre dos cliques! Persistência incrível!"
+ },
+ "GAMEPLAY_CLICKS_64M": {
+  "n": "64 000 000 de Cliques!",
+  "d": "Titã dos cliques! Um feito extraordinário!"
+ },
+ "GAMEPLAY_CLICKS_100": {
+  "n": "100 Cliques!",
+  "d": "Primeiro marco! Excelente dedicação!"
+ },
+ "GAMEPLAY_CLICKS_250": {
+  "n": "250 Cliques!",
+  "d": "Esforço dedicado! Sua persistência compensa!"
+ },
+ "GAMEPLAY_CLICKS_500": {
+  "n": "500 Cliques!",
+  "d": "Metade do caminho! Continue com o ótimo trabalho!"
+ },
+ "GAMEPLAY_CLICKS_25": {
+  "n": "25 Cliques!",
+  "d": "Parece mais longe do que eu pensava.."
+ },
+ "GAMEPLAY_CLICKS_128K": {
+  "n": "128 000 Cliques!",
+  "d": "Soberano da Banana! Seus cliques reinam!"
+ },
+ "GAMEPLAY_CLICKS_512M": {
+  "n": "512 000 000 de Cliques!",
+  "d": "Mais de meio bilhão de cliques! Sua dedicação é monumental!"
+ },
+ "GAMEPLAY_CLICKS_512K": {
+  "n": "512 000 Cliques!",
+  "d": "Mais de meio milhão de cliques! Seu compromisso inspira!"
+ },
+ "GAMEPLAY_CLICKS_256M": {
+  "n": "250 000 000 de Cliques!",
+  "d": "Lenda suprema! Uma conquista de cliques sem igual!"
+ },
+ "GAMEPLAY_CLICKS_256K": {
+  "n": "256 000 Cliques!",
+  "d": "Clicador supremo! Dedicação excepcional!"
+ },
+ "GAMEPLAY_CLICKS_128M": {
+  "n": "128 000 000 de Cliques!",
+  "d": "Imperador da Banana! Sua habilidade nos cliques é lendária!"
+ },
+ "JOKE_CLICKS_42": {
+  "n": "42 Cliques!",
+  "d": "A resposta para a Pergunta Fundamental sobre a Vida, o Universo e Tudo Mais"
+ },
+ "JOKE_CLICKS_69": {
+  "n": "Heh 69",
+  "d": "Boa"
+ },
+ "JOKE_CLICKS_112": {
+  "n": "112",
+  "d": "112, qual é a sua emergência?!"
+ },
+ "JOKE_CLICKS_200": {
+  "n": "erro 200",
+  "d": "O pedido foi recebido e processado pelo servidor."
+ },
+ "JOKE_CLICKS_201": {
+  "n": "erro 201"
+ },
+ "JOKE_CLICKS_204": {
+  "n": "erro 204",
+  "d": "<Sem conteúdo>"
+ },
+ "JOKE_CLICKS_301": {
+  "n": "301 Redirecionando...",
+  "d": "Redirecionando para uma conquista melhor.."
+ },
+ "JOKE_CLICKS_302": {
+  "n": "302"
+ },
+ "JOKE_CLICKS_314": {
+  "n": "314",
+  "d": "Quem não gosta de torta?"
+ },
+ "JOKE_CLICKS_400": {
+  "n": "400"
+ },
+ "JOKE_CLICKS_403": {
+  "n": "403 Proibido"
+ },
+ "JOKE_CLICKS_404": {
+  "n": "404 Não Encontrado",
+  "d": "Conquista não encontrada.."
+ },
+ "JOKE_CLICKS_420": {
+  "n": "420",
+  "d": "Acende aí"
+ },
+ "JOKE_CLICKS_500": {
+  "n": "Erro de Servidor 500",
+  "d": "Você achou um erro de servidor 500!"
+ },
+ "JOKE_CLICKS_503": {
+  "n": "Serviço Indisponível 503",
+  "d": "O serviço está indisponível no momento!"
+ },
+ "JOKE_CLICKS_666": {
+  "n": "666 Vai Chamar Quem?",
+  "d": "Cuidado, não invoque o Spartan"
+ },
+ "JOKE_CLICKS_911": {
+  "n": "911?",
+  "d": "911, qual é a sua emergência?!"
+ },
+ "JOKE_CLICKS_1337": {
+  "n": "1337",
+  "d": "O Leet original"
+ },
+ "JOKE_CLICKS_3141": {
+  "n": "3141",
+  "d": "Pi com mais casas"
+ },
+ "JOKE_CLICKS_5338": {
+  "n": "O Chefe",
+  "d": "Encontrou o Chefe"
+ },
+ "JOKE_CLICKS_5508": {
+  "n": "5508",
+  "d": "Chefe"
+ },
+ "JOKE_CLICKS_6969": {
+  "n": "Boa em Dobro",
+  "d": "Muito, muito bom"
+ },
+ "JOKE_CLICKS_8008": {
+  "n": "Haha Engraçado",
+  "d": "Lembra? Na sala de aula?"
+ },
+ "JOKE_CLICKS_9001": {
+  "n": "Mais de... 9000!!",
+  "d": "Você passou de 9000!!"
+ },
+ "JOKE_CLICKS_12345": {
+  "n": "12345 Caramba",
+  "d": "Parabéns, você sabe contar até 5"
+ },
+ "JOKE_CLICKS_80095": {
+  "n": "Heh, Muito Engraçado",
+  "d": "E maduro, né?"
+ },
+ "JOKE_CLICKS_666666": {
+  "n": "666666",
+  "d": "Quer invocar dois deles? Ficou louco?"
+ },
+ "JOKE_CLICKS_696969": {
+  "n": "Boa em Triplo",
+  "d": "Haha, muito"
+ },
+ "JOKE_CLICKS_8008135": {
+  "n": "Hehe, Aqui Só Tem Adulto",
+  "d": "hehe"
+ },
+ "EXCHANGE_AMOUNT_1": {
+  "n": "Você Trocou!",
+  "d": "Parabéns pela sua primeira troca!"
+ },
+ "EXCHANGE_AMOUNT_2": {
+  "n": "Você Trocou.. de Novo!",
+  "d": "Você está pegando o jeito! Continue assim!"
+ },
+ "EXCHANGE_AMOUNT_5": {
+  "n": "5 Já?",
+  "d": "Você já trocou 5 vezes! Bora!"
+ },
+ "CALORIES_SPENT_1K": {
+  "n": "1 Mil Calorias Gastas!",
+  "d": "Abacateee"
+ },
+ "CALORIES_SPENT_1M": {
+  "n": "Mais de 1 Milhão de Calorias Gastas!",
+  "d": "Urânio e potássio são a mesma coisa"
+ },
+ "CALORIES_SPENT_2K": {
+  "n": "2 Mil Calorias Gastas!",
+  "d": "ovo"
+ },
+ "CALORIES_SPENT_4K": {
+  "n": "4 Mil Calorias Gastas!",
+  "d": "nada supera pão de banana torrado"
+ },
+ "CALORIES_SPENT_8K": {
+  "n": "8 Mil Calorias Gastas!",
+  "d": "Queijo ou bolo? Por que não os dois?"
+ },
+ "CALORIES_SPENT_10": {
+  "n": "10 Calorias Gastas!",
+  "d": "Trocando rabanete por banana"
+ },
+ "CALORIES_SPENT_16K": {
+  "n": "16 Mil Calorias Gastas!",
+  "d": "Pêssego ou lámen, nem sei mais"
+ },
+ "CALORIES_SPENT_32K": {
+  "n": "32 Mil Calorias Gastas!",
+  "d": "Banana enrolada no bacon, alguém?"
+ },
+ "CALORIES_SPENT_50": {
+  "n": "50 Calorias Gastas!",
+  "d": "Ótimo lanche no verão"
+ },
+ "CALORIES_SPENT_64K": {
+  "n": "64 Mil Calorias Gastas!",
+  "d": "Fica ótimo com leite de banana"
+ },
+ "CALORIES_SPENT_100": {
+  "n": "100 Calorias Gastas!",
+  "d": "Amigos frutas!"
+ },
+ "CALORIES_SPENT_128K": {
+  "n": "Mais de 128 Mil Calorias Gastas!",
+  "d": "somos só uns caras da fritura"
+ },
+ "CALORIES_SPENT_256K": {
+  "n": "Mais de 256 Mil Calorias Gastas!",
+  "d": "Quando sai o hambúrguer de banana?"
+ },
+ "CALORIES_SPENT_512K": {
+  "n": "Mais de 512 Mil Calorias Gastas!",
+  "d": "Quem não gosta de bolo?"
+ },
+ "CALORIES_SPENT_250": {
+  "n": "250 Calorias Gastas!",
+  "d": "Mais ou menos o que tem numa banana"
+ },
+ "CALORIES_SPENT_500": {
+  "n": "500 Calorias Gastas!",
+  "d": "Uns amendoins resolvem"
+ }
+}

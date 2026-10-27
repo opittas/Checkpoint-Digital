@@ -1,0 +1,322 @@
+{
+ "START_WEATHER_TWILIGHT": {
+  "n": "Sozinho no Escuro",
+  "d": "Ative o Crepúsculo numa batalha."
+ },
+ "START_WEATHER_RAIN": {
+  "n": "Dança da Chuva",
+  "d": "Ative a Chuva numa batalha."
+ },
+ "START_WEATHER_SANDSTORM": {
+  "n": "É Áspera e Entra em Todo Lugar",
+  "d": "Ative uma Tempestade de Areia numa batalha."
+ },
+ "START_WEATHER_HEATWAVE": {
+  "n": "Está Ficando Quente Aqui",
+  "d": "Ative uma Onda de Calor numa batalha."
+ },
+ "START_WEATHER_SNOW": {
+  "n": "Vamos Fazer Anjos de Neve!",
+  "d": "Ative a Neve numa batalha."
+ },
+ "REROLL_POTENTIAL": {
+  "n": "Potencializador",
+  "d": "Potencialize um Coromon."
+ },
+ "REROLL_TRAIT": {
+  "n": "Transformador de Traços",
+  "d": "Transforme o traço de um Coromon."
+ },
+ "USE_RESETINATOR": {
+  "n": "Resetador",
+  "d": "Resete um Coromon."
+ },
+ "EVOLVE_A_COROMON": {
+  "n": "Mais Forte, Melhor, Mais Rápido",
+  "d": "Evolua um Coromon."
+ },
+ "SQUAD_OF_DIFFERENT_TYPES": {
+  "n": "Diversifique",
+  "d": "Tenha 6 Coromon de tipos diferentes no seu Esquadrão."
+ },
+ "SQUAD_OF_SAME_MONSTER": {
+  "n": "Fã Número Um",
+  "d": "Tenha 6 Coromon da mesma espécie no seu Esquadrão."
+ },
+ "REDEEM_SHOP_COUPON": {
+  "n": "Compulsivo por Compras",
+  "d": "Use um cupom da Loja."
+ },
+ "CONSUME_FRUIT": {
+  "n": "Hora de Comer",
+  "d": "Dê uma Fruta a um Coromon."
+ },
+ "DIG_UP_HOLD_ITEM": {
+  "n": "Achei!",
+  "d": "Desenterre um item de segurar."
+ },
+ "SQUAD_IN_SAME_SPINNER": {
+  "n": "Estiloso",
+  "d": "Tenha todos do Esquadrão no mesmo tipo de Spinner."
+ },
+ "USE_SKILL_FLASH": {
+  "n": "Ilumine Todos",
+  "d": "Use um Flash de Habilidade em um dos seus Coromon."
+ },
+ "PROGRESS_1_PICK_STARTER": {
+  "n": "A Aventura Espera!",
+  "d": "Escolha seu inicial."
+ },
+ "PROGRESS_2_DEFEAT_MYSTERIOUS_INTRUDER": {
+  "n": "Marés Sombrias",
+  "d": "Derrote o intruso misterioso."
+ },
+ "PROGRESS_3_DEFEAT_TITAN_ELECTRIC": {
+  "n": "A Faísca Acabou",
+  "d": "Derrote Voltgar."
+ },
+ "PROGRESS_4_DEFEAT_TITAN_GHOST": {
+  "n": "O Susto Acabou",
+  "d": "Derrote Illuginn."
+ },
+ "PROGRESS_5_DEFEAT_TITAN_SAND": {
+  "n": "Areias Movidas",
+  "d": "Derrote Sart."
+ },
+ "PROGRESS_6_WIN_MIRROR_CHALLENGE": {
+  "n": "Fui Superado",
+  "d": "Vença o Desafio do Espelho."
+ },
+ "PROGRESS_7_DEFEAT_TITAN_FIRE": {
+  "n": "A Chama se Apagou",
+  "d": "Derrote Hozai."
+ },
+ "PROGRESS_8_ICETOWN_FESTIVAL": {
+  "n": "Hora da Festa!",
+  "d": "Participe das festividades de Alavi."
+ },
+ "PROGRESS_9_DEFEAT_TITAN_ICE": {
+  "n": "Derretimento",
+  "d": "Derrote Vørst."
+ },
+ "PROGRESS_10_DEFEAT_TITAN_WATER": {
+  "n": "Virando a Maré",
+  "d": "Derrote Chalchiu."
+ },
+ "COMPLETE_5_SIDEQUESTS": {
+  "n": "Uma Mãozinha",
+  "d": "Complete 5 missões secundárias."
+ },
+ "REACH_LUX_SOLIS_RANK_50": {
+  "n": "Pesquisador Júnior",
+  "d": "Chegue ao nível de Pesquisador 50."
+ },
+ "REACH_LUX_SOLIS_RANK_100": {
+  "n": "Pesquisador Sênior",
+  "d": "Chegue ao nível de Pesquisador 100."
+ },
+ "FINISH_GAME_WITHOUT_MONSTER_FAINTED": {
+  "n": "Cuidador",
+  "d": "Complete a história sem deixar nenhum Coromon desmaiar."
+ },
+ "CATCH_ALL_MONSTER_FAMILIES": {
+  "n": "Quem É o Acumulador Agora?",
+  "d": "Capture todas as espécies de Coromon."
+ },
+ "FINISH_GAME_ON_EASY": {
+  "n": "Segura a Minha Mão",
+  "d": "Termine o jogo no Fácil ou acima."
+ },
+ "FINISH_GAME_ON_NORMAL": {
+  "n": "A Experiência Normal",
+  "d": "Termine o jogo no Normal ou acima."
+ },
+ "FINISH_GAME_ON_HARD": {
+  "n": "Topo o Desafio",
+  "d": "Termine o jogo no Difícil ou acima."
+ },
+ "FINISH_GAME_ON_INSANE": {
+  "n": "Imparável",
+  "d": "Termine o jogo no Insano."
+ },
+ "FIND_HEADGEAR_BUNNY": {
+  "n": "...e Meus Ovos!",
+  "d": "Pegue as orelhas de coelho escondidas."
+ },
+ "FIND_HEADGEAR_SANTA": {
+  "n": "O Papai Noel Está Chegando",
+  "d": "Pegue a roupa de Papai Noel escondida."
+ },
+ "FIND_OUTFIT_WALDO": {
+  "n": "Onde Eu Procuro?!",
+  "d": "Pegue a roupa furtiva muito bem escondida."
+ },
+ "CROSS_DESERTROUTE_3_BRIDGE": {
+  "n": "Uma Ponte Longe Demais",
+  "d": "Atravesse a ponte das Areias Escaldantes em segurança."
+ },
+ "PLANT_FRUITS_IN_ALL_POTS": {
+  "n": "Botânico",
+  "d": "Plante frutas por toda parte!"
+ },
+ "GET_HIGHSCORE_1000_IN_SWURMY_RUSH": {
+  "n": "Mestre do Rush",
+  "d": "Faça 1000 pontos no Swurmy Rush."
+ },
+ "GET_HIGHSCORE_500_IN_FLAPPY_SWURMY": {
+  "n": "Mestre do Flappy",
+  "d": "Faça 500 pontos no Flappy Swurmy."
+ },
+ "WATCH_CREDITS": {
+  "n": "Dê os Créditos",
+  "d": "Assista aos créditos."
+ },
+ "OPEN_ALL_DOORS_IN_TOWN": {
+  "n": "Política de Portas Abertas",
+  "d": "Abra todas as portas de uma cidade."
+ },
+ "GIVE_STARTER_TO_JEROME": {
+  "n": "Obrigado pelas Memórias",
+  "d": "Dê seu inicial ao Jerome."
+ },
+ "UNLOCK_MAGNETIC_LOCK": {
+  "n": "Empurra com Vontade",
+  "d": "Destrave a trava eletromagnética do laboratório de P&D."
+ },
+ "BREW_POTENT_SCENT": {
+  "n": "Mestre Cervejeiro",
+  "d": "Prepare um Aroma Potente."
+ },
+ "EARLY_EVOLVE_GHOST_OCTO_1": {
+  "n": "Jogue um Spinner para Sua Bruxa",
+  "d": "Evolua um Squidly antes do nível 37."
+ },
+ "EARLY_EVOLVE_GHOST_CAT_1": {
+  "n": "Hora do Lanche",
+  "d": "Evolua um Purrgy antes do nível 30."
+ },
+ "EARLY_EVOLVE_NORMAL_BEE_1": {
+  "n": "Fúria Suprema",
+  "d": "Evolua um Swurmy antes do nível 14."
+ },
+ "EARLY_EVOLVE_NORMAL_ADDER_1": {
+  "n": "Macarrão Quente",
+  "d": "Evolua um Slitherpin antes do nível 25."
+ },
+ "EARLY_EVOLVE_GHOST_WOLF_2": {
+  "n": "Uive para a Lua",
+  "d": "Evolua um Lunarwulf antes do nível 39."
+ },
+ "READ_MOMS_DIARY": {
+  "n": "Privacidade? O Que É Isso?",
+  "d": "Leia o diário da sua mãe."
+ },
+ "FIND_CAKES_IN_OVEN": {
+  "n": "Hotel Mamãe",
+  "d": "Ganhe uns bolos de graça."
+ },
+ "PET_PAWBURY_SWURMY_TOO_MANY_TIMES": {
+  "n": "Carinho, Carinho, Carinho",
+  "d": "Faça carinho num Swurmy até ele enlouquecer."
+ },
+ "CATCH_FIRE_TURTLE_1": {
+  "n": "Começo Flamejante",
+  "d": "Capture um Toruga onde o último trilho termina."
+ },
+ "CATCH_WATER_SHARK_1": {
+  "n": "Começo Fluido",
+  "d": "Capture um Nibblegar na caverna do pintor."
+ },
+ "CATCH_ICE_BEAR_1": {
+  "n": "Começo Gelado",
+  "d": "Capture um Cubzero na montanha mais alta."
+ },
+ "WEAR_TOWEL_AND_GO_TO_SHOP": {
+  "n": "Sem Sapato, Sem Camisa",
+  "d": "E ainda sou atendido."
+ },
+ "WEAR_TOWEL_AND_WALK_IN_SNOW": {
+  "n": "Não Estou com Frio!",
+  "d": "Prove que você aguenta qualquer clima."
+ },
+ "WEAR_TOWEL_AND_TALK_WITH_RIGEL": {
+  "n": "Sexta Casual",
+  "d": "E aí, chefe?"
+ },
+ "WEAR_TOWEL_AND_GET_OVERHEATED_IN_DESERTROUTE": {
+  "n": "Hipertermia",
+  "d": "Essa sauna é demais."
+ },
+ "CHANGE_HAIRSTYLE": {
+  "n": "Pontas Congeladas",
+  "d": "Hora de um visual novo! Quem precisa de barbeiro?"
+ },
+ "SPEND_ALL_GOLD_IN_SHOP": {
+  "n": "A Inflação Pegou Pesado",
+  "d": "Gaste seu último centavo numa loja."
+ },
+ "SPEND_LESS_THAN_50_GOLD_IN_SHOP": {
+  "n": "Cupom Extremo",
+  "d": "Gaste menos de 50 de ouro numa compra na loja."
+ },
+ "CREATE_A_CROP_CIRCLE": {
+  "n": "Os Alienígenas Chegaram!",
+  "d": "Faça um círculo nas plantações."
+ },
+ "TRY_RANDOMIZER": {
+  "n": "Sou Muito Aleatório!",
+  "d": "Experimente o modo aleatório."
+ },
+ "SELL_GEMS_FOR_5000_GOLD": {
+  "n": "Riquezas da Terra",
+  "d": "Ganhe 5000 de ouro com gemas."
+ },
+ "REACH_COROMON_LEVEL_99": {
+  "n": "No Máximo!",
+  "d": "Chegue ao nível 99 com um Coromon."
+ },
+ "COMPLETE_TRAINING_THROWING_ARM": {
+  "n": "É Isso!",
+  "d": "Complete o treino de Braço de Arremesso."
+ },
+ "COMPLETE_TRAINING_HAGGLE": {
+  "n": "Que Voz!",
+  "d": "Complete o treino de Pechincha."
+ },
+ "FIND_150_HIDDEN_ITEMS": {
+  "n": "Nenhuma Lixeira Esquecida",
+  "d": "Encontre 150 itens escondidos."
+ },
+ "DEFEAT_60_TRAINERS": {
+  "n": "Invicto",
+  "d": "Derrote 60 treinadores."
+ },
+ "SQUAD_WITH_WHOLE_FAMILY": {
+  "n": "Grande Família Feliz",
+  "d": "Tenha três Coromon diferentes da mesma família no seu Esquadrão."
+ },
+ "SQUAD_OF_POTENT": {
+  "n": "Isso Tem Potencial",
+  "d": "Tenha seis membros Potentes no Esquadrão."
+ },
+ "SQUAD_WITH_HOUNDOS_AND_PURRGY": {
+  "n": "Amigos-Inimigos",
+  "d": "Tenha um Purrgy e um Houndos no seu Esquadrão"
+ },
+ "FIND_CAVE_WITHIN_A_CAVE": {
+  "n": "Caverna-ception",
+  "d": "Encontre a caverna dentro da caverna dentro da caverna."
+ },
+ "DEVOLVE_A_COROMON": {
+  "n": "Fofura Demais",
+  "d": "Desevolua um Coromon."
+ },
+ "TRAIT_PLUS": {
+  "n": "Aprimore!",
+  "d": "Impeça um Coromon de evoluir."
+ },
+ "TRAIT_PLUS_PLUS": {
+  "n": "Aprimore++!",
+  "d": "Impeça um Coromon de evoluir duas vezes."
+ }
+}

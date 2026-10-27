@@ -891,5 +891,2938 @@
     "palavras": [
       "getting over it"
     ]
+  },
+  {
+    "id": "brawlhalla",
+    "title": "Brawlhalla",
+    "developer": "Blue Mammoth Games",
+    "year": 2017,
+    "steam_appid": 291550,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "100h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/brawlhalla.jpg",
+    "generos": [
+      "Ação",
+      "Indie"
+    ],
+    "palavras": [
+      "brawlhalla"
+    ]
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "developer": "Innersloth",
+    "year": 2018,
+    "steam_appid": 945360,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/among-us.jpg",
+    "generos": [
+      "Casual"
+    ],
+    "palavras": [
+      "among us"
+    ]
+  },
+  {
+    "id": "call-of-duty",
+    "title": "Call of Duty",
+    "developer": "Treyarch · Raven Software",
+    "year": 2022,
+    "steam_appid": 1938090,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "100h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/call-of-duty.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "call of duty"
+    ]
+  },
+  {
+    "id": "fall-guys",
+    "title": "Fall Guys",
+    "developer": "Mediatonic",
+    "year": 2020,
+    "steam_appid": 1097150,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "30–60h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/fall-guys.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "fall guys"
+    ]
+  },
+  {
+    "id": "call-of-duty-black-ops-cold-war",
+    "title": "Call of Duty: Black Ops Cold War",
+    "developer": "Treyarch · Raven Software",
+    "year": 2023,
+    "steam_appid": 1985810,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "60–100h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/call-of-duty-black-ops-cold-war.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "call of duty"
+    ]
+  },
+  {
+    "id": "counter-strike-2",
+    "title": "Counter-Strike 2",
+    "developer": "Valve",
+    "year": 2012,
+    "steam_appid": 730,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "1h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/counter-strike-2.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "counter-strike 2"
+    ]
+  },
+  {
+    "id": "paladins",
+    "title": "Paladins",
+    "developer": "Evil Mojo Games",
+    "year": 2018,
+    "steam_appid": 444090,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "80h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/paladins.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Estratégia"
+    ],
+    "palavras": [
+      "paladins"
+    ]
+  },
+  {
+    "id": "ea-sports-fc-24",
+    "title": "EA SPORTS FC 24",
+    "developer": "EA Canada · EA Romania",
+    "year": 2023,
+    "steam_appid": 2195250,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "60–100h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/ea-sports-fc-24.jpg",
+    "generos": [
+      "Simulação",
+      "Esportes"
+    ],
+    "palavras": [
+      "ea sports fc 24"
+    ]
+  },
+  {
+    "id": "realm-royale-reforged",
+    "title": "Realm Royale Reforged",
+    "developer": "Heroic Leap Games",
+    "year": 2018,
+    "steam_appid": 813820,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/realm-royale-reforged.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "realm royale reforged"
+    ]
+  },
+  {
+    "id": "amaze-classic",
+    "title": "aMAZE Classic",
+    "developer": "Blender Games",
+    "year": 2018,
+    "steam_appid": 853860,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "2–4h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/amaze-classic.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "amaze classic"
+    ]
+  },
+  {
+    "id": "a-story-about-my-uncle",
+    "title": "A Story About My Uncle",
+    "developer": "Gone North Games",
+    "year": 2014,
+    "steam_appid": 278360,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "10–15h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/a-story-about-my-uncle.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "a story about my uncle"
+    ]
+  },
+  {
+    "id": "scribblenauts-unlimited",
+    "title": "Scribblenauts Unlimited",
+    "developer": "5th Cell Media",
+    "year": 2012,
+    "steam_appid": 218680,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "15–25h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/scribblenauts-unlimited.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Estratégia"
+    ],
+    "palavras": [
+      "scribblenauts unlimited"
+    ]
+  },
+  {
+    "id": "the-room-three",
+    "title": "The Room Three",
+    "developer": "Fireproof Games",
+    "year": 2018,
+    "steam_appid": 456750,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "5–7h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-room-three.jpg",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "the room three"
+    ]
+  },
+  {
+    "id": "sword-art-online-hollow-realization-delu",
+    "title": "Sword Art Online: Hollow Realization Deluxe Edition",
+    "developer": "AQURIA",
+    "year": 2017,
+    "steam_appid": 607890,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "80–120h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/sword-art-online-hollow-realization-delu.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "sword art online"
+    ]
+  },
+  {
+    "id": "the-room-two",
+    "title": "The Room Two",
+    "developer": "Fireproof Games",
+    "year": 2016,
+    "steam_appid": 425580,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "3–5h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-room-two.jpg",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "the room two"
+    ]
+  },
+  {
+    "id": "my-dream-setup",
+    "title": "My Dream Setup",
+    "developer": "Campfire Studio",
+    "year": 2023,
+    "steam_appid": 2200780,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "3–6h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/my-dream-setup.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "my dream setup"
+    ]
+  },
+  {
+    "id": "kurtzpel",
+    "title": "KurtzPel",
+    "developer": "KOG",
+    "year": 2019,
+    "steam_appid": 844870,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "50h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/kurtzpel.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "kurtzpel"
+    ]
+  },
+  {
+    "id": "buckshot-roulette",
+    "title": "Buckshot Roulette",
+    "developer": "Mike Klubnika",
+    "year": 2024,
+    "steam_appid": 2835570,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "5–10h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/buckshot-roulette.jpg",
+    "generos": [
+      "Ação",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "buckshot roulette"
+    ]
+  },
+  {
+    "id": "the-witness",
+    "title": "The Witness",
+    "developer": "Thekla, Inc.",
+    "year": 2016,
+    "steam_appid": 210970,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-witness.jpg",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "the witness"
+    ]
+  },
+  {
+    "id": "smite-2",
+    "title": "SMITE 2",
+    "developer": "Titan Forge Games",
+    "year": 2024,
+    "steam_appid": 2437170,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "60h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/smite-2.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "smite 2"
+    ]
+  },
+  {
+    "id": "trove",
+    "title": "Trove",
+    "developer": "gamigo US Inc.",
+    "year": 2015,
+    "steam_appid": 304050,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "80h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/trove.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "trove"
+    ]
+  },
+  {
+    "id": "rock-simulator",
+    "title": "Rock Simulator",
+    "developer": "vinoo",
+    "year": 2019,
+    "steam_appid": 1187510,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "100h+ (ocioso)",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/rock-simulator.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "rock simulator"
+    ]
+  },
+  {
+    "id": "streamer-life-simulator",
+    "title": "Streamer Life Simulator",
+    "developer": "Cheesecake Dev",
+    "year": 2020,
+    "steam_appid": 1261040,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "20–30h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/streamer-life-simulator.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "streamer life simulator"
+    ]
+  },
+  {
+    "id": "slime-rancher",
+    "title": "Slime Rancher",
+    "developer": "Monomi Park",
+    "year": 2017,
+    "steam_appid": 433340,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/slime-rancher.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "slime rancher"
+    ]
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "developer": "ConcernedApe",
+    "year": 2016,
+    "steam_appid": 413150,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "100–150h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/stardew-valley.jpg",
+    "generos": [
+      "Indie",
+      "RPG",
+      "Simulação"
+    ],
+    "palavras": [
+      "stardew valley"
+    ]
+  },
+  {
+    "id": "battleblock-theater",
+    "title": "BattleBlock Theater",
+    "developer": "The Behemoth",
+    "year": 2014,
+    "steam_appid": 238460,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "20–30h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/battleblock-theater.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "battleblock theater"
+    ]
+  },
+  {
+    "id": "lovechoice",
+    "title": "LoveChoice 拣爱",
+    "developer": "Akaba Studio",
+    "year": 2021,
+    "steam_appid": 939400,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "2–3h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/lovechoice.jpg",
+    "generos": [
+      "Aventura",
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "lovechoice 拣爱"
+    ]
+  },
+  {
+    "id": "peak",
+    "title": "PEAK",
+    "developer": "Team PEAK",
+    "year": 2025,
+    "steam_appid": 3527290,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/peak.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "peak"
+    ]
+  },
+  {
+    "id": "rain-world",
+    "title": "Rain World",
+    "developer": "Videocult",
+    "year": 2017,
+    "steam_appid": 312520,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 9,
+    "hours": "50–100h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/rain-world.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "rain world"
+    ]
+  },
+  {
+    "id": "pc-building-simulator",
+    "title": "PC Building Simulator",
+    "developer": "Claudiu Kiss · The Irregular Corporation",
+    "year": 2019,
+    "steam_appid": 621060,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/pc-building-simulator.jpg",
+    "generos": [
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "pc building simulator"
+    ]
+  },
+  {
+    "id": "the-noexistencen-of-you-and-me",
+    "title": "The NOexistenceN of you AND me",
+    "developer": "0x0Real Studio",
+    "year": 2024,
+    "steam_appid": 2873080,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "3–5h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-noexistencen-of-you-and-me.jpg",
+    "generos": [
+      "Aventura",
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "the noexistencen of you and me"
+    ]
+  },
+  {
+    "id": "tabletop-simulator",
+    "title": "Tabletop Simulator",
+    "developer": "Berserk Games",
+    "year": 2015,
+    "steam_appid": 286160,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "1000h para todas",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/tabletop-simulator.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "tabletop simulator"
+    ]
+  },
+  {
+    "id": "pacify",
+    "title": "Pacify",
+    "developer": "Shawn Hitchcock",
+    "year": 2019,
+    "steam_appid": 967050,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "10–15h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/pacify.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "pacify"
+    ]
+  },
+  {
+    "id": "coromon",
+    "title": "Coromon",
+    "developer": "TRAGsoft",
+    "year": 2022,
+    "steam_appid": 1218210,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/coromon.jpg",
+    "generos": [
+      "Aventura",
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "coromon"
+    ]
+  },
+  {
+    "id": "banana",
+    "title": "Banana",
+    "developer": "Sky · AestheticSpartan",
+    "year": 2024,
+    "steam_appid": 2923300,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "Muito tempo (clicker)",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/banana.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "banana"
+    ]
+  },
+  {
+    "id": "sword-art-online-lost-song",
+    "title": "Sword Art Online: Lost Song",
+    "developer": "Artdink",
+    "year": 2018,
+    "steam_appid": 840720,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "50–70h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/sword-art-online-lost-song.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "sword art online"
+    ]
+  },
+  {
+    "id": "never-split-the-party",
+    "title": "Never Split the Party",
+    "developer": "Legend Studio",
+    "year": 2019,
+    "steam_appid": 711810,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "30–50h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/never-split-the-party.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "never split the party"
+    ]
+  },
+  {
+    "id": "unrailed",
+    "title": "Unrailed!",
+    "developer": "Indoor Astronaut",
+    "year": 2020,
+    "steam_appid": 1016920,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "30–50h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/unrailed.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "unrailed!"
+    ]
+  },
+  {
+    "id": "ark-survival-evolved",
+    "title": "ARK: Survival Evolved",
+    "developer": "Studio Wildcard · Instinct Games",
+    "year": 2017,
+    "steam_appid": 346110,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "200h+",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/ark-survival-evolved.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "ark"
+    ]
+  },
+  {
+    "id": "pubg-battlegrounds",
+    "title": "PUBG: BATTLEGROUNDS",
+    "developer": "PUBG Corporation",
+    "year": 2017,
+    "steam_appid": 578080,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "100h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/pubg-battlegrounds.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "pubg"
+    ]
+  },
+  {
+    "id": "modern-combat-versus",
+    "title": "Modern Combat Versus",
+    "developer": "Gameloft",
+    "year": 2017,
+    "steam_appid": 723780,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "60h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/modern-combat-versus.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "modern combat versus"
+    ]
+  },
+  {
+    "id": "the-exit-8",
+    "title": "The Exit 8",
+    "developer": "KOTAKE CREATE",
+    "year": 2023,
+    "steam_appid": 2653790,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "1–2h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-exit-8.jpg",
+    "generos": [
+      "Aventura",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "the exit 8"
+    ]
+  },
+  {
+    "id": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "developer": "Valve",
+    "year": 2009,
+    "steam_appid": 550,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/left-4-dead-2.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "left 4 dead 2"
+    ]
+  },
+  {
+    "id": "poppy-playtime",
+    "title": "Poppy Playtime",
+    "developer": "Mob Entertainment",
+    "year": 2021,
+    "steam_appid": 1721470,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/poppy-playtime.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "poppy playtime"
+    ]
+  },
+  {
+    "id": "muck",
+    "title": "Muck",
+    "developer": "Dani",
+    "year": 2021,
+    "steam_appid": 1625450,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/muck.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "muck"
+    ]
+  },
+  {
+    "id": "darza-s-dominion",
+    "title": "Darza's Dominion",
+    "developer": "Ripple Studio",
+    "year": 2022,
+    "steam_appid": 1895130,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "30–50h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/darza-s-dominion.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "RPG"
+    ],
+    "palavras": [
+      "darza's dominion"
+    ]
+  },
+  {
+    "id": "florence",
+    "title": "Florence",
+    "developer": "Mountains",
+    "year": 2020,
+    "steam_appid": 1102130,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "1h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/florence.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "florence"
+    ]
+  },
+  {
+    "id": "never-alone-kisima-ingitchuna",
+    "title": "Never Alone (Kisima Ingitchuna)",
+    "developer": "Upper One Games · E-Line Media",
+    "year": 2014,
+    "steam_appid": 295790,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "4–6h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/never-alone-kisima-ingitchuna.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "never alone (kisima ingitchuna)"
+    ]
+  },
+  {
+    "id": "cube-escape-paradox",
+    "title": "Cube Escape: Paradox",
+    "developer": "Rusty Lake",
+    "year": 2018,
+    "steam_appid": 909080,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "4–6h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/cube-escape-paradox.jpg",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "cube escape"
+    ]
+  },
+  {
+    "id": "hand-simulator-survival",
+    "title": "Hand Simulator: Survival",
+    "developer": "HFM Games",
+    "year": 2019,
+    "steam_appid": 924140,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "5–10h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/hand-simulator-survival.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "hand simulator"
+    ]
+  },
+  {
+    "id": "business-tour-jogo-de-tabuleiro-multipla",
+    "title": "Business Tour – Jogo de tabuleiro multiplayer",
+    "developer": "8Floor",
+    "year": 2017,
+    "steam_appid": 397900,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "20–30h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/business-tour-jogo-de-tabuleiro-multipla.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "business tour – jogo de tabuleiro multiplayer"
+    ]
+  },
+  {
+    "id": "portal-2",
+    "title": "Portal 2",
+    "developer": "Valve",
+    "year": 2011,
+    "steam_appid": 620,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "20–30h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/portal-2.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "portal 2"
+    ]
+  },
+  {
+    "id": "a-lenda-do-her-i-edi-o-definitiva",
+    "title": "A Lenda do Herói - Edição Definitiva",
+    "developer": "Dumativa · Castro Brothers",
+    "year": 2016,
+    "steam_appid": 389170,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "10–15h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/a-lenda-do-her-i-edi-o-definitiva.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "a lenda do herói - edição definitiva"
+    ]
+  },
+  {
+    "id": "clustertruck",
+    "title": "Clustertruck",
+    "developer": "Landfall",
+    "year": 2016,
+    "steam_appid": 397950,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/clustertruck.jpg",
+    "generos": [
+      "Ação",
+      "Indie"
+    ],
+    "palavras": [
+      "clustertruck"
+    ]
+  },
+  {
+    "id": "bloody-trapland",
+    "title": "Bloody Trapland",
+    "developer": "2Play",
+    "year": 2013,
+    "steam_appid": 257750,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/bloody-trapland.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "bloody trapland"
+    ]
+  },
+  {
+    "id": "lil-arena",
+    "title": "Lil' Arena",
+    "developer": "Tall Guy Productions",
+    "year": 2018,
+    "steam_appid": 945610,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "30–50h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/lil-arena.jpg",
+    "generos": [
+      "Ação",
+      "Indie"
+    ],
+    "palavras": [
+      "lil' arena"
+    ]
+  },
+  {
+    "id": "resident-evil-6",
+    "title": "Resident Evil 6",
+    "developer": "Capcom",
+    "year": 2013,
+    "steam_appid": 221040,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/resident-evil-6.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "resident evil 6"
+    ]
+  },
+  {
+    "id": "frostrunner",
+    "title": "FrostRunner",
+    "developer": "Think Arcade",
+    "year": 2019,
+    "steam_appid": 934840,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "5–10h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/frostrunner.jpg",
+    "generos": [
+      "Ação",
+      "Indie"
+    ],
+    "palavras": [
+      "frostrunner"
+    ]
+  },
+  {
+    "id": "just-cause-2",
+    "title": "Just Cause 2",
+    "developer": "Avalanche Studios",
+    "year": 2010,
+    "steam_appid": 8190,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/just-cause-2.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "just cause 2"
+    ]
+  },
+  {
+    "id": "shank-2",
+    "title": "Shank 2",
+    "developer": "Klei Entertainment",
+    "year": 2012,
+    "steam_appid": 102840,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "8–12h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/shank-2.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "shank 2"
+    ]
+  },
+  {
+    "id": "speedrunners",
+    "title": "SpeedRunners",
+    "developer": "DoubleDutch Games",
+    "year": 2016,
+    "steam_appid": 207140,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "30–50h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/speedrunners.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "speedrunners"
+    ]
+  },
+  {
+    "id": "dragon-ball-fighterz",
+    "title": "DRAGON BALL FighterZ",
+    "developer": "Arc System Works",
+    "year": 2018,
+    "steam_appid": 678950,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "50–80h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/dragon-ball-fighterz.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "dragon ball fighterz"
+    ]
+  },
+  {
+    "id": "kingdom-classic",
+    "title": "Kingdom: Classic",
+    "developer": "Noio · Licorice",
+    "year": 2015,
+    "steam_appid": 368230,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "15–30h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/kingdom-classic.jpg",
+    "generos": [
+      "Indie",
+      "Simulação",
+      "Estratégia"
+    ],
+    "palavras": [
+      "kingdom"
+    ]
+  },
+  {
+    "id": "goat-simulator",
+    "title": "Goat Simulator",
+    "developer": "Coffee Stain Studios",
+    "year": 2014,
+    "steam_appid": 265930,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "20–30h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/goat-simulator.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "goat simulator"
+    ]
+  },
+  {
+    "id": "terraria",
+    "title": "Terraria",
+    "developer": "Re-Logic",
+    "year": 2011,
+    "steam_appid": 105600,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "100–200h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/terraria.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "terraria"
+    ]
+  },
+  {
+    "id": "thief-simulator",
+    "title": "Thief Simulator",
+    "developer": "Noble Muffins",
+    "year": 2018,
+    "steam_appid": 704850,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "15–25h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/thief-simulator.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "thief simulator"
+    ]
+  },
+  {
+    "id": "the-end-is-nigh",
+    "title": "The End Is Nigh",
+    "developer": "Edmund McMillen · Tyler Glaiel",
+    "year": 2017,
+    "steam_appid": 583470,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 9,
+    "hours": "40–80h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-end-is-nigh.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "the end is nigh"
+    ]
+  },
+  {
+    "id": "egg",
+    "title": "Egg",
+    "developer": "blevsoft",
+    "year": 2024,
+    "steam_appid": 2784840,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "Muito tempo",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/egg.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "egg"
+    ]
+  },
+  {
+    "id": "little-nightmares",
+    "title": "Little Nightmares",
+    "developer": "Tarsier Studios",
+    "year": 2017,
+    "steam_appid": 424840,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "5–8h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/little-nightmares.jpg",
+    "generos": [
+      "Aventura"
+    ],
+    "palavras": [
+      "little nightmares"
+    ]
+  },
+  {
+    "id": "polygon",
+    "title": "POLYGON",
+    "developer": "Redaster Studio",
+    "year": 2020,
+    "steam_appid": 1241100,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "10h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/polygon.jpg",
+    "generos": [
+      "Ação",
+      "Indie"
+    ],
+    "palavras": [
+      "polygon"
+    ]
+  },
+  {
+    "id": "dragon-ball-xenoverse-2",
+    "title": "DRAGON BALL XENOVERSE 2",
+    "developer": "QLOC · Dimps Corporation",
+    "year": 2016,
+    "steam_appid": 454650,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "80–120h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/dragon-ball-xenoverse-2.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "dragon ball xenoverse 2"
+    ]
+  },
+  {
+    "id": "journey",
+    "title": "Journey",
+    "developer": "thatgamecompany",
+    "year": 2020,
+    "steam_appid": 638230,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "6–10h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/journey.jpg",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "journey"
+    ]
+  },
+  {
+    "id": "stumble-guys",
+    "title": "Stumble Guys",
+    "developer": "Scopely",
+    "year": 2021,
+    "steam_appid": 1677740,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/stumble-guys.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "stumble guys"
+    ]
+  },
+  {
+    "id": "bilhar-3d-pool",
+    "title": "Bilhar 3D - Pool",
+    "developer": "Poolians.com",
+    "year": 2018,
+    "steam_appid": 670290,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "20h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/bilhar-3d-pool.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "bilhar 3d - pool"
+    ]
+  },
+  {
+    "id": "spooky-station",
+    "title": "Spooky Station",
+    "developer": "Coletivo Vaca Roxa · Vee",
+    "year": 2019,
+    "steam_appid": 700100,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "3–5h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/spooky-station.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "spooky station"
+    ]
+  },
+  {
+    "id": "dead-or-alive-5-last-round-core-fighters",
+    "title": "DEAD OR ALIVE 5 Last Round: Core Fighters",
+    "developer": "Team NINJA · KOEI TECMO GAMES CO., LTD.",
+    "year": 2015,
+    "steam_appid": 311730,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "30–50h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/dead-or-alive-5-last-round-core-fighters.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "dead or alive 5 last round"
+    ]
+  },
+  {
+    "id": "miner-lou",
+    "title": "Miner Lou",
+    "developer": "Fuzzy Code Studio LLC",
+    "year": 2019,
+    "steam_appid": 1047480,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/miner-lou.jpg",
+    "generos": [
+      "Indie",
+      "RPG",
+      "Estratégia"
+    ],
+    "palavras": [
+      "miner lou"
+    ]
+  },
+  {
+    "id": "drunken-wrestlers-2",
+    "title": "Drunken Wrestlers 2",
+    "developer": "Oleg Skutte",
+    "year": 2019,
+    "steam_appid": 667530,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/drunken-wrestlers-2.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "drunken wrestlers 2"
+    ]
+  },
+  {
+    "id": "flower",
+    "title": "Flower",
+    "developer": "thatgamecompany",
+    "year": 2019,
+    "steam_appid": 966330,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "2–4h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/flower.jpg",
+    "generos": [
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "flower"
+    ]
+  },
+  {
+    "id": "himno",
+    "title": "Himno",
+    "developer": "David Moralejo Sánchez",
+    "year": 2019,
+    "steam_appid": 931690,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "3–6h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/himno.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "himno"
+    ]
+  },
+  {
+    "id": "keep-talking-and-nobody-explodes",
+    "title": "Keep Talking and Nobody Explodes",
+    "developer": "Steel Crate Games",
+    "year": 2015,
+    "steam_appid": 341800,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/keep-talking-and-nobody-explodes.jpg",
+    "generos": [
+      "Indie"
+    ],
+    "palavras": [
+      "keep talking and nobody explodes"
+    ]
+  },
+  {
+    "id": "temple-of-rust",
+    "title": "Temple of Rust",
+    "developer": "James Mearman",
+    "year": 2023,
+    "steam_appid": 460540,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "2–4h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/temple-of-rust.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "temple of rust"
+    ]
+  },
+  {
+    "id": "accel-world-vs-sword-art-online-deluxe-e",
+    "title": "Accel World VS. Sword Art Online Deluxe Edition",
+    "developer": "ARTDINK CORPORATION",
+    "year": 2017,
+    "steam_appid": 607880,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "40–60h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/accel-world-vs-sword-art-online-deluxe-e.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "accel world vs. sword art online deluxe edition"
+    ]
+  },
+  {
+    "id": "carpe-diem",
+    "title": "Carpe Diem",
+    "developer": "Moonlit Works",
+    "year": 2015,
+    "steam_appid": 423880,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "30 min",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/carpe-diem.jpg",
+    "generos": [
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "carpe diem"
+    ]
+  },
+  {
+    "id": "cup-of-ethanol",
+    "title": "Cup Of Ethanol",
+    "developer": "Eoin Flanagan",
+    "year": 2019,
+    "steam_appid": 1127360,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "5–8h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/cup-of-ethanol.jpg",
+    "generos": [
+      "Indie"
+    ],
+    "palavras": [
+      "cup of ethanol"
+    ]
+  },
+  {
+    "id": "drawful-2",
+    "title": "Drawful 2",
+    "developer": "Jackbox Games, Inc.",
+    "year": 2016,
+    "steam_appid": 442070,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "5–10h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/drawful-2.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Estratégia"
+    ],
+    "palavras": [
+      "drawful 2"
+    ]
+  },
+  {
+    "id": "one-dreamer-prologue",
+    "title": "One Dreamer: Prologue",
+    "developer": "One Dreamer Company",
+    "year": 2020,
+    "steam_appid": 1274140,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "1h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/one-dreamer-prologue.jpg",
+    "generos": [
+      "Indie"
+    ],
+    "palavras": [
+      "one dreamer"
+    ]
+  },
+  {
+    "id": "cheeky-chooks",
+    "title": "Cheeky Chooks",
+    "developer": "Trilum Studios",
+    "year": 2018,
+    "steam_appid": 922460,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/cheeky-chooks.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Estratégia"
+    ],
+    "palavras": [
+      "cheeky chooks"
+    ]
+  },
+  {
+    "id": "chill-corner",
+    "title": "Chill Corner",
+    "developer": "Low-Hi Tech",
+    "year": 2021,
+    "steam_appid": 1749630,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 1,
+    "hours": "30h+",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/chill-corner.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "chill corner"
+    ]
+  },
+  {
+    "id": "destiny-2",
+    "title": "Destiny 2",
+    "developer": "Bungie",
+    "year": 2019,
+    "steam_appid": 1085660,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "200h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/destiny-2.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "destiny 2"
+    ]
+  },
+  {
+    "id": "drift86",
+    "title": "Drift86",
+    "developer": "RewindApp",
+    "year": 2019,
+    "steam_appid": 1070580,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/drift86.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Corrida"
+    ],
+    "palavras": [
+      "drift86"
+    ]
+  },
+  {
+    "id": "garry-s-mod",
+    "title": "Garry's Mod",
+    "developer": "Facepunch Studios",
+    "year": 2006,
+    "steam_appid": 4000,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "Muito tempo",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/garry-s-mod.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "Simulação"
+    ],
+    "palavras": [
+      "garry's mod"
+    ]
+  },
+  {
+    "id": "geoguessr-steam-edition",
+    "title": "GeoGuessr Steam Edition",
+    "developer": "GeoGuessr",
+    "year": 2025,
+    "steam_appid": 3478870,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "100h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/geoguessr-steam-edition.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Estratégia"
+    ],
+    "palavras": [
+      "geoguessr steam edition"
+    ]
+  },
+  {
+    "id": "gravity-circuit",
+    "title": "Gravity Circuit",
+    "developer": "Domesticated Ant Games",
+    "year": 2023,
+    "steam_appid": 858710,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/gravity-circuit.jpg",
+    "generos": [
+      "Ação",
+      "Indie"
+    ],
+    "palavras": [
+      "gravity circuit"
+    ]
+  },
+  {
+    "id": "grim-clicker",
+    "title": "Grim Clicker",
+    "developer": "EvilCharm Games",
+    "year": 2024,
+    "steam_appid": 1160750,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/grim-clicker.jpg",
+    "generos": [
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "grim clicker"
+    ]
+  },
+  {
+    "id": "life-is-strange-episode-1",
+    "title": "Life is Strange",
+    "developer": "DONTNOD Entertainment · Feral Interactive (Mac)",
+    "year": 2015,
+    "steam_appid": 319630,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "15–20h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/life-is-strange-episode-1.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "life is strange - episode 1"
+    ]
+  },
+  {
+    "id": "marvel-rivals",
+    "title": "Marvel Rivals",
+    "developer": "NetEase Games",
+    "year": 2024,
+    "steam_appid": 2767030,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "100h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/marvel-rivals.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "marvel rivals"
+    ]
+  },
+  {
+    "id": "metro-2033-redux",
+    "title": "METRO 2033 Redux",
+    "developer": "4A Games",
+    "year": 2014,
+    "steam_appid": 286690,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "15–25h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/metro-2033-redux.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "metro 2033 redux"
+    ]
+  },
+  {
+    "id": "outbreak-epidemic",
+    "title": "Outbreak: Epidemic",
+    "developer": "Dead Drop Studios LLC",
+    "year": 2020,
+    "steam_appid": 1082220,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "10–20h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/outbreak-epidemic.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "outbreak"
+    ]
+  },
+  {
+    "id": "overwatch",
+    "title": "Overwatch",
+    "developer": "Blizzard Entertainment, Inc.",
+    "year": 2023,
+    "steam_appid": 2357570,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "200h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/overwatch.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "overwatch"
+    ]
+  },
+  {
+    "id": "path-of-exile",
+    "title": "Path of Exile",
+    "developer": "Grinding Gear Games",
+    "year": 2013,
+    "steam_appid": 238960,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "200h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/path-of-exile.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "path of exile"
+    ]
+  },
+  {
+    "id": "resident-evil-revelations-2",
+    "title": "Resident Evil Revelations 2",
+    "developer": "CAPCOM Co., Ltd.",
+    "year": 2015,
+    "steam_appid": 287290,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "25–40h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/resident-evil-revelations-2.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "resident evil revelations 2"
+    ]
+  },
+  {
+    "id": "scp-secret-laboratory",
+    "title": "SCP: Secret Laboratory",
+    "developer": "Northwood Studios",
+    "year": 2017,
+    "steam_appid": 700330,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "50h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/scp-secret-laboratory.jpg",
+    "generos": [
+      "Ação",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "scp"
+    ]
+  },
+  {
+    "id": "sega-mega-drive-and-genesis-classics",
+    "title": "SEGA Mega Drive and Genesis Classics",
+    "developer": "D3T Limited",
+    "year": 2010,
+    "steam_appid": 34270,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "20–40h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/sega-mega-drive-and-genesis-classics.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "sega mega drive and genesis classics"
+    ]
+  },
+  {
+    "id": "tbh-task-bar-hero",
+    "title": "TBH: Task Bar Hero",
+    "developer": "Nugem Studio · Tesseract Studio",
+    "year": 2026,
+    "steam_appid": 3678970,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "20h+",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/tbh-task-bar-hero.jpg",
+    "generos": [
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "tbh"
+    ]
+  },
+  {
+    "id": "tell-me-why",
+    "title": "Tell Me Why",
+    "developer": "DONTNOD Entertainment",
+    "year": 2020,
+    "steam_appid": 1180660,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "10–12h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/tell-me-why.jpg",
+    "generos": [
+      "Aventura"
+    ],
+    "palavras": [
+      "tell me why"
+    ]
+  },
+  {
+    "id": "the-room-4-old-sins",
+    "title": "The Room 4: Old Sins",
+    "developer": "Fireproof Games",
+    "year": 2021,
+    "steam_appid": 1361320,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "4–6h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-room-4-old-sins.jpg",
+    "generos": [
+      "Aventura"
+    ],
+    "palavras": [
+      "the room 4"
+    ]
+  },
+  {
+    "id": "untrusted",
+    "title": "Untrusted",
+    "developer": "playuntrusted.com",
+    "year": 2021,
+    "steam_appid": 1502660,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "30–50h",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/untrusted.jpg",
+    "generos": [
+      "Indie",
+      "RPG"
+    ],
+    "palavras": [
+      "untrusted"
+    ]
+  },
+  {
+    "id": "unturned",
+    "title": "Unturned",
+    "developer": "Smartly Dressed Games",
+    "year": 2017,
+    "steam_appid": 304930,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "100h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/unturned.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Casual"
+    ],
+    "palavras": [
+      "unturned"
+    ]
+  },
+  {
+    "id": "warframe",
+    "title": "Warframe",
+    "developer": "Digital Extremes",
+    "year": 2013,
+    "steam_appid": 230410,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 5,
+    "hours": "300h+",
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/warframe.jpg",
+    "generos": [
+      "Ação",
+      "RPG"
+    ],
+    "palavras": [
+      "warframe"
+    ]
+  },
+  {
+    "id": "winexy",
+    "title": "Winexy",
+    "developer": "Heaven Brotherhood",
+    "year": 2017,
+    "steam_appid": 577740,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "2–4h",
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/winexy.jpg",
+    "generos": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "palavras": [
+      "winexy"
+    ]
   }
 ]

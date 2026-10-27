@@ -1,0 +1,19 @@
+{
+  "resumo": "Plataforma de armadilhas com gatos, cooperativo e competitivo.",
+  "roadmap": [
+    {
+      "titulo": "1. Aventura",
+      "texto": "Termine os 5 mundos e ache as fases secretas."
+    },
+    {
+      "titulo": "2. Estrelas",
+      "texto": "Pegue todas as estrelas douradas."
+    },
+    {
+      "titulo": "3. Multijogador",
+      "texto": "Corridas e mata-mata precisam de outros jogadores."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

@@ -1,0 +1,278 @@
+{
+ "Getting_Started": {
+  "n": "Começando",
+  "d": "E aí, amigo! Você não me conhece e eu não te conheço, mas se prestar atenção talvez sobreviva. Talvez até se divirta. Ou vire meu amigo. Espero que a gente vire am... *ai* desculpa! Falo demais. Vamos te colocar no jogo."
+ },
+ "Practice_Makes_Good_Enough": {
+  "n": "A Prática Leva ao \"Bom o Bastante\"",
+  "d": "Escuta aqui, verme: não tenho tempo nem paciência para partidas chatas. Tenho um exército de seres semiconscientes prontos para te enfrentar. Só os fortes entram nas Arenas de verdade! Jogue partidas de Treino, junte Essências Cinzentas e prove seu valor!"
+ },
+ "Let_it_Shine_on_You": {
+  "n": "Deixe a Luz Brilhar em Você",
+  "d": "Só quem busca impor a Justiça Divina pode empunhar nossas Gemas de Poder. Prove seu senso de Dever à Alta Ordem e seja batizado pela Luz da cabeça aos pés."
+ },
+ "The_Art_of_Combat": {
+  "n": "A Arte do Combate",
+  "d": "Enfrentar os inimigos de frente, como uma Força Mortal: é isso que significa fazer parte do Pacto Élfico. Só verdadeiros Mestres do Combate podem tomar nossas Gemas de Poder nas mãos."
+ },
+ "Lightning_Eyes": {
+  "n": "Olhos de Relâmpago",
+  "d": "A Resistência só entrega suas Gemas de Poder a certas pessoas: quem tem a Faísca nos Olhos e a determinação inabalável de proteger quem ama."
+ },
+ "Heart_of_the_Mountain": {
+  "n": "Coração da Montanha",
+  "d": "Então você veio atrás das Sementes do Diabo. Aceitar nossas Gemas de Poder é abraçar as próprias Sombras Ardentes, desejar forjar um Núcleo de Magma e ter Paciência para ir até o fim."
+ },
+ "How_Rivers_Cut_Through_Rocks": {
+  "n": "Como os Rios Cortam as Pedras",
+  "d": "O Ataque da Evolução recebe todos que firmam os pés e mostram ao mundo que a Natureza sempre Persiste. Aceite isso e receba as Gemas de Poder dos Espíritos da Floresta."
+ },
+ "Hug_Smash": {
+  "n": "Abraço Esmagador",
+  "d": "Se estiver no caminho, Esmague. Se levantar, Esmague de novo. Se trouxer amigos, Esmague todos. Esse é o caminho da vitória, o caminho do... DESTRUIDOOOOR! Bom, brincadeiras à parte, vamos liberar sua Força."
+ },
+ "No_Survivors": {
+  "n": "Sem Sobreviventes",
+  "d": "Se veio até aqui, você busca aperfeiçoar sua Técnica. Nosso Estilo de Luta não é para os fracos: vamos te treinar para ser um verdadeiro Assassino, capaz de um Ataque Implacável contra seus alvos."
+ },
+ "Welcome_to_the_Machine": {
+  "n": "Bem-vindo à Máquina",
+  "d": "É triste, sério. Como esperam vencer sem pensar de forma criativa? Venha. Vou ampliar seus horizontes. Você vai aprender a se Adaptar a tudo e Controlar qualquer situação."
+ },
+ "Universal_Balance": {
+  "n": "Equilíbrio Universal",
+  "d": "Oi. Que bom que você veio. Este é seu primeiro passo no caminho da Fé. Sente. Relaxe. Aceite. Encontre seu eu interior, Medite e redescubra sua realidade. Renasça como um Espírito."
+ },
+ "Unbreakable_Objects": {
+  "n": "Objetos Inquebráveis",
+  "d": "Sabe quantos acham que podem Proteger os outros sem conseguir proteger a si mesmos? É valentia barata. Eles pulam o Condicionamento cruel que constrói a Resistência de um Escudo Indomável."
+ },
+ "Its_time": {
+  "n": "Chegou a Hora",
+  "d": "Olá de novo, Pequena Alma. Você chegou até aqui, e agora é hora de ver do que é feito. Que os jogos de verdade comecem."
+ },
+ "Challenge_of_the_Soul_Conqueror": {
+  "n": "Desafio do Conquistador de Almas",
+  "d": "Vença {0} partidas"
+ },
+ "Challenge_of_the_Soul_Collector": {
+  "n": "Desafio do Colecionador de Almas",
+  "d": "Somando partidas, segure pelo menos 3 Esferas de Alma por {0} segundos."
+ },
+ "Challenge_of_the_Soul_Stealer": {
+  "n": "Desafio do Ladrão de Almas",
+  "d": "Somando partidas, roube {0} Esferas de Alma derrotando seus donos."
+ },
+ "Challenge_of_the_Soul_Protector": {
+  "n": "Desafio do Protetor de Almas",
+  "d": "Somando partidas, devolva {0} Esferas de Alma aos donos derrotando quem as roubou."
+ },
+ "Look_Ma_I_have_a_Job": {
+  "n": "Olha, Mãe, Arrumei Emprego",
+  "d": "Colete 50.000 Essências Cinzentas em partidas normais"
+ },
+ "Hey_Im_Good_at_this": {
+  "n": "Ei, Eu Sou Bom Nisso",
+  "d": "Colete 500.000 Essências Cinzentas em partidas normais"
+ },
+ "Fields_of_Gray": {
+  "n": "Campos Cinzentos",
+  "d": "Colete 5.000.000 de Essências Cinzentas em partidas normais"
+ },
+ "Nothing_Beats_the_Real_Thing": {
+  "n": "Nada Supera o de Verdade",
+  "d": "Então você não é totalmente inútil. Vamos ver como se sai contra adversários de verdade."
+ },
+ "Perfect_Practice_makes_Perfect": {
+  "n": "Prática Perfeita Leva à Perfeição",
+  "d": "Isso mesmo, vermezinho! Está ficando promissor. Estou empolgado com você. Prove que estou certo!"
+ },
+ "You_Make_me_Proud": {
+  "n": "Você Me Dá Orgulho",
+  "d": "É isso. Mostre ao mundo o guerreiro que eu criei!"
+ },
+ "That_White_Stuff_is_Good": {
+  "n": "Esse Negócio Branco É Bom",
+  "d": "Colete 1.000.000 de essências brancas em partidas ranqueadas"
+ },
+ "Give_me_More": {
+  "n": "Quero Mais..",
+  "d": "Colete 1.000.000 de essências brancas em partidas ranqueadas"
+ },
+ "White_Mountain": {
+  "n": "Montanha Branca",
+  "d": "Colete 1.000.000 de essências brancas em partidas ranqueadas"
+ },
+ "Hmm": {
+  "n": "Hmm..",
+  "d": "Hmm.. Você conseguiu. Inteiro, devo dizer. Que os jogos de verdade comecem."
+ },
+ "Ohhh": {
+  "n": "Ohhh..?",
+  "d": "Ohhh..? Então você sabe fazer coisas. Vamos ver até onde chega."
+ },
+ "Interesting": {
+  "n": "Interessante..!",
+  "d": "Interessante..! Parece que eu estava certo sobre você. Agora só me resta saber.. Você vai.. me divertir?"
+ },
+ "First_Bloods": {
+  "n": "Primeiros Sangues",
+  "d": "Derrote um adversário com cada uma das suas habilidades de Ataque."
+ },
+ "Master_Predator": {
+  "n": "Predador Supremo",
+  "d": "Derrote dois adversários seguidos com cada uma das suas habilidades de Ataque."
+ },
+ "Undying_Victorious_Soul": {
+  "n": "Alma Vitoriosa e Imortal",
+  "d": "Vença uma partida sem ser derrotado nenhuma vez."
+ },
+ "Total_Annihilation": {
+  "n": "Aniquilação Total",
+  "d": "Derrote todos os adversários em 15 segundos"
+ },
+ "All_Your_Souls_Are_Belong_To_Me": {
+  "n": "Todas as Suas Almas São Minhas",
+  "d": "Segure todas as Esferas de Alma ao mesmo tempo"
+ },
+ "Inner_Strength": {
+  "n": "Força Interior",
+  "d": "Vença uma partida sem usar nenhum power-up"
+ },
+ "SingleMinded_Elemental": {
+  "n": "Elemental Focado",
+  "d": "Honre as Cinco Facções vencendo uma partida só com habilidades do Elemento de cada uma"
+ },
+ "Style_Unparalleled": {
+  "n": "Estilo Incomparável",
+  "d": "Honre as Cinco Federações vencendo uma partida com o Estilo de Luta de cada uma."
+ },
+ "You_Reap_what_you_Sow": {
+  "n": "Colhe o que Planta",
+  "d": "Derrote um adversário que está segurando todas as Esferas de Alma."
+ },
+ "Citizen_of_the_World": {
+  "n": "Cidadão do Mundo",
+  "d": "Seja reconhecido pelas Cinco Facções de Delasphos e desbloqueie seus Elementos."
+ },
+ "Member_of_the_Cause": {
+  "n": "Membro da Causa",
+  "d": "Prove seu valor às Cinco Federações de Delasphos e domine seus Estilos de Luta."
+ },
+ "All_the_Items": {
+  "n": "Todos os Itens!",
+  "d": "Colete todos os itens à venda."
+ },
+ "All_the_History": {
+  "n": "Toda a História!",
+  "d": "Colete todos os itens de história à venda."
+ },
+ "All_the_Trials": {
+  "n": "Todas as Provações!",
+  "d": "Complete todas as Provações"
+ },
+ "All_the_Challenges": {
+  "n": "Todos os Desafios!",
+  "d": "Complete cada Desafio pelo menos uma vez."
+ },
+ "Impossible": {
+  "n": "Impossível",
+  "d": "Obrigado, pequena Alma. Você cresceu além de tudo que eu esperava. Pedi aos meus Vois da Tall Guy Productions uma recompensa à altura."
+ },
+ "All_the_Achievements": {
+  "n": "Todas as Conquistas!",
+  "d": "Ganhe todas as conquistas, menos esta. Senão daria um loop infinito."
+ },
+ "Before_it_all_Began_pt_I": {
+  "n": "Antes de Tudo Começar, pt. I",
+  "d": "Os Planos Astrais de Leth, o Reino Mãe, só recebem as almas dos mortos. No centro fica M' Or, o Coração do Reino, feito de energia de alma pura. Delasphos é um dos planetas que orbitam M' Or e abriga as almas de quem viveu na Terra, reencarnadas como Humanos e Gnomos. Tudo mudou quando começou a Guerra das Almas."
+ },
+ "Before_it_all_Began_ptII": {
+  "n": "Antes de Tudo Começar, pt. II",
+  "d": "Ano 0 do novo calendário: a Guerra das Almas começa e termina no mesmo dia. Um raio de energia pura atingiu M' Or, que passou a vazar energia. Planetas próximos explodiram e os distantes definharam. Foi quando a futura Arquifeiticeira humana Nimelle Dios foi muito além do seu dever."
+ },
+ "Before_it_all_Began_ptIII": {
+  "n": "Antes de Tudo Começar, pt. III",
+  "d": "Durante a cerimônia de Despertar de Nimelle, uma onda de energia saiu de M' Or e devastou tudo. Em Delasphos, a terra se partiu e surgiram montanhas e vulcões. Nimelle absorveu metade da onda com um Dreno e bloqueou o resto com um Escudo. Salvou todos, mas a dor foi tanta que ela deixou de ser totalmente humana e caiu num longo coma."
+ },
+ "Before_it_all_Began_ptIV": {
+  "n": "Antes de Tudo Começar, pt. IV",
+  "d": "Inspirados por Nimelle, os Arquifeiticeiros abriram portais para os planetas dos Elfos, dos Anões e dos Orcs. Quando M' Or se estabilizou, os portais fecharam e os recém-chegados ficaram presos em Delasphos. Os gnomos subaquáticos surgiram, animais sofreram mutações e nasceram Aaracocras e Draconatos. Delasphos passou a ter 8 Tribos forçadas a conviver."
+ },
+ "The_Beginning_of_this_Era_ptI": {
+  "n": "O Começo Desta Era, pt. I",
+  "d": "Meio século depois do fechamento dos portais, as coisas finalmente melhoram. No começo houve dez anos de guerra, e a energia que sobrou devastava rios, plantações e cidades. A Resistência aceitou que os novos povos estavam ali para ficar. No ano 13, representantes de todas as Tribos se reuniram em Valnor para negociar a paz."
+ },
+ "The_Beginning_of_this_Era_ptII": {
+  "n": "O Começo Desta Era, pt. II",
+  "d": "As negociações de Valnor foram um desastre: o Rei dos Humanos, Sever Pott IV, explodiu a cidade. Anos depois veio o Tratado do Trevo, que criou fronteiras claras respeitadas com a ajuda da Alta Ordem. Cada Facção domina alguns recursos, mas precisa das outras para sobreviver, e é isso que mantém a paz."
+ },
+ "The_Beginning_of_this_Era_ptIII": {
+  "n": "O Começo Desta Era, pt. III",
+  "d": "O aniversário do Tratado do Trevo é comemorado em quase toda Delasphos, mas não em toda. Ainda há quem não perdoe quem matou suas famílias. Mesmo assim, os governantes atuais assinaram o Tratado e as fronteiras são respeitadas. No fundo, cada Facção preferiria estar sozinha no planeta, mas precisa seguir em frente."
+ },
+ "Wandering_Souls": {
+  "n": "Almas Errantes",
+  "d": "As Facções nasceram da necessidade, em tempos de guerra e caos. Cinco décadas depois as feridas fecharam, mas ficaram as cicatrizes. Nas cidades, 1 em cada 10 ou 20 pessoas é de uma Tribo de outra Facção, vinda por curiosidade, amor ou sobrevivência. Esses imigrantes não são atacados, mas quase sempre são tratados como cidadãos de segunda classe."
+ },
+ "Nimelle": {
+  "n": "Nimelle",
+  "d": "Nimelle Dios seria a primeira Arquifeiticeira de Delasphos. Em vez disso, virou uma semideusa e salvou o planeta, mas perdeu a humanidade. Hoje tem poderes que não controla e se isolou na mansão do antigo mestre, nas Terras Geladas de Duggen. O clima do mundo segue o humor dela, então todos trabalham para mantê-la contente."
+ },
+ "The_Vois": {
+  "n": "Os Vois",
+  "d": "A onda de energia marcou Delasphos para sempre e muitas espécies morreram. Os Vois, criaturas peludas, brincalhonas e gentis, sobreviveram mas ficaram viciados na energia de M' Or. Quando ela sumiu de suas casas, seguiram um cheiro poderoso até as Terras Geladas e encontraram Nimelle. Nunca mais saíram do lado dela."
+ },
+ "The_Arenas": {
+  "n": "As Arenas",
+  "d": "Os Vois conseguem ver os sonhos de Nimelle e começaram a construir miniaturas dos lugares que viam. Para dar vida a eles, Nimelle colocou Almas Errantes em pequenos corpos feitos pelos Vois, para lutarem nesses lugares. Muitos acham isso um desrespeito ao Fluxo de Almas, mas ninguém ousa dizer. As Facções oferecem Gemas de Poder e treinam os guerreiros para agradá-la."
+ },
+ "The_FourLeafed_Clover": {
+  "n": "O Trevo de Quatro Folhas",
+  "d": "Valnor, antiga capital humana, foi destruída no ano 13 quando o Rei Sever Pott IV explodiu a cidade. Depois, as quatro Facções a reconstruíram em forma de trevo de quatro folhas como sede da Alta Ordem, a força de paz neutra, reconhecida como quinta Facção. No ano 48 a cidade está pronta para o aniversário de 10 anos do Tratado do Trevo."
+ },
+ "Brick_and_Order": {
+  "n": "Tijolo e Ordem",
+  "d": "Clover abriga a Alta Ordem, formada por soldados de todas as Facções na medida certa: forte o bastante para proteger qualquer Facção, mas não para enfrentar as quatro juntas. A Associação dos Construtores ergueu a cidade inteira e atraiu trabalhadores de todas as origens. O resultado é uma cidade segura, lar de pessoas das oito Tribos."
+ },
+ "A_Monarch_chosen_by_her_People": {
+  "n": "Uma Monarca Escolhida pelo Povo",
+  "d": "A Resistência é a única Facção com direito \"objetivo\" sobre Delasphos: chegou primeiro. É formada por Humanos e Gnomos, com alguns meio-orcs e meio-elfos, e governada por uma Monarca. Amyra, a líder atual, ajudou a criar o Tratado do Trevo e abriu as portas para quem quisesse se juntar, fazendo da capital um centro de comércio, ciência, arte e boa comida."
+ },
+ "Guilds_and_Politics": {
+  "n": "Guildas e Política",
+  "d": "Amyra tem apoio suficiente para manter a estabilidade. A Guilda dos Mercadores quer paz, mas pressiona as outras Facções nos recursos agrícolas. A Guilda das Artes Arcanas estuda o desequilíbrio elemental do planeta junto com a Guilda dos Inventores. A Guilda da Expressão incentiva talentos nos festivais. Juntas, criam o ambiente multicultural que Amyra sonhava."
+ },
+ "Clipped_Wings_High_Spirits": {
+  "n": "Asas Cortadas, Espírito Elevado",
+  "d": "Depois que os portais fecharam, tempestades de energia sugaram as almas de pássaros e dragões. Algumas dessas almas se fundiram a corpos humanos e nasceram os primeiros Draconatos e Aaracocras. Sem poder voar, se abrigaram na floresta e juraram protegê-la. Viraram o Ataque da Evolução, que hoje fornece madeira e pedra e ajuda a prever tempestades."
+ },
+ "Stronger_Together": {
+  "n": "Mais Fortes Juntos",
+  "d": "Os cidadãos do Ataque da Evolução ocuparam cidades abandonadas nas montanhas e são guiados por um conselho eleito. Há muitos clãs: os Res R' Cher estudam a natureza para controlar o clima, e os Hut Ur Khul, mais agressivos, são vistos como o escudo da floresta."
+ },
+ "An_Unlikely_Alliance": {
+  "n": "Uma Aliança Improvável",
+  "d": "O Pacto Élfico junta Altos Elfos e Elfos Negros, que se odeiam. Quando os portais abriram, deixaram as diferenças de lado para conquistar o outro mundo, e teriam conseguido se os portais ficassem abertos mais tempo. Hoje dividem a cidade de Inl e Onf Thenmar, partida ao meio, e cada Tribo segue seus próprios líderes e leis."
+ },
+ "Gods_and_Councils": {
+  "n": "Deuses e Conselhos",
+  "d": "Cada Tribo élfica tem um Sumo Sacerdote e um Conselho de sábios, com as famílias nobres influentes. Em tempos de guerra, os conselhos dão lugar ao Conselho das Sete Lâminas. Há rumores de missões secretas contra outras Facções, o que alimenta a desconfiança, e por isso Inl e Onf Thenmar quase não recebem visitantes."
+ },
+ "All_Kinds_of_Laws": {
+  "n": "Todo Tipo de Lei",
+  "d": "O Pacto Élfico segue o Tratado do Trevo e mais três níveis de regras: Leis Élficas (roubou, perde a mão; matou, perde a cabeça), aplicadas pela Guarda da Capital; Mandamentos Divinos; e Ordens do Conselho. Esse sistema rígido faz quase todos se sentirem mal-vindos por lá."
+ },
+ "Elven_Hearts": {
+  "n": "Corações Élficos",
+  "d": "\"Quando nosso mundo colidiu com Delasphos, nossas duas nações rivais deixaram de lado anos de rivalidade. Não era Negro contra Alto, só Elfo contra Elfo, e nenhuma nação aguentaria sozinha.\" Versos de Thaduin, que viu a Trégua élfica. A canção inspirou as Gemas de Poder da Força Mortal: magia alto-élfica e combate élfico-negro."
+ },
+ "For_the_Children": {
+  "n": "Pelas Crianças",
+  "d": "Orcs e Anões chegaram quando seus planetas desmoronavam e encontraram abrigo nas cavernas do Pico Risonho. Mas vozes sombrias começaram a dominar os jovens e os levaram a devastar o mundo. Os anciãos fugiram e, depois de trinta anos de estudo, se sacrificaram para enfraquecer o Sombrio e libertar os jovens. O mundo nunca esqueceu, e a Facção ficou conhecida como Sementes do Diabo."
+ },
+ "Law_of_the_Mountain": {
+  "n": "Lei da Montanha",
+  "d": "Por três décadas, Orcs e Anões ouviram a Voz Sombria, até os Anciãos se sacrificarem para libertá-los. Perdidos, muitos seguiram quem dizia ainda ouvir a Voz, e assim nasceram os Cultos. Na capital, só há um: o culto de Tharizdun, liderado por Morthos, um poderoso feiticeiro orc com partes demoníacas. Ord Vuzdur virou a sede do culto."
+ }
+}

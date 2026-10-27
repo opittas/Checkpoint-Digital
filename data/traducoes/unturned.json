@@ -1,0 +1,382 @@
+{
+ "PEI": {
+  "n": "Bem-vindo a PEI",
+  "d": "Chegue à Ilha do Príncipe Eduardo."
+ },
+ "Bridge": {
+  "n": "Uma Ponte Longe Demais",
+  "d": "Falhe em conter o vírus."
+ },
+ "Mastermind": {
+  "n": "Mente Brilhante",
+  "d": "Aprenda todas as suas habilidades."
+ },
+ "Offense": {
+  "n": "Ataque",
+  "d": "Aprenda toda a árvore de ataque."
+ },
+ "Defense": {
+  "n": "Defesa",
+  "d": "Aprenda toda a árvore de defesa."
+ },
+ "Support": {
+  "n": "Suporte",
+  "d": "Aprenda toda a árvore de suporte."
+ },
+ "Experienced": {
+  "n": "Experiente",
+  "d": "Ganhe 1000 de experiência."
+ },
+ "Hoarder": {
+  "n": "Acumulador",
+  "d": "Encontre 1000 itens."
+ },
+ "Outdoors": {
+  "n": "Ao Ar Livre",
+  "d": "Colete 100 recursos."
+ },
+ "Psychopath": {
+  "n": "Psicopata",
+  "d": "Mate 100 jogadores."
+ },
+ "Murderer": {
+  "n": "Assassino",
+  "d": "Mate 10 jogadores."
+ },
+ "Survivor": {
+  "n": "Sobrevivente",
+  "d": "Mate 100 zumbis comuns."
+ },
+ "Unturned": {
+  "n": "Unturned",
+  "d": "Mate 1000 zumbis comuns."
+ },
+ "Hardened": {
+  "n": "Calejado",
+  "d": "Mate um mega zumbi."
+ },
+ "Forged": {
+  "n": "Forjado",
+  "d": "Mate 10 mega zumbis."
+ },
+ "Scavenger": {
+  "n": "Catador",
+  "d": "Encontre 100 itens."
+ },
+ "Camper": {
+  "n": "Campista",
+  "d": "Colete 10 recursos."
+ },
+ "Schooled": {
+  "n": "Escolado",
+  "d": "Ganhe 100 de experiência."
+ },
+ "Berries": {
+  "n": "Frutinhas",
+  "d": "!?"
+ },
+ "Accident_Prone": {
+  "n": "Propenso a Acidentes",
+  "d": "Morra 10 vezes."
+ },
+ "Wheel": {
+  "n": "Ao Volante",
+  "d": "Encontre um veículo."
+ },
+ "Yukon": {
+  "n": "Bem-vindo ao Yukon",
+  "d": "Chegue ao Yukon."
+ },
+ "Washington": {
+  "n": "Bem-vindo a Washington",
+  "d": "Chegue a Washington."
+ },
+ "Educated": {
+  "n": "Formatura",
+  "d": "Complete sua educação."
+ },
+ "Fishing": {
+  "n": "Pescaria",
+  "d": "Pesque 10 peixes."
+ },
+ "Crafting": {
+  "n": "Fabricação",
+  "d": "Fabrique 100 itens."
+ },
+ "Farming": {
+  "n": "Agricultura",
+  "d": "Cultive 100 plantas."
+ },
+ "Headshot": {
+  "n": "Tiro na Cabeça",
+  "d": "Acerte 100 tiros na cabeça."
+ },
+ "Sharpshooter": {
+  "n": "Atirador de Precisão",
+  "d": "Acerte 1000 tiros na cabeça."
+ },
+ "Hiking": {
+  "n": "Trilha",
+  "d": "Percorra 50.000 m a pé."
+ },
+ "Roadtrip": {
+  "n": "Viagem de Carro",
+  "d": "Percorra 100.000 m de veículo."
+ },
+ "Champion": {
+  "n": "Campeão",
+  "d": "Vença 3 partidas de arena."
+ },
+ "Fortified": {
+  "n": "Fortificado",
+  "d": "Construa 250 objetos."
+ },
+ "Russia": {
+  "n": "Bem-vindo à Rússia",
+  "d": "Chegue à Rússia."
+ },
+ "Soulcrystal": {
+  "n": "Cristal de Alma",
+  "d": "???"
+ },
+ "Paragon": {
+  "n": "Exemplo",
+  "d": "Conquiste uma reputação respeitada."
+ },
+ "Villain": {
+  "n": "Vilão",
+  "d": "Conquiste uma reputação intimidadora."
+ },
+ "Mk2": {
+  "n": "Mk. II",
+  "d": "???"
+ },
+ "Quest": {
+  "n": "Uma Mãozinha",
+  "d": "Termine uma missão."
+ },
+ "Ensign": {
+  "n": "Alferes",
+  "d": "Suba ao posto de Alferes na Coalizão."
+ },
+ "Lieutenant": {
+  "n": "Tenente",
+  "d": "Suba ao posto de Tenente na Coalizão."
+ },
+ "Major": {
+  "n": "Major",
+  "d": "Suba ao posto de Major na Coalizão."
+ },
+ "Peaks": {
+  "n": "Bem-vindo à Alemanha",
+  "d": "Chegue à Alemanha."
+ },
+ "Zweihander": {
+  "n": "Segredos de Neuschwanstein",
+  "d": "???"
+ },
+ "Festive2021_Delivery": {
+  "n": "Ajudante do Papai Noel",
+  "d": "Entregue todos os presentes atrasados do Papai Noel durante as festas de fim de ano."
+ },
+ "Festive2021_Snowman": {
+  "n": "Arquiteto",
+  "d": "Construa um bonecão de neve durante as festas de fim de ano."
+ },
+ "Festive2021_Cook": {
+  "n": "Confeiteiro",
+  "d": "Experimente a receita festiva do Sous-Chef Roman durante as festas de fim de ano."
+ },
+ "Festive2021_Power": {
+  "n": "Uma Estrela no Céu",
+  "d": "Ligue as luzes de Seattle durante as festas de fim de ano."
+ },
+ "Cali2_Visited": {
+  "n": "Bem-vindo à Califórnia",
+  "d": "Chegue à Califórnia. (...2?)"
+ },
+ "Cali2_ZoneTrekker": {
+  "n": "Explorador de Zonas",
+  "d": "Complete a missão \"Explorador de Zonas\" visitando todas as zonas mortas de California 2."
+ },
+ "Cali2_DiplomaticImmunity": {
+  "n": "Imunidade Diplomática",
+  "d": "Resolva uma situação tensa em California 2."
+ },
+ "Cali2_EmployeeOfTheCentury": {
+  "n": "Funcionário do Século",
+  "d": "Complete a linha de missões do Phoneman em California 2."
+ },
+ "Cali2_HeartOfGold": {
+  "n": "Coração de Ouro",
+  "d": "Complete a linha de missões dos Gnomos em California 2."
+ },
+ "Cali2_AnOldWound": {
+  "n": "Uma Ferida Antiga",
+  "d": "Destrua o Coração no Metrô de SF em California 2."
+ },
+ "Cali2_VoidCave": {
+  "n": "O Vazio Olha de Volta",
+  "d": "Pule no buraco da Caverna do Vazio em California 2."
+ },
+ "LS_Visited": {
+  "n": "Bem-vindo a Limestone",
+  "d": "Chegue a Limestone."
+ },
+ "LS_Covert": {
+  "n": "Discreto",
+  "d": "Fabrique qualquer variante de arma com silenciador em Limestone."
+ },
+ "LS_Dare": {
+  "n": "Desafio",
+  "d": "Coma uma minhoca em Limestone."
+ },
+ "LS_Concrete": {
+  "n": "Isso É Concreto",
+  "d": "Consiga concreto em Limestone."
+ },
+ "LS_Widowmaker": {
+  "n": "Artilharia Pesada",
+  "d": "Fabrique uma Widowmaker em Limestone."
+ },
+ "Rio_Bookworm": {
+  "n": "Rato de Biblioteca",
+  "d": "Fabrique sua primeira Enciclopédia no Rio."
+ },
+ "Rio_BrokenChains": {
+  "n": "Correntes Quebradas",
+  "d": "Derrote o chefe Horder no Rio."
+ },
+ "Rio_ChaosTheorem": {
+  "n": "Teorema do Caos",
+  "d": "Liberte o Caos no Rio."
+ },
+ "Rio_PermanentTourist": {
+  "n": "Turista Permanente",
+  "d": "Torne-se membro da Zona Segura de Brocoió no Rio."
+ },
+ "Rio_SproutUp": {
+  "n": "Brotou!",
+  "d": "Encontre os 12 brotos escondidos no Rio."
+ },
+ "RioRemastered_Visited": {
+  "n": "Bem-vindo ao Rio",
+  "d": "Chegue ao Rio de Janeiro, Brasil."
+ },
+ "PBS_Visited": {
+  "n": "Bem-vindo a Escalation",
+  "d": "Chegue a Escalation."
+ },
+ "PBS_BombsAway": {
+  "n": "Lá Vão as Bombas",
+  "d": "Peça um ataque aéreo com um LTLM em Escalation."
+ },
+ "PBS_ForcefulAcquisition": {
+  "n": "Aquisição à Força",
+  "d": "Derrube um airdrop com um míssil em Escalation."
+ },
+ "PBS_DeadSilent": {
+  "n": "Silêncio Mortal",
+  "d": "Fabrique todas as armas com silenciador em Escalation."
+ },
+ "PBS_PoorInvestment": {
+  "n": "Mau Investimento",
+  "d": "Invista dinheiro demais no Gurt em Escalation."
+ },
+ "Buak_Visited": {
+  "n": "Bem-vindo a Buak",
+  "d": "Chegue a Buak."
+ },
+ "Buak_ADayInTheSun": {
+  "n": "Um Dia de Sol",
+  "d": "Encontre alguém se divertindo em Buak."
+ },
+ "Buak_Memory": {
+  "n": "Falsas Promessas",
+  "d": "Descubra o passado em Buak."
+ },
+ "Buak_TacoWaffle": {
+  "n": "Você Gosta de Waffles?",
+  "d": "Faça experimentos com waffles em Buak."
+ },
+ "Buak_Anomaly": {
+  "n": "Anomalia-7",
+  "d": "???"
+ },
+ "Arid_Visited": {
+  "n": "Bem-vindo a Arid",
+  "d": "Chegue a Arid."
+ },
+ "Arid_Finale": {
+  "n": "Final de Arid",
+  "d": "Termine todas as missões principais em Arid."
+ },
+ "Arid_RPG": {
+  "n": "Tudo Pronto",
+  "d": "Monte um lança-foguetes."
+ },
+ "Kuwait_Visited": {
+  "n": "Bem-vindo ao Kuwait",
+  "d": "Chegue ao Kuwait."
+ },
+ "Kuwait_Squeek": {
+  "n": "Squeek",
+  "d": "Pesque um inimigo formidável no Kuwait."
+ },
+ "Kuwait_FelineFriends": {
+  "n": "Amigos Felinos",
+  "d": "Alimente os gatos do Kuwait com peixe."
+ },
+ "Kuwait_DinosaurJuice": {
+  "n": "Suco de Dinossauro",
+  "d": "Talvez não seja a melhor bebida do Kuwait."
+ },
+ "Kuwait_HomeDecor": {
+  "n": "Decoração",
+  "d": "Fabrique uma decoração fofa no Kuwait."
+ },
+ "Kuwait_AlwaysWatching": {
+  "n": "Sempre Vigiando",
+  "d": "EYE; Sea; You."
+ },
+ "Kuwait_FamiliarFaces": {
+  "n": "Rostos Conhecidos",
+  "d": "Contate a Coalizão no Kuwait... Eye; SEA; You."
+ },
+ "Kuwait_EscapingOutlands": {
+  "n": "Fugindo das Terras Distantes",
+  "d": "Experimente uma ótima assistência médica. Eye; Sea; YOU."
+ },
+ "Kuwait_DunemansPromise": {
+  "n": "A Promessa de um Homem das Dunas",
+  "d": "Gaste demais numa arma nova e brilhante."
+ },
+ "Hawaii": {
+  "n": "Bem-vindo ao Havaí",
+  "d": "Chegue ao Havaí."
+ },
+ "Boss_Magma": {
+  "n": "Extinto",
+  "d": "Mate um zumbi de magma."
+ },
+ "Ireland_Visited": {
+  "n": "Bem-vindo à Irlanda",
+  "d": "Chegue à Irlanda."
+ },
+ "Elver_FinalBoss": {
+  "n": "Benson Honorário",
+  "d": "???"
+ },
+ "Elver_Visited": {
+  "n": "Bem-vindo a Elver",
+  "d": "Chegue a Elver."
+ },
+ "Frost_Visited": {
+  "n": "Bem-vindo a A6 Polaris",
+  "d": "Chegue a A6 Polaris."
+ },
+ "Frost_Expedition": {
+  "n": "Completista de Expedição",
+  "d": "???"
+ }
+}

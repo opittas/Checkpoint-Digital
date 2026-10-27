@@ -1,0 +1,15 @@
+{
+  "resumo": "Aventura narrativa em 3 capítulos com escolhas.",
+  "roadmap": [
+    {
+      "titulo": "1. Capítulos",
+      "texto": "Termine os 3 capítulos."
+    },
+    {
+      "titulo": "2. Escolhas",
+      "texto": "Algumas conquistas dependem de escolhas: use a seleção de capítulos."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

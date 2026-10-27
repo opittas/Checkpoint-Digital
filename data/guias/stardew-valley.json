@@ -1,0 +1,23 @@
+{
+  "resumo": "Fazenda com lista longa: dinheiro, amizades, coleções, minas e o Centro Comunitário.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeiro ano",
+      "texto": "Plante, melhore ferramentas e comece o Centro Comunitário."
+    },
+    {
+      "titulo": "2. Amizades",
+      "texto": "Dê presentes de que cada pessoa gosta; case com alguém."
+    },
+    {
+      "titulo": "3. Coleções",
+      "texto": "Doe ao museu, pesque todos os peixes e cozinhe/fabrique tudo."
+    },
+    {
+      "titulo": "4. Fim de jogo",
+      "texto": "Ilha Gengibre, Caverna da Caveira e o dinheiro total."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

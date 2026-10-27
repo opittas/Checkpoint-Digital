@@ -1,0 +1,19 @@
+{
+  "resumo": "RPG de ação. Conquistas de história, chefes e fim de jogo.",
+  "roadmap": [
+    {
+      "titulo": "1. Campanha",
+      "texto": "Termine os 10 atos."
+    },
+    {
+      "titulo": "2. Mapas",
+      "texto": "Jogue os mapas do Atlas e enfrente os chefes."
+    },
+    {
+      "titulo": "3. Extras",
+      "texto": "Pegue todos os pontos de teleporte com um personagem."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

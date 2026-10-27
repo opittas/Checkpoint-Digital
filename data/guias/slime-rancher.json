@@ -1,0 +1,23 @@
+{
+  "resumo": "Rancho de slimes muito tranquilo. Quase tudo sai jogando; algumas pedem situações específicas.",
+  "roadmap": [
+    {
+      "titulo": "1. Rancho",
+      "texto": "Expanda o rancho, faça currais, hortas e galinheiros e venda plorts."
+    },
+    {
+      "titulo": "2. Exploração",
+      "texto": "Descubra todas as áreas e ajude a restaurar o Deserto de Vidro."
+    },
+    {
+      "titulo": "3. Desafios",
+      "texto": "Fique acordado 24h, sobreviva a uma aura radioativa e segure um tarr por 15 s."
+    },
+    {
+      "titulo": "4. Modo Rush",
+      "texto": "Jogue o Modo Rush para as três conquistas de dinheiro."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

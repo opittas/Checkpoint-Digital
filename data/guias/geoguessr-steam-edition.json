@@ -1,0 +1,19 @@
+{
+  "resumo": "Adivinhe o lugar do mundo. Conquistas de duelos e sequências diárias.",
+  "roadmap": [
+    {
+      "titulo": "1. Duelos",
+      "texto": "Vença duelos ranqueados nos modos normal, em movimento, parado e NMPZ."
+    },
+    {
+      "titulo": "2. Precisão",
+      "texto": "Palpites perfeitos."
+    },
+    {
+      "titulo": "3. Sequência",
+      "texto": "Jogue todo dia; a de 1000 dias é a mais longa."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

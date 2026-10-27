@@ -1,0 +1,23 @@
+{
+  "resumo": "Sobrevivência roguelike. Zerar em várias dificuldades e sem dano.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeiro zero",
+      "texto": "Junte recursos, prepare equipamento e derrote os chefes até sair de Muck."
+    },
+    {
+      "titulo": "2. Dificuldades",
+      "texto": "Termine no Gamer e em menos de 10 dias."
+    },
+    {
+      "titulo": "3. Sem dano",
+      "texto": "As versões sem dano com 1, 2, 4 e 8 jogadores são as mais difíceis."
+    },
+    {
+      "titulo": "4. Muck",
+      "texto": "Termine só com uma pedra, sem dano e sem power-ups."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

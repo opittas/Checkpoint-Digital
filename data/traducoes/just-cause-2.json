@@ -1,0 +1,202 @@
+{
+ "Achievement1": {
+  "n": "Bem-vindo a Panau",
+  "d": "Complete a missão 1 da história."
+ },
+ "Achievement2": {
+  "n": "Golpe no Cassino",
+  "d": "Complete a missão 2 da história."
+ },
+ "Achievement3": {
+  "n": "O Tigre Branco",
+  "d": "Complete a missão 3 da história."
+ },
+ "Achievement4": {
+  "n": "Resgate na Montanha",
+  "d": "Complete a missão 4 da história."
+ },
+ "Achievement5": {
+  "n": "Três Reis",
+  "d": "Complete a missão 5 da história."
+ },
+ "Achievement6": {
+  "n": "Na Toca",
+  "d": "Complete a missão 6 da história."
+ },
+ "Achievement7": {
+  "n": "Uma Causa Justa",
+  "d": "Complete a missão 7 da história."
+ },
+ "Achievement8": {
+  "n": "Agente de Elite",
+  "d": "Bônus por terminar o jogo na dificuldade normal."
+ },
+ "Achievement9": {
+  "n": "Agente Heroico",
+  "d": "Bônus por terminar o jogo no difícil. Também dá o bônus do normal."
+ },
+ "Achievement10": {
+  "n": "Agente Lendário",
+  "d": "Bônus por terminar o jogo no extremo. Também dá os bônus do difícil e do normal."
+ },
+ "Achievement11": {
+  "n": "Ganhando Terreno",
+  "d": "Tome 3 fortalezas."
+ },
+ "Achievement12": {
+  "n": "Conquistador de Panau",
+  "d": "Tome 9 fortalezas."
+ },
+ "Achievement13": {
+  "n": "Aliado de Confiança",
+  "d": "Complete 49 missões de facção."
+ },
+ "Achievement14": {
+  "n": "Primeiro Gosto do Caos",
+  "d": "Cause caos pela primeira vez."
+ },
+ "Achievement15": {
+  "n": "Sabotador",
+  "d": "Faça 100 sabotagens."
+ },
+ "Achievement16": {
+  "n": "Destruidor",
+  "d": "Faça 1000 sabotagens."
+ },
+ "Achievement17": {
+  "n": "Assassino Profissional",
+  "d": "Assassine 25 coronéis."
+ },
+ "Achievement18": {
+  "n": "À Altura do Desafio 1",
+  "d": "Complete 10 desafios."
+ },
+ "Achievement19": {
+  "n": "À Altura do Desafio 2",
+  "d": "Complete 50 desafios."
+ },
+ "Achievement20": {
+  "n": "Nenhuma Pedra no Lugar",
+  "d": "Colete 1000 itens de recurso."
+ },
+ "Achievement21": {
+  "n": "Achado Não É Roubado",
+  "d": "Colete 100 itens de recurso."
+ },
+ "Achievement22": {
+  "n": "Benfeitor das Facções",
+  "d": "Colete 150 itens de facção."
+ },
+ "Achievement23": {
+  "n": "Viajante do Mundo",
+  "d": "Descubra 100 locais."
+ },
+ "Achievement24": {
+  "n": "Explorador Livre 1",
+  "d": "Chegue a 100% em 15 locais."
+ },
+ "Achievement25": {
+  "n": "Explorador Livre 2",
+  "d": "Chegue a 100% em 100 locais."
+ },
+ "Achievement26": {
+  "n": "Contagem de Corpos",
+  "d": "Mate 750 inimigos."
+ },
+ "Achievement27": {
+  "n": "Desarmado e Perigoso",
+  "d": "Mate 50 inimigos com ataques corpo a corpo."
+ },
+ "Achievement28": {
+  "n": "A Gravidade Não Perdoa!",
+  "d": "Mate 30 inimigos derrubando-os com o gancho para morrerem na queda."
+ },
+ "Achievement29": {
+  "n": "Me Siga!",
+  "d": "Mate 5 inimigos arrastando-os atrás de um veículo com o gancho."
+ },
+ "Achievement30": {
+  "n": "Pendure Eles!",
+  "d": "Mate 30 inimigos enquanto estão pendurados no ar pelo gancho."
+ },
+ "Achievement31": {
+  "n": "Bola de Demolição",
+  "d": "Mate 5 inimigos batendo neles com um objeto preso ao seu veículo pelo gancho."
+ },
+ "Achievement32": {
+  "n": "Festa da Piñata",
+  "d": "Mate 5 inimigos com corpo a corpo enquanto estão pendurados pelo gancho."
+ },
+ "Achievement33": {
+  "n": "Malabarista",
+  "d": "Mate 30 inimigos enquanto caem pelo ar."
+ },
+ "Achievement34": {
+  "n": "Fúria no Trânsito",
+  "d": "Mate 30 inimigos atropelando-os com veículos."
+ },
+ "Achievement35": {
+  "n": "Atirador",
+  "d": "Mate 50 inimigos com tiros na cabeça."
+ },
+ "Achievement36": {
+  "n": "Frenesi Assassino",
+  "d": "Mate 20 inimigos em 60 segundos."
+ },
+ "Achievement37": {
+  "n": "Guerreiro Invencível",
+  "d": "Mate 50 inimigos seguidos com armas do inventário sem perder vida."
+ },
+ "Achievement38": {
+  "n": "Frenesi de Destruição",
+  "d": "Destrua 30 objetos em 60 segundos."
+ },
+ "Achievement39": {
+  "n": "Piloto de Testes",
+  "d": "Dirija 30 veículos diferentes."
+ },
+ "Achievement40": {
+  "n": "Tudo Pelo Menos Uma Vez",
+  "d": "Dirija todos os 104 veículos."
+ },
+ "Achievement41": {
+  "n": "Viagem de Carro",
+  "d": "Percorra 75 km em veículos terrestres."
+ },
+ "Achievement42": {
+  "n": "Saia do Veículo, Por Favor",
+  "d": "Roube 50 veículos inimigos."
+ },
+ "Achievement43": {
+  "n": "Dublê",
+  "d": "Faça 100 pontos de dublê."
+ },
+ "Achievement44": {
+  "n": "Na Metade",
+  "d": "Chegue a 50% de conclusão no modo normal ou mercenário."
+ },
+ "Achievement45": {
+  "n": "Escalada de Paraquedas",
+  "d": "Abra o paraquedas e pouse a pé 300 metros acima da altura de partida."
+ },
+ "Achievement46": {
+  "n": "Eu Acredito que Posso Voar",
+  "d": "Faça um salto BASE de 1000 metros."
+ },
+ "Achievement47": {
+  "n": "Limbo das Pontes",
+  "d": "Passe de avião por baixo de 30 pontes diferentes de Panau."
+ },
+ "Achievement48": {
+  "n": "Voo Rasante",
+  "d": "Voe de avião perto do chão por 30 segundos."
+ },
+ "Achievement49": {
+  "n": "Perfeccionista",
+  "d": "Chegue a 75% de conclusão no modo normal ou mercenário."
+ },
+ "Achievement50": {
+  "n": "Topo do Mundo",
+  "d": "Fique a pé no ponto mais alto de Panau."
+ }
+}

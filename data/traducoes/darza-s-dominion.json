@@ -1,0 +1,70 @@
+{
+ "Baby_Steps": {
+  "n": "Primeiros Passos",
+  "d": "Complete a masmorra Matagal Florido"
+ },
+ "Natural_Selection": {
+  "n": "Seleção Natural",
+  "d": "Morra pela primeira vez"
+ },
+ "Ooh_Sparkly!": {
+  "n": "Que Brilho!",
+  "d": "Consuma qualquer Gema de Atributo"
+ },
+ "Healing_Hand": {
+  "n": "Mão que Cura",
+  "d": "Cure você ou outros com a habilidade Pilão do Boticário"
+ },
+ "Event_Ageous": {
+  "n": "Aproveitando o Evento",
+  "d": "Mate ou ajude a matar o Aspecto do Vazio"
+ },
+ "Welcome_Back": {
+  "n": "Bem-vindo de Volta",
+  "d": "Jogue Darza's Dominion em 4 dias diferentes"
+ },
+ "Dirty_Hands": {
+  "n": "Mãos Sujas",
+  "d": "Dê o golpe final em 1500 inimigos"
+ },
+ "Maxing_Out": {
+  "n": "No Máximo",
+  "d": "Consuma gemas de um atributo até chegar ao máximo."
+ },
+ "Life_Steal": {
+  "n": "Roubo de Vida",
+  "d": "Colete 200 essências."
+ },
+ "Crab_Crusher": {
+  "n": "Esmagador de Caranguejos",
+  "d": "Esmague caranguejos da Praia Oeste"
+ },
+ "Nomad": {
+  "n": "Nômade",
+  "d": "Descubra áreas do mapa"
+ },
+ "Dungeon_Completion": {
+  "n": "Masmorras Completas",
+  "d": "Complete 1000 masmorras no total."
+ },
+ "Conquer_The_Void": {
+  "n": "Conquiste o Vazio",
+  "d": "Mate ou ajude a matar Darza no Vazio"
+ },
+ "Glory_Hoarder": {
+  "n": "Acumulador de Glória",
+  "d": "Acumule prata na conta"
+ },
+ "Anomaly": {
+  "n": "Anomalia",
+  "d": "Chegue a 10.000 de glória num personagem vivo"
+ },
+ "Ruby_Red": {
+  "n": "Vermelho Rubi",
+  "d": "Complete qualquer Conquista Rubi"
+ },
+ "Prestige": {
+  "n": "Prestígio",
+  "d": "Complete todas as Conquistas Rubi de uma temporada"
+ }
+}

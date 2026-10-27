@@ -1,0 +1,19 @@
+{
+  "resumo": "Luta 3D. Conquistas de modos, tutorial, desafios de combo e online.",
+  "roadmap": [
+    {
+      "titulo": "1. Modos",
+      "texto": "Arcade, Contra o Tempo e Sobrevivência (solo e dupla)."
+    },
+    {
+      "titulo": "2. Treino",
+      "texto": "Tutorial, Treino de Comandos e Desafio de Combos."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Lutas online e ranqueadas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

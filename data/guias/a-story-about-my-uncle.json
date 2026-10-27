@@ -1,0 +1,23 @@
+{
+  "resumo": "Plataforma em primeira pessoa com gancho. Depois da história, vêm desafios de gancho, corridas perfeitas e colecionáveis.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine a aventura pegando os 25 colecionáveis e interagindo com objetos opcionais."
+    },
+    {
+      "titulo": "2. Desafios de gancho",
+      "texto": "Refaça cada capítulo usando menos ganchos que o limite."
+    },
+    {
+      "titulo": "3. Sem falhar",
+      "texto": "Faça cada capítulo sem cair; treine os trechos difíceis."
+    },
+    {
+      "titulo": "4. Contra o Tempo",
+      "texto": "Ganhe ouro em todas as fases de tempo."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

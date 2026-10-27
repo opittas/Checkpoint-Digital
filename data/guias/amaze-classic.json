@@ -1,0 +1,15 @@
+{
+  "resumo": "Puzzle simples com 200 conquistas: cada fase, letra e símbolo vale uma.",
+  "roadmap": [
+    {
+      "titulo": "1. Fases",
+      "texto": "Complete as 100 fases em ordem."
+    },
+    {
+      "titulo": "2. Letras e símbolos",
+      "texto": "As letras e símbolos saem completando os pacotes de fases."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

@@ -1,0 +1,15 @@
+{
+  "resumo": "Hero shooter. Cada herói tem conquistas de feitos específicos.",
+  "roadmap": [
+    {
+      "titulo": "1. Heróis",
+      "texto": "Jogue com cada herói e faça seus desafios."
+    },
+    {
+      "titulo": "2. Modos",
+      "texto": "Partidas rápidas, competitivas e eventos."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

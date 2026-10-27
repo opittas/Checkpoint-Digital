@@ -1,0 +1,82 @@
+{
+ "Customize": {
+  "n": "Tá Bonito!",
+  "d": "Personalize seu personagem"
+ },
+ "Dismember": {
+  "n": "Explosivo",
+  "d": "Arranque uma parte do corpo de outro jogador"
+ },
+ "Kill": {
+  "n": "Primeiro Sangue",
+  "d": "Elimine outro jogador"
+ },
+ "Tutorial": {
+  "n": "Pronto para a Luta",
+  "d": "Jogue o tutorial"
+ },
+ "Workshop": {
+  "n": "Explorador",
+  "d": "Baixe um mod da Oficina"
+ },
+ "Cosmetic": {
+  "n": "Na Moda",
+  "d": "Compre um item cosmético"
+ },
+ "White": {
+  "n": "Artista Marcial",
+  "d": "Chegue à faixa branca"
+ },
+ "Win": {
+  "n": "É Assim que Se Faz",
+  "d": "Vença uma partida"
+ },
+ "Psycho": {
+  "n": "Psicopata",
+  "d": "Faça 5000 pontos numa partida"
+ },
+ "20Kills": {
+  "n": "Matador de Aluguel",
+  "d": "Faça 20 nocautes no total"
+ },
+ "Destruction": {
+  "n": "Máquina de Destruição",
+  "d": "Cause 5000 de dano no total"
+ },
+ "Money": {
+  "n": "Salário",
+  "d": "Ganhe $5000 no total"
+ },
+ "Block": {
+  "n": "Bons Reflexos",
+  "d": "Faça um bloqueio perfeito"
+ },
+ "Replay": {
+  "n": "Luz, Câmera, Ação!",
+  "d": "Assista a um replay"
+ },
+ "AirStrike": {
+  "n": "Ataque Aéreo",
+  "d": "Acerte um jogador enquanto está no ar"
+ },
+ "Stomp": {
+  "n": "Sem Piedade",
+  "d": "Acerte um jogador caído no chão"
+ },
+ "ExtraTime": {
+  "n": "Ainda Não Acabou",
+  "d": "Estenda o tempo"
+ },
+ "NoDismember": {
+  "n": "Aleatório Demais",
+  "d": "Desative o desmembramento"
+ },
+ "Decap": {
+  "n": "Guilhotina",
+  "d": "Decapite outro jogador"
+ },
+ "Flying": {
+  "n": "É um Pássaro? Um Avião?",
+  "d": "Fique 2 segundos no ar"
+ }
+}

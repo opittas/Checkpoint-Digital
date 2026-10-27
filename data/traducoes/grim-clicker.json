@@ -1,0 +1,226 @@
+{
+ "NEW_ACHIEVEMENT_1_0": {
+  "n": "Alma Jovem",
+  "d": "Faça 1 ritual"
+ },
+ "NEW_ACHIEVEMENT_1_1": {
+  "n": "Mestre dos Rituais",
+  "d": "Faça 10 rituais"
+ },
+ "NEW_ACHIEVEMENT_1_2": {
+  "n": "Praticante das Artes Sombrias",
+  "d": "Faça 20 rituais"
+ },
+ "NEW_ACHIEVEMENT_1_3": {
+  "n": "Igreja do Inferno",
+  "d": "Faça 50 rituais"
+ },
+ "NEW_ACHIEVEMENT_1_4": {
+  "n": "Preparação do Ritual",
+  "d": "Colete 50 velas"
+ },
+ "NEW_ACHIEVEMENT_1_5": {
+  "n": "Gosto pelo Fogo",
+  "d": "Colete 100 velas"
+ },
+ "NEW_ACHIEVEMENT_1_6": {
+  "n": "Mais Velas!",
+  "d": "Colete 250 velas"
+ },
+ "NEW_ACHIEVEMENT_1_7": {
+  "n": "Um Monte de Velas!",
+  "d": "Colete 500 velas"
+ },
+ "NEW_ACHIEVEMENT_1_8": {
+  "n": "Baú Rico!",
+  "d": "Abra 1 baú"
+ },
+ "NEW_ACHIEVEMENT_1_9": {
+  "n": "Baú Sombrio!",
+  "d": "Abra 10 baús"
+ },
+ "NEW_ACHIEVEMENT_1_10": {
+  "n": "Baú Celestial!",
+  "d": "Abra 20 baús"
+ },
+ "NEW_ACHIEVEMENT_1_11": {
+  "n": "Baú do Chefe!",
+  "d": "Abra 3 baús de chefe"
+ },
+ "NEW_ACHIEVEMENT_1_12": {
+  "n": "Baú Vivo!",
+  "d": "Abra 30 baús"
+ },
+ "NEW_ACHIEVEMENT_1_13": {
+  "n": "Baú de Fragmento!",
+  "d": "Abra o baú de fragmento"
+ },
+ "NEW_ACHIEVEMENT_1_14": {
+  "n": "Ferreiro",
+  "d": "Melhore qualquer arma"
+ },
+ "NEW_ACHIEVEMENT_1_15": {
+  "n": "Joalheiro",
+  "d": "Melhore qualquer item"
+ },
+ "NEW_ACHIEVEMENT_1_16": {
+  "n": "Construtor",
+  "d": "Desmonte qualquer item"
+ },
+ "NEW_ACHIEVEMENT_1_17": {
+  "n": "Primeira Barreira",
+  "d": "Remova uma tranca"
+ },
+ "NEW_ACHIEVEMENT_1_18": {
+  "n": "Mãos Livres",
+  "d": "Remova três trancas"
+ },
+ "NEW_ACHIEVEMENT_1_19": {
+  "n": "Mestre da Forja",
+  "d": "Melhore uma arma para qualidade 5"
+ },
+ "NEW_ACHIEVEMENT_1_20": {
+  "n": "Mãos de Ouro",
+  "d": "Melhore uma arma para qualidade 10"
+ },
+ "NEW_ACHIEVEMENT_1_21": {
+  "n": "Demiurgo Ferreiro",
+  "d": "Melhore uma arma para qualidade 15"
+ },
+ "NEW_ACHIEVEMENT_1_22": {
+  "n": "Civilização",
+  "d": "Encontre pessoas no fragmento"
+ },
+ "NEW_ACHIEVEMENT_1_23": {
+  "n": "Caçador de Cabeças",
+  "d": "Complete 10 missões"
+ },
+ "NEW_ACHIEVEMENT_1_24": {
+  "n": "Viajante",
+  "d": "Complete 50 missões"
+ },
+ "NEW_ACHIEVEMENT_1_25": {
+  "n": "Descobridor",
+  "d": "Complete 100 missões"
+ },
+ "NEW_ACHIEVEMENT_1_26": {
+  "n": "Autodesenvolvimento",
+  "d": "Chegue ao nível 5"
+ },
+ "NEW_ACHIEVEMENT_1_27": {
+  "n": "Treino Avançado",
+  "d": "Chegue ao nível 10"
+ },
+ "NEW_ACHIEVEMENT_1_28": {
+  "n": "Ensino Superior",
+  "d": "Chegue ao nível 20"
+ },
+ "NEW_ACHIEVEMENT_1_29": {
+  "n": "Robusto",
+  "d": "Tenha 5 de força"
+ },
+ "NEW_ACHIEVEMENT_1_30": {
+  "n": "Homem Forte",
+  "d": "Tenha 10 de força"
+ },
+ "NEW_ACHIEVEMENT_1_31": {
+  "n": "Músculos de Aço",
+  "d": "Tenha 15 de força"
+ },
+ "NEW_ACHIEVEMENT_1_32": {
+  "n": "Demônio",
+  "d": "Tenha 20 de força"
+ },
+ "NEW_ACHIEVEMENT_1_33": {
+  "n": "Ágil",
+  "d": "Tenha 5 de destreza"
+ },
+ "NEW_ACHIEVEMENT_1_34": {
+  "n": "Trapaceiro",
+  "d": "Tenha 10 de destreza"
+ },
+ "NEW_ACHIEVEMENT_1_35": {
+  "n": "Acrobata",
+  "d": "Tenha 15 de destreza"
+ },
+ "NEW_ACHIEVEMENT_1_36": {
+  "n": "Serpente",
+  "d": "Tenha 20 de destreza"
+ },
+ "NEW_ACHIEVEMENT_1_37": {
+  "n": "Aprendiz",
+  "d": "Tenha 5 de sabedoria"
+ },
+ "NEW_ACHIEVEMENT_1_38": {
+  "n": "Acólito",
+  "d": "Tenha 10 de sabedoria"
+ },
+ "NEW_ACHIEVEMENT_1_39": {
+  "n": "Sábio",
+  "d": "Tenha 15 de sabedoria"
+ },
+ "NEW_ACHIEVEMENT_1_40": {
+  "n": "Prodígio",
+  "d": "Tenha 20 de sabedoria"
+ },
+ "NEW_ACHIEVEMENT_1_41": {
+  "n": "Matador",
+  "d": "Mate 5 chefes"
+ },
+ "NEW_ACHIEVEMENT_1_42": {
+  "n": "Combatente",
+  "d": "Mate 10 chefes"
+ },
+ "NEW_ACHIEVEMENT_1_43": {
+  "n": "Morte",
+  "d": "Mate 20 chefes"
+ },
+ "NEW_ACHIEVEMENT_1_44": {
+  "n": "Mundos Paralelos",
+  "d": "Chegue à Zona 5"
+ },
+ "NEW_ACHIEVEMENT_1_45": {
+  "n": "Teleportador",
+  "d": "Chegue à Zona 10"
+ },
+ "NEW_ACHIEVEMENT_1_46": {
+  "n": "Salto Quântico",
+  "d": "Chegue à Zona 50"
+ },
+ "NEW_ACHIEVEMENT_1_47": {
+  "n": "Quem É o Campeão?",
+  "d": "Mate 1 campeão"
+ },
+ "NEW_ACHIEVEMENT_1_48": {
+  "n": "Gladiador",
+  "d": "Mate 25 campeões"
+ },
+ "NEW_ACHIEVEMENT_1_49": {
+  "n": "Chama Primordial",
+  "d": "Mate 500 campeões"
+ },
+ "NEW_ACHIEVEMENT_1_50": {
+  "n": "Vaga-lume É Seu Parça!",
+  "d": "Mate 20 vaga-lumes"
+ },
+ "NEW_ACHIEVEMENT_1_51": {
+  "n": "Ataque de Vaga-lumes",
+  "d": "Mate 1000 vaga-lumes"
+ },
+ "NEW_ACHIEVEMENT_1_52": {
+  "n": "Exército de Vaga-lumes",
+  "d": "Mate 10000 vaga-lumes"
+ },
+ "NEW_ACHIEVEMENT_1_53": {
+  "n": "Clicador",
+  "d": "Clique 500 vezes"
+ },
+ "NEW_ACHIEVEMENT_1_54": {
+  "n": "Concentrado",
+  "d": "Clique 5000 vezes"
+ },
+ "NEW_ACHIEVEMENT_1_55": {
+  "n": "Tudo Sob Controle",
+  "d": "Clique 50000 vezes"
+ }
+}

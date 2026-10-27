@@ -1,0 +1,23 @@
+{
+  "resumo": "Quatro campanhas e muitos modos. Lista longa com coleção de emblemas e dificuldade máxima.",
+  "roadmap": [
+    {
+      "titulo": "1. Campanhas",
+      "texto": "Termine as campanhas de Leon, Chris, Jake e Ada."
+    },
+    {
+      "titulo": "2. Emblemas",
+      "texto": "Atire em todos os emblemas escondidos."
+    },
+    {
+      "titulo": "3. Dificuldade",
+      "texto": "No Profissional para as conquistas de dificuldade."
+    },
+    {
+      "titulo": "4. Modos",
+      "texto": "Mercenários e Agent Hunt têm conquistas próprias."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

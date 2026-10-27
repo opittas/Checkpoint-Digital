@@ -1,0 +1,23 @@
+{
+  "resumo": "Ação aérea em ALfheim. História, missões paralelas e grind de habilidades.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine todos os capítulos."
+    },
+    {
+      "titulo": "2. Histórias paralelas",
+      "texto": "Faça as histórias de Asuna, Leafa, Silica, Lisbeth e Sinon."
+    },
+    {
+      "titulo": "3. Missões",
+      "texto": "Complete 100 missões secundárias e 100 Extras/Multijogador."
+    },
+    {
+      "titulo": "4. Grind",
+      "texto": "Habilidades no nível 500, Excalibur e 1 milhão de Yuld."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

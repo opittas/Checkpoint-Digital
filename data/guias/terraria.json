@@ -1,0 +1,23 @@
+{
+  "resumo": "Aventura sandbox. Derrote todos os chefes, junte coleções e faça desafios.",
+  "roadmap": [
+    {
+      "titulo": "1. Pré-Hardmode",
+      "texto": "Construa casas, derrote Olho de Cthulhu, Devorador/Cérebro, Abelha Rainha, Esqueletron e Parede de Carne."
+    },
+    {
+      "titulo": "2. Hardmode",
+      "texto": "Mecânicos, Plantera, Golem, Duque Peixe-Dragão, Cultista e Senhor da Lua."
+    },
+    {
+      "titulo": "3. Eventos",
+      "texto": "Luas de abóbora e gélida, invasões e eclipses."
+    },
+    {
+      "titulo": "4. Coleção",
+      "texto": "Pescador (200 missões), Zênite, Celular, bestiário e as sementes especiais."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

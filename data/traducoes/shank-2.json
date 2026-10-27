@@ -1,0 +1,82 @@
+{
+ "ultimatesurvivalist": {
+  "n": "Sobrevivente Supremo",
+  "d": "Vença todas as ondas de qualquer mapa do modo Sobrevivência"
+ },
+ "storyends": {
+  "n": "Fim da História",
+  "d": "Complete a campanha no Normal"
+ },
+ "tooeasy": {
+  "n": "Fácil Demais",
+  "d": "Complete a campanha no Difícil"
+ },
+ "gonnaleaveamark": {
+  "n": "Isso Vai Deixar Marca",
+  "d": "Faça 100 mortes com contra-ataque de facão"
+ },
+ "pistolheimlich": {
+  "n": "Heimlich de Pistola",
+  "d": "Faça 60 mortes com contra-ataque de pistola"
+ },
+ "triggerhappy": {
+  "n": "Dedo Nervoso",
+  "d": "Mate 30 com armadilhas de fogo numa partida de Sobrevivência"
+ },
+ "comboking": {
+  "n": "Rei do Combo",
+  "d": "Faça 10 combos de 20 golpes ou mais"
+ },
+ "zombiekiller": {
+  "n": "Matador de Zumbis",
+  "d": "Chegue à onda de zumbis em cada mapa de Sobrevivência"
+ },
+ "gimmickfree": {
+  "n": "Sem Truques",
+  "d": "Mate um chefe de Sobrevivência sem armadilhas nem granadas"
+ },
+ "surfsup": {
+  "n": "Hora do Surfe",
+  "d": "Passe 15 ondas sem nenhum jogador morrer no modo Sobrevivência"
+ },
+ "nobargains": {
+  "n": "Sem Pechinchas",
+  "d": "Não compre nada por 10 ondas seguidas na Sobrevivência"
+ },
+ "upclose": {
+  "n": "Cara a Cara",
+  "d": "Vença uma fase da campanha sem ataques à distância"
+ },
+ "kitchensink": {
+  "n": "E a Pia da Cozinha",
+  "d": "Ache a pia da cozinha e mate alguém com ela"
+ },
+ "shopaholic": {
+  "n": "Compulsivo por Compras",
+  "d": "Compre tudo no modo Sobrevivência"
+ },
+ "ditchdigger": {
+  "n": "Coveiro",
+  "d": "Mate 100 inimigos com a pá"
+ },
+ "batterup": {
+  "n": "Rebatedor!",
+  "d": "Faça 150 mortes com o taco de beisebol"
+ },
+ "firstdozen": {
+  "n": "A Primeira Dúzia",
+  "d": "Mate 12 inimigos"
+ },
+ "freedomfighter": {
+  "n": "Guerrilheiro da Liberdade",
+  "d": "Resgate 50 civis da milícia"
+ },
+ "notsofast": {
+  "n": "Não Tão Rápido...",
+  "d": "Faça 30 contra-ataques numa partida de Sobrevivência"
+ },
+ "shanksmash": {
+  "n": "Shank, ESMAGA!",
+  "d": "Mate 50 inimigos esmagando-os com objetos pesados"
+ }
+}

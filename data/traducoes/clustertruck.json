@@ -1,0 +1,78 @@
+{
+ "COMPLETED_DESERT": {
+  "n": "O Grosseiro",
+  "d": "Vença o mundo do deserto"
+ },
+ "TENTHOUSAND_POINTS": {
+  "n": "Podre de Rico",
+  "d": "Faça 10 000 pontos numa fase!"
+ },
+ "COMPLETED_GAME": {
+  "n": "Acabou",
+  "d": "Termine o jogo!"
+ },
+ "BEAT_GHOST": {
+  "n": "Caça-Fantasmas",
+  "d": "Vença um fantasma!"
+ },
+ "ALL_ABILITIES": {
+  "n": "Carregado",
+  "d": "Desbloqueie todas as habilidades!"
+ },
+ "ACE_10_LEVELS": {
+  "n": "Mestre",
+  "d": "Gabarite 10 fases!"
+ },
+ "BEST_FRIEND_RECORD": {
+  "n": "Líder da Matilha",
+  "d": "Faça o melhor tempo entre seus amigos numa fase!"
+ },
+ "TEN_SECONDS_AIR_TIME": {
+  "n": "Grande Salto",
+  "d": "10 segundos no ar!"
+ },
+ "COMPLETED_FOREST": {
+  "n": "Rei da Floresta",
+  "d": "Vença o mundo da floresta!"
+ },
+ "COMPLETED_WINTER": {
+  "n": "Abaixo de Zero",
+  "d": "Vença o mundo do inverno!"
+ },
+ "COMPLETED_LASER": {
+  "n": "Rave On",
+  "d": "Vença o mundo do laser!"
+ },
+ "COMPLETED_MEDIEVAL": {
+  "n": "Velha Guarda",
+  "d": "Vença o mundo medieval!"
+ },
+ "COMPLETED_ANCIENT": {
+  "n": "Os Caçadores do Caminhão Perdido",
+  "d": "Vença o mundo antigo!"
+ },
+ "COMPLETED_SCIFI": {
+  "n": "De Volta para o Caminhão",
+  "d": "Vença o mundo sci-fi!"
+ },
+ "COMPLETED_STEAMPUNK": {
+  "n": "Pressão Subindo",
+  "d": "Vença o mundo steampunk!"
+ },
+ "COMPLETED_GAME_NOABILITIES": {
+  "n": "Puro",
+  "d": "Termine o jogo sem usar habilidades!"
+ },
+ "COMPLETED_HELL": {
+  "n": "Naties Lieh",
+  "d": "Vença o mundo do inferno!"
+ },
+ "BEAT_HALLOWEEN": {
+  "n": "Caminhão ou Travessura?",
+  "d": "Vença as fases sazonais de Halloween!"
+ },
+ "BEAT_CHRISTMAS": {
+  "n": "Enfeitem os Caminhões!",
+  "d": "Boas festas!"
+ }
+}

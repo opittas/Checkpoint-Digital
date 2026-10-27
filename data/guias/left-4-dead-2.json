@@ -1,0 +1,23 @@
+{
+  "resumo": "Cooperativo contra zumbis. Conquistas de campanhas, dificuldades, Realismo e modos versus.",
+  "roadmap": [
+    {
+      "titulo": "1. Campanhas",
+      "texto": "Sobreviva a todas as campanhas. Jogue com amigos."
+    },
+    {
+      "titulo": "2. Desafios",
+      "texto": "Muitas pedem feitos específicos (só com faca, salvar todos, etc.)."
+    },
+    {
+      "titulo": "3. Dificuldade",
+      "texto": "Experto e Realismo são as mais difíceis."
+    },
+    {
+      "titulo": "4. Versus/Sobrevivência",
+      "texto": "Algumas pedem jogar modos competitivos."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

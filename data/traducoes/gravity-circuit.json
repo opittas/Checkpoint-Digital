@@ -1,0 +1,214 @@
+{
+ "gc_challenge_001": {
+  "n": "PUGILISTA!",
+  "d": "Derrote 100 inimigos em combate. Mostre do que é capaz!"
+ },
+ "gc_challenge_002": {
+  "n": "LUTADOR!",
+  "d": "Derrote 250 inimigos em combate. Bote medo neles!"
+ },
+ "gc_challenge_003": {
+  "n": "GUERREIRO!",
+  "d": "Derrote 1000 inimigos em combate. Mostre quem manda!"
+ },
+ "gc_challenge_004": {
+  "n": "SURRA AVERMELHADA!",
+  "d": "Dê overkill em 250 inimigos. Sem piedade!"
+ },
+ "gc_challenge_005": {
+  "n": "JOGA ELES!",
+  "d": "Derrote 50 inimigos com objetos arremessados. Olha eles voando!"
+ },
+ "gc_challenge_006": {
+  "n": "DETONA ELES!",
+  "d": "Derrote 100 inimigos com objetos arremessados. Mande eles para a lua!"
+ },
+ "gc_challenge_007": {
+  "n": "DEVOLVA O PRESENTE!",
+  "d": "Pegue o escudo de um inimigo e arremesse 10 vezes. Agradeça a generosidade!"
+ },
+ "gc_challenge_008": {
+  "n": "DEVOLVA AO DONO!",
+  "d": "Arremesse de volta qualquer objeto criado por um chefe. Isso vai ensinar!"
+ },
+ "gc_challenge_009": {
+  "n": "ESTOURE ELES!",
+  "d": "Use Técnicas Burst 100 vezes. Golpes energéticos!"
+ },
+ "gc_challenge_010": {
+  "n": "SAUDÁVEL DE VERDADE!",
+  "d": "Colete todas as melhorias de vida! Mantenha o chassi em forma!"
+ },
+ "gc_challenge_011": {
+  "n": "ENERGIA DE VERDADE!",
+  "d": "Colete todas as melhorias de energia Burst! Punhos sempre carregados!"
+ },
+ "gc_challenge_012": {
+  "n": "ACUMULADOR DE DADOS!",
+  "d": "Colete e pesquise todos os Chips de Dados. Muito estudioso!"
+ },
+ "gc_challenge_013": {
+  "n": "COLECIONADOR DE CHIPS!",
+  "d": "Compre todos os Chips de Reforço do jogo. Um para cada ocasião!"
+ },
+ "gc_challenge_014": {
+  "n": "PRATICANTE DE TÉCNICAS!",
+  "d": "Aprenda todas as Técnicas Burst do jogo. Mestre do combate!"
+ },
+ "gc_challenge_015": {
+  "n": "NENHUM ROBÔ PARA TRÁS!",
+  "d": "Resgate todos os robôs que precisam de ajuda em qualquer fase. Ajude eles!"
+ },
+ "gc_challenge_016": {
+  "n": "RESGATE HEROICO!",
+  "d": "Resgate todos os robôs que precisam de ajuda. Dando uma mão!"
+ },
+ "gc_challenge_017": {
+  "n": "JÁ ESTOU SAUDÁVEL!",
+  "d": "Termine o jogo sem pegar melhorias de vida. Já está em forma!"
+ },
+ "gc_challenge_018": {
+  "n": "JÁ TENHO ENERGIA!",
+  "d": "Termine o jogo sem pegar melhorias Burst. Energia suficiente!"
+ },
+ "gc_challenge_019": {
+  "n": "QUASE SEM CHIPS!",
+  "d": "Termine o jogo sem comprar Chips de Reforço extras. Não precisa de mais!"
+ },
+ "gc_challenge_020": {
+  "n": "QUASE SEM TÉCNICAS!",
+  "d": "Termine o jogo sem comprar Técnicas Burst extras. Só precisa de uma!"
+ },
+ "gc_challenge_021": {
+  "n": "AU AU?",
+  "d": "Resgate Yuki e Amadeus. Quem são eles e por que são tão fofos?"
+ },
+ "gc_challenge_022": {
+  "n": "AU AU!",
+  "d": "Faça carinho em Yuki ou Amadeus. Até um herói tem seu lado sensível!"
+ },
+ "gc_challenge_023": {
+  "n": "ARREMESSO NA CESTA!",
+  "d": "Marque um ponto com a bola de treino. Belo arremesso!"
+ },
+ "gc_challenge_024": {
+  "n": "CRAQUE DA CESTA!",
+  "d": "Faça dez pontos seguidos com a bola de treino sem tocar o aro. Que pontaria!"
+ },
+ "gc_challenge_025": {
+  "n": "DÊ UMA PAUSA!",
+  "d": "Descanse com o Fix por um tempo e reflita. Que conforto!"
+ },
+ "gc_challenge_026": {
+  "n": "EI, ISSO É FRÁGIL!",
+  "d": "Pague pelos estragos que causou. É o certo."
+ },
+ "gc_challenge_027": {
+  "n": "OBJETIVO: SOBREVIVER!",
+  "d": "Sobreviva à Técnica Burst de qualquer chefe dez vezes numa luta. Escapou!"
+ },
+ "gc_challenge_028": {
+  "n": "FINAL SIMPLES!",
+  "d": "Derrote qualquer chefe sem usar Técnica Burst. Ensine o básico!"
+ },
+ "gc_challenge_029": {
+  "n": "FINAL CHAMATIVO!",
+  "d": "Derrote qualquer chefe finalizando com uma Técnica Burst. Dê um show!"
+ },
+ "gc_challenge_030": {
+  "n": "FINAL PERFEITO!",
+  "d": "Derrote qualquer chefe sem sofrer dano. Luta limpa!"
+ },
+ "gc_challenge_031": {
+  "n": "FASE IMPECÁVEL!",
+  "d": "Termine qualquer fase sem sofrer dano. Intocável de verdade!"
+ },
+ "gc_challenge_032": {
+  "n": "SEM TEMPO PARA ESPINHOS!",
+  "d": "Depois de chegar ao QG dos Guardiões, termine qualquer fase sem dano de armadilhas. Segurança em primeiro lugar!"
+ },
+ "gc_challenge_033": {
+  "n": "FASE SIMPLES!",
+  "d": "Termine qualquer fase sem usar Técnica Burst. Fundamentos sólidos!"
+ },
+ "gc_challenge_034": {
+  "n": "SEM TEMPO PARA REPAROS!",
+  "d": "Depois de chegar ao QG dos Guardiões, termine qualquer fase sem usar estação de reparo. Tem que continuar!"
+ },
+ "gc_challenge_035": {
+  "n": "SÓ O GANCHO!",
+  "d": "Termine qualquer fase só com seu fiel gancho e arremessos. É tudo que precisa!"
+ },
+ "gc_challenge_036": {
+  "n": "MAIS RÁPIDO QUE A LUZ!",
+  "d": "Não seja atingido por nenhum laser na Siderúrgica. Corra mais que tudo!"
+ },
+ "gc_challenge_037": {
+  "n": "SEM GOSMA PARA MIM!",
+  "d": "Não fique preso na gosma roxa no Ferro-Velho. Fique limpo!"
+ },
+ "gc_challenge_038": {
+  "n": "NADA DE SORVETE DE ROBÔ!",
+  "d": "Não congele nas Montanhas. Fique aquecido!"
+ },
+ "gc_challenge_039": {
+  "n": "SALTADOR DE CHOQUE!",
+  "d": "Não encoste nas superfícies eletrificadas da Usina. Bzzzt!"
+ },
+ "gc_challenge_040": {
+  "n": "ATENÇÃO ÀS PLACAS!",
+  "d": "Não toque nas placas da Rodovia. Ande com cuidado!"
+ },
+ "gc_challenge_041": {
+  "n": "PROTEJA OS OUVIDOS!",
+  "d": "Não seja atingido pelas ondas sonoras das caixas gigantes do Medley no Centro. Aproveite o silêncio!"
+ },
+ "gc_challenge_042": {
+  "n": "MECH É AMIGO!",
+  "d": "Não deixe seu mech ser destruído nas Minas. Segurança em primeiro lugar!"
+ },
+ "gc_challenge_043": {
+  "n": "SEM BRINCADEIRA!",
+  "d": "Castigue o Hash por rir de você no Ciberespaço. Isso é sério!"
+ },
+ "gc_challenge_044": {
+  "n": "ESQUIVA DE BURST!",
+  "d": "Desvie de todas as Técnicas Burst da Nega. Mova-se como um ninja!"
+ },
+ "gc_challenge_045": {
+  "n": "MESTRE DO CIRCUITO!",
+  "d": "Derrote o Cristal do Circuito de primeira, sem tentar de novo. Mostre quem manda!"
+ },
+ "gc_challenge_046": {
+  "n": "MÃOS AO ALTO!",
+  "d": "Desvie dos ataques de agarrar do Kernel. Sem encostar!"
+ },
+ "gc_challenge_047": {
+  "n": "CUIDADO COM AS MÃOS!",
+  "d": "Não seja esmagado pelas mãos do Comandante Circuit. Sem pancada!"
+ },
+ "gc_challenge_048": {
+  "n": "ESTÃO TODOS AQUI!",
+  "d": "Faça todos que você ajudou aparecerem na cena final. Reencontro emocionante!"
+ },
+ "gc_challenge_049": {
+  "n": "MISSÃO - TUDO PRONTO?",
+  "d": "Derrote os Circuitos Rebeldes. Acabou mesmo?"
+ },
+ "gc_challenge_050": {
+  "n": "MISSÃO - TUDO ACABADO!",
+  "d": "Termine o jogo. Enfim, paz."
+ },
+ "gc_challenge_051": {
+  "n": "MISSÃO - ACABOU DE NOVO!",
+  "d": "Termine o jogo no Novo Jogo+. Hora de mais uma rodada?"
+ },
+ "gc_challenge_052": {
+  "n": "FINAL ESTILO CIRCUIT!",
+  "d": "Termine o jogo no Modo Circuit. Excelente!"
+ },
+ "gc_challenge_053": {
+  "n": "LIMPEZA TOTAL!",
+  "d": "Complete todas as outras conquistas do jogo. Que habilidade!"
+ }
+}

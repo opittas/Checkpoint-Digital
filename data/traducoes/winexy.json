@@ -1,0 +1,66 @@
+{
+ "ACHIEVEMENT_B": {
+  "n": "Pegue o B",
+  "d": "Pegue o B"
+ },
+ "ACHIEVEMENT_O": {
+  "n": "Pegue o O",
+  "d": "Pegue o O"
+ },
+ "ACHIEVEMENT_N": {
+  "n": "Pegue o N",
+  "d": "Pegue o N"
+ },
+ "ACHIEVEMENT_U": {
+  "n": "Pegue o U",
+  "d": "Pegue o U"
+ },
+ "ACHIEVEMENT_S": {
+  "n": "Pegue o S",
+  "d": "Pegue o S"
+ },
+ "ACHIEVEMENT_BONUSLEVEL": {
+  "n": "BÔNUS",
+  "d": "Complete a fase BÔNUS"
+ },
+ "ACHIEVEMENT_FIRSTLEVEL": {
+  "n": "Isso É Só o Começo",
+  "d": "Complete a primeira fase"
+ },
+ "ACHIEVEMENT_FOGLEVELS": {
+  "n": "Toda a Névoa",
+  "d": "Complete todas as fases de Névoa"
+ },
+ "ACHIEVEMENT_DARKLEVELS": {
+  "n": "Todo o Escuro",
+  "d": "Complete todas as fases Escuras"
+ },
+ "ACHIEVEMENT_FIRELEVELS": {
+  "n": "Todo o Fogo",
+  "d": "Complete todas as fases de Fogo"
+ },
+ "ACHIEVEMENT_MAZELEVELS": {
+  "n": "Todo o Labirinto",
+  "d": "Complete todas as fases de Labirinto"
+ },
+ "ACHIEVEMENT_WATERLEVELS": {
+  "n": "Toda a Água",
+  "d": "Complete todas as fases de Água"
+ },
+ "ACHIEVEMENT_ALLGOLD": {
+  "n": "Agora Você Está Pronto...",
+  "d": "Complete todas as fases no ouro"
+ },
+ "ACHIEVEMENT_SPEEDRUNLEVEL": {
+  "n": "Mestre do Winexy",
+  "d": "Complete a fase SPEEDRUN"
+ },
+ "ACHIEVEMENT_ALLLVLS": {
+  "n": "Todas as Fases",
+  "d": "Complete todas as fases"
+ },
+ "ACHIEVEMENT_PLAY": {
+  "n": "Jogar",
+  "d": "Clique em Jogar"
+ }
+}

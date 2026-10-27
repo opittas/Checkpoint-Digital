@@ -1,0 +1,19 @@
+{
+  "resumo": "Shooter ninja gratuito. Lista enorme e longa.",
+  "roadmap": [
+    {
+      "titulo": "1. Estrela Solar",
+      "texto": "Libere todos os planetas e missões."
+    },
+    {
+      "titulo": "2. Missões",
+      "texto": "Faça recompensas, chefes e eventos."
+    },
+    {
+      "titulo": "3. Fundição",
+      "texto": "Construa itens, Warframes e armas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

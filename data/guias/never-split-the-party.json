@@ -1,0 +1,19 @@
+{
+  "resumo": "Masmorra cooperativa. Cada classe tem 4 conquistas: vencer, vencer rápido, sem cair e no Modo Difícil.",
+  "roadmap": [
+    {
+      "titulo": "1. Classes",
+      "texto": "Vença com cada classe; em grupo fica mais fácil."
+    },
+    {
+      "titulo": "2. Desafios",
+      "texto": "Complete os desafios especiais (Caracol Imortal, Medo do Escuro, etc.)."
+    },
+    {
+      "titulo": "3. Condessa",
+      "texto": "Derrote as versões Deformada e Ascendida e complete A Vingança da Condessa."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

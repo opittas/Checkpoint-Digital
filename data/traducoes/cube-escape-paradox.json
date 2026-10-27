@@ -1,0 +1,114 @@
+{
+ "achievement_1": {
+  "n": "A Capela",
+  "d": "Conquista 1 - Capítulo 1"
+ },
+ "achievement_2": {
+  "n": "Um Chapéu Novo",
+  "d": "Conquista 2 - Capítulo 1"
+ },
+ "achievement_3": {
+  "n": "O Que Aconteceu com o Cervo?",
+  "d": "Conquista 3 - Capítulo 1"
+ },
+ "achievement_4": {
+  "n": "A História do Bob",
+  "d": "Conquista 4 - Capítulo 1"
+ },
+ "achievement_5": {
+  "n": "O Quadrinho",
+  "d": "Conquista 5 - Capítulo 1"
+ },
+ "achievement_11": {
+  "n": "Uma Gravata Nova",
+  "d": "Conquista 1 - Capítulo 2"
+ },
+ "achievement_12": {
+  "n": "Meio Suspeito",
+  "d": "Conquista 2 - Capítulo 2"
+ },
+ "achievement_13": {
+  "n": "Outro Final",
+  "d": "Conquista 3 - Capítulo 2"
+ },
+ "achievement_14": {
+  "n": "Um Telefonema",
+  "d": "Conquista 4 - Capítulo 2"
+ },
+ "achievement_15": {
+  "n": "O Hotel Great Northern",
+  "d": "Conquista 5 - Capítulo 2"
+ },
+ "achievement_25": {
+  "n": "Paraíso",
+  "d": "Conquista secreta - Capítulo 2"
+ },
+ "achievement_26": {
+  "n": "O Lugar Certo",
+  "d": "Conquista secreta - Capítulo 2"
+ },
+ "achievement_21": {
+  "n": "Capítulo 1",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_22": {
+  "n": "Capítulo 2",
+  "d": "Conquista extra - Capítulo 2"
+ },
+ "achievement_23": {
+  "n": "O Destino de Dale",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_24": {
+  "n": "A Jornada de Dale Continua",
+  "d": "Conquista extra - Capítulo 2"
+ },
+ "achievement_31": {
+  "n": "O Frasco Vermelho",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_32": {
+  "n": "O Frasco Azul",
+  "d": "Conquista extra - Capítulo 2"
+ },
+ "achievement_33": {
+  "n": "O Frasco Verde",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_27": {
+  "n": "Fuja da Mente",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_28": {
+  "n": "Uma Xícara de Café",
+  "d": "Conquista extra - Capítulo 2"
+ },
+ "achievement_41": {
+  "n": "Cubo de Madeira",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_42": {
+  "n": "Cubo de Ferro",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_43": {
+  "n": "Cubo de Vidro",
+  "d": "Conquista extra - Capítulo 1"
+ },
+ "achievement_44": {
+  "n": "Mente do Presente",
+  "d": "Conquista extra - Capítulo 2"
+ },
+ "achievement_45": {
+  "n": "Mente do Passado",
+  "d": "Conquista extra - Capítulo 2"
+ },
+ "achievement_46": {
+  "n": "Mente do Futuro",
+  "d": "Conquista extra - Capítulo 2"
+ },
+ "achievement_48": {
+  "n": "Dale do Filme",
+  "d": "Conquista extra - Capítulo 2"
+ }
+}

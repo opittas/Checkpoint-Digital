@@ -1,0 +1,174 @@
+{
+ "ACH_ALL_EP1_CLEAR": {
+  "n": "Três Mulheres e um Barry",
+  "d": "Termine o Episódio Um."
+ },
+ "ACH_SURVIVAL_ALL_EP1_CLEAR": {
+  "n": "\"Menos Conversa, Mais Caminhada\"",
+  "d": "Termine o Episódio Um no Modo Contagem Regressiva."
+ },
+ "ACH_INVISIBLE_ALL_EP1_CLEAR": {
+  "n": "\"Nem Perto de Ser Fácil\"",
+  "d": "Termine o Episódio Um no Modo Invisível."
+ },
+ "ACH_CHALLENGE_MEDAL_EP1_COMP": {
+  "n": "Só os Mocinhos Ganham Medalhas",
+  "d": "Ganhe todas as medalhas do Episódio Um."
+ },
+ "ACH_CAMPAINF_PT_MEDIUM": {
+  "n": "Caçador de Recompensas",
+  "d": "Junte 50.000 BP no total."
+ },
+ "ACH_FLAME_NOT_USED": {
+  "n": "Quem Precisa de Fogo?",
+  "d": "Fuja do centro de detenção no Episódio Um da Claire sem usar o busto lança-chamas."
+ },
+ "ACH_PROGRESSOR_KILL": {
+  "n": "Cura para os Aflitos",
+  "d": "Derrote 100 Aflitos na campanha principal."
+ },
+ "ACH_HOMUNCULUS_KILL": {
+  "n": "Ceifador de Revenants",
+  "d": "Derrote 100 Revenants na campanha principal."
+ },
+ "ACH_KNIFE_WEAPON_KILL": {
+  "n": "Brincando de Faca",
+  "d": "Derrote 100 inimigos com a faca na campanha principal."
+ },
+ "ACH_BLOW_ATK_KILL": {
+  "n": "Pau Neles!",
+  "d": "Derrote 50 inimigos com ataques físicos na campanha principal."
+ },
+ "ACH_GRAP_BLOW_KILL": {
+  "n": "E FIQUE no Chão",
+  "d": "Faça 50 golpes de finalização na campanha principal."
+ },
+ "ACH_BACK_ATK_KILL": {
+  "n": "Das Sombras",
+  "d": "Derrote 20 inimigos com ataques furtivos na campanha principal."
+ },
+ "ACH_LIGHT_ATK": {
+  "n": "Plantão da Lanterna",
+  "d": "Use a luz da Moira para atordoar 50 inimigos na campanha principal."
+ },
+ "ACH_BAR_WEAPON_KILL": {
+  "n": "Eu Sei Usar Armas Contundentes",
+  "d": "Use o pé de cabra da Moira para derrotar 50 inimigos na campanha principal."
+ },
+ "ACH_STONE_KILL": {
+  "n": "Pedreira",
+  "d": "Derrote 20 inimigos com um tijolo jogando de Natalia na campanha principal."
+ },
+ "ACH_KNIFE_CLEAR": {
+  "n": "Afiadíssimo",
+  "d": "Termine o Episódio Um usando só a faca."
+ },
+ "ACH_SHOT_TWO_KILL": {
+  "n": "Enfileirados!",
+  "d": "Derrote dois inimigos com um tiro na campanha principal."
+ },
+ "ACH_HOMU_WEAPON_DEST": {
+  "n": "Desarmados",
+  "d": "Destrua 30 braços-arma de Revenants."
+ },
+ "ACH_PROG_JUMPATK_STOP": {
+  "n": "Céus Hostis",
+  "d": "Derrube 30 Aflitos no meio do salto na campanha principal."
+ },
+ "ACH_GRAP_COMBINATION": {
+  "n": "Isso Que É Trabalho em Equipe!",
+  "d": "Faça a Moira atordoar um inimigo e a Claire finalizar com ataque físico na campanha principal."
+ },
+ "ACH_ASSIST_HOLD_HELP": {
+  "n": "Amigo de Verdade",
+  "d": "Salve seu parceiro capturado dez vezes na campanha principal."
+ },
+ "ACH_BOTTLE_FIVE_KILL": {
+  "n": "Peixe no Barril",
+  "d": "Derrote cinco inimigos com uma garrafa explosiva ou incendiária na campanha principal."
+ },
+ "ACH_SYS_RAID_MISSION_CLEAR": {
+  "n": "Caçadores do Mal",
+  "d": "Termine uma missão do Modo Raid."
+ },
+ "ACH_SYS_RAID_USE_JUDGMENT": {
+  "n": "Avaliando",
+  "d": "Avalie um item no Modo Raid."
+ },
+ "ACH_SYS_RAID_DUNGEON_CLEAR": {
+  "n": "Vi e Venci",
+  "d": "Termine um Desafio no Modo Raid."
+ },
+ "ACH_ALL_EP2_CLEAR": {
+  "n": "Morrendo de Medo",
+  "d": "Termine o Episódio Dois."
+ },
+ "ACH_SURVIVAL_ALL_EP2_CLEAR": {
+  "n": "\"Corre, Moira. Corre!\"",
+  "d": "Termine o Episódio Dois no Modo Contagem Regressiva."
+ },
+ "ACH_INVISIBLE_ALL_EP2_CLEAR": {
+  "n": "\"Isso Vai Ser Divertido\"",
+  "d": "Termine o Episódio Dois no Modo Invisível."
+ },
+ "ACH_CHALLENGE_MEDAL_EP2_COMP": {
+  "n": "Tem Medalha pra Isso",
+  "d": "Ganhe todas as medalhas do Episódio Dois."
+ },
+ "ACH_PEDRO_PAST_KILL": {
+  "n": "Pedro, Me Desculpe...",
+  "d": "Derrote o Pedro Mutante no Episódio Dois da Claire."
+ },
+ "ACH_GHOST_KILL": {
+  "n": "\"Não Gosto de Glasps\", Suspirei",
+  "d": "Derrote 20 Glasps na campanha principal."
+ },
+ "ACH_ALL_EP3_CLEAR": {
+  "n": "Medo Vencido",
+  "d": "Termine o Episódio Três."
+ },
+ "ACH_SURVIVAL_ALL_EP3_CLEAR": {
+  "n": "Pé na Tábua",
+  "d": "Termine o Episódio Três no Modo Contagem Regressiva."
+ },
+ "ACH_INVISIBLE_ALL_EP3_CLEAR": {
+  "n": "Eu Vejo Gente Morta-Viva",
+  "d": "Termine o Episódio Três no Modo Invisível."
+ },
+ "ACH_CHALLENGE_MEDAL_EP3_COMP": {
+  "n": "Doce Medalha de Ouro",
+  "d": "Ganhe todas as medalhas do Episódio Três."
+ },
+ "ACH_MOIRA_NEIL_KILLED": {
+  "n": "Aqui Está Minha Demissão",
+  "d": "A Moira derrota o Neil no Episódio Três da Claire."
+ },
+ "ACH_FLOOD_GATE_ITEM_GET": {
+  "n": "Uma Ondulação no Tempo",
+  "d": "Pegue o item além do portão nos esgotos no Episódio Três do Barry."
+ },
+ "ACH_ALL_EP4_CLEAR": {
+  "n": "Verdadeiro ou Falso",
+  "d": "Termine o Episódio Quatro."
+ },
+ "ACH_SURVIVAL_ALL_EP4_CLEAR": {
+  "n": "\"Vocês Têm Permissão para Entrar em Pânico\"",
+  "d": "Termine o Episódio Quatro no Modo Contagem Regressiva."
+ },
+ "ACH_INVISIBLE_ALL_EP4_CLEAR": {
+  "n": "\"Tem Algo Aqui Dentro\"",
+  "d": "Termine o Episódio Quatro no Modo Invisível."
+ },
+ "ACH_CHALLENGE_MEDAL_EP4_COMP": {
+  "n": "Não Saio sem Minha Medalha",
+  "d": "Ganhe todas as medalhas do Episódio Quatro."
+ },
+ "ACH_PAST_GHOST_KILL": {
+  "n": "O Que Você Não Vê Pode Te Matar",
+  "d": "Derrote seis ou mais Glasps no monumento no Episódio Quatro da Claire, no Normal ou acima."
+ },
+ "ACH_FLOOD_GATE_USED": {
+  "n": "Rotas do Futuro Passado",
+  "d": "Complete as duas rotas pelo aterro no Episódio Quatro do Barry."
+ }
+}

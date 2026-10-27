@@ -1,0 +1,174 @@
+{
+ "TRP_GET_ALL": {
+  "n": "O Jogador Mais Forte de ALO",
+  "d": "Ganhe todos os troféus. \"Você é um lutador excelente. O melhor que já vi.\""
+ },
+ "TRP_BEGIN_CHAPTER_0": {
+  "n": "Bem-vindo a ALfheim Online!",
+  "d": "Entre em ALfheim Online."
+ },
+ "TRP_BEGIN_CHAPTER_1": {
+  "n": "Fadas no Céu",
+  "d": "Chegue ao capítulo \"Fadas no Céu\"."
+ },
+ "TRP_BEGIN_CHAPTER_2": {
+  "n": "O Mundo das Fadas Negras",
+  "d": "Chegue ao capítulo \"O Mundo das Fadas Negras\"."
+ },
+ "TRP_BEGIN_CHAPTER_3": {
+  "n": "A Deusa Juvenil",
+  "d": "Chegue ao capítulo \"A Deusa Juvenil\"."
+ },
+ "TRP_BEGIN_CHAPTER_4": {
+  "n": "A Ruiva nas Sombras",
+  "d": "Chegue ao capítulo \"A Ruiva nas Sombras\"."
+ },
+ "TRP_BEGIN_CHAPTER_5": {
+  "n": "Um Paradoxo de Luz e Trevas",
+  "d": "Chegue ao capítulo \"Um Paradoxo de Luz e Trevas\"."
+ },
+ "TRP_BEGIN_CHAPTER_6": {
+  "n": "Batalha dos Cavaleiros da Lâmina Tripla",
+  "d": "Chegue ao capítulo \"Batalha dos Cavaleiros da Lâmina Tripla\"."
+ },
+ "TRP_BEGIN_CHAPTER_7": {
+  "n": "Mentiras",
+  "d": "Chegue ao capítulo \"Mentiras\"."
+ },
+ "TRP_BEGIN_CHAPTER_8": {
+  "n": "Desejos Entrelaçados",
+  "d": "Chegue ao capítulo \"Desejos Entrelaçados\"."
+ },
+ "TRP_BEGIN_CHAPTER_9": {
+  "n": "O Mundo Sombrio",
+  "d": "Chegue ao capítulo \"O Mundo Sombrio\"."
+ },
+ "TRP_BEGIN_CHAPTER_10": {
+  "n": "O Crepúsculo dos Deuses",
+  "d": "Chegue ao capítulo \"O Crepúsculo dos Deuses\"."
+ },
+ "TRP_BEGIN_CHAPTER_11": {
+  "n": "As Duas Ídolos",
+  "d": "Chegue ao capítulo \"As Duas Ídolos\"."
+ },
+ "TRP_END_CHAPTER_11": {
+  "n": "Ainda Não Acabou!",
+  "d": "Complete todos os capítulos da história principal. \"Ainda temos muito jogo pela frente!\""
+ },
+ "TRP_CLEAR_EVENT_ASU": {
+  "n": "Um Laço Mais Forte: Asuna",
+  "d": "Complete a história paralela da Asuna. \"Fique comigo para sempre, Asuna.\""
+ },
+ "TRP_CLEAR_EVENT_LEA": {
+  "n": "Um Laço Mais Forte: Leafa",
+  "d": "Complete a história paralela da Leafa. \"Espero sempre me dar bem com a Sugu.\""
+ },
+ "TRP_CLEAR_EVENT_SIL": {
+  "n": "Um Laço Mais Forte: Silica",
+  "d": "Complete a história paralela da Silica. \"Não vou contar para ninguém o que aconteceu aqui hoje.\""
+ },
+ "TRP_CLEAR_EVENT_LIS": {
+  "n": "Um Laço Mais Forte: Lisbeth",
+  "d": "Complete a história paralela da Lisbeth. \"Vamos forjar muitas memórias juntos, quer você queira ou não.\""
+ },
+ "TRP_CLEAR_EVENT_SIN": {
+  "n": "Um Laço Mais Forte: Sinon",
+  "d": "Complete a história paralela da Sinon. \"A Sinon é parte indispensável deste time e uma amiga importante.\""
+ },
+ "TRP_ALL_FESTIVAL": {
+  "n": "O Ki-bo É um Galã!",
+  "d": "Vá ao festival com todas as heroínas do jogo. \"Que furo de reportagem!\""
+ },
+ "TRP_PARTY_IN_SUM": {
+  "n": "Um Rival à Altura",
+  "d": "Faça amizade com Sumeragi."
+ },
+ "TRP_CLEAR_SUBQUEST_FIRST": {
+  "n": "Vamos Começar com um Teste",
+  "d": "Complete sua primeira missão secundária."
+ },
+ "TRP_CLEAR_MANY_SUBQUEST": {
+  "n": "Contratado",
+  "d": "Complete 100 missões secundárias no total."
+ },
+ "TRP_CLEAR_MANY_EXTRA_MULTI_QUEST": {
+  "n": "Caçador de Recompensas",
+  "d": "Complete 100 Missões Extras e/ou Missões Multijogador no total."
+ },
+ "TRP_CLEAR_QUEST_KIR_ASU": {
+  "n": "Como nos Velhos Tempos",
+  "d": "Complete uma missão secundária, Extra ou Multijogador com um grupo de Kirito e Asuna."
+ },
+ "TRP_CLEAR_QUEST_KIR_CLI_AGI": {
+  "n": "Noite dos Rapazes",
+  "d": "Complete uma missão secundária, Extra ou Multijogador com um grupo de Kirito, Klein e Agil."
+ },
+ "TRP_CLEAR_QUEST_SIL_LIS_LEA": {
+  "n": "Operação Garotas",
+  "d": "Complete uma missão secundária, Extra ou Multijogador com um grupo de Silica, Lisbeth e Leafa."
+ },
+ "TRP_CLEAR_QUEST_SOLO": {
+  "n": "Jogar Solo Não É Tão Ruim",
+  "d": "Complete 10 missões secundárias, Extras e/ou Multijogador com um grupo de um só personagem."
+ },
+ "TRP_CLEAR_EXTRA_QUEST_NO_DAMAGE": {
+  "n": "Super Jogador",
+  "d": "Complete uma Missão Extra sem sofrer dano."
+ },
+ "TRP_DEAD": {
+  "n": "Um Jogo Onde Dá para Morrer É Fácil Demais!",
+  "d": "Deixe o personagem que você controla chegar a 0 de HP e virar uma Luz Remanescente."
+ },
+ "TRP_REVIVAL": {
+  "n": "Posso Ganhar um Aumento?",
+  "d": "Ressuscite um membro do grupo que virou Luz Remanescente."
+ },
+ "TRP_COLLECT_MANY_WEAPON": {
+  "n": "Colecionador de Armas",
+  "d": "Colete 100 armas diferentes, sem contar escudos."
+ },
+ "TRP_COLLECT_MANY_ACCESSORY": {
+  "n": "Colecionador de Acessórios",
+  "d": "Colete 50 acessórios diferentes."
+ },
+ "TRP_ENHANCE_WEAPON_MAX": {
+  "n": "A Ferraria da Lisbeth Agradece a Preferência!",
+  "d": "Leve o nível de aprimoramento de uma arma ao máximo."
+ },
+ "TRP_MASTER_MANY_SWORD_SKILL": {
+  "n": "Mestre da Espada",
+  "d": "Leve uma Habilidade de Espada ao nível 500. *Inclui OSS."
+ },
+ "TRP_MASTER_MANY_MAGIC_SKILL": {
+  "n": "Mestre dos Feitiços",
+  "d": "Leve uma Habilidade Mágica ou Especial ao nível 500."
+ },
+ "TRP_MASTER_ALL_OSS": {
+  "n": "Mestre das Habilidades",
+  "d": "Leve as OSS de Asuna, Yuuki, Rain e Sumeragi ao nível 100."
+ },
+ "TRP_MASTER_ALL_SKILL": {
+  "n": "Maníaco por Habilidades",
+  "d": "Aprenda todas as Habilidades de Espada, Mágicas e Especiais possíveis de um personagem."
+ },
+ "TRP_GET_MANY_MONEY": {
+  "n": "Todas Essas 100.000 Peças de Mithril Yuld...!",
+  "d": "Tenha mais de 1.000.000 de Yuld."
+ },
+ "TRP_KILL_MANY_ENEMY_ONE_ATTACK": {
+  "n": "Exterminador de Inimigos",
+  "d": "Derrote 5 ou mais inimigos ao mesmo tempo com um só ataque."
+ },
+ "TRP_KILL_MANY_ENEMY": {
+  "n": "Aniquilador de Inimigos",
+  "d": "Derrote 1.000 inimigos ao longo do jogo."
+ },
+ "TRP_GET_EXCALIBUR": {
+  "n": "Espada dos Reis",
+  "d": "Obtenha a Excalibur."
+ },
+ "TRP_CREATE_CUSTOM_CHARACTER": {
+  "n": "Sua Aventura.",
+  "d": "Crie um grupo que inclua seu personagem personalizado."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "resumo": "Arena de almas com muita história. Conquistas de facções, estilos de luta, essências e lore.",
+  "roadmap": [
+    {
+      "titulo": "1. Treino",
+      "texto": "Jogue partidas de treino e normais para juntar essências."
+    },
+    {
+      "titulo": "2. Facções",
+      "texto": "Libere os elementos e estilos das facções e federações."
+    },
+    {
+      "titulo": "3. Ranqueadas",
+      "texto": "As de essências brancas pedem partidas ranqueadas."
+    },
+    {
+      "titulo": "4. Lore",
+      "texto": "As conquistas de história saem comprando os itens de lore."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

@@ -1,0 +1,34 @@
+{
+ "G1_L2": {
+  "n": "O Sobrevivente",
+  "d": "Chegue ao nível 2 com a classe Sobrevivente."
+ },
+ "G2_L2": {
+  "n": "O Líder",
+  "d": "Chegue ao nível 2 com a classe Líder."
+ },
+ "K1_L2": {
+  "n": "A Repórter",
+  "d": "Chegue ao nível 2 com a classe Repórter."
+ },
+ "K2_L2": {
+  "n": "A Médica",
+  "d": "Chegue ao nível 2 com a classe Médico."
+ },
+ "R1_L2": {
+  "n": "O Renegado",
+  "d": "Chegue ao nível 2 com a classe Renegado."
+ },
+ "R2_L2": {
+  "n": "O Lenhador",
+  "d": "Chegue ao nível 2 com a classe Lenhador."
+ },
+ "T1_L2": {
+  "n": "O Atirador",
+  "d": "Chegue ao nível 2 com a classe Atirador."
+ },
+ "T2_L2": {
+  "n": "O Aventureiro",
+  "d": "Chegue ao nível 2 com a classe Aventureiro."
+ }
+}

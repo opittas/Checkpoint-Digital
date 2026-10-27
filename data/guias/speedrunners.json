@@ -1,0 +1,15 @@
+{
+  "resumo": "Corrida competitiva de plataforma.",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Jogue online e local com amigos."
+    },
+    {
+      "titulo": "2. Progresso",
+      "texto": "Suba ao XP máximo e vença ranqueada com personagem com desvantagem."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

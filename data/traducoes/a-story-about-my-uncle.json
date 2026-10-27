@@ -1,0 +1,62 @@
+{
+ "MADDIE_CHALLENGE": {
+  "n": "Desafio da Maddie",
+  "d": "Complete o joguinho da Maddie"
+ },
+ "SANCTUARY_GRAPPLE_CHALLENGE": {
+  "n": "Desafio de Gancho do Santuário",
+  "d": "Complete o Santuário usando menos de 23 ganchos"
+ },
+ "VILLAGE_GRAPPLE_CHALLENGE": {
+  "n": "Desafio de Gancho da Vila",
+  "d": "Complete a Vila usando menos de 20 ganchos"
+ },
+ "CHASMS_GRAPPLE_CHALLENGE": {
+  "n": "Desafio de Gancho dos Abismos",
+  "d": "Complete os Abismos usando menos de 34 ganchos"
+ },
+ "STARHAVEN_GRAPPLE_CHALLENGE": {
+  "n": "Desafio de Gancho do Refúgio Estelar",
+  "d": "Complete o Refúgio Estelar usando menos de 55 ganchos"
+ },
+ "ICECAVE_GRAPPLE_CHALLENGE": {
+  "n": "Desafio de Gancho da Caverna de Gelo",
+  "d": "Complete a Caverna de Gelo usando menos de 115 ganchos"
+ },
+ "FLOOR_IS_LAVA": {
+  "n": "\"Se ele conseguiu, eu também consigo\"",
+  "d": "O chão é lava... ou melhor, gelo."
+ },
+ "ALL_GOLD_MEDALS": {
+  "n": "\"Isso é ouro, Maddie! Ouro!\"",
+  "d": "Ganhe medalha de ouro em todas as fases de Contra o Tempo"
+ },
+ "ALL_COLLECTIBLES_FOUND": {
+  "n": "Todos os Colecionáveis",
+  "d": "Encontre os 25 colecionáveis do jogo"
+ },
+ "SANCTUARY_NO_FAIL": {
+  "n": "Santuário Perfeito",
+  "d": "Complete o Santuário sem falhar"
+ },
+ "VILLAGE_NO_FAIL": {
+  "n": "Vila Perfeita",
+  "d": "Complete a Vila sem falhar"
+ },
+ "CHASMS_NO_FAIL": {
+  "n": "Abismos Perfeitos",
+  "d": "Complete os Abismos sem falhar"
+ },
+ "STARHAVEN_NO_FAIL": {
+  "n": "Refúgio Estelar Perfeito",
+  "d": "Complete o Refúgio Estelar sem falhar"
+ },
+ "ICECAVE_NO_FAIL": {
+  "n": "Caverna de Gelo Perfeita",
+  "d": "Complete a Caverna de Gelo sem falhar"
+ },
+ "INTERACT_ALL_STORY": {
+  "n": "Desejo de Aventura",
+  "d": "Interaja com todos os objetos opcionais da história"
+ }
+}

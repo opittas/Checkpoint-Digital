@@ -1,0 +1,19 @@
+{
+  "resumo": "Luta 2D. Conquistas de história, arcade, combos e online.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine os três arcos da história."
+    },
+    {
+      "titulo": "2. Arcade",
+      "texto": "Faça os percursos e ganhe notas altas."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Jogue partidas online e ranqueadas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

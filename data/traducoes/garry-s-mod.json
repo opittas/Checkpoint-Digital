@@ -1,0 +1,118 @@
+{
+ "GMA_PLAY_SINGLEPLAYER": {
+  "n": "Jogue Sozinho",
+  "d": "Jogue no modo um jogador pelo menos uma vez"
+ },
+ "GMA_PLAY_MULTIPLAYER": {
+  "n": "Jogue Multijogador",
+  "d": "Jogue no multijogador pelo menos uma vez"
+ },
+ "GMA_X_STARTUPS": {
+  "n": "Milênio de Inícios",
+  "d": "Abra o Garry's Mod 1000 vezes"
+ },
+ "GMA_SAY_1": {
+  "n": "Frase Secreta",
+  "d": "Diga a frase secreta"
+ },
+ "GMA_X_MINUTES": {
+  "n": "Viciado",
+  "d": "Você desperdiçou um ano da sua vida jogando GMod!"
+ },
+ "GMA_X_MAPS": {
+  "n": "Carregador de Mapas",
+  "d": "Jogue 20 mapas diferentes"
+ },
+ "GMA_NOT_SANDBOX": {
+  "n": "Brincando por Aí",
+  "d": "Jogue um modo de jogo que não seja sandbox"
+ },
+ "GMA_BADDIES": {
+  "n": "Zona de Guerra",
+  "d": "Matou 1000 vilões"
+ },
+ "GMA_FRIENDS": {
+  "n": "Amigável",
+  "d": "Jogue com 10 amigos"
+ },
+ "GMA_PLAYWITH_GARRY": {
+  "n": "Sim, Eu Sou o Garry de Verdade!",
+  "d": "Jogue no mesmo servidor que o garry"
+ },
+ "GMA_MARATHON": {
+  "n": "Maratona",
+  "d": "Jogue no mesmo servidor e mapa por 8 horas"
+ },
+ "GMA_HALFMARATHON": {
+  "n": "Meia Maratona",
+  "d": "Jogue no mesmo servidor e mapa por 4 horas"
+ },
+ "GMA_DAY": {
+  "n": "Um Dia",
+  "d": "24 horas da sua vida desperdiçadas"
+ },
+ "GMA_WEEK": {
+  "n": "Uma Semana",
+  "d": "Uma semana inteira da sua vida desperdiçada"
+ },
+ "GMA_MONTH": {
+  "n": "Um Mês",
+  "d": "Um mês inteiro da sua vida desperdiçado"
+ },
+ "GMA_BYSTANDER": {
+  "n": "Espectador Inocente",
+  "d": "Mate 1000 animais inocentes"
+ },
+ "GMA_BALLEATER": {
+  "n": "Comedor de Bolinhas",
+  "d": "Coma 200 bolinhas"
+ },
+ "GMA_PROPSPAWNER": {
+  "n": "Criador",
+  "d": "Crie 5000 objetos"
+ },
+ "GMA_BALLOONPOPPER": {
+  "n": "Estourador",
+  "d": "Estoure 1000 balões"
+ },
+ "GMA_REMOVER": {
+  "n": "Destruidor",
+  "d": "Remova 5000 coisas"
+ },
+ "GMA_SPAWNMENUER": {
+  "n": "Usuário de Menu",
+  "d": "Abra o menu de spawn 100.000 vezes"
+ },
+ "GMA_BADCODER": {
+  "n": "Programador Ruim",
+  "d": "Tenha 500 erros de programação Lua"
+ },
+ "GMA_NPCSPAWNER": {
+  "n": "Procriador",
+  "d": "Crie 1000 NPCs"
+ },
+ "GMA_RAGDOLLSPAWNER": {
+  "n": "Casa de Bonecas",
+  "d": "Crie 2000 ragdolls"
+ },
+ "GMA_GOODIES": {
+  "n": "Mau Amigo",
+  "d": "Mate 1000 NPCs amigáveis"
+ },
+ "GMA_SMALLTHUMB": {
+  "n": "10 Joinhas",
+  "d": "Seus envios da Oficina receberam 10 joinhas"
+ },
+ "GMA_MEDIUMTHUMB": {
+  "n": "100 Joinhas",
+  "d": "Seus envios da Oficina receberam 100 joinhas"
+ },
+ "GMA_HUGETHUMB": {
+  "n": "1000 Joinhas",
+  "d": "Seus envios da Oficina receberam 1000 joinhas"
+ },
+ "GMA_MEGAUPLOAD": {
+  "n": "Mega Upload",
+  "d": "Receba 1000 joinhas num único envio (depois vá para a cadeia)"
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "endgame": {
+  "n": "Fim de Jogo",
+  "d": "Terminou."
+ },
+ "challenge": {
+  "n": "Desafio",
+  "d": "Completou um certo desafio."
+ }
+}

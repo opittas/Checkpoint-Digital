@@ -1,0 +1,15 @@
+{
+  "resumo": "Coletânea de clássicos do Mega Drive. Cada conquista pede algo num jogo específico.",
+  "roadmap": [
+    {
+      "titulo": "1. Jogos",
+      "texto": "Faça os desafios listados (Sonic, Golden Axe, Streets of Rage...). Use os saves rápidos."
+    },
+    {
+      "titulo": "2. Desafios",
+      "texto": "Complete os desafios da coletânea."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

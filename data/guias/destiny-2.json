@@ -1,0 +1,19 @@
+{
+  "resumo": "Shooter MMO. A lista na Steam é curta, ligada a expansões e atividades.",
+  "roadmap": [
+    {
+      "titulo": "1. Campanhas",
+      "texto": "Jogue as campanhas das expansões."
+    },
+    {
+      "titulo": "2. Atividades",
+      "texto": "Ataques, Crisol e Gambit."
+    },
+    {
+      "titulo": "3. Exóticos",
+      "texto": "Junte armas e armaduras exóticas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

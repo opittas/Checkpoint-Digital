@@ -1,0 +1,19 @@
+{
+  "resumo": "Escape room do universo Rusty Lake. Cada capítulo tem conquistas da história e extras secretas.",
+  "roadmap": [
+    {
+      "titulo": "1. Capítulo 1",
+      "texto": "Termine e pegue os cubos e frascos."
+    },
+    {
+      "titulo": "2. Capítulo 2",
+      "texto": "Termine e faça as extras (é pago à parte)."
+    },
+    {
+      "titulo": "3. Extras",
+      "texto": "Algumas exigem finais alternativos."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

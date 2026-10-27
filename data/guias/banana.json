@@ -1,0 +1,19 @@
+{
+  "resumo": "Clicker de banana: as conquistas são de cliques e de calorias gastas na loja.",
+  "roadmap": [
+    {
+      "titulo": "1. Clique",
+      "texto": "Clique ou deixe um autoclicker; as de bilhão levam muito tempo."
+    },
+    {
+      "titulo": "2. Números",
+      "texto": "Algumas conquistas são números piada (69, 404, 420...)."
+    },
+    {
+      "titulo": "3. Loja",
+      "texto": "Troque bananas na loja para as de calorias."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

@@ -1,0 +1,262 @@
+{
+ "ACH_ALLTRAMPOLINES": {
+  "n": "A Volta ao Mundo em 5 Camas Elásticas",
+  "d": "Passe por 5 camas elásticas num só salto, quicando uma vez em cada."
+ },
+ "ACH_RYMDSKEPP": {
+  "n": "Rymdskepp i Rymden"
+ },
+ "ACH_MATTRESS_MADNESS": {
+  "n": "Loucura dos Colchões",
+  "d": "Quique 100 vezes em colchões em 30 segundos."
+ },
+ "ACH_MILE_HIGH_CLUB": {
+  "n": "Mile High Club"
+ },
+ "ACH_KICK_BACKFLIP": {
+  "n": "Chute Mortal"
+ },
+ "ACH_POWERHOOF": {
+  "n": "ESMAGADA de Casco"
+ },
+ "ACH_VALKYRIE": {
+  "n": "Valquíria"
+ },
+ "ACH_ALL_MMO_ZONES": {
+  "n": "Sällskapsresan"
+ },
+ "ACH_BEAR": {
+  "n": "Jörgen",
+  "d": "Jörgen."
+ },
+ "ACH_ELFSTREETBOYS": {
+  "n": "Elfstreet Boys"
+ },
+ "ACH_WITCHBURN": {
+  "n": "Malleus Maleficarum"
+ },
+ "ACH_CRAFTALLWEAPONS": {
+  "n": "A Emenda da Cabra",
+  "d": "Fabrique todas as armas numa partida"
+ },
+ "ACH_CRAFTALL": {
+  "n": "Sobrevivente",
+  "d": "Fabrique todos os itens numa partida"
+ },
+ "ACH_SURVIVELIFE": {
+  "n": "Sobreviva pela Sua Vida",
+  "d": "Sobreviva 10 dias"
+ },
+ "ACH_SHATTER": {
+  "n": "Sonhos Despedaçados",
+  "d": "Cristalize e quebre 30 zumbis numa partida"
+ },
+ "ACH_KILLZOMBIES": {
+  "n": "Matador de Zumbis",
+  "d": "Mate 20 zumbis numa partida"
+ },
+ "ACH_NOSTARVE": {
+  "n": "Não Morra de Fome",
+  "d": "Coma 50 itens de comida numa partida"
+ },
+ "ACH_PARACHUTE": {
+  "n": "Segura Firme",
+  "d": "Voe de parapente por 1 minuto"
+ },
+ "ACH_MINIGUN": {
+  "n": "Diversão Demais",
+  "d": "Mate 7 zumbis com uma minifun"
+ },
+ "ACH_BULLETDIVE": {
+  "n": "Cabra Vinda do Céu",
+  "d": "Acerte 5 zumbis num mergulho-bala"
+ },
+ "ACH_LOOKATIT": {
+  "n": "Olha Ela Indo!",
+  "d": "Acerte 4 de uma vez com uma bomba vodu"
+ },
+ "ACH_I_AM_GOAT": {
+  "n": "Eu Sou Cabra",
+  "d": "Jogue GoatSimSim por 5 minutos"
+ },
+ "ACH_BIG_IN_JAPAN": {
+  "n": "Famoso no Japão",
+  "d": "Vença o percurso do Whiplash sem se molhar"
+ },
+ "ACH_MASTER_CHEF": {
+  "n": "Masterchef",
+  "d": "Deixe o ensopado o mais gostoso HUMANAMENTE possível"
+ },
+ "ACH_A_NEW_CHALLENGER": {
+  "n": "Um Novo Desafiante Apareceu",
+  "d": "Cumpra 25 missões de sobrevivência numa partida"
+ },
+ "ACH_WARM_BATH": {
+  "n": "Banho Quente",
+  "d": "Use o escorregador para cair na piscina infantil"
+ },
+ "ACH_ALL_COLLECTIBLES_ZOMBIE": {
+  "n": "Acumulador",
+  "d": "Encontre todos os troféus em GoatZ"
+ },
+ "ACH_I_AM_BREAD": {
+  "n": "Eu Sou Pão",
+  "d": "Você é pão?"
+ },
+ "ACH_ALL_COLLECTIBLE_HEIST": {
+  "n": "O Grande Golpe",
+  "d": "Encontre todos os troféus da fase Payday."
+ },
+ "ACH_BLACKJACK": {
+  "n": "Quanto Deu?",
+  "d": "Ganhe 3 mãos numa mesa de Blackjack."
+ },
+ "ACH_ALL_PRANKS": {
+  "n": "Aposentadoria",
+  "d": "Só termine aquele ÚLTIMO trabalho."
+ },
+ "ACH_BOOST_FLYING": {
+  "n": "Rocket League",
+  "d": "Mostre seu controle de veículo no ar no deserto."
+ },
+ "ACH_TO_THE_MOON": {
+  "n": "Le Voyage Dans la Lune.",
+  "d": "Uma Viagem à Lua."
+ },
+ "ACH_ISLAND_IN_THE_AIR": {
+  "n": "Itsamee!",
+  "d": "Use um canhão para ir até a Ilha no Céu."
+ },
+ "ACH_IMPRISON_POLICE": {
+  "n": "Reprima o Repressor",
+  "d": "Jogue 5 policiais na prisão."
+ },
+ "ACH_MASKS": {
+  "n": "Baile de Máscaras",
+  "d": "Use 30 máscaras ao mesmo tempo."
+ },
+ "ACH_PAN_FLUTE": {
+  "n": "A Canção do Meu Povo",
+  "d": "Escute a música inteira da flauta de pã."
+ },
+ "ACH_HYDRAULIC_CARS": {
+  "n": "Quica!",
+  "d": "Ative os carros hidráulicos."
+ },
+ "ACH_CHARM_COW": {
+  "n": "O Encantador de Vacas",
+  "d": "Encante uma vaca usando Valentino Salami."
+ },
+ "ACH_DOLPH_LIFT": {
+  "n": "Você Me Levanta!",
+  "d": "Use Dolph Spaghetti para erguer um membro da equipe até o topo do prédio mais alto."
+ },
+ "ACH_CABLE_TIE": {
+  "n": "Cinquenta Tons de NPC",
+  "d": "Amarre 50 NPCs."
+ },
+ "ACH_CAMEL_DANCERS": {
+  "n": "Cavalaria de Camelos",
+  "d": "Espirre nos dançarinos usando Humphrey Ciabatta."
+ },
+ "ACH_CREW_LICK": {
+  "n": "Cabrapéia",
+  "d": "Lamba todos os membros da equipe juntos para formar uma Cabrapéia."
+ },
+ "ACH_CREW_BIO": {
+  "n": "Os Bons Cabritos",
+  "d": "Reúna a equipe para um cinema drive-in."
+ },
+ "ACH_NPC_TRAIN": {
+  "n": "Malvado",
+  "d": "Coloque um NPC amarrado nos trilhos do trem."
+ },
+ "ACH_GTA": {
+  "n": "Goat Theft Auto",
+  "d": "Tire alguém do carro com uma cabeçada e depois atropele!"
+ },
+ "ACH_JEDI_SITH": {
+  "n": "Use a Espada, Cabra",
+  "d": "Pegue uma espada de fótons como pai ou cabra boa."
+ },
+ "ACH_NOT_AFRIGHT": {
+  "n": "Sem Medo de Cargueiros",
+  "d": "Destrua todos os cargueiros."
+ },
+ "ACH_RULER_OF_SKIES": {
+  "n": "Senhor dos Sete Céus",
+  "d": "Exploda todas as naves piratas."
+ },
+ "ACH_BACON_MARAUDER": {
+  "n": "Saqueador de Bacon",
+  "d": "Derrube 30 naves da polícia."
+ },
+ "ACH_MINER_INCONVENIENCE": {
+  "n": "Incômodo de Mineração",
+  "d": "Destrua 100 asteroides."
+ },
+ "ACH_ALIEN_OR_EGG": {
+  "n": "Quem Veio Primeiro? O Alien ou o Ovo?",
+  "d": "Dê cabeçada em todos os ovos alienígenas."
+ },
+ "ACH_PUKE_MACHINE": {
+  "n": "A Máquina de Vômito",
+  "d": "Complete o evento da centrífuga."
+ },
+ "ACH_SWEET_COLLECTION": {
+  "n": "Que Coleção!",
+  "d": "Encontre 10 troféus."
+ },
+ "ACH_LIMITED_EDITION": {
+  "n": "Uau, Isso É Edição Limitada?",
+  "d": "Encontre 20 troféus."
+ },
+ "ACH_NERD": {
+  "n": "NERD!",
+  "d": "Encontre todos os troféus no Espaço."
+ },
+ "ACH_BAAHLIONAIRE": {
+  "n": "Junte $1000000",
+  "d": "Quero ser um bééélionário."
+ },
+ "ACH_CAPTAIN_INDUSTRY": {
+  "n": "Capitão da Indústria",
+  "d": "Minere 10 pedaços de channitatium."
+ },
+ "ACH_MY_LITTLE_BRONY": {
+  "n": "Meu Pequeno Brony",
+  "d": "Encontre todos os pôneis."
+ },
+ "ACH_TESTAHOLIC": {
+  "n": "Viciado em Testes",
+  "d": "Complete as câmaras de teste."
+ },
+ "ACH_ITS_WORKING": {
+  "n": "Está Funcionando... ESTÁ FUNCIONANDO!",
+  "d": "Corra à vontade com o podracer."
+ },
+ "ACH_FUND_THIS": {
+  "n": "Financie Isso!",
+  "d": "Dê uma cabeçada em Lawrence S. Windler no covil dele."
+ },
+ "ACH_SPLISH_SPLASH": {
+  "n": "Splishy Splashy Wibbly Wobbly",
+  "d": "Visite o badehaus."
+ },
+ "ACH_GRILL_PREP": {
+  "n": "Pronto para a Grelha",
+  "d": "Embrulhe um garl'eek em papel-alumínio."
+ },
+ "ACH_CANVAS_WORLD": {
+  "n": "O Mundo É Sua Tela",
+  "d": "Pinte 10 paredes."
+ },
+ "ACH_SPEND_TO_MAKE": {
+  "n": "Gaste Dinheiro para Ganhar Dinheiro",
+  "d": "Coloque uma caixa de dinheiro no triturador de mineração."
+ },
+ "ACH_FEDORABLE": {
+  "n": "Que Chapéu!",
+  "d": "Use 30 coisas como chapéu ao mesmo tempo."
+ }
+}

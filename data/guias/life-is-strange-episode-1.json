@@ -1,0 +1,15 @@
+{
+  "resumo": "Aventura com poder de voltar no tempo. As conquistas são dos episódios e das fotos opcionais.",
+  "roadmap": [
+    {
+      "titulo": "1. Episódios",
+      "texto": "Termine os 5 episódios."
+    },
+    {
+      "titulo": "2. Fotos",
+      "texto": "Cada episódio tem 10 fotos opcionais: use o menu de capítulos para voltar e pegar as que faltarem."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

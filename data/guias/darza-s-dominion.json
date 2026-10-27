@@ -1,0 +1,19 @@
+{
+  "resumo": "Ação em arena com masmorras e temporadas.",
+  "roadmap": [
+    {
+      "titulo": "1. Masmorras",
+      "texto": "Complete masmorras e suba gemas de atributo."
+    },
+    {
+      "titulo": "2. Eventos",
+      "texto": "Participe dos eventos do Aspecto do Vazio e de Darza."
+    },
+    {
+      "titulo": "3. Temporadas",
+      "texto": "As conquistas Rubi dependem das temporadas ativas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

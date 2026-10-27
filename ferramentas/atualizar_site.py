@@ -368,7 +368,7 @@ def _bloco_seo(titulo, desc, url, imagem, tipo="website", extra="", robots="inde
 
 def _aplicar_seo(html_doc, titulo, bloco):
     html_doc = re.sub(r"\n?<!--SEO-->.*?<!--/SEO-->", "", html_doc, flags=re.S)
-    html_doc = re.sub(r"<title>.*?</title>", f"<title>{_esc(titulo)}</title>", html_doc, count=1, flags=re.S)
+    html_doc = re.sub(r"<title>.*?</title>", lambda _m: f"<title>{_esc(titulo)}</title>", html_doc, count=1, flags=re.S)
     return html_doc.replace("</title>", "</title>\n" + bloco, 1)
 
 
@@ -472,7 +472,7 @@ def gerar_paginas():
         nomes = "".join(f"<li>{_esc(a.get('n'))}</li>" for a in dados.get("conquistas", [])[:200])
         pre = (f'<main class="ck-wrap" style="padding:40px 24px"><h1>{_esc(j["title"])} — Conquistas</h1>'
                f'<p>{_esc(guia.get("resumo") or desc)}</p><ul>{nomes}</ul></main>')
-        doc = re.sub(r'<div id="app">.*?</div>\s*</div>\s*</div>', f'<div id="app">{pre}</div>', doc, count=1, flags=re.S)
+        doc = re.sub(r'<div id="app">.*?</div>\s*</div>\s*</div>', lambda _m: f'<div id="app">{pre}</div>', doc, count=1, flags=re.S)
         doc = doc.replace('<footer id="site-footer"></footer>',
                           f'<footer id="site-footer"></footer>\n<script>window.JOGO_ID = {json.dumps(gid)};</script>', 1)
         open(p(f"conquistas/{gid}.html"), "w", encoding="utf-8").write(doc)

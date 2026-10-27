@@ -1,0 +1,19 @@
+{
+  "resumo": "Sandbox. Muitas conquistas são de tempo (1 mês jogado!) e piadas.",
+  "roadmap": [
+    {
+      "titulo": "1. Sandbox",
+      "texto": "Crie objetos, NPCs, ragdolls e estoure balões."
+    },
+    {
+      "titulo": "2. Online",
+      "texto": "Jogue em servidores e com amigos."
+    },
+    {
+      "titulo": "3. Tempo",
+      "texto": "As de tempo levam centenas de horas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

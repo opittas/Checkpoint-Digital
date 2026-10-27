@@ -1,0 +1,182 @@
+{
+ "ACHIEVE_01": {
+  "n": "Mestre de DOA5 Last Round",
+  "d": "Desbloqueie todas as conquistas."
+ },
+ "ACHIEVE_02": {
+  "n": "Entretenimento de Luta",
+  "d": "Faça sua primeira luta fora dos modos Treino e Versus."
+ },
+ "ACHIEVE_04": {
+  "n": "Rixa entre Rivais",
+  "d": "Lute online."
+ },
+ "ACHIEVE_05": {
+  "n": "Fúria entre Rivais",
+  "d": "Lute online 10 vezes."
+ },
+ "ACHIEVE_06": {
+  "n": "DOA5 Last Round É Minha Vida",
+  "d": "Lute online 100 vezes."
+ },
+ "ACHIEVE_09": {
+  "n": "Lutando pra Valer",
+  "d": "Jogue uma partida ranqueada."
+ },
+ "ACHIEVE_11": {
+  "n": "Saúde!",
+  "d": "Ative a Zona de Perigo Especial em The Show."
+ },
+ "ACHIEVE_12": {
+  "n": "Tango Kilo November",
+  "d": "Ative a Zona de Perigo Especial em Hot Zone."
+ },
+ "ACHIEVE_60": {
+  "n": "Pesque e Solte",
+  "d": "Ative a Zona de Perigo Especial em Sky City Tokyo."
+ },
+ "ACHIEVE_13": {
+  "n": "Você Pediu!",
+  "d": "Deixe \"Desafios\" em \"Aceitar\" e faça um desafio no Versus, Arcade ou Treino Livre."
+ },
+ "ACHIEVE_14": {
+  "n": "Qualquer Um, Qualquer Hora, Qualquer Lugar",
+  "d": "Deixe \"Desafios\" em \"Aceitar\" e faça 10 desafios no Versus, Arcade ou Treino Livre."
+ },
+ "ACHIEVE_19": {
+  "n": "Arcade (Solo) Concluído",
+  "d": "Conclua 1 percurso no modo Arcade (solo)."
+ },
+ "ACHIEVE_20": {
+  "n": "Arcade (Dupla) Concluído",
+  "d": "Conclua 1 percurso no modo Arcade (dupla)."
+ },
+ "ACHIEVE_21": {
+  "n": "Contra o Tempo (Solo) Concluído",
+  "d": "Conclua 1 percurso no modo Contra o Tempo (solo)."
+ },
+ "ACHIEVE_22": {
+  "n": "Contra o Tempo (Dupla) Concluído",
+  "d": "Conclua 1 percurso no modo Contra o Tempo (dupla)."
+ },
+ "ACHIEVE_23": {
+  "n": "Sobrevivência (Solo) Concluída",
+  "d": "Conclua 1 percurso no modo Sobrevivência (solo)."
+ },
+ "ACHIEVE_24": {
+  "n": "Sobrevivência (Dupla) Concluída",
+  "d": "Conclua 1 percurso no modo Sobrevivência (dupla)."
+ },
+ "ACHIEVE_25": {
+  "n": "Lutador Novato",
+  "d": "Lute uma partida Versus (solo)."
+ },
+ "ACHIEVE_26": {
+  "n": "Tá com Você",
+  "d": "Lute uma partida Versus (dupla)."
+ },
+ "ACHIEVE_31": {
+  "n": "Treinando Duro",
+  "d": "Jogue o Treino Livre por 1 hora."
+ },
+ "ACHIEVE_32": {
+  "n": "Iniciante nos Exercícios",
+  "d": "Complete todos os golpes de um personagem no Treino de Comandos."
+ },
+ "ACHIEVE_52": {
+  "n": "Sua Educação Começa Agora",
+  "d": "Jogue o Tutorial."
+ },
+ "ACHIEVE_53": {
+  "n": "Nasce um Lutador",
+  "d": "Complete todas as lições do Tutorial."
+ },
+ "ACHIEVE_54": {
+  "n": "Um Novo Desafiante Aparece!",
+  "d": "Jogou o Desafio de Combos."
+ },
+ "ACHIEVE_55": {
+  "n": "Campeão Absoluto",
+  "d": "Complete todas as lições de um personagem no Desafio de Combos."
+ },
+ "ACHIEVE_33": {
+  "n": "Na Ponta da Cadeira",
+  "d": "Jogue o modo Espectador."
+ },
+ "ACHIEVE_34": {
+  "n": "Lutador, Conheça a Si Mesmo",
+  "d": "Veja seus resultados no Histórico de Lutas."
+ },
+ "ACHIEVE_35": {
+  "n": "Arremesso em Dupla",
+  "d": "Faça um arremesso de dupla específico de um personagem."
+ },
+ "ACHIEVE_36": {
+  "n": "Diga X!",
+  "d": "Tire uma foto no modo Espectador."
+ },
+ "ACHIEVE_37": {
+  "n": "Como Eu Luto?",
+  "d": "Abra a Lista de Golpes."
+ },
+ "ACHIEVE_38": {
+  "n": "Como Eu Luto Igual a um Pro?",
+  "d": "Abra os Detalhes do Golpe."
+ },
+ "ACHIEVE_39": {
+  "n": "Uma Luta Memorável",
+  "d": "Salve um replay."
+ },
+ "ACHIEVE_57": {
+  "n": "Aumenta o Som",
+  "d": "Mude as configurações de música de fundo."
+ },
+ "ACHIEVE_59": {
+  "n": "Quem Trouxe a Pipoca?",
+  "d": "Assista a um filme."
+ },
+ "ACHIEVE_40": {
+  "n": "Segurança em Primeiro Lugar",
+  "d": "Desligue as Zonas de Perigo na seleção de cenário."
+ },
+ "ACHIEVE_61": {
+  "n": "A Força dos Números",
+  "d": "Faça uma Luta em Equipe."
+ },
+ "ACHIEVE_42": {
+  "n": "Primeira Dupla",
+  "d": "Lute uma partida de dupla."
+ },
+ "ACHIEVE_43": {
+  "n": "O Poder de Dois",
+  "d": "Faça 10 arremessos de dupla diferentes de personagens."
+ },
+ "ACHIEVE_44": {
+  "n": "Mande Pelos Ares",
+  "d": "Acerte um Power Blow."
+ },
+ "ACHIEVE_62": {
+  "n": "Decolagem!",
+  "d": "Acerte um Power Launcher."
+ },
+ "ACHIEVE_63": {
+  "n": "Troca de Poder",
+  "d": "Aperte H+P+K durante um Power Blow para trocar de parceiro e fazer um Tag Power Blow."
+ },
+ "ACHIEVE_45": {
+  "n": "Lá Vai Você",
+  "d": "Ataque com sucesso durante um Cliffhanger."
+ },
+ "ACHIEVE_46": {
+  "n": "Virada no Penhasco",
+  "d": "Bloqueie com sucesso um ataque do oponente durante um Cliffhanger."
+ },
+ "ACHIEVE_47": {
+  "n": "Li Todos os Golpes",
+  "d": "Vença sem sofrer dano."
+ },
+ "ACHIEVE_48": {
+  "n": "O Fracasso Ensina o Sucesso",
+  "d": "Veja as poses de derrota de 8 personagens."
+ }
+}

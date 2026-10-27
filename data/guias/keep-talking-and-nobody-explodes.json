@@ -1,0 +1,15 @@
+{
+  "resumo": "Um jogador desarma a bomba e os outros leem o manual.",
+  "roadmap": [
+    {
+      "titulo": "1. Bombas",
+      "texto": "Desarme as bombas das seções do jogo."
+    },
+    {
+      "titulo": "2. Dica",
+      "texto": "Imprima o manual e jogue com amigos por chamada."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

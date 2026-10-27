@@ -1,0 +1,19 @@
+{
+  "resumo": "Você é uma pedra. Os níveis sobem com o tempo; há puzzles e skins para comprar.",
+  "roadmap": [
+    {
+      "titulo": "1. Deixe rodando",
+      "texto": "Os níveis até 5000 vêm com o tempo de jogo aberto."
+    },
+    {
+      "titulo": "2. Puzzles",
+      "texto": "Faça os puzzles de cada mapa."
+    },
+    {
+      "titulo": "3. Loja",
+      "texto": "Compre todas as skins de pedra."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

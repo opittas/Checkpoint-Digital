@@ -1,0 +1,19 @@
+{
+  "resumo": "Clicker de mineração com companheiros.",
+  "roadmap": [
+    {
+      "titulo": "1. Fases",
+      "texto": "Complete as rodadas de cada nível."
+    },
+    {
+      "titulo": "2. Grind",
+      "texto": "DPS, dano total e inimigos derrotados sobem com o tempo."
+    },
+    {
+      "titulo": "3. Companheiros",
+      "texto": "Suba a sinergia de cada companheiro até 60."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

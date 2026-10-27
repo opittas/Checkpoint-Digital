@@ -1,0 +1,19 @@
+{
+  "resumo": "Clicker com RPG e rituais.",
+  "roadmap": [
+    {
+      "titulo": "1. Progresso",
+      "texto": "Faça rituais, abra baús e melhore armas."
+    },
+    {
+      "titulo": "2. Atributos",
+      "texto": "Suba força, destreza e sabedoria até 20."
+    },
+    {
+      "titulo": "3. Zonas",
+      "texto": "Chegue à zona 50 e derrote campeões."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

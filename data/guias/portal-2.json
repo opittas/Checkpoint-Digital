@@ -1,0 +1,21 @@
+{
+  "resumo": "Clássico de puzzle. Conquistas da campanha solo, do cooperativo e desafios.",
+  "roadmap": [
+    {
+      "titulo": "1. Solo",
+      "texto": "Termine a campanha e procure os segredos (conquistas escondidas)."
+    },
+    {
+      "titulo": "2. Cooperativo",
+      "texto": "Termine o coop com um amigo; algumas pedem gestos e situações em dupla."
+    },
+    {
+      "titulo": "3. Desafios",
+      "texto": "Faça o curso de calibração com alguém novato e outras tarefas do coop."
+    }
+  ],
+  "avisos": [
+    "Várias conquistas exigem parceiro."
+  ],
+  "conquistas": {}
+}

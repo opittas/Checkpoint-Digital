@@ -1,0 +1,19 @@
+{
+  "resumo": "Briga com combos e modo Sobrevivência.",
+  "roadmap": [
+    {
+      "titulo": "1. Campanha",
+      "texto": "Termine no Normal e no Difícil."
+    },
+    {
+      "titulo": "2. Sobrevivência",
+      "texto": "Complete todas as ondas e chegue à onda de zumbis em cada mapa."
+    },
+    {
+      "titulo": "3. Combate",
+      "texto": "Contra-ataques, combos e mortes com pá e taco saem jogando."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

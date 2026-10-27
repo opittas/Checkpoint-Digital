@@ -1,0 +1,46 @@
+{
+ "achievement_00": {
+  "n": "Ainda Não Acabou",
+  "d": "Cai na água pela primeira vez."
+ },
+ "achievement_01": {
+  "n": "Nova Esperança",
+  "d": "Acenda 30 tochas numa jogatina."
+ },
+ "achievement_02": {
+  "n": "Explorando o Passado",
+  "d": "Visite 100 distritos."
+ },
+ "achievement_03": {
+  "n": "Como nos Velhos Tempos",
+  "d": "Use 15 runas de impulso."
+ },
+ "achievement_04": {
+  "n": "Subimos?",
+  "d": "Explore terreno novo acima de 600 metros."
+ },
+ "achievement_05": {
+  "n": "Ainda em Forma",
+  "d": "Dê 5000 pulos."
+ },
+ "achievement_06": {
+  "n": "O Próximo Passo",
+  "d": "Dê 2500 impulsos."
+ },
+ "achievement_07": {
+  "n": "Olá, Amiguinho",
+  "d": "Liberte seu primeiro Fogo-Fátuo."
+ },
+ "achievement_08": {
+  "n": "Amigos das Ruínas",
+  "d": "Liberte 25 Fogos-Fátuos."
+ },
+ "achievement_09": {
+  "n": "E Agora, a Chave",
+  "d": "Chegue ao nível 19."
+ },
+ "achievement_10": {
+  "n": "O Fim?",
+  "d": "Chegue ao distrito 11."
+ }
+}

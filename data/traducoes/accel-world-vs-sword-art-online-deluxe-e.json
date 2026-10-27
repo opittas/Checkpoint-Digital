@@ -1,0 +1,162 @@
+{
+ "TRP_GET_ALL": {
+  "n": "Conquistador do Milênio",
+  "d": "Ganhou todas as conquistas."
+ },
+ "TRP_CLEAR_CHAPTER_1": {
+  "n": "O Invasor",
+  "d": "Concluiu \"O Invasor\"."
+ },
+ "TRP_CLEAR_CHAPTER_2": {
+  "n": "Os Céus Impacientes",
+  "d": "Concluiu \"Os Céus Impacientes\"."
+ },
+ "TRP_CLEAR_CHAPTER_3": {
+  "n": "Armadilha Gelada",
+  "d": "Concluiu \"Armadilha Gelada\"."
+ },
+ "TRP_CLEAR_CHAPTER_4": {
+  "n": "Luar Desastroso",
+  "d": "Concluiu \"Luar Desastroso\"."
+ },
+ "TRP_CLEAR_CHAPTER_5": {
+  "n": "Confronto",
+  "d": "Concluiu \"Confronto\"."
+ },
+ "TRP_CLEAR_CHAPTER_6": {
+  "n": "Desejo Perdido, Coração Tumultuado",
+  "d": "Concluiu \"Desejo Perdido, Coração Tumultuado\"."
+ },
+ "TRP_CLEAR_CHAPTER_7": {
+  "n": "Um Lampejo de Esperança",
+  "d": "Concluiu \"Um Lampejo de Esperança\"."
+ },
+ "TRP_CLEAR_CHAPTER_8": {
+  "n": "Além do Crepúsculo do Milênio",
+  "d": "Concluiu \"Crepúsculo do Milênio\"."
+ },
+ "TRP_CLEAR_CHAPTER_9": {
+  "n": "Laços Eternos",
+  "d": "Concluiu \"Laços Eternos\"."
+ },
+ "TRP_CLEAR_SIDEEP_1": {
+  "n": "Memórias das Fadas",
+  "d": "Concluiu todos os episódios de \"Navegação\"."
+ },
+ "TRP_CLEAR_SIDEEP_2": {
+  "n": "Em Busca dos Selos",
+  "d": "Concluiu todos os episódios de \"Mistificação\"."
+ },
+ "TRP_CLEAR_FIRST_CHALLENGE": {
+  "n": "Primeiro Desafio",
+  "d": "Concluiu uma Missão de Desafio."
+ },
+ "TRP_CLEAR_FIRST_EXTRA": {
+  "n": "Vamos Caçar Chefes!",
+  "d": "Concluiu uma Missão Extra."
+ },
+ "TRP_CLEAR_FIRST_SUDDEN": {
+  "n": "Surpresa!",
+  "d": "Concluiu uma Missão Repentina."
+ },
+ "TRP_CLEAR_FIRST_FRIEND": {
+  "n": "Amigo na Hora Certa",
+  "d": "Concluiu uma Missão de Amigo."
+ },
+ "TRP_CLEAR_QUEST_50": {
+  "n": "Caçador de Recompensas",
+  "d": "Concluiu 50 missões."
+ },
+ "TRP_RESTCHARA_CLEAR_EXTRA_1": {
+  "n": "Lâminas Negras, Asas Prateadas",
+  "d": "Concluiu uma Missão Extra só com Kirito e Silver Crow."
+ },
+ "TRP_RESTCHARA_CLEAR_EXTRA_2": {
+  "n": "Curandeira Berserker, Fim do Mundo",
+  "d": "Concluiu uma Missão Extra só com Asuna e Black Lotus."
+ },
+ "TRP_RESTCHARA_CLEAR_EXTRA_3": {
+  "n": "Os Elementos",
+  "d": "Concluiu uma Missão Extra só com Sky Raker, Ardor Maiden e Aqua Current."
+ },
+ "TRP_CLEAR_SUDDEN_ALL": {
+  "n": "A Mediadora",
+  "d": "Completou todos os pedidos de Hexe."
+ },
+ "TRP_SWITCH_SUCCEEDED_FIRST": {
+  "n": "Troca!",
+  "d": "Fez uma Troca."
+ },
+ "TRP_SMITH_FIRST": {
+  "n": "Use a Forja!",
+  "d": "Usou os serviços de um ferreiro."
+ },
+ "TRP_DESTROY_CORE_FIRST": {
+  "n": "Andarilho de Outro Mundo",
+  "d": "Destruiu um objeto sólido do Outro Mundo."
+ },
+ "TRP_USE_BP_FIRST": {
+  "n": "Não Gaste Tudo num Lugar Só",
+  "d": "Usou BP para comprar algo."
+ },
+ "TRP_ONLINE_FIRST": {
+  "n": "Pegue o General!",
+  "d": "Derrotou o monstro general envolto em aura."
+ },
+ "TRP_AVLV_UPTO_50": {
+  "n": "Nível Médio",
+  "d": "Levou um personagem ao nível 500."
+ },
+ "TRP_AVLV_UPTO_1000": {
+  "n": "Nível Máximo",
+  "d": "Levou um personagem ao nível 1000."
+ },
+ "TRP_SKILL_UPTO_50_ALO": {
+  "n": "Especialista em Habilidades",
+  "d": "Levou a habilidade de um personagem de SAO ao nível 500."
+ },
+ "TRP_SKILL_UPTO_50_AW": {
+  "n": "Técnico Mestre",
+  "d": "Levou a habilidade de um personagem de AW ao nível 500."
+ },
+ "TRP_EQUIP_TO_ENHANCED10": {
+  "n": "Obra-Prima Suprema",
+  "d": "Aprimorou uma arma até +10."
+ },
+ "TRP_EQUIP_RANK1_TO_RANK10": {
+  "n": "Aprimoramento Máximo",
+  "d": "Levou uma arma do Rank 1 ao Rank 10."
+ },
+ "TRP_EQUIP_100KINDS": {
+  "n": "Colecionador de Armas",
+  "d": "Conseguiu 100 tipos diferentes de equipamento."
+ },
+ "TRP_FALL_DOWN_777M": {
+  "n": "Aquele de Muitos Nomes",
+  "d": "Recebeu 50 títulos."
+ },
+ "TRP_GET_100_TITLES": {
+  "n": "Cem Títulos",
+  "d": "Conseguiu 100 títulos no total."
+ },
+ "TRP_SKILL_CONNECT_5": {
+  "n": "Lutador em Cadeia",
+  "d": "Encadeou 8 habilidades com Skill Connect."
+ },
+ "TRP_OPEN_ALL_DESCRIPTIONS": {
+  "n": "Você Disse, Srta. Strea!",
+  "d": "Começou o episódio 5 de \"Diga, Srta. Strea!\""
+ },
+ "TRP_BE_FRIEND_YUNA": {
+  "n": "Cantora Arco-Íris",
+  "d": "Desbloqueou Seven."
+ },
+ "TRP_BE_FRIEND_UNICA": {
+  "n": "Salto Acelerado",
+  "d": "Desbloqueou Nitride Unica."
+ },
+ "TRP_BE_FRIEND_HEPTARCHY": {
+  "n": "Sete Reis de Cor Pura",
+  "d": "Desbloqueou os sete Reis."
+ }
+}

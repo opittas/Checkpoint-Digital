@@ -1,0 +1,21 @@
+{
+  "resumo": "Campanha curta com finais e segredos, mais Zombies e multijogador.",
+  "roadmap": [
+    {
+      "titulo": "1. Campanha",
+      "texto": "Termine as missões e faça as missões paralelas. Há escolhas que mudam o final: guarde save para ver os dois."
+    },
+    {
+      "titulo": "2. Zombies",
+      "texto": "Complete os easter eggs principais de cada mapa (Die Maschine, Firebase Z, etc.). Ajuda muito jogar em grupo."
+    },
+    {
+      "titulo": "3. Multijogador",
+      "texto": "Algumas conquistas saem jogando partidas e usando armas e scorestreaks."
+    }
+  ],
+  "avisos": [
+    "Os easter eggs de Zombies são longos: siga um guia em vídeo."
+  ],
+  "conquistas": {}
+}

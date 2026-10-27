@@ -1,0 +1,23 @@
+{
+  "resumo": "RPG de luta com patrulha do tempo. Lista longa de história, mestres, missões e coleção.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine a campanha principal."
+    },
+    {
+      "titulo": "2. Mestres",
+      "texto": "Treine com todos os mestres da cidade."
+    },
+    {
+      "titulo": "3. Missões paralelas",
+      "texto": "Complete as missões e junte esferas para chamar Shenlong."
+    },
+    {
+      "titulo": "4. Online",
+      "texto": "Algumas exigem raides ou partidas online."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

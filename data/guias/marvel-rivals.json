@@ -1,0 +1,15 @@
+{
+  "resumo": "Hero shooter da Marvel. Conquistas de heróis, combos e partidas.",
+  "roadmap": [
+    {
+      "titulo": "1. Heróis",
+      "texto": "Jogue com cada herói e faça os feitos específicos."
+    },
+    {
+      "titulo": "2. Combos de equipe",
+      "texto": "Algumas pedem habilidades combinadas."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

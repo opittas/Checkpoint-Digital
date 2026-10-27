@@ -1,0 +1,23 @@
+{
+  "resumo": "Ação estilo Mega Man com gancho.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine o jogo e o Novo Jogo+."
+    },
+    {
+      "titulo": "2. Coleção",
+      "texto": "Todas as melhorias, chips e técnicas."
+    },
+    {
+      "titulo": "3. Desafios",
+      "texto": "Desafios de cada fase e chefes sem dano."
+    },
+    {
+      "titulo": "4. Modo Circuit",
+      "texto": "Termine no Modo Circuit."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

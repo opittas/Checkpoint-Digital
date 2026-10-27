@@ -1,0 +1,78 @@
+{
+ "UnleashTheHydrakken": {
+  "n": "Libertem o Hydrakken!",
+  "d": "Entre na Torre Sombria e derrote o Hydrakken Sombrio na dificuldade Normal"
+ },
+ "VanqishTheHydrakken": {
+  "n": "Derrotem o Hydrakken!",
+  "d": "Entre na Torre Sombria e derrote o Hydrakken Sombrio na dificuldade Difícil"
+ },
+ "BurninateTheHydrakken": {
+  "n": "Torrem o Hydrakken!",
+  "d": "Entre na Torre Sombria e derrote o Hydrakken Sombrio na dificuldade Ultra"
+ },
+ "TheDoctorIsIn": {
+  "n": "O Doutor Chegou!",
+  "d": "Entre na Torre Sombria e derrote o Couraçado Darknik na dificuldade Normal"
+ },
+ "ThePrescriptionIsPain": {
+  "n": "A Receita É Dor!",
+  "d": "Entre na Torre Sombria e derrote o Couraçado Darknik na dificuldade Difícil"
+ },
+ "ATrovianADay": {
+  "n": "Um Troviano por Dia!",
+  "d": "Entre na Torre Sombria e derrote o Couraçado Darknik na dificuldade Ultra"
+ },
+ "StaySubclassy": {
+  "n": "Que Subclasse!",
+  "d": "Escolha uma subclasse"
+ },
+ "TheGemForger": {
+  "n": "O Forjador de Gemas",
+  "d": "Na forja de gemas, leve um atributo de Gema Estelar ao máximo"
+ },
+ "ABuildersFocus": {
+  "n": "Foco de Construtor",
+  "d": "Na forja de gemas, leve todos os atributos de uma Gema Estelar ao máximo"
+ },
+ "Perfection": {
+  "n": "Perfeição!",
+  "d": "Na forja de gemas, leve todos os atributos de nove Gemas Estelares ao máximo"
+ },
+ "TheNextStep": {
+  "n": "O Próximo Passo",
+  "d": "Alcance Maestria de Geodo 20"
+ },
+ "FurtherHeights": {
+  "n": "Alturas Maiores",
+  "d": "Alcance Maestria de Geodo 100"
+ },
+ "StartingSpelunker": {
+  "n": "Espeleólogo Iniciante",
+  "d": "Faça a primeira melhoria do módulo GAS"
+ },
+ "SuperSpelunker": {
+  "n": "Super Espeleólogo",
+  "d": "Melhore totalmente o módulo GAS"
+ },
+ "TopBomber": {
+  "n": "Bombardeiro Top",
+  "d": "Vença sua primeira partida de Bomber Royale"
+ },
+ "BeaucoupBombs": {
+  "n": "Bombas aos Montes",
+  "d": "Arremesse 5000 bombas no Bomber Royale"
+ },
+ "PlantsBestFriend": {
+  "n": "Melhor Amigo das Plantas",
+  "d": "Regue 1.000 plantas."
+ },
+ "ReapWhatYouSow": {
+  "n": "Colhe o que Planta",
+  "d": "Colha de 50 plantas."
+ },
+ "ReduceReuseRecompost": {
+  "n": "Reduzir, Reusar, Recompostar",
+  "d": "Composte 10.000 itens na composteira."
+ }
+}

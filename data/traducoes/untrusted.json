@@ -1,0 +1,138 @@
+{
+ "WIN_AGENT_LEADER": {
+  "n": "Líder dos Agentes",
+  "d": "Vença uma partida como Líder dos Agentes"
+ },
+ "WIN_FIELD_AGENT": {
+  "n": "Agente de Campo",
+  "d": "Vença uma partida como Agente de Campo"
+ },
+ "WIN_MOLE_FIELDOPS": {
+  "n": "Infiltrado (Operações de Campo)",
+  "d": "Vença uma partida como Infiltrado (Operações de Campo)"
+ },
+ "WIN_MOLE_INVESTIGATIVE": {
+  "n": "Infiltrado (Investigação)",
+  "d": "Vença uma partida como Infiltrado (Investigação)"
+ },
+ "WIN_MOLE_OFFENSIVE": {
+  "n": "Infiltrado (Ofensivo)",
+  "d": "Vença uma partida como Infiltrado (Ofensivo)"
+ },
+ "WIN_RUNAWAY_SNITCH": {
+  "n": "Dedo-Duro Fugitivo",
+  "d": "Vença uma partida como Dedo-Duro Fugitivo"
+ },
+ "WIN_CCTV": {
+  "n": "Especialista em CFTV",
+  "d": "Vença uma partida como Especialista em CFTV"
+ },
+ "WIN_NETSPEC": {
+  "n": "Especialista em Redes",
+  "d": "Vença uma partida como Especialista em Redes"
+ },
+ "WIN_BLACKHAT": {
+  "n": "Blackhat",
+  "d": "Vença uma partida como Blackhat"
+ },
+ "WIN_SOCIALENGINEER": {
+  "n": "Engenheiro Social",
+  "d": "Vença uma partida como Engenheiro Social"
+ },
+ "WIN_INSIDEMAN": {
+  "n": "Homem de Dentro",
+  "d": "Vença uma partida como Homem de Dentro"
+ },
+ "WIN_SPEARPHISHER": {
+  "n": "Spearphisher",
+  "d": "Vença uma partida como Spearphisher"
+ },
+ "WIN_ENFORCER": {
+  "n": "Executor",
+  "d": "Vença uma partida como Executor"
+ },
+ "WIN_ANALYST": {
+  "n": "Analista",
+  "d": "Vença uma partida como Analista"
+ },
+ "WIN_IMPROVISED_HACKER": {
+  "n": "Hacker Improvisado",
+  "d": "Vença uma partida como Hacker Improvisado"
+ },
+ "WIN_OPERATION_LEADER": {
+  "n": "Líder da Operação",
+  "d": "Vença uma partida como Líder da Operação"
+ },
+ "WIN_SCRIPT_KIDDIE": {
+  "n": "Script Kiddie",
+  "d": "Vença uma partida como Script Kiddie"
+ },
+ "WIN_BOUNTY_HUNTER": {
+  "n": "Caçador de Recompensas",
+  "d": "Vença uma partida como Caçador de Recompensas"
+ },
+ "WIN_SOCIOPATH": {
+  "n": "Sociopata",
+  "d": "Vença uma partida como Sociopata"
+ },
+ "WIN_RESENTFUL_CRIMINAL": {
+  "n": "Criminoso Ressentido",
+  "d": "Vença uma partida como Criminoso Ressentido"
+ },
+ "WIN_RIVAL_HACKER": {
+  "n": "Hacker Rival",
+  "d": "Vença uma partida como Hacker Rival"
+ },
+ "WIN_JOURNALIST": {
+  "n": "Jornalista",
+  "d": "Vença uma partida como Jornalista"
+ },
+ "ASAHACKER": {
+  "n": "Como Hacker",
+  "d": "Complete o tutorial NETSEC."
+ },
+ "ASANAGENT": {
+  "n": "Como Agente",
+  "d": "Complete o tutorial AGENTE."
+ },
+ "IDENTITYTHEFT": {
+  "n": "Roubo de Identidade",
+  "d": "Equipe um avatar novo."
+ },
+ "HELLOWORLD": {
+  "n": "Olá, Mundo",
+  "d": "Envie uma mensagem para todos."
+ },
+ "CASTTHEFIRSTSTONE": {
+  "n": "Atire a Primeira Pedra",
+  "d": "Seja o primeiro a votar pela morte de alguém."
+ },
+ "FIRSTWIN": {
+  "n": "Pegando o Jeito",
+  "d": "Vença sua primeira partida multijogador."
+ },
+ "WIN_CORRUPTDETECTIVE": {
+  "n": "Detetive Corrupto",
+  "d": "Vença uma partida como Detetive Corrupto"
+ },
+ "WIN_BLABBERMOUTH": {
+  "n": "Linguarudo em Pânico",
+  "d": "Vença uma partida como Linguarudo em Pânico"
+ },
+ "WIN_LOOSECANNON": {
+  "n": "Descontrolado",
+  "d": "Vença uma partida como Descontrolado"
+ },
+ "WIN_FORENSICSSPECIALIST": {
+  "n": "Especialista Forense",
+  "d": "Vença uma partida como Especialista Forense"
+ },
+ "WIN_DOUBLECROSSER": {
+  "n": "Traidor Duplo",
+  "d": "Vença uma partida como Traidor Duplo"
+ },
+ "STOPHITTINGYOURSELF": {
+  "n": "Pare de Se Bater",
+  "d": "Você seguiu a curiosidade e isso quase deu errado"
+ }
+}

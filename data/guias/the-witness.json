@@ -1,0 +1,15 @@
+{
+  "resumo": "Puzzle de ilha com só 2 conquistas: terminar o jogo e um desafio especial.",
+  "roadmap": [
+    {
+      "titulo": "1. Fim de jogo",
+      "texto": "Ative os lasers e chegue ao topo da montanha."
+    },
+    {
+      "titulo": "2. Desafio",
+      "texto": "O desafio fica num lugar escondido sob a montanha: é uma sequência cronometrada de puzzles aleatórios."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

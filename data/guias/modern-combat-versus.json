@@ -1,0 +1,13 @@
+{
+  "resumo": "Shooter online por equipes. Conquistas de vitórias e agentes.",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Vença partidas com vários agentes; 500 vitórias para General."
+    }
+  ],
+  "avisos": [
+    "Depende dos servidores."
+  ],
+  "conquistas": {}
+}

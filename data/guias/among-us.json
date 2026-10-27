@@ -1,0 +1,21 @@
+{
+  "resumo": "Dedução social online. As conquistas saem jogando como tripulante e impostor nos vários mapas.",
+  "roadmap": [
+    {
+      "titulo": "1. Tripulante",
+      "texto": "Faça tarefas, chame reuniões e vença por tarefas em todos os mapas."
+    },
+    {
+      "titulo": "2. Impostor",
+      "texto": "Vença como impostor, sabote e mate sem ser pego."
+    },
+    {
+      "titulo": "3. Extras",
+      "texto": "Algumas pedem jogar muitas partidas ou usar funções específicas (cientista, engenheiro, etc.)."
+    }
+  ],
+  "avisos": [
+    "Precisa de partidas online."
+  ],
+  "conquistas": {}
+}

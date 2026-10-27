@@ -1,0 +1,17 @@
+{
+  "resumo": "Battle royale de fantasia. Conquistas de vitórias, classes e situações (como sobreviver virando galinha).",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Jogue e vença partidas com várias classes."
+    },
+    {
+      "titulo": "2. Situações",
+      "texto": "Algumas pedem coisas específicas na partida, como forjar itens ou sobreviver como galinha."
+    }
+  ],
+  "avisos": [
+    "Precisa de partidas online."
+  ],
+  "conquistas": {}
+}

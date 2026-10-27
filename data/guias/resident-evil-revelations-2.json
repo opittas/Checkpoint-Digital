@@ -1,0 +1,23 @@
+{
+  "resumo": "Survival horror em episódios, com Modo Raid.",
+  "roadmap": [
+    {
+      "titulo": "1. Episódios",
+      "texto": "Termine os 4 episódios e os extras."
+    },
+    {
+      "titulo": "2. Modos",
+      "texto": "Contagem Regressiva e Invisível em cada episódio."
+    },
+    {
+      "titulo": "3. Medalhas",
+      "texto": "Ganhe todas as medalhas."
+    },
+    {
+      "titulo": "4. Raid",
+      "texto": "Complete missões e desafios no Modo Raid."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

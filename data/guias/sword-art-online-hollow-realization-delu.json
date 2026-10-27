@@ -1,0 +1,19 @@
+{
+  "resumo": "RPG de SAO com lista longa: história, nível, habilidades e relacionamento com as personagens.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine a campanha principal."
+    },
+    {
+      "titulo": "2. Personagens",
+      "texto": "Suba a afinidade com as heroínas e faça os eventos delas."
+    },
+    {
+      "titulo": "3. Coleção e nível",
+      "texto": "Pegue habilidades, armas e suba de nível; deixe as de grind para o fim."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

@@ -1,0 +1,15 @@
+{
+  "resumo": "Plataforma com um copo de cerveja.",
+  "roadmap": [
+    {
+      "titulo": "1. Fases",
+      "texto": "Termine o jogo."
+    },
+    {
+      "titulo": "2. Porta-copos",
+      "texto": "Colete os 72 porta-copos."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

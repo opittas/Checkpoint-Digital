@@ -1,0 +1,114 @@
+{
+ "FirstDeath": {
+  "n": "A Primeira de Muitas",
+  "d": "Morreu pela primeira vez"
+ },
+ "FirstCollectible": {
+  "n": "Conseguiu!",
+  "d": "Encontrou um colecionável"
+ },
+ "BabySteps": {
+  "n": "Primeiros Passos",
+  "d": "Deu seus primeiros passos"
+ },
+ "FinishChapter1": {
+  "n": "Tem um Anel Nisso",
+  "d": "Terminou o Capítulo 1 - Anel"
+ },
+ "FinishPrologue": {
+  "n": "Começo Veloz",
+  "d": "Terminou o Prólogo"
+ },
+ "FinishChapter2": {
+  "n": "Desliza para a Esquerda...",
+  "d": "Terminou o Capítulo 2 - Gelo"
+ },
+ "FinishChapter3": {
+  "n": "Sendo Puxado",
+  "d": "Terminou o Capítulo 3 - Corda"
+ },
+ "FinishChapter4": {
+  "n": "Arremessando ao Sucesso",
+  "d": "Terminou o Capítulo 4 - Arremesso"
+ },
+ "FinishChapter5": {
+  "n": "Reação em Cadeia",
+  "d": "Terminou o Capítulo 5 - Corrente"
+ },
+ "FastPrologue": {
+  "n": "Você Leu as Dicas?",
+  "d": "Faça o tempo rápido em todas as fases do Prólogo"
+ },
+ "FastChapter1": {
+  "n": "Mais Rápido que um Ouriço Azul",
+  "d": "Faça o tempo rápido em todas as fases do Capítulo 1 - Anel"
+ },
+ "FastChapter2": {
+  "n": "Sk8ter Girl",
+  "d": "Faça o tempo rápido em todas as fases do Capítulo 2 - Gelo"
+ },
+ "FastChapter3": {
+  "n": "Faz Tudo que uma Corda Faz",
+  "d": "Faça o tempo rápido em todas as fases do Capítulo 3 - Corda"
+ },
+ "FastChapter4": {
+  "n": "Tempo no Ar",
+  "d": "Faça o tempo rápido em todas as fases do Capítulo 4 - Arremesso"
+ },
+ "FastChapter5": {
+  "n": "O Chão É Lava",
+  "d": "Faça o tempo rápido em todas as fases do Capítulo 5 - Corrente"
+ },
+ "FastAll": {
+  "n": "FrostRunner de Verdade",
+  "d": "Faça o tempo rápido em todas as fases"
+ },
+ "CollectibleTier1": {
+  "n": "Colecionador",
+  "d": "Pegue 10 colecionáveis diferentes"
+ },
+ "CollectibleTier2": {
+  "n": "Acumulador",
+  "d": "Pegue 20 colecionáveis diferentes"
+ },
+ "CollectibleTier3": {
+  "n": "Cleptomaníaco",
+  "d": "Pegue todos os colecionáveis"
+ },
+ "BabyJump": {
+  "n": "Primeiro Pulo",
+  "d": "Pulou pela primeira vez. Sinta orgulho!"
+ },
+ "FirstTether": {
+  "n": "Também a Primeira de Muitas",
+  "d": "Usou a corda pela primeira vez"
+ },
+ "FirstFling": {
+  "n": "Uhuu!",
+  "d": "Usou o arremesso pela primeira vez"
+ },
+ "Achieveception": {
+  "n": "Conquistaception",
+  "d": "Ganhe uma conquista... viu o que fizemos aqui?"
+ },
+ "LaRana": {
+  "n": "La Rana",
+  "d": "Pegue o Sapo"
+ },
+ "CyberBlade": {
+  "n": "Cyberdrome",
+  "d": "Pegue a Espada"
+ },
+ "CircuitSlinger": {
+  "n": "Circuit Slinger",
+  "d": "Pegue a Arma"
+ },
+ "Thanks": {
+  "n": "Obrigado por Jogar!",
+  "d": "Veja os créditos"
+ },
+ "Hidden": {
+  "n": "Escondido à Vista!",
+  "d": "?????"
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "resumo": "Futebol com conquistas de Ultimate Team, Carreira, Clubs e Volta.",
+  "roadmap": [
+    {
+      "titulo": "1. Modo Carreira",
+      "texto": "Jogue temporadas como técnico e jogador."
+    },
+    {
+      "titulo": "2. Ultimate Team",
+      "texto": "Monte times, complete desafios de elenco e jogue Division Rivals."
+    },
+    {
+      "titulo": "3. Partidas",
+      "texto": "Gols, dribles e vitórias específicas saem jogando."
+    }
+  ],
+  "avisos": [
+    "Ultimate Team e Clubs exigem online, que pode ser desligado com o tempo."
+  ],
+  "conquistas": {}
+}

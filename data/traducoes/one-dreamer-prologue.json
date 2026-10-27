@@ -1,0 +1,38 @@
+{
+ "Bad_Doggy": {
+  "n": "Proibido Animais",
+  "d": "Desative um cachorro"
+ },
+ "Honk": {
+  "n": "Homem de Cultura",
+  "d": "Ative este diálogo"
+ },
+ "UwU": {
+  "n": "Faz Isso Parar OwO",
+  "d": "Ache um jeito de parar a máquina de fliperama"
+ },
+ "P/\\DDLE": {
+  "n": "Campeão de P/\\DDLE",
+  "d": "Vença sem trapacear"
+ },
+ "Pathetic": {
+  "n": "Patético",
+  "d": "Seja chamado de patético no jogo"
+ },
+ "Respects": {
+  "n": "Aperte F para Prestar Homenagem",
+  "d": "Desconecte o EP1C_SLAY3R"
+ },
+ "Awake": {
+  "n": "Você Estava Tentando Entrar no Jogo?",
+  "d": "Ative este diálogo"
+ },
+ "Getting_Old": {
+  "n": "Precisa Descansar",
+  "d": "Faça Frank.tired = false"
+ },
+ "Ree": {
+  "n": "REEEE",
+  "d": "Faça uma criança surtar"
+ }
+}

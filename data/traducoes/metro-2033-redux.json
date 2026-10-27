@@ -1,0 +1,198 @@
+{
+ "2033_air_bender": {
+  "n": "Dobrador de Ar",
+  "d": "Mate 50 humanos com armas pneumáticas."
+ },
+ "2033_cowboy": {
+  "n": "Caubói",
+  "d": "Mate 100 inimigos usando revólveres."
+ },
+ "2033_demolitionist": {
+  "n": "Demolidor",
+  "d": "Exploda o túnel e a câmara de vácuo na ESTAÇÃO AMALDIÇOADA."
+ },
+ "2033_dj_artyom": {
+  "n": "DJ Artyom",
+  "d": "Na fase POSTO AVANÇADO, chegue à torre de rádio e transmita a mensagem do comandante."
+ },
+ "2033_enlightened": {
+  "n": "Iluminado",
+  "d": "Descubra a verdade."
+ },
+ "2033_fireinthehole": {
+  "n": "Fogo no Buraco",
+  "d": "Mate 20 espreitadores."
+ },
+ "2033_flame_grenade": {
+  "n": "Fogo!",
+  "d": "Mate 30 inimigos com granadas incendiárias."
+ },
+ "2033_generous": {
+  "n": "Generoso",
+  "d": "Ajude os pobres: uma moeda para a criança, remédio para o doente. Você ajuda todo mundo que vê."
+ },
+ "2033_gunman": {
+  "n": "Pistoleiro",
+  "d": "Mate 100 inimigos com escopetas."
+ },
+ "2033_heavy_reader": {
+  "n": "Leitor Ávido",
+  "d": "Mate um bibliotecário."
+ },
+ "2033_hedge_hopper": {
+  "n": "Voo Rasante",
+  "d": "Na fase LINHA DE FRENTE, mate todos os soldados inimigos do Exército Vermelho e fascistas."
+ },
+ "2033_hunter": {
+  "n": "Caçador",
+  "d": "Mate 200 mutantes."
+ },
+ "2033_inquisitor": {
+  "n": "Inquisidor",
+  "d": "Mate 2 demônios."
+ },
+ "2033_invisible_man": {
+  "n": "Homem Invisível",
+  "d": "Complete a fase LINHA DE FRENTE sem matar ninguém."
+ },
+ "2033_ka_boom": {
+  "n": "Ka-Bum!",
+  "d": "Exploda 30 inimigos."
+ },
+ "2033_manhattan_project": {
+  "n": "Projeto Manhattan",
+  "d": "Passe 60 segundos num foco de radiação."
+ },
+ "2033_mashine_gun": {
+  "n": "Dedo Nervoso",
+  "d": "Mate 100 inimigos com fuzis de assalto."
+ },
+ "2033_max_33": {
+  "n": "Saúde!",
+  "d": "Beba em todas as ocasiões."
+ },
+ "2033_merciful": {
+  "n": "Misericordioso",
+  "d": "Complete a fase ESTAÇÃO NEGRA sem matar ou nocautear nenhum inimigo."
+ },
+ "2033_metro_trader": {
+  "n": "Comerciante do Metrô",
+  "d": "Faça 30 negócios nas lojas de armas."
+ },
+ "2033_snake": {
+  "n": "Cobra",
+  "d": "Mate 15 inimigos furtivamente."
+ },
+ "2033_ninja_33": {
+  "n": "Ninja",
+  "d": "Mate 30 inimigos com facas de arremesso."
+ },
+ "2033_nosalis_hunter": {
+  "n": "Caçador de Nosalis",
+  "d": "Mate 100 nosalis."
+ },
+ "2033_pathoanatomist": {
+  "n": "Patologista",
+  "d": "Mate 5 amebas."
+ },
+ "2033_published_33": {
+  "n": "Blogueiro",
+  "d": "Encontre todas as 51 páginas escondidas do diário do Artyom."
+ },
+ "2033_pyro": {
+  "n": "Piromaníaco",
+  "d": "Mate 30 inimigos com lança-chamas."
+ },
+ "2033_quick_draw": {
+  "n": "Saque Rápido",
+  "d": "Na fase CAÇADOR, mate os nosalis antes que atravessem as grades de ventilação."
+ },
+ "2033_raider": {
+  "n": "Invasor",
+  "d": "Na fase DEPÓSITO, mate o primeiro guarda em silêncio e invada a estação fascista sem ser notado."
+ },
+ "2033_ranger": {
+  "n": "Ranger",
+  "d": "Encontre todos os esconderijos dos Rangers na Cidade Morta."
+ },
+ "2033_rescue_ranger": {
+  "n": "Resgate Ranger",
+  "d": "Salve um grupo de Vermelhos do cativeiro fascista."
+ },
+ "2033_safecracker_33": {
+  "n": "Ladrão",
+  "d": "Abra 15 cofres trancados."
+ },
+ "2033_scrooge": {
+  "n": "Pão-Duro",
+  "d": "Junte 1000 balas de grau militar."
+ },
+ "2033_shocking": {
+  "n": "Chocante",
+  "d": "Faça 30 mortes com o Hellbreath."
+ },
+ "2033_slice_dice": {
+  "n": "Fatiar e Picar",
+  "d": "Mate 30 humanos em combate corpo a corpo."
+ },
+ "2033_sniper_33": {
+  "n": "Atirador de Elite",
+  "d": "Mate 30 humanos com tiros na cabeça."
+ },
+ "2033_marksman": {
+  "n": "Atirador",
+  "d": "Mate 15 humanos com tiros na cabeça a pelo menos 30 metros."
+ },
+ "2033_soft_touch": {
+  "n": "Toque Suave",
+  "d": "Desarme 15 armadilhas de arame."
+ },
+ "2033_spartan": {
+  "n": "Spartan 2033",
+  "d": "Termine o jogo no Modo Spartan."
+ },
+ "2033_spider_hunter": {
+  "n": "Caçador de Aranhas",
+  "d": "Mate 10 aranhas."
+ },
+ "2033_stun_melee": {
+  "n": "Atordoante",
+  "d": "Nocauteie 30 humanos em combate corpo a corpo."
+ },
+ "2033_survival": {
+  "n": "Sobrevivente 2033",
+  "d": "Termine o jogo no Modo Sobrevivência."
+ },
+ "2033_tank": {
+  "n": "Tanque",
+  "d": "Mate 10 inimigos seguidos sem sofrer dano."
+ },
+ "2033_tonic_man": {
+  "n": "Viciado em Tônico",
+  "d": "Use um kit médico 75 vezes."
+ },
+ "2033_true_ranger": {
+  "n": "Se É Hostil, Mate.",
+  "d": "Torne-se um verdadeiro ranger."
+ },
+ "2033_warior": {
+  "n": "Guerreiro",
+  "d": "Mate 100 humanos."
+ },
+ "2033_watchman_hunter": {
+  "n": "Caçador de Vigias",
+  "d": "Mate 50 vigias."
+ },
+ "2033_weaponsmith": {
+  "n": "Armeiro",
+  "d": "Mate pelo menos um inimigo com cada arma do jogo"
+ },
+ "2033_wheeler_dealer": {
+  "n": "Negociante",
+  "d": "Troque 500 balas militares 5.45 nos quiosques de troca."
+ },
+ "2033_who_goes_there": {
+  "n": "Quem Está Aí?",
+  "d": "Limpe a máscara de gás 20 vezes."
+ }
+}

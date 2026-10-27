@@ -1,0 +1,25 @@
+{
+  "resumo": "MMO de voxels. Conquistas de masmorras da Torre Sombria, forja de gemas, Geodo e Bomber Royale.",
+  "roadmap": [
+    {
+      "titulo": "1. Gemas",
+      "texto": "Melhore Gemas Estelares na forja até o máximo."
+    },
+    {
+      "titulo": "2. Geodo",
+      "texto": "Suba a Maestria de Geodo e o módulo GAS."
+    },
+    {
+      "titulo": "3. Torre Sombria",
+      "texto": "Derrote os chefes nas dificuldades Normal, Difícil e Ultra."
+    },
+    {
+      "titulo": "4. Extras",
+      "texto": "Jogue Bomber Royale e cuide do jardim (regar, colher e compostar)."
+    }
+  ],
+  "avisos": [
+    "Algumas dependem de jogar em grupo."
+  ],
+  "conquistas": {}
+}

@@ -1,0 +1,138 @@
+{
+ "ON_THE_FIRST_DAY": {
+  "n": "No Primeiro Dia Montei um Exército",
+  "d": "Recrute 8 arqueiros no primeiro dia."
+ },
+ "ON_THE_SECOND_DAY": {
+  "n": "No Segundo Dia Ganhei um Presente",
+  "d": "Ganhe muros de graça no segundo dia."
+ },
+ "ON_THE_THIRD_DAY": {
+  "n": "No Terceiro Dia Acendi uma Fogueira",
+  "d": "Não comece seu acampamento antes do dia 3."
+ },
+ "ON_THE_FOURTH_DAY": {
+  "n": "No Quarto Dia Fizemos um Banquete",
+  "d": "Cace 20 cervos antes do fim do dia quatro."
+ },
+ "FOR_FIVE_DAYS": {
+  "n": "Por Cinco Dias Ofereci a Outra Face",
+  "d": "Não mate nada até o dia seis."
+ },
+ "BY_DAY_SIXTH": {
+  "n": "No Sexto Dia Eu Estava Rico",
+  "d": "Tenha mais ouro do que consegue carregar até o dia seis."
+ },
+ "ON_THE_EIGTH_DAY": {
+  "n": "No Oitavo Dia Me Atrapalhei",
+  "d": "Um governante ágil nunca deixa seu dinheiro tocar o chão."
+ },
+ "ON_THE_NINTH_DAY": {
+  "n": "No Nono Dia Corri pela Primeira Vez",
+  "d": "Não deixe sua montaria correr antes deste dia."
+ },
+ "THE_TENTH_DAY": {
+  "n": "No Décimo Dia Revidamos",
+  "d": "Destrua até este dia o lugar de onde eles vieram!"
+ },
+ "SURVIVED_UNTIL_DAY_5": {
+  "n": "Dia V",
+  "d": "Sobreviva além do dia 5."
+ },
+ "SURVIVED_UNTIL_DAY_10": {
+  "n": "Dia X",
+  "d": "Sobreviva além do dia 10"
+ },
+ "SURVIVED_UNTIL_DAY_15": {
+  "n": "Dia XV",
+  "d": "Sobreviva além do dia 15"
+ },
+ "SURVIVED_UNTIL_DAY_20": {
+  "n": "Dia XX",
+  "d": "Sobreviva além do dia 20"
+ },
+ "SURVIVED_UNTIL_DAY_25": {
+  "n": "Dia XXV",
+  "d": "Sobreviva além do dia 25"
+ },
+ "SURVIVED_UNTIL_DAY_30": {
+  "n": "Dia XXX",
+  "d": "Sobreviva além do dia 30"
+ },
+ "SURVIVED_UNTIL_DAY_35": {
+  "n": "Dia XXXV",
+  "d": "Sobreviva além do dia 35"
+ },
+ "SURVIVED_UNTIL_DAY_40": {
+  "n": "Dia XL",
+  "d": "Sobreviva além do dia 40"
+ },
+ "SURVIVED_UNTIL_DAY_45": {
+  "n": "Dia XLV",
+  "d": "Sobreviva além do dia 45"
+ },
+ "SURVIVED_UNTIL_DAY_50": {
+  "n": "Dia L",
+  "d": "Sobreviva além do dia 50"
+ },
+ "SURVIVED_UNTIL_DAY_55": {
+  "n": "Dia LV",
+  "d": "Sobreviva além do dia 55"
+ },
+ "SURVIVED_UNTIL_DAY_60": {
+  "n": "Dia LX",
+  "d": "Sobreviva além do dia 60"
+ },
+ "SURVIVED_UNTIL_DAY_65": {
+  "n": "Dia LXV",
+  "d": "Sobreviva além do dia 65"
+ },
+ "SURVIVED_UNTIL_DAY_70": {
+  "n": "Dia LXX",
+  "d": "Sobreviva além do dia 70"
+ },
+ "SURVIVED_UNTIL_DAY_75": {
+  "n": "Dia LXXV",
+  "d": "Sobreviva além do dia 75"
+ },
+ "SURVIVED_UNTIL_DAY_80": {
+  "n": "Dia LXXX",
+  "d": "Sobreviva além do dia 80"
+ },
+ "SURVIVED_UNTIL_DAY_85": {
+  "n": "Dia LXXXV",
+  "d": "Sobreviva além do dia 85"
+ },
+ "SURVIVED_UNTIL_DAY_90": {
+  "n": "Dia XC",
+  "d": "Sobreviva além do dia 90"
+ },
+ "SURVIVED_UNTIL_DAY_95": {
+  "n": "Dia XCV",
+  "d": "Sobreviva além do dia 95"
+ },
+ "SURVIVED_UNTIL_DAY_100": {
+  "n": "Dia C",
+  "d": "Sobreviva além do dia 100"
+ },
+ "BY_THE_SEVENTH_DAY": {
+  "n": "No Sétimo Dia Limpei um Acre",
+  "d": "Limpe um acre de terra antes do fim do dia sete."
+ },
+ "SAFE_IN_25": {
+  "n": "Seguro em 25",
+  "d": "Garanta a coroa deixando seu reino a salvo."
+ },
+ "SAFE_IN_30": {
+  "n": "Seguro em 30",
+  "d": "Garanta a coroa deixando seu reino a salvo."
+ },
+ "SAFE_IN_35": {
+  "n": "Seguro em 35",
+  "d": "Garanta a coroa deixando seu reino a salvo."
+ },
+ "SAFE_IN_40": {
+  "n": "Seguro em 40",
+  "d": "Garanta a coroa deixando seu reino a salvo."
+ }
+}

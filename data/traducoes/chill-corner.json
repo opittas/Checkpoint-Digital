@@ -1,0 +1,138 @@
+{
+ "ONE_HOUR": {
+  "n": "Uma Hora",
+  "d": "Relaxando por uma hora"
+ },
+ "FIVE_MINUTE": {
+  "n": "Cinco Minutos",
+  "d": "Relaxando por 5 minutos"
+ },
+ "THIRTY_MINUTE": {
+  "n": "Trinta Minutos",
+  "d": "Relaxando por 30 minutos"
+ },
+ "DECORATOR": {
+  "n": "Decorador",
+  "d": "Desbloqueie uma decoração"
+ },
+ "PET": {
+  "n": "Pet",
+  "d": "Escolha um pet"
+ },
+ "WEATHER": {
+  "n": "Clima",
+  "d": "Escolha um clima"
+ },
+ "RAINY_DAY": {
+  "n": "Dia de Chuva",
+  "d": "Escolha o clima chuvoso"
+ },
+ "SNOWVY_DAY": {
+  "n": "Dia de Neve",
+  "d": "Escolha o clima com neve"
+ },
+ "SUNNY_DAY": {
+  "n": "Dia de Sol",
+  "d": "Escolha o clima ensolarado"
+ },
+ "TASK": {
+  "n": "Tarefa",
+  "d": "Crie uma tarefa"
+ },
+ "FEEDING": {
+  "n": "Alimentando",
+  "d": "Alimente um pet"
+ },
+ "FAV_TRACK": {
+  "n": "Faixa Favorita",
+  "d": "Coloque sua faixa favorita para repetir"
+ },
+ "GREEN_ROOM": {
+  "n": "Sala Verde",
+  "d": "Coloque uma árvore ou vaso de planta"
+ },
+ "CHRISTMAS": {
+  "n": "Natal",
+  "d": "Coloque uma árvore de Natal"
+ },
+ "NEW_ROOM": {
+  "n": "Sala Nova",
+  "d": "Mude para outra sala"
+ },
+ "MY_OWN_ROOM": {
+  "n": "Minha Própria Sala",
+  "d": "Decore sua sala personalizada"
+ },
+ "SHUFFLE": {
+  "n": "Aleatório",
+  "d": "Toque um álbum no modo aleatório"
+ },
+ "MY_ALBUM": {
+  "n": "Meu Álbum",
+  "d": "Crie seu álbum personalizado"
+ },
+ "SKIPPING": {
+  "n": "Pulando",
+  "d": "Passe para a faixa seguinte ou anterior"
+ },
+ "BREAKING_TIME": {
+  "n": "Hora da Pausa",
+  "d": "Pause sua atividade"
+ },
+ "DECORATING": {
+  "n": "Decorando",
+  "d": "Coloque uma decoração"
+ },
+ "PERFECT_COLLECTOR": {
+  "n": "Colecionador Perfeito",
+  "d": "Desbloqueie todas as decorações"
+ },
+ "THERE_HOUR": {
+  "n": "Três Horas",
+  "d": "Estude ou trabalhe por 3 horas"
+ },
+ "HARD_WORKING": {
+  "n": "Trabalhador",
+  "d": "Passe mais de 24 horas no Chill Corner"
+ },
+ "CHARACTER": {
+  "n": "Personagem",
+  "d": "Escolha um personagem"
+ },
+ "STICKER_COLLECTOR": {
+  "n": "Colecionador de Adesivos",
+  "d": "Desbloqueie todos os adesivos"
+ },
+ "SMALL_GIFT": {
+  "n": "Presentinho",
+  "d": "Responda um e-mail com um adesivo"
+ },
+ "DESPRESSION": {
+  "n": "Desabafo",
+  "d": "Envie um e-mail"
+ },
+ "PETTING": {
+  "n": "Carinho",
+  "d": "Faça carinho no seu pet"
+ },
+ "READER": {
+  "n": "Leitor",
+  "d": "Leia algumas cartas"
+ },
+ "BEETLE_HOBBYIST": {
+  "n": "Hobby de Besouros",
+  "d": "Decore a sala com pelo menos um terrário de besouros"
+ },
+ "FISH_HOBBYIST": {
+  "n": "Hobby de Peixes",
+  "d": "Decore a sala com pelo menos um aquário"
+ },
+ "FISH_COLLECTOR": {
+  "n": "Colecionador de Peixes",
+  "d": "Desbloqueie 60 peixes"
+ },
+ "BEETLE_COLLECTOR": {
+  "n": "Colecionador de Besouros",
+  "d": "Desbloqueie 8 besouros"
+ }
+}

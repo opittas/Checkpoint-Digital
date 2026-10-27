@@ -1,0 +1,17 @@
+{
+  "resumo": "MOBA de deuses. As conquistas saem jogando partidas e usando deuses diferentes.",
+  "roadmap": [
+    {
+      "titulo": "1. Partidas",
+      "texto": "Jogue Arena, Conquista e outros modos."
+    },
+    {
+      "titulo": "2. Deuses",
+      "texto": "Use vários deuses e faça feitos específicos nas partidas."
+    }
+  ],
+  "avisos": [
+    "Precisa de online."
+  ],
+  "conquistas": {}
+}

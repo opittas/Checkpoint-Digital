@@ -1,0 +1,134 @@
+{
+ "ACHIEVEMENT_5_CHOOKS": {
+  "n": "MEIA DÚZIA! (menos uma...)",
+  "d": "Tenha 5 galinhas"
+ },
+ "ACHIEVEMENT_100_CHOOKS": {
+  "n": "Isso É Tipo um Milhão?",
+  "d": "Tenha 100 galinhas"
+ },
+ "ACHIEVEMENT_1_RARE_CHOOK": {
+  "n": "Investidora Esperta",
+  "d": "Tenha 1 galinha rara"
+ },
+ "ACHIEVEMENT_1_GOLDEN_CHOOK": {
+  "n": "Investidora Superesperta",
+  "d": "Tenha 1 galinha dourada"
+ },
+ "ACHIEVEMENT_20_GOLDEN_CHOOKS": {
+  "n": "OVOSTRAVAGÂNCIA!",
+  "d": "Tenha 20 galinhas douradas"
+ },
+ "ACHIEVEMENT_100_HAPPINESS": {
+  "n": "GALINHOTOPIA",
+  "d": "Tenha 100 de felicidade"
+ },
+ "ACHIEVEMENT_100000_EGGS": {
+  "n": "Manipulador de Ovos",
+  "d": "Venda 100.000 ovos"
+ },
+ "ACHIEVEMENT_LEVEL_1": {
+  "n": "Domador de Galinhas",
+  "d": "Chegue ao nível 2 da fazenda"
+ },
+ "ACHIEVEMENT_LEVEL_2": {
+  "n": "Encantador de Galinhas",
+  "d": "Chegue ao nível 3 da fazenda"
+ },
+ "ACHIEVEMENT_LEVEL_3": {
+  "n": "Prefeito das Galinhas",
+  "d": "Chegue ao nível 4 da fazenda"
+ },
+ "ACHIEVEMENT_100_MAX_LEVEL": {
+  "n": "Ouvi Dizer que Você É Formado em Engenharia Galinácea?",
+  "d": "Melhore 100 construções ao nível máximo"
+ },
+ "ACHIEVEMENT_1000_RESOURCES": {
+  "n": "Pós-Escassez!",
+  "d": "Tenha 1000 recursos sobrando"
+ },
+ "ACHIEVEMENT_POOL_FOUNTAIN_WATERFALL": {
+  "n": "Não Existe Festa como Galinhas numa Festa na Piscina. Porque É Absurdo, Como Elas Organizariam Isso?",
+  "d": "Construa 1 piscina, 1 fonte e 1 cachoeira"
+ },
+ "ACHIEVEMENT_ONE_LEGENDARY_BUILDING": {
+  "n": "Único",
+  "d": "Desbloqueie uma construção lendária"
+ },
+ "ACHIEVEMENT_ALL_LEGENDARY_BUILDINGS": {
+  "n": "Ovoengenharia Épica",
+  "d": "Tenha construções lendárias de todas as estações"
+ },
+ "ACHIEVEMENT_OWN_ALL_SEASONAL_BUILDINGS": {
+  "n": "Todas as Suas Bases São das Galinhas",
+  "d": "Tenha todos os itens sazonais"
+ },
+ "ACHIEVEMENT_SPRING_CHICKENS": {
+  "n": "Galinhas de Primavera",
+  "d": "Desbloqueie todas as galinhas de primavera"
+ },
+ "ACHIEVEMENT_SUMMER_CLUCKIN": {
+  "n": "Cacarejo de Verão",
+  "d": "Desbloqueie todas as galinhas de verão"
+ },
+ "ACHIEVEMENT_AUTUMNAL_EGGUINOX": {
+  "n": "Ovoquinócio de Outono",
+  "d": "Desbloqueie todas as galinhas de outono"
+ },
+ "ACHIEVEMENT_FROZEN_YOLKS": {
+  "n": "Gemas Congeladas",
+  "d": "Desbloqueie todas as galinhas de inverno"
+ },
+ "ACHIEVEMENT_UNLOCK_ALL_SEASONAL_CHOOKS": {
+  "n": "Um Ovo para Cada Estação",
+  "d": "Desbloqueie todas as galinhas sazonais"
+ },
+ "ACHIEVEMENT_UNLOCK_ALL_CHOOKS": {
+  "n": "Temos que Chocar Todas!",
+  "d": "Descubra todos os tipos de galinha"
+ },
+ "ACHIEVEMENT_UNLOCK_ONE_LEGENDARY": {
+  "n": "A Lenda Começa",
+  "d": "Desbloqueie uma galinha lendária"
+ },
+ "ACHIEVEMENT_CHOOK_LEGENDS": {
+  "n": "LENDAS GALINÁCEAS",
+  "d": "Desbloqueie todas as galinhas lendárias"
+ },
+ "ACHIEVEMENT_SELL_EGGS_TO_EGG_TRUCK": {
+  "n": "Continue Cacarejando",
+  "d": "150.000 vendidos para o Caminhão de Ovos"
+ },
+ "ACHIEVEMENT_WASTE_OF_DISK_SPACE": {
+  "n": "Desperdício de Espaço em Disco",
+  "d": "Comece um jogo novo no modo Aventura."
+ },
+ "ACHIEVEMENT_SOUNDS_LIKE_A_LIE_BUT_WHATEVER": {
+  "n": "Parece Mentira, Mas Tudo Bem",
+  "d": "Chegue ao nível 2 da fazenda em menos de 15 minutos."
+ },
+ "ACHIEVEMENT_GO_FOR_GOLD": {
+  "n": "Vá Atrás do Ouro",
+  "d": "Consiga uma galinha dourada em cinco minutos."
+ },
+ "ACHIEVEMENT_INCREDIBLY_RARE": {
+  "n": "Raríssimo",
+  "d": "Choque uma galinha rara em menos de 5 minutos."
+ },
+ "ACHIEVEMENT_DON'T_GAMBLE_WITH_EM": {
+  "n": "Não Aposte com Eles",
+  "d": "Espante cem fantasmas."
+ },
+ "ACHIEVEMENT_WEED_WHACKER": {
+  "n": "Capinador",
+  "d": "Arranque cem ervas daninhas."
+ },
+ "ACHIEVEMENT_SPELL_CASTING_CHEATER": {
+  "n": "TRAPACEIRO DOS FEITIÇOS",
+  "d": "Desbloqueie a viagem no tempo na primavera do ano 1."
+ },
+ "ACHIEVEMENT_A_CHOOK_HISTROY_OF_TIME": {
+  "n": "Uma Breve História do Tempo das Galinhas",
+  "d": "Viaje no tempo!"
+ }
+}

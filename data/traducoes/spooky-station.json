@@ -1,0 +1,82 @@
+{
+ "sarahend": {
+  "n": "Wishing Sarah - Final",
+  "d": "Termine Wishing Sarah"
+ },
+ "SC_50_POINTS": {
+  "n": "Spooky Cooking - 50 pontos",
+  "d": "Faça 50 pontos numa rodada"
+ },
+ "SC_100_POINTS": {
+  "n": "Spooky Cooking - 100 pontos",
+  "d": "Faça 100 pontos numa rodada"
+ },
+ "SC_200_POINTS": {
+  "n": "Spooky Cooking - 200 pontos",
+  "d": "Faça 200 pontos numa rodada"
+ },
+ "SC_500_POINTS": {
+  "n": "Spooky Cooking - Mestre do Caldeirão",
+  "d": "Faça 500 pontos numa rodada"
+ },
+ "SC_10_STARS": {
+  "n": "Spooky Cooking - 10 estrelas",
+  "d": "Ganhe 10 estrelas somando todas as rodadas"
+ },
+ "SC_10_LIGHTINGS": {
+  "n": "Spooky Cooking - 10 raios",
+  "d": "Ganhe 10 raios somando todas as rodadas"
+ },
+ "SC_20_FIRES": {
+  "n": "Spooky Cooking - 20 fogos",
+  "d": "Apague 20 fogos com o poder da estrela somando todas as rodadas"
+ },
+ "SC_40_FIRES": {
+  "n": "Spooky Cooking - 40 fogos",
+  "d": "Apague 40 fogos com o poder da estrela somando todas as rodadas"
+ },
+ "SC_100_ENEMIES": {
+  "n": "Spooky Cooking - 100 inimigos",
+  "d": "Mate 100 inimigos com o poder da estrela somando todas as rodadas"
+ },
+ "SC_200_ENEMIES": {
+  "n": "Spooky Cooking - 200 inimigos",
+  "d": "Mate 200 inimigos com o poder da estrela somando todas as rodadas"
+ },
+ "TGIF": {
+  "n": "Sextou",
+  "d": "Você foi trabalhar"
+ },
+ "SWIMMING_WITH_THE_FISHES": {
+  "n": "Nadando com os Peixes",
+  "d": "Você alimentou seu peixe"
+ },
+ "OH_HI_DOGGY": {
+  "n": "Oi, Cachorrinho!",
+  "d": "Você fez carinho no seu cachorro"
+ },
+ "NECRO_ROMANCER": {
+  "n": "Necro-Romântico",
+  "d": "Você beijou sua esposa"
+ },
+ "DISHES_UNECESSARY": {
+  "n": "Louça Desnecessária",
+  "d": "Você lavou a louça"
+ },
+ "THIS_IS_STUPID": {
+  "n": "Que Idiotice",
+  "d": "Você encontrou seu amigo"
+ },
+ "T100_PERSISTENCE": {
+  "n": "Persistência",
+  "d": "Morreu 10 vezes mas continuou tentando."
+ },
+ "T100_MASTER_CAT": {
+  "n": "Gato Mestre",
+  "d": "Purificou a torre inteira."
+ },
+ "T100_NO_SHOVEL": {
+  "n": "Nem Precisa de Pá",
+  "d": "Encontrou um item escondido no chão."
+ }
+}

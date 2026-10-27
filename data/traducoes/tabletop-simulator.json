@@ -1,0 +1,106 @@
+{
+ "ACH_CHANGE_COLOR_50_TIMES": {
+  "n": "Indeciso",
+  "d": "Mude de cor mais de 50 vezes."
+ },
+ "ACH_FLIP_TABLE_1000_TIMES": {
+  "n": "Fúria Suprema",
+  "d": "Vire a mesa mais de 1000 vezes."
+ },
+ "ACH_FLIP_TABLE_FAILED": {
+  "n": "Fraco Demais",
+  "d": "Você tentou virar a mesa… e falhou!"
+ },
+ "ACH_PLAY_CHESS_1_HOUR": {
+  "n": "Um Chazinho?",
+  "d": "Jogue uma partida civilizada de xadrez por 1 hora."
+ },
+ "ACH_COMPLETE_TUTORIAL_UNDER_30_SECONDS": {
+  "n": "Máquina de Velocidade",
+  "d": "Complete o tutorial em menos de 30 segundos."
+ },
+ "ACH_FLIP_TABLE_100_TIMES": {
+  "n": "Rage Quit",
+  "d": "Vire a mesa num ataque de fúria… 100 vezes."
+ },
+ "ACH_SPAWN_10,000_CHIPS": {
+  "n": "Dinheiro, Dinheiro, Dinheiro",
+  "d": "Crie 10.000 fichas de pôquer!"
+ },
+ "ACH_RPG_FIGURINES_ATTACK": {
+  "n": "Ataque das Miniaturas!",
+  "d": "Faça duas miniaturas de RPG se atacarem. Elas precisam acertar!"
+ },
+ "ACH_FULL_GAME_OF_8_PLAYERS": {
+  "n": "Conjunto Completo",
+  "d": "Jogue uma partida com a sala cheia de 8 jogadores."
+ },
+ "ACH_PLAY_GAME_ZERO_GRAVITY": {
+  "n": "Diversão no Espaço-Tempo",
+  "d": "Jogue uma partida em gravidade zero."
+ },
+ "ACH_PLAY_GAME_1_HOUR_NO_FLIP": {
+  "n": "Autocontrole",
+  "d": "Jogue por 1 hora sem virar a mesa."
+ },
+ "ACH_USE_PRIVATE_NOTEPAD": {
+  "n": "Confidencial",
+  "d": "Use sua página de cor pessoal no caderno."
+ },
+ "ACH_SAVE_100_ITEMS_TO_CHEST": {
+  "n": "Baú do Tesouro",
+  "d": "Salve 100 itens no seu Baú."
+ },
+ "ACH_LASER_LIGHT_SHOW_8_PLAYER": {
+  "n": "Show de Luzes",
+  "d": "Crie um \"show de luzes\" com 8 jogadores usando a ferramenta de linhas."
+ },
+ "ACH_LOCK_5000_ITEMS": {
+  "n": "Não Toque!",
+  "d": "Trave 5000 itens ao longo do tempo."
+ },
+ "ACH_TINT_1000_OBJECTS": {
+  "n": "Me Pinta Bonito",
+  "d": "Pinte 1000 objetos de outra cor."
+ },
+ "ACH_HIDDEN_KNIL_KIMI": {
+  "n": "Surpresa!",
+  "d": "Você criou as miniaturas especiais dos desenvolvedores!"
+ },
+ "ACH_PLAY_WITH_STEAM_FRIEND": {
+  "n": "Siga o Líder",
+  "d": "Jogue uma partida com alguém da sua lista de amigos"
+ },
+ "ACH_UPLOAD_3_WORKSHOP_ITEMS": {
+  "n": "Compartilhar É Cuidar",
+  "d": "Envie pelo menos 3 itens válidos para a Oficina Steam."
+ },
+ "ACH_COMPLETE_TUTORIAL": {
+  "n": "Fez Mesmo?",
+  "d": "Complete o tutorial do jogo."
+ },
+ "ACH_PLAY_10_HOURS": {
+  "n": "Bons Tempos",
+  "d": "Jogue Tabletop Simulator por mais de 10 horas."
+ },
+ "ACH_PLAY_50_HOURS": {
+  "n": "Fiel",
+  "d": "Jogue Tabletop Simulator por mais de 50 horas."
+ },
+ "ACH_PLAY_100_HOURS": {
+  "n": "Devoto",
+  "d": "Jogue Tabletop Simulator por mais de 100 horas."
+ },
+ "ACH_PLAY_200_HOURS": {
+  "n": "Dedicação",
+  "d": "Jogue Tabletop Simulator por mais de 200 horas."
+ },
+ "ACH_PLAY_500_HOURS": {
+  "n": "Viciado",
+  "d": "Jogue Tabletop Simulator por mais de 500 horas."
+ },
+ "ACH_PLAY_1000_HOURS": {
+  "n": "Campeão de Verdade",
+  "d": "Jogue Tabletop Simulator por mais de 1000 horas."
+ }
+}

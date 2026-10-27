@@ -1,0 +1,21 @@
+{
+  "resumo": "Battle royale de fases malucas. As conquistas vêm de coroas, rodadas específicas e cosméticos.",
+  "roadmap": [
+    {
+      "titulo": "1. Ganhar coroas",
+      "texto": "Vença episódios até a final. Jogar em grupo ajuda nas fases em equipe."
+    },
+    {
+      "titulo": "2. Fases específicas",
+      "texto": "Várias conquistas pedem passar ou vencer rodadas específicas."
+    },
+    {
+      "titulo": "3. Cosméticos",
+      "texto": "Desbloqueie itens na loja e no passe para as de coleção."
+    }
+  ],
+  "avisos": [
+    "Precisa de partidas online."
+  ],
+  "conquistas": {}
+}

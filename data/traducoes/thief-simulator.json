@@ -1,0 +1,134 @@
+{
+ "ACHALARMS": {
+  "n": "Hackerman",
+  "d": "Desative 10 painéis de controle"
+ },
+ "ACHALLCARS": {
+  "n": "Louco por Carros",
+  "d": "Roube 5 carros"
+ },
+ "ACHART1": {
+  "n": "Conhecedor de Arte",
+  "d": "Roube 10 quadros"
+ },
+ "ACHBRICK": {
+  "n": "Belo Arremesso",
+  "d": "Quebre uma janela com um tijolo"
+ },
+ "ACHCAR1": {
+  "n": "Fã de Carros 1",
+  "d": "Roube o Bolthorn 86 Classic"
+ },
+ "ACHCAR2": {
+  "n": "Fã de Carros 2",
+  "d": "Roube o Aisan Cougar"
+ },
+ "ACHCAR3": {
+  "n": "Fã de Carros 3",
+  "d": "Roube o Bolthorn Family MkV"
+ },
+ "ACHCAR4": {
+  "n": "Fã de Carros 4",
+  "d": "Roube o Vulcan Spectre"
+ },
+ "ACHCAR5": {
+  "n": "Fã de Carros 5",
+  "d": "Roube o Kubra GTS"
+ },
+ "ACHCASH1": {
+  "n": "Redistribuição de Renda 1",
+  "d": "Roube itens no valor de 5000"
+ },
+ "ACHCASH2": {
+  "n": "Redistribuição de Renda 2",
+  "d": "Roube itens no valor de 20000"
+ },
+ "ACHCASH3": {
+  "n": "Redistribuição de Renda 3",
+  "d": "Roube itens no valor de 50000"
+ },
+ "ACHCASH4": {
+  "n": "Redistribuição de Renda 4",
+  "d": "Roube itens no valor de 100000"
+ },
+ "ACHCONSOLES": {
+  "n": "Gamer de Console",
+  "d": "Roube 5 consoles"
+ },
+ "ACHDISHES": {
+  "n": "Quem Precisa de Pratos",
+  "d": "Quebre 10 pratos"
+ },
+ "ACHFREEMAN": {
+  "n": "Livre de Dívidas",
+  "d": "Seja demitido"
+ },
+ "ACHSNEAK": {
+  "n": "Sorrateiro",
+  "d": "Termine 10 roubos com rank S sem ser visto"
+ },
+ "ACHTOILETS": {
+  "n": "Especialista em Encanamento",
+  "d": "Quebre 10 vasos sanitários"
+ },
+ "ACHTV": {
+  "n": "Televisão Demais Faz Mal",
+  "d": "Roube 5 TVs"
+ },
+ "ACHWINDOWS": {
+  "n": "Ar Fresco",
+  "d": "Quebre 10 janelas"
+ },
+ "ACHTOAST": {
+  "n": "Torradeiras Torram Torradas",
+  "d": "Roube 10 torradeiras"
+ },
+ "ACHEGG": {
+  "n": "Caça aos Ovos",
+  "d": "Encontre 5 réplicas de Ovo Fabergé na casa do Richie R."
+ },
+ "ACHXMAS": {
+  "n": "Papai Noel ao Contrário",
+  "d": "Venda todos os presentes no BlackBay"
+ },
+ "ACHCLOAK": {
+  "n": "Um o Quê?",
+  "d": "Compre um dispositivo de camuflagem no NG+"
+ },
+ "ACHEQUIPMENT": {
+  "n": "Bem Equipado",
+  "d": "Roube 5 caixas amarelas de obra"
+ },
+ "ACHCARFORKLIFT": {
+  "n": "Empilhando o Trabalho",
+  "d": "Roube a empilhadeira"
+ },
+ "ACHCARSKIDLOADER": {
+  "n": "Marca de Pneu",
+  "d": "Roube a minicarregadeira"
+ },
+ "ACHHALLOWEENCANDY": {
+  "n": "Como Doce de Criança",
+  "d": "Roube e venda 8 sacos de doces no BlackBay"
+ },
+ "ACHHALLOWEENDOLLS": {
+  "n": "Sinistro",
+  "d": "Roube e venda 4 bonecas sinistras no BlackBay"
+ },
+ "ACHHALLOWEENPUMPKINS": {
+  "n": "O Halloween Chegou",
+  "d": "Roube e venda 7 abóboras no BlackBay"
+ },
+ "ACHXMASSLEIGH": {
+  "n": "Cara, Cadê Meu Trenó?",
+  "d": "Roube o carro-trenó do Papai Noel"
+ },
+ "ACHBIGTOYS": {
+  "n": "Brinquedos para Garotos Gananciosos",
+  "d": "Roube 6 caixas grandes de brinquedo"
+ },
+ "ACHVHS": {
+  "n": "VHS É o Melhor",
+  "d": "Venda 5 fitas VHS no BlackBay"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "resumo": "FPS de sobrevivência no metrô. Finais, coleção do diário e desafios de fase.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine; para o final 'Iluminado', faça ações morais ao longo do jogo."
+    },
+    {
+      "titulo": "2. Diário",
+      "texto": "Pegue as 51 páginas."
+    },
+    {
+      "titulo": "3. Fases",
+      "texto": "Desafios específicos (sem matar, furtivo, etc.)."
+    },
+    {
+      "titulo": "4. Modos",
+      "texto": "Termine no Spartan e no Sobrevivência."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {}
+}

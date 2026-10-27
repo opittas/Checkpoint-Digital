@@ -1,0 +1,62 @@
+{
+ "50_CHECKOUTS": {
+  "n": "Caixa Esforçado",
+  "d": "Finalize 50 compras no caixa. É muito troco!"
+ },
+ "100_CHECKOUTS": {
+  "n": "Você Precisa de um Caixa",
+  "d": "Finalize 100 compras sozinho. Pense em contratar um ou dois caixas."
+ },
+ "PURCHASED_ALL_SECTIONS": {
+  "n": "O Maior de Todos!",
+  "d": "Compre todas as expansões."
+ },
+ "PAINT_WALLS": {
+  "n": "Agradável aos Olhos",
+  "d": "Pinte 30 paredes"
+ },
+ "PAINT_FLOORS": {
+  "n": "Pisos Feitos para Andar",
+  "d": "Troque 30 pisos"
+ },
+ "DOOR_POSITION": {
+  "n": "Que Mudança!",
+  "d": "Mude a posição da porta"
+ },
+ "FRONT_STYLE": {
+  "n": "Ficou Bonito",
+  "d": "Mude o estilo da fachada da porta"
+ },
+ "DOOR_NAME": {
+  "n": "E a Melhor Loja da Cidade é...",
+  "d": "Mude o nome da loja"
+ },
+ "4_LICENCES": {
+  "n": "Você Quer? A Gente Tem!",
+  "d": "Tenha 4 licenças de produto"
+ },
+ "CATEGORY_SIGN": {
+  "n": "CEO da Organização",
+  "d": "Coloque 3 placas de categoria"
+ },
+ "PLAY_MUSIC": {
+  "n": "Música de Elevador",
+  "d": "Toque uma música no aparelho de som"
+ },
+ "HIRE_RESTOCKER": {
+  "n": "Sem Cansaço",
+  "d": "Contrate 4 repositores"
+ },
+ "HIRE_CASHIER": {
+  "n": "Eles Sabem Contar",
+  "d": "Contrate 4 caixas"
+ },
+ "TAKE_LOAN": {
+  "n": "Economia Básica",
+  "d": "Pegue um empréstimo no banco"
+ },
+ "PAY_LOAN": {
+  "n": "Finalmente",
+  "d": "Quite totalmente uma dívida com o banco"
+ }
+}

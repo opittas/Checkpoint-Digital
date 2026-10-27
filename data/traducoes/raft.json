@@ -1,0 +1,418 @@
+{
+ "ach_sharkKiller_1": {
+  "n": "Caçador Iniciante de Tubarões!",
+  "d": "Mate 1 tubarão."
+ },
+ "ach_sharkKiller_10": {
+  "n": "Caçador Intermediário de Tubarões!",
+  "d": "Mate 10 tubarões."
+ },
+ "ach_sharkKiller_50": {
+  "n": "Caçador Especialista de Tubarões!",
+  "d": "Mate 50 tubarões."
+ },
+ "ach_birdKiller_1": {
+  "n": "Caçador Iniciante de Pássaros!",
+  "d": "Mate 1 pássaro."
+ },
+ "ach_birdKiller_10": {
+  "n": "Caçador Intermediário de Pássaros!",
+  "d": "Mate 10 pássaros."
+ },
+ "ach_birdKiller_50": {
+  "n": "Caçador Especialista de Pássaros!",
+  "d": "Mate 50 pássaros."
+ },
+ "ach_pufferKiller_1": {
+  "n": "Caçador Iniciante de Baiacus Venenosos!",
+  "d": "Mate 1 baiacu venenoso."
+ },
+ "ach_pufferKiller_10": {
+  "n": "Caçador Intermediário de Baiacus Venenosos!",
+  "d": "Mate 10 baiacus venenosos."
+ },
+ "ach_pufferKiller_50": {
+  "n": "Caçador Especialista de Baiacus Venenosos!",
+  "d": "Mate 50 baiacus venenosos."
+ },
+ "ach_stoneBirdKiller_1": {
+  "n": "Caçador Iniciante de Screechers!",
+  "d": "Mate 1 Screecher."
+ },
+ "ach_stoneBirdKiller_10": {
+  "n": "Caçador Intermediário de Screechers!",
+  "d": "Mate 10 screechers."
+ },
+ "ach_stoneBirdKiller_50": {
+  "n": "Caçador Especialista de Screechers!",
+  "d": "Mate 50 screechers."
+ },
+ "ach_boarKiller_1": {
+  "n": "Caçador Iniciante de Javalis!",
+  "d": "Mate 1 javali."
+ },
+ "ach_boarKiller_10": {
+  "n": "Caçador Intermediário de Javalis!",
+  "d": "Mate 10 javalis."
+ },
+ "ach_boarKiller_50": {
+  "n": "Caçador Especialista de Javalis!",
+  "d": "Mate 50 javalis."
+ },
+ "ach_ratKiller_1": {
+  "n": "Caçador Iniciante de Lurkers!",
+  "d": "Mate 1 Lurker."
+ },
+ "ach_ratKiller_10": {
+  "n": "Caçador Intermediário de Lurkers!",
+  "d": "Mate 10 lurkers."
+ },
+ "ach_ratKiller_50": {
+  "n": "Caçador Especialista de Lurkers!",
+  "d": "Mate 50 lurkers."
+ },
+ "ach_bearKiller_1": {
+  "n": "Caçador Iniciante de Ursos!",
+  "d": "Mate 1 urso."
+ },
+ "ach_bearKiller_10": {
+  "n": "Caçador Intermediário de Ursos!",
+  "d": "Mate 10 ursos."
+ },
+ "ach_bearKiller_50": {
+  "n": "Caçador Especialista de Ursos!",
+  "d": "Mate 50 ursos."
+ },
+ "ach_anglerFishKiller_1": {
+  "n": "Caçador Iniciante de Peixes-pescadores!",
+  "d": "Mate 1 peixe-pescador."
+ },
+ "ach_anglerFishKiller_10": {
+  "n": "Caçador Intermediário de Peixes-pescadores!",
+  "d": "Mate 10 peixes-pescadores."
+ },
+ "ach_anglerFishKiller_50": {
+  "n": "Caçador Especialista de Peixes-pescadores!",
+  "d": "Mate 50 peixes-pescadores."
+ },
+ "ach_build_foundation_10": {
+  "n": "Construtor Iniciante!",
+  "d": "Construa 10 fundações."
+ },
+ "ach_build_foundation_100": {
+  "n": "Construtor Intermediário!",
+  "d": "Construa 100 fundações."
+ },
+ "ach_build_foundation_1000": {
+  "n": "Construtor Especialista!",
+  "d": "Construa 1000 fundações."
+ },
+ "ach_playwithfriend": {
+  "n": "Trabalho em Equipe!",
+  "d": "Jogue com um amigo no multijogador."
+ },
+ "ach_build_cookingstandOne": {
+  "n": "Hora do Jantar!",
+  "d": "Crie e coloque uma grelha simples."
+ },
+ "ach_build_purifierOne": {
+  "n": "Melhor Sem Sal.",
+  "d": "Crie e coloque um purificador simples."
+ },
+ "ach_sailor": {
+  "n": "Sim, Senhor Capitão!",
+  "d": "Coloque uma vela e uma âncora fixa na mesma jangada."
+ },
+ "ach_hoarder": {
+  "n": "Acumulador!",
+  "d": "Tenha 20 baús na mesma jangada."
+ },
+ "ach_farmer": {
+  "n": "Fazendeiro!",
+  "d": "Tenha 20 canteiros na mesma jangada."
+ },
+ "ach_researcher": {
+  "n": "Rato de Biblioteca!",
+  "d": "Pesquise tudo na mesa de pesquisa."
+ },
+ "ach_gatherer_100": {
+  "n": "Coletor Iniciante!",
+  "d": "Pesque 100 itens com o gancho."
+ },
+ "ach_gatherer_500": {
+  "n": "Coletor Intermediário!",
+  "d": "Pesque 500 itens com o gancho."
+ },
+ "ach_gatherer_5000": {
+  "n": "Coletor Especialista!",
+  "d": "Pesque 5000 itens com o gancho."
+ },
+ "ach_build_painter_50": {
+  "n": "Pintor Iniciante!",
+  "d": "Pinte 50 blocos."
+ },
+ "ach_build_painter_200": {
+  "n": "Pintor Intermediário!",
+  "d": "Pinte 200 blocos."
+ },
+ "ach_build_painter_1000": {
+  "n": "Pintor Especialista!",
+  "d": "Pinte 1000 blocos."
+ },
+ "ach_build_reorganizer": {
+  "n": "Isso Vai Aqui!",
+  "d": "Quebre ou recolha 100 blocos."
+ },
+ "ach_cemetary": {
+  "n": "Um Cemitério no Oceano!",
+  "d": "Morra 25 vezes."
+ },
+ "ach_radiotower": {
+  "n": "Existe uma Utopia?",
+  "d": "Encontre o quadro branco na estação de rádio."
+ },
+ "ach_diveDeep": {
+  "n": "Explorando as Profundezas!",
+  "d": "Chegue a 100 metros abaixo da superfície."
+ },
+ "ach_survivor_day": {
+  "n": "Sobrevivente Iniciante!",
+  "d": "Sobreviva 1 dia."
+ },
+ "ach_survivor_week": {
+  "n": "Sobrevivente Intermediário!",
+  "d": "Sobreviva 7 dias."
+ },
+ "ach_survivor_month": {
+  "n": "Sobrevivente Especialista!",
+  "d": "Sobreviva 30 dias."
+ },
+ "ach_survivor_year": {
+  "n": "Mestre Sobrevivente!",
+  "d": "Sobreviva 365 dias."
+ },
+ "ach_reach_pilotIsland": {
+  "n": "Não Foi um Bom Pouso!",
+  "d": "Descubra um avião caído."
+ },
+ "ach_reach_bigIsland": {
+  "n": "Terra à Vista!",
+  "d": "Descubra uma ilha grande."
+ },
+ "ach_cookedRecipe": {
+  "n": "Uma Receita Mais Elaborada!",
+  "d": "Cozinhe um prato seguindo uma receita."
+ },
+ "ach_captureAnimal_1": {
+  "n": "Domador Iniciante!",
+  "d": "Capture 1 animal."
+ },
+ "ach_captureAnimal_10": {
+  "n": "Domador Intermediário!",
+  "d": "Capture 10 animais."
+ },
+ "ach_captureAnimal_50": {
+  "n": "Domador Especialista!",
+  "d": "Capture 50 animais."
+ },
+ "ach_captureRareAnimal": {
+  "n": "Alguns São Diferentes!",
+  "d": "Capture um animal raro."
+ },
+ "ach_reach_captainIsland": {
+  "n": "Ó Capitão! Meu Capitão!?",
+  "d": "Chegue à Ilha do Capitão."
+ },
+ "ach_mamaBearKill": {
+  "n": "Mamãe Ursa!",
+  "d": "Derrote a Mamãe Ursa."
+ },
+ "ach_balboaBicycle": {
+  "n": "Plim!",
+  "d": "Ursos sabem usar campainha de bicicleta?"
+ },
+ "ach_fixErrol": {
+  "n": "Conserte o Errol!",
+  "d": "Pronto, Errol."
+ },
+ "ach_brunosToolboard": {
+  "n": "Uma Revelação!",
+  "d": "Por que tem uma foto atrás do quadro de ferramentas??"
+ },
+ "ach_tinyLittleMurderer": {
+  "n": "Pequeno Assassino",
+  "d": "Agora está tudo tão óbvio..."
+ },
+ "ach_allNotes_RadioTower": {
+  "n": "Historiador da Torre de Rádio!",
+  "d": "Encontre todas as notas da Torre de Rádio!"
+ },
+ "ach_allNotes_Vasagatan": {
+  "n": "Historiador do Vasagatan!",
+  "d": "Encontre todas as notas do Vasagatan!"
+ },
+ "ach_allNotes_Balboa": {
+  "n": "Historiador de Balboa!",
+  "d": "Encontre todas as notas de Balboa!"
+ },
+ "ach_vasagatan_Bomb": {
+  "n": "Fogos Piratas!",
+  "d": "Arrombe a cabine do Vasagatan!"
+ },
+ "ach_allRBPaintings": {
+  "n": "Coleção Artística!",
+  "d": "Encontre e pendure todos os quadros dos desenvolvedores."
+ },
+ "ach_allNotes_Caravan": {
+  "n": "Historiador da Cidade Caravana!",
+  "d": "Encontre todas as notas da Cidade Caravana!"
+ },
+ "ach_allNotes_Tangaroa": {
+  "n": "Historiador de Tangaroa!",
+  "d": "Encontre todas as notas de Tangaroa!"
+ },
+ "ach_zip_OneGo": {
+  "n": "Zip Zap!",
+  "d": "Percorra 50 metros numa tirolesa sem se soltar."
+ },
+ "ach_zip_100m": {
+  "n": "Tirolesista Iniciante!",
+  "d": "Percorra 100 metros com a tirolesa."
+ },
+ "ach_zip_500m": {
+  "n": "Tirolesista Intermediário!",
+  "d": "Percorra 500 metros com a tirolesa."
+ },
+ "ach_zip_1500m": {
+  "n": "Tirolesista Especialista!",
+  "d": "Percorra 1500 metros com a tirolesa."
+ },
+ "ach_excevator_1": {
+  "n": "Escavador Iniciante!",
+  "d": "Desenterre um tesouro."
+ },
+ "ach_excevator_20": {
+  "n": "Escavador Intermediário!",
+  "d": "Desenterre 20 tesouros."
+ },
+ "ach_excevator_50": {
+  "n": "Escavador Especialista!",
+  "d": "Desenterre 50 tesouros."
+ },
+ "ach_tiki_completed": {
+  "n": "Glória Restaurada!",
+  "d": "Quatro peças de madeira restauradas."
+ },
+ "ach_pipes_30": {
+  "n": "Poder do Encanador!",
+  "d": "Tenha 30 canos colocados ao mesmo tempo."
+ },
+ "ach_beekeeper_10": {
+  "n": "Apicultor!",
+  "d": "Tenha 10 colmeias colocadas ao mesmo tempo."
+ },
+ "ach_beeCaptures_1": {
+  "n": "Abelhudo Iniciante!",
+  "d": "Capture 1 abelha."
+ },
+ "ach_beeCaptures_10": {
+  "n": "Abelhudo Intermediário!",
+  "d": "Capture 10 abelhas."
+ },
+ "ach_beeCaptures_25": {
+  "n": "Abelhudo Especialista!",
+  "d": "Capture 25 abelhas."
+ },
+ "ach_secret_tangaroa_claw": {
+  "n": "Encaixotado!",
+  "d": "Encontre o segredo atrás das caixas."
+ },
+ "ach_instrument_notes_1": {
+  "n": "Instrumentista!",
+  "d": "Toque uma nota num instrumento."
+ },
+ "ach_token_tangaroa_10": {
+  "n": "Pequeno Gastador!",
+  "d": "Gaste 10 fichas."
+ },
+ "ach_token_tangaroa_20": {
+  "n": "Médio Gastador!",
+  "d": "Gaste 20 fichas."
+ },
+ "ach_token_tangaroa_30": {
+  "n": "Grande Gastador!",
+  "d": "Gaste 30 fichas."
+ },
+ "ach_botKiller_1": {
+  "n": "Sabotador Iniciante!",
+  "d": "Desative 1 Robô-Mordomo."
+ },
+ "ach_botKiller_10": {
+  "n": "Sabotador Intermediário!",
+  "d": "Desative 10 Robôs-Mordomo."
+ },
+ "ach_botKiller_20": {
+  "n": "Sabotador Especialista!",
+  "d": "Desative 20 Robôs-Mordomo."
+ },
+ "ach_tangaroa_cockpitLaunch": {
+  "n": "Lançamento Iniciado!",
+  "d": "Um sistema de emergência reserva?"
+ },
+ "ach_fireworks_50": {
+  "n": "Fogos de Verdade!",
+  "d": "Veja 50 explosões de fogos de artifício."
+ },
+ "ach_hidden_tangaroa_room": {
+  "n": "Você Não Devia Estar Aqui!",
+  "d": "Vinte andares para baixo."
+ },
+ "ach_allMysteryLootUnlocked": {
+  "n": "O Reformador!",
+  "d": "Aprenda todas as receitas dos pacotes."
+ },
+ "ach_varunaBossKill": {
+  "n": "Força Explosiva!",
+  "d": "Derrote o chefe de Varuna Point."
+ },
+ "ach_finalCutscene": {
+  "n": "Existe uma Utopia!",
+  "d": "Termine a história."
+ },
+ "ach_allCharactersUnlocked": {
+  "n": "Todos a Bordo!",
+  "d": "Desbloqueie todos os personagens jogáveis."
+ },
+ "ach_firstPurchaseAtTrader": {
+  "n": "Comerciante Iniciante!",
+  "d": "Compre um item num posto de troca."
+ },
+ "ach_tier2Trader": {
+  "n": "Comerciante Intermediário!",
+  "d": "Chegue ao nível 2 no posto de troca."
+ },
+ "ach_tier3Trader": {
+  "n": "Comerciante Especialista!",
+  "d": "Chegue ao nível 3 no posto de troca."
+ },
+ "ach_allFoodBuffs": {
+  "n": "Energizado!",
+  "d": "Tenha todos os bônus de comidas e bebidas ativos ao mesmo tempo."
+ },
+ "ach_snowmobileIsNotABoat": {
+  "n": "Isso Não É um Barco...",
+  "d": "Entre no mar com uma moto de neve."
+ },
+ "ach_grabbersNest": {
+  "n": "Colecionador de Esconderijos!",
+  "d": "Encontre todos os esconderijos de Grabber em Varuna Point."
+ },
+ "ach_allNotes_Varuna": {
+  "n": "Historiador de Varuna Point!",
+  "d": "Encontre todas as notas de Varuna Point."
+ },
+ "ach_allNotes_Temperance": {
+  "n": "Historiador de Temperance!",
+  "d": "Encontre todas as notas de Temperance."
+ }
+}

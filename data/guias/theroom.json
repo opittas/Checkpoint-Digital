@@ -1,0 +1,17 @@
+{
+  "resumo": "Puzzle curtíssimo: 5 conquistas em cerca de 3 horas, todas da história.",
+  "roadmap": [
+    {
+      "titulo": "1. Termine os capítulos",
+      "texto": "Cada capítulo da caixa vale uma conquista. Gire a caixa, use o visor para achar símbolos escondidos e dê zoom em tudo."
+    },
+    {
+      "titulo": "2. Dica",
+      "texto": "Se travar, as dicas do jogo vêm em níveis: abra só a primeira para não estragar o puzzle."
+    }
+  ],
+  "avisos": [
+    "Nada é perdível."
+  ],
+  "conquistas": {}
+}

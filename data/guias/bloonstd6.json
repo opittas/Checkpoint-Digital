@@ -1,0 +1,44 @@
+{
+  "resumo": "Lista enorme (156) e para longo prazo. A maioria sai jogando: mapas em todas as dificuldades, heróis, chefes, odisseias e eventos. As mais difíceis são CHIMPS e os chefes de Elite.",
+  "roadmap": [
+    {
+      "titulo": "1. Mapas e medalhas",
+      "texto": "Vença os mapas nas dificuldades Fácil, Média e Difícil, e depois nos modos especiais (Bloons Alternados, Metade do Dinheiro, CHIMPS)."
+    },
+    {
+      "titulo": "2. Torres e heróis",
+      "texto": "Leve torres até o nível 5 e use cada herói. As de experiência (Experiência de Vida) vêm de usar muito uma torre."
+    },
+    {
+      "titulo": "3. Paragons",
+      "texto": "Junte três torres de nível 5 do mesmo tipo para criar um Paragon (Apoteose). Depois tente o Paragon de nível máximo."
+    },
+    {
+      "titulo": "4. Chefes e eventos",
+      "texto": "Os eventos de chefe aparecem semanalmente. Comece pelo Nível 1 e vá subindo até o Elite."
+    },
+    {
+      "titulo": "5. Online e comunidade",
+      "texto": "Desafios diários (365!), territórios, temporadas sociais e criações da comunidade exigem tempo e internet."
+    }
+  ],
+  "avisos": [
+    "Muitas conquistas dependem de eventos que voltam com o tempo; não dá para fazer tudo de uma vez.",
+    "2TC (CHIMPS com 2 torres) e as de Elite são as mais difíceis."
+  ],
+  "conquistas": {
+    "141": {
+      "online": true,
+      "dica": "Um desafio diário por dia: são 365 dias diferentes."
+    },
+    "144": {
+      "online": true
+    },
+    "159": {
+      "online": true
+    },
+    "66": {
+      "dica": "Procure combinações conhecidas da comunidade para 2 torres."
+    }
+  }
+}

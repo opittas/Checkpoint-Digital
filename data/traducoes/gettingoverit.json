@@ -1,0 +1,14 @@
+{
+ "ASCENDED_ONCE": {
+  "n": "Superei.",
+  "d": "Você chegou ao topo da montanha."
+ },
+ "ASCENDED_TWICE": {
+  "n": "Superei, Agora de Verdade.",
+  "d": "Chegou ao topo da montanha duas vezes."
+ },
+ "ASCENDED_LOTS": {
+  "n": "Já Superei Demais.",
+  "d": "Chegou ao topo da montanha cinquenta vezes."
+ }
+}

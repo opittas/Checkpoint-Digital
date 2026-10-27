@@ -1,0 +1,29 @@
+{
+  "resumo": "Lista curta e fácil: 15 conquistas que saem administrando o mercado normalmente.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeiros dias",
+      "texto": "Atenda o caixa você mesmo para fechar 50 e 100 vendas antes de contratar alguém."
+    },
+    {
+      "titulo": "2. Personalizar",
+      "texto": "Pinte 30 paredes, troque 30 pisos, mude porta, fachada e nome da loja, coloque 3 placas de categoria e toque uma música."
+    },
+    {
+      "titulo": "3. Crescer",
+      "texto": "Compre 4 licenças de produto, contrate 4 caixas e 4 repositores e libere todas as expansões."
+    },
+    {
+      "titulo": "4. Banco",
+      "texto": "Pegue um empréstimo e depois quite tudo para as duas conquistas do banco."
+    }
+  ],
+  "avisos": [
+    "Faça as de caixa antes de contratar funcionários."
+  ],
+  "conquistas": {
+    "100_CHECKOUTS": {
+      "dica": "Conte só as vendas que você mesmo passou no caixa."
+    }
+  }
+}

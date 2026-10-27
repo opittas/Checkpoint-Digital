@@ -1,0 +1,138 @@
+{
+  "resumo": "Simulador relaxante sem nada perdível. O jogo base pede fazer os trabalhos por e-mail, comprar, reformar e vender casas para cada tipo de comprador. As DLCs Pets, Farm e Dine Out ficam em abas separadas.",
+  "roadmap": [
+    {
+      "titulo": "1. Trabalhos por e-mail",
+      "texto": "Faça os serviços do notebook: limpar, pintar, montar e instalar. Eles ensinam tudo e liberam as habilidades."
+    },
+    {
+      "titulo": "2. Habilidades",
+      "texto": "Use os pontos para melhorar limpeza, pintura, azulejo e demolição. Isso acelera muito o resto da lista."
+    },
+    {
+      "titulo": "3. Comprar e vender",
+      "texto": "Compre casas, reforme e venda. Cada comprador (família, gamer, artista, survivalista...) tem gostos próprios: veja o perfil e monte a casa para ele."
+    },
+    {
+      "titulo": "4. Desafios",
+      "texto": "Conquistas de detalhes saem no caminho: abrir uma porta, consertar janela, demolir uma parede inteira, nadar na piscina, acertar as toupeiras no jardim."
+    },
+    {
+      "titulo": "5. DLCs",
+      "texto": "Se tiver as expansões, faça os trabalhos e casas de cada uma: animais (Pets), fazenda (Farm) e restaurantes (Dine Out)."
+    }
+  ],
+  "avisos": [
+    "As expansões Garden e Luxury também trazem conquistas, mas elas aparecem misturadas no jogo base."
+  ],
+  "conquistas": {
+    "Pets_Achv_Box": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_JourneyFluffiness": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_WelcomeCozyVillage": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_Caretaker": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_FreshCleanDry": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_Playtime": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_TapTap": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_VersatileCaretaker": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_FloorIsYourCanvas": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_Teamwork": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_GrowFast": {
+      "dlc": "Pets"
+    },
+    "Pets_Achv_PicturePerfect": {
+      "dlc": "Pets"
+    },
+    "Farm_Achiv_OldMcDonald": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_DroneMaster": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_TheBiggerTheBetter": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_MusicToMyEars": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_CaptainHook": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_Don’tHoldYourHorses": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_HardworkingFarmer": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_They'reAllInOneBasket": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_SweetDreams": {
+      "dlc": "Farm"
+    },
+    "Farm_Achiv_LongDayCountryside": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_TalentedRoofer": {
+      "dlc": "Farm"
+    },
+    "Farm_Achv_FreeSpirit": {
+      "dlc": "Farm"
+    },
+    "DineOut_Achv_Appetite": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_WayToHeart": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_IcingOnCake": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_FlipperFiveStars": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_BreadAndWater": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_PropertyManager": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_LandInHotWater": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_TableDeckYourself": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_RestaurantSign": {
+      "dlc": "Dine Out"
+    },
+    "DineOut_Achv_FlavoursHunter": {
+      "dlc": "Dine Out"
+    },
+    "Millionaire": {
+      "dica": "Compre casas baratas, reforme bem e venda para o comprador que paga mais."
+    },
+    "Perfectionist": {
+      "dica": "Termine um trabalho com 100%: confira cada tarefa da lista antes de sair."
+    }
+  }
+}

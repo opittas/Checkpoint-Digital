@@ -1,0 +1,48 @@
+{
+  "resumo": "Lista média: história, missões paralelas, mestres e Esferas do Dragão. Algumas conquistas exigem modos online, que podem estar com poucos jogadores.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine a campanha da Patrulha do Tempo. Cada saga vale uma conquista."
+    },
+    {
+      "titulo": "2. Mestres",
+      "texto": "Treine com todos os mestres em Toki Toki (Goku, Piccolo, Kuririn, Vegeta, Freeza, Cell...). Eles aparecem em horários diferentes na cidade."
+    },
+    {
+      "titulo": "3. Missões paralelas",
+      "texto": "Complete todas as missões paralelas e junte as Esferas do Dragão para chamar o Shenlong."
+    },
+    {
+      "titulo": "4. Coleção",
+      "texto": "Libere todos os personagens e cenários e aprenda todas as habilidades especiais e supremas."
+    },
+    {
+      "titulo": "5. Online",
+      "texto": "Entre em batalhas online, ganhe partidas e troque presentes com outros jogadores."
+    }
+  ],
+  "avisos": [
+    "Várias conquistas exigem online: faça enquanto houver jogadores."
+  ],
+  "conquistas": {
+    "ACHIEVEMENT_WINONLINEBATTLE7": {
+      "online": true
+    },
+    "ACHIEVEMENT_ENTERONLINEBATTLE": {
+      "online": true
+    },
+    "ACHIEVEMENT_ENTERONLINEBATTLE7": {
+      "online": true
+    },
+    "ACHIEVEMENT_WINENDLESSBATTLE": {
+      "online": true
+    },
+    "ACHIEVEMENT_SENDPRESENT": {
+      "online": true
+    },
+    "ACHIEVEMENT_RECIEVEPRESENT": {
+      "online": true
+    }
+  }
+}

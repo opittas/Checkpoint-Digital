@@ -1,0 +1,29 @@
+{
+  "resumo": "Mundo aberto tranquilo em Prison Island. A lista é longa mas fácil: história, missões secundárias, karma das facções, coleta e combate.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Siga a campanha até o fim. As conquistas de capítulo saem sozinhas."
+    },
+    {
+      "titulo": "2. Missões e karma",
+      "texto": "Faça as missões secundárias e suba o karma dos moradores. Tripulação, amigos e heróis da ilha vêm daqui."
+    },
+    {
+      "titulo": "3. Exploração",
+      "texto": "Abra baús, junte materiais e faça as criações e receitas pedidas nas missões. Use o Gomu Gomu no Rocket para se mover rápido pela ilha."
+    },
+    {
+      "titulo": "4. Combate",
+      "texto": "Derrubadas, tiros, esquivas e defesas acumulam naturalmente. As de recompensa (Procurado) vêm de derrotar inimigos fortes."
+    },
+    {
+      "titulo": "5. DLCs",
+      "texto": "Se sobrar alguma, ela pode depender das histórias extras do Passe de Episódios (DLC paga)."
+    }
+  ],
+  "avisos": [
+    "Nada é perdível: depois do fim dá para continuar explorando."
+  ],
+  "conquistas": {}
+}

@@ -607,5 +607,289 @@
       "naruto",
       "ultimate ninja storm"
     ]
+  },
+  {
+    "id": "dbsparkingzero",
+    "title": "Dragon Ball: Sparking! Zero",
+    "developer": "Spike Chunsoft · Bandai Namco",
+    "year": 2024,
+    "steam_appid": 1790600,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "40–60h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/dbsparkingzero.jpg",
+    "generos": [
+      "Luta",
+      "Anime"
+    ],
+    "palavras": [
+      "sparking zero",
+      "dragon ball"
+    ]
+  },
+  {
+    "id": "houseflipper",
+    "title": "House Flipper",
+    "developer": "Empyrean · Frozen District",
+    "year": 2018,
+    "steam_appid": 613100,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "30–40h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/houseflipper.jpg",
+    "generos": [
+      "Simulação"
+    ],
+    "palavras": [
+      "house flipper"
+    ]
+  },
+  {
+    "id": "onepieceworldseeker",
+    "title": "One Piece World Seeker",
+    "developer": "Ganbarion · Bandai Namco",
+    "year": 2019,
+    "steam_appid": 755500,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "30–40h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/onepieceworldseeker.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Anime"
+    ],
+    "palavras": [
+      "one piece"
+    ]
+  },
+  {
+    "id": "supermarketsim",
+    "title": "Supermarket Simulator",
+    "developer": "Nokta Games",
+    "year": 2024,
+    "steam_appid": 2670630,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "30–50h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/supermarketsim.jpg",
+    "generos": [
+      "Simulação"
+    ],
+    "palavras": [
+      "supermarket simulator"
+    ]
+  },
+  {
+    "id": "raft",
+    "title": "Raft",
+    "developer": "Redbeet Interactive · Axolot",
+    "year": 2022,
+    "steam_appid": 648800,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "40–60h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/raft.jpg",
+    "generos": [
+      "Sobrevivência",
+      "Aventura"
+    ],
+    "palavras": [
+      "raft"
+    ]
+  },
+  {
+    "id": "houseofdavinci",
+    "title": "The House of Da Vinci",
+    "developer": "Blue Brain Games",
+    "year": 2017,
+    "steam_appid": 522470,
+    "platforms": [
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 3,
+    "hours": "6–10h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/houseofdavinci.jpg",
+    "generos": [
+      "Puzzle",
+      "Aventura"
+    ],
+    "palavras": [
+      "house of da vinci"
+    ]
+  },
+  {
+    "id": "theroom",
+    "title": "The Room",
+    "developer": "Fireproof Games",
+    "year": 2014,
+    "steam_appid": 288160,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 2,
+    "hours": "3–5h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/theroom.jpg",
+    "generos": [
+      "Puzzle"
+    ],
+    "palavras": [
+      "the room"
+    ]
+  },
+  {
+    "id": "bloonstd6",
+    "title": "Bloons TD 6",
+    "developer": "Ninja Kiwi",
+    "year": 2018,
+    "steam_appid": 960090,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": ""
+    },
+    "difficulty": 6,
+    "hours": "150h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/bloonstd6.jpg",
+    "generos": [
+      "Estratégia",
+      "Tower Defense"
+    ],
+    "palavras": [
+      "bloons"
+    ]
+  },
+  {
+    "id": "dbxenoverse",
+    "title": "Dragon Ball Xenoverse",
+    "developer": "Dimps · Bandai Namco",
+    "year": 2015,
+    "steam_appid": 323470,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam"
+    ],
+    "labels": {
+      "xbox": "1000G",
+      "ps": "Troféus",
+      "steam": ""
+    },
+    "difficulty": 4,
+    "hours": "50–70h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/dbxenoverse.jpg",
+    "generos": [
+      "Luta",
+      "RPG",
+      "Anime"
+    ],
+    "palavras": [
+      "xenoverse",
+      "dragon ball"
+    ]
+  },
+  {
+    "id": "gettingoverit",
+    "title": "Getting Over It with Bennett Foddy",
+    "developer": "Bennett Foddy",
+    "year": 2017,
+    "steam_appid": 240720,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": 10,
+    "hours": "10–100h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/gettingoverit.jpg",
+    "generos": [
+      "Plataforma",
+      "Indie"
+    ],
+    "palavras": [
+      "getting over it"
+    ]
   }
 ]

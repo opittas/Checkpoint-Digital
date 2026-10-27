@@ -1,0 +1,25 @@
+{
+  "resumo": "Só 3 conquistas, mas está entre as mais frustrantes da Steam: chegar ao topo da montanha usando só um martelo.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeiro topo",
+      "texto": "Vá devagar e aprenda a puxar o corpo com o martelo. As quedas fazem parte: o jogo não salva pontos de controle."
+    },
+    {
+      "titulo": "2. Segundo topo",
+      "texto": "Depois da primeira subida você já conhece o caminho; a segunda costuma ser bem mais rápida."
+    },
+    {
+      "titulo": "3. 50 vezes",
+      "texto": "Para 'Já Superei Demais', vire praticamente speedrunner: treine os trechos difíceis e use os atalhos conhecidos."
+    }
+  ],
+  "avisos": [
+    "Uma queda pode te mandar de volta ao começo."
+  ],
+  "conquistas": {
+    "ASCENDED_LOTS": {
+      "dica": "Jogadores experientes sobem em menos de 5 minutos; treino é tudo."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "resumo": "Lista tranquila: Episódios de Batalha de cada personagem, torneios, Esferas do Dragão e algumas lutas online.",
+  "roadmap": [
+    {
+      "titulo": "1. Episódios de Batalha",
+      "texto": "Jogue os episódios de Goku, Vegeta, Gohan, Piccolo, Freeza e dos outros. Procure as rotas alternativas (o que acontece se...?) para as conquistas de 'E se'."
+    },
+    {
+      "titulo": "2. Torneios",
+      "texto": "Vença o Torneio Mundial, o de Cell, o do Outro Mundo, o dos Destruidores e o do Poder."
+    },
+    {
+      "titulo": "3. Esferas do Dragão",
+      "texto": "Junte as esferas jogando e chame Shenlong, Porunga e Super Shenlong."
+    },
+    {
+      "titulo": "4. Zeni e itens",
+      "texto": "Acumule zeni e compre itens e títulos na loja até as conquistas de colecionador."
+    },
+    {
+      "titulo": "5. Online",
+      "texto": "Lute online e em partidas com amigos (Rivais Conectados, Novos Desafiantes)."
+    }
+  ],
+  "avisos": [
+    "As rotas alternativas dos episódios exigem escolhas específicas nas lutas: procure o guia quando aparecer a opção."
+  ],
+  "conquistas": {
+    "ACH_0004": {
+      "online": true
+    },
+    "ACH_0045": {
+      "online": true
+    },
+    "ACH_0046": {
+      "online": true
+    }
+  }
+}

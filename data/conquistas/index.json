@@ -294,5 +294,106 @@
    ]
   },
   "atualizado": "2026-10-27"
+ },
+ "dbsparkingzero": {
+  "total": 50,
+  "base": 50,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "houseflipper": {
+  "total": 96,
+  "base": 62,
+  "dlcs": {
+   "Pets": [
+    "Pets_Achv_Box",
+    "Pets_Achv_JourneyFluffiness",
+    "Pets_Achv_WelcomeCozyVillage",
+    "Pets_Achv_Caretaker",
+    "Pets_Achv_FreshCleanDry",
+    "Pets_Achv_Playtime",
+    "Pets_Achv_TapTap",
+    "Pets_Achv_VersatileCaretaker",
+    "Pets_Achv_FloorIsYourCanvas",
+    "Pets_Achv_Teamwork",
+    "Pets_Achv_GrowFast",
+    "Pets_Achv_PicturePerfect"
+   ],
+   "Farm": [
+    "Farm_Achiv_OldMcDonald",
+    "Farm_Achv_DroneMaster",
+    "Farm_Achv_TheBiggerTheBetter",
+    "Farm_Achv_MusicToMyEars",
+    "Farm_Achv_CaptainHook",
+    "Farm_Achv_Don’tHoldYourHorses",
+    "Farm_Achv_HardworkingFarmer",
+    "Farm_Achv_They'reAllInOneBasket",
+    "Farm_Achv_SweetDreams",
+    "Farm_Achiv_LongDayCountryside",
+    "Farm_Achv_TalentedRoofer",
+    "Farm_Achv_FreeSpirit"
+   ],
+   "Dine Out": [
+    "DineOut_Achv_Appetite",
+    "DineOut_Achv_WayToHeart",
+    "DineOut_Achv_IcingOnCake",
+    "DineOut_Achv_FlipperFiveStars",
+    "DineOut_Achv_BreadAndWater",
+    "DineOut_Achv_PropertyManager",
+    "DineOut_Achv_LandInHotWater",
+    "DineOut_Achv_TableDeckYourself",
+    "DineOut_Achv_RestaurantSign",
+    "DineOut_Achv_FlavoursHunter"
+   ]
+  },
+  "atualizado": "2026-10-27"
+ },
+ "onepieceworldseeker": {
+  "total": 63,
+  "base": 63,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "supermarketsim": {
+  "total": 15,
+  "base": 15,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "raft": {
+  "total": 104,
+  "base": 104,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "houseofdavinci": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "theroom": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "bloonstd6": {
+  "total": 156,
+  "base": 156,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "dbxenoverse": {
+  "total": 50,
+  "base": 50,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
+ },
+ "gettingoverit": {
+  "total": 3,
+  "base": 3,
+  "dlcs": {},
+  "atualizado": "2026-10-27"
  }
 }

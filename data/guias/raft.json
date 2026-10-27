@@ -1,0 +1,40 @@
+{
+  "resumo": "Sobrevivência no oceano, ótima em cooperativo. São 104 conquistas: história com 8 ilhas especiais, coleção de notas e muitas séries de caça e construção.",
+  "roadmap": [
+    {
+      "titulo": "1. Sobreviver",
+      "texto": "Pesque detritos com o gancho, monte purificador e grelha, plante e expanda a jangada. As séries de construir, pescar e sobreviver andam sozinhas."
+    },
+    {
+      "titulo": "2. História",
+      "texto": "Siga as frequências do receptor: Torre de Rádio, Vasagatan, Balboa, Cidade Caravana, Tangaroa, Varuna Point, Temperance e Utopia. Em cada uma, pegue todas as notas."
+    },
+    {
+      "titulo": "3. Caça e captura",
+      "texto": "Tubarões, pássaros, javalis, ursos e peixes aparecem pelo caminho. Para os 50 de cada, deixe para o fim com armas melhores. Capture animais com a rede e leve para a jangada."
+    },
+    {
+      "titulo": "4. Coleções",
+      "texto": "Quadros dos desenvolvedores, receitas dos pacotes, todos os bônus de comida ao mesmo tempo e todos os personagens."
+    },
+    {
+      "titulo": "5. Longas",
+      "texto": "365 dias de sobrevivência e 1000 fundações levam tempo: deixe o jogo rodando ou jogue no Pacífico depois do fim."
+    }
+  ],
+  "avisos": [
+    "Trabalho em Equipe! exige jogar com um amigo.",
+    "Notas são fáceis de perder: confira cada sala das ilhas antes de partir."
+  ],
+  "conquistas": {
+    "ach_playwithfriend": {
+      "online": true
+    },
+    "ach_survivor_year": {
+      "dica": "Conta dias de jogo, não horas reais; durma na cama para avançar."
+    },
+    "ach_snowmobileIsNotABoat": {
+      "dica": "Em Temperance, pegue a moto de neve e acelere direto para o mar."
+    }
+  }
+}

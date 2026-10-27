@@ -220,15 +220,36 @@
   "atualizado": null
  },
  "botw": {
-  "total": 12,
-  "base": 9,
+  "total": 41,
+  "base": 17,
   "dlcs": {
    "Passe de Expansão": [
-    "espadas_dlc",
-    "balada_dlc"
+    "mestre",
+    "espadateste",
+    "ex_trials",
+    "balada",
+    "balada_santuarios"
    ],
    "Nintendo Switch 2 Edition": [
-    "zeldanotes"
+    "sw2_cidadao",
+    "sw2_monstros",
+    "sw2_tesouros",
+    "sw2_materiais",
+    "sw2_armas",
+    "sw2_rico",
+    "sw2_sheikah",
+    "sw2_campeoes",
+    "sw2_culinaria",
+    "sw2_distancia",
+    "sw2_missoes",
+    "sw2_santuarios",
+    "sw2_viajante",
+    "sw2_korok",
+    "sw2_voz",
+    "sw2_explorador",
+    "sw2_roleta",
+    "sw2_amiibo",
+    "sw2_logistica"
    ]
   },
   "atualizado": null
@@ -1448,86 +1469,102 @@
   "atualizado": "2026-10-27"
  },
  "mario-kart-world": {
-  "total": 13,
-  "base": 13,
+  "total": 23,
+  "base": 23,
   "dlcs": {},
   "atualizado": null
  },
  "pokemon-violet": {
-  "total": 15,
-  "base": 9,
+  "total": 27,
+  "base": 16,
   "dlcs": {
    "The Teal Mask": [
+    "ursaluna",
     "kitakami",
-    "ogerpon"
+    "ogerpon",
+    "leais",
+    "mascaras",
+    "ogreoustin"
    ],
    "The Indigo Disk": [
-    "bb",
+    "bbliga",
     "bbdex",
     "terapagos",
-    "epilogo"
+    "snacksworth",
+    "pecharunt"
    ]
   },
   "atualizado": null
  },
  "nsmbu-deluxe": {
-  "total": 8,
-  "base": 6,
+  "total": 13,
+  "base": 10,
   "dlcs": {
-   "Luigi U": [
-    "luigiu",
-    "luigimoedas"
+   "New Super Luigi U": [
+    "luigi",
+    "luigimoedas",
+    "luigicinco"
    ]
   },
   "atualizado": null
  },
  "pokemon-champions": {
-  "total": 8,
-  "base": 8,
+  "total": 10,
+  "base": 10,
   "dlcs": {},
   "atualizado": null
  },
  "pokemon-pokopia": {
-  "total": 8,
-  "base": 8,
+  "total": 17,
+  "base": 17,
   "dlcs": {},
   "atualizado": null
  },
  "pokemon-unite": {
-  "total": 8,
-  "base": 8,
+  "total": 9,
+  "base": 9,
   "dlcs": {},
   "atualizado": null
  },
  "pokemon-legends-za": {
-  "total": 9,
-  "base": 8,
+  "total": 17,
+  "base": 14,
   "dlcs": {
    "Mega Dimensão": [
-    "mega"
+    "mega_dlc",
+    "mega_novas",
+    "mega_lendario"
    ]
   },
   "atualizado": null
  },
  "smash-ultimate": {
-  "total": 8,
-  "base": 8,
-  "dlcs": {},
+  "total": 15,
+  "base": 13,
+  "dlcs": {
+   "Fighters Pass": [
+    "dlc",
+    "dlc_classico"
+   ]
+  },
   "atualizado": null
  },
  "kirby-forgotten-land": {
-  "total": 9,
-  "base": 8,
+  "total": 23,
+  "base": 19,
   "dlcs": {
    "Nintendo Switch 2 Edition + Star-Crossed World": [
-    "estrela"
+    "sc_fases",
+    "sc_starries",
+    "sc_missoes",
+    "sc_bocas"
    ]
   },
   "atualizado": null
  },
  "pokemon-firered": {
-  "total": 7,
-  "base": 7,
+  "total": 13,
+  "base": 13,
   "dlcs": {},
   "atualizado": null
  },

@@ -1,21 +1,180 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Relançamento vendido na eShop do Switch.",
+  "resumo": "Pokémon FireRed Version não tem conquistas oficiais. As Conquistas originais Checkpoint cobrem a campanha de Kanto, Ilhas Sevii, lendários e a Pokédex.",
   "roadmap": [
     {
       "titulo": "1. Kanto",
-      "texto": "Vença os 8 ginásios e a Liga."
+      "texto": "8 insígnias e Equipe Rocket."
     },
     {
-      "titulo": "2. Ilhas Sevii",
-      "texto": "Depois da Liga, siga para as Ilhas Sevii para liberar a Pokédex Nacional."
+      "titulo": "2. Liga",
+      "texto": "Elite 4 e Campeão."
     },
     {
-      "titulo": "3. Lendários",
-      "texto": "Aves lendárias e Mewtwo na Caverna Desconhecida."
+      "titulo": "3. Sevii",
+      "texto": "Rubi e Safira; Pokédex Nacional."
+    },
+    {
+      "titulo": "4. Lendários",
+      "texto": "Aves, Mewtwo, Snorlax e o cão errante."
+    },
+    {
+      "titulo": "5. Pokédex",
+      "texto": "Troque com LeafGreen para completar."
     }
   ],
   "avisos": [
-    "Alguns Pokémon exigem troca com LeafGreen."
+    "A troca é local (Wireless Club). O suporte ao Pokémon HOME foi anunciado, mas confira se já está disponível."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "insignias": {
+      "guia": {
+        "onde": [
+          "Pewter — Brock (Pedra)",
+          "Cerulean — Misty (Água)",
+          "Vermilion — Lt. Surge (Elétrico)",
+          "Celadon — Erika (Planta)",
+          "Fuchsia — Koga (Veneno)",
+          "Saffron — Sabrina (Psíquico)",
+          "Cinnabar — Blaine (Fogo)",
+          "Viridian — Giovanni (Terra)"
+        ],
+        "passos": [
+          "A ordem é quase fixa pela história; Koga e Sabrina podem ser trocados.",
+          "O ginásio de Viridian só abre depois das outras 7 insígnias."
+        ],
+        "dicas": [
+          "Charmander sofre contra Brock e Misty: capture um Mankey (Rota 22) ou evolua o Butterfree para ajudar."
+        ]
+      }
+    },
+    "rocket": {
+      "guia": {
+        "passos": [
+          "Esconderijo Rocket fica sob o Cassino Rocket de Celadon (botão atrás do pôster).",
+          "Pegue o Silph Scope e liberte a Torre Pokémon de Lavender.",
+          "Invada a Silph Co. em Saffron e vença Giovanni; você ganha um Lapras e a Master Ball."
+        ]
+      }
+    },
+    "liga": {
+      "guia": {
+        "onde": [
+          "Plateau Índigo, depois da Rota Vitória."
+        ],
+        "passos": [
+          "Vença Lorelei (Gelo), Bruno (Luta), Agatha (Fantasma) e Lance (Dragão).",
+          "Vença o rival, que é o Campeão.",
+          "Seu time entra no Hall da Fama."
+        ]
+      }
+    },
+    "sevii": {
+      "guia": {
+        "quando": "Depois da Liga (as Ilhas 1–3 abrem antes, com o Bill).",
+        "passos": [
+          "Pegue o passe com o Bill e leve o Rubi do Monte Ember (Ilha 1) a Celio.",
+          "Depois, o Passe Arco-íris abre as Ilhas 4 a 7.",
+          "Recupere a Safira no Pontal das Pedras, enfrente a Equipe Rocket no armazém da Ilha 5 e entregue a Safira a Celio."
+        ]
+      }
+    },
+    "nacional": {
+      "guia": {
+        "requisitos": [
+          "Liga vencida e 60 Pokémon vistos na Pokédex de Kanto."
+        ],
+        "passos": [
+          "Volte ao laboratório do Prof. Carvalho em Pallet depois da Liga.",
+          "Ele melhora a Pokédex para Nacional, liberando Pokémon de outras gerações."
+        ]
+      }
+    },
+    "aves": {
+      "guia": {
+        "onde": [
+          "Articuno — Ilhas Seafoam (resolva o puzzle de pedras e correntezas).",
+          "Zapdos — Usina Elétrica (Power Plant), acessível com Surf perto da Rota 10.",
+          "Moltres — Monte Ember, na Ilha 1 das Sevii (no FireRed e no LeafGreen ele não fica na Vitória)."
+        ],
+        "passos": [
+          "Salve antes de cada um: se nocautear, ele some até você vencer a Liga de novo.",
+          "Use Ultra Balls e status (sono/paralisia)."
+        ]
+      }
+    },
+    "mewtwo": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "Pokédex Nacional e as Ilhas Sevii concluídas."
+        ],
+        "onde": [
+          "Caverna Desconhecida (Cerulean Cave), a oeste de Cerulean, atravessando a água com Surf."
+        ],
+        "passos": [
+          "Atravesse a caverna até o andar mais fundo.",
+          "Mewtwo está no nível 70: salve antes, use Paralisar e Ultra Balls (ou a Master Ball)."
+        ]
+      }
+    },
+    "snorlax": {
+      "guia": {
+        "passos": [
+          "Pegue a Poké Flute com o Mr. Fuji em Lavender.",
+          "Toque a flauta nos Snorlax das Rotas 12 e 16 e capture-os."
+        ]
+      }
+    },
+    "cao": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Depois da Pokédex Nacional, um dos três aparece andando por Kanto. Qual aparece depende do inicial: Bulbasaur → Entei, Charmander → Suicune, Squirtle → Raikou.",
+        "passos": [
+          "Ele foge no primeiro turno: use Mean Look (ou Pokémon com Arena Trap) e paralise.",
+          "Acompanhe a localização pela Pokédex (área)."
+        ]
+      }
+    },
+    "unown": {
+      "guia": {
+        "onde": [
+          "Ruínas de Tanoby, na Ilha 7 das Sevii."
+        ],
+        "passos": [
+          "Depois de resolver o puzzle das Ruínas, os Unown aparecem nas 7 câmaras.",
+          "Cada câmara tem letras diferentes."
+        ]
+      }
+    },
+    "treinadores": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Ilha 7 das Sevii."
+        ],
+        "passos": [
+          "A Torre tem modos (Simples, Duplas, Knockout, Mista).",
+          "Suba os 8 andares derrotando os treinadores contra o relógio."
+        ]
+      }
+    },
+    "kanto": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Alguns Pokémon são exclusivos do LeafGreen (ex.: Bellsprout, Slowpoke, Staryu) e outros só evoluem por troca (Alakazam, Gengar, Machamp, Golem).",
+        "passos": [
+          "Capture o que encontrar em cada rota e caverna.",
+          "Troque com um amigo que tenha o LeafGreen pelo Wireless Club (a versão do Switch tem troca local sem fio).",
+          "Ao completar, fale com o diretor da Game Freak em Celadon para receber o Diploma."
+        ]
+      }
+    },
+    "diploma": {
+      "guia": {
+        "onde": [
+          "Prédio da Game Freak, no Condomínio de Celadon."
+        ]
+      }
+    }
+  }
 }

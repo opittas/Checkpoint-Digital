@@ -1,23 +1,350 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%.",
+  "resumo": "Pokémon Violet não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: os três caminhos da história, Liga, pós-jogo completo, Pokédex, lendários, shiny e as duas DLCs.",
   "roadmap": [
     {
-      "titulo": "1. Três caminhos",
-      "texto": "Faça os ginásios, os Titãs e as bases da Equipe Estrela em qualquer ordem; os Titãs melhoram a sua montaria."
+      "titulo": "1. Os três caminhos",
+      "texto": "Ginásios, Titãs e Equipe Estrela em qualquer ordem."
     },
     {
-      "titulo": "2. Área Zero",
-      "texto": "Termine os três caminhos para abrir o final na Área Zero."
+      "titulo": "2. Final",
+      "texto": "Liga Pokémon e Área Zero."
     },
     {
       "titulo": "3. Pós-jogo",
-      "texto": "Estacas dos Tesouros da Ruína, Pokédex de Paldea e reides 6 estrelas."
+      "texto": "Torneio dos Ases, Tesouros da Ruína, reides 6★ e Pokédex."
     },
     {
       "titulo": "4. DLC",
-      "texto": "The Teal Mask (Kitakami) e The Indigo Disk (Academia Mirtilo) ficam nas abas próprias."
+      "texto": "Teal Mask (Kitakami) e Indigo Disk (Mirtilo), cada uma na sua aba."
     }
   ],
-  "avisos": [],
-  "conquistas": {}
+  "avisos": [
+    "Alguns Pokémon só existem no Scarlet: troque com amigos."
+  ],
+  "conquistas": {
+    "primeira": {
+      "guia": {
+        "passos": [
+          "Escolha Sprigatito, Fuecoco ou Quaxly com a Nemona.",
+          "Siga a história até Mesagoza e a Academia Uva.",
+          "A conquista vale quando o 'Tesouro' (as três histórias) for liberado."
+        ]
+      }
+    },
+    "ginasios": {
+      "guia": {
+        "resumo": "Os ginásios podem ser feitos em qualquer ordem, mas os níveis dos líderes sobem no sentido horário a partir de Mesagoza.",
+        "onde": [
+          "Cortondo — Katy (Inseto)",
+          "Artazon — Brassius (Planta)",
+          "Levincia — Iono (Elétrico)",
+          "Cascarrafa — Kofu (Água)",
+          "Medali — Larry (Normal)",
+          "Montenevera — Ryme (Fantasma)",
+          "Alfornada — Tulip (Psíquico)",
+          "Glaseado — Grusha (Gelo)"
+        ],
+        "passos": [
+          "Antes de cada líder há um Teste de Ginásio (minijogo) na cidade.",
+          "Vença o líder; ele usa um Pokémon Terastalizado no final.",
+          "Cada insígnia aumenta o nível dos Pokémon que obedecem a você."
+        ],
+        "dicas": [
+          "Ordem recomendada pelos níveis: Katy, Brassius, Iono, Kofu, Larry, Ryme, Tulip, Grusha."
+        ]
+      }
+    },
+    "titas": {
+      "guia": {
+        "resumo": "Cada Titã derrotado deixa uma Herba Mystica e ensina uma habilidade de movimento nova ao Miraidon (dash, nadar, pulo alto, planar e escalar).",
+        "onde": [
+          "Titã da Rocha — Klawf (perto de Artazon)",
+          "Titã dos Céus — Bombirdier",
+          "Titã do Aço Oculto — Orthworm",
+          "Titã da Terra Tremente — Iron Treads (no Violet)",
+          "Titã do Falso Dragão — Dondozo e Tatsugiri"
+        ],
+        "passos": [
+          "Vá ao local marcado no mapa; o Titã aparece maior e brilhando.",
+          "A luta tem duas fases: na segunda ele fica mais forte depois de comer uma Herba.",
+          "Depois, Arven faz um sanduíche e o Miraidon ganha uma habilidade."
+        ],
+        "dicas": [
+          "Faça o Klawf cedo: o dash do Miraidon facilita muito a exploração."
+        ]
+      }
+    },
+    "estrela": {
+      "guia": {
+        "resumo": "Cada base é um desafio de tempo: você manda 3 Pokémon com 'Vamos lá!' derrotarem 30 inimigos em 10 minutos, e depois enfrenta o chefe no carro Starmobile.",
+        "onde": [
+          "Giacomo — Escuridão",
+          "Mela — Fogo",
+          "Atticus — Veneno",
+          "Ortega — Fada",
+          "Eri — Luta (a mais difícil)"
+        ],
+        "passos": [
+          "Fale com a Cassiopeia na entrada da base.",
+          "Use 'Vamos lá!' (botão R) com Pokémon de nível alto para derrotar os 30 recrutas antes do tempo.",
+          "Vença o chefe e o Starmobile.",
+          "Depois das 5, há uma revelação final com a Cassiopeia."
+        ]
+      }
+    },
+    "liga": {
+      "guia": {
+        "requisitos": [
+          "As 8 insígnias."
+        ],
+        "onde": [
+          "Liga Pokémon, ao sul de Mesagoza."
+        ],
+        "passos": [
+          "Faça a entrevista na recepção da Liga.",
+          "Vença Rika (Terra), Poppy (Aço), Larry (Voador) e Hassel (Dragão).",
+          "Vença Geeta e depois a batalha com a Nemona."
+        ]
+      }
+    },
+    "areazero": {
+      "guia": {
+        "requisitos": [
+          "Terminar os três caminhos (Vitória, Lendas e Estrada Estelar)."
+        ],
+        "passos": [
+          "Fale com Nemona, Arven e Penny na Academia para descer à Área Zero.",
+          "Ative as 4 estações de pesquisa durante a descida.",
+          "Chegue ao laboratório e enfrente o desafio final."
+        ],
+        "atencao": [
+          "Os créditos rolam depois; você continua no mundo e o pós-jogo abre em seguida."
+        ]
+      }
+    },
+    "torneio": {
+      "guia": {
+        "quando": "Pós-jogo.",
+        "passos": [
+          "Fale com a Geeta/Nemona depois dos créditos.",
+          "Inscreva-se no Torneio na Academia e vença as 4 batalhas. Dá para repetir para farmar dinheiro e itens."
+        ]
+      }
+    },
+    "pokedex": {
+      "guia": {
+        "resumo": "Basta registrar (capturar ou evoluir) os 400 da Pokédex regional; lendários do pós-jogo e exclusivos do Scarlet contam.",
+        "passos": [
+          "Capture o que encontrar em cada bioma; muitos só aparecem à noite ou em clima específico.",
+          "Evolua Pokémon por troca e itens.",
+          "Os exclusivos do Scarlet (como os Paradoxos antigos, ex.: Great Tusk e Roaring Moon) exigem troca com alguém que tenha o Scarlet."
+        ],
+        "dicas": [
+          "Use sanduíches de encontro (Encounter Power) para tipos específicos."
+        ]
+      }
+    },
+    "diploma": {
+      "guia": {
+        "passos": [
+          "Com os 400 registrados, vá à sala de Biologia da Academia.",
+          "Fale com o professor Jacq: ele dá o Diploma e o Amuleto Brilhante, que aumenta a chance de shiny."
+        ]
+      }
+    },
+    "ruinas": {
+      "guia": {
+        "resumo": "Wo-Chien, Chien-Pao, Ting-Lu e Chi-Yu ficam selados em santuários. Cada um tem 8 estacas brilhantes de uma cor espalhadas por Paldea.",
+        "quando": "Pós-jogo (as estacas aparecem depois de falar com a Clavell/Jacq sobre o santuário, ou ao chegar perto).",
+        "passos": [
+          "Visite um dos santuários selados (Grasswither, Icerend, Groundblight e Firescourge) para ativar as estacas daquela cor.",
+          "Arranque as 8 estacas da cor: elas brilham na paisagem.",
+          "Volte ao santuário e capture o lendário (nível 60)."
+        ],
+        "dicas": [
+          "Leve Pokémon com Falso Golpe e Ultra Balls; eles não fogem da batalha."
+        ]
+      }
+    },
+    "gholdengo": {
+      "guia": {
+        "resumo": "Gimmighoul (forma Andarilha) aparece pelo mapa e deixa 1–3 moedas; os baús (forma Baú) ficam em telhados e dão mais.",
+        "passos": [
+          "Capture um Gimmighoul.",
+          "Junte 999 moedas: o Gimmighoul Andarilho aparece ao usar o Rotomphone em modo ativo.",
+          "Com 999 na mochila, suba o Gimmighoul de nível (Rare Candy serve)."
+        ],
+        "dicas": [
+          "Andar com o Rotom Phone em modo de caminhada faz Gimmighouls aparecerem como fantasminhas no chão."
+        ]
+      }
+    },
+    "raide6": {
+      "dificil": true,
+      "guia": {
+        "quando": "Pós-jogo, depois de liberar as reides de 5 estrelas e capturar 1 Pokémon de 5 estrelas.",
+        "passos": [
+          "Os cristais pretos no mapa são as reides 6★.",
+          "Leve um Pokémon nível 100 bem treinado, com um item como Focus Sash ou Sitrus.",
+          "Jogue online ou com amigos: CPU aliada ajuda pouco."
+        ]
+      }
+    },
+    "raide7": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "resumo": "Reides de 7 estrelas aparecem em eventos (Poké Portal > Notícias) com Pokémon da Marca Poderosa.",
+        "passos": [
+          "Atualize as notícias do Poké Portal para baixar o evento.",
+          "Prepare um time específico para o chefe (há guias por evento).",
+          "Vença em grupo; cada Pokémon da Marca Poderosa só pode ser capturado uma vez por save."
+        ]
+      }
+    },
+    "tipos": {
+      "guia": {
+        "passos": [
+          "Os Pokémon de reide trazem tipos Tera diferentes do normal.",
+          "Use Tera Shards com o Chef da Pokémon Center em Medali para trocar o tipo Tera."
+        ]
+      }
+    },
+    "shiny": {
+      "guia": {
+        "passos": [
+          "Faça um sanduíche com Sparkling Power (exige Herba Mystica) do tipo desejado.",
+          "Use o 'surto' de massa (mass outbreak) daquele Pokémon e derrote ~60 para aumentar a chance.",
+          "Com o Amuleto Brilhante a chance fica bem melhor."
+        ]
+      }
+    },
+    "ursaluna": {
+      "guia": {
+        "requisitos": [
+          "DLC The Teal Mask com a história terminada."
+        ],
+        "passos": [
+          "Fale com o Perrin em Kitakami depois da história.",
+          "Siga a missão dela: registre 150 Pokémon na Pokédex de Kitakami.",
+          "Enfrente e capture a Ursaluna Lua Sangrenta na cena final."
+        ]
+      }
+    },
+    "ogerpon": {
+      "guia": {
+        "passos": [
+          "Siga a história do Festival das Máscaras com Carmine e Kieran.",
+          "Recupere as três máscaras roubadas pelos Leais.",
+          "Enfrente e capture a Ogerpon no final."
+        ]
+      }
+    },
+    "leais": {
+      "guia": {
+        "quando": "Depois da história de Kitakami.",
+        "passos": [
+          "Fale com o Ogre Oustin'/o velho do Mercado de Kitakami: ele indica onde estão os Leais.",
+          "Cada um fica num lugar diferente de Kitakami (montanha, caverna e florestas).",
+          "Capture os três (nível 70)."
+        ]
+      }
+    },
+    "mascaras": {
+      "guia": {
+        "passos": [
+          "Teal (verde) vem com ela.",
+          "Wellspring, Hearthflame e Cornerstone são dadas na história.",
+          "Equipe cada uma como item e terastalize."
+        ]
+      }
+    },
+    "ogreoustin": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Montanha das Ondas (a casa da Ogerpon), em Kitakami."
+        ],
+        "passos": [
+          "Jogue o minijogo com a Ogerpon: colete frutas e acerte os 'ogros'.",
+          "Jogue com amigos online para pontuações maiores e frutas melhores."
+        ]
+      }
+    },
+    "bbliga": {
+      "guia": {
+        "requisitos": [
+          "DLC The Indigo Disk."
+        ],
+        "passos": [
+          "Na Academia Mirtilo, cada membro da Elite (Crispin, Amarys, Lacey e Drayton) pede um desafio antes da luta.",
+          "Vença os quatro em batalhas duplas.",
+          "Vença o Campeão Kieran."
+        ]
+      }
+    },
+    "terapagos": {
+      "guia": {
+        "passos": [
+          "Depois de vencer a Liga Mirtilo, desça às profundezas da Área Zero com o grupo.",
+          "Enfrente o chefe final e capture o Terapagos."
+        ]
+      }
+    },
+    "snacksworth": {
+      "guia": {
+        "resumo": "O Snacksworth, no clube da Academia Mirtilo, dá receitas de lanches; cada lanche libera um lendário de gerações antigas no Terrário.",
+        "passos": [
+          "Complete Missões Mirtilo (BBQ) para ganhar receitas.",
+          "Ao provar cada lanche, um lendário aparece no Terrário.",
+          "Capture os 25."
+        ]
+      }
+    },
+    "pecharunt": {
+      "guia": {
+        "requisitos": [
+          "Terminar Teal Mask e Indigo Disk."
+        ],
+        "passos": [
+          "Fale com Carmine/Kieran após o Indigo Disk; o epílogo acontece em Kitakami.",
+          "Vença as batalhas contra os 'Mochi' e o Pecharunt.",
+          "Capture-o."
+        ]
+      }
+    },
+    "ruinas_estacas": {
+      "guia": {
+        "passos": [
+          "As estacas brilham à distância e aparecem como ícones no mapa depois de você visitar o santuário daquela cor.",
+          "Cada cor tem 8 estacas: são 32 no total, espalhadas pelas quatro províncias.",
+          "Arranque segurando A ao lado da estaca."
+        ],
+        "dicas": [
+          "Faça uma cor por vez e marque no mapa as que já pegou."
+        ]
+      }
+    },
+    "kitakami": {
+      "guia": {
+        "passos": [
+          "Explore Kitakami de dia e de noite: vários Pokémon só aparecem em um dos turnos.",
+          "Evolua os Pokémon locais (ex.: Poliwag até Politoed/Poliwrath).",
+          "Alguns registros vêm de troca com o Scarlet."
+        ],
+        "dicas": [
+          "Com 150 registrados, o Perrin libera a Ursaluna Lua Sangrenta."
+        ]
+      }
+    },
+    "bbdex": {
+      "guia": {
+        "passos": [
+          "Explore os quatro biomas do Terrário (Savana, Costa, Cânion e Polar).",
+          "Missões Mirtilo (BBQ) dão Pontos Mirtilo para abrir os biomas e trazer Pokémon de outras regiões.",
+          "Inclui iniciais de todas as gerações, liberados com BP no clube."
+        ]
+      }
+    }
+  }
 }

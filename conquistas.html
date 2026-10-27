@@ -23,7 +23,7 @@
 <!--/SEO-->
 <meta name="description" content="Guias de conquistas e troféus com checklist de progresso, raridade e roteiro para platinar.">
 <link rel="stylesheet" href="shared.css?v=acdc1308">
-<link rel="stylesheet" href="conquistas-app.css?v=2bdc2e4b">
+<link rel="stylesheet" href="conquistas-app.css?v=df71b2f3">
 </head>
 <body>
 
@@ -60,7 +60,7 @@
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="shared.js?v=32a7bb6c"></script>
-<script src="conquistas-app.js?v=70ef7666"></script>
+<script src="conquistas-app.js?v=3fa4b67f"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('ach');
@@ -78,7 +78,8 @@
     document.getElementById('t-loading').textContent = 'Loading games…';
   }
 
-  const PLATS = [['all', T('Todos', 'All')], ['xbox', 'Xbox'], ['ps', 'PlayStation'], ['nin', 'Nintendo'], ['steam', 'Steam']];
+  const PLATS = [['all', T('Todos', 'All')], ['xbox', 'Xbox'], ['ps', 'PlayStation'], ['nin', 'Nintendo'], ['steam', 'Steam'], ['orig', '✦ ' + T('Originais Checkpoint', 'Checkpoint Originals')]];
+  const naPlat = (g, id) => id === 'all' || (id === 'orig' ? g.mode === 'checklist' : g.platforms.includes(id));
   const SORTS = [
     ['az', T('Ordem A–Z', 'A–Z')],
     ['progress', T('Meu progresso', 'My progress')],
@@ -120,8 +121,8 @@
 
   function renderChips() {
     document.getElementById('plat-chips').innerHTML = PLATS.map(([id, lbl]) => {
-      const n = id === 'all' ? games.length : games.filter(g => g.platforms.includes(id)).length;
-      return `<button class="ck-chip${state.plat === id ? ' on' : ''}" data-plat="${id}">${lbl}<span class="n">${n}</span></button>`;
+      const n = games.filter(g => naPlat(g, id)).length;
+      return `<button class="ck-chip${state.plat === id ? ' on' : ''}${id === 'orig' ? ' orig' : ''}" data-plat="${id}">${lbl}<span class="n">${n}</span></button>`;
     }).join('');
     const sel = document.getElementById('sort');
     sel.innerHTML = SORTS.map(([v, l]) => `<option value="${v}"${state.sort === v ? ' selected' : ''}>${l}</option>`).join('');
@@ -177,7 +178,7 @@
     sessionStorage.setItem('ck_list_state', JSON.stringify(state));
     const q = CK.norm(state.q);
     let list = games.filter(j =>
-      (state.plat === 'all' || j.platforms.includes(state.plat)) &&
+      naPlat(j, state.plat) &&
       (!q || CK.norm(j.title + ' ' + j.developer).includes(q)));
     const cmp = {
       az: (a, b) => a.title.localeCompare(b.title),

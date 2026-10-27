@@ -1,23 +1,284 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%.",
+  "resumo": "Kirby and the Forgotten Land não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história (inclusive no Modo Selvagem), 300 Waddle Dees, todas as missões, 256 bonecos, Trilha dos Tesouros, Coliseu, Forgo Dreams e a expansão do Switch 2.",
   "roadmap": [
     {
       "titulo": "1. História",
-      "texto": "Termine os mundos resgatando Waddle Dees."
+      "texto": "Termine os 6 mundos resgatando Waddle Dees."
     },
     {
-      "titulo": "2. Missões",
-      "texto": "Cada fase tem missões escondidas: veja a lista no fim da fase e repita."
+      "titulo": "2. Limpeza",
+      "texto": "Missões escondidas, bonecos, projetos e minijogos."
     },
     {
-      "titulo": "3. Extras",
-      "texto": "Bonecos de cápsula, Trilha dos Tesouros e o Coliseu."
+      "titulo": "3. Pós-jogo",
+      "texto": "Forgo Dreams, Alma do Leon e Morpho Knight."
     },
     {
-      "titulo": "4. Nintendo Switch 2 Edition",
-      "texto": "O pacote Nintendo Switch 2 Edition é vendido à parte: melhora os gráficos e traz a aventura extra Star-Crossed World, que fica na aba própria."
+      "titulo": "4. Coliseu",
+      "texto": "Termine com a Ultimate Cup Z."
+    },
+    {
+      "titulo": "5. Switch 2 Edition",
+      "texto": "As 12 Fases Estreladas ficam na aba própria."
+    },
+    {
+      "titulo": "6. Desafio",
+      "texto": "Um save novo no Modo Selvagem."
     }
   ],
-  "avisos": [],
-  "conquistas": {}
+  "avisos": [
+    "O Modo Selvagem é escolhido ao criar o save e não pode ser trocado depois."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "onde": [
+          "Os 6 mundos: Natural Plains, Everbay Coast, Wondaria Remains, Winter Horns, Originull Wasteland, Redgar Forbidden Lands."
+        ],
+        "passos": [
+          "Avance pelas fases de cada mundo resgatando Waddle Dees: cada chefe exige um número mínimo de Waddle Dees para abrir.",
+          "Vença os chefes de cada mundo (Gorimondo, Tropic Woods, Clawroline, King Dedede, Sillydillo, Forgo Dedede, Leongar...).",
+          "Chegue ao último mundo e vença o confronto final."
+        ]
+      }
+    },
+    "selvagem": {
+      "dificil": true,
+      "guia": {
+        "resumo": "No início do save você escolhe entre Modo Primavera (fácil) e Modo Selvagem (mais dano dos inimigos, menos vida). A escolha vale para o save inteiro.",
+        "passos": [
+          "Crie um save novo e escolha Modo Selvagem.",
+          "Melhore as habilidades de cópia no Waddle Dee Weapons Shop o quanto antes.",
+          "Leve sempre comida guardada (no Modo Selvagem não há tanta cura)."
+        ],
+        "atencao": [
+          "Não dá para trocar a dificuldade de um save já criado."
+        ]
+      }
+    },
+    "waddle": {
+      "guia": {
+        "resumo": "Cada fase tem Waddle Dees presos em gaiolas no fim, nas missões escondidas e espalhados no cenário. Eles aumentam a cidade dos Waddle Dees.",
+        "passos": [
+          "Ao terminar a fase, a tela mostra quantos Waddle Dees você salvou e as missões cumpridas.",
+          "Volte às fases para cumprir as missões que faltam (cada missão dá Waddle Dees).",
+          "Missões escondidas aparecem só depois da primeira vez que você termina a fase."
+        ],
+        "dicas": [
+          "O guia de missões por fase do Nintendo Life lista cada uma.",
+          "Os bosses também dão Waddle Dees ao serem derrotados pela primeira vez."
+        ]
+      }
+    },
+    "missoes": {
+      "guia": {
+        "passos": [
+          "Na seleção de fase, veja a lista de missões (algumas ficam ocultas até a 1ª vitória).",
+          "Missões comuns: achar o item escondido, usar uma Boca Cheia (Mouthful) específica, derrotar o chefe sem sofrer dano, terminar antes do tempo.",
+          "Repita a fase quantas vezes precisar; as missões já feitas ficam marcadas."
+        ]
+      }
+    },
+    "chefe_semdano": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Escolha um chefe que você conheça bem (Gorimondo é ótimo para começar).",
+          "Use a esquiva perfeita (segurar ZR na hora certa ativa câmera lenta)."
+        ]
+      }
+    },
+    "bonecos": {
+      "guia": {
+        "onde": [
+          "Gotcha Machine Alley, na Cidade dos Waddle Dees.",
+          "Cápsulas raras também ficam escondidas nas fases."
+        ],
+        "passos": [
+          "Use moedas estrela nas máquinas; cada máquina tem uma série de bonecos.",
+          "Para alguns bonecos especiais é preciso progresso (ex.: comprar 7 vezes na loja, ver as cenas do Teatro Waddle Dee, vencer a Ultimate Cup Z).",
+          "Confira no álbum de bonecos quais faltam em cada série."
+        ]
+      }
+    },
+    "projetos": {
+      "guia": {
+        "passos": [
+          "Projetos ficam em baús escondidos nas fases e como recompensa de chefes e da Trilha dos Tesouros.",
+          "Leve-os à loja de armas dos Waddle Dees para liberar a evolução."
+        ],
+        "dicas": [
+          "O guia de blueprints do Nintendo Life lista a fase de cada um."
+        ]
+      }
+    },
+    "evolucoes": {
+      "guia": {
+        "requisitos": [
+          "Projetos de todas as evoluções e Pedras Raras."
+        ],
+        "passos": [
+          "Junte Pedras Raras na Trilha dos Tesouros e nas missões.",
+          "Melhore cada habilidade na Waddle Dee Weapons Shop.",
+          "As evoluções finais exigem os projetos do pós-jogo (Ilhas Isoladas)."
+        ]
+      }
+    },
+    "trilha": {
+      "guia": {
+        "resumo": "Desafios curtos de cada habilidade e Boca Cheia, com tempo-alvo. Bater o tempo dá Pedra Rara extra.",
+        "onde": [
+          "Portais azuis dentro de cada mundo do mapa."
+        ],
+        "passos": [
+          "Entre no portal e complete o percurso.",
+          "Volte para bater o tempo-alvo de cada um."
+        ]
+      }
+    },
+    "trilha_tempo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Use as evoluções mais fortes das habilidades: elas são mais rápidas.",
+          "Corra o percurso uma vez para decorar e depois busque o tempo."
+        ]
+      }
+    },
+    "coliseu": {
+      "guia": {
+        "onde": [
+          "Coliseu, na Cidade dos Waddle Dees (abre ao avançar na história)."
+        ],
+        "passos": [
+          "Cada copa é uma sequência de chefes sem cura entre eles (só itens limitados).",
+          "Novas copas abrem conforme você avança na história e no pós-jogo."
+        ]
+      }
+    },
+    "ultimatez": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "Pós-jogo concluído (Ilhas Isoladas)."
+        ],
+        "passos": [
+          "É a copa mais difícil, com todos os chefes Fantasma e o Morpho Knight no final.",
+          "Use a habilidade que você domina melhor no nível máximo (Espada ou Tornado são populares).",
+          "Guarde os Maxim Tomatoes para as últimas lutas."
+        ],
+        "dicas": [
+          "Vencer dá dois bonecos de cápsula especiais."
+        ]
+      }
+    },
+    "ilhas": {
+      "guia": {
+        "quando": "Pós-jogo.",
+        "onde": [
+          "Forgo Plains, Forgo Bay, Forgo Park, Forgo Horns, Forgo Wasteland e Forgo Zone."
+        ],
+        "passos": [
+          "Cada área é uma fase de desafio que só usa habilidades fixas, sem cura entre salas.",
+          "Junte os Pedaços da Alma do Leon em todas.",
+          "Derrote os chefes Fantasma e o Morpho Knight."
+        ]
+      }
+    },
+    "alma": {
+      "guia": {
+        "passos": [
+          "Os pedaços ficam espalhados nas 6 áreas de Forgo Dreams.",
+          "Alguns ficam em salas secretas: procure paredes quebráveis e caminhos laterais."
+        ]
+      }
+    },
+    "morpho": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Aparece no final de Forgo Dreams.",
+          "Os ataques em linha reta são telegrafados: esquive para o lado no último momento.",
+          "A segunda fase cria pilares de fogo; mantenha distância e ataque depois das combinações."
+        ]
+      }
+    },
+    "cafe": {
+      "guia": {
+        "onde": [
+          "Cafeteria dos Waddle Dees, na cidade."
+        ],
+        "passos": [
+          "Fale com o dono e aceite o trabalho.",
+          "Sirva os pedidos certos rápido; cada nível é mais difícil."
+        ]
+      }
+    },
+    "pesca": {
+      "guia": {
+        "passos": [
+          "No minijogo de pesca da cidade, puxe a vara exatamente quando o '!' aparecer.",
+          "O Bling Blipper é o peixe dourado raro: só aparece nos níveis mais altos do minijogo."
+        ]
+      }
+    },
+    "tilt": {
+      "guia": {
+        "passos": [
+          "O minijogo fica na cidade; incline o tabuleiro com o controle de movimento.",
+          "Leve o Kirby até o gol nos três níveis."
+        ]
+      }
+    },
+    "100": {
+      "dificil": true,
+      "guia": {
+        "resumo": "O progresso aparece no menu de arquivos. Ao chegar a 100% você ganha uma recompensa especial.",
+        "passos": [
+          "Tudo desta lista conta: Waddle Dees, missões, bonecos, Trilha dos Tesouros e minijogos.",
+          "Veja o menu para saber o que falta."
+        ]
+      }
+    },
+    "sc_fases": {
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch 2 Edition + Star-Crossed World (vendida à parte)."
+        ],
+        "onde": [
+          "Duas Fases Estreladas por mundo, marcadas com o cristal no mapa."
+        ],
+        "passos": [
+          "Entre na fase: rotas e chefes novos, inimigos mais fortes e superfícies de cristal.",
+          "Termine as 12."
+        ]
+      }
+    },
+    "sc_starries": {
+      "guia": {
+        "resumo": "No Star-Crossed World os Waddle Dees escondidos são substituídos pelas Estrelinhas.",
+        "passos": [
+          "Explore cada canto e use a habilidade certa em objetos destrutíveis: muitas ficam atrás de cristais.",
+          "Confira a contagem ao fim de cada fase."
+        ]
+      }
+    },
+    "sc_missoes": {
+      "guia": {
+        "passos": [
+          "Assim como no jogo base, algumas missões só aparecem depois da primeira vitória.",
+          "As novas Bocas Cheias do Star-Crossed World costumam ser exigidas."
+        ]
+      }
+    },
+    "sc_bocas": {
+      "guia": {
+        "resumo": "O Star-Crossed World traz três transformações Boca Cheia novas.",
+        "passos": [
+          "Elas aparecem nas Fases Estreladas, em pontos marcados por estrelas.",
+          "Use cada uma pelo menos uma vez; várias missões das Fases Estreladas pedem isso."
+        ]
+      }
+    }
+  }
 }

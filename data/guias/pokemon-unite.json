@@ -1,21 +1,95 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. MOBA 5x5 online.",
+  "resumo": "Pokémon UNITE não tem conquistas oficiais. As Conquistas originais Checkpoint cobrem progresso de licenças, funções e ranks.",
   "roadmap": [
     {
-      "titulo": "1. Aprenda",
-      "texto": "Faça o treinamento e jogue partidas rápidas."
+      "titulo": "1. Começo",
+      "texto": "Treino e licenças."
     },
     {
-      "titulo": "2. Licenças",
-      "texto": "Libere Pokémon e experimente cada função."
+      "titulo": "2. Funções",
+      "texto": "Vença com cada função."
     },
     {
-      "titulo": "3. Ranqueada",
-      "texto": "Suba de classe até a Mestre numa temporada."
+      "titulo": "3. Ranqueadas",
+      "texto": "Do Iniciante ao Mestre."
     }
   ],
   "avisos": [
-    "Precisa de internet."
+    "É um jogo só online.",
+    "A Nintendo Everything noticiou o fim do serviço do Pokémon UNITE em 23/03/2027; se isso se confirmar, as conquistas deixam de ser possíveis depois dessa data."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "tutorial": {
+      "guia": {
+        "passos": [
+          "Faça o Treinamento no menu principal.",
+          "As missões de iniciante dão licenças e moedas Aeos."
+        ]
+      }
+    },
+    "licencas": {
+      "guia": {
+        "passos": [
+          "Compre licenças com moedas Aeos ou ganhe em eventos e missões."
+        ]
+      }
+    },
+    "zapdos": {
+      "guia": {
+        "passos": [
+          "Zapdos aparece nos últimos 2 minutos no centro do mapa.",
+          "Junte o time e use o golpe Unite para garantir o último golpe."
+        ]
+      }
+    },
+    "veterano": {
+      "guia": {
+        "passos": [
+          "Ranks: Iniciante, Ótimo, Especialista, Veterano, Ultra e Mestre.",
+          "Partidas ranqueadas abrem no nível de Treinador 6 com licenças suficientes."
+        ]
+      }
+    },
+    "ultra": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Siga jogando ranqueadas depois do Veterano.",
+          "Foque em 2 ou 3 Pokémon."
+        ]
+      }
+    },
+    "mestre": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Jogue em grupo (pré-montado) para mais consistência.",
+          "Escolha 2–3 Pokémon e domine-os; a classe Mestre pede taxa de vitória alta."
+        ]
+      }
+    },
+    "funcoes": {
+      "guia": {
+        "passos": [
+          "Vença uma partida com um Pokémon de cada uma das 5 funções."
+        ]
+      }
+    },
+    "mvp": {
+      "guia": {
+        "passos": [
+          "O MVP é o jogador com maior pontuação no fim.",
+          "Marque pontos no gol e participe das lutas pelos objetivos."
+        ]
+      }
+    },
+    "passe": {
+      "guia": {
+        "passos": [
+          "Faça as missões diárias e semanais do Passe.",
+          "O Passe Premium dá mais recompensas, mas o nível é o mesmo."
+        ]
+      }
+    }
+  }
 }

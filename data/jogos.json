@@ -11,8 +11,8 @@
       "steam"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 5,
@@ -42,8 +42,8 @@
       "steam"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -73,7 +73,7 @@
       "steam"
     ],
     "labels": {
-      "ps": "Platina",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -102,7 +102,7 @@
       "steam"
     ],
     "labels": {
-      "ps": "Platina",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 2,
@@ -132,7 +132,7 @@
       "steam"
     ],
     "labels": {
-      "ps": "Platina",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -163,8 +163,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -196,8 +196,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -228,7 +228,7 @@
       "steam"
     ],
     "labels": {
-      "xbox": "Conquistas",
+      "xbox": "",
       "steam": ""
     },
     "difficulty": 7,
@@ -257,7 +257,7 @@
       "steam"
     ],
     "labels": {
-      "xbox": "Conquistas",
+      "xbox": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -288,8 +288,8 @@
       "steam"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -320,8 +320,8 @@
       "steam"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -348,7 +348,7 @@
       "ps"
     ],
     "labels": {
-      "ps": "Platina"
+      "ps": ""
     },
     "difficulty": 5,
     "hours": "50–60h",
@@ -432,8 +432,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -466,8 +466,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -499,7 +499,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -530,7 +531,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "200G",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -563,7 +565,7 @@
     ],
     "labels": {
       "xbox": "",
-      "ps": "Troféus",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -595,8 +597,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Platina",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -629,8 +631,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -662,8 +664,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -692,8 +694,8 @@
       "steam"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -827,8 +829,8 @@
       "steam"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 6,
@@ -857,8 +859,8 @@
       "steam"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -992,8 +994,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -3855,8 +3857,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -3888,8 +3890,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -3921,8 +3923,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -3954,8 +3956,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -3987,8 +3989,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -4020,8 +4022,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -4081,8 +4083,8 @@
       "nin"
     ],
     "labels": {
-      "xbox": "1000G",
-      "ps": "Troféus",
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },

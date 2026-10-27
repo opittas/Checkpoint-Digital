@@ -1,23 +1,187 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Você é um Ditto transformando uma ilha vazia num lar para Pokémon.",
+  "resumo": "Pokémon Pokopia não tem conquistas oficiais. As Conquistas originais Checkpoint seguem o 100% da comunidade: história, nível ambiental 10, Pokédex de 300, habitats, colecionáveis e desafios.",
   "roadmap": [
     {
-      "titulo": "1. Comece",
-      "texto": "Pegue tudo o que encontrar: galhos, pedras e até lixo servem depois."
+      "titulo": "1. História",
+      "texto": "10 Pedidos Importantes e o Desafio de Iniciação."
     },
     {
-      "titulo": "2. Construir",
-      "texto": "Junte materiais e leve Pokémon com a habilidade certa ao local da obra. Construções levam tempo real."
+      "titulo": "2. Pós-créditos",
+      "texto": "Nível 10 em todas as regiões."
     },
     {
-      "titulo": "3. Habitats",
-      "texto": "Cada Pokémon aparece num habitat próprio, às vezes só em certo horário ou clima."
+      "titulo": "3. Pokédex",
+      "texto": "Use a Pokédex de Habitats como roteiro."
     },
     {
-      "titulo": "4. Novas áreas",
-      "texto": "Cumpra os requisitos de melhoria para liberar outros mundos."
+      "titulo": "4. Colecionáveis",
+      "texto": "Quebre todo Ponto Brilhante com Rock Smash."
     }
   ],
-  "avisos": [],
-  "conquistas": {}
+  "avisos": [
+    "Os números (300, 209+, 43, 83) vêm de wikis da comunidade e podem mudar com atualizações."
+  ],
+  "conquistas": {
+    "centro": {
+      "guia": {
+        "resumo": "Você é um Ditto que aprende habilidades dos Pokémon para restaurar a ilha. O Centro Pokémon é a primeira obra.",
+        "passos": [
+          "Junte galhos e pedras no Withered Wasteland.",
+          "Leve os materiais ao local da obra e chame os Pokémon com a especialidade necessária.",
+          "Obras levam tempo real para terminar."
+        ]
+      }
+    },
+    "historia": {
+      "guia": {
+        "onde": [
+          "As quatro regiões da história: Withered Wasteland, Bleak Beach, Rocky Ridges e Sparkling Skylands."
+        ],
+        "passos": [
+          "Withered Wasteland: Centro Pokémon, 'Yawn up a Storm' (chuva com o Snorlax) e Nível Ambiental 5.",
+          "Bleak Beach: devolva luz e energia à vila e chegue ao nível 5.",
+          "Rocky Ridges: monte uma cidade divertida ('Time to Party!') e chegue ao nível 5.",
+          "Sparkling Skylands: reconstrua o Grande Prédio com o Tinkmaster e chegue ao nível 5.",
+          "Desafio de Iniciação da Equipe: 8 etapas de entrega de materiais (frutas Leppa, colheitas, madeira, tijolos, eletricidade, móveis, fotos)."
+        ]
+      }
+    },
+    "nivel10": {
+      "dificil": true,
+      "guia": {
+        "quando": "Pós-créditos (o nível passa de 5).",
+        "passos": [
+          "O nível sobe fazendo amizade com Pokémon, construindo, plantando, limpando lixo e cumprindo pedidos.",
+          "Faça também a Palette Town (região livre), que não é obrigatória para os créditos."
+        ]
+      }
+    },
+    "pokedex": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Cada Pokémon aparece num habitat específico, às vezes só em certos horários ou climas.",
+        "passos": [
+          "Consulte a Pokédex de Habitats: ela mostra os itens necessários para cada habitat.",
+          "Monte o habitat (grama, árvores, pedras, móveis) e espere o Pokémon chegar.",
+          "Faça amizade para registrá-lo."
+        ],
+        "dicas": [
+          "Completar a Pokédex abre uma sala especial com móveis exclusivos."
+        ]
+      }
+    },
+    "habitats": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "A Pokédex de Habitats lista os itens de cada habitat.",
+          "Muitos habitats compartilham peças: monte vários juntos."
+        ]
+      }
+    },
+    "lendarios": {
+      "guia": {
+        "passos": [
+          "As aves lendárias (Articuno, Zapdos, Moltres) têm construções próprias.",
+          "Mais lendários aparecem depois dos créditos.",
+          "Mew vem da Parede Misteriosa (veja a conquista das Lousas)."
+        ]
+      }
+    },
+    "mew": {
+      "guia": {
+        "resumo": "São 26 letras Unown e uma para '!/?'.",
+        "onde": [
+          "As lousas saem de Pontos Brilhantes quebrados com Rock Smash em todas as regiões.",
+          "O mural fica no Withered Wasteland (Dusty Desert)."
+        ],
+        "passos": [
+          "Leve sempre um Pokémon com Rock Smash e quebre todo Ponto Brilhante.",
+          "Coloque as 27 lousas no mural."
+        ]
+      }
+    },
+    "fosseis": {
+      "guia": {
+        "onde": [
+          "Museu de Rocky Ridges."
+        ],
+        "passos": [
+          "Peças saem de blocos de tesouro dourados enterrados (aleatórias).",
+          "Monte o conjunto num pedestal: vira um habitat e o fóssil ganha vida."
+        ]
+      }
+    },
+    "cds": {
+      "guia": {
+        "passos": [
+          "CDs vêm de tesouros enterrados, lojas e recompensas de pedidos.",
+          "Entregue ao DJ Rotom perto de um porta-CDs para tocar."
+        ]
+      }
+    },
+    "registros": {
+      "guia": {
+        "resumo": "Mais de 100 registros em 7 categorias; alguns liberam gestos e roupas."
+      }
+    },
+    "reliquias": {
+      "guia": {
+        "atencao": [
+          "Não venda relíquias antes de avaliar."
+        ]
+      }
+    },
+    "eevee": {
+      "guia": {
+        "onde": [
+          "PC do Centro Pokémon da Palette Town."
+        ],
+        "passos": [
+          "Cada desafio dá uma comida (ex.: Pizza para Flareon, Bolo de Fita para Sylveon).",
+          "Coloque a comida num prato, numa mesa com cadeira: vira o habitat daquela Eeveelution."
+        ]
+      }
+    },
+    "sonho": {
+      "guia": {
+        "passos": [
+          "Peça ao Drifloon para levar você a uma Ilha dos Sonhos (uma por dia).",
+          "Bonecos dão acesso aos tipos de ilha."
+        ]
+      }
+    },
+    "carimbos": {
+      "guia": {
+        "passos": [
+          "O rali semanal dá Moedas da Vida; carimbos míticos valem 1.000."
+        ]
+      }
+    },
+    "shiny": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Shiny aparecem raramente no lugar dos normais.",
+          "Monte vários habitats do mesmo Pokémon para aumentar as visitas."
+        ]
+      }
+    },
+    "predios": {
+      "guia": {
+        "passos": [
+          "Residências (4 tamanhos), Centros Pokémon (um por região), estruturas de energia, as instalações das aves lendárias e especiais (Farol, Museu).",
+          "Os kits de construção mostram os materiais necessários."
+        ]
+      }
+    },
+    "pedidos": {
+      "guia": {
+        "passos": [
+          "Pedidos gerais são entregas, escoltas e favores dos Pokémon.",
+          "Confira o registro de pedidos no menu."
+        ]
+      }
+    }
+  }
 }

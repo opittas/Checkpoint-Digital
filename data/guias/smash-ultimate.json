@@ -1,23 +1,186 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%.",
+  "resumo": "Super Smash Bros. Ultimate não tem conquistas oficiais no console. As Conquistas originais Checkpoint cobrem lutadores, Mundo da Luz (com o final verdadeiro), Clássico na intensidade máxima, espíritos, desafios e o online.",
   "roadmap": [
     {
       "titulo": "1. Lutadores",
-      "texto": "Jogue o Modo Clássico e partidas para liberar todos os lutadores."
+      "texto": "Libere todos jogando Clássico e Smash."
     },
     {
       "titulo": "2. Mundo da Luz",
-      "texto": "Termine a aventura e junte espíritos."
+      "texto": "Final verdadeiro e 100%."
     },
     {
-      "titulo": "3. Desafios",
-      "texto": "Use o Painel de Desafios para ver o que falta; o martelo de ouro pula desafios difíceis."
+      "titulo": "3. Clássico",
+      "texto": "Com todos os lutadores; depois na 9.9."
     },
     {
-      "titulo": "4. Online",
-      "texto": "Elite Smash pede um bom número de vitórias online com o mesmo lutador."
+      "titulo": "4. Desafios",
+      "texto": "Painel de Desafios e Smash em Massa."
+    },
+    {
+      "titulo": "5. Online",
+      "texto": "Elite Smash."
+    },
+    {
+      "titulo": "6. DLC",
+      "texto": "Lutadores do Fighters Pass na aba própria."
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "lutadores": {
+      "guia": {
+        "resumo": "O jogo começa com os 8 lutadores originais do Smash 64; os outros aparecem como 'Um novo desafiante!' e precisam ser derrotados.",
+        "passos": [
+          "Jogue o Modo Clássico com qualquer lutador: cada vitória faz um desafiante aparecer.",
+          "Ou jogue partidas de Smash comuns: a cada ~10 minutos de jogo aparece um desafiante.",
+          "No Mundo da Luz, libertar lutadores também os libera.",
+          "Se perder para o desafiante, ele volta na Sala dos Desafiantes (menu Jogos e Mais)."
+        ],
+        "dicas": [
+          "Fechar e abrir o jogo entre partidas ajuda: o primeiro desafiante aparece mais rápido."
+        ]
+      }
+    },
+    "luz": {
+      "guia": {
+        "resumo": "O modo aventura tem 3 finais. O verdadeiro exige derrotar os dois chefes finais (Galeem e Dharkon) na batalha conjunta.",
+        "passos": [
+          "Avance pelo mapa da Luz, depois pelo mapa das Trevas.",
+          "Na batalha final, derrote Galeem e Dharkon de forma que nenhum dos dois vença o outro.",
+          "Assista ao final verdadeiro."
+        ]
+      }
+    },
+    "luz_dificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Comece um save novo do Mundo da Luz escolhendo Difícil.",
+          "Melhore os espíritos na Dojo e use espíritos de suporte que anulam os perigos do cenário."
+        ]
+      }
+    },
+    "luz100": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Explore todos os caminhos dos dois mapas; algumas batalhas secretas ficam atrás de quebra-cabeças.",
+          "Abra todos os baús e liberte todos os espíritos do modo."
+        ]
+      }
+    },
+    "classico": {
+      "guia": {
+        "passos": [
+          "Cada lutador tem uma rota temática de 6 lutas + chefe.",
+          "Termine com cada um; a vitória deixa a borda do retrato do lutador marcada."
+        ]
+      }
+    },
+    "classico99": {
+      "dificil": true,
+      "guia": {
+        "resumo": "A intensidade sobe a cada luta vencida sem perder; ao perder ela cai. Para chegar a 9.9 é preciso começar alto e não perder.",
+        "passos": [
+          "Comece o Clássico na intensidade mais alta que o jogo deixar escolher (subir a intensidade inicial custa ouro).",
+          "Vença sem perder nenhuma luta para que suba até 9.9 antes do chefe.",
+          "Chegando ao fim em 9.9 você passa pela 'portinha' da intensidade máxima."
+        ],
+        "dicas": [
+          "Use o lutador que você domina melhor.",
+          "Bilhetes de bônus (Clear Ticket) podem salvar a run."
+        ]
+      }
+    },
+    "espiritos": {
+      "guia": {
+        "onde": [
+          "Quadro de Espíritos (menu Espíritos) — batalhas renovadas de tempos em tempos.",
+          "Loja (Vault) — espíritos à venda que mudam com o tempo.",
+          "Mundo da Luz e Clássico (recompensas)."
+        ],
+        "passos": [
+          "Jogue o Quadro de Espíritos regularmente; os espíritos raros aparecem em horários especiais.",
+          "Use itens como 'Desacelerar' na roleta de captura."
+        ]
+      }
+    },
+    "desafios": {
+      "guia": {
+        "onde": [
+          "Menu Coleção > Desafios."
+        ],
+        "passos": [
+          "Cada quadrado é uma tarefa (ex.: vencer o Clássico com tal lutador, fazer X KOs, jogar tal modo).",
+          "Use os Martelos de Ouro (você ganha alguns) para pular desafios difíceis, mas guarde-os para os piores."
+        ]
+      }
+    },
+    "musica": {
+      "guia": {
+        "passos": [
+          "Músicas saem da loja (Vault) e de recompensas.",
+          "Confira em Coleção > Músicas quais estão faltando."
+        ]
+      }
+    },
+    "cruel": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Jogos e Mais > Smash em Massa (Mob Smash) > Smash Cruel."
+        ],
+        "passos": [
+          "Os inimigos são muito fortes e o objetivo é sobreviver.",
+          "Fique na beirada, escapando com o recovery; bloqueie muito."
+        ]
+      }
+    },
+    "century": {
+      "guia": {
+        "passos": [
+          "Smash em Massa > Smash dos 100.",
+          "Ataques de área fortes ajudam muito (ex.: lutadores pesados com smash forte)."
+        ]
+      }
+    },
+    "allstar": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Smash em Massa > Todas as Estrelas.",
+          "Enfrente todos os lutadores em sequência com vida limitada; os de cura aparecem entre as lutas."
+        ]
+      }
+    },
+    "elite": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online."
+        ],
+        "passos": [
+          "Jogue no Smash Rápido (Quickplay) com o mesmo lutador.",
+          "Seu 'GSP' sobe com vitórias; ao passar do limite do Elite, a tela mostra o aviso."
+        ]
+      }
+    },
+    "dlc": {
+      "guia": {
+        "requisitos": [
+          "Fighters Pass Vol. 1 e 2 (DLC)."
+        ]
+      }
+    },
+    "dlc_classico": {
+      "guia": {
+        "passos": [
+          "Cada lutador DLC tem uma rota própria de Clássico.",
+          "Termine com todos."
+        ]
+      }
+    }
+  }
 }

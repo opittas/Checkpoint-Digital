@@ -1,23 +1,164 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%.",
+  "resumo": "New Super Mario Bros. U Deluxe não tem conquistas oficiais. As Conquistas originais Checkpoint seguem as 5 estrelas do save, os Desafios e o New Super Luigi U.",
   "roadmap": [
     {
       "titulo": "1. História",
-      "texto": "Termine os mundos até o Bowser."
+      "texto": "Derrote o Bowser."
     },
     {
-      "titulo": "2. Moedas-estrela",
-      "texto": "Volte nas fases com pássaros e use a Toadette se precisar."
+      "titulo": "2. Segredos",
+      "texto": "Saídas secretas e moedas-estrela."
     },
     {
-      "titulo": "3. Segredos",
-      "texto": "As saídas secretas abrem caminhos e a Estrada Superestrela."
+      "titulo": "3. Estrada Superestrela",
+      "texto": "As 9 fases mais difíceis."
     },
     {
-      "titulo": "4. Luigi U",
-      "texto": "A campanha do Luigi é mais curta e bem mais difícil."
+      "titulo": "4. Cinco estrelas",
+      "texto": "Nabbits e moedas da Estrada Superestrela."
+    },
+    {
+      "titulo": "5. Luigi U",
+      "texto": "A campanha extra, na aba própria."
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "bowser": {
+      "guia": {
+        "onde": [
+          "Mundos: Acorn Plains, Layer-Cake Desert, Sparkling Waters, Frosted Glacier, Soda Jungle, Rock-Candy Mines, Meringue Clouds e Peach's Castle."
+        ],
+        "passos": [
+          "Avance pelo mapa até o Castelo da Peach.",
+          "Vença o Bowser no topo do castelo.",
+          "O save ganha a 1ª estrela."
+        ],
+        "dicas": [
+          "Jogar de Toadette e pegar a Super Coroa vira Peachette, que flutua e volta automaticamente de buracos uma vez."
+        ]
+      }
+    },
+    "todasfases": {
+      "guia": {
+        "passos": [
+          "Fases com bandeira vermelha no mapa ainda têm saídas secretas.",
+          "Procure canos, bandeiras alternativas ou portas escondidas que levam à 2ª saída.",
+          "Quando todas as fases e caminhos estiverem abertos, o save ganha a 2ª estrela."
+        ],
+        "dicas": [
+          "As fases-fantasma (casas mal-assombradas) quase sempre têm uma saída secreta."
+        ]
+      }
+    },
+    "saidas": {
+      "guia": {
+        "passos": [
+          "No mapa, fases com saída secreta mostram um ícone de duas saídas depois de achadas.",
+          "Exemplos de truques: bandeira escondida atrás de uma parede, cano no alto atrás de blocos, chave nas casas fantasmas."
+        ]
+      }
+    },
+    "moedas1": {
+      "guia": {
+        "resumo": "Cada fase tem 3 moedas-estrela. Elas abrem as fases da Estrada Superestrela.",
+        "passos": [
+          "Entre na fase e confira no topo da tela quais das 3 você já tem.",
+          "Muitas ficam atrás de paredes falsas, no alto (use a Hélice ou o Esquilo-Voador) ou embaixo de canos.",
+          "Use os 'Hint Movies' do jogo para ver onde cada uma fica."
+        ]
+      }
+    },
+    "superestrela": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "As fases da Estrada Superestrela abrem gastando moedas-estrela em cada mundo.",
+          "Termine as 9; a última (Champion's Road) é a mais difícil do jogo.",
+          "Com a nona aberta, o save ganha a 4ª estrela."
+        ],
+        "dicas": [
+          "Na Champion's Road, aprenda o caminho com Peachette e só depois tente sem ela."
+        ]
+      }
+    },
+    "nabbits": {
+      "guia": {
+        "passos": [
+          "O Nabbit aparece correndo no mapa de cada mundo com um saco de itens.",
+          "Entre na fase em que ele está e alcance-o antes do fim para pegar o item."
+        ]
+      }
+    },
+    "cincoestrelas": {
+      "dificil": true,
+      "guia": {
+        "resumo": "A 5ª estrela pede os 7 Nabbits e todas as moedas-estrela da Estrada Superestrela, além de todas as saídas.",
+        "passos": [
+          "Complete as 4 estrelas anteriores.",
+          "Pegue os 7 Nabbits e as moedas-estrela das 9 fases da Estrada Superestrela.",
+          "Com 5 estrelas, as Casas do Toad ficam sempre ativas."
+        ]
+      }
+    },
+    "desafios": {
+      "guia": {
+        "onde": [
+          "Menu principal > Desafios."
+        ],
+        "passos": [
+          "São mini-provas: correr uma fase rápido, juntar moedas, sequências de 1-UP e provas especiais.",
+          "Ganhe medalha de ouro em cada uma."
+        ]
+      }
+    },
+    "ouro": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Cada desafio mostra o tempo ou a pontuação do ouro.",
+          "Os de 1-UP pedem sequências de pulos sem tocar o chão em cima de inimigos."
+        ]
+      }
+    },
+    "semguia": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Jogue com Mario ou Luigi do começo ao fim.",
+          "Nunca aceite o bloco verde da Super Guia quando morrer várias vezes."
+        ]
+      }
+    },
+    "luigi": {
+      "guia": {
+        "resumo": "Campanha extra mais curta e mais difícil: cada fase tem só 100 segundos e o Luigi pula mais alto e escorrega mais.",
+        "passos": [
+          "No menu principal, escolha New Super Luigi U.",
+          "Termine os mundos até o Bowser."
+        ],
+        "dicas": [
+          "As fases são curtas: corra sempre segurando o botão de corrida."
+        ]
+      }
+    },
+    "luigimoedas": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Cada fase tem 3 moedas-estrela, mas o tempo é curto: aprenda a rota de cada fase.",
+          "Use o Nabbit (personagem jogável) se quiser: ele não sofre dano de inimigos."
+        ]
+      }
+    },
+    "luigicinco": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Igual ao Mario: Bowser, todas as fases, todas as moedas-estrela e a Estrada Superestrela.",
+          "A Estrada Superestrela do Luigi U é bem mais difícil."
+        ]
+      }
+    }
+  }
 }

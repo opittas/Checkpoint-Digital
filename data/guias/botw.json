@@ -1,23 +1,449 @@
 {
-  "resumo": "Jogos da Nintendo não têm sistema de conquistas. Esta é uma checklist de 100% para você acompanhar o que falta — marque cada meta concluída.",
+  "resumo": "Breath of the Wild não tem conquistas oficiais no console. Estas são as Conquistas originais Checkpoint: 120 santuários, 900 Koroks, Feras, memórias, compêndio, Medalhas de Honra, Ilha Eventide e mais. A aba do Passe de Expansão traz Modo Mestre, Prova da Espada e a Balada; a da Switch 2 Edition traz as 19 medalhas do Zelda Notes no nível Mestre.",
   "roadmap": [
     {
-      "titulo": "Planalto e torres",
-      "texto": "Ative as torres Sheikah: elas revelam o mapa e facilitam encontrar santuários e sementes Korok."
+      "titulo": "1. Grande Planalto",
+      "texto": "Os 4 santuários iniciais e o paraglider."
     },
     {
-      "titulo": "Feras Divinas",
-      "texto": "Liberte as quatro em qualquer ordem; cada uma dá um poder de campeão."
+      "titulo": "2. Feras Divinas",
+      "texto": "Liberte as quatro em qualquer ordem."
     },
     {
-      "titulo": "Limpeza",
-      "texto": "Santuários, sementes Korok (o Saco de Hestu cresce com elas), memórias e compêndio."
+      "titulo": "3. Exploração",
+      "texto": "Torres, santuários, Koroks e memórias."
+    },
+    {
+      "titulo": "4. Final",
+      "texto": "Espada Mestra e Ganon."
+    },
+    {
+      "titulo": "5. Limpeza",
+      "texto": "Compêndio, Medalhas de Honra, missões e Tarrey."
+    },
+    {
+      "titulo": "6. DLC",
+      "texto": "Modo Mestre, Prova da Espada e a Balada dos Campeões."
     },
     {
       "titulo": "Nintendo Switch 2 Edition",
-      "texto": "Vendida à parte, melhora os gráficos e traz o Zelda Notes no app Nintendo Switch. Fica numa aba separada e não conta no 100% do jogo base."
+      "texto": "Vendida à parte; as medalhas do Zelda Notes ficam na aba própria e não contam no 100% do jogo base."
     }
   ],
-  "avisos": [],
-  "conquistas": {}
+  "avisos": [
+    "As medalhas do Zelda Notes exigem a Switch 2 Edition, o app Nintendo Switch e internet."
+  ],
+  "conquistas": {
+    "planalto": {
+      "guia": {
+        "passos": [
+          "Santuários Oman Au (Ímã), Ja Baij (Bombas), Owa Daim (Stasis) e Keh Namut (Cryonis).",
+          "Volte ao Templo do Tempo e fale com o Velho: ele entrega o paraglider."
+        ],
+        "dicas": [
+          "Para Keh Namut, faça antes uma Sopa Picante ou pegue a roupa do Velho para aguentar o frio."
+        ]
+      }
+    },
+    "santuarios": {
+      "guia": {
+        "resumo": "Cada santuário dá um Emblema do Triunfo; 4 emblemas viram 1 coração ou um pedaço de vigor na estátua da Deusa.",
+        "passos": [
+          "Ative as torres Sheikah de cada região para revelar o mapa.",
+          "Use o Sensor do Sheikah Slate (configurado para santuários) para achar os escondidos.",
+          "42 santuários são de 'missão de santuário': precisam resolver um enigma no mundo antes de aparecer."
+        ],
+        "dicas": [
+          "Compre os 'Diários de Viagem' de NPCs nas cavalariças: eles dão pistas dos santuários de missão."
+        ]
+      }
+    },
+    "korok": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Os Koroks se escondem sob pedras, em balões, círculos de pedra, flores que se movem e enigmas do cenário. 441 sementes já bastam para expandir todo o inventário com o Hestu.",
+        "passos": [
+          "Leve as sementes ao Hestu (primeiro encontro na estrada para Kakariko) para aumentar os espaços de armas, escudos e arcos.",
+          "Use a Máscara Korok (DLC) se tiver: ela treme quando há um Korok perto.",
+          "Procure padrões: pedras isoladas no topo de montanhas, anéis de pedra faltando uma, cata-ventos, alvos em árvores."
+        ],
+        "dicas": [
+          "Com a Switch 2 Edition, a Navegação do Zelda Notes mostra os Koroks que faltam."
+        ],
+        "atencao": [
+          "Ao pegar as 900, o Hestu dá o 'presente' dourado dele. É só uma piada — não perca o sono por isso."
+        ]
+      }
+    },
+    "feras": {
+      "guia": {
+        "onde": [
+          "Vah Ruta — Domínio Zora (Mipha)",
+          "Vah Rudania — Montanha da Morte (Daruk)",
+          "Vah Medoh — Vila Rito (Revali)",
+          "Vah Naboris — Deserto Gerudo (Urbosa)"
+        ],
+        "passos": [
+          "Cada Fera tem um Selo Guardião: ative todos os terminais e enfrente o Ganon de dentro.",
+          "Ao libertar, você ganha a habilidade do campeão e um coração extra."
+        ]
+      }
+    },
+    "memorias": {
+      "guia": {
+        "resumo": "12 memórias vêm das fotos do Sheikah Slate; a 13ª (a principal) aparece ao achar as outras 12 ou ao pegar a Espada Mestra, junto ao final verdadeiro.",
+        "passos": [
+          "Fale com a Impa em Kakariko e depois com o Purah em Hateno para receber as fotos.",
+          "Cada foto mostra um lugar de Hyrule: vá até ele e procure o brilho no chão.",
+          "Com todas, assista à memória final na Impa."
+        ],
+        "dicas": [
+          "O final verdadeiro do jogo depende das memórias."
+        ]
+      }
+    },
+    "espada": {
+      "guia": {
+        "requisitos": [
+          "13 corações permanentes (não contam os amarelos temporários)."
+        ],
+        "onde": [
+          "Floresta Perdida, no centro-norte de Hyrule; siga as tochas para não se perder na névoa."
+        ],
+        "passos": [
+          "Atravesse a Floresta Perdida seguindo a direção do vento das tochas.",
+          "Na Floresta dos Korok, puxe a espada do pedestal segurando A.",
+          "Se faltar vida, Link cai — volte com mais corações."
+        ]
+      }
+    },
+    "ganon": {
+      "guia": {
+        "passos": [
+          "Entre no Castelo de Hyrule (dá para ir direto do Planalto, mas é muito difícil).",
+          "Vença o Ganon da Calamidade e o Ganon Besta Sombria na planície."
+        ],
+        "dicas": [
+          "Com as 4 Feras libertadas, elas tiram metade da vida do Ganon antes da luta."
+        ]
+      }
+    },
+    "compendio": {
+      "guia": {
+        "passos": [
+          "Pegue a câmera no Purah em Hateno.",
+          "Fotografe criaturas, monstros, materiais, armas e tesouros.",
+          "Itens que você perdeu (como chefes) podem ser comprados como fotos na loja do Purah/Robbie."
+        ],
+        "dicas": [
+          "Fotos de chefes e de Pokémons raros (como o Lord of the Mountain) são as mais esquecidas."
+        ]
+      }
+    },
+    "casa": {
+      "guia": {
+        "passos": [
+          "Em Hateno, fale com o Bolson e pague 3.000 rupees + 30 feixes de madeira.",
+          "Depois compre os extras (cama, armas na parede, jardim) até completar a missão."
+        ]
+      }
+    },
+    "tarrey": {
+      "guia": {
+        "requisitos": [
+          "Ter a casa de Hateno (Hylian Homeowner) pronta."
+        ],
+        "passos": [
+          "Fale com o Hudson na região de Akkala.",
+          "Leve madeira e depois NPCs com nomes terminados em 'son' de cada raça (Gerudo, Goron, Rito, Zora...) para ele.",
+          "A missão termina com o casamento na vila."
+        ]
+      }
+    },
+    "medalhas": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Kilton, dono da loja Fang and Bone. O primeiro encontro é no Lago da Caveira (Skull Lake), em Akkala, no \"olho\" oeste da caveira.",
+          "Depois a loja aparece só à noite em vários pontos (Hateno, Kakariko, Vila Rito, Vila Tarrey), sempre com uma placa."
+        ],
+        "passos": [
+          "Compre as três medalhas com o Kilton.",
+          "Derrote cada Hinox (inclusive Stalnox), Talus e Molduga: a medalha conta cada um.",
+          "Use o sensor do Sheikah Slate configurado com a foto do inimigo para achar os que faltam."
+        ]
+      }
+    },
+    "fadas": {
+      "guia": {
+        "onde": [
+          "Cotera — perto de Kakariko (é a primeira e a mais barata)",
+          "Kaysa — região de Tabantha",
+          "Mija — região de Akkala",
+          "Tera — Deserto Gerudo"
+        ],
+        "passos": [
+          "Cada fada pede rupees para despertar e depois melhora suas armaduras."
+        ]
+      }
+    },
+    "armaduras": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "As 4 Grandes Fadas despertas."
+        ],
+        "passos": [
+          "Junte os materiais pedidos (Dragon parts, Lynel parts, etc.).",
+          "Melhore cabeça, corpo e pernas até ★★★★."
+        ]
+      }
+    },
+    "dragoes": {
+      "guia": {
+        "passos": [
+          "Use o paraglider e acerte uma flecha no dragão em voo para soltar escamas, garras ou chifres.",
+          "Naydra está possuído no Monte Lanayru: complete a missão do santuário para purificá-lo."
+        ]
+      }
+    },
+    "eventide": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Ilha no sudeste do mapa (Necluda Leste)."
+        ],
+        "passos": [
+          "Ao chegar, Link perde todos os itens.",
+          "Junte as 3 esferas espalhadas na ilha e coloque nos pedestais para abrir o santuário.",
+          "Sobreviva com o que encontrar na ilha."
+        ]
+      }
+    },
+    "labirintos": {
+      "guia": {
+        "passos": [
+          "Os santuários ficam no centro de cada labirinto; no Lomei há também uma versão no topo."
+        ]
+      }
+    },
+    "missoes": {
+      "guia": {
+        "passos": [
+          "Missões secundárias ficam no menu de Aventura.",
+          "Visite as cavalariças e vilas de novo depois de avançar na história: NPCs novos aparecem."
+        ]
+      }
+    },
+    "mestre": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Inimigos sobem um nível, regeneram vida e há plataformas flutuantes com baús. É uma jogatina separada, com um único autosave.",
+        "requisitos": [
+          "DLC The Master Trials (Passe de Expansão)."
+        ],
+        "passos": [
+          "Comece um save no Modo Mestre pelo menu inicial.",
+          "Saia do Planalto com cuidado: até Bokoblins vermelhos são perigosos.",
+          "Use comida de defesa e flechas bomba nos chefes."
+        ],
+        "atencao": [
+          "O Modo Mestre só tem autosave: cuidado ao avançar com pouco recurso."
+        ]
+      }
+    },
+    "espadateste": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "The Master Trials e a Espada Mestra."
+        ],
+        "passos": [
+          "Retire a espada do pedestal na Floresta Korok para iniciar.",
+          "Cada nível é uma sequência de salas sem itens iniciais.",
+          "No final, a Espada Mestra fica com 60 de ataque para sempre."
+        ]
+      }
+    },
+    "ex_trials": {
+      "guia": {
+        "passos": [
+          "Leia os diários EX que aparecem no menu de Aventura: cada um aponta um baú (Máscara de Majora, Máscara Korok, Armadura Fantasma, Elmo de Midna, Roupa do Tingle, Capuz do Ravio, Elmo de Zant)."
+        ]
+      }
+    },
+    "balada": {
+      "guia": {
+        "requisitos": [
+          "DLC The Champions' Ballad e o Ganon derrotado."
+        ],
+        "passos": [
+          "Prova Aniquiladora: Link tem só 1 coração e precisa completar 4 santuários no Grande Planalto.",
+          "Depois, a canção de cada campeão (Mipha, Daruk, Revali, Urbosa): 3 santuários + um desafio da Fera Divina cada.",
+          "Complete a Prova do Domador de Feras e vença o chefe final."
+        ]
+      }
+    },
+    "sw2_cidadao": {
+      "guia": {
+        "resumo": "As 19 medalhas do Zelda Notes têm 4 níveis (Bronze, Prata, Ouro, Mestre). Aqui pedimos o nível Mestre.",
+        "requisitos": [
+          "Nintendo Switch 2 Edition e o app Nintendo Switch (Zelda Notes)."
+        ]
+      }
+    },
+    "sw2_voz": {
+      "guia": {
+        "resumo": "São histórias novas narradas pela Zelda, diferentes das 13 memórias do jogo.",
+        "passos": [
+          "No app Nintendo Switch, abra Zelda Notes > Navegação e filtre por Memórias de Voz.",
+          "Leve o Link até o ponto marcado com o celular conectado: a memória toca no app."
+        ]
+      }
+    },
+    "sw2_roleta": {
+      "guia": {
+        "atencao": [
+          "Só dá para girar uma vez por dia: são pelo menos 100 dias."
+        ]
+      }
+    },
+    "balada_santuarios": {
+      "guia": {
+        "passos": [
+          "4 santuários da Prova Aniquiladora no Grande Planalto.",
+          "3 santuários por campeão (Mipha, Daruk, Revali, Urbosa), revelados ao seguir as pistas do diário da missão.",
+          "O último santuário aparece no fim, perto do Castelo de Hyrule."
+        ]
+      }
+    },
+    "sw2_monstros": {
+      "guia": {
+        "passos": [
+          "Conta todo monstro derrotado. Os acampamentos de Bokoblins renascem a cada Lua de Sangue.",
+          "Uma boa rota: os acampamentos de Hyrule Field e a Fortaleza Yiga."
+        ]
+      }
+    },
+    "sw2_tesouros": {
+      "guia": {
+        "passos": [
+          "Baús comuns, de santuários e os que reaparecem nos acampamentos inimigos após a Lua de Sangue contam.",
+          "No Modo Mestre há baús extras nas plataformas flutuantes."
+        ]
+      }
+    },
+    "sw2_materiais": {
+      "guia": {
+        "passos": [
+          "Qualquer material coletado conta: frutas, cogumelos, minérios, partes de monstros.",
+          "Florestas e minas de minério renovam com o tempo; Akkala e a Montanha da Morte são ótimas."
+        ]
+      }
+    },
+    "sw2_armas": {
+      "guia": {
+        "passos": [
+          "Toda arma pega conta, inclusive as que caem de inimigos.",
+          "Acampamentos de Lynels e a Fortaleza Yiga dão muitas armas fortes."
+        ]
+      }
+    },
+    "sw2_rico": {
+      "guia": {
+        "passos": [
+          "Conta o total de rupees ganho, não o que você tem guardado.",
+          "Vender pedras preciosas (diamantes, rubis) e carne cozida rende muito."
+        ]
+      }
+    },
+    "sw2_sheikah": {
+      "guia": {
+        "passos": [
+          "Cada uso de Ímã, Stasis, Cryonis, Bombas e Câmera conta.",
+          "Bombas remotas e Ímã são os mais fáceis de usar várias vezes seguidas."
+        ]
+      }
+    },
+    "sw2_campeoes": {
+      "guia": {
+        "passos": [
+          "Use a Fúria de Urbosa, a Proteção de Daruk, a Rajada de Revali e a Graça de Mipha.",
+          "A Rajada de Revali tem recarga curta: use para planar e conte rápido."
+        ]
+      }
+    },
+    "sw2_culinaria": {
+      "guia": {
+        "passos": [
+          "Cada prato cozinhado na panela conta.",
+          "Cozinhe 1 ingrediente por vez para multiplicar a contagem."
+        ]
+      }
+    },
+    "sw2_distancia": {
+      "guia": {
+        "passos": [
+          "Conta a distância total percorrida a pé, a cavalo, planando e nadando.",
+          "Viagens longas de cavalo pela Planície de Hyrule rendem bem."
+        ]
+      }
+    },
+    "sw2_missoes": {
+      "guia": {
+        "passos": [
+          "Conta missões principais, secundárias e de santuário.",
+          "O menu de Aventura lista as pendentes."
+        ]
+      }
+    },
+    "sw2_santuarios": {
+      "guia": {
+        "passos": [
+          "Os 120 santuários do jogo base (e os do Passe, se tiver).",
+          "A Navegação do Zelda Notes mostra os que faltam."
+        ]
+      }
+    },
+    "sw2_viajante": {
+      "guia": {
+        "passos": [
+          "Visitar um local faz o nome aparecer na tela; todos os nomes contam.",
+          "Filtre a Navegação por Locais para achar os que faltam."
+        ]
+      }
+    },
+    "sw2_korok": {
+      "guia": {
+        "passos": [
+          "É o mesmo que as 900 sementes, mas registrado no app.",
+          "A Navegação do Zelda Notes lista os Koroks que faltam com guia por voz."
+        ]
+      }
+    },
+    "sw2_explorador": {
+      "guia": {
+        "passos": [
+          "Junta todas as categorias da Navegação (Locais, Koroks, Inimigos, Tesouros e outros).",
+          "Use a Navegação para limpar categoria por categoria."
+        ]
+      }
+    },
+    "sw2_amiibo": {
+      "guia": {
+        "passos": [
+          "Escaneie amiibo compatíveis (uma vez por dia cada).",
+          "A cada 5 escaneamentos de uma figura você ganha um uso extra no mesmo dia."
+        ]
+      }
+    },
+    "sw2_logistica": {
+      "guia": {
+        "passos": [
+          "Deposite itens na Caixa de Compartilhamento (até 100 por vez; materiais não empilham).",
+          "Gere o QR Code e compartilhe com outro jogador; cada item enviado conta."
+        ]
+      }
+    }
+  }
 }

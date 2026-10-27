@@ -6,34 +6,34 @@
 <meta name="theme-color" content="#0f1117">
 <title>Pokémon Champions — Guia de Conquistas e Troféus · Checkpoint Digital</title>
 <!--SEO-->
-<meta name="description" content="Todas as 8 conquistas de Pokémon Champions com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta name="description" content="Todas as 10 conquistas de Pokémon Champions com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/conquistas/pokemon-champions.html">
 <meta property="og:site_name" content="Checkpoint Digital">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Pokémon Champions — Guia de Conquistas e Troféus · Checkpoint Digital">
-<meta property="og:description" content="Todas as 8 conquistas de Pokémon Champions com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta property="og:description" content="Todas as 10 conquistas de Pokémon Champions com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
 <meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/conquistas/pokemon-champions.html">
 <meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/pokemon-champions.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Pokémon Champions — Guia de Conquistas e Troféus · Checkpoint Digital">
-<meta name="twitter:description" content="Todas as 8 conquistas de Pokémon Champions com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
+<meta name="twitter:description" content="Todas as 10 conquistas de Pokémon Champions com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/pokemon-champions.jpg">
 <!--/SEO-->
 <link rel="stylesheet" href="../shared.css?v=acdc1308">
-<link rel="stylesheet" href="../conquistas-app.css?v=2bdc2e4b">
+<link rel="stylesheet" href="../conquistas-app.css?v=df71b2f3">
 </head>
 <body>
 
 <header class="site-header" id="site-header"></header>
-<div id="app"><main class="ck-wrap" style="padding:40px 24px"><h1>Pokémon Champions — Conquistas</h1><p>Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. É um jogo só de batalhas online, sem modo história.</p><ul><li>Monte um time</li><li>Pokémon HOME</li><li>Batalha Simples</li><li>Batalha Dupla</li><li>Ranqueada</li><li>Rank máximo</li><li>Batalha Privada</li><li>Passe de Batalha</li></ul></main></div>
+<div id="app"><main class="ck-wrap" style="padding:40px 24px"><h1>Pokémon Champions — Conquistas</h1><p>Pokémon Champions não tem conquistas oficiais e não tem modo história. As Conquistas originais Checkpoint seguem os tiers ranqueados, o Desafio Mensal e o Passe.</p><ul><li>Monte um Time</li><li>Participante</li><li>Grande Treinador</li><li>Ultra Treinador</li><li>Rank Master</li><li>Campeão</li><li>Duplas</li><li>Simples</li><li>Desafio Mensal</li><li>Passe de Batalha</li></ul></main></div>
 <footer id="site-footer"></footer>
 <script>window.JOGO_ID = "pokemon-champions";</script>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="../shared.js?v=32a7bb6c"></script>
-<script src="../conquistas-app.js?v=70ef7666"></script>
+<script src="../conquistas-app.js?v=3fa4b67f"></script>
 <script src="../auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('ach', '../');
@@ -206,6 +206,7 @@
       a.missavel ? `<span class="a-tag miss">⚠ ${T('Perdível', 'Missable')}</span>` : '',
       a.h ? `<span class="a-tag secret">${T('Secreta', 'Secret')}</span>` : '',
       a.online ? `<span class="a-tag online">Online</span>` : '',
+      a.dificil ? `<span class="a-tag hard">🔥 ${T('Desafio', 'Challenge')}</span>` : '',
     ].join('');
     const icon = a.i ? `<img src="${esc(a.i)}" alt="" loading="lazy" onerror="this.replaceWith('🏆')">` : (a.qtd ? '🎯' : '🏆');
     let side = '';
@@ -225,9 +226,26 @@
           ${desc ? `<div class="a-desc${spoil ? ' spoiler' : ''}" ${spoil ? `title="${T('Clique para revelar', 'Click to reveal')}"` : ''}>${esc(desc)}</div>` : ''}
           ${tags ? `<div class="a-tags">${tags}</div>` : ''}
           ${a.dica ? `<div class="a-tip">💡 <b>${T('Dica', 'Tip')}:</b> ${esc(a.dica)}</div>` : ''}
+          ${a.guia ? `<div class="a-guide-hint">📖 ${T('Toque para ver o guia completo', 'Tap to see the full guide')}</div>` : ''}
         </div>
         ${side}
+        ${a.guia ? guiaHTML(a.guia) : ''}
       </div>`;
+  }
+
+  // Guia detalhado de cada conquista original (abre ao clicar na linha)
+  function guiaHTML(g) {
+    const sec = (titulo, itens, ordenada) => itens && itens.length
+      ? `<div class="ag-sec"><h4>${titulo}</h4><${ordenada ? 'ol' : 'ul'}>${itens.map(x => `<li>${esc(x)}</li>`).join('')}</${ordenada ? 'ol' : 'ul'}></div>` : '';
+    return `<div class="a-guide" hidden>
+      ${g.resumo ? `<p class="ag-intro">${esc(g.resumo)}</p>` : ''}
+      ${g.quando ? `<div class="ag-when">🕒 <b>${T('Quando fazer', 'When to do it')}:</b> ${esc(g.quando)}</div>` : ''}
+      ${sec('📋 ' + T('Requisitos', 'Requirements'), g.requisitos)}
+      ${sec('🗺️ ' + T('Onde ir', 'Where to go'), g.onde)}
+      ${sec('👣 ' + T('Passo a passo', 'Step by step'), g.passos, true)}
+      ${sec('💡 ' + T('Dicas', 'Tips'), g.dicas)}
+      ${sec('⚠️ ' + T('Atenção', 'Watch out'), g.atencao)}
+    </div>`;
   }
 
   function filtered() {
@@ -340,6 +358,13 @@
       if (S.sec === 'base') u.searchParams.delete('secao'); else u.searchParams.set('secao', S.sec);
       history.replaceState(null, '', u);
       refresh(); return;
+    }
+    const rowG = t.closest('.a-row');
+    if (rowG && !t.closest('input,button,a,.a-desc.spoiler') && rowG.querySelector('.a-guide')) {
+      const gEl = rowG.querySelector('.a-guide');
+      gEl.hidden = !gEl.hidden;
+      rowG.classList.toggle('open', !gEl.hidden);
+      return;
     }
     const sp = t.closest('.a-desc.spoiler');
     if (sp) { sp.classList.remove('spoiler'); sp.removeAttribute('title'); return; }

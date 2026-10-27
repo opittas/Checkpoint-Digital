@@ -1,21 +1,98 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. É um jogo só de batalhas online, sem modo história.",
+  "resumo": "Pokémon Champions não tem conquistas oficiais e não tem modo história. As Conquistas originais Checkpoint seguem os tiers ranqueados, o Desafio Mensal e o Passe.",
   "roadmap": [
     {
-      "titulo": "1. Monte o time",
-      "texto": "Traga Pokémon do HOME ou recrute no jogo. Use os Pontos de Vitória para ajustar golpes, natureza e atributos."
+      "titulo": "1. Time",
+      "texto": "Monte o time com HOME ou recrutamento."
     },
     {
-      "titulo": "2. Batalhas",
-      "texto": "Jogue Casual e Ranqueada, em batalhas simples e duplas."
+      "titulo": "2. Temporada",
+      "texto": "3 batalhas garantem a participação."
     },
     {
-      "titulo": "3. Temporadas",
-      "texto": "Suba de rank e complete o Passe de Batalha."
+      "titulo": "3. Tiers",
+      "texto": "Suba até Master Ball e Champion."
     }
   ],
   "avisos": [
-    "Precisa de internet."
+    "É um jogo só online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "time": {
+      "guia": {
+        "passos": [
+          "Traga Pokémon do Pokémon HOME ou recrute no jogo (recrutamento de teste ou permanente).",
+          "Ajuste golpes, natureza, habilidade e atributos com Pontos de Vitória (VP)."
+        ]
+      }
+    },
+    "participar": {
+      "guia": {
+        "passos": [
+          "Só 3 batalhas já garantem as recompensas de participação (um Raichu de Alola e um título)."
+        ]
+      }
+    },
+    "great": {
+      "guia": {
+        "resumo": "Tiers: Iniciante, Poké Ball, Great Ball, Ultra Ball, Master Ball e Champion. De Poké a Master há 4 ranks; cada rank pede 3 vitórias."
+      }
+    },
+    "master": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Do Ultra Ball ao Master Ball são mais 12 vitórias.",
+          "Os ranks 1 a 3 do Master abrem uma semana depois do início da temporada."
+        ]
+      }
+    },
+    "champion": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Champion e os ranks 1–3 do Master abrem uma semana depois do início da temporada.",
+          "No Master, a posição final depende da sua pontuação (rating)."
+        ]
+      }
+    },
+    "mcs": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "O Desafio Mensal é um evento de fim de semana com ranking próprio.",
+          "Títulos especiais vão para os melhores colocados."
+        ]
+      }
+    },
+    "ultra": {
+      "guia": {
+        "passos": [
+          "Do Great Ball ao Ultra Ball são 12 vitórias (4 ranks de 3 vitórias)."
+        ]
+      }
+    },
+    "duplas": {
+      "guia": {
+        "passos": [
+          "Escolha Duplas ao entrar na Ranqueada.",
+          "Times com apoio (Fake Out, Tailwind, Protect) funcionam bem."
+        ]
+      }
+    },
+    "simples": {
+      "guia": {
+        "passos": [
+          "Escolha Simples ao entrar na Ranqueada."
+        ]
+      }
+    },
+    "passe": {
+      "guia": {
+        "passos": [
+          "Complete as missões do Passe de Batalha da temporada."
+        ]
+      }
+    }
+  }
 }

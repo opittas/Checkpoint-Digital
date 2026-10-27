@@ -1,25 +1,346 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Corridas, Knockout Tour e a exploração do modo Livre.",
+  "resumo": "Mario Kart World não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: copas em todas as cilindradas, Modo Espelho, os 394 interruptores P, 150 painéis ?, 200 Medalhões da Peach, coleção de pilotos, fantasias e veículos, e alguns desafios da comunidade.",
   "roadmap": [
     {
       "titulo": "1. Grand Prix",
-      "texto": "Vença as copas em 50cc, 100cc e 150cc. O Modo Espelho abre depois."
+      "texto": "Vença as copas em 50, 100 e 150cc. A Copa Especial abre depois das outras sete."
     },
     {
       "titulo": "2. Knockout Tour",
-      "texto": "Termine os rallies de eliminação; ficar entre os primeiros fica mais fácil com itens defensivos."
+      "texto": "Fique entre os 4 primeiros em todos os rallies em 150cc."
     },
     {
       "titulo": "3. Modo Livre",
-      "texto": "Explore o mapa atrás das missões P-Switch, painéis ? e medalhões da Peach."
+      "texto": "Ache pelo menos 10 interruptores P, 10 painéis ? e 10 medalhões; depois continue até completar tudo."
     },
     {
-      "titulo": "4. Coleção",
-      "texto": "Pilotos, fantasias, karts e adesivos saem jogando de tudo um pouco."
+      "titulo": "4. Espelho",
+      "texto": "Com os requisitos feitos, jogue a Copa Especial de novo para liberar o Modo Espelho."
+    },
+    {
+      "titulo": "5. Desafios",
+      "texto": "3 estrelas em todas as copas, Knockout em 1º e o online."
     }
   ],
   "avisos": [
-    "O online pede assinatura do Nintendo Switch Online."
+    "As corridas online exigem Nintendo Switch Online.",
+    "As contagens de interruptores (394), painéis (150) e medalhões (200) vêm dos guias da comunidade (Nintendo Life e Gamer Guides)."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "gp50": {
+      "guia": {
+        "resumo": "Primeiro passo do jogo: terminar todas as copas na velocidade mais baixa. Serve para aprender as pistas e as rotas de ligação entre elas.",
+        "quando": "Logo no começo.",
+        "onde": [
+          "Menu principal > Grand Prix > 50cc. Copas: Cogumelo, Flor, Estrela, Casco, Banana, Folha, Raio e Especial.",
+          "A Copa Especial (com a Rainbow Road) só aparece depois de você terminar as outras sete."
+        ],
+        "passos": [
+          "Escolha a copa e corra as 4 corridas. Em Mario Kart World as corridas 2 a 4 começam com um trecho de estrada ligando uma pista à outra.",
+          "Termine em 1º no placar geral da copa para contar como vitória (troféu de ouro).",
+          "Repita nas 8 copas; a contagem fica no ícone de troféu de cada copa."
+        ],
+        "dicas": [
+          "Ligue o 'Smart Steering' só se precisar: ele impede de cair da pista mas limita atalhos.",
+          "Guarde um item defensivo (casco ou banana) atrás do kart na última volta para se proteger do casco vermelho."
+        ]
+      }
+    },
+    "gp100": {
+      "guia": {
+        "resumo": "Mesmas copas, CPU mais agressiva. Aqui você começa a precisar de drifts com mini-turbo laranja.",
+        "passos": [
+          "Grand Prix > 100cc > jogue as 8 copas.",
+          "Em curvas longas, segure o drift até a faísca ficar laranja (ou roxa) antes de soltar.",
+          "Pegue moedas: cada moeda aumenta a velocidade máxima até o limite de 20."
+        ],
+        "dicas": [
+          "Nas ligações entre pistas há rampas e trilhos de grind: pule com o botão de drift (salto carregado) para cortar caminho."
+        ]
+      }
+    },
+    "gp150": {
+      "guia": {
+        "resumo": "A dificuldade 'de verdade' e requisito para o Modo Espelho.",
+        "requisitos": [
+          "As 8 copas abertas (a Especial abre depois das outras sete)."
+        ],
+        "passos": [
+          "Grand Prix > 150cc.",
+          "Use um kart com boa aceleração e mini-turbo (as estatísticas aparecem ao trocar de kart).",
+          "Ganhe as copas mantendo-se no topo: a CPU de 150cc usa itens com muito mais frequência."
+        ],
+        "dicas": [
+          "Freie com o drift antes de bater em paredes; perder as moedas custa caro.",
+          "Se a corrida desandar, você pode reiniciar a corrida pelo menu de pausa no Grand Prix."
+        ]
+      }
+    },
+    "especial": {
+      "guia": {
+        "passos": [
+          "Termine as copas Cogumelo, Flor, Estrela, Casco, Banana, Folha e Raio em qualquer cilindrada.",
+          "A Copa Especial aparece no menu; a última corrida dela é a Rainbow Road.",
+          "Termine a copa inteira."
+        ],
+        "dicas": [
+          "Na Rainbow Road a pista não tem bordas em vários trechos: prefira um kart mais pesado e drifts curtos."
+        ]
+      }
+    },
+    "espelho": {
+      "guia": {
+        "resumo": "O Modo Espelho é a dificuldade mais alta do jogo: as pistas ficam invertidas. Em Mario Kart World ele é bem escondido.",
+        "requisitos": [
+          "Participar (e se classificar) em todas as corridas de Grand Prix em 150cc.",
+          "Ficar entre os 4 primeiros em todos os rallies de Knockout Tour em 150cc.",
+          "Achar 10 interruptores P no modo Livre.",
+          "Achar 10 painéis ? no modo Livre.",
+          "Achar 10 Medalhões da Peach no modo Livre."
+        ],
+        "passos": [
+          "Cumpra a lista de requisitos (o progresso de cada copa aparece no menu).",
+          "Jogue de novo a Copa Especial — a colocação não importa.",
+          "Depois dos créditos aparece uma cena nova confirmando o Modo Espelho. A opção passa a existir em Grand Prix, Knockout Tour e Versus."
+        ],
+        "atencao": [
+          "Jogadores relatam que o jogo às vezes exige uma segunda vitória na Copa Especial depois de cumprir tudo: se não aparecer a cena, repita a copa."
+        ]
+      }
+    },
+    "gpespelho": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Grand Prix > Espelho.",
+          "As curvas passam a ser para o outro lado: o reflexo de memória é o maior inimigo. Corra cada pista uma vez no Versus espelhado antes da copa.",
+          "Vença as 8 copas."
+        ],
+        "dicas": [
+          "O nível da CPU no Espelho é igual ao de 150cc; o desafio é só a inversão."
+        ]
+      }
+    },
+    "tres150": {
+      "dificil": true,
+      "guia": {
+        "resumo": "A classificação (de 1 a 3 estrelas) aparece ao lado do troféu e depende de vencer as corridas e pilotar bem: poucas batidas, poucas quedas e muitas moedas.",
+        "passos": [
+          "Vença as 4 corridas da copa em 1º lugar — perder uma corrida quase sempre derruba a nota.",
+          "Evite cair da pista e bater em paredes.",
+          "Pegue muitas moedas e faça truques nas rampas."
+        ],
+        "dicas": [
+          "Se uma corrida der errado, saia e recomece a copa: a nota é calculada no final.",
+          "Comece pelas copas que você conhece melhor; a Especial costuma ser a última."
+        ]
+      }
+    },
+    "tresespelho": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Mesma lógica das 3 estrelas em 150cc, agora com as pistas invertidas.",
+          "Faça primeiro as copas em que você já tem 3 estrelas no 150cc."
+        ]
+      }
+    },
+    "knockout4": {
+      "guia": {
+        "resumo": "No Knockout Tour 24 pilotos correm um rally contínuo; a cada checkpoint os últimos são eliminados.",
+        "onde": [
+          "Menu > Knockout Tour > 150cc. Cada rally é uma sequência de trechos entre pistas."
+        ],
+        "passos": [
+          "Fique sempre longe das últimas posições: o corte acontece em cada portão de checkpoint.",
+          "Na reta final, guarde um item para se defender.",
+          "Termine entre os 4 primeiros em cada rally (é requisito do Modo Espelho)."
+        ]
+      }
+    },
+    "knockout1": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Jogue cada rally até vencer. Cada um tem 6 trechos e o ritmo é bem mais longo que uma copa.",
+          "Mantenha muitas moedas: com 20 moedas você chega à velocidade máxima.",
+          "Nos trechos de estrada larga, use as faixas de grind e paredes (wall ride) para ultrapassar."
+        ]
+      }
+    },
+    "pswitch": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Os interruptores P (blocos azuis) estão espalhados por todo o mapa e cada um abre uma missão curta: corrida contra o tempo, coletar moedas azuis, fazer manobras, etc. Cada missão vencida dá um adesivo.",
+        "onde": [
+          "Modo Livre (Free Roam), em todas as 10 regiões: Central, Costa, Deserto, Outono, Floresta, Selva, Lava, Neve, Mar do Sul e Velho Oeste.",
+          "Aperte + para abrir o mapa: ao passar o cursor numa pista aparece quantos interruptores ela tem."
+        ],
+        "passos": [
+          "Dirija pela região até ver um P azul. Passe por cima dele para iniciar a missão.",
+          "Cumpra o objetivo antes do tempo acabar; se falhar, é só passar de novo no interruptor.",
+          "Vá região por região e confira o contador no mapa."
+        ],
+        "dicas": [
+          "Use o bico de lava/ar das rampas e o wall ride: muitos interruptores ficam em telhados e paredões.",
+          "Os mais escondidos ficam no topo de montanhas, sob pontes e dentro de túneis."
+        ]
+      }
+    },
+    "paineis": {
+      "guia": {
+        "resumo": "Painéis amarelos com '?' no chão ou em paredes. Passar por cima dá um adesivo.",
+        "onde": [
+          "A maioria das pistas tem 5 painéis; Crown City tem 10.",
+          "No mapa, passe o cursor em cada pista para ver quantos faltam."
+        ],
+        "passos": [
+          "Escolha uma pista do mapa (fast travel).",
+          "Explore ao redor dela, inclusive telhados e paredes laterais (dá para dirigir em paredes).",
+          "Repita em todas as pistas."
+        ]
+      }
+    },
+    "medalhoes": {
+      "guia": {
+        "resumo": "Moedas grandes douradas com o rosto da Peach, escondidas no mundo aberto. Cada uma dá um adesivo.",
+        "onde": [
+          "Espalhadas pelas 10 regiões, muitas vezes em lugares altos ou atrás de cachoeiras."
+        ],
+        "passos": [
+          "Explore com calma no modo Livre; o mapa mostra seu total.",
+          "Use o salto carregado (segure o drift parado) para alcançar plataformas altas."
+        ],
+        "dicas": [
+          "Faça junto com os interruptores P e os painéis ?, região por região, para não ter que voltar."
+        ]
+      }
+    },
+    "espelholivre": {
+      "guia": {
+        "requisitos": [
+          "Modo Espelho já liberado."
+        ],
+        "onde": [
+          "Peach Stadium, no modo Livre."
+        ],
+        "passos": [
+          "Use o fast travel até o Peach Stadium.",
+          "Da linha de largada, siga em frente subindo as estradas curvas com o castelo da Peach à direita.",
+          "Passe pelos obstáculos de canos de warp; na curva seguinte saia da pista para a direita e caia no telhado do castelo.",
+          "Dirija até a frente, onde fica o vitral da Peach, e atravesse o vitral: o mundo inteiro fica espelhado."
+        ]
+      }
+    },
+    "pilotos": {
+      "guia": {
+        "resumo": "Há duas formas de liberar pilotos: terminar copas pela primeira vez e o item Kamek.",
+        "passos": [
+          "Cada copa do Grand Prix terminada pela primeira vez libera um piloto (é assim que saem, por exemplo, Rosalina e Donkey Kong).",
+          "Pegue o item Kamek em corridas: ele te transforma num piloto aleatório, e esse piloto fica liberado para sempre (Peepa, Fish Bone e outros).",
+          "Confira na tela de seleção quais silhuetas ainda faltam."
+        ],
+        "dicas": [
+          "Corridas de Versus com muitos itens e CPU aumentam a chance de cair o Kamek."
+        ]
+      }
+    },
+    "fantasias": {
+      "guia": {
+        "resumo": "Fantasias saem ao pegar a Comida de Turbo (Dash Food) perto dos Yoshi's Diner, tanto no modo Livre quanto nas corridas. Cada lanchonete tem comidas que dão fantasias temáticas daquela região.",
+        "onde": [
+          "Yoshi's Diner espalhados pelo mapa. Ex.: o da Boo Cinema dá fantasias de terror (como o Waluigi Vampiro)."
+        ],
+        "passos": [
+          "Escolha o personagem que quer vestir.",
+          "Vá até um Yoshi's Diner e passe pelo item de comida para comê-lo.",
+          "A fantasia ligada àquela comida fica liberada para aquele personagem. Repita com outros personagens e lanchonetes."
+        ],
+        "dicas": [
+          "Consulte a lista de fantasias por personagem no Nintendo Life para saber qual lanchonete visitar."
+        ]
+      }
+    },
+    "karts": {
+      "guia": {
+        "passos": [
+          "Junte moedas em qualquer modo (Grand Prix, Knockout Tour, Livre).",
+          "A cada 100 moedas acumuladas, um veículo novo é liberado, até acabar a lista."
+        ],
+        "dicas": [
+          "O Knockout Tour é o modo que mais rende moedas por partida."
+        ]
+      }
+    },
+    "adesivos": {
+      "guia": {
+        "resumo": "Adesivos decoram o perfil e saem de várias fontes.",
+        "passos": [
+          "Missões de interruptor P, painéis ? e Medalhões da Peach dão adesivos.",
+          "Terminar copas e tirar 3 estrelas em cilindradas altas dá outros.",
+          "Dirigir certas distâncias e subir o nível do perfil também libera adesivos."
+        ],
+        "dicas": [
+          "A lista completa (com o requisito de cada um) está na Super Mario Wiki."
+        ]
+      }
+    },
+    "batalha": {
+      "guia": {
+        "onde": [
+          "Menu > Batalha."
+        ],
+        "passos": [
+          "Jogue Batalha de Balões: estoure os balões dos rivais e proteja os seus.",
+          "Jogue Coletor de Moedas: termine com mais moedas que todos.",
+          "Vença uma partida de cada."
+        ]
+      }
+    },
+    "online1": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online ativo."
+        ],
+        "passos": [
+          "Menu > Online > Corrida.",
+          "Vença uma corrida contra jogadores do mundo todo."
+        ]
+      }
+    },
+    "onlineko": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "passos": [
+          "Online > Knockout Tour. São 24 jogadores reais.",
+          "Fique no meio do pelotão no começo, guardando itens, e ataque nos dois últimos trechos."
+        ]
+      }
+    },
+    "sem_item": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Desafio criado pela comunidade: vale como meta pessoal.",
+        "passos": [
+          "Versus > 150cc > itens normais.",
+          "Não use nenhum item que pegar (deixe parado no slot). Vença a corrida só com pilotagem."
+        ],
+        "dicas": [
+          "Uma boa forma é desligar os itens de vez no Versus, mas a versão 'raiz' é com eles ligados."
+        ]
+      }
+    },
+    "ultimo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Em qualquer corrida de 150cc, se cair para o 24º lugar, não desista.",
+          "Em último você recebe os itens mais fortes (Bala Bill, estrela, cogumelo dourado). Use-os em retas.",
+          "Vença a corrida."
+        ]
+      }
+    }
+  }
 }

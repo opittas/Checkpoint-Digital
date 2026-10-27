@@ -22,7 +22,7 @@
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <!--/SEO-->
 <link rel="stylesheet" href="shared.css?v=acdc1308">
-<link rel="stylesheet" href="conquistas-app.css?v=2bdc2e4b">
+<link rel="stylesheet" href="conquistas-app.css?v=df71b2f3">
 <style>
   .mj-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 18px; }
   .mj-card { position: relative; }
@@ -111,7 +111,7 @@
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="shared.js?v=32a7bb6c"></script>
-<script src="conquistas-app.js?v=70ef7666"></script>
+<script src="conquistas-app.js?v=3fa4b67f"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('mj');
@@ -162,9 +162,11 @@
   function renderFiltros() {
     const m = meus();
     const plats = ['all'].concat(Object.keys(PLAT).filter(p => m.some(j => plataformasDe(j).includes(p))));
+    if (m.some(j => j.mode === 'checklist')) plats.push('orig');
     document.getElementById('chips-plat').innerHTML = plats.map(p => {
-      const n = p === 'all' ? m.length : m.filter(j => plataformasDe(j).includes(p)).length;
-      return `<button class="ck-chip${F.plat === p ? ' on' : ''}" data-plat="${p}">${p === 'all' ? T('Todas', 'All') : PLAT[p]}<span class="n">${n}</span></button>`;
+      const n = m.filter(j => naPlat(j, p)).length;
+      const lbl = p === 'all' ? T('Todas', 'All') : p === 'orig' ? '✦ ' + T('Originais Checkpoint', 'Checkpoint Originals') : PLAT[p];
+      return `<button class="ck-chip${F.plat === p ? ' on' : ''}${p === 'orig' ? ' orig' : ''}" data-plat="${p}">${lbl}<span class="n">${n}</span></button>`;
     }).join('');
     const generos = [...new Set(m.flatMap(j => j.generos || []))].sort();
     document.getElementById('genero').innerHTML = `<option value="">${T('Todos os gêneros', 'All genres')}</option>` +
@@ -182,11 +184,12 @@
     const p = (lib[j.id] || {}).plataformas || [];
     return p.length ? p : j.platforms;
   }
+  const naPlat = (j, p) => p === 'all' || (p === 'orig' ? j.mode === 'checklist' : plataformasDe(j).includes(p));
   function filtrados() {
     const q = CK.norm(F.q);
     let m = meus().filter(j =>
       (!q || CK.norm(j.title).includes(q)) &&
-      (F.plat === 'all' || plataformasDe(j).includes(F.plat)) &&
+      naPlat(j, F.plat) &&
       (!F.genero || (j.generos || []).includes(F.genero)) &&
       (!F.status || (F.status === 'fav' ? lib[j.id].favorito : lib[j.id].status === F.status)));
     const cmp = {
@@ -210,6 +213,7 @@
         </div>
         <a class="ck-cover" href="conquistas/${encodeURIComponent(j.id)}.html">
           <div class="ck-fallback">🎮</div><img src="${CK.imgSrc(j.image)}" alt="" loading="lazy" onerror="this.remove()">
+          ${j.mode === 'checklist' ? `<span class="ck-orig" title="${T('Lista criada pelo Checkpoint Digital para jogos sem conquistas oficiais', 'List created by Checkpoint Digital for games without official achievements')}">✦ ${T('Original Checkpoint', 'Checkpoint Original')}</span>` : ''}
         </a>
         <div class="ck-card-body">
           <div><div class="ck-card-title">${esc(j.title)}</div>

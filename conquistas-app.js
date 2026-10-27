@@ -116,6 +116,8 @@ const CK = (function () {
         dlc: x.dlc || (g.dlc ? g.nome : ''),
         online: !!x.online,
         dica: x.dica || '',
+        guia: x.guia || null,
+        dificil: !!x.dificil,
       });
     });
   }

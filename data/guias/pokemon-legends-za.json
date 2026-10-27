@@ -1,25 +1,185 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Aventura em Lumiose com batalhas em tempo real.",
+  "resumo": "Pokémon Legends: Z-A não tem conquistas oficiais. As Conquistas originais Checkpoint seguem o 100% da comunidade: história, Rank A, revanches Mega, Pokédex, pesquisa da Mable, parafusos, MTs e a DLC.",
   "roadmap": [
     {
       "titulo": "1. História",
-      "texto": "Avance a história e suba nos ranks da Batalha Z-A à noite."
+      "texto": "Dia nas Zonas Selvagens, noite na Batalha Z-A."
     },
     {
-      "titulo": "2. Megas",
-      "texto": "Enfrente os Mega Desenfreados para liberar Megapedras."
+      "titulo": "2. Rank A",
+      "texto": "Suba do Z ao A."
     },
     {
-      "titulo": "3. Coleção",
-      "texto": "Pokédex de Lumiose, células de Zygarde e missões secundárias."
+      "titulo": "3. Pós-jogo",
+      "texto": "Revanches Mega e Mega Rush."
     },
     {
-      "titulo": "4. DLC",
-      "texto": "A Mega Dimensão fica numa aba separada."
+      "titulo": "4. Coleção",
+      "texto": "Pokédex, Mable, parafusos e MTs."
+    },
+    {
+      "titulo": "5. DLC",
+      "texto": "Mega Dimensão na aba própria."
     }
   ],
   "avisos": [
-    "A Nintendo Switch 2 Edition é vendida à parte e melhora os gráficos; não muda a lista."
+    "A Nintendo Switch 2 Edition é vendida à parte e melhora os gráficos; não muda a lista.",
+    "Os títulos ranqueados são online e podem deixar de existir um dia."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga os capítulos em Lumiose: de dia explore as Zonas Selvagens, à noite lute na Batalha Z-A.",
+          "Enfrente os Mega Desenfreados quando a história pedir.",
+          "Vença o chefe final para ver os créditos."
+        ]
+      }
+    },
+    "rankA": {
+      "guia": {
+        "resumo": "A Batalha Z-A acontece à noite nas Zonas de Batalha. Você começa no Rank Z e sobe até o A.",
+        "passos": [
+          "À noite, entre numa Zona de Batalha e derrote treinadores para ganhar pontos.",
+          "Pegue as cartas bônus espalhadas na zona.",
+          "Com pontos suficientes, aceite a Batalha de Promoção para subir de rank."
+        ],
+        "dicas": [
+          "Ataques surpresa (pelas costas) dão bônus de pontos."
+        ]
+      }
+    },
+    "mega": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Depois de acalmar cada Mega Desenfreado na história, a revanche fica disponível (normalmente pelo pós-jogo).",
+          "Esquive dos ataques em área e use os golpes Mega quando a barra encher."
+        ]
+      }
+    },
+    "megarush": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Modo do pós-jogo com Megas em sequência.",
+          "Leve Pokémon com vantagem de tipo e itens de cura."
+        ]
+      }
+    },
+    "pokedex": {
+      "guia": {
+        "passos": [
+          "Os Pokémon ficam nas 20 Zonas Selvagens; alguns só aparecem à noite ou com clima específico.",
+          "Pokémon Alfa (maiores) contam na Pokédex mas não são obrigatórios para completar as zonas."
+        ]
+      }
+    },
+    "mable": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Os pedidos aparecem no menu de pesquisa; muitos pedem capturas, batalhas e uso de golpes.",
+          "O último nível pede 1.000 batalhas contra treinadores: faça aos poucos nas noites da Batalha Z-A."
+        ]
+      }
+    },
+    "parafusos": {
+      "guia": {
+        "passos": [
+          "Ficam espalhados por Lumiose, em telhados e becos.",
+          "Trocam por recompensas com o personagem que os coleciona."
+        ]
+      }
+    },
+    "missoes": {
+      "guia": {
+        "passos": [
+          "Pessoas com balão '!' pela cidade dão missões; novas aparecem a cada capítulo."
+        ]
+      }
+    },
+    "titulos": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "resumo": "Exige o bônus 'Sobrevivente Impecável' 50 vezes: vencer a partida ranqueada sem nenhum Pokémon seu desmaiar.",
+        "passos": [
+          "Jogue em temporadas sem lendários e míticos (eles dominam as partidas).",
+          "Clefable com Meteor Beam, Moonblast, Moonlight e Reflect é muito usado.",
+          "Quando estiver na frente em pontos, fuja do combate para não desmaiar."
+        ]
+      }
+    },
+    "mega_dlc": {
+      "guia": {
+        "requisitos": [
+          "DLC Mega Dimension."
+        ],
+        "onde": [
+          "Lumiose do Hiperespaço."
+        ],
+        "passos": [
+          "Siga a história na versão distorcida da cidade.",
+          "Depois dos créditos da DLC, junte Pontos de Pesquisa e vença as três batalhas fortes que abrem o pós-jogo."
+        ]
+      }
+    },
+    "mega_lendario": {
+      "dificil": true,
+      "guia": {
+        "atencao": [
+          "Ao repetir as missões há uma chance de o lendário aparecer; perder a chance é um atraso grande, então salve antes."
+        ]
+      }
+    },
+    "zonas": {
+      "guia": {
+        "passos": [
+          "Cada Zona Selvagem tem uma lista de Pokémon; capture todos para completá-la.",
+          "Alfas não são obrigatórios para a zona."
+        ]
+      }
+    },
+    "mts": {
+      "guia": {
+        "passos": [
+          "MTs ficam em itens brilhantes pela cidade, em recompensas e lojas.",
+          "Muitas ficam em telhados: use a escalada."
+        ]
+      }
+    },
+    "presentes": {
+      "guia": {
+        "passos": [
+          "Personagens das missões e da história dão Pokémon de presente.",
+          "Confira se pulou alguma missão secundária ligada a presentes."
+        ]
+      }
+    },
+    "visual": {
+      "guia": {
+        "passos": [
+          "Lojas de roupas da cidade e recompensas de missões.",
+          "Novos itens aparecem conforme a história avança."
+        ]
+      }
+    },
+    "alfa": {
+      "guia": {
+        "passos": [
+          "Pokémon Alfa são maiores e têm olhos vermelhos nas Zonas Selvagens.",
+          "Ataque pelas costas e jogue a Poké Ball para captura mais fácil."
+        ]
+      }
+    },
+    "mega_novas": {
+      "guia": {
+        "passos": [
+          "Mega Chimecho e Mega Baxcalibur estreiam na DLC; Mega Raichu X e Y também.",
+          "Use a Megapedra de cada um numa batalha."
+        ]
+      }
+    }
+  }
 }

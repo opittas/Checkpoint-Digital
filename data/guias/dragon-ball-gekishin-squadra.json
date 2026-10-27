@@ -1,21 +1,75 @@
 {
-  "resumo": "Jogos da Nintendo não têm conquistas oficiais. Esta é uma checklist própria do Checkpoint Digital para você acompanhar o 100%. Batalhas 4x4 online.",
+  "resumo": "Dragon Ball Gekishin Squadra não tem conquistas oficiais no Switch. As Conquistas originais Checkpoint cobrem as partidas 4x4, heróis e temporadas.",
   "roadmap": [
     {
-      "titulo": "1. Partidas",
-      "texto": "Aprenda as funções e vença partidas em equipe."
+      "titulo": "1. Começo",
+      "texto": "Tutorial e primeiras partidas."
     },
     {
-      "titulo": "2. Esferas",
-      "texto": "Junte as Esferas do Dragão durante a partida para o desejo."
+      "titulo": "2. Heróis",
+      "texto": "Libere o elenco."
     },
     {
       "titulo": "3. Temporadas",
-      "texto": "Ranqueada e passe de temporada."
+      "texto": "Passe e ranqueadas."
     }
   ],
   "avisos": [
-    "Precisa de internet."
+    "É um jogo só online.",
+    "Há uma reformulação grande anunciada para o fim de 2026 (câmera em terceira pessoa); algumas metas podem mudar."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "deuses": {
+      "guia": {
+        "passos": [
+          "Antes de pegar a bola, o time precisa derrotar os quatro deuses da destruição espalhados pelo mapa.",
+          "Perto deles, suas habilidades viram o Gekishin Burst, que causa dano nos deuses."
+        ]
+      }
+    },
+    "ranked": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Abra o modo ranqueado e jogue partidas com seu melhor herói."
+        ]
+      }
+    },
+    "tutorial": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial ao iniciar o jogo."
+        ]
+      }
+    },
+    "vitoria": {
+      "guia": {
+        "passos": [
+          "Jogue a Batalha Padrão 4x4 e vença com seu time.",
+          "Conquiste a bola depois de derrotar os deuses da destruição."
+        ]
+      }
+    },
+    "herois": {
+      "guia": {
+        "passos": [
+          "Heróis saem com moedas do jogo, eventos e passes."
+        ]
+      }
+    },
+    "mvp": {
+      "guia": {
+        "passos": [
+          "Cause dano, ajude nos objetivos e evite morrer para ser o melhor da partida."
+        ]
+      }
+    },
+    "temporada": {
+      "guia": {
+        "passos": [
+          "Faça as missões da temporada para subir no passe."
+        ]
+      }
+    }
+  }
 }

@@ -1,20 +1,24 @@
 {
  "id": "smash-ultimate",
- "fonte": "Checklist do Checkpoint Digital",
+ "fonte": "Conquistas originais Checkpoint",
  "modo": "checklist",
  "grupos": [
   {
    "nome": "",
    "dlc": 0
+  },
+  {
+   "nome": "Fighters Pass",
+   "dlc": 1
   }
  ],
  "conquistas": [
   {
    "k": "lutadores",
    "g": 0,
-   "n": "Todos os lutadores",
+   "n": "Todos Aqui!",
    "d": "Desbloqueie todos os lutadores do jogo base.",
-   "n_en": "All fighters",
+   "n_en": "Everyone Is Here!",
    "d_en": "Unlock every base-game fighter.",
    "h": 0,
    "i": null,
@@ -24,7 +28,7 @@
    "k": "luz",
    "g": 0,
    "n": "Mundo da Luz",
-   "d": "Termine o modo Mundo da Luz (Aventura) com o final verdadeiro.",
+   "d": "Termine o Mundo da Luz com o final verdadeiro.",
    "n_en": "World of Light",
    "d_en": "Beat World of Light with the true ending.",
    "h": 0,
@@ -32,12 +36,45 @@
    "p": null
   },
   {
+   "k": "luz_dificil",
+   "g": 0,
+   "n": "Luz no Difícil",
+   "d": "Termine o Mundo da Luz na dificuldade Difícil.",
+   "n_en": "Hard Light",
+   "d_en": "Beat World of Light on Hard.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "luz100",
+   "g": 0,
+   "n": "Mapa Iluminado",
+   "d": "Chegue a 100% no Mundo da Luz.",
+   "n_en": "Light Mapped",
+   "d_en": "Reach 100% in World of Light.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
    "k": "classico",
    "g": 0,
-   "n": "Modo Clássico",
+   "n": "Clássico de Todos",
    "d": "Termine o Modo Clássico com todos os lutadores.",
-   "n_en": "Classic Mode",
+   "n_en": "Everyone's Classic",
    "d_en": "Clear Classic Mode with every fighter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "classico99",
+   "g": 0,
+   "n": "Intensidade 9.9",
+   "d": "Termine o Modo Clássico na intensidade 9.9.",
+   "n_en": "Intensity 9.9",
+   "d_en": "Clear Classic Mode at intensity 9.9.",
    "h": 0,
    "i": null,
    "p": null
@@ -45,10 +82,10 @@
   {
    "k": "espiritos",
    "g": 0,
-   "n": "Espíritos",
-   "d": "Colecione espíritos (Mundo da Luz, Quadro de Espíritos e loja).",
-   "n_en": "Spirits",
-   "d_en": "Collect spirits (World of Light, Spirit Board and shop).",
+   "n": "Colecionador de Espíritos",
+   "d": "Junte espíritos pelo Mundo da Luz, Quadro de Espíritos e Loja.",
+   "n_en": "Spirit Collector",
+   "d_en": "Collect spirits from World of Light, the Spirit Board and the Shop.",
    "h": 0,
    "i": null,
    "p": null
@@ -57,29 +94,62 @@
    "k": "desafios",
    "g": 0,
    "n": "Painel de Desafios",
-   "d": "Complete o painel de desafios.",
-   "n_en": "Challenge board",
-   "d_en": "Complete the Challenge board.",
+   "d": "Complete o Painel de Desafios.",
+   "n_en": "Challenge Board",
+   "d_en": "Complete the Challenge Board.",
    "h": 0,
    "i": null,
    "p": null
   },
   {
-   "k": "musicas",
+   "k": "musica",
    "g": 0,
-   "n": "Músicas e cenários",
-   "d": "Desbloqueie todas as músicas e cenários.",
-   "n_en": "Music and stages",
-   "d_en": "Unlock every song and stage.",
+   "n": "DJ do Smash",
+   "d": "Desbloqueie todas as músicas.",
+   "n_en": "Smash DJ",
+   "d_en": "Unlock every song.",
    "h": 0,
    "i": null,
    "p": null
   },
   {
-   "k": "online",
+   "k": "cruel",
+   "g": 0,
+   "n": "Smash Cruel",
+   "d": "Sobreviva a 1 minuto no Smash Cruel.",
+   "n_en": "Cruel Smash",
+   "d_en": "Survive 1 minute in Cruel Smash.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "century",
+   "g": 0,
+   "n": "Cem Lutadores",
+   "d": "Derrote 100 inimigos no Smash dos 100.",
+   "n_en": "Century Smash",
+   "d_en": "Defeat 100 foes in Century Smash.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "allstar",
+   "g": 0,
+   "n": "Todas as Estrelas",
+   "d": "Termine o Smash de Todas as Estrelas.",
+   "n_en": "All-Star Smash",
+   "d_en": "Clear All-Star Smash.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "elite",
    "g": 0,
    "n": "Elite Smash",
-   "d": "Chegue ao Elite Smash online com um lutador.",
+   "d": "Entre no Elite Smash online com um lutador.",
    "n_en": "Elite Smash",
    "d_en": "Reach Elite Smash online with a fighter.",
    "h": 0,
@@ -88,11 +158,22 @@
   },
   {
    "k": "dlc",
-   "g": 0,
-   "n": "Lutadores extras",
-   "d": "Jogue com os lutadores dos Fighters Pass (DLC).",
-   "n_en": "Extra fighters",
-   "d_en": "Play the Fighters Pass fighters (DLC).",
+   "g": 1,
+   "n": "Fighters Pass",
+   "d": "Jogue com todos os lutadores dos Fighters Pass.",
+   "n_en": "Fighters Pass",
+   "d_en": "Play every Fighters Pass fighter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_classico",
+   "g": 1,
+   "n": "Clássico dos Convidados",
+   "d": "Termine o Modo Clássico com todos os lutadores DLC.",
+   "n_en": "Guest Classics",
+   "d_en": "Clear Classic Mode with every DLC fighter.",
    "h": 0,
    "i": null,
    "p": null

@@ -1,0 +1,44 @@
+{
+  "resumo": "Plataforma de precisão: as conquistas da história saem fácil; o desafio é coletar morangos e corações e vencer os Lados B e C. O Capítulo 9 (Adeus) é grátis e é a parte mais difícil.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Jogue os Capítulos 1 a 7 sem se preocupar com coletáveis. Capítulos 8 e 9 abrem depois. Ative o Modo Assistido só se precisar: ele não bloqueia conquistas."
+    },
+    {
+      "titulo": "2. Morangos e corações",
+      "texto": "Volte em cada capítulo pelo menu para pegar morangos (30, 80 e 175 no total), a fita cassete e o Coração de Cristal de cada um. O 1UP sai pegando vários morangos seguidos sem tocar o chão."
+    },
+    {
+      "titulo": "3. Lados B",
+      "texto": "Cada fita cassete abre o Lado B do capítulo, uma versão bem mais difícil. Complete os oito."
+    },
+    {
+      "titulo": "4. Lados C",
+      "texto": "Com todos os Corações dos Lados B, abrem-se os Lados C: curtos, mas os mais exigentes. Completar todos dá 'Obrigado por Jogar'."
+    },
+    {
+      "titulo": "5. Capítulo 9 e extras",
+      "texto": "Termine o Capítulo 9 (Adeus) e procure o morango lunar no final dele. Para 'Gamer de Verdade', jogue o Celeste clássico (PICO-8) no computador do Capítulo 3."
+    }
+  ],
+  "avisos": [
+    "O Modo Assistido não bloqueia nenhuma conquista.",
+    "O morango lunar exige o Capítulo 9 completo; é o coletável mais difícil do jogo.",
+    "Os morangos dourados (sem morrer) não valem conquista."
+  ],
+  "conquistas": {
+    "PICO8": {
+      "dica": "O jogo PICO-8 fica num computador do Capítulo 3 (Hotel) e também no menu principal depois de achá-lo."
+    },
+    "WOW": {
+      "dica": "No fim do Capítulo 9, numa sala escondida que exige vários movimentos avançados."
+    },
+    "ONEUP": {
+      "dica": "Pegue 6 morangos seguidos sem encostar no chão, por exemplo no Capítulo 1."
+    },
+    "CSIDES": {
+      "dica": "Os Lados C abrem com todos os Corações dos Lados B."
+    }
+  }
+}

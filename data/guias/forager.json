@@ -1,0 +1,43 @@
+{
+  "resumo": "Lista longa, mas tranquila: quase tudo sai jogando normalmente até o fim e depois juntando dinheiro e construindo tudo. Não há conquistas perdíveis nem online.",
+  "roadmap": [
+    {
+      "titulo": "1. Expandir a ilha",
+      "texto": "Compre terras sempre que puder e priorize as árvores de habilidade de Economia (bancos, mais moedas) e Indústria (fornalhas, fábricas). É isso que acelera todo o resto."
+    },
+    {
+      "titulo": "2. Masmorras e chefes",
+      "texto": "Faça as masmorras das quatro regiões. Elas dão itens importantes e os chefes Rei Slime, Rei Esqueleto, Beterraba Sombria e Guardião Tóxico."
+    },
+    {
+      "titulo": "3. Museu e enigmas",
+      "texto": "Complete as coleções do museu e os puzzles das ilhas (tochas do Labirinto da Caveira, galerias, escavações com a pá). Muitas conquistas vêm daqui."
+    },
+    {
+      "titulo": "4. Vazio",
+      "texto": "O Vazio é o modo de desafio liberado mais tarde. Suba até o nível 30 para as conquistas de Vazio e pegue um equipamento do Vazio e um Cósmico."
+    },
+    {
+      "titulo": "5. Dinheiro e nuclear",
+      "texto": "Com muitos bancos e fábricas, deixe o jogo rodando para chegar a um bilhão e um trilhão de moedas. No fim, melhore estruturas para energia nuclear e tenha 100 delas ao mesmo tempo."
+    }
+  ],
+  "avisos": [
+    "Nenhuma conquista é perdível: dá para fazer tudo num único save.",
+    "As de bilhão, trilhão e 100 estruturas nucleares são as mais demoradas; deixe o jogo rodando com bancos e fábricas."
+  ],
+  "conquistas": {
+    "feat98": {
+      "dica": "Deixe o jogo aberto com dezenas de bancos melhorados; leva horas, mas sem esforço."
+    },
+    "feat102": {
+      "dica": "Precisa de muita terra livre. Compre todas as ilhas antes."
+    },
+    "feat88": {
+      "dica": "Fica numa das ilhas de enigma: acenda todas as tochas do labirinto sem deixar nenhuma apagar."
+    },
+    "feat95": {
+      "dica": "Só conta o dinheiro gerado pelos bancos, não o total ganho."
+    }
+  }
+}

@@ -279,8 +279,27 @@ def atualizar_conquistas(supa_games):
 
 
 
+def aplicar_traducoes():
+    """data/traducoes/<id>.json: nomes/descrições em PT-BR para jogos sem tradução oficial na Steam."""
+    for j in load_json("data/jogos.json", []):
+        tr = load_json(f"data/traducoes/{j['id']}.json")
+        d = load_json(f"data/conquistas/{j['id']}.json")
+        if not tr or not d:
+            continue
+        mudou = False
+        for a in d.get("conquistas", []):
+            t = tr.get(a["k"]) or {}
+            for campo in ("n", "d"):
+                if t.get(campo) and a.get(campo) != t[campo]:
+                    a[campo] = t[campo]
+                    mudou = True
+        if mudou:
+            save_json(f"data/conquistas/{j['id']}.json", d, compact=True)
+
+
 def gerar_indice():
     """data/conquistas/index.json: total do jogo base e lista de conquistas de cada DLC."""
+    aplicar_traducoes()
     index = {}
     for j in load_json("data/jogos.json", []):
         d = load_json(f"data/conquistas/{j['id']}.json")

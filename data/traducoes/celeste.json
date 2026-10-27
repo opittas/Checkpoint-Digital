@@ -1,0 +1,130 @@
+{
+ "CH7": {
+  "n": "Celeste",
+  "d": "Escale a Montanha Celeste"
+ },
+ "CH1": {
+  "n": "Abandonada",
+  "d": "Complete o Capítulo 1"
+ },
+ "CH2": {
+  "n": "Arqueologia",
+  "d": "Complete o Capítulo 2"
+ },
+ "CH3": {
+  "n": "Fechando a Conta",
+  "d": "Complete o Capítulo 3"
+ },
+ "CH4": {
+  "n": "Respire",
+  "d": "Complete o Capítulo 4"
+ },
+ "CH5": {
+  "n": "No Espelho",
+  "d": "Complete o Capítulo 5"
+ },
+ "CH6": {
+  "n": "Reflexo",
+  "d": "Complete o Capítulo 6"
+ },
+ "STRB1": {
+  "n": "Distintivo de Morango",
+  "d": "Colete 30 morangos"
+ },
+ "STRB2": {
+  "n": "Medalha de Morango",
+  "d": "Colete 80 morangos"
+ },
+ "STRB3": {
+  "n": "Impressione Seus Amigos",
+  "d": "Colete 175 morangos"
+ },
+ "CASS": {
+  "n": "Passagem",
+  "d": "Colete uma fita cassete"
+ },
+ "ONEUP": {
+  "n": "1UP!",
+  "d": "Consiga um 1UP"
+ },
+ "PICO8": {
+  "n": "Gamer de Verdade",
+  "d": "Complete Celeste para PICO-8"
+ },
+ "HEART1": {
+  "n": "Máquinas Inúteis",
+  "d": "Colete o Coração de Cristal do Capítulo 1"
+ },
+ "BSIDE1": {
+  "n": "Cortar o Horizonte",
+  "d": "Complete o Lado B do Capítulo 1"
+ },
+ "HEART2": {
+  "n": "Ressurreições",
+  "d": "Colete o Coração de Cristal do Capítulo 2"
+ },
+ "BSIDE2": {
+  "n": "Nascer da Lua Negra",
+  "d": "Complete o Lado B do Capítulo 2"
+ },
+ "HEART3": {
+  "n": "Dispersos e Perdidos",
+  "d": "Colete o Coração de Cristal do Capítulo 3"
+ },
+ "BSIDE3": {
+  "n": "Bom Carma",
+  "d": "Complete o Lado B do Capítulo 3"
+ },
+ "HEART4": {
+  "n": "Olho da Tempestade",
+  "d": "Colete o Coração de Cristal do Capítulo 4"
+ },
+ "BSIDE4": {
+  "n": "Pena Dourada",
+  "d": "Complete o Lado B do Capítulo 4"
+ },
+ "HEART5": {
+  "n": "Silêncio e Queda",
+  "d": "Colete o Coração de Cristal do Capítulo 5"
+ },
+ "BSIDE5": {
+  "n": "Magia do Espelho",
+  "d": "Complete o Lado B do Capítulo 5"
+ },
+ "HEART6": {
+  "n": "Pesado e Frágil",
+  "d": "Colete o Coração de Cristal do Capítulo 6"
+ },
+ "BSIDE6": {
+  "n": "Centro da Terra",
+  "d": "Complete o Lado B do Capítulo 6"
+ },
+ "HEART7": {
+  "n": "Nascer do Sol Rosa",
+  "d": "Colete o Coração de Cristal do Capítulo 7"
+ },
+ "BSIDE7": {
+  "n": "Chega de Fugir",
+  "d": "Complete o Lado B do Capítulo 7"
+ },
+ "HEART8": {
+  "n": "Coração da Montanha",
+  "d": "Colete o Coração de Cristal do Capítulo 8"
+ },
+ "BSIDE8": {
+  "n": "Diga Adeus",
+  "d": "Complete o Lado B do Capítulo 8"
+ },
+ "CSIDES": {
+  "n": "Obrigado por Jogar",
+  "d": "Complete todos os Lados C"
+ },
+ "FAREWELL": {
+  "n": "Adeus",
+  "d": "Complete o Capítulo 9"
+ },
+ "WOW": {
+  "n": "Uau",
+  "d": "Encontre o morango lunar"
+ }
+}

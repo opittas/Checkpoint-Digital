@@ -1,0 +1,170 @@
+{
+ "DefeatBoss": {
+  "n": "Fazendo Fama",
+  "d": "Derrote um chefe"
+ },
+ "CompleteWorld1": {
+  "n": "Passeio no Parque",
+  "d": "Derrote todos os chefes da Ilha Tinteiro I"
+ },
+ "CompleteWorld2": {
+  "n": "Um Dia no Parque de Diversões",
+  "d": "Derrote todos os chefes da Ilha Tinteiro II"
+ },
+ "CompleteWorld3": {
+  "n": "Uma Volta no Centro",
+  "d": "Derrote todos os chefes da Ilha Tinteiro III"
+ },
+ "CompleteDicePalace": {
+  "n": "Noite no Cassino",
+  "d": "Complete o Cassino"
+ },
+ "CompleteDevil": {
+  "n": "Dance, Pecador",
+  "d": "Derrote o Diabo"
+ },
+ "BadEnding": {
+  "n": "Vendido",
+  "d": "Ceda ao Diabo"
+ },
+ "SRank": {
+  "n": "Que Espetáculo",
+  "d": "Consiga um Rank S"
+ },
+ "ARankWorld1": {
+  "n": "Xerife",
+  "d": "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro I"
+ },
+ "ARankWorld2": {
+  "n": "Chefão",
+  "d": "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro II"
+ },
+ "ARankWorld3": {
+  "n": "Prefeito",
+  "d": "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro III"
+ },
+ "ARankWorld4": {
+  "n": "Rei",
+  "d": "Consiga Rank A ou maior em todos os chefes do Inferno Tinteiro"
+ },
+ "GoodEnding": {
+  "n": "Almas Salvas",
+  "d": "Termine o jogo no Normal"
+ },
+ "NewGamePlus": {
+  "n": "Vencendo o Diabo no Próprio Jogo",
+  "d": "Termine o jogo no Especialista"
+ },
+ "BoughtAllItems": {
+  "n": "Bacana de Bolso Cheio",
+  "d": "Compre tudo na loja do Porkrind"
+ },
+ "FoundSecretPassage": {
+  "n": "Cortando Caminho",
+  "d": "Encontre um atalho"
+ },
+ "ExWin": {
+  "n": "Golpe de Cerâmica",
+  "d": "Derrote um chefe com um golpe Extra Especial"
+ },
+ "SuperWin": {
+  "n": "Poder da Porcelana",
+  "d": "Derrote um chefe com uma Super Arte"
+ },
+ "SmallPlaneOnlyWin": {
+  "n": "Bravo Zulu P-26",
+  "d": "Derrote um chefe usando só os tiros do mini-avião"
+ },
+ "UnlockedAllSupers": {
+  "n": "Mestre Mágico",
+  "d": "Obtenha todas as Super Artes"
+ },
+ "NoHitsTaken": {
+  "n": "Corrida Perfeita",
+  "d": "Complete uma fase sem levar dano"
+ },
+ "FoundAllLevelMoney": {
+  "n": "Cofres Cheios",
+  "d": "Pegue todas as moedas de todas as fases"
+ },
+ "ParryChain": {
+  "n": "Bola Quicando",
+  "d": "Faça cinco parries antes de tocar o chão"
+ },
+ "ParryApprentice": {
+  "n": "Persistência no Parry",
+  "d": "Faça 20 parries"
+ },
+ "ParryMaster": {
+  "n": "Performance no Parry",
+  "d": "Faça 100 parries"
+ },
+ "NoHitsTakenDicePalace": {
+  "n": "Dados no Seis",
+  "d": "Derrote o Rei Dado sem levar dano"
+ },
+ "FoundAllMoney": {
+  "n": "Apostador de Peso",
+  "d": "Pegue todas as moedas do jogo"
+ },
+ "PacifistRun": {
+  "n": "Pacifista",
+  "d": "Complete todas as fases sem matar nenhum inimigo"
+ },
+ "CompleteWorldDLC": {
+  "n": "Férias na Natureza",
+  "d": "Derrote todos os chefes da Ilha Tinteiro IV"
+ },
+ "ARankWorldDLC": {
+  "n": "Guarda-Florestal",
+  "d": "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro IV"
+ },
+ "DefeatBossAsChalice": {
+  "n": "Vivinha da Silva",
+  "d": "Derrote um chefe com a Ms. Chalice"
+ },
+ "DefeatXBossesAsChalice": {
+  "n": "Decadente",
+  "d": "Derrote 10 chefes com a Ms. Chalice"
+ },
+ "ChaliceSuperWin": {
+  "n": "Toque de Ouro",
+  "d": "Derrote um chefe com uma Super Arte da Ms. Chalice"
+ },
+ "DefeatBossDLCWeapon": {
+  "n": "A Última Sensação",
+  "d": "Derrote um chefe com uma das armas novas do Porkrind"
+ },
+ "DefeatAllKOG": {
+  "n": "Xeque-Mate",
+  "d": "Derrote todos os Campeões do Rei dos Jogos"
+ },
+ "DefeatKOGGauntlet": {
+  "n": "Admiração do Rei",
+  "d": "Vença o Desafio do Rei"
+ },
+ "DefeatSaltbaker": {
+  "n": "Elogios ao Chef",
+  "d": "Complete sua missão na Ilha Tinteiro IV"
+ },
+ "SRankAnyDLC": {
+  "n": "No Ponto Certo",
+  "d": "Consiga Rank S em uma fase da Ilha Tinteiro IV"
+ },
+ "DefeatBossNoMinions": {
+  "n": "Cartola",
+  "d": "Derrote um chefe da Ilha Tinteiro IV sem matar nenhum de seus capangas"
+ },
+ "HP9": {
+  "n": "Coração Forte",
+  "d": "Tenha 9 de vida ao mesmo tempo"
+ },
+ "DefeatDevilPhase2": {
+  "n": "Uma Noite Terrível para Ser Amaldiçoado",
+  "d": "Sobreviva ao pesadelo"
+ },
+ "Paladin": {
+  "n": "Paladino",
+  "d": "Obtenha um grande poder"
+ }
+}

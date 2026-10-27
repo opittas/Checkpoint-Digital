@@ -1,26 +1,39 @@
 {
-  "resumo": "Run de chefes difícil, mas justa. O jogo base tem 28 conquistas; as 14 da DLC The Delicious Last Course ficam numa aba separada.",
+  "resumo": "Lista difícil, mas justa: o grosso é zerar no Especialista, tirar Rank A em todos os chefes e fazer a corrida Pacifista. Nada é perdível de verdade. O jogo base tem 28 conquistas; as 14 da DLC The Delicious Last Course ficam na aba separada.",
   "roadmap": [
     {
-      "titulo": "1. Zere no Normal",
-      "texto": "Derrote todos os chefes e o Diabo no Normal. Pegue as moedas das fases run 'n gun enquanto passa e compre tudo na loja do Porkrind."
+      "titulo": "1. Zerar no Normal",
+      "texto": "Derrote todos os chefes das Ilhas Tinteiro I, II e III, o Cassino do Rei Dado e o Diabo. Pegue as moedas das fases run 'n gun no caminho (são 5 por fase, mais 3 escondidas no mapa) e compre tudo na loja do Porkrind."
     },
     {
-      "titulo": "2. Modo Especialista",
-      "texto": "Depois de zerar, libere o Especialista e jogue de novo do início. É a conquista mais difícil do jogo base."
+      "titulo": "2. Final ruim",
+      "texto": "Antes da luta final, aceite a proposta do Diabo para pegar 'Vendido'. Depois é só voltar e terminar normalmente: não estraga o save."
     },
     {
-      "titulo": "3. Ranks e desafios",
-      "texto": "Volte nos chefes para tirar A ou mais em todos e um S-Rank (Especialista, sem dano, com parry e super). Faça as fases sem matar inimigos para Pacifist."
+      "titulo": "3. Especialista",
+      "texto": "Ao zerar, o modo Especialista é liberado. Vença todos os chefes nele para a conquista mais difícil do jogo base. Use o amuleto Coração Fumegante ou o Tiro Espalhado nos chefes mais chatos."
     },
     {
-      "titulo": "4. Limpeza",
-      "texto": "Conquistas situacionais: vencer com Super Art, com EX, só com tiros do mini-avião, 5 parries seguidos e uma fase sem tomar dano."
+      "titulo": "4. Ranks",
+      "texto": "Rank A em todos os chefes vem com pouco dano, parries e uso de Super. O Rank S só existe no Especialista: zero dano, muitos parries e uma vitória rápida. Chefes do começo (The Root Pack, Goopy) são os mais fáceis para o S."
+    },
+    {
+      "titulo": "5. Pacifista",
+      "texto": "Refaça as 6 fases run 'n gun sem matar nenhum inimigo: só pule e desvie. Ative o amuleto de 'Smoke Bomb' (dash invisível) para atravessar inimigos com segurança."
+    },
+    {
+      "titulo": "6. Limpeza",
+      "texto": "Conquistas que saem no caminho: vencer com Super Arte e com golpe EX, só com tiros do mini-avião (aperte para encolher na fase de avião), 5 parries seguidos no ar, 100 parries e uma fase sem tomar dano."
+    },
+    {
+      "titulo": "7. DLC (aba separada)",
+      "texto": "Na Ilha Tinteiro IV, use a Ms. Chalice em 10 chefes, derrote os Campeões do Rei dos Jogos e a Saltbaker. Paladino exige ter feito tudo da DLC para pegar o amuleto Relíquia Divina."
     }
   ],
   "avisos": [
-    "Não aceite a proposta do Diabo se não quiser o final ruim antes da hora: dá para pegar 'Selling Out' e depois recarregar e terminar normalmente.",
-    "S-Rank só existe no modo Especialista."
+    "Rank S só existe no modo Especialista.",
+    "'Vendido' (final ruim) pode ser feita a qualquer momento antes do Diabo, sem perder progresso.",
+    "A conquista 'Sobreviva ao pesadelo' é da luta extra contra o Diabo, liberada pela DLC."
   ],
   "conquistas": {
     "CompleteWorldDLC": {
@@ -66,7 +79,19 @@
       "dlc": "The Delicious Last Course"
     },
     "PacifistRun": {
-      "dica": "Nas fases run 'n gun, só pule e desvie: qualquer inimigo morto anula a run."
+      "dica": "Só as 6 fases run 'n gun contam. Não pode matar nem os inimigos que renascem."
+    },
+    "NewGamePlus": {
+      "dica": "Abra o Especialista zerando no Normal. Dá para escolher o modo a cada luta."
+    },
+    "SRank": {
+      "dica": "Especialista, sem levar dano, com parries e Super. Tente no The Root Pack."
+    },
+    "BadEnding": {
+      "dica": "Aceite a oferta do Diabo antes da luta final; depois recarregue o save."
+    },
+    "FoundAllMoney": {
+      "dica": "Inclui as 3 moedas escondidas no mapa, fora das fases."
     }
   }
 }

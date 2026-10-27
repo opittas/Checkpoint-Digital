@@ -1,0 +1,84 @@
+{
+ "feat24": {
+  "n": "Bombardeiro"
+ },
+ "feat25": {
+  "n": "Espeleólogo"
+ },
+ "feat84": {
+  "n": "Batedor do Vazio",
+  "d": "Alcance o nível 5 do Vazio"
+ },
+ "feat85": {
+  "n": "Explorador do Vazio",
+  "d": "Alcance o nível 10 do Vazio"
+ },
+ "feat86": {
+  "n": "Campeão do Vazio",
+  "d": "Alcance o nível 20 do Vazio"
+ },
+ "feat87": {
+  "n": "Mestre do Vazio",
+  "d": "Alcance o nível 30 do Vazio"
+ },
+ "feat88": {
+  "n": "Iluminador",
+  "d": "Acenda todas as tochas do Labirinto da Caveira"
+ },
+ "feat89": {
+  "n": "De Outro Mundo",
+  "d": "Obtenha um equipamento do Vazio"
+ },
+ "feat90": {
+  "n": "Galáctico",
+  "d": "Obtenha um equipamento Cósmico"
+ },
+ "feat91": {
+  "n": "Invocador",
+  "d": "Obtenha um sigilo"
+ },
+ "feat92": {
+  "n": "Regicídio Gosmento",
+  "d": "Derrote o Rei Slime"
+ },
+ "feat93": {
+  "n": "Regicídio Ósseo",
+  "d": "Derrote o Rei Esqueleto"
+ },
+ "feat94": {
+  "n": "Não Sou um Monstro",
+  "d": "Derrote a Beterraba Sombria"
+ },
+ "feat95": {
+  "n": "Colecionador de Moedas",
+  "d": "Ganhe 1 milhão de moedas usando bancos"
+ },
+ "feat96": {
+  "n": "Poder Ilimitado",
+  "d": "Melhore todas as hastes"
+ },
+ "feat97": {
+  "n": "Bilionário",
+  "d": "Tenha 1.000.000.000 de moedas"
+ },
+ "feat98": {
+  "n": "Trilionário",
+  "d": "Tenha 1.000.000.000.000 de moedas"
+ },
+ "feat99": {
+  "n": "Vencedor Tóxico",
+  "d": "Derrote o Guardião Tóxico"
+ },
+ "feat100": {
+  "n": "Radioativo",
+  "d": "Obtenha um item de nível Nuclear"
+ },
+ "feat101": {
+  "n": "Cientista Maluco",
+  "d": "Melhore uma estrutura para usar energia nuclear"
+ },
+ "feat102": {
+  "n": "Mestre da Produção",
+  "d": "Tenha 100 estruturas nucleares ao mesmo tempo"
+ }
+}

@@ -21,8 +21,8 @@
 <meta name="twitter:description" content="Todas as 15 conquistas de Streamer Life Simulator com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/streamer-life-simulator.jpg">
 <!--/SEO-->
-<link rel="stylesheet" href="../shared.css?v=c8b847ab">
-<link rel="stylesheet" href="../conquistas-app.css?v=cdd62e80">
+<link rel="stylesheet" href="../shared.css?v=23dc22a7">
+<link rel="stylesheet" href="../conquistas-app.css?v=99f1a540">
 </head>
 <body>
 
@@ -32,7 +32,7 @@
 <script>window.JOGO_ID = "streamer-life-simulator";</script>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="../shared.js?v=32a7bb6c"></script>
+<script src="../shared.js?v=ea914b8a"></script>
 <script src="../conquistas-app.js?v=3fa4b67f"></script>
 <script src="../auth.js?v=2cd7afc5"></script>
 <script>
@@ -46,6 +46,7 @@
   try { S.hideSpoilers = localStorage.getItem('ck_spoilers') !== 'show'; } catch (e) {}
 
   let game, achs = [], guide, meta, prog;
+  let noticias = null, siteCfg = null, verTodasNoticias = false;
   const app = document.getElementById('app');
 
   function fail(msg) {
@@ -125,7 +126,7 @@
     if (!it) return `<button class="ck-btn primary" data-lib="add">＋ ${T('Adicionar aos Meus Jogos', 'Add to My Games')}</button>`;
     return `<span class="g-chip" style="background:#22c55e26;border-color:#22c55e55;color:#bbf7d0">✓ ${T('Nos Meus Jogos', 'In My Games')}</span>
       <select class="ck-select" data-lib="status" style="margin-left:6px">${Object.keys(CK.STATUS).map(k => `<option value="${k}"${it.status === k ? ' selected' : ''}>${CK.statusLabel(k)}</option>`).join('')}</select>
-      <a class="ck-btn" href="../meus-jogos.html" style="text-decoration:none;margin-left:6px">⭐ ${T('Ver coleção', 'View collection')}</a>`;
+      <a class="ck-btn" href="../index.html" style="text-decoration:none;margin-left:6px">⭐ ${T('Ver coleção', 'View collection')}</a>`;
   }
 
   // ── PROGRESSO ──
@@ -168,6 +169,32 @@
           ${avisos ? `<div class="g-avisos">${avisos}</div>` : ''}
         </div>
       </details>`;
+  }
+
+  // ── NOTÍCIAS DO JOGO ──
+  // Carregadas depois da página (não atrasam a lista de conquistas)
+  function newsHTML() {
+    if (!noticias || !noticias.length) return '<div id="g-news"></div>';
+    const lista = verTodasNoticias ? noticias : noticias.slice(0, 3);
+    return `
+      <section class="g-news" id="g-news">
+        <div class="g-news-head">
+          <h2>📰 ${T('Notícias de', 'News about')} ${esc(game.title)}</h2>
+          <span>${noticias.length} ${noticias.length > 1 ? T('notícias', 'articles') : T('notícia', 'article')}</span>
+        </div>
+        <div class="cards-grid">${lista.map(a => newsCardHTML(a, siteCfg, { base: '../' })).join('')}</div>
+        ${noticias.length > 3 ? `<button class="ck-btn g-news-more" data-news-more>${verTodasNoticias ? T('Mostrar menos', 'Show less') : T(`Ver todas as ${noticias.length} notícias`, `See all ${noticias.length} articles`)}</button>` : ''}
+      </section>`;
+  }
+  function carregarNoticias() {
+    Promise.all([loadSite(), dbFetch('articles?select=id,title,title_en,excerpt,excerpt_en,image_url,published_at,platform,gen,category,read_time&order=published_at.desc').then(r => r.json())])
+      .then(([site, arts]) => {
+        siteCfg = site;
+        noticias = noticiasDoJogo(game, Array.isArray(arts) ? arts : []);
+        const el = document.getElementById('g-news');
+        if (el) el.outerHTML = newsHTML();
+      })
+      .catch(() => {});
   }
 
   // ── FILTROS ──
@@ -284,22 +311,29 @@
           <p class="g-resumo" style="margin:0">${T(
             'Os consoles da Nintendo não têm um sistema oficial de conquistas ou troféus, então este jogo não possui uma lista para acompanhar. Quando houver metas de 100% confirmadas, elas aparecem aqui como checklist.',
             'Nintendo consoles have no official achievement or trophy system, so there is no list to track for this game. Once confirmed 100% goals are available they will show up here as a checklist.')}</p>
-        </div></div></main>`;
+        </div></div>${newsHTML()}${devNoticeHTML()}</main>`;
       return;
     }
-    app.innerHTML = heroHTML() + `<main class="ck-wrap">${abasHTML()}${progressHTML()}${guideHTML()}</main>`
+    app.innerHTML = heroHTML() + `<main class="ck-wrap">${abasHTML()}${progressHTML()}${guideHTML()}${newsHTML()}</main>`
       + toolbarHTML() + `<main class="ck-wrap"><div class="a-list" id="list">${listHTML()}</div>${noteHTML()}</main>`;
   }
 
+  // Aviso: o site ainda está em desenvolvimento
+  function devNoticeHTML() {
+    return `<div class="dev-notice g-dev"><span class="dev-notice-ico">🚧</span><span><b>${T('Site em desenvolvimento.', 'Site under development.')}</b> ${T(
+      'Alguns jogos ainda podem estar com a lista de conquistas incompleta ou diferente da oficial. Se notar algo errado, confira a lista da plataforma.',
+      'Some games may still have an incomplete achievement list or one that differs from the official one. If something looks off, check the platform\'s list.')}</span></div>`;
+  }
+
   function noteHTML() {
-    if (!meta) return '';
+    if (!meta) return devNoticeHTML();
     const src = meta.fonte === 'Steam'
       ? `${T('Lista e porcentagens oficiais da', 'Official list and percentages from')} <a href="https://steamcommunity.com/stats/${meta.appid}/achievements/" target="_blank" rel="noopener">Steam</a>`
       : esc(meta.fonte || '');
     const plat = meta.fonte === 'Steam' && (game.platforms.includes('xbox') || game.platforms.includes('ps'))
       ? T(' · Xbox e PlayStation costumam ter a mesma lista (o PS soma o troféu de Platina).', ' · Xbox and PlayStation usually share the same list (PS adds the Platinum trophy).') : '';
     const upd = meta.atualizado ? ` · ${T('atualizado em', 'updated')} ${new Date(meta.atualizado + 'T12:00:00').toLocaleDateString(EN ? 'en' : 'pt-BR')}` : '';
-    return `<p class="g-note">${src}${upd}${plat}</p>`;
+    return devNoticeHTML() + `<p class="g-note">${src}${upd}${plat}</p>`;
   }
 
   // Atualiza só o que muda ao marcar (sem perder o scroll)
@@ -323,6 +357,11 @@
   // ── EVENTOS (delegação) ──
   app.addEventListener('click', e => {
     const t = e.target;
+    if (t.closest('[data-news-more]')) {
+      verTodasNoticias = !verTodasNoticias;
+      document.getElementById('g-news').outerHTML = newsHTML();
+      return;
+    }
     if (t.closest('[data-lib="add"]')) {
       CK.setLibItem(gid, { plataformas: game.platforms.length === 1 ? game.platforms.slice() : [], status: 'jogando', favorito: false, origem: 'manual' });
       document.getElementById('lib-slot').innerHTML = libBtnHTML();
@@ -428,13 +467,16 @@
       guide = g; meta = achData; prog = CK.getProg(gid);
       if (game.mode !== 'sem-conquistas' && !(achData && achData.conquistas && achData.conquistas.length)) {
         app.innerHTML = heroHTML();
-        app.insertAdjacentHTML('beforeend', `<div class="ck-empty">${T('A lista de conquistas deste jogo está sendo atualizada. Volte em breve!', 'This achievement list is being updated. Check back soon!')}</div>`);
+        app.insertAdjacentHTML('beforeend', `<div class="ck-empty">${T('A lista de conquistas deste jogo ainda não saiu ou está sendo atualizada. Volte em breve!', 'This achievement list is not out yet or is being updated. Check back soon!')}</div>`
+          + `<main class="ck-wrap">${newsHTML()}${devNoticeHTML()}</main>`);
+        carregarNoticias();
         return;
       }
       achs = achData ? CK.mergeGuide(achData, guide) : [];
       achs.forEach(a => { if (a.dlc) a.dlc = a.dlc.replace(game.title + ': ', ''); });
       if (!secoes().some(x => x.id === S.sec)) S.sec = 'base';
       render();
+      carregarNoticias();
     })
     .catch(() => fail(T('Não foi possível carregar este jogo.', 'Could not load this game.')));
 </script>

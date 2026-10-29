@@ -1,5 +1,6 @@
 # Publica no site as notícias novas do banco (Supabase), 3x por dia.
 # Gera a página fixa de cada notícia (prévia no WhatsApp/Discord/X e Google),
+# completa os jogos novos do catálogo (capa e conquistas da Steam),
 # baixa as capas e atualiza o mapa do site. Roda na nuvem do GitHub.
 name: Publicar notícias
 

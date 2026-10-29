@@ -4,180 +4,357 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
-<title>Checkpoint Digital — Notícias, reviews e guias de conquistas</title>
+<title>Checkpoint Digital — Meus Jogos, conquistas e notícias de cada jogo</title>
 <!--SEO-->
-<meta name="description" content="Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso.">
+<meta name="description" content="Monte sua coleção de jogos, acompanhe o progresso das conquistas e troféus e veja as notícias de cada jogo em um só lugar.">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/">
 <meta property="og:site_name" content="Checkpoint Digital">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Checkpoint Digital — Notícias, reviews e guias de conquistas">
-<meta property="og:description" content="Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso.">
+<meta property="og:title" content="Checkpoint Digital — Meus Jogos, conquistas e notícias de cada jogo">
+<meta property="og:description" content="Monte sua coleção de jogos, acompanhe o progresso das conquistas e troféus e veja as notícias de cada jogo em um só lugar.">
 <meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/">
 <meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Checkpoint Digital — Notícias, reviews e guias de conquistas">
-<meta name="twitter:description" content="Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso.">
+<meta name="twitter:title" content="Checkpoint Digital — Meus Jogos, conquistas e notícias de cada jogo">
+<meta name="twitter:description" content="Monte sua coleção de jogos, acompanhe o progresso das conquistas e troféus e veja as notícias de cada jogo em um só lugar.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <!--/SEO-->
-<link rel="stylesheet" href="shared.css?v=c8b847ab">
+<link rel="stylesheet" href="shared.css?v=23dc22a7">
+<link rel="stylesheet" href="conquistas-app.css?v=99f1a540">
 <style>
-  /* ── HOME HERO ── */
-  .hero {
-    background: var(--bg2);
-    border-bottom: 1px solid var(--border);
-    padding: 48px 0 40px;
-    transition: var(--theme-transition);
-  }
-  .hero-inner {
-    max-width: 1100px; margin: 0 auto; padding: 0 24px;
-    display: grid; grid-template-columns: 1fr 340px; gap: 32px; align-items: start;
-  }
-  .hero-tag {
-    display: inline-flex; align-items: center; gap: 6px;
-    font-size: 11px; font-weight: 700; text-transform: uppercase;
-    letter-spacing: 1px; padding: 4px 10px; border-radius: 20px; margin-bottom: 14px;
-  }
-  .hero-tag.xbox  { background: var(--xbox-light);  color: var(--xbox-dark); }
-  .hero-tag.ps    { background: var(--ps-light);    color: var(--ps-dark); }
-  .hero-tag.nin   { background: var(--nin-light);   color: var(--nin-dark); }
-  .hero-tag.steam { background: var(--steam-light); color: var(--steam-dark); }
-  .hero-title { font-size: 28px; font-weight: 700; line-height: 1.3; color: var(--text); margin-bottom: 12px; }
-  .hero-meta { font-size: 13px; color: var(--text2); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .mj-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 18px; }
+  .mj-card { position: relative; }
+  .mj-top { position: absolute; top: 10px; left: 10px; right: 10px; display: flex; justify-content: space-between; z-index: 2; pointer-events: none; }
+  .mj-top > * { pointer-events: auto; }
+  .mj-ico { width: 32px; height: 32px; border-radius: 50%; border: 0; background: #000000a8; color: #fff; font-size: 15px; cursor: pointer; display: grid; place-items: center; -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); }
+  .mj-ico:hover { background: #000000d0; }
+  .mj-ico.fav { color: #fbbf24; }
+  .mj-status { background: var(--bg); color: var(--text); border: 1px solid var(--border); border-radius: 8px; font: inherit; font-size: 12px; font-weight: 700; padding: 6px 8px; cursor: pointer; }
+  .mj-plats { display: flex; gap: 5px; flex-wrap: wrap; }
+  .mj-plat { border: 1px dashed var(--border); background: transparent; color: var(--text3); font: inherit; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 6px; cursor: pointer; }
+  .mj-plat.on.xbox  { background: var(--xbox-light);  color: var(--xbox-dark);  border: 1px solid transparent; }
+  .mj-plat.on.ps    { background: var(--ps-light);    color: var(--ps-dark);    border: 1px solid transparent; }
+  .mj-plat.on.nin   { background: var(--nin-light);   color: var(--nin-dark);   border: 1px solid transparent; }
+  .mj-plat.on.steam { background: var(--steam-light); color: var(--steam-dark); border: 1px solid transparent; }
+  .mj-dlc { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 4px; }
+  .mj-dlc-pct { font-size: 12px; color: var(--text3); white-space: nowrap; }
+  .mj-dlc-pct b { color: var(--ach-strong); }
+  .mj-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+  .mj-link { color: var(--ach-strong); font-weight: 800; font-size: 13px; text-decoration: none; }
+  .mj-hint { font-size: 11px; color: var(--text3); }
 
-  /* ── SIDE NEWS ── */
-  .side-news { display: flex; flex-direction: column; gap: 0; }
-  .side-news-title { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--text3); margin-bottom: 12px; }
-  .side-item { padding: 12px 0; border-bottom: 1px solid var(--border); transition: opacity 0.15s; text-decoration: none; display: block; }
-  .side-item:last-child { border-bottom: none; }
-  .side-item:hover { opacity: 0.7; }
-  .side-item-plat { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 4px; }
-  .side-item-plat.xbox  { color: var(--xbox); }
-  .side-item-plat.ps    { color: var(--ps); }
-  .side-item-plat.nin   { color: var(--nin); }
-  .side-item-plat.steam { color: var(--steam); }
-  .side-item-title { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.4; margin-bottom: 3px; }
-  .side-item-date  { font-size: 11px; color: var(--text3); }
+  .news-h { display: flex; align-items: baseline; gap: 10px; margin: 10px 0 14px; }
+  .news-h h2 { font-size: 20px; font-weight: 900; color: var(--text); }
+  .news-h span { color: var(--text3); font-size: 13px; }
+  .nl { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; padding-bottom: 70px; }
+  .ni { display: grid; grid-template-columns: 110px 1fr; gap: 12px; background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; padding: 10px; text-decoration: none; color: inherit; transition: border-color .15s; }
+  .ni:hover { border-color: #8b5cf666; }
+  .ni img, .ni .ph { width: 110px; height: 74px; object-fit: cover; border-radius: 8px; background: var(--bg3); display: grid; place-items: center; font-size: 22px; }
+  .ni b { color: var(--text); font-size: 14px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .ni small { color: var(--text3); font-size: 11px; display: block; margin-top: 4px; }
+  .ni .tag { font-size: 10px; font-weight: 800; color: var(--ach-strong); text-transform: uppercase; letter-spacing: .4px; }
 
-  /* ── HOME PLATFORM SECTIONS ── */
-  .home-sections { padding: 40px 0; }
-  .home-plat-section { margin-bottom: 40px; }
-  .home-plat-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid var(--border); }
-  .home-plat-name { font-size: 18px; font-weight: 700; display: flex; align-items: center; gap: 10px; }
-  .plat-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
-  .plat-dot.xbox  { background: var(--xbox); }
-  .plat-dot.ps    { background: var(--ps); }
-  .plat-dot.nin   { background: var(--nin); }
-  .plat-dot.steam { background: var(--steam); }
-  .see-all-btn {
-    font-size: 12px; font-weight: 600;
-    background: none; border: 1px solid var(--border);
-    padding: 4px 12px; border-radius: 6px; cursor: pointer; transition: all 0.15s;
-    text-decoration: none;
-  }
-  .see-all-btn:hover { border-color: var(--text3); color: var(--text); }
-  .see-all-btn.xbox  { color: var(--xbox);  border-color: var(--xbox); }
-  .see-all-btn.ps    { color: var(--ps);    border-color: var(--ps); }
-  .see-all-btn.nin   { color: var(--nin);   border-color: var(--nin); }
-  .see-all-btn.steam { color: var(--steam); border-color: var(--steam); }
-
-  /* Skeleton / loading */
-  .home-skeleton { grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text3); font-size: 13px; }
-
-  /* Hero loading */
-  .hero-loading { color: var(--text3); font-size: 14px; padding: 20px 0; }
-
-  @media (max-width: 768px) {
-    .hero-inner { grid-template-columns: 1fr; }
-    .side-news  { display: none; }
-  }
+  .modal { position: fixed; inset: 0; background: #000000b3; z-index: 200; display: none; align-items: flex-start; justify-content: center; padding: 40px 16px; overflow-y: auto; }
+  .modal.open { display: flex; }
+  .modal-box { background: var(--bg); border: 1px solid var(--border); border-radius: 16px; width: 100%; max-width: 860px; padding: 22px; }
+  .modal-head { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .modal-head h3 { font-size: 20px; color: var(--text); flex: 1; }
+  .pick { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-top: 14px; }
+  .pk { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; }
+  .pk img { width: 100%; aspect-ratio: 460/215; object-fit: cover; background: var(--bg3); }
+  .pk div { padding: 10px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .pk b { color: var(--text); font-size: 13px; }
+  .pk .acc-btn, .pk button { margin-top: auto; }
+  .pk button { border: 0; border-radius: 8px; background: var(--ach); color: #fff; font: inherit; font-weight: 800; font-size: 12px; padding: 8px; cursor: pointer; }
+  .pk button.added { background: var(--bg3); color: var(--text3); cursor: default; }
 </style>
 </head>
 <body>
-
 <header class="site-header" id="site-header"></header>
 
-<!-- ── HERO ── -->
-<div class="hero">
-  <div class="hero-inner">
-    <div id="hero-main"><div class="hero-loading"><div class="spinner"></div></div></div>
-    <aside class="side-news">
-      <div class="side-news-title" id="t-side">Últimas notícias</div>
-      <div id="side-news-list" style="color:var(--text3);font-size:13px"></div>
-    </aside>
+<section class="ck-hero">
+  <div class="ck-wrap">
+    <div class="ck-eyebrow">⭐ <span id="t-eyebrow">Meus Jogos</span></div>
+    <h1 id="t-title">Sua coleção, suas conquistas</h1>
+    <p id="t-sub">Adicione os jogos que você tem para acompanhar as conquistas e as notícias de cada um em um só lugar. Procure novos jogos em Explorar jogos.</p>
+    <div class="ck-stats" id="stats"></div>
+    <div class="mj-actions" id="actions"></div>
+  </div>
+</section>
+
+<div class="ck-toolbar">
+  <div class="ck-toolbar-inner">
+    <label class="ck-search">🔎 <input id="q" type="search" autocomplete="off"></label>
+    <div class="ck-chips" id="chips-plat"></div>
+    <select class="ck-select" id="genero"></select>
+    <select class="ck-select" id="status"></select>
+    <select class="ck-select" id="sort"></select>
   </div>
 </div>
 
-<!-- ── SEÇÕES POR PLATAFORMA (montadas a partir de data/site.json) ── -->
-<div class="home-sections">
-  <div class="wrapper" id="home-sections"></div>
+<main class="ck-wrap">
+  <div class="ck-grid" id="grid"><div class="ck-empty"><div class="ck-spinner"></div></div></div>
+  <div class="news-h"><h2 id="t-news">📰 Notícias dos seus jogos</h2><span id="news-count"></span></div>
+  <div class="nl" id="news"></div>
+</main>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true">
+  <div class="modal-box">
+    <div class="modal-head"><h3 id="t-add">Adicionar jogos</h3><button class="ck-btn" id="close">✕</button></div>
+    <label class="ck-search">🔎 <input id="q2" type="search" autocomplete="off"></label>
+    <div class="pick" id="pick"></div>
+  </div>
 </div>
 
 <footer id="site-footer"></footer>
-<script src="shared.js?v=32a7bb6c"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="shared.js?v=ea914b8a"></script>
+<script src="conquistas-app.js?v=3fa4b67f"></script>
+<script src="auth.js?v=2cd7afc5"></script>
 <script>
-  renderHeader('home');
+  renderHeader('mj');
   renderFooter();
-  document.getElementById('t-side').textContent = L('Últimas notícias', 'Latest news');
+  const T = CK.tr, esc = CK.esc, EN = CK.isEN();
+  const PLAT = { xbox: 'Xbox', ps: 'PlayStation', nin: 'Nintendo', steam: 'Steam' };
+  const F = { q: '', plat: 'all', genero: '', status: '', sort: 'recentes' };
+  try { Object.assign(F, JSON.parse(sessionStorage.getItem('ck_mj')) || {}); } catch (e) {}
+  let jogos = [], index = {}, artigos = [], lib = {};
 
-  function heroHTML(a, site) {
-    const p = site.porId[a.platform] || { emoji: '📰', nome: '' };
-    return `
-      <div class="hero-tag ${escHTML(a.platform)}">${p.emoji} ${escHTML(p.nome)} · ${L('Destaque', 'Spotlight')}</div>
-      <h1 class="hero-title">${escHTML(t(a, 'title'))}</h1>
-      <div class="hero-meta">
-        <span>${fmtDate(a.published_at)}</span>
-        <span class="hero-dot"></span>
-        <span>${escHTML(a.read_time || '3 min')} ${L('de leitura', 'read')}</span>
-        <span class="badge ${catBadge(site, a.category)}">${escHTML(catLabel(site, a.category))}</span>
-      </div>
-      <p class="hero-excerpt">${escHTML(t(a, 'excerpt'))}</p>
-      <a class="hero-btn" href="${newsURL(a)}">${L('Ler artigo completo →', 'Read full article →')}</a>`;
+  if (EN) {
+    document.getElementById('t-eyebrow').textContent = 'My Games';
+    document.getElementById('t-title').textContent = 'Your collection, your achievements';
+    document.getElementById('t-sub').textContent = 'Add the games you own to track achievements and news for each one in a single place. Find new games in Explore games.';
+    document.getElementById('t-news').textContent = '📰 News about your games';
+    document.getElementById('t-add').textContent = 'Add games';
+  }
+  document.getElementById('q').placeholder = T('Buscar nos meus jogos…', 'Search my games…');
+  document.getElementById('q2').placeholder = T('Buscar jogo…', 'Search game…');
+
+  const byId = id => jogos.find(j => j.id === id);
+  // % do jogo base; DLCs que a pessoa tem aparecem separadas
+  function stats(j) {
+    const gp = CK.gameProgress(j.id, index);
+    return { total: gp.base.total, feitas: gp.base.feitas, pct: gp.base.pct, dlcs: gp.dlcs,
+             marcadas: gp.base.feitas + gp.dlcs.reduce((x, d) => x + d.feitas, 0) };
+  }
+  function meus() { return Object.keys(lib).map(byId).filter(Boolean); }
+
+  // ── Cabeçalho ──
+  function renderStats() {
+    const m = meus();
+    const marcadas = m.reduce((s, j) => s + stats(j).marcadas, 0);
+    const plat = m.filter(j => lib[j.id].status === 'platinado' || (stats(j).total && stats(j).pct === 100)).length;
+    const jogando = m.filter(j => lib[j.id].status === 'jogando').length;
+    document.getElementById('stats').innerHTML = [
+      [m.length, T('Jogos na coleção', 'Games in collection')], [jogando, T('Jogando agora', 'Playing now')],
+      [plat + ' 🏆', T('Platinados / 100%', 'Platinum / 100%')], [marcadas, T('Conquistas marcadas', 'Achievements marked')],
+    ].map(([b, s]) => `<div class="ck-stat"><b>${b}</b><span>${s}</span></div>`).join('');
+    const logado = CK_AUTH.usuario();
+    document.getElementById('actions').innerHTML = `
+      <button class="ck-btn primary" id="add">＋ ${T('Adicionar jogos', 'Add games')}</button>
+      <a class="ck-btn" href="conquistas.html" style="text-decoration:none">🎮 ${T('Explorar jogos', 'Explore games')}</a>
+      ${logado ? `<a class="ck-btn" href="conta.html" style="text-decoration:none">🎮 ${T('Importar da Steam', 'Import from Steam')}</a>`
+               : `<a class="ck-btn" href="conta.html?voltar=index.html" style="text-decoration:none">👤 ${T('Entre para salvar na sua conta', 'Sign in to save to your account')}</a>`}`;
   }
 
-  function sideHTML(a, site) {
-    const p = site.porId[a.platform] || { emoji: '📰', nome: '' };
-    return `
-      <a href="${newsURL(a)}" class="side-item">
-        <div class="side-item-plat ${escHTML(a.platform)}">${p.emoji} ${escHTML(p.nome)}</div>
-        <div class="side-item-title">${escHTML(t(a, 'title'))}</div>
-        <div class="side-item-date">${fmtDate(a.published_at)}</div>
-      </a>`;
+  // ── Filtros ──
+  function renderFiltros() {
+    const m = meus();
+    const plats = ['all'].concat(Object.keys(PLAT).filter(p => m.some(j => plataformasDe(j).includes(p))));
+    if (m.some(j => j.mode === 'checklist')) plats.push('orig');
+    document.getElementById('chips-plat').innerHTML = plats.map(p => {
+      const n = m.filter(j => naPlat(j, p)).length;
+      const lbl = p === 'all' ? T('Todas', 'All') : p === 'orig' ? '✦ ' + T('Originais Checkpoint', 'Checkpoint Originals') : PLAT[p];
+      return `<button class="ck-chip${F.plat === p ? ' on' : ''}${p === 'orig' ? ' orig' : ''}" data-plat="${p}">${lbl}<span class="n">${n}</span></button>`;
+    }).join('');
+    const generos = [...new Set(m.flatMap(j => j.generos || []))].sort();
+    document.getElementById('genero').innerHTML = `<option value="">${T('Todos os gêneros', 'All genres')}</option>` +
+      generos.map(g => `<option${F.genero === g ? ' selected' : ''}>${esc(g)}</option>`).join('');
+    document.getElementById('status').innerHTML = `<option value="">${T('Todos os status', 'Any status')}</option>` +
+      Object.keys(CK.STATUS).map(s => `<option value="${s}"${F.status === s ? ' selected' : ''}>${CK.statusLabel(s)}</option>`).join('') +
+      `<option value="fav"${F.status === 'fav' ? ' selected' : ''}>★ ${T('Favoritos', 'Favorites')}</option>`;
+    document.getElementById('sort').innerHTML = [['recentes', T('Adicionados recentemente', 'Recently added')], ['az', 'A–Z'],
+      ['progresso', T('Maior progresso', 'Most progress')], ['perto', T('Mais perto do 100%', 'Closest to 100%')]]
+      .map(([v, l]) => `<option value="${v}"${F.sort === v ? ' selected' : ''}>${l}</option>`).join('');
+    document.getElementById('q').value = F.q;
+  }
+  // Plataformas que a pessoa marcou; se não marcou nenhuma, usa as do jogo
+  function plataformasDe(j) {
+    const p = (lib[j.id] || {}).plataformas || [];
+    return p.length ? p : j.platforms;
+  }
+  const naPlat = (j, p) => p === 'all' || (p === 'orig' ? j.mode === 'checklist' : plataformasDe(j).includes(p));
+  function filtrados() {
+    const q = CK.norm(F.q);
+    let m = meus().filter(j =>
+      (!q || CK.norm(j.title).includes(q)) &&
+      naPlat(j, F.plat) &&
+      (!F.genero || (j.generos || []).includes(F.genero)) &&
+      (!F.status || (F.status === 'fav' ? lib[j.id].favorito : lib[j.id].status === F.status)));
+    const cmp = {
+      recentes: (a, b) => String(lib[b.id].ts || '').localeCompare(String(lib[a.id].ts || '')),
+      az: (a, b) => a.title.localeCompare(b.title),
+      progresso: (a, b) => stats(b).pct - stats(a).pct,
+      perto: (a, b) => (100 - stats(a).pct || 999) - (100 - stats(b).pct || 999),
+    }[F.sort];
+    return m.sort((a, b) => (lib[b.id].favorito ? 1 : 0) - (lib[a.id].favorito ? 1 : 0) || cmp(a, b));
   }
 
-  function secaoHTML(p, arts, site) {
-    const cards = arts.length
-      ? arts.map(a => newsCardHTML(a, site)).join('')
-      : `<div class="home-skeleton" style="font-style:italic">${L('Nenhuma notícia ainda nesta plataforma.', 'No news on this platform yet.')}</div>`;
+  // ── Cards ──
+  function card(j) {
+    const it = lib[j.id], s = stats(j);
+    const marcadas = it.plataformas || [];
     return `
-      <div class="home-plat-section">
-        <div class="home-plat-header">
-          <div class="home-plat-name"><span class="plat-dot ${p.id}"></span> ${escHTML(p.nome)}</div>
-          <a class="see-all-btn ${p.id}" href="${p.pagina}">${L('Ver tudo →', 'See all →')}</a>
+      <div class="ck-card mj-card" data-id="${esc(j.id)}">
+        <div class="mj-top">
+          <button class="mj-ico${it.favorito ? ' fav' : ''}" data-fav title="${T('Favorito', 'Favorite')}">${it.favorito ? '★' : '☆'}</button>
+          <button class="mj-ico" data-rm title="${T('Remover dos Meus Jogos', 'Remove from My Games')}">✕</button>
         </div>
-        <div class="cards-grid">${cards}</div>
+        <a class="ck-cover" href="conquistas/${encodeURIComponent(j.id)}.html">
+          <div class="ck-fallback">🎮</div><img src="${CK.imgSrc(j.image)}" alt="" loading="lazy" onerror="this.remove()">
+          ${j.mode === 'checklist' ? `<span class="ck-orig" title="${T('Lista criada pelo Checkpoint Digital para jogos sem conquistas oficiais', 'List created by Checkpoint Digital for games without official achievements')}">✦ ${T('Original Checkpoint', 'Checkpoint Original')}</span>` : ''}
+        </a>
+        <div class="ck-card-body">
+          <div><div class="ck-card-title">${esc(j.title)}</div>
+            <div class="ck-card-dev">${esc((j.generos || []).join(' · '))}</div></div>
+          <div class="mj-row">
+            <select class="mj-status" data-status>${Object.keys(CK.STATUS).map(k => `<option value="${k}"${it.status === k ? ' selected' : ''}>${CK.statusLabel(k)}</option>`).join('')}</select>
+            ${it.origem === 'steam' ? '<span class="mj-hint">⬇️ Steam</span>' : ''}
+          </div>
+          <div>
+            <div class="mj-hint" style="margin-bottom:5px">${T('Tenho em:', 'I own it on:')}</div>
+            <div class="mj-plats">${j.platforms.map(p => `<button class="mj-plat ${p}${marcadas.includes(p) ? ' on' : ''}" data-plat-toggle="${p}">${PLAT[p]}</button>`).join('')}</div>
+          </div>
+          <div class="ck-card-foot">
+            ${j.mode === 'sem-conquistas' ? `<div class="mj-hint">${T('Este jogo não tem conquistas oficiais.', 'This game has no official achievements.')}</div>` : `
+            <div class="ck-bar"><div style="width:${s.pct}%"></div></div>
+            <div class="ck-card-foot-row"><span>${T('Jogo base', 'Base game')} · ${s.feitas}/${s.total || '—'}</span><b>${s.pct}%</b></div>
+            ${s.dlcs.length ? `<div class="mj-dlcs">
+              <div class="mj-hint" style="margin:4px 0 5px">${T('DLCs que eu tenho:', 'DLCs I own:')}</div>
+              ${s.dlcs.map(d => `<div class="mj-dlc${d.tenho ? ' on' : ''}">
+                <button class="mj-plat${d.tenho ? ' on steam' : ''}" data-dlc-toggle="${esc(d.nome)}">${d.tenho ? '✓ ' : ''}${esc(d.nome)}</button>
+                ${d.tenho ? `<span class="mj-dlc-pct">${d.feitas}/${d.total} · <b>${d.pct}%</b></span>` : ''}</div>`).join('')}
+            </div>` : ''}`}
+            <a class="mj-link" href="conquistas/${encodeURIComponent(j.id)}.html">${T('Ver conquistas →', 'View achievements →')}</a>
+          </div>
+        </div>
       </div>`;
   }
 
-  Promise.all([loadSite(), dbFetch('articles?order=published_at.desc').then(r => r.json())])
-    .then(([site, arts]) => {
-      arts = Array.isArray(arts) ? arts : [];
-      if (!arts.length) {
-        document.getElementById('hero-main').innerHTML = `<p style="color:var(--text3)">${L('Nenhum artigo publicado ainda.', 'No articles published yet.')}</p>`;
-        return;
-      }
-      const destaque = arts.find(a => a.featured === true || a.featured === 'true') || arts[0];
-      document.getElementById('hero-main').innerHTML = heroHTML(destaque, site);
-      document.getElementById('side-news-list').innerHTML =
-        arts.filter(a => a.id !== destaque.id).slice(0, 5).map(a => sideHTML(a, site)).join('');
-      document.getElementById('home-sections').innerHTML = site.plataformas
-        .map(p => secaoHTML(p, arts.filter(a => a.platform === p.id).slice(0, 3), site)).join('');
-    })
-    .catch(e => {
-      document.getElementById('hero-main').innerHTML =
-        `<p style="color:#dc2626">⚠️ ${L('Erro ao carregar notícias.', 'Could not load news.')}</p>`;
+  function renderGrid() {
+    sessionStorage.setItem('ck_mj', JSON.stringify(F));
+    const m = meus(), list = filtrados();
+    const grid = document.getElementById('grid');
+    if (!m.length) {
+      grid.innerHTML = `<div class="ck-empty"><div class="big">🕹️</div>
+        <div style="font-weight:800;color:var(--text);margin-bottom:6px">${T('Sua coleção está vazia', 'Your collection is empty')}</div>
+        ${T('Adicione os jogos que você tem — ou vincule a Steam na sua conta para importar automaticamente.', 'Add the games you own — or link Steam in your account to import automatically.')}<br><br>
+        <div style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap">
+          <button class="ck-btn primary" data-open>＋ ${T('Adicionar jogos', 'Add games')}</button>
+          <a class="ck-btn" href="conquistas.html" style="text-decoration:none">🎮 ${T('Explorar jogos', 'Explore games')}</a></div></div>`;
+    } else {
+      grid.innerHTML = list.length ? list.map(card).join('')
+        : `<div class="ck-empty"><div class="big">🔍</div>${T('Nenhum jogo com esses filtros.', 'No games match these filters.')}</div>`;
+    }
+    renderNews(list.length ? list : m);
+  }
+
+  // ── Notícias ──
+  function renderNews(lista) {
+    const box = document.getElementById('news');
+    const itens = [];
+    artigos.forEach(a => {
+      const j = lista.find(x => noticiaCitaJogo(a, x));
+      if (j) itens.push({ a, j });
     });
+    document.getElementById('news-count').textContent = itens.length ? `${itens.length} ${T('notícia(s)', 'article(s)')}` : '';
+    box.innerHTML = itens.length ? itens.slice(0, 18).map(({ a, j }) => {
+      const tit = EN && a.title_en ? a.title_en : a.title;
+      const img = a.image_url ? `<img src="${esc(/^https?:/.test(a.image_url) ? a.image_url : a.image_url)}" alt="" loading="lazy" onerror="this.outerHTML='<div class=ph>📰</div>'">` : '<div class="ph">📰</div>';
+      const data = new Date(a.published_at).toLocaleDateString(EN ? 'en' : 'pt-BR', { day: '2-digit', month: 'short', year: 'numeric' });
+      return `<a class="ni" href="${newsURL(a)}">${img}<div><span class="tag">${esc(j.title)}</span><b>${esc(tit)}</b><small>${data}</small></div></a>`;
+    }).join('') : `<div class="ck-empty" style="padding:30px 0">${meus().length ? T('Ainda não há notícias sobre esses jogos.', 'No news about these games yet.') : T('Adicione jogos para ver as notícias deles aqui.', 'Add games to see their news here.')}</div>`;
+  }
+
+  // ── Modal de adicionar ──
+  function renderPick() {
+    const q = CK.norm(document.getElementById('q2').value);
+    document.getElementById('pick').innerHTML = jogos.filter(j => !q || CK.norm(j.title).includes(q)).map(j => `
+      <div class="pk"><img src="${CK.imgSrc(j.image)}" alt="" loading="lazy">
+        <div><b>${esc(j.title)}</b><div class="ck-plats">${CK.platBadges(j)}</div>
+          ${lib[j.id] ? `<button class="added" disabled>✓ ${T('Na coleção', 'In collection')}</button>` : `<button data-add="${esc(j.id)}">＋ ${T('Adicionar', 'Add')}</button>`}
+        </div></div>`).join('');
+  }
+  function abrir() { document.getElementById('modal').classList.add('open'); renderPick(); if (matchMedia('(pointer: fine)').matches) document.getElementById('q2').focus(); }
+  function fechar() { document.getElementById('modal').classList.remove('open'); }
+
+  function atualizar(gid, mudanca) {
+    const atual = lib[gid];
+    lib[gid] = CK.setLibItem(gid, Object.assign({}, atual, mudanca));
+    lib = CK.getLib();
+  }
+  function tudo() { renderStats(); renderFiltros(); renderGrid(); }
+
+  // ── Eventos ──
+  document.addEventListener('click', e => {
+    const t = e.target;
+    if (t.closest('#add') || t.closest('[data-open]')) return abrir();
+    if (t.closest('#close') || t.id === 'modal') return fechar();
+    const add = t.closest('[data-add]');
+    if (add) {
+      const j = byId(add.dataset.add);
+      CK.setLibItem(j.id, { plataformas: j.platforms.length === 1 ? j.platforms.slice() : [], status: 'jogando', favorito: false, origem: 'manual' });
+      lib = CK.getLib(); renderPick(); tudo();
+      CK.toast(T(`${j.title} adicionado`, `${j.title} added`));
+      return;
+    }
+    const pc = t.closest('[data-plat]');
+    if (pc) { F.plat = pc.dataset.plat; renderFiltros(); renderGrid(); return; }
+    const cardEl = t.closest('.mj-card');
+    if (!cardEl) return;
+    const gid = cardEl.dataset.id;
+    if (t.closest('[data-rm]')) {
+      if (!confirm(T('Remover este jogo dos Meus Jogos? O progresso das conquistas continua salvo.', 'Remove this game? Achievement progress stays saved.'))) return;
+      CK.setLibItem(gid, null); lib = CK.getLib(); tudo(); return;
+    }
+    if (t.closest('[data-fav]')) { atualizar(gid, { favorito: !lib[gid].favorito }); renderGrid(); return; }
+    const dt = t.closest('[data-dlc-toggle]');
+    if (dt) {
+      const n = dt.dataset.dlcToggle, set = new Set(lib[gid].dlcs || []);
+      set.has(n) ? set.delete(n) : set.add(n);
+      atualizar(gid, { dlcs: [...set] }); renderGrid(); return;
+    }
+    const tog = t.closest('[data-plat-toggle]');
+    if (tog) {
+      const p = tog.dataset.platToggle, set = new Set(lib[gid].plataformas || []);
+      set.has(p) ? set.delete(p) : set.add(p);
+      atualizar(gid, { plataformas: [...set] }); renderFiltros(); renderGrid();
+    }
+  });
+  document.addEventListener('change', e => {
+    const t = e.target;
+    if (t.dataset.status !== undefined && t.closest('.mj-card')) { atualizar(t.closest('.mj-card').dataset.id, { status: t.value }); renderStats(); if (F.status) renderGrid(); return; }
+    if (t.id === 'genero') { F.genero = t.value; renderGrid(); }
+    if (t.id === 'status') { F.status = t.value; renderGrid(); }
+    if (t.id === 'sort') { F.sort = t.value; renderGrid(); }
+  });
+  document.getElementById('q').addEventListener('input', e => { F.q = e.target.value; renderGrid(); });
+  document.getElementById('q2').addEventListener('input', renderPick);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') fechar(); });
+
+  Promise.all([
+    CK.loadGames(), CK.loadIndex(),
+    dbFetch('articles?select=id,title,title_en,excerpt,image_url,published_at&order=published_at.desc').then(r => r.json()).catch(() => []),
+    CK_AUTH.sincronizarRapido(),
+  ]).then(([g, idx, arts]) => {
+    jogos = g; index = idx || {}; artigos = Array.isArray(arts) ? arts : []; lib = CK.getLib();
+    tudo();
+    if (new URLSearchParams(location.search).get('adicionar')) abrir();
+  }).catch(() => {
+    document.getElementById('grid').innerHTML = `<div class="ck-empty"><div class="big">⚠️</div>${T('Não foi possível carregar.', 'Could not load.')}</div>`;
+  });
 </script>
 </body>
 </html>

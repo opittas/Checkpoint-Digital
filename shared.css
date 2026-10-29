@@ -492,3 +492,16 @@ footer { padding-bottom: env(safe-area-inset-bottom); }
 @media (min-width: 1440px) {
   .cards-grid { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 18px; }
 }
+
+/* Rodapé com duas colunas (Site / Plataformas) */
+.footer-grid.footer-grid-2 { grid-template-columns: repeat(2, minmax(0, 220px)); }
+.footer-grid-2 .footer-col-title:not(.xbox):not(.ps):not(.nin):not(.steam) { color: #94a3b8; }
+
+/* Aviso de site em desenvolvimento */
+.dev-notice {
+  display: flex; gap: 10px; align-items: flex-start;
+  background: #f59e0b14; border: 1px solid #f59e0b55; border-left: 4px solid #f59e0b;
+  color: var(--text2); border-radius: 10px; padding: 12px 14px; font-size: 13px; line-height: 1.55;
+}
+.dev-notice b { color: var(--text); }
+.dev-notice-ico { font-size: 18px; line-height: 1.2; }

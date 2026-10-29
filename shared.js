@@ -158,6 +158,26 @@ function genLabel(site, plat, gen) {
 function newsURL(a) {
   return a._remoto ? `artigo.html?id=${encodeURIComponent(a.id)}` : `noticias/${encodeURIComponent(a.id)}.html`;
 }
+// ── Notícias × jogos ──
+// Uma notícia é de um jogo quando o título ou o resumo cita um dos nomes do
+// campo "palavras" do jogo em data/jogos.json (ou o título, se não houver).
+function _normTxt(s) {
+  return String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+function _chavesJogo(j) {
+  if (!j._re) {
+    j._re = (j.palavras && j.palavras.length ? j.palavras : [j.title]).map(k =>
+      new RegExp('(^|[^a-z0-9])' + _normTxt(k).replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '([^a-z0-9]|$)'));
+  }
+  return j._re;
+}
+function noticiaCitaJogo(a, j) {
+  const txt = _normTxt(`${a.title} ${a.excerpt || ''} ${a.title_en || ''}`);
+  return _chavesJogo(j).some(re => re.test(txt));
+}
+const noticiasDoJogo = (j, artigos) => (artigos || []).filter(a => noticiaCitaJogo(a, j));
+const jogosDaNoticia = (a, jogos) => (jogos || []).filter(j => noticiaCitaJogo(a, j));
+
 // Card de notícia padrão. opts.tag = 'plataforma' (padrão) ou 'geracao'
 function newsCardHTML(a, site, opts) {
   opts = opts || {};
@@ -193,14 +213,10 @@ function renderHeader(activePage, base) {
   const lang = getLang();
   const isEN = lang === 'en';
 
+  // Notícias não têm aba própria: aparecem dentro da página de cada jogo
   const pages = [
-    { id: 'home',  labelPT: 'Home',          labelEN: 'Home',           href: base + 'index.html',        cls: 'active-home' },
-    { id: 'xbox',  labelPT: 'Xbox',          labelEN: 'Xbox',           href: base + 'xbox.html',         cls: 'active-xbox' },
-    { id: 'ps',    labelPT: 'PlayStation',   labelEN: 'PlayStation',    href: base + 'playstation.html',  cls: 'active-ps' },
-    { id: 'nin',   labelPT: 'Nintendo',      labelEN: 'Nintendo',       href: base + 'nintendo.html',     cls: 'active-nin' },
-    { id: 'steam', labelPT: 'Steam',         labelEN: 'Steam',          href: base + 'steam.html',        cls: 'active-steam' },
-    { id: 'ach',   labelPT: '🏆 Conquistas', labelEN: '🏆 Achievements', href: base + 'conquistas.html',   cls: 'active-ach' },
-    { id: 'mj',    labelPT: '⭐ Meus Jogos',  labelEN: '⭐ My Games',      href: base + 'meus-jogos.html',  cls: 'active-ach' },
+    { id: 'mj',    labelPT: '⭐ Meus Jogos',      labelEN: '⭐ My Games',      href: base + 'index.html',       cls: 'active-ach' },
+    { id: 'ach',   labelPT: '🎮 Explorar jogos',  labelEN: '🎮 Explore games', href: base + 'conquistas.html',  cls: 'active-ach' },
   ];
 
   const nav = pages.map(p =>
@@ -271,18 +287,23 @@ function renderFooter(base) {
   if (!el) return;
   loadSite().then(site => {
     const lang = getLang();
-    const cols = site.plataformas.map(p => `
+    const EN = lang === 'en';
+    const col = (titulo, links, cls) => `
         <div>
-          <div class="footer-col-title ${p.id}">${escHTML(p.nome)}</div>
-          <ul class="footer-links">
-            ${p.geracoes.map(g => `<li><a href="${base}${p.pagina}?gen=${encodeURIComponent(g.id)}">${escHTML(g.nome)}</a></li>`).join('')}
-          </ul>
-        </div>`).join('');
+          <div class="footer-col-title${cls ? ' ' + cls : ''}">${titulo}</div>
+          <ul class="footer-links">${links.map(([href, txt]) => `<li><a href="${base}${href}">${escHTML(txt)}</a></li>`).join('')}</ul>
+        </div>`;
+    const cols = col(EN ? 'Site' : 'Site', [
+        ['index.html', EN ? 'My Games' : 'Meus Jogos'],
+        ['conquistas.html', EN ? 'Explore games' : 'Explorar jogos'],
+        ['conta.html', EN ? 'My account' : 'Minha conta'],
+      ]) + col(EN ? 'Platforms' : 'Plataformas',
+        site.plataformas.map(p => [`conquistas.html?plat=${encodeURIComponent(p.id)}`, p.nome]));
     el.innerHTML = `
     <div class="footer-inner">
       <div class="footer-logo">Checkpoint<span> Digital</span></div>
       <div class="footer-tagline">${escHTML(site.rodape.slogan[lang])}</div>
-      <div class="footer-grid">${cols}</div>
+      <div class="footer-grid footer-grid-2">${cols}</div>
       <div class="footer-bottom">
         <span>${escHTML(site.rodape.direitos[lang])} · <a href="${base}privacidade.html">${lang === 'en' ? 'Privacy' : 'Privacidade'}</a> · <a href="${base}termos.html">${lang === 'en' ? 'Terms' : 'Termos'}</a></span>
         <span>${escHTML(site.rodape.assinatura[lang])}</span>

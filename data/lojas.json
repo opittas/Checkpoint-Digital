@@ -33,7 +33,7 @@
     "steam"
    ],
    "busca": "https://www.amazon.com.br/s?k={q}&i=videogames",
-   "parametros": ""
+   "parametros": "tag=pittas-20"
   },
   {
    "id": "mercadolivre",
@@ -49,8 +49,8 @@
     "nin",
     "steam"
    ],
-   "busca": "https://lista.mercadolivre.com.br/{q}",
-   "parametros": ""
+   "busca": "https://lista.mercadolivre.com.br/{slug}",
+   "parametros": "matt_word=opittas&matt_tool=41164579"
   },
   {
    "id": "shopee",
@@ -67,7 +67,7 @@
     "steam"
    ],
    "busca": "https://shopee.com.br/search?keyword={q}",
-   "parametros": ""
+   "parametros": "mmp_pid=an_18301130243&utm_source=an_18301130243&utm_medium=affiliates&utm_campaign=id_AVY1gGmYE5V"
   }
  ],
  "jogos": {}

@@ -8,17 +8,47 @@
    "id": "nuuvem",
    "nome": "Nuuvem",
    "icone": "🎮",
-   "tipo": { "pt": "Chave digital para PC", "en": "PC digital key" },
-   "plataformas": ["steam"],
+   "tipo": {
+    "pt": "Chave digital para PC",
+    "en": "PC digital key"
+   },
+   "plataformas": [
+    "steam"
+   ],
    "busca": "https://www.nuuvem.com/br-pt/catalog/search/{q}",
+   "parametros": ""
+  },
+  {
+   "id": "amazon",
+   "nome": "Amazon",
+   "icone": "📦",
+   "tipo": {
+    "pt": "Mídia física, consoles e cartões",
+    "en": "Physical copies, consoles and gift cards"
+   },
+   "plataformas": [
+    "xbox",
+    "ps",
+    "nin",
+    "steam"
+   ],
+   "busca": "https://www.amazon.com.br/s?k={q}&i=videogames",
    "parametros": ""
   },
   {
    "id": "mercadolivre",
    "nome": "Mercado Livre",
    "icone": "🛒",
-   "tipo": { "pt": "Mídia física e consoles", "en": "Physical copies and consoles" },
-   "plataformas": ["xbox", "ps", "nin", "steam"],
+   "tipo": {
+    "pt": "Mídia física e consoles",
+    "en": "Physical copies and consoles"
+   },
+   "plataformas": [
+    "xbox",
+    "ps",
+    "nin",
+    "steam"
+   ],
    "busca": "https://lista.mercadolivre.com.br/{q}",
    "parametros": ""
   },
@@ -26,8 +56,16 @@
    "id": "shopee",
    "nome": "Shopee",
    "icone": "🧡",
-   "tipo": { "pt": "Mídia física e acessórios", "en": "Physical copies and accessories" },
-   "plataformas": ["xbox", "ps", "nin", "steam"],
+   "tipo": {
+    "pt": "Mídia física e acessórios",
+    "en": "Physical copies and accessories"
+   },
+   "plataformas": [
+    "xbox",
+    "ps",
+    "nin",
+    "steam"
+   ],
    "busca": "https://shopee.com.br/search?keyword={q}",
    "parametros": ""
   }

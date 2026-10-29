@@ -25,7 +25,7 @@
 <meta property="article:section" content="Xbox">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Game Pass: Final Fantasy VII Remake Lidera Fim de Outubro, e LEGO Star Wars e Deep Rock Galactic Saem do Catál", "description": "O dia 29 concentra metade das novidades da segunda leva do mês. Veja o que entra, o que sai no dia 31 e o que muda no streaming em novembro.", "image": ["https://opittas.github.io/Checkpoint-Digital/imagens/capas/xbox-game-pass-outubro-ff7-remake.jpg"], "datePublished": "2026-10-26T20:08:04.895052+00:00", "dateModified": "2026-10-26T20:08:04.895052+00:00", "author": {"@type": "Organization", "name": "Checkpoint Digital"}, "publisher": {"@type": "Organization", "name": "Checkpoint Digital"}, "mainEntityOfPage": "https://opittas.github.io/Checkpoint-Digital/noticias/xbox-game-pass-outubro-ff7-remake.html", "inLanguage": "pt-BR", "citation": ["https://www.windowscentral.com/gaming/xbox/final-fantasy-vii-remake-game-pass-october-2026", "https://www.purexbox.com/news/2026/10/these-nine-games-are-coming-to-xbox-game-pass-october-21-november-3", "https://www.3djuegos.com/xbox-series-xs/noticias/xbox-anuncia-8-juegos-gratis-finales-octubre-2026-para-miembros-game-pass-a-otros-11-titulos-que-abandonaran-pronto-servicio", "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/"]}</script>
 <!--/SEO-->
-<link rel="stylesheet" href="shared.css?v=c8b847ab">
+<link rel="stylesheet" href="shared.css?v=23dc22a7">
 <style>
   .article-hero {
     background: var(--bg2);
@@ -61,6 +61,12 @@
     font-size: 13px; color: var(--text3);
   }
   .article-meta span { display: flex; align-items: center; gap: 5px; }
+  .article-games { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+  .article-games a {
+    font-size: 13px; font-weight: 700; text-decoration: none; color: var(--ach-strong, #7c3aed);
+    background: var(--bg3); border: 1px solid var(--border); border-radius: 20px; padding: 6px 12px;
+  }
+  .article-games a:hover { border-color: #8b5cf666; }
   .article-category-badge {
     font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px;
     background: var(--bg3); color: var(--text2); border: 1px solid var(--border);
@@ -176,7 +182,7 @@
 
 <footer id="site-footer"></footer>
 <script>window.ARTIGO_ID = "xbox-game-pass-outubro-ff7-remake";</script>
-<script src="shared.js?v=32a7bb6c"></script>
+<script src="shared.js?v=ea914b8a"></script>
 <script>
   renderHeader('');
   renderFooter();
@@ -254,12 +260,33 @@
           ${fontesHTML(art.fontes, isEN)}
         </div>`;
 
+      // Liga a notícia à página do jogo citado
+      ligarJogos(art);
+
       // Carrega mais artigos da mesma plataforma
       loadMore(art.platform, art.id);
 
     } catch(e) {
       showError(isEN ? 'Error loading article: ' + e.message : 'Erro ao carregar o artigo: ' + e.message);
     }
+  }
+
+  // Notícias moram dentro da página de cada jogo: o "voltar" leva ao jogo citado
+  async function ligarJogos(art) {
+    const isEN = getLang() === 'en';
+    try {
+      const jogos = await fetch(SITE_ROOT + 'data/jogos.json', { cache: 'no-cache' }).then(r => r.json());
+      const citados = jogosDaNoticia(art, jogos);
+      const back = document.querySelector('.article-back');
+      if (back) {
+        back.href = citados.length ? `conquistas/${encodeURIComponent(citados[0].id)}.html` : 'index.html';
+        back.textContent = citados.length ? `← ${citados[0].title}` : (isEN ? '← My Games' : '← Meus Jogos');
+      }
+      if (!citados.length) return;
+      const meta = document.querySelector('.article-meta');
+      if (meta) meta.insertAdjacentHTML('afterend', `<div class="article-games">${citados.slice(0, 4).map(j =>
+        `<a href="conquistas/${encodeURIComponent(j.id)}.html">🎮 ${escHTML(j.title)} · ${isEN ? 'achievements and news' : 'conquistas e notícias'} →</a>`).join('')}</div>`);
+    } catch (e) {}
   }
 
   async function loadMore(platform, excludeId) {

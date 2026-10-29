@@ -26,6 +26,7 @@ import re
 import ssl
 import sys
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -216,24 +217,73 @@ def _steam_header(appid):
         return f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg"
 
 
-def atualizar_conquistas(supa_games):
-    print("\n🏆 2/3  Atualizando conquistas da Steam…")
+def _norm_nome(s):
+    s = unicodedata.normalize("NFD", str(s or "").lower())
+    return re.sub(r"[^a-z0-9]+", " ", "".join(c for c in s if not unicodedata.combining(c))).strip()
+
+
+def _steam_buscar_appid(titulo):
+    """Procura o jogo na loja da Steam e só aceita resultado com o nome exatamente igual."""
+    q = urllib.parse.quote(titulo)
+    st, d = http_json(f"https://store.steampowered.com/api/storesearch/?term={q}&l=english&cc=US")
+    if st != 200 or not isinstance(d, dict):
+        return None
+    alvo = _norm_nome(titulo)
+    for it in d.get("items") or []:
+        if _norm_nome(it.get("name")) == alvo:
+            return it.get("id")
+    return None
+
+
+def _capa_da_noticia(j):
+    """Capa de reserva para jogo fora da Steam: a imagem da notícia mais recente que cita o jogo."""
+    chaves = [_norm_nome(k) for k in (j.get("palavras") or [j["title"]])]
+    for a in load_json("data/articles.json", []):
+        txt = f" {_norm_nome(str(a.get('title', '')) + ' ' + str(a.get('excerpt', '')))} "
+        img = a.get("image_url") or ""
+        if any(f" {k} " in txt for k in chaves) and not img.startswith("http") and os.path.exists(p(img)):
+            return img
+    return None
+
+
+def atualizar_conquistas(supa_games, so_novos=False):
+    """so_novos=True (rotina do GitHub): só os jogos que ainda não têm lista de conquistas ou capa."""
+    print("\n🏆 2/3  Atualizando conquistas da Steam…" + (" (só jogos novos)" if so_novos else ""))
     jogos = load_json("data/jogos.json", [])
     index = load_json("data/conquistas/index.json", {}) or {}
     agora = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    mudou_catalogo = False
 
     for j in jogos:
-        gid, appid = j["id"], j.get("steam_appid")
+        gid = j["id"]
+        img = j.get("image") or f"imagens/jogos/{gid}.jpg"
+        tem_lista = bool((load_json(f"data/conquistas/{gid}.json") or {}).get("conquistas"))
+        if so_novos and (tem_lista or j.get("mode") != "conquistas") and os.path.exists(p(img)):
+            continue
         print(f" • {j['title']}")
 
+        # Jogo novo no PC sem steam_appid: procura pelo nome na loja da Steam
+        if not j.get("steam_appid") and "steam" in j.get("platforms", []):
+            achado = _steam_buscar_appid(j["title"])
+            if achado:
+                j["steam_appid"] = achado
+                mudou_catalogo = True
+                ok(f"steam_appid encontrado: {achado}")
+        appid = j.get("steam_appid")
+
         # Capa
-        img = j.get("image") or f"imagens/jogos/{gid}.jpg"
         if not os.path.exists(p(img)):
             src = _steam_header(appid) if appid else None
             sg = supa_games.get(SUPA_GAME_ALIAS.get(gid, gid)) or {}
             fontes = [u for u in (src, sg.get("image_url")) if u]
+            reserva = None if appid else _capa_da_noticia(j)   # fora da Steam: capa da notícia
             if any(download(u, img) for u in fontes):
                 ok("capa baixada")
+            elif reserva:
+                os.makedirs(os.path.dirname(p(img)), exist_ok=True)
+                with open(p(reserva), "rb") as fi, open(p(img), "wb") as fo:
+                    fo.write(fi.read())
+                ok(f"capa copiada da notícia ({reserva})")
             else:
                 warn("capa não encontrada")
 
@@ -275,7 +325,15 @@ def atualizar_conquistas(supa_games):
         time.sleep(0.8)  # educado com a Steam
 
     save_json("data/conquistas/index.json", index)
+    if mudou_catalogo:
+        save_json_catalogo(jogos)
     gerar_indice()
+
+
+def save_json_catalogo(jogos):
+    """Grava data/jogos.json no mesmo formato em que ele é editado à mão."""
+    with open(p("data/jogos.json"), "w", encoding="utf-8") as f:
+        json.dump(jogos, f, ensure_ascii=False, indent=2)
 
 
 
@@ -381,11 +439,10 @@ def gerar_paginas():
 
     # Páginas modelo (home, plataformas, conquistas…)
     fixas = {
-        "index.html": ("Checkpoint Digital — Notícias, reviews e guias de conquistas",
-                       "Notícias de Xbox, PlayStation, Nintendo e PC, reviews e guias de conquistas com checklist de progresso."),
-        "conquistas.html": ("Guias de Conquistas e Troféus — Checkpoint Digital",
-                            "Listas oficiais de conquistas com % de jogadores, roteiros para platinar e checklist salvo na sua conta."),
-        "meus-jogos.html": ("Meus Jogos — Checkpoint Digital", "Sua coleção de jogos com progresso de conquistas e notícias de cada jogo."),
+        "index.html": ("Checkpoint Digital — Meus Jogos, conquistas e notícias de cada jogo",
+                       "Monte sua coleção de jogos, acompanhe o progresso das conquistas e troféus e veja as notícias de cada jogo em um só lugar."),
+        "conquistas.html": ("Explorar jogos — Guias de Conquistas e Troféus · Checkpoint Digital",
+                            "Encontre jogos para adicionar aos seus: listas oficiais de conquistas com % de jogadores, roteiros para platinar e notícias de cada jogo."),
         "conta.html": ("Minha conta — Checkpoint Digital", "Entre para salvar suas conquistas e ver o progresso em qualquer aparelho."),
         "privacidade.html": ("Política de Privacidade — Checkpoint Digital", "Quais dados o Checkpoint Digital usa, por quê e como você controla isso."),
         "termos.html": ("Termos de Uso — Checkpoint Digital", "Termos de uso do Checkpoint Digital."),
@@ -396,7 +453,7 @@ def gerar_paginas():
     for arq, (tit, desc) in fixas.items():
         if not os.path.exists(p(arq)):
             continue
-        privado = arq in ("conta.html", "meus-jogos.html")
+        privado = arq == "conta.html"
         doc = open(p(arq), encoding="utf-8").read()
         doc = _aplicar_seo(doc, tit, _bloco_seo(tit, desc, SITE_URL + ("" if arq == "index.html" else arq),
                                                  _abs(None), robots="noindex,follow" if privado else "index,follow"))
@@ -462,6 +519,9 @@ def gerar_paginas():
         dlcs = (index.get(gid) or {}).get("dlcs") or {}
         if j.get("mode") == "sem-conquistas":
             desc = f"{j['title']} não tem sistema de conquistas oficial. Veja detalhes e notícias do jogo."
+        elif not base:
+            desc = (f"Notícias e conquistas de {j['title']}. A lista oficial de conquistas e troféus "
+                    "aparece aqui assim que for divulgada.")
         else:
             desc = (f"Todas as {base} conquistas de {j['title']}"
                     + (f" (+{sum(len(v) for v in dlcs.values())} de DLC)" if dlcs else "")
@@ -676,7 +736,8 @@ if __name__ == "__main__":
     # Sempre começa pelo banco: assim uma publicação feita do Mac nunca apaga
     # notícias que a rotina automática já publicou.
     games = exportar_supabase()
-    if "--so-gerar" in args:          # rotina do GitHub: só gera páginas (sem Steam, sem API)
+    if "--so-gerar" in args:          # rotina do GitHub: gera páginas e completa só os jogos novos
+        atualizar_conquistas(games, so_novos=True)
         gerar_indice()
         gerar_paginas()
         carimbar_versoes()

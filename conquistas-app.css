@@ -342,3 +342,13 @@ body.light .ck-dlc-pill { color: #0369a1; }
   .ck-chips::-webkit-scrollbar { display: none; }
   .ck-chip { flex-shrink: 0; }
 }
+
+/* ── Notícias do jogo (página de cada jogo) ── */
+.g-news { margin: 8px 0 26px; }
+.g-news-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; }
+.g-news-head h2 { font-size: 20px; font-weight: 900; color: var(--text); }
+.g-news-head span { color: var(--text3); font-size: 13px; }
+.g-news .cards-grid { margin-bottom: 0; }
+.g-news-more { margin-top: 14px; }
+.g-dev { margin: 0 0 14px; }
+.ck-hero .dev-notice { margin-top: 18px; max-width: 760px; }

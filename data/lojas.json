@@ -1,0 +1,36 @@
+{
+ "aviso": {
+  "pt": "Links de afiliado: se você comprar por eles, o Checkpoint Digital pode ganhar uma pequena comissão, sem custo extra para você. É assim que o site se mantém gratuito.",
+  "en": "Affiliate links: if you buy through them, Checkpoint Digital may earn a small commission at no extra cost to you. It keeps the site free."
+ },
+ "lojas": [
+  {
+   "id": "nuuvem",
+   "nome": "Nuuvem",
+   "icone": "🎮",
+   "tipo": { "pt": "Chave digital para PC", "en": "PC digital key" },
+   "plataformas": ["steam"],
+   "busca": "https://www.nuuvem.com/br-pt/catalog/search/{q}",
+   "parametros": ""
+  },
+  {
+   "id": "mercadolivre",
+   "nome": "Mercado Livre",
+   "icone": "🛒",
+   "tipo": { "pt": "Mídia física e consoles", "en": "Physical copies and consoles" },
+   "plataformas": ["xbox", "ps", "nin", "steam"],
+   "busca": "https://lista.mercadolivre.com.br/{q}",
+   "parametros": ""
+  },
+  {
+   "id": "shopee",
+   "nome": "Shopee",
+   "icone": "🧡",
+   "tipo": { "pt": "Mídia física e acessórios", "en": "Physical copies and accessories" },
+   "plataformas": ["xbox", "ps", "nin", "steam"],
+   "busca": "https://shopee.com.br/search?keyword={q}",
+   "parametros": ""
+  }
+ ],
+ "jogos": {}
+}

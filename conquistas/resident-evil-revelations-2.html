@@ -22,7 +22,7 @@
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/resident-evil-revelations-2.jpg">
 <!--/SEO-->
 <link rel="stylesheet" href="../shared.css?v=c8b847ab">
-<link rel="stylesheet" href="../conquistas-app.css?v=cdd62e80">
+<link rel="stylesheet" href="../conquistas-app.css?v=c14c294f">
 </head>
 <body>
 
@@ -33,7 +33,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="../shared.js?v=32a7bb6c"></script>
-<script src="../conquistas-app.js?v=3fa4b67f"></script>
+<script src="../conquistas-app.js?v=cfba7dd7"></script>
 <script src="../auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('ach', '../');
@@ -45,7 +45,7 @@
               sec: new URLSearchParams(location.search).get('secao') || 'base' };
   try { S.hideSpoilers = localStorage.getItem('ck_spoilers') !== 'show'; } catch (e) {}
 
-  let game, achs = [], guide, meta, prog;
+  let game, achs = [], guide, meta, prog, lojas;
   const app = document.getElementById('app');
 
   function fail(msg) {
@@ -116,6 +116,22 @@
             <div style="margin-top:14px" id="lib-slot">${libBtnHTML()}</div>
           </div>
         </div>
+      </section>`;
+  }
+
+  // ── ONDE COMPRAR ──
+  function buyHTML() {
+    const itens = CK.lojasDoJogo(lojas, game);
+    if (!itens.length) return '';
+    return `
+      <section class="g-buy">
+        <div class="g-buy-title">🛍️ ${T('Onde comprar', 'Where to buy')} ${esc(game.title)}</div>
+        <div class="g-buy-list">${itens.map(l => `
+          <a class="g-buy-item" href="${esc(l.url)}" target="_blank" rel="sponsored nofollow noopener" data-loja="${esc(l.id)}">
+            <span style="font-size:20px">${l.icone}</span>
+            <span><b>${esc(l.nome)}</b><span>${esc(l.tipo)}</span></span>
+          </a>`).join('')}</div>
+        <p class="g-buy-note">${esc(T(lojas.aviso.pt, lojas.aviso.en))}</p>
       </section>`;
   }
 
@@ -284,10 +300,10 @@
           <p class="g-resumo" style="margin:0">${T(
             'Os consoles da Nintendo não têm um sistema oficial de conquistas ou troféus, então este jogo não possui uma lista para acompanhar. Quando houver metas de 100% confirmadas, elas aparecem aqui como checklist.',
             'Nintendo consoles have no official achievement or trophy system, so there is no list to track for this game. Once confirmed 100% goals are available they will show up here as a checklist.')}</p>
-        </div></div></main>`;
+        </div></div>${buyHTML()}</main>`;
       return;
     }
-    app.innerHTML = heroHTML() + `<main class="ck-wrap">${abasHTML()}${progressHTML()}${guideHTML()}</main>`
+    app.innerHTML = heroHTML() + `<main class="ck-wrap">${buyHTML()}${abasHTML()}${progressHTML()}${guideHTML()}</main>`
       + toolbarHTML() + `<main class="ck-wrap"><div class="a-list" id="list">${listHTML()}</div>${noteHTML()}</main>`;
   }
 
@@ -420,14 +436,15 @@
   });
 
   // ── INÍCIO ──
-  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid), window.CK_AUTH ? CK_AUTH.sincronizarRapido() : null])
-    .then(([games, achData, g]) => {
+  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid), CK.loadLojas(), window.CK_AUTH ? CK_AUTH.sincronizarRapido() : null])
+    .then(([games, achData, g, lj]) => {
+      lojas = lj;
       game = games.find(x => x.id === gid);
       if (!game) return fail(T('Jogo não encontrado.', 'Game not found.'));
       document.title = `${game.title} — ${T('Conquistas', 'Achievements')} · Checkpoint Digital`;
       guide = g; meta = achData; prog = CK.getProg(gid);
       if (game.mode !== 'sem-conquistas' && !(achData && achData.conquistas && achData.conquistas.length)) {
-        app.innerHTML = heroHTML();
+        app.innerHTML = heroHTML() + `<main class="ck-wrap">${buyHTML()}</main>`;
         app.insertAdjacentHTML('beforeend', `<div class="ck-empty">${T('A lista de conquistas deste jogo está sendo atualizada. Volte em breve!', 'This achievement list is being updated. Check back soon!')}</div>`);
         return;
       }

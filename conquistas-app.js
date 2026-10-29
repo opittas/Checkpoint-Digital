@@ -102,6 +102,22 @@ const CK = (function () {
   const loadIndex = () => loadJSON('data/conquistas/index.json').catch(() => ({}));
   const loadAch   = gid => loadJSON(`data/conquistas/${gid}.json`);
   const loadGuide = gid => loadJSON(`data/guias/${gid}.json`).catch(() => null);
+  const loadLojas = () => loadJSON('data/lojas.json').catch(() => null);
+
+  // Onde comprar: link próprio do jogo (data/lojas.json → jogos) ou busca na loja
+  function lojasDoJogo(lojas, game) {
+    if (!lojas || !game) return [];
+    const proprios = (lojas.jogos || {})[game.id] || {};
+    return (lojas.lojas || []).filter(l => proprios[l.id] || (l.busca && (l.plataformas || []).some(p => game.platforms.includes(p))))
+      .map(l => {
+        let url = proprios[l.id];
+        if (!url) {
+          url = l.busca.replace('{q}', encodeURIComponent(game.title));
+          if (l.parametros) url += (url.includes('?') ? '&' : '?') + l.parametros;
+        }
+        return { id: l.id, nome: l.nome, icone: l.icone, tipo: tr(l.tipo.pt, l.tipo.en), url, direto: !!proprios[l.id] };
+      });
+  }
 
   // Junta lista da Steam + guia manual
   function mergeGuide(achData, guide) {
@@ -167,7 +183,7 @@ const CK = (function () {
   }
 
   return { isEN, tr, getProg, setProg, isDone, exportAll, importAll,
-           loadGames, loadIndex, loadAch, loadGuide, mergeGuide,
+           loadGames, loadIndex, loadAch, loadGuide, loadLojas, lojasDoJogo, mergeGuide,
            rarity, diffMeter, platBadges, esc, norm, toast, imgSrc,
            STATUS, getLib, saveLib, setLibItem, inLib, statusLabel, gameProgress };
 })();

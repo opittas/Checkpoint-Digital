@@ -1573,5 +1573,35 @@
   "base": 7,
   "dlcs": {},
   "atualizado": null
+ },
+ "phantom-blade-zero": {
+  "total": 66,
+  "base": 66,
+  "dlcs": {},
+  "atualizado": "2026-10-29"
+ },
+ "ff7-remake-intergrade": {
+  "total": 63,
+  "base": 63,
+  "dlcs": {},
+  "atualizado": "2026-10-29"
+ },
+ "lego-star-wars-skywalker-saga": {
+  "total": 45,
+  "base": 45,
+  "dlcs": {},
+  "atualizado": "2026-10-29"
+ },
+ "deep-rock-galactic": {
+  "total": 69,
+  "base": 69,
+  "dlcs": {},
+  "atualizado": "2026-10-29"
+ },
+ "sword-of-the-sea": {
+  "total": 48,
+  "base": 48,
+  "dlcs": {},
+  "atualizado": "2026-10-29"
  }
 }

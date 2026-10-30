@@ -157,19 +157,16 @@ body.g-buy-open { overflow: hidden; }
 .g-buy-x:hover { color: var(--text); }
 .g-buy-title { font-weight: 800; color: var(--text); margin: 0 28px 14px 0; font-size: 16px; }
 .g-buy-rows { display: flex; flex-direction: column; gap: 8px; }
-.g-buy-row { display: grid; grid-template-columns: 28px 1fr auto auto; gap: 12px; align-items: center; text-decoration: none; border: 1px solid var(--border); background: var(--bg); border-radius: 10px; padding: 10px 14px; transition: border-color .15s; }
+.g-buy-row { display: grid; grid-template-columns: 28px 1fr auto; gap: 12px; align-items: center; text-decoration: none; border: 1px solid var(--border); background: var(--bg); border-radius: 10px; padding: 10px 14px; transition: border-color .15s; }
 .g-buy-row:hover { border-color: #f59e0b; }
 .g-buy-ico { font-size: 20px; }
-.g-buy-info b, .g-buy-price b { display: block; color: var(--text); font-size: 13px; }
-.g-buy-info span, .g-buy-price span { display: block; color: var(--text3); font-size: 11px; }
-.g-buy-price { text-align: right; }
+.g-buy-info b { display: block; color: var(--text); font-size: 14px; }
 .g-buy-go { color: #f59e0b; font-size: 12px; font-weight: 800; white-space: nowrap; }
 .g-buy-note { font-size: 11px; color: var(--text3); margin-top: 12px; line-height: 1.5; }
 @media (max-width: 600px) {
   .g-buy-modal { align-items: flex-end; padding: 0; }
   .g-buy-card { border-radius: 16px 16px 0 0; max-height: 85vh; }
   .g-buy-row { grid-template-columns: 24px 1fr auto; }
-  .g-buy-go { display: none; }
 }
 
 /* ── GUIA / ROADMAP ── */

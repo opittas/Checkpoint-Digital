@@ -22,7 +22,7 @@
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/shard-squad.jpg">
 <!--/SEO-->
 <link rel="stylesheet" href="../shared.css?v=23dc22a7">
-<link rel="stylesheet" href="../conquistas-app.css?v=4ef85789">
+<link rel="stylesheet" href="../conquistas-app.css?v=8f7472db">
 </head>
 <body>
 
@@ -33,7 +33,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="../shared.js?v=ea914b8a"></script>
-<script src="../conquistas-app.js?v=e6f24922"></script>
+<script src="../conquistas-app.js?v=daa3c9b5"></script>
 <script src="../auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('ach', '../');
@@ -127,7 +127,6 @@
   }
   function buyModalHTML() {
     const itens = CK.lojasDoJogo(lojas, game);
-    const fmt = d => new Date(d + 'T12:00:00').toLocaleDateString(EN ? 'en' : 'pt-BR', { day: '2-digit', month: '2-digit' });
     return `
       <div class="g-buy-modal" data-buy="close">
         <div class="g-buy-card" role="dialog" aria-modal="true" aria-label="${esc(T('Onde comprar', 'Where to buy'))}">
@@ -136,13 +135,10 @@
           <div class="g-buy-rows">${itens.map(l => `
             <a class="g-buy-row" href="${esc(l.url)}" target="_blank" rel="sponsored nofollow noopener" data-loja="${esc(l.id)}">
               <span class="g-buy-ico">${l.icone}</span>
-              <span class="g-buy-info"><b>${esc(l.nome)}</b><span>${esc(l.tipo)}</span></span>
-              <span class="g-buy-price">${l.preco
-                ? `<b>${esc(l.preco)}</b><span>${T('visto em', 'seen on')} ${fmt(l.data)}</span>`
-                : `<span>${l.direto ? T('Ver anúncio', 'See listing') : T('Ver preços', 'See prices')}</span>`}</span>
+              <span class="g-buy-info"><b>${esc(l.nome)}</b></span>
               <span class="g-buy-go">${T('Comprar', 'Buy')} →</span>
             </a>`).join('')}</div>
-          <p class="g-buy-note">${T('Os preços mudam: confira o valor final na loja.', 'Prices change: check the final price at the store.')} ${esc(T(lojas.aviso.pt, lojas.aviso.en))}</p>
+          <p class="g-buy-note">${esc(T(lojas.aviso.pt, lojas.aviso.en))}</p>
         </div>
       </div>`;
   }

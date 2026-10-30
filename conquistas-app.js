@@ -105,20 +105,18 @@ const CK = (function () {
   const loadLojas = () => loadJSON('data/lojas.json').catch(() => null);
 
   // Onde comprar: link próprio do jogo (data/lojas.json → jogos) ou busca na loja.
-  // Cada link próprio pode ser só a URL ou { url, preco, data } com o preço visto no anúncio.
   function lojasDoJogo(lojas, game) {
     if (!lojas || !game) return [];
     const proprios = (lojas.jogos || {})[game.id] || {};
     return (lojas.lojas || []).filter(l => proprios[l.id] || (l.busca && (l.plataformas || []).some(p => game.platforms.includes(p))))
       .map(l => {
-        const p = typeof proprios[l.id] === 'string' ? { url: proprios[l.id] } : (proprios[l.id] || {});
-        let url = p.url;
+        let url = proprios[l.id];
         if (!url) {
           url = l.busca.replace('{q}', encodeURIComponent(game.title))
             .replace('{slug}', norm(game.title).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''));
           if (l.parametros) url += (url.includes('?') ? '&' : '?') + l.parametros;
         }
-        return { id: l.id, nome: l.nome, icone: l.icone, tipo: tr(l.tipo.pt, l.tipo.en), url, direto: !!p.url && l.links_proprios !== 'busca', preco: p.preco || '', data: p.data || '' };
+        return { id: l.id, nome: l.nome, icone: l.icone, tipo: tr(l.tipo.pt, l.tipo.en), url, direto: !!proprios[l.id] };
       });
   }
 

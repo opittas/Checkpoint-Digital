@@ -59,8 +59,8 @@
     { "id": "Guias",       "en": "Guides",   "badge": "badge-preview" }
   ],
   "rodape": {
-    "slogan": { "pt": "Notícias, lançamentos e análises de todas as plataformas e gerações", "en": "News, releases and reviews for every platform and generation" },
-    "direitos": { "pt": "© 2026 Checkpoint Digital — Blog de Games. Todos os direitos reservados.", "en": "© 2026 Checkpoint Digital — Gaming Blog. All rights reserved." },
+    "slogan": { "pt": "Sua coleção de jogos, as conquistas e as notícias de cada um", "en": "Your game collection, its achievements and the news for each game" },
+    "direitos": { "pt": "© 2026 Checkpoint Digital. Todos os direitos reservados.", "en": "© 2026 Checkpoint Digital. All rights reserved." },
     "assinatura": { "pt": "Feito com paixão por games", "en": "Made with love for games" }
   }
 }

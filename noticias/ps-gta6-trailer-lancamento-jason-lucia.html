@@ -25,7 +25,7 @@
 <meta property="article:section" content="PlayStation">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "GTA 6: Trailer de Lançamento Revela Passado Militar de Jason e Lucia Ainda de Tornozeleira", "description": "A pouco mais de três semanas do lançamento, a Rockstar mostrou em 90 segundos o ponto de partida da história, assaltos a banco e uma escala de ação maior do que se imaginava.", "image": ["https://opittas.github.io/Checkpoint-Digital/imagens/capas/ps-gta6.jpg"], "datePublished": "2026-10-26T19:16:39.32479+00:00", "dateModified": "2026-10-26T19:16:39.32479+00:00", "author": {"@type": "Organization", "name": "Checkpoint Digital"}, "publisher": {"@type": "Organization", "name": "Checkpoint Digital"}, "mainEntityOfPage": "https://opittas.github.io/Checkpoint-Digital/noticias/ps-gta6-trailer-lancamento-jason-lucia.html", "inLanguage": "pt-BR", "citation": ["https://www.techradar.com/gaming/grand-theft-auto-6s-launch-trailer-is-here-giving-fans-a-deeper-look-at-jason-and-lucias-crime-fueled-story", "https://www.noobfeed.com/news/gta-6-launch-trailer-military-jason-lucia", "https://www.esquireindia.co.in/tech-and-auto/gaming/new-gta-6-launch-trailer-shows-jason-lucia-vice-city-leonida", "https://www.youtube.com/watch?v=rz1B4B2yBZY"]}</script>
 <!--/SEO-->
-<link rel="stylesheet" href="shared.css?v=c8b847ab">
+<link rel="stylesheet" href="shared.css?v=23dc22a7">
 <style>
   .article-hero {
     background: var(--bg2);
@@ -61,6 +61,12 @@
     font-size: 13px; color: var(--text3);
   }
   .article-meta span { display: flex; align-items: center; gap: 5px; }
+  .article-games { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+  .article-games a {
+    font-size: 13px; font-weight: 700; text-decoration: none; color: var(--ach-strong, #7c3aed);
+    background: var(--bg3); border: 1px solid var(--border); border-radius: 20px; padding: 6px 12px;
+  }
+  .article-games a:hover { border-color: #8b5cf666; }
   .article-category-badge {
     font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px;
     background: var(--bg3); color: var(--text2); border: 1px solid var(--border);
@@ -174,7 +180,7 @@
 
 <footer id="site-footer"></footer>
 <script>window.ARTIGO_ID = "ps-gta6-trailer-lancamento-jason-lucia";</script>
-<script src="shared.js?v=32a7bb6c"></script>
+<script src="shared.js?v=ea914b8a"></script>
 <script>
   renderHeader('');
   renderFooter();
@@ -252,12 +258,33 @@
           ${fontesHTML(art.fontes, isEN)}
         </div>`;
 
+      // Liga a notícia à página do jogo citado
+      ligarJogos(art);
+
       // Carrega mais artigos da mesma plataforma
       loadMore(art.platform, art.id);
 
     } catch(e) {
       showError(isEN ? 'Error loading article: ' + e.message : 'Erro ao carregar o artigo: ' + e.message);
     }
+  }
+
+  // Notícias moram dentro da página de cada jogo: o "voltar" leva ao jogo citado
+  async function ligarJogos(art) {
+    const isEN = getLang() === 'en';
+    try {
+      const jogos = await fetch(SITE_ROOT + 'data/jogos.json', { cache: 'no-cache' }).then(r => r.json());
+      const citados = jogosDaNoticia(art, jogos);
+      const back = document.querySelector('.article-back');
+      if (back) {
+        back.href = citados.length ? `conquistas/${encodeURIComponent(citados[0].id)}.html` : 'index.html';
+        back.textContent = citados.length ? `← ${citados[0].title}` : (isEN ? '← My Games' : '← Meus Jogos');
+      }
+      if (!citados.length) return;
+      const meta = document.querySelector('.article-meta');
+      if (meta) meta.insertAdjacentHTML('afterend', `<div class="article-games">${citados.slice(0, 4).map(j =>
+        `<a href="conquistas/${encodeURIComponent(j.id)}.html">🎮 ${escHTML(j.title)} · ${isEN ? 'achievements and news' : 'conquistas e notícias'} →</a>`).join('')}</div>`);
+    } catch (e) {}
   }
 
   async function loadMore(platform, excludeId) {

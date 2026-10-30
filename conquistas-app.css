@@ -147,21 +147,29 @@ body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
 .ck-btn.primary { background: var(--ach); color: #fff; border-color: var(--ach); }
 
 /* ── ONDE COMPRAR (links de afiliado) ── */
-.g-buy { background: var(--bg2); border: 1px solid var(--border); border-radius: 14px; padding: 16px 20px; margin: 24px 0 18px; }
-.g-buy-title { font-weight: 800; color: var(--text); margin-bottom: 12px; }
-.g-buy-list { display: flex; gap: 10px; flex-wrap: wrap; }
-.g-buy-item { display: flex; align-items: center; gap: 10px; text-decoration: none; border: 1px solid var(--border); background: var(--bg); border-radius: 10px; padding: 9px 14px; transition: all .15s; }
-.g-buy-item:hover { border-color: var(--ach); }
-.g-buy-item b { display: block; color: var(--text); font-size: 13px; }
-.g-buy-item span { display: block; color: var(--text3); font-size: 11px; }
-.g-buy-note { font-size: 11px; color: var(--text3); margin-top: 10px; }
-.g-buy + .g-progress { margin-top: 0; }
+.g-actions-hero { margin-top: 14px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.g-buy-btn { background: #f59e0b; color: #1a1205; border-color: #f59e0b; }
+.g-buy-btn:hover { background: #fbbf24; color: #1a1205; border-color: #fbbf24; }
+body.g-buy-open { overflow: hidden; }
+.g-buy-modal { position: fixed; inset: 0; z-index: 1000; background: #000a; display: flex; align-items: center; justify-content: center; padding: 16px; }
+.g-buy-card { position: relative; width: 100%; max-width: 520px; max-height: calc(100vh - 32px); overflow: auto; background: var(--bg2); border: 1px solid var(--border); border-radius: 16px; padding: 20px; box-shadow: 0 24px 60px #000a; }
+.g-buy-x { position: absolute; top: 12px; right: 12px; background: none; border: 0; color: var(--text3); font-size: 16px; cursor: pointer; padding: 6px; }
+.g-buy-x:hover { color: var(--text); }
+.g-buy-title { font-weight: 800; color: var(--text); margin: 0 28px 14px 0; font-size: 16px; }
+.g-buy-rows { display: flex; flex-direction: column; gap: 8px; }
+.g-buy-row { display: grid; grid-template-columns: 28px 1fr auto auto; gap: 12px; align-items: center; text-decoration: none; border: 1px solid var(--border); background: var(--bg); border-radius: 10px; padding: 10px 14px; transition: border-color .15s; }
+.g-buy-row:hover { border-color: #f59e0b; }
+.g-buy-ico { font-size: 20px; }
+.g-buy-info b, .g-buy-price b { display: block; color: var(--text); font-size: 13px; }
+.g-buy-info span, .g-buy-price span { display: block; color: var(--text3); font-size: 11px; }
+.g-buy-price { text-align: right; }
+.g-buy-go { color: #f59e0b; font-size: 12px; font-weight: 800; white-space: nowrap; }
+.g-buy-note { font-size: 11px; color: var(--text3); margin-top: 12px; line-height: 1.5; }
 @media (max-width: 600px) {
-  .g-buy { padding: 14px; }
-  .g-buy-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); gap: 8px; }
-  .g-buy-item { flex-direction: column; gap: 4px; padding: 10px 6px; text-align: center; }
-  .g-buy-item b { font-size: 12px; }
-  .g-buy-item span span { display: none; }
+  .g-buy-modal { align-items: flex-end; padding: 0; }
+  .g-buy-card { border-radius: 16px 16px 0 0; max-height: 85vh; }
+  .g-buy-row { grid-template-columns: 24px 1fr auto; }
+  .g-buy-go { display: none; }
 }
 
 /* ── GUIA / ROADMAP ── */
@@ -360,3 +368,13 @@ body.light .ck-dlc-pill { color: #0369a1; }
   .ck-chips::-webkit-scrollbar { display: none; }
   .ck-chip { flex-shrink: 0; }
 }
+
+/* ── Notícias do jogo (página de cada jogo) ── */
+.g-news { margin: 8px 0 26px; }
+.g-news-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; }
+.g-news-head h2 { font-size: 20px; font-weight: 900; color: var(--text); }
+.g-news-head span { color: var(--text3); font-size: 13px; }
+.g-news .cards-grid { margin-bottom: 0; }
+.g-news-more { margin-top: 14px; }
+.g-dev { margin: 0 0 14px; }
+.ck-hero .dev-notice { margin-top: 18px; max-width: 760px; }

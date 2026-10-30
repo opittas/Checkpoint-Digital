@@ -1036,7 +1036,7 @@
       "Ação"
     ],
     "palavras": [
-      "call of duty"
+      "black ops cold war"
     ]
   },
   {
@@ -4390,6 +4390,289 @@
     "palavras": [
       "gekishin squadra",
       "dragon ball"
+    ]
+  },
+  {
+    "id": "gta6",
+    "title": "Grand Theft Auto VI",
+    "developer": "Rockstar Games",
+    "year": 2026,
+    "steam_appid": null,
+    "platforms": [
+      "xbox",
+      "ps"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/gta6.jpg",
+    "generos": [
+      "Ação",
+      "Mundo aberto"
+    ],
+    "palavras": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto vi",
+      "grand theft auto 6"
+    ]
+  },
+  {
+    "id": "phantom-blade-zero",
+    "title": "Phantom Blade Zero",
+    "developer": "S-Game",
+    "year": 2026,
+    "steam_appid": 4115450,
+    "platforms": [
+      "ps",
+      "steam"
+    ],
+    "labels": {
+      "ps": "",
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/phantom-blade-zero.jpg",
+    "generos": [
+      "Ação",
+      "RPG"
+    ],
+    "palavras": [
+      "phantom blade zero"
+    ]
+  },
+  {
+    "id": "tomb-raider-legacy-of-atlantis",
+    "title": "Tomb Raider: Legacy of Atlantis",
+    "developer": "Crystal Dynamics · Flying Wild Hog · Amazon Games",
+    "year": 2027,
+    "steam_appid": 3558670,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/tomb-raider-legacy-of-atlantis.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "legacy of atlantis"
+    ]
+  },
+  {
+    "id": "ff7-remake-intergrade",
+    "title": "Final Fantasy VII Remake Intergrade",
+    "developer": "Square Enix",
+    "year": 2021,
+    "steam_appid": 1462040,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/ff7-remake-intergrade.jpg",
+    "generos": [
+      "RPG",
+      "Ação"
+    ],
+    "palavras": [
+      "final fantasy vii remake",
+      "final fantasy 7 remake",
+      "ff7 remake",
+      "ffvii remake"
+    ]
+  },
+  {
+    "id": "lego-star-wars-skywalker-saga",
+    "title": "LEGO Star Wars: The Skywalker Saga",
+    "developer": "TT Games · Warner Bros. Games",
+    "year": 2022,
+    "steam_appid": 920210,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/lego-star-wars-skywalker-saga.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "skywalker saga",
+      "saga skywalker"
+    ]
+  },
+  {
+    "id": "deep-rock-galactic",
+    "title": "Deep Rock Galactic",
+    "developer": "Ghost Ship Games · Coffee Stain Publishing",
+    "year": 2020,
+    "steam_appid": 548430,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/deep-rock-galactic.jpg",
+    "generos": [
+      "Ação",
+      "Tiro"
+    ],
+    "palavras": [
+      "deep rock galactic"
+    ]
+  },
+  {
+    "id": "witchbrook",
+    "title": "Witchbrook",
+    "developer": "Chucklefish",
+    "year": 2027,
+    "steam_appid": 1846700,
+    "platforms": [
+      "xbox",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "",
+      "steam": "",
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/witchbrook.jpg",
+    "generos": [
+      "Simulação",
+      "RPG",
+      "Indie"
+    ],
+    "palavras": [
+      "witchbrook"
+    ]
+  },
+  {
+    "id": "sword-of-the-sea",
+    "title": "Sword of the Sea",
+    "developer": "Giant Squid",
+    "year": 2025,
+    "steam_appid": 2453160,
+    "platforms": [
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "ps": "",
+      "steam": "",
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/sword-of-the-sea.jpg",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "palavras": [
+      "sword of the sea"
+    ]
+  },
+  {
+    "id": "call-of-duty-modern-warfare-4",
+    "title": "Call of Duty: Modern Warfare 4",
+    "developer": "Infinity Ward · Activision",
+    "year": 2026,
+    "steam_appid": 4435490,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/call-of-duty-modern-warfare-4.jpg",
+    "generos": [
+      "Ação",
+      "Tiro"
+    ],
+    "palavras": [
+      "modern warfare 4",
+      "mw4"
     ]
   }
 ]

@@ -67,7 +67,8 @@
     "steam"
    ],
    "busca": "https://shopee.com.br/search?keyword={q}",
-   "parametros": "mmp_pid=an_18301130243&utm_source=an_18301130243&utm_medium=affiliates&utm_campaign=id_AVY1gGmYE5V"
+   "parametros": "mmp_pid=an_18301130243&utm_source=an_18301130243&utm_medium=affiliates&utm_campaign=id_AVY1gGmYE5V",
+   "links_proprios": "busca"
   }
  ],
  "jogos": {

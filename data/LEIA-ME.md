@@ -32,7 +32,7 @@ O campo `gen` de cada notícia deve ser um dos `id` de `geracoes`; `category`, u
 `id, platform (xbox|ps|nin|steam), gen, category, title, title_en, excerpt, excerpt_en, body, body_en (HTML), image_url, published_at (ISO), read_time, author, featured`
 
 ### jogos.json
-`id, title, developer, year, steam_appid (ou null), platforms[], labels{plataforma: texto}, difficulty (1–10), hours, playthroughs, online, dlc_note, mode (conquistas|checklist|sem-conquistas), image, generos[], palavras[] (para achar notícias do jogo)`
+`id, title, developer, year, steam_appid (ou null), platforms[], labels{plataforma: texto}, difficulty (1–10), hours, playthroughs, online, dlc_note, mode (conquistas|checklist|sem-conquistas), image, generos[], palavras[] (nomes que ligam as notícias à página do jogo)`
 
 ### conquistas/&lt;id&gt;.json
 ```json
@@ -53,4 +53,6 @@ Uma conquista com `dlc` sai do 100% do jogo base e vai para a aba daquela DLC.
 ## Como adicionar um jogo
 1. Inclua o jogo em `jogos.json` (com `steam_appid`, se tiver).
 2. Rode `Atualizar site.command` — ele baixa a lista oficial da Steam e publica.
+   Ou só envie o `jogos.json` para o GitHub: o workflow **Publicar notícias** completa os jogos
+   novos sozinho (procura o `steam_appid` pelo nome exato, baixa capa e conquistas) na próxima rodada.
 3. Opcional: crie `guias/<id>.json` com roteiro, perdíveis e DLCs.

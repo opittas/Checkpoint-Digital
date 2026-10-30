@@ -3,9 +3,16 @@
 Instruções para a tarefa agendada do Claude Code que escreve as notícias do site.
 Cada execução lê este arquivo e segue os passos abaixo, do começo ao fim.
 
-O site não muda por aqui: a notícia vai para a tabela `articles` do Supabase
-(projeto `ytehtjgbxkwpfabqhojm`) e o workflow **Publicar notícias**
-(`.github/workflows/publicar-noticias.yml`) gera a página e publica.
+A notícia vai para a tabela `articles` do Supabase (projeto `ytehtjgbxkwpfabqhojm`)
+e o workflow **Publicar notícias** (`.github/workflows/publicar-noticias.yml`) gera a
+página e publica.
+
+**Onde a notícia aparece:** o site não tem mais página inicial de notícias. Cada
+notícia aparece dentro da página do jogo que ela cita (`conquistas/<id>.html`) e
+nos Meus Jogos de quem tem o jogo. A ligação é feita pelo campo `palavras` de
+`data/jogos.json`: o título ou o resumo da notícia precisa conter um desses nomes.
+Por isso toda notícia precisa ser sobre um jogo do catálogo; se o jogo ainda não
+existe, ele é criado no passo 6.
 
 ## Regra de ouro
 
@@ -41,6 +48,9 @@ Procure as notícias de games das últimas 24 horas. Prioridade, nesta ordem:
 
 Dê preferência aos jogos de `data/jogos.json` (campo `palavras`) e a assuntos
 que interessam a quem joga no Brasil (preço em reais, lançamento no país, dublagem).
+Cada notícia precisa ter um **jogo principal**. Assunto sem jogo (resultado de
+empresa, hardware, evento) só entra se citar no título um jogo do catálogo ou um
+jogo que você vai criar no passo 6.
 
 Escolha **no máximo 4 assuntos** por rodada, os de maior interesse.
 
@@ -82,6 +92,8 @@ palavras, mas sem mudar o sentido de nada.
 ### Estilo do site
 
 - **title:** longo e informativo, com o fato principal e o detalhe que chama atenção.
+  Traz o nome do jogo principal escrito como em `title` ou `palavras` de `data/jogos.json`
+  (é isso que coloca a notícia na página do jogo).
   Ex.: "Game Pass: Final Fantasy VII Remake Lidera Fim de Outubro, e LEGO Star Wars e Deep Rock Galactic Saem do Catálogo".
 - **excerpt:** uma ou duas frases que dizem por que a notícia importa.
 - **body:** HTML simples. Primeiro parágrafo `<p>` com o fato principal; depois
@@ -125,7 +137,64 @@ Releia o texto final em PT e EN, frase por frase, contra a lista de fatos:
 
 Se depois disso a notícia ficou fraca ou sem base, descarte.
 
-## 6. Gravar e publicar
+## 6. Criar o jogo, se ele ainda não existir
+
+Antes de gravar, confira se o jogo principal de cada notícia já está em
+`data/jogos.json` (compare com `title` e `palavras`, sem acento e sem maiúsculas).
+Se não estiver, crie o jogo **seguindo o padrão dos outros**, acrescentando um item
+ao fim da lista:
+
+```json
+{
+  "id": "phantom-blade-zero",
+  "title": "Phantom Blade Zero",
+  "developer": "S-Game",
+  "year": 2026,
+  "steam_appid": 4115450,
+  "platforms": ["ps", "steam"],
+  "labels": { "ps": "", "steam": "" },
+  "difficulty": null,
+  "hours": null,
+  "playthroughs": null,
+  "online": false,
+  "mode": "conquistas",
+  "image": "imagens/jogos/phantom-blade-zero.jpg",
+  "generos": ["Ação", "RPG"],
+  "palavras": ["phantom blade zero"]
+}
+```
+
+Regras:
+
+- **id:** nome do jogo em minúsculas, sem acento, com hífens. Confira que não existe.
+- **title:** o nome oficial do jogo (em inglês, como na loja). **developer** e **year**
+  saem das fontes ou da página oficial; ano de lançamento (previsto, se ainda não saiu).
+- **steam_appid:** o número da página oficial do jogo na Steam
+  (`store.steampowered.com/app/<número>`), só se você abriu essa página. Se não achar,
+  use `null`: o workflow procura o jogo na Steam pelo nome exato.
+- **platforms:** só as plataformas confirmadas pelas fontes (`xbox`, `ps`, `nin`, `steam`).
+- **mode:** `conquistas` se o jogo sai em Xbox, PlayStation ou PC; `sem-conquistas` se
+  sai só em consoles Nintendo (eles não têm conquistas oficiais).
+- **difficulty**, **hours**, **playthroughs:** `null` (são preenchidos quando alguém
+  escrever o guia). **online:** `true` só se o jogo for principalmente online.
+- **generos:** um a três, usando os nomes que já aparecem no catálogo (Ação, Aventura,
+  RPG, Indie, Simulação, Tiro, Mundo aberto, Corrida, Luta, Estratégia...).
+- **palavras:** os nomes que aparecem nas notícias, em minúsculas (ex.: `"gta 6"`,
+  `"gta vi"`, `"grand theft auto vi"`). Nada genérico demais: `"call of duty"` pegaria
+  todos os jogos da série; prefira `"modern warfare 4"`.
+- **image:** sempre `imagens/jogos/<id>.jpg`. Não envie a imagem: o workflow baixa a capa
+  da Steam ou, se o jogo não estiver na Steam, copia a capa da notícia.
+- Nunca invente lista de conquistas, guia ou dado que as fontes não trazem. A lista
+  oficial é baixada da Steam pelo workflow quando ela existir; até lá a página do jogo
+  mostra as notícias e avisa que a lista ainda não saiu.
+
+Grave o `data/jogos.json` atualizado direto no branch `main` de
+`opittas/Checkpoint-Digital`, num commit que mexe **só nesse arquivo**, com a mensagem
+`Catálogo: adiciona <nome do jogo>`. Mantenha o formato do arquivo (JSON com 2 espaços
+de recuo, mesma ordem de campos). Leia o arquivo de novo logo antes de gravar, para
+não apagar um jogo adicionado por outra pessoa.
+
+## 7. Gravar e publicar
 
 Grave cada notícia com `insert` na tabela `articles` (uma por vez, usando
 `$$...$$` ou escapando aspas simples no HTML). Depois confira com um `select`
@@ -135,10 +204,14 @@ Se pelo menos uma notícia foi gravada, dispare o workflow **Publicar notícias*
 (`publicar-noticias.yml`, branch `main`) no repositório
 `opittas/Checkpoint-Digital` para ela ir ao ar na hora.
 
-Não altere nem apague notícias que já existem. Não mude arquivos do repositório.
+O workflow gera a página da notícia e, para cada jogo novo, baixa a capa e a lista
+oficial de conquistas da Steam e cria a página do jogo.
 
-## 7. Resumo
+Não altere nem apague notícias que já existem. Fora o `data/jogos.json` (passo 6),
+não mude arquivos do repositório.
+
+## 8. Resumo
 
 Termine com um resumo curto em português: quais notícias foram publicadas
-(título e id), quais assuntos foram descartados e por quê. Se nada foi
-publicado, diga isso.
+(título e id), em qual jogo cada uma aparece, quais jogos foram criados, quais
+assuntos foram descartados e por quê. Se nada foi publicado, diga isso.

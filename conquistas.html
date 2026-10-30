@@ -4,26 +4,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
-<title>Guias de Conquistas e Troféus — Checkpoint Digital</title>
+<title>Explorar jogos — Guias de Conquistas e Troféus · Checkpoint Digital</title>
 <!--SEO-->
-<meta name="description" content="Listas oficiais de conquistas com % de jogadores, roteiros para platinar e checklist salvo na sua conta.">
+<meta name="description" content="Encontre jogos para adicionar aos seus: listas oficiais de conquistas com % de jogadores, roteiros para platinar e notícias de cada jogo.">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://opittas.github.io/Checkpoint-Digital/conquistas.html">
 <meta property="og:site_name" content="Checkpoint Digital">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Guias de Conquistas e Troféus — Checkpoint Digital">
-<meta property="og:description" content="Listas oficiais de conquistas com % de jogadores, roteiros para platinar e checklist salvo na sua conta.">
+<meta property="og:title" content="Explorar jogos — Guias de Conquistas e Troféus · Checkpoint Digital">
+<meta property="og:description" content="Encontre jogos para adicionar aos seus: listas oficiais de conquistas com % de jogadores, roteiros para platinar e notícias de cada jogo.">
 <meta property="og:url" content="https://opittas.github.io/Checkpoint-Digital/conquistas.html">
 <meta property="og:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Guias de Conquistas e Troféus — Checkpoint Digital">
-<meta name="twitter:description" content="Listas oficiais de conquistas com % de jogadores, roteiros para platinar e checklist salvo na sua conta.">
+<meta name="twitter:title" content="Explorar jogos — Guias de Conquistas e Troféus · Checkpoint Digital">
+<meta name="twitter:description" content="Encontre jogos para adicionar aos seus: listas oficiais de conquistas com % de jogadores, roteiros para platinar e notícias de cada jogo.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <!--/SEO-->
-<meta name="description" content="Guias de conquistas e troféus com checklist de progresso, raridade e roteiro para platinar.">
-<link rel="stylesheet" href="shared.css?v=c8b847ab">
-<link rel="stylesheet" href="conquistas-app.css?v=c14c294f">
+<link rel="stylesheet" href="shared.css?v=23dc22a7">
+<link rel="stylesheet" href="conquistas-app.css?v=4ef85789">
 </head>
 <body>
 
@@ -31,9 +30,10 @@
 
 <section class="ck-hero">
   <div class="ck-wrap">
-    <div class="ck-eyebrow" id="t-eyebrow">🏆 Guias de Conquistas</div>
-    <h1 id="t-title">Acompanhe sua caçada às platinas</h1>
-    <p id="t-sub">Listas oficiais com a porcentagem de jogadores que desbloqueou cada conquista, roteiro para platinar e um checklist que fica salvo no seu navegador.</p>
+    <div class="ck-eyebrow" id="t-eyebrow">🎮 Explorar jogos</div>
+    <h1 id="t-title">Encontre jogos para adicionar aos seus</h1>
+    <p id="t-sub">Toque no ＋ para colocar um jogo nos Meus Jogos. Cada jogo tem a lista oficial de conquistas com a porcentagem de jogadores, roteiro para platinar, checklist salvo na sua conta e as notícias dele.</p>
+    <div class="dev-notice" id="dev-notice"><span class="dev-notice-ico">🚧</span><span><b>O site ainda está em desenvolvimento.</b> Alguns jogos podem não aparecer aqui ainda, e outros podem estar com a lista de conquistas diferente da oficial. Estamos adicionando e revisando os jogos aos poucos.</span></div>
     <div class="ck-stats" id="hero-stats"></div>
     <div style="display:flex;gap:8px;margin-top:18px;flex-wrap:wrap">
       <button class="ck-btn" id="btn-export">⬇️ <span>Baixar backup do progresso</span></button>
@@ -59,8 +59,8 @@
 
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=32a7bb6c"></script>
-<script src="conquistas-app.js?v=d8fcc332"></script>
+<script src="shared.js?v=ea914b8a"></script>
+<script src="conquistas-app.js?v=e6f24922"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('ach');
@@ -69,9 +69,10 @@
 
   // Textos fixos
   if (CK.isEN()) {
-    document.getElementById('t-eyebrow').textContent = '🏆 Achievement Guides';
-    document.getElementById('t-title').textContent = 'Track your platinum hunt';
-    document.getElementById('t-sub').textContent = 'Official lists with the share of players who unlocked each achievement, a roadmap to 100% and a checklist saved in your browser.';
+    document.getElementById('t-eyebrow').textContent = '🎮 Explore games';
+    document.getElementById('t-title').textContent = 'Find games to add to yours';
+    document.getElementById('t-sub').textContent = 'Tap ＋ to put a game in My Games. Each game has the official achievement list with player percentages, a roadmap to 100%, a checklist saved to your account and its news.';
+    document.getElementById('dev-notice').innerHTML = '<span class="dev-notice-ico">🚧</span><span><b>This site is still under development.</b> Some games may not be listed yet, and others may have an achievement list that differs from the official one. We are adding and reviewing games little by little.</span>';
     document.getElementById('q').placeholder = 'Search game…';
     document.querySelector('#btn-export span').textContent = 'Download progress backup';
     document.querySelector('#btn-import span').textContent = 'Restore backup';
@@ -90,6 +91,9 @@
   ];
   const state = { plat: 'all', q: '', sort: 'az' };
   try { Object.assign(state, JSON.parse(sessionStorage.getItem('ck_list_state')) || {}); } catch (e) {}
+  // ?plat=xbox (links do rodapé) abre já filtrado
+  const platURL = new URLSearchParams(location.search).get('plat');
+  if (PLATS.some(([id]) => id === platURL)) state.plat = platURL;
 
   let games = [], index = {};
 
@@ -199,7 +203,7 @@
     const b = e.target.closest('[data-lib]'); if (!b) return;
     e.preventDefault(); e.stopPropagation();
     const j = games.find(g => g.id === b.dataset.lib);
-    if (CK.inLib(j.id)) { location.href = 'meus-jogos.html'; return; }
+    if (CK.inLib(j.id)) { location.href = 'index.html'; return; }
     CK.setLibItem(j.id, { plataformas: j.platforms.length === 1 ? j.platforms.slice() : [], status: 'jogando', favorito: false, origem: 'manual' });
     b.classList.add('on'); b.textContent = '✓'; b.title = T('Nos Meus Jogos', 'In My Games');
     CK.toast(T(`${j.title} adicionado aos Meus Jogos`, `${j.title} added to My Games`));

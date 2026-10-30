@@ -22,7 +22,7 @@
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/jogos/metroid4.jpg">
 <!--/SEO-->
 <link rel="stylesheet" href="../shared.css?v=23dc22a7">
-<link rel="stylesheet" href="../conquistas-app.css?v=99f1a540">
+<link rel="stylesheet" href="../conquistas-app.css?v=8f7472db">
 </head>
 <body>
 
@@ -33,7 +33,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="../shared.js?v=ea914b8a"></script>
-<script src="../conquistas-app.js?v=3fa4b67f"></script>
+<script src="../conquistas-app.js?v=daa3c9b5"></script>
 <script src="../auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('ach', '../');
@@ -45,7 +45,7 @@
               sec: new URLSearchParams(location.search).get('secao') || 'base' };
   try { S.hideSpoilers = localStorage.getItem('ck_spoilers') !== 'show'; } catch (e) {}
 
-  let game, achs = [], guide, meta, prog;
+  let game, achs = [], guide, meta, prog, lojas;
   let noticias = null, siteCfg = null, verTodasNoticias = false;
   const app = document.getElementById('app');
 
@@ -114,11 +114,50 @@
             <div class="ck-plats" style="margin-bottom:12px">${CK.platBadges(game)}</div>
             ${game.mode === 'checklist' ? `<div class="g-orig"><b>✦ ${T('Conquistas originais Checkpoint', 'Checkpoint original achievements')}</b><span>${T('Este jogo não tem conquistas oficiais. Esta lista foi criada pela equipe do Checkpoint Digital para você acompanhar o seu 100%.', 'This game has no official achievements. This list was created by the Checkpoint Digital team so you can track your 100%.')}</span></div>` : ''}
             <div class="g-chips">${chips}</div>
-            <div style="margin-top:14px" id="lib-slot">${libBtnHTML()}</div>
+            <div class="g-actions-hero"><span id="lib-slot">${libBtnHTML()}</span>${buyBtnHTML()}</div>
           </div>
         </div>
       </section>`;
   }
+
+  // ── ONDE COMPRAR (links de afiliado) ──
+  function buyBtnHTML() {
+    if (!CK.lojasDoJogo(lojas, game).length) return '';
+    return `<button class="ck-btn g-buy-btn" data-buy="open">🛒 ${T('Ainda não tem esse jogo? Compre aqui!', "Don't have it yet? Buy it here!")}</button>`;
+  }
+  function buyModalHTML() {
+    const itens = CK.lojasDoJogo(lojas, game);
+    return `
+      <div class="g-buy-modal" data-buy="close">
+        <div class="g-buy-card" role="dialog" aria-modal="true" aria-label="${esc(T('Onde comprar', 'Where to buy'))}">
+          <button class="g-buy-x" data-buy="close" aria-label="${esc(T('Fechar', 'Close'))}">✕</button>
+          <div class="g-buy-title">🛒 ${T('Onde comprar', 'Where to buy')} ${esc(game.title)}</div>
+          <div class="g-buy-rows">${itens.map(l => `
+            <a class="g-buy-row" href="${esc(l.url)}" target="_blank" rel="sponsored nofollow noopener" data-loja="${esc(l.id)}">
+              <span class="g-buy-ico">${l.icone}</span>
+              <span class="g-buy-info"><b>${esc(l.nome)}</b></span>
+              <span class="g-buy-go">${T('Comprar', 'Buy')} →</span>
+            </a>`).join('')}</div>
+          <p class="g-buy-note">${esc(T(lojas.aviso.pt, lojas.aviso.en))}</p>
+        </div>
+      </div>`;
+  }
+  function abrirCompra() {
+    fecharCompra();
+    document.body.insertAdjacentHTML('beforeend', buyModalHTML());
+    document.body.classList.add('g-buy-open');
+  }
+  function fecharCompra() {
+    document.querySelectorAll('.g-buy-modal').forEach(m => m.remove());
+    document.body.classList.remove('g-buy-open');
+  }
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-buy]');
+    if (!b) return;
+    if (b.dataset.buy === 'open') abrirCompra();
+    else if (b.dataset.buy === 'close' && (e.target === b || b.classList.contains('g-buy-x'))) fecharCompra();
+  });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') fecharCompra(); });
 
   // ── MEUS JOGOS ──
   function libBtnHTML() {
@@ -459,8 +498,9 @@
   });
 
   // ── INÍCIO ──
-  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid), window.CK_AUTH ? CK_AUTH.sincronizarRapido() : null])
-    .then(([games, achData, g]) => {
+  Promise.all([CK.loadGames(), CK.loadAch(gid).catch(() => null), CK.loadGuide(gid), CK.loadLojas(), window.CK_AUTH ? CK_AUTH.sincronizarRapido() : null])
+    .then(([games, achData, g, lj]) => {
+      lojas = lj;
       game = games.find(x => x.id === gid);
       if (!game) return fail(T('Jogo não encontrado.', 'Game not found.'));
       document.title = `${game.title} — ${T('Conquistas', 'Achievements')} · Checkpoint Digital`;

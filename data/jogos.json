@@ -4674,5 +4674,35 @@
       "modern warfare 4",
       "mw4"
     ]
+  },
+  {
+    "id": "dead-island-2",
+    "title": "Dead Island 2",
+    "developer": "Dambuster Studios",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/dead-island-2.jpg",
+    "generos": [
+      "Ação",
+      "RPG"
+    ],
+    "palavras": [
+      "dead island 2"
+    ]
   }
 ]

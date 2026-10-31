@@ -1,5 +1,33 @@
 [
  {
+  "id": "steam-deadlock-halloween-2026-atualizacao",
+  "platform": "steam",
+  "category": "Notícias",
+  "gen": "windows",
+  "title": "Deadlock Ganha Evento de Halloween com Caldeirões de Doces e Atualização que Corta pela Metade a Recompensa do Mid-Boss",
+  "excerpt": "A Valve lançou o evento de Halloween de Deadlock, que vai até 2 de novembro, junto com mudanças no Mid-Boss, na economia de almas e em vários heróis e itens.",
+  "body": "<p>A Valve publicou no dia <strong>30 de outubro</strong> a atualização <strong>Halloween 2026</strong> de <strong>Deadlock</strong>. Ela traz decoração temática, uma mecânica nova de doces e uma leva grande de ajustes de balanceamento. O evento fica no ar até <strong>2 de novembro</strong>.</p>\n<h3>O que muda no Halloween</h3>\n<ul>\n<li>O Hideout ganhou um visual assustador, os heróis estão de <strong>máscara</strong> e Manhattan está cheia de abóboras.</li>\n<li>A novidade deste ano são os <strong>Caldeirões de Halloween</strong>: quebre um com um Heavy Melee para ganhar um doce. Comer o doce dá o bônus temporário <strong>Sugar Rush</strong>, que aumenta a energia.</li>\n</ul>\n<h3>Mid-Boss e economia</h3>\n<ul>\n<li>O <strong>Mid-Boss</strong> ficou com <strong>20% a mais de vida</strong>, mas a recompensa caiu de <strong>3000 para 1500</strong> almas (e de +50 para +25 por minuto). O Rejuvenator agora cai em três cristais.</li>\n<li>As Haunted Souls são garantidas <strong>25% mais devagar</strong>, mas até 50% mais rápido para quem está atrás no patrimônio.</li>\n<li>Os Healing Snacks passam a curar <strong>14%</strong> da vida máxima, em vez de 10%.</li>\n</ul>\n<h3>Itens e heróis</h3>\n<p>Entre os ajustes estão a recarga de <strong>Divine Barrier</strong> (de 45 s para 55 s) e de <strong>Spirit Sap</strong> (de 18 s para 22 s), além de cortes no dano base de bala de <strong>Solomon</strong> (30 para 25) e <strong>Paige</strong> (35 para 32). Os seis heróis mais recentes deixaram de ser marcados como novos, seguem as regras normais de desbloqueio do ranqueado e agora podem ser banidos.</p>",
+  "author": "Checkpoint Digital",
+  "image_url": "imagens/capas/steam-deadlock-halloween-2026-atualizacao.jpg",
+  "read_time": "2 min",
+  "published_at": "2026-10-31T17:19:48.277307+00:00",
+  "featured": false,
+  "created_at": "2026-10-31T17:19:48.277307+00:00",
+  "title_en": "Deadlock Gets a Halloween Event with Candy Cauldrons and an Update That Halves the Mid-Boss Bounty",
+  "excerpt_en": "Valve launched Deadlock's Halloween event, running until November 2, alongside changes to the Mid-Boss, the soul economy and several heroes and items.",
+  "body_en": "<p>On <strong>October 30</strong>, Valve released Deadlock's <strong>Halloween 2026</strong> update. It brings themed decorations, a new candy mechanic and a big round of balance changes. The event runs until <strong>November 2</strong>.</p>\n<h3>What's new for Halloween</h3>\n<ul>\n<li>The Hideout has a spooky new look, heroes are wearing <strong>masks</strong> and Manhattan is covered in pumpkins.</li>\n<li>New this year are <strong>Halloween Cauldrons</strong>: break one with a Heavy Melee to get a piece of candy. Eating it grants the temporary <strong>Sugar Rush</strong> buff, which boosts energy.</li>\n</ul>\n<h3>Mid-Boss and economy</h3>\n<ul>\n<li>The <strong>Mid-Boss</strong> has <strong>20% more health</strong>, but its bounty dropped from <strong>3000 to 1500</strong> souls (and from +50 to +25 per minute). The Rejuvenator now drops as three crystals.</li>\n<li>Haunted Souls are secured <strong>25% slower</strong>, but up to 50% faster for the team behind in Net Worth.</li>\n<li>Healing Snacks now heal <strong>14%</strong> of max health instead of 10%.</li>\n</ul>\n<h3>Items and heroes</h3>\n<p>Changes include longer cooldowns for <strong>Divine Barrier</strong> (45s to 55s) and <strong>Spirit Sap</strong> (18s to 22s), plus base bullet damage cuts for <strong>Solomon</strong> (30 to 25) and <strong>Paige</strong> (35 to 32). The six most recent heroes are no longer labeled new, follow the normal ranked unlock rules and can now be banned.</p>",
+  "fontes": [
+   {
+    "url": "https://steamcommunity.com/games/1422450/announcements/detail/680765564125186046",
+    "nome": "Steam (Deadlock)"
+   },
+   {
+    "url": "https://steamdb.info/patchnotes/26333912/",
+    "nome": "SteamDB"
+   }
+  ]
+ },
+ {
   "id": "ps-plus-novembro-2026-dead-island-2",
   "platform": "ps",
   "category": "Notícias",

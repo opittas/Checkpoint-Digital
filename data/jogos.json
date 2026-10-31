@@ -4704,5 +4704,31 @@
     "palavras": [
       "dead island 2"
     ]
+  },
+  {
+    "id": "deadlock",
+    "title": "Deadlock",
+    "developer": "Valve",
+    "year": null,
+    "steam_appid": 1422450,
+    "platforms": [
+      "steam"
+    ],
+    "labels": {
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/deadlock.jpg",
+    "generos": [
+      "Ação",
+      "Tiro"
+    ],
+    "palavras": [
+      "deadlock"
+    ]
   }
 ]

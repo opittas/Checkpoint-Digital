@@ -15,5 +15,743 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Experienced": {
+      "guia": {
+        "passos": [
+          "Complete 5 partidas."
+        ]
+      }
+    },
+    "Level2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 da masmorra."
+        ]
+      }
+    },
+    "Level3": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 3 da masmorra."
+        ]
+      }
+    },
+    "Level4": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 4 da masmorra."
+        ]
+      }
+    },
+    "Level5": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 5 da masmorra."
+        ]
+      }
+    },
+    "YouTubeFollower": {
+      "guia": {
+        "passos": [
+          "Clique no botão do YouTube... é, fizemos isso."
+        ]
+      }
+    },
+    "TwitchFollower": {
+      "guia": {
+        "passos": [
+          "Clique no botão da Twitch... é, fizemos isso."
+        ]
+      }
+    },
+    "NewsletterFollower": {
+      "guia": {
+        "passos": [
+          "Clique no botão da newsletter... é, fizemos isso."
+        ]
+      }
+    },
+    "StillAlive": {
+      "guia": {
+        "passos": [
+          "Termine o jogo com o Orbe do Companheiro Sem Peso."
+        ]
+      }
+    },
+    "FighterVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Guerreiro."
+        ]
+      }
+    },
+    "FighterSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Guerreiro."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "FighterNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Guerreiro."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "FighterHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Guerreiro."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "ClericVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Clérigo."
+        ]
+      }
+    },
+    "ClericSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Clérigo."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "ClericNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Clérigo."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "ClericHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Clérigo."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "RogueVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Ladino."
+        ]
+      }
+    },
+    "RogueSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Ladino."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "RogueNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Ladino."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "RogueHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Ladino."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "MageVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Mago."
+        ]
+      }
+    },
+    "MageSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Mago."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "MageNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Mago."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "MageHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Mago."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "RangerVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Patrulheiro."
+        ]
+      }
+    },
+    "RangerSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Patrulheiro."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "RangerNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Patrulheiro."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "RangerHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Patrulheiro."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "MercenaryVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Mercenário."
+        ]
+      }
+    },
+    "MercenarySpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Mercenário."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "MercenaryNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Mercenário."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "MercenaryHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Mercenário."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "BeastMasterVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Mestre das Feras."
+        ]
+      }
+    },
+    "BeastMasterSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Mestre das Feras."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "BeastMasterNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Mestre das Feras."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "BeastMasterHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Mestre das Feras."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "PaladinVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Paladino."
+        ]
+      }
+    },
+    "PaladinSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Paladino."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "PaladinNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Paladino."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "PaladinHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Paladino."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "LancerVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Lanceiro."
+        ]
+      }
+    },
+    "LancerSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Lanceiro."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "LancerNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Lanceiro."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "LancerHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Lanceiro."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "ChallengeBombCraftCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Bombas Artesanais."
+        ]
+      }
+    },
+    "ChallengePlayerVsPlayerVictory": {
+      "guia": {
+        "passos": [
+          "Fique em primeiro num desafio Jogador contra Jogador."
+        ]
+      }
+    },
+    "ChallengeEpicDungeonsCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Masmorras Épicas."
+        ]
+      }
+    },
+    "ChallengeFourBlackMagesCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Quatro Magos Negros."
+        ]
+      }
+    },
+    "ChallengeRaceAgainstTimeCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Corrida Contra o Tempo."
+        ]
+      }
+    },
+    "ChallengeFullPlateCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Armadura Completa."
+        ]
+      }
+    },
+    "AlchemistVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Alquimista."
+        ]
+      }
+    },
+    "AlchemistSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Alquimista."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "AlchemistNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Alquimista."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "AlchemistHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Alquimista."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "BardVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Bardo."
+        ]
+      }
+    },
+    "BardSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Bardo."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "BardNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Bardo."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "BardHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Bardo."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "MonkVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Monge."
+        ]
+      }
+    },
+    "MonkSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Monge."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "MonkNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Monge."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "MonkHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Monge."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "MusicRoomMystery1": {
+      "guia": {
+        "passos": [
+          "Resolva a Sala de Música."
+        ]
+      }
+    },
+    "GrenadierVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Granadeiro."
+        ]
+      }
+    },
+    "GrenadierSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Granadeiro."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "GrenadierNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Granadeiro."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "GrenadierHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Granadeiro."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "ShopkeeperVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com o Lojista."
+        ]
+      }
+    },
+    "ShopkeeperSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com o Lojista."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "ShopkeeperNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com o Lojista."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "ShopkeeperHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com o Lojista."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "CountessVictory": {
+      "guia": {
+        "passos": [
+          "Vença jogando com a Condessa."
+        ]
+      }
+    },
+    "CountessSpeedRunVictory": {
+      "guia": {
+        "passos": [
+          "Vença em menos de 20 minutos jogando com a Condessa."
+        ],
+        "dicas": [
+          "Corra pelas salas e foque nos chefes; melhor com um grupo coordenado."
+        ]
+      }
+    },
+    "CountessNoKnockdownVictory": {
+      "guia": {
+        "passos": [
+          "Vença sem ser derrubado jogando com a Condessa."
+        ],
+        "dicas": [
+          "Jogue com cuidado e evite chefes arriscados; dá para combinar com a vitória normal da classe."
+        ]
+      }
+    },
+    "CountessHardModeVictory": {
+      "guia": {
+        "passos": [
+          "Vença no Modo Difícil jogando com a Condessa."
+        ],
+        "atencao": [
+          "Modo difícil: escolha um grupo equilibrado."
+        ]
+      }
+    },
+    "ChallengeImmortalSnailCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Caracol Imortal."
+        ]
+      }
+    },
+    "ChallengeHealthPoolCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Poço de Vida."
+        ]
+      }
+    },
+    "ChallengeFearOfTheDarkCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Medo do Escuro."
+        ]
+      }
+    },
+    "ChallengeBossRunCompleted": {
+      "guia": {
+        "passos": [
+          "Vença o desafio Sequência de Chefes."
+        ]
+      }
+    },
+    "OuterRealmVictory": {
+      "guia": {
+        "passos": [
+          "Complete o Reino Exterior."
+        ]
+      }
+    },
+    "DefeatShopkeeper": {
+      "guia": {
+        "passos": [
+          "Derrote o Lojista."
+        ]
+      }
+    },
+    "DefeatCountessMalformed": {
+      "guia": {
+        "passos": [
+          "Derrote a Condessa Deformada."
+        ]
+      }
+    },
+    "DefeatCountessAscended": {
+      "guia": {
+        "passos": [
+          "Derrote a Condessa Ascendida."
+        ]
+      }
+    },
+    "RevengeClassesLeveled": {
+      "guia": {
+        "passos": [
+          "Nível 25 em todas as classes de Vingança."
+        ]
+      }
+    },
+    "RevengeComplete": {
+      "guia": {
+        "passos": [
+          "Complete A Vingança da Condessa."
+        ]
+      }
+    }
+  }
 }

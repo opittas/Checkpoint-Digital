@@ -17,5 +17,658 @@
   "avisos": [
     "Saiu da loja Steam, mas a lista continua valendo."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "Virtuoso": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os troféus."
+        ],
+        "dicas": [
+          "Aparece ao fazer as conquistas originais do jogo."
+        ]
+      }
+    },
+    "Stocked": {
+      "guia": {
+        "passos": [
+          "Colectar 150 Itens."
+        ]
+      }
+    },
+    "FarFarAway": {
+      "guia": {
+        "passos": [
+          "Dirija um total de 50 km."
+        ]
+      }
+    },
+    "SuperVictorious": {
+      "guia": {
+        "passos": [
+          "Vença um total de 30 partidas em qualquer modo de jogo."
+        ]
+      }
+    },
+    "Champion": {
+      "guia": {
+        "passos": [
+          "Vença o campeonato da temporada."
+        ],
+        "dicas": [
+          "Modo Temporada offline: jogue a temporada regular e os playoffs contra bots."
+        ]
+      }
+    },
+    "TheStreak": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas seguidas em qualquer modo de jogo."
+        ]
+      }
+    },
+    "HelensPride": {
+      "guia": {
+        "passos": [
+          "Marque 6 gols em uma única partida."
+        ]
+      }
+    },
+    "BattleCarCollector": {
+      "guia": {
+        "passos": [
+          "Obtenha 5 carros."
+        ]
+      }
+    },
+    "DropsintheBucket": {
+      "guia": {
+        "passos": [
+          "Colecione 50 itens."
+        ]
+      }
+    },
+    "Rocketeer": {
+      "guia": {
+        "passos": [
+          "Complete uma temporada normal."
+        ]
+      }
+    },
+    "GreaseMonkey": {
+      "guia": {
+        "passos": [
+          "Personalize o adesivo, acessório, impulso de foguete e roda de um carro."
+        ]
+      }
+    },
+    "PitchVeteran": {
+      "guia": {
+        "passos": [
+          "Dispute um total de 20 partidas em qualquer modo de jogo."
+        ]
+      }
+    },
+    "RidersBlock": {
+      "guia": {
+        "passos": [
+          "Faça 20 defesas."
+        ]
+      }
+    },
+    "BreakShot": {
+      "guia": {
+        "passos": [
+          "Marque um gol atingindo seu oponente na bola."
+        ]
+      }
+    },
+    "Turbocharger": {
+      "guia": {
+        "passos": [
+          "Utilize seu impulso de foguete por um total de 5 minutos."
+        ]
+      }
+    },
+    "DrillSergeant": {
+      "guia": {
+        "passos": [
+          "Complete todos os exercícios de treinamento (qualquer dificuldade)."
+        ],
+        "dicas": [
+          "Treinos clássicos (Striker, Goalie, Aerial) em qualquer dificuldade."
+        ]
+      }
+    },
+    "MinutetoWinit": {
+      "guia": {
+        "passos": [
+          "Com apenas 60 segundos restantes, ganhe uma partida que estava empatada, ou prestes a perder."
+        ]
+      }
+    },
+    "SpeedDemon": {
+      "guia": {
+        "passos": [
+          "Preencha e esvazie completamente o seu impulso de foguete 10 vezes em uma única partida."
+        ]
+      }
+    },
+    "PickMeUp": {
+      "guia": {
+        "passos": [
+          "Colecione 5 itens."
+        ]
+      }
+    },
+    "WallCrawler": {
+      "guia": {
+        "passos": [
+          "Dirija pelas paredes da arena por um total de 5 minutos."
+        ]
+      }
+    },
+    "TeamPlayer": {
+      "guia": {
+        "passos": [
+          "Jogue contra todas as equipes no modo temporada."
+        ]
+      }
+    },
+    "SARPBCForever": {
+      "guia": {
+        "passos": [
+          "Jogue um jogo com Octane e um com Backfire."
+        ]
+      }
+    },
+    "FeatherinYourRecap": {
+      "guia": {
+        "passos": [
+          "Assista a um arquivo de salvamento no modo Replay."
+        ]
+      }
+    },
+    "Winner": {
+      "guia": {
+        "passos": [
+          "Vença um total de 5 partidas em quaisquer modos de jogo."
+        ]
+      }
+    },
+    "CleanSheet": {
+      "guia": {
+        "passos": [
+          "Vença uma partida sem sua equipe sofrer gols."
+        ]
+      }
+    },
+    "TripleThreat": {
+      "guia": {
+        "passos": [
+          "Vença a uma partida 3x3."
+        ]
+      }
+    },
+    "DoubleUp": {
+      "guia": {
+        "passos": [
+          "Vença uma partida 2x2."
+        ]
+      }
+    },
+    "SinglesClub": {
+      "guia": {
+        "passos": [
+          "Vença uma partida 1x1."
+        ]
+      }
+    },
+    "PerfectStart": {
+      "guia": {
+        "passos": [
+          "Vença sua primeira partida da temporada."
+        ]
+      }
+    },
+    "StillAShowOff": {
+      "guia": {
+        "passos": [
+          "Marque um gol enquanto dirige de ré."
+        ],
+        "dicas": [
+          "Contra bots fáceis, dê ré e empurre a bola para o gol."
+        ]
+      }
+    },
+    "KnowTheDrill": {
+      "guia": {
+        "passos": [
+          "Complete um exercício de treinamento."
+        ]
+      }
+    },
+    "Traveler": {
+      "guia": {
+        "passos": [
+          "Jogue um jogo em seis arenas diferentes."
+        ]
+      }
+    },
+    "Tinkerer": {
+      "guia": {
+        "passos": [
+          "Personalize um espaço de um carro."
+        ]
+      }
+    },
+    "FirstTimer": {
+      "guia": {
+        "passos": [
+          "Marque o seu primeiro gol."
+        ]
+      }
+    },
+    "BarrasBravas": {
+      "guia": {
+        "passos": [
+          "Jogue um jogo online com alguém no seu grupo."
+        ]
+      }
+    },
+    "Friendly": {
+      "guia": {
+        "passos": [
+          "Jogue uma partida de exibição."
+        ]
+      }
+    },
+    "WinningIsWinning": {
+      "guia": {
+        "passos": [
+          "Vença um campeonato da temporada usando Dominus em todos os jogos."
+        ],
+        "dicas": [
+          "Temporada offline com Dominus; pode usar bots fáceis."
+        ]
+      }
+    },
+    "AnInchAnd62Miles": {
+      "guia": {
+        "passos": [
+          "Dirija 10 km com as rodas Vortex, Cristiano ou Spinner."
+        ]
+      }
+    },
+    "RideOrDie": {
+      "guia": {
+        "passos": [
+          "Equipe Dominus ou Takumi com qualquer adesivo, depois vença um jogo."
+        ]
+      }
+    },
+    "DontLookBack": {
+      "guia": {
+        "passos": [
+          "Use o impulso de foguete Térmico, Queima Pneu ou Nitro por um total de 10 minutos."
+        ]
+      }
+    },
+    "FamilyNotFriends": {
+      "guia": {
+        "passos": [
+          "Jogue um jogo completo com Dominus ou Takumi."
+        ]
+      }
+    },
+    "DriftKing": {
+      "guia": {
+        "passos": [
+          "Faça 180 derrapadas com Dominus ou Takumi."
+        ]
+      }
+    },
+    "SkyHigh": {
+      "guia": {
+        "passos": [
+          "Marca um golo aéreo."
+        ]
+      }
+    },
+    "AllFours": {
+      "guia": {
+        "passos": [
+          "Vence um jogo 4 v 4."
+        ]
+      }
+    },
+    "Gladiator": {
+      "guia": {
+        "passos": [
+          "Faz um jogo no Utopia Coliseum."
+        ]
+      }
+    },
+    "SurvivalOfTheFittest": {
+      "guia": {
+        "passos": [
+          "Equipe um acessório e vença uma partida de bot injusta."
+        ]
+      }
+    },
+    "Heartbreaker": {
+      "guia": {
+        "passos": [
+          "Vença um jogo contra bots ídolos com um adesivo equipado."
+        ]
+      }
+    },
+    "NaturalProgression": {
+      "guia": {
+        "passos": [
+          "Vença uma partida online com Backfire, Scarab ou Zippy."
+        ]
+      }
+    },
+    "Throwback": {
+      "guia": {
+        "passos": [
+          "Use o impulso de Accelerato ou Padrão com Octane ou Backfire jogando em Central Urbana."
+        ]
+      }
+    },
+    "HotShotPartTwo": {
+      "guia": {
+        "passos": [
+          "Seja destaque usando Backfire, Scarab ou Zippy."
+        ]
+      }
+    },
+    "MyWorldIsFire": {
+      "guia": {
+        "passos": [
+          "Equipe o impulso Lança-chamas e vença uma partida online 4x4."
+        ]
+      }
+    },
+    "Spectacular": {
+      "guia": {
+        "passos": [
+          "Com Merc ou Grog, faça 10 gols contra bots de nível profissional ou maior."
+        ],
+        "dicas": [
+          "Partida offline contra bots Pro: some os gols em várias partidas."
+        ]
+      }
+    },
+    "Savage": {
+      "guia": {
+        "passos": [
+          "Com Breakout ou Ripper, faça 10 gols contra bots de nível profissional ou maior."
+        ],
+        "dicas": [
+          "Partida offline contra bots Pro: some os gols em várias partidas."
+        ]
+      }
+    },
+    "Ruthless": {
+      "guia": {
+        "passos": [
+          "Faça um total de 50 chutes ao gol usando Merc, Grog ou Ripper."
+        ]
+      }
+    },
+    "PsychoMasterExploder": {
+      "guia": {
+        "passos": [
+          "Destrua 3 bots adversários em Wasteland."
+        ]
+      }
+    },
+    "MadScientist": {
+      "guia": {
+        "passos": [
+          "Joga um jogo completo em 3 Arenas Rocket Labs diferentes."
+        ]
+      }
+    },
+    "IcingTheCake": {
+      "guia": {
+        "passos": [
+          "No Dia da Neve marca um golo do teu lado do gelo."
+        ]
+      }
+    },
+    "LeftWingRightWing": {
+      "guia": {
+        "passos": [
+          "Ganha um jogo Dia da Neve com ambas as equipas Laranja e Azul."
+        ]
+      }
+    },
+    "FastBreak": {
+      "guia": {
+        "passos": [
+          "Marca 2 afundanços no primeiro minuto de um jogo de Cestos."
+        ]
+      }
+    },
+    "BuzzerBeater": {
+      "guia": {
+        "passos": [
+          "Ganha um jogo de Cestos, quando estás empatado ou a perder, quando faltarem 30 segundos."
+        ]
+      }
+    },
+    "BuddingArtist": {
+      "guia": {
+        "passos": [
+          "Colecciona um Item Pintado."
+        ]
+      }
+    },
+    "OneBetter": {
+      "guia": {
+        "passos": [
+          "Aumenta o nível de um item Certificado."
+        ]
+      }
+    },
+    "Certifiable": {
+      "guia": {
+        "passos": [
+          "Alcança o estatuto de Veterano para o teu Item Certificado."
+        ],
+        "atencao": [
+          "Itens Certificados dependem de inventário; o sistema de trocas mudou e alguns itens antigos são raros."
+        ]
+      }
+    },
+    "GG": {
+      "guia": {
+        "passos": [
+          "Consiga o prêmio MVP em uma partida com prorrogação."
+        ]
+      }
+    },
+    "Trifecta": {
+      "guia": {
+        "passos": [
+          "Marque um gol, faça uma defesa e dê uma assistência em um único jogo."
+        ]
+      }
+    },
+    "InfinitePower": {
+      "guia": {
+        "passos": [
+          "Ative todos os poderes no modo Rumble."
+        ]
+      }
+    },
+    "StoppedCold": {
+      "guia": {
+        "passos": [
+          "Em Rumble, congele um chute do oponente antes que ele entre no gol."
+        ]
+      }
+    },
+    "SeaTurtle": {
+      "guia": {
+        "passos": [
+          "Vá para o AquaDome e marque um gol enquanto estiver de costas."
+        ],
+        "dicas": [
+          "Em AquaDome, faça gol com o carro de cabeça para baixo; use uma partida privada."
+        ]
+      }
+    },
+    "GetUpMrBubbles": {
+      "guia": {
+        "passos": [
+          "Faça um gol aéreo jogando em AquaDome."
+        ]
+      }
+    },
+    "RocketGenocider": {
+      "guia": {
+        "passos": [
+          "Chute 535 vezes no gol."
+        ]
+      }
+    },
+    "RegisteredVoter": {
+      "guia": {
+        "passos": [
+          "Vá para as \"Preferências da Arena\" e use todos os seus votos."
+        ],
+        "dicas": [
+          "Em Preferências de Arena, use a votação/curtida de arenas."
+        ]
+      }
+    },
+    "Metaverse": {
+      "guia": {
+        "passos": [
+          "Equipe o impulso de foguete Íon ou o acessório \"Halo\" e vença uma partida em Starbase ARC."
+        ]
+      }
+    },
+    "BraveTheElements": {
+      "guia": {
+        "passos": [
+          "Complete uma partida em terras devastadas, no fundo do mar e no espaço."
+        ],
+        "dicas": [
+          "Jogue partidas em Wasteland com chuva/neve/noite; use partida privada para escolher."
+        ]
+      }
+    },
+    "DamageControl": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de \"Chute em queda\" impedindo o adversário de marcar."
+        ]
+      }
+    },
+    "FullCourse": {
+      "guia": {
+        "passos": [
+          "Marque um total de 18 gols em \"Chute em queda\"."
+        ]
+      }
+    },
+    "BuckministerX10": {
+      "guia": {
+        "passos": [
+          "Cause dano em um total de 320 painéis em \"Chute em queda\"."
+        ]
+      }
+    },
+    "StormTrooper": {
+      "guia": {
+        "passos": [
+          "Instale um item deluxe e conclua uma partida em uma arena com clima turbulento."
+        ]
+      }
+    },
+    "GoodTimes": {
+      "guia": {
+        "passos": [
+          "Conclua uma partida online no Campo dos Campeões."
+        ]
+      }
+    },
+    "NewProfileWhoThis": {
+      "guia": {
+        "passos": [
+          "Mude sua faixa do jogador, borda do avatar e título do jogador."
+        ]
+      }
+    },
+    "TradeSecret": {
+      "guia": {
+        "passos": [
+          "Troque internamente 5 itens da mesma qualidade para receber outro da qualidade seguinte."
+        ],
+        "atencao": [
+          "O sistema de Trade-In foi removido em atualizações; pode não ser mais obtível."
+        ]
+      }
+    },
+    "RankUp": {
+      "guia": {
+        "passos": [
+          "Conclua todas as partidas de classificação em qualquer lista de partidas competitivas."
+        ]
+      }
+    },
+    "ComingOnStrong": {
+      "guia": {
+        "passos": [
+          "Faça ou dê assistência para 30 gols em partidas online casuais ou competitivas."
+        ]
+      }
+    },
+    "JointheClub": {
+      "guia": {
+        "passos": [
+          "Crie ou entre para um clube do Rocket League."
+        ]
+      }
+    },
+    "TogetherisBetter": {
+      "guia": {
+        "passos": [
+          "Jogue e complete uma partida online com um ou mais colegas de clube."
+        ]
+      }
+    },
+    "NewChallenger": {
+      "guia": {
+        "passos": [
+          "Jogue e complete uma partida de torneio online."
+        ]
+      }
+    },
+    "PeoplePerson": {
+      "guia": {
+        "passos": [
+          "Jogue e complete 10 partidas online com um ou mais colegas de clube."
+        ]
+      }
+    },
+    "SquadGoals": {
+      "guia": {
+        "passos": [
+          "Score a Goal while in a Club Match (Online Matchmaking only)."
+        ]
+      }
+    },
+    "BestoftheBunch": {
+      "guia": {
+        "passos": [
+          "Marque um gol em uma Partida de Clube (apenas emparelhamento online)."
+        ]
+      }
+    }
+  }
 }

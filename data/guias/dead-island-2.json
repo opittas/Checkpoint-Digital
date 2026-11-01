@@ -1,6 +1,23 @@
 {
-  "resumo": "",
-  "roadmap": [],
+  "resumo": "Ação em primeira pessoa contra zumbis em Los Angeles. Conquistas vêm da história, missões secundárias, desafios, NG+ e DLCs (Haus e SoLA).",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine a campanha fazendo missões secundárias pelo caminho."
+    },
+    {
+      "titulo": "2. Desafios",
+      "texto": "Complete o primeiro nível de cada categoria de desafio."
+    },
+    {
+      "titulo": "3. NG+",
+      "texto": "Refaça a história no New Game+ e derrote os Revenants."
+    },
+    {
+      "titulo": "4. DLCs",
+      "texto": "Haus e SoLA têm conquistas próprias."
+    }
+  ],
   "avisos": [],
   "conquistas": {
     "ach_welcome_to_hell_a": {

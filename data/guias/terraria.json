@@ -19,5 +19,1004 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "TIMBER": {
+      "guia": {
+        "passos": [
+          "Corte sua primeira árvore."
+        ]
+      }
+    },
+    "NO_HOBO": {
+      "guia": {
+        "passos": [
+          "Construa uma casa boa o bastante para seu primeiro NPC da cidade, como o guia, se mudar."
+        ]
+      }
+    },
+    "OBTAIN_HAMMER": {
+      "guia": {
+        "passos": [
+          "Consiga seu primeiro martelo, fabricando ou de outro jeito."
+        ]
+      }
+    },
+    "OOO_SHINY": {
+      "guia": {
+        "passos": [
+          "Minere sua primeira pepita de minério com uma picareta."
+        ]
+      }
+    },
+    "HEART_BREAKER": {
+      "guia": {
+        "passos": [
+          "Encontre e quebre seu primeiro cristal de coração no subterrâneo."
+        ]
+      }
+    },
+    "HEAVY_METAL": {
+      "guia": {
+        "passos": [
+          "Consiga uma bigorna de ferro ou chumbo."
+        ]
+      }
+    },
+    "I_AM_LOOT": {
+      "guia": {
+        "passos": [
+          "Encontre um baú dourado no subterrâneo e dê uma olhada no conteúdo."
+        ]
+      }
+    },
+    "STAR_POWER": {
+      "guia": {
+        "passos": [
+          "Fabrique um cristal de mana com estrelas cadentes e consuma-o."
+        ]
+      }
+    },
+    "HOLD_ON_TIGHT": {
+      "guia": {
+        "passos": [
+          "Equipe seu primeiro gancho."
+        ]
+      }
+    },
+    "EYE_ON_YOU": {
+      "guia": {
+        "passos": [
+          "Derrote o Olho de Cthulhu, uma ameaça ocular que só aparece à noite."
+        ]
+      }
+    },
+    "SMASHING_POPPET": {
+      "guia": {
+        "passos": [
+          "Com explosivos ou seu fiel martelo, quebre um Orbe Sombrio ou Coração Carmesim nas partes malignas do mundo."
+        ]
+      }
+    },
+    "WORM_FODDER": {
+      "guia": {
+        "passos": [
+          "Derrote o Devorador de Mundos, um verme enorme que vive na Corrupção."
+        ]
+      }
+    },
+    "MASTERMIND": {
+      "guia": {
+        "passos": [
+          "Derrote o Cérebro de Cthulhu, um enorme cérebro demoníaco que assombra o Carmim."
+        ]
+      }
+    },
+    "WHERES_MY_HONEY": {
+      "guia": {
+        "passos": [
+          "Encontre uma grande colmeia nas profundezas da selva."
+        ]
+      }
+    },
+    "STING_OPERATION": {
+      "guia": {
+        "passos": [
+          "Derrote a Abelha Rainha, matriarca das colmeias da selva."
+        ]
+      }
+    },
+    "BONED": {
+      "guia": {
+        "passos": [
+          "Derrote o Esqueletron, guardião amaldiçoado da masmorra."
+        ]
+      }
+    },
+    "DUNGEON_HEIST": {
+      "guia": {
+        "passos": [
+          "Roube uma chave dos mortos-vivos da masmorra e abra um de seus preciosos baús dourados."
+        ]
+      }
+    },
+    "ITS_GETTING_HOT_IN_HERE": {
+      "guia": {
+        "passos": [
+          "Desça fundo o bastante para chegar ao submundo derretido."
+        ]
+      }
+    },
+    "MINER_FOR_FIRE": {
+      "guia": {
+        "passos": [
+          "Fabrique uma picareta derretida com os materiais mais quentes."
+        ]
+      }
+    },
+    "STILL_HUNGRY": {
+      "guia": {
+        "passos": [
+          "Derrote a Parede de Carne, mestre e núcleo do mundo, que surge depois de um grande sacrifício em chamas."
+        ]
+      }
+    },
+    "ITS_HARD": {
+      "guia": {
+        "passos": [
+          "Liberte os espíritos antigos da luz e das trevas pelo mundo, trazendo inimigos muito mais fortes e tesouros deslumbrantes (e arco-íris!)."
+        ]
+      }
+    },
+    "BEGONE_EVIL": {
+      "guia": {
+        "passos": [
+          "Quebre um altar demoníaco ou carmesim com um martelo sagrado poderoso."
+        ]
+      }
+    },
+    "EXTRA_SHINY": {
+      "guia": {
+        "passos": [
+          "Minere um minério poderoso que acabou de abençoar seu mundo."
+        ]
+      }
+    },
+    "HEAD_IN_THE_CLOUDS": {
+      "guia": {
+        "passos": [
+          "Equipe um par de asas."
+        ]
+      }
+    },
+    "LIKE_A_BOSS": {
+      "guia": {
+        "passos": [
+          "Consiga um item de invocar chefe."
+        ]
+      }
+    },
+    "BUCKETS_OF_BOLTS": {
+      "guia": {
+        "passos": [
+          "Derrote as três ameaças mecânicas noturnas: os Gêmeos, o Destruidor e o Esqueletron Primordial."
+        ]
+      }
+    },
+    "DRAX_ATTAX": {
+      "guia": {
+        "passos": [
+          "Fabrique um drax ou picareta-machado com barras consagradas e as almas dos três chefes mecânicos."
+        ]
+      }
+    },
+    "PHOTOSYNTHESIS": {
+      "guia": {
+        "passos": [
+          "Minere clorofita, um minério orgânico encontrado no meio da vegetação mais densa."
+        ]
+      }
+    },
+    "GET_A_LIFE": {
+      "guia": {
+        "passos": [
+          "Consuma uma fruta da vida, que cresce na grama da selva subterrânea."
+        ]
+      }
+    },
+    "THE_GREAT_SOUTHERN_PLANTKILL": {
+      "guia": {
+        "passos": [
+          "Derrote a Plantera, a monstruosidade crescida das profundezas da selva."
+        ]
+      }
+    },
+    "TEMPLE_RAIDER": {
+      "guia": {
+        "passos": [
+          "Atravesse as paredes impenetráveis do templo da selva."
+        ]
+      }
+    },
+    "LIHZAHRDIAN_IDOL": {
+      "guia": {
+        "passos": [
+          "Derrote o Golem, o ídolo ritualístico de pedra da tribo lagharto."
+        ]
+      }
+    },
+    "ROBBING_THE_GRAVE": {
+      "guia": {
+        "passos": [
+          "Consiga um tesouro raro de um monstro difícil da masmorra."
+        ]
+      }
+    },
+    "BIG_BOOTY": {
+      "guia": {
+        "passos": [
+          "Abra um dos baús grandes e misteriosos da masmorra com uma chave especial."
+        ]
+      }
+    },
+    "FISH_OUT_OF_WATER": {
+      "guia": {
+        "passos": [
+          "Derrote o Duque Peixe-Dragão, o terror mutante dos mares."
+        ]
+      }
+    },
+    "OBSESSIVE_DEVOTION": {
+      "guia": {
+        "passos": [
+          "Derrote o Cultista Antigo, líder fanático do culto da masmorra."
+        ]
+      }
+    },
+    "STAR_DESTROYER": {
+      "guia": {
+        "passos": [
+          "Derrote as quatro torres celestiais da lua."
+        ]
+      }
+    },
+    "CHAMPION_OF_TERRARIA": {
+      "guia": {
+        "passos": [
+          "Derrote o Senhor da Lua."
+        ]
+      }
+    },
+    "BLOODBATH": {
+      "guia": {
+        "passos": [
+          "Sobreviva a uma lua de sangue, evento noturno em que os rios ficam vermelhos e os monstros se multiplicam."
+        ]
+      }
+    },
+    "SLIPPERY_SHINOBI": {
+      "guia": {
+        "passos": [
+          "Derrote o Rei Slime, senhor de todas as coisas gosmentas."
+        ]
+      }
+    },
+    "GOBLIN_PUNTER": {
+      "guia": {
+        "passos": [
+          "Vença uma invasão goblin, um regimento bagunçado de guerreiros bárbaros de orelhas pontudas e seus feiticeiros."
+        ]
+      }
+    },
+    "WALK_THE_PLANK": {
+      "guia": {
+        "passos": [
+          "Vença uma invasão pirata, um grupo de saqueadores do mar atrás do seu tesouro... e da sua vida!"
+        ]
+      }
+    },
+    "KILL_THE_SUN": {
+      "guia": {
+        "passos": [
+          "Sobreviva a um eclipse solar, um dia mais escuro que a noite cheio de criaturas de terror."
+        ]
+      }
+    },
+    "DO_YOU_WANT_TO_SLAY_A_SNOWMAN": {
+      "guia": {
+        "passos": [
+          "Vença a Legião Gélida, uma família festiva de bonecos de neve mafiosos."
+        ]
+      }
+    },
+    "TIN_FOIL_HATTER": {
+      "guia": {
+        "passos": [
+          "Vença uma invasão marciana, quando seres de outro mundo vêm bagunçar seu cérebro."
+        ]
+      }
+    },
+    "BALEFUL_HARVEST": {
+      "guia": {
+        "passos": [
+          "Chegue à 15ª onda de uma lua de abóbora, onde o mal se esconde na colheita de outono."
+        ]
+      }
+    },
+    "ICE_SCREAM": {
+      "guia": {
+        "passos": [
+          "Chegue à 15ª onda de uma lua gélida, onde as festas de fim de ano viram loucura."
+        ]
+      }
+    },
+    "STICKY_SITUATION": {
+      "guia": {
+        "passos": [
+          "Sobreviva à chuva de slime, quando organismos gelatinosos caem do céu aos montes."
+        ]
+      }
+    },
+    "REAL_ESTATE_AGENT": {
+      "guia": {
+        "passos": [
+          "Tenha todos os NPCs de cidade possíveis morando no seu mundo."
+        ],
+        "dicas": [
+          "Tenha todos os NPCs da cidade vivendo ao mesmo tempo."
+        ]
+      }
+    },
+    "NOT_THE_BEES": {
+      "guia": {
+        "passos": [
+          "Dispare uma Arma de Abelhas usando a Armadura de Abelha completa."
+        ]
+      }
+    },
+    "JEEPERS_CREEPERS": {
+      "guia": {
+        "passos": [
+          "Tropece numa caverna de aranhas no subterrâneo."
+        ]
+      }
+    },
+    "FUNKYTOWN": {
+      "guia": {
+        "passos": [
+          "Construa ou encontre um campo de cogumelos brilhantes na superfície."
+        ]
+      }
+    },
+    "INTO_ORBIT": {
+      "guia": {
+        "passos": [
+          "Daqui só dá para descer!"
+        ]
+      }
+    },
+    "ROCK_BOTTOM": {
+      "guia": {
+        "passos": [
+          "Daqui só dá para subir!"
+        ]
+      }
+    },
+    "MECHA_MAYHEM": {
+      "guia": {
+        "passos": [
+          "Enfrente os Gêmeos, o Destruidor e o Esqueletron Primordial ao mesmo tempo e saia vitorioso."
+        ]
+      }
+    },
+    "GELATIN_WORLD_TOUR": {
+      "guia": {
+        "passos": [
+          "Derrote todos os tipos de slime que existem!"
+        ]
+      }
+    },
+    "FASHION_STATEMENT": {
+      "guia": {
+        "passos": [
+          "Equipe armadura ou roupas de vaidade nos três espaços sociais."
+        ]
+      }
+    },
+    "VEHICULAR_MANSLAUGHTER": {
+      "guia": {
+        "passos": [
+          "Derrote um inimigo atropelando-o com um carrinho de mina."
+        ]
+      }
+    },
+    "BULLDOZER": {
+      "guia": {
+        "passos": [
+          "Destrua um total de 10.000 blocos."
+        ]
+      }
+    },
+    "THERE_ARE_SOME_WHO_CALL_HIM": {
+      "guia": {
+        "passos": [
+          "Mate o Tim."
+        ]
+      }
+    },
+    "DECEIVER_OF_FOOLS": {
+      "guia": {
+        "passos": [
+          "Mate uma ninfa."
+        ]
+      }
+    },
+    "SWORD_OF_THE_HERO": {
+      "guia": {
+        "passos": [
+          "Consiga uma Lâmina Terra, forjada com as melhores lâminas de luz e trevas."
+        ]
+      }
+    },
+    "LUCKY_BREAK": {
+      "guia": {
+        "passos": [
+          "Sobreviva a uma queda longa com quase nada de vida."
+        ]
+      }
+    },
+    "THROWING_LINES": {
+      "guia": {
+        "passos": [
+          "Jogue um ioiô."
+        ]
+      }
+    },
+    "DYE_HARD": {
+      "guia": {
+        "passos": [
+          "Equipe uma tintura em todos os espaços de tintura possíveis."
+        ]
+      }
+    },
+    "SICK_THROW": {
+      "guia": {
+        "passos": [
+          "Consiga o Terrariano."
+        ]
+      }
+    },
+    "FREQUENT_FLYER": {
+      "guia": {
+        "passos": [
+          "Gaste mais de 1 ouro sendo tratado pela enfermeira."
+        ]
+      }
+    },
+    "THE_CAVALRY": {
+      "guia": {
+        "passos": [
+          "Equipe uma montaria."
+        ]
+      }
+    },
+    "COMPLETELY_AWESOME": {
+      "guia": {
+        "passos": [
+          "Consiga um minitubarão."
+        ]
+      }
+    },
+    "TIL_DEATH": {
+      "guia": {
+        "passos": [
+          "Mate o noivo."
+        ]
+      }
+    },
+    "ARCHAEOLOGIST": {
+      "guia": {
+        "passos": [
+          "Mate o Doutor Ossos."
+        ]
+      }
+    },
+    "PRETTY_IN_PINK": {
+      "guia": {
+        "passos": [
+          "Mate a Pinky."
+        ]
+      }
+    },
+    "RAINBOWS_AND_UNICORNS": {
+      "guia": {
+        "passos": [
+          "Dispare uma arma de arco-íris montado num unicórnio."
+        ]
+      }
+    },
+    "YOU_AND_WHAT_ARMY": {
+      "guia": {
+        "passos": [
+          "Comande nove lacaios invocados ao mesmo tempo."
+        ]
+      }
+    },
+    "PRISMANCER": {
+      "guia": {
+        "passos": [
+          "Consiga um bastão de arco-íris."
+        ]
+      }
+    },
+    "IT_CAN_TALK": {
+      "guia": {
+        "passos": [
+          "Construa uma casa num bioma de cogumelos e faça o Trufa se mudar."
+        ]
+      }
+    },
+    "WATCH_YOUR_STEP": {
+      "guia": {
+        "passos": [
+          "Caia numa armadilha subterrânea."
+        ]
+      }
+    },
+    "MARATHON_MEDALIST": {
+      "guia": {
+        "passos": [
+          "Percorra 42,2 km a pé."
+        ]
+      }
+    },
+    "GLORIOUS_GOLDEN_POLE": {
+      "guia": {
+        "passos": [
+          "Consiga uma vara de pescar dourada."
+        ]
+      }
+    },
+    "SERVANT_IN_TRAINING": {
+      "guia": {
+        "passos": [
+          "Complete sua 1ª missão para o pescador."
+        ]
+      }
+    },
+    "GOOD_LITTLE_SLAVE": {
+      "guia": {
+        "passos": [
+          "Complete sua 10ª missão para o pescador."
+        ]
+      }
+    },
+    "TROUT_MONKEY": {
+      "guia": {
+        "passos": [
+          "Complete sua 25ª missão para o pescador."
+        ]
+      }
+    },
+    "FAST_AND_FISHIOUS": {
+      "guia": {
+        "passos": [
+          "Complete sua 50ª missão para o pescador."
+        ]
+      }
+    },
+    "SUPREME_HELPER_MINION": {
+      "guia": {
+        "passos": [
+          "Complete 200 missões no total para o pescador."
+        ]
+      }
+    },
+    "TOPPED_OFF": {
+      "guia": {
+        "passos": [
+          "Chegue ao máximo de vida e mana possível sem acessórios ou bônus."
+        ]
+      }
+    },
+    "SLAYER_OF_WORLDS": {
+      "guia": {
+        "passos": [
+          "Derrote todos os chefes de Terraria."
+        ],
+        "dicas": [
+          "Inclui todos os chefes do jogo; faça num mundo Expert/Master se quiser economizar tempo depois."
+        ]
+      }
+    },
+    "YOU_CAN_DO_IT": {
+      "guia": {
+        "passos": [
+          "Sobreviva à primeira noite inteira do seu personagem."
+        ]
+      }
+    },
+    "MATCHING_ATTIRE": {
+      "guia": {
+        "passos": [
+          "Equipe armadura nos três espaços: cabeça, peito e pés."
+        ]
+      }
+    },
+    "BENCHED": {
+      "guia": {
+        "passos": [
+          "Fabrique sua primeira bancada."
+        ]
+      }
+    },
+    "DEFEAT_EMPRESS_OF_LIGHT": {
+      "guia": {
+        "passos": [
+          "Derrote a Imperatriz da Luz, responsável por todas aquelas luzes e brilhos."
+        ]
+      }
+    },
+    "DEFEAT_QUEEN_SLIME": {
+      "guia": {
+        "passos": [
+          "Derrote a Rainha Slime e dê o golpe final na soberana de tudo que balança."
+        ]
+      }
+    },
+    "DEFEAT_DREADNAUTILUS": {
+      "guia": {
+        "passos": [
+          "Derrote o Dreadnautilus, molusco assassino que espreita sob os mares de sangue."
+        ]
+      }
+    },
+    "DEFEAT_OLD_ONES_ARMY_TIER3": {
+      "guia": {
+        "passos": [
+          "Repila as forças mais fortes que o Exército do Antigo consegue reunir."
+        ]
+      }
+    },
+    "GET_ZENITH": {
+      "guia": {
+        "passos": [
+          "Consiga a Zênite, o ápice de uma jornada forjado na espada definitiva."
+        ],
+        "dicas": [
+          "A Zenith é feita com várias espadas de todas as fases do jogo; consulte a receita no guia do jogo."
+        ]
+      }
+    },
+    "GET_TERRASPARK_BOOTS": {
+      "guia": {
+        "passos": [
+          "Consiga as Botas Terrafagulha, forjadas com as melhores botas de fogo e gelo."
+        ]
+      }
+    },
+    "FLY_A_KITE_ON_A_WINDY_DAY": {
+      "guia": {
+        "passos": [
+          "Empine uma pipa num dia de vento."
+        ]
+      }
+    },
+    "FOUND_GRAVEYARD": {
+      "guia": {
+        "passos": [
+          "Entre num cemitério enevoado cheio de mortos mal-humorados."
+        ]
+      }
+    },
+    "GO_LAVA_FISHING": {
+      "guia": {
+        "passos": [
+          "Jogue a isca numa poça de lava para uma pesca já frita!"
+        ]
+      }
+    },
+    "TURN_GNOME_TO_STATUE": {
+      "guia": {
+        "passos": [
+          "Engane um gnomo para ele virar pedra!"
+        ]
+      }
+    },
+    "TALK_TO_NPC_AT_MAX_HAPPINESS": {
+      "guia": {
+        "passos": [
+          "Encontre um inquilino que esteja o mais feliz possível!"
+        ]
+      }
+    },
+    "PET_THE_PET": {
+      "guia": {
+        "passos": [
+          "Faça carinho no pet da cidade."
+        ]
+      }
+    },
+    "FIND_A_FAIRY": {
+      "guia": {
+        "passos": [
+          "Encontre uma fada."
+        ]
+      }
+    },
+    "THROW_A_PARTY": {
+      "guia": {
+        "passos": [
+          "Não importa o que você está comemorando, dê logo uma festa!"
+        ]
+      }
+    },
+    "DIE_TO_DEAD_MANS_CHEST": {
+      "guia": {
+        "passos": [
+          "Você estava tão preocupado se conseguia abrir o baú que nem parou para pensar se devia."
+        ]
+      }
+    },
+    "DEFEAT_DEERCLOPS": {
+      "guia": {
+        "passos": [
+          "Derrote o Deerclops, a monstruosidade gelada de um olho só vinda de outra terra."
+        ]
+      }
+    },
+    "GET_GOLDEN_DELIGHT": {
+      "guia": {
+        "passos": [
+          "Consiga o Deleite Dourado, a refeição da mais alta qualidade feita com os mais altos... ingredientes."
+        ]
+      }
+    },
+    "DRINK_BOTTLED_WATER_WHILE_DROWNING": {
+      "guia": {
+        "passos": [
+          "Adie a morte por afogamento bebendo água. Não faz muito sentido, mas você fez o que precisava."
+        ]
+      }
+    },
+    "GET_CELL_PHONE": {
+      "guia": {
+        "passos": [
+          "Consiga o Celular. Você nunca mais vai sair de casa sem ele."
+        ],
+        "dicas": [
+          "O Cell Phone combina vários itens de informação no Tinkerer's Workshop."
+        ]
+      }
+    },
+    "GET_ANKH_SHIELD": {
+      "guia": {
+        "passos": [
+          "Consiga o Escudo Ankh, a melhor proteção contra doenças e males desagradáveis."
+        ],
+        "dicas": [
+          "Combina vários acessórios de imunidade; consulte a árvore de crafting."
+        ]
+      }
+    },
+    "GAIN_TORCH_GODS_FAVOR": {
+      "guia": {
+        "passos": [
+          "Despertou a ira do Deus das Tochas e sobreviveu o bastante para ganhar sua bênção."
+        ],
+        "dicas": [
+          "Coloque mais de 100 tochas perto umas das outras para invocar o evento do Deus das Tochas."
+        ]
+      }
+    },
+    "PLAY_ON_A_SPECIAL_SEED": {
+      "guia": {
+        "passos": [
+          "Algumas sementes muito especiais levam a experiências únicas. Consegue achar uma?"
+        ],
+        "dicas": [
+          "Crie um mundo com uma seed secreta (ex.: 'for the worthy', 'not the bees')."
+        ]
+      }
+    },
+    "ALL_TOWN_SLIMES": {
+      "guia": {
+        "passos": [
+          "Encontre todos os pets slime e faça eles se mudarem!"
+        ],
+        "dicas": [
+          "Os slimes da cidade aparecem com itens/condições específicas; consulte a lista."
+        ]
+      }
+    },
+    "TRANSMUTE_ITEM": {
+      "guia": {
+        "passos": [
+          "Transmute um item em outro com o Brilho. Que outras transmutações você consegue achar?"
+        ]
+      }
+    },
+    "PURIFY_ENTIRE_WORLD": {
+      "guia": {
+        "passos": [
+          "Purifique totalmente a Corrupção, o Carmim e o Consagrado do seu mundo, até a Dríade ficar satisfeita!"
+        ],
+        "dicas": [
+          "Use o Clentaminator para remover toda a Corrupção/Carmesim/Hallow do mundo."
+        ]
+      }
+    },
+    "TO_INFINITY_AND_BEYOND": {
+      "guia": {
+        "passos": [
+          "Voe com um Kwad Racer até o espaço."
+        ]
+      }
+    },
+    "BOOK_WORM": {
+      "guia": {
+        "passos": [
+          "Catalogue todas as criaturas do mundo."
+        ],
+        "dicas": [
+          "Bestiário completo: mate/encontre todas as criaturas, incluindo eventos e NPCs raros."
+        ]
+      }
+    },
+    "BOULDER_LORD": {
+      "guia": {
+        "passos": [
+          "Prove seu valor contra o pior do Senhor da Lua."
+        ]
+      }
+    },
+    "QUEEN_MACHINE": {
+      "guia": {
+        "passos": [
+          "Derrotou a forma combinada dos 3 gigantes mecânicos."
+        ]
+      }
+    },
+    "ROLLIN_IN_YOUR_GRAVE": {
+      "guia": {
+        "passos": [
+          "Dê uma volta no seu lugar de descanso final."
+        ]
+      }
+    },
+    "FEAR_THE_SUN": {
+      "guia": {
+        "passos": [
+          "Vista a roupa de vampiro e pegue uma queimadura de sol."
+        ]
+      }
+    },
+    "ITS_SHALING_OUTSIDE": {
+      "guia": {
+        "passos": [
+          "Sobreviva à temida chuva de pedregulhos."
+        ]
+      }
+    },
+    "EXTRA_LIFE": {
+      "guia": {
+        "passos": [
+          "Morra com um personagem hardcore e sobreviva para contar a história."
+        ],
+        "dicas": [
+          "Conquista de personagem Hardcore; leia a descrição completa no jogo antes de tentar."
+        ]
+      }
+    },
+    "GRAVE_MISTAKE": {
+      "guia": {
+        "passos": [
+          "Mate um amigo \"sem querer\" com sua lápide."
+        ]
+      }
+    },
+    "SPICY_LICKS": {
+      "guia": {
+        "passos": [
+          "Toque um som num instrumento de seis cordas."
+        ]
+      }
+    },
+    "ORGANIZED_CHAOS": {
+      "guia": {
+        "passos": [
+          "Encontre o raríssimo Bastão da Discórdia."
+        ],
+        "dicas": [
+          "A Rod of Harmony é obtida transformando a Rod of Discord no Shimmer (após Moon Lord)."
+        ]
+      }
+    },
+    "ON_FLEEK": {
+      "guia": {
+        "passos": [
+          "Veja o sol num dia \"descolado\"."
+        ]
+      }
+    },
+    "FORTUNE_FAVORS_THE_BOULD": {
+      "guia": {
+        "passos": [
+          "Descubra um pedregulho amigável."
+        ]
+      }
+    },
+    "TRAINING_DAY": {
+      "guia": {
+        "passos": [
+          "Deixe seus moradores totalmente prontos para combate."
+        ]
+      }
+    },
+    "MINI_ME": {
+      "guia": {
+        "passos": [
+          "Vire um imitador do Senhor da Lua."
+        ]
+      }
+    },
+    "TERRARIST": {
+      "guia": {
+        "passos": [
+          "Assuste seus moradores com uma espada de percevejo fedorento."
+        ]
+      }
+    },
+    "NEW_DIGS": {
+      "guia": {
+        "passos": [
+          "Dê um visual novo a qualquer morador."
+        ]
+      }
+    },
+    "MY_PEOPLE_NEED_ME": {
+      "guia": {
+        "passos": [
+          "Embarque numa viagem só de ida para o espaço."
+        ]
+      }
+    },
+    "GOING_OLDSCHOOL": {
+      "guia": {
+        "passos": [
+          "Traga de volta a tela de título original."
+        ],
+        "dicas": [
+          "Ative o pacote de texturas clássico (Terraria antigo) no menu de recursos."
+        ]
+      }
+    },
+    "SEA_YOU_LATER": {
+      "guia": {
+        "passos": [
+          "Fabrique a melhoria final do Celular."
+        ]
+      }
+    },
+    "TRASH_COMPACTOR": {
+      "guia": {
+        "passos": [
+          "Pesquise 50% de todos os itens no Modo Jornada."
+        ]
+      }
+    },
+    "CONSERVATIONIST": {
+      "guia": {
+        "passos": [
+          "Apoie a extração sustentável plantando 100 bolotas."
+        ]
+      }
+    },
+    "INTERDIMENSIONAL_RECYCLING": {
+      "guia": {
+        "passos": [
+          "Dê uma lata de Joja Cola para a Dríade."
+        ]
+      }
+    }
+  }
 }

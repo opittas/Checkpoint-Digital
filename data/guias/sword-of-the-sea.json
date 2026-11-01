@@ -1,6 +1,15 @@
 {
-  "resumo": "",
-  "roadmap": [],
+  "resumo": "Aventura curta de exploração e surfe. Conquistas de história e exploração, a maioria fácil.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine a jornada principal."
+    },
+    {
+      "titulo": "2. Exploração",
+      "texto": "Volte às áreas para coletáveis e conquistas restantes."
+    }
+  ],
   "avisos": [],
   "conquistas": {
     "Achievement000": {

@@ -1,6 +1,23 @@
 {
-  "resumo": "",
-  "roadmap": [],
+  "resumo": "RPG de ação. A maioria das conquistas sai na primeira jogada; o resto pede Chapter Select, dificuldade Hard e o DLC INTERmission.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Termine os 18 capítulos fazendo as missões secundárias e minijogos."
+    },
+    {
+      "titulo": "2. Chapter Select",
+      "texto": "Volte para buscar roupas de noiva, discos de música e missões perdidas."
+    },
+    {
+      "titulo": "3. Hard",
+      "texto": "Jogue os capítulos em Hard (sem itens) e derrote os chefes do Chadley."
+    },
+    {
+      "titulo": "4. INTERmission",
+      "texto": "Jogue o DLC da Yuffie, incluindo Fort Condor e o chefe Weiss."
+    }
+  ],
   "avisos": [],
   "conquistas": {
     "ACH_00": {

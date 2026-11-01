@@ -11,5 +11,1276 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_BOULDER_OF_DEATH": {
+      "guia": {
+        "passos": [
+          "Entre na festa com a Pedra da Morte."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_WALKER_S1": {
+      "guia": {
+        "passos": [
+          "Encontre a estátua de Sanctum 1 Walker."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_WALKER_S2": {
+      "guia": {
+        "passos": [
+          "Encontre a estátua de Sanctum 2 Walker."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_FINALLY": {
+      "guia": {
+        "passos": [
+          "Torne-se mestre da torre de cabra."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GOAT_OF_THE_HILL": {
+      "guia": {
+        "passos": [
+          "Tudo o que a luz toca é seu reino."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GOATHENGE": {
+      "guia": {
+        "passos": [
+          "Açoite o Cabrahenge."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_DEVILGOAT": {
+      "guia": {
+        "passos": [
+          "Somos nosso próprio mal e fazemos deste mundo nosso inferno."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ANGELGOAT": {
+      "guia": {
+        "passos": [
+          "Não faça nenhum mal."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALLTRAMPOLINES": {
+      "guia": {
+        "passos": [
+          "Passe por 5 camas elásticas num só salto, quicando uma vez em cada."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_SANCTUMSACRIFICE": {
+      "guia": {
+        "passos": [
+          "Sacrifique os 3 itens Sanctum."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CRASH": {
+      "guia": {
+        "passos": [
+          "Opa, parece que o jogo quebrou."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_FLAPPY_GOAT_TEN": {
+      "guia": {
+        "passos": [
+          "Marque 10 pontos no Flappy Cabra."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TEN_FLIPS": {
+      "guia": {
+        "passos": [
+          "Faça 10 front flips em um truque."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_NPC_TREADMILL": {
+      "guia": {
+        "passos": [
+          "Arraste uma pessoa para a esteira com sua língua."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_RYMDSKEPP": {
+      "guia": {
+        "passos": [
+          "Viaje para o espaço!"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALL_COLLECTIBLES": {
+      "guia": {
+        "passos": [
+          "Encontre todos os troféus em Goat Ville!"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_RIPPED_GOAT": {
+      "guia": {
+        "passos": [
+          "Ganhe a disputa pelo título!"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GOAT_QUEEN": {
+      "guia": {
+        "passos": [
+          "Torne-se a Rainha de Goat Ville."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MATTRESS_MADNESS": {
+      "guia": {
+        "passos": [
+          "Quique 100 vezes em colchões em 30 segundos."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MILE_HIGH_CLUB": {
+      "guia": {
+        "passos": [
+          "Lamba a asa-delta."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_DODGE_THIS": {
+      "guia": {
+        "passos": [
+          "Garanta que Hillbilly nunca mais dirija."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_KICK_BACKFLIP": {
+      "guia": {
+        "passos": [
+          "Chute algo no ar fazendo um backflip."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MAX_MLG": {
+      "guia": {
+        "passos": [
+          "Bata o balde em uma pessoa."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_POWERHOOF": {
+      "guia": {
+        "passos": [
+          "Chute uma pessoa para dentro de um carro."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_DEMOGOAT": {
+      "guia": {
+        "passos": [
+          "Faça 10 galões de gasolina explodirem ao mesmo tempo."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_JOHNNY": {
+      "guia": {
+        "passos": [
+          "Manuseie um machado com sua língua."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MAGE_FAVO": {
+      "guia": {
+        "passos": [
+          "Queime pessoas de longe."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GOATFALL": {
+      "guia": {
+        "passos": [
+          "Termine todas as missões wallrun."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TONYGOAT": {
+      "guia": {
+        "passos": [
+          "Termine todas as missões manuais."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TORNADO_GOAT": {
+      "guia": {
+        "passos": [
+          "Pinte com todas as cores do vento."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_DEADGOA7": {
+      "guia": {
+        "passos": [
+          "Dê seu próprio show."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_REPULSIVE_GOAT": {
+      "guia": {
+        "passos": [
+          "Por que você pisou nisso? Eca."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_HITCHHIKER": {
+      "guia": {
+        "passos": [
+          "sério."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_SUGAR_LORD": {
+      "guia": {
+        "passos": [
+          "Dirija o barco durante uma corrida de açúcar."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BUILDER_GOAT": {
+      "guia": {
+        "passos": [
+          "Encontre todos os blocos."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GOAT_BUILT": {
+      "guia": {
+        "passos": [
+          "Suba no alto do percurso de obstáculos do Parkour."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_HAT_SIMULATOR": {
+      "guia": {
+        "passos": [
+          "Compre todos os chapéus."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ASAMU_ELEVATOR": {
+      "guia": {
+        "passos": [
+          "Suba no arranha-céu sem usar o elevador."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TURDLE": {
+      "guia": {
+        "passos": [
+          "Lute com as tartarugas."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ONE_BALL": {
+      "guia": {
+        "passos": [
+          "Pilote uma bicicleta por 60 segundos."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_NECKBEARD": {
+      "guia": {
+        "passos": [
+          "Cheire e pareça como uma."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_JACKPOT": {
+      "guia": {
+        "passos": [
+          "Ganhe na loteria."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALL_COLLECTIBLES_LEVEL_2": {
+      "guia": {
+        "passos": [
+          "Encontre todos os colecionáveis no nível 2."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ROLLER_COASTER": {
+      "guia": {
+        "passos": [
+          "Lamba a montanha-russa com 6 baterias."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_DIG": {
+      "guia": {
+        "passos": [
+          "Chegue a uma profundidade de 200 no SteamWorld Cabra."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_VALKYRIE": {
+      "guia": {
+        "passos": [
+          "Vá até a catapulta com um jóquei em suas costas."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_UNCLEGOAT": {
+      "guia": {
+        "passos": [
+          "Peço desculpa por minha cabra."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_LEVEL_101": {
+      "guia": {
+        "passos": [
+          "Chegue na fase 101."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BUTTSLAM": {
+      "guia": {
+        "passos": [
+          "Machuque bastante. Com sua bunda."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALL_MMO_ZONES": {
+      "guia": {
+        "passos": [
+          "Visite todas as zonas na fase MMO."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_STEVES_QUEST": {
+      "guia": {
+        "passos": [
+          "Dê as maçãs a Steve Works."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BFF": {
+      "guia": {
+        "passos": [
+          "Lamba um amigo."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_JOUST": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o mutador de duelos."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MERMAID": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o mutador sereia."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_WHEELGOAT": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o mutador da roda do tempo."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_OLDGOAT": {
+      "guia": {
+        "passos": [
+          "MEU DEUS, É ISSO QUE ESTOU PENSANDO?"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_EXCALIGOAT": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o Mutador EscaliCabra."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BEAR": {
+      "guia": {
+        "passos": [
+          "Jörgen."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GRAVITYGOAT": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o mutador cabra gravidade."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TRAPAGAIN": {
+      "guia": {
+        "passos": [
+          "Fique preso novamente trapaceando."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BOATRIDE": {
+      "guia": {
+        "passos": [
+          "Curta seu passeio."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GOATPAD": {
+      "guia": {
+        "passos": [
+          "Pule na plataforma de lançamento."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ELFSTREETBOYS": {
+      "guia": {
+        "passos": [
+          "Béé com o refrão."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_VOLUNTARYQA": {
+      "guia": {
+        "passos": [
+          "Quebre a sala do servidor."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_INFLATEKNEE": {
+      "guia": {
+        "passos": [
+          "Infle o joelho daquele cara."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_UNNECESSARYJOURNEY": {
+      "guia": {
+        "passos": [
+          "Jogue o anão Bilbo na lava."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MAGICIAN": {
+      "guia": {
+        "passos": [
+          "Faça um truque de cartas para o mágico."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GOATA_GET_EM_ALL": {
+      "guia": {
+        "passos": [
+          "Como você pega cabras?"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_WITCHBURN": {
+      "guia": {
+        "passos": [
+          "Queime-os!"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALL_COLLECTIBLES_MMO": {
+      "guia": {
+        "passos": [
+          "Encontre todos os troféus na fase MMO."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TROLL_GEISER": {
+      "guia": {
+        "passos": [
+          "Ele nunca entra em erupção quando você quer."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CRAFTALLWEAPONS": {
+      "guia": {
+        "passos": [
+          "Fabrique todas as armas numa partida."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CRAFTALL": {
+      "guia": {
+        "passos": [
+          "Fabrique todos os itens numa partida."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_SURVIVELIFE": {
+      "guia": {
+        "passos": [
+          "Sobreviva 10 dias."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_SHATTER": {
+      "guia": {
+        "passos": [
+          "Cristalize e quebre 30 zumbis numa partida."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_KILLZOMBIES": {
+      "guia": {
+        "passos": [
+          "Mate 20 zumbis numa partida."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_NOSTARVE": {
+      "guia": {
+        "passos": [
+          "Coma 50 itens de comida numa partida."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_PARACHUTE": {
+      "guia": {
+        "passos": [
+          "Voe de parapente por 1 minuto."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MINIGUN": {
+      "guia": {
+        "passos": [
+          "Mate 7 zumbis com uma minifun."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BULLETDIVE": {
+      "guia": {
+        "passos": [
+          "Acerte 5 zumbis num mergulho-bala."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_LOOKATIT": {
+      "guia": {
+        "passos": [
+          "Acerte 4 de uma vez com uma bomba vodu."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_I_AM_GOAT": {
+      "guia": {
+        "passos": [
+          "Jogue GoatSimSim por 5 minutos."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BIG_IN_JAPAN": {
+      "guia": {
+        "passos": [
+          "Vença o percurso do Whiplash sem se molhar."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MASTER_CHEF": {
+      "guia": {
+        "passos": [
+          "Deixe o ensopado o mais gostoso HUMANAMENTE possível."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_A_NEW_CHALLENGER": {
+      "guia": {
+        "passos": [
+          "Cumpra 25 missões de sobrevivência numa partida."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_WARM_BATH": {
+      "guia": {
+        "passos": [
+          "Use o escorregador para cair na piscina infantil."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALL_COLLECTIBLES_ZOMBIE": {
+      "guia": {
+        "passos": [
+          "Encontre todos os troféus em GoatZ."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_I_AM_BREAD": {
+      "guia": {
+        "passos": [
+          "Você é pão?"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALL_COLLECTIBLE_HEIST": {
+      "guia": {
+        "passos": [
+          "Encontre todos os troféus da fase Payday."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BLACKJACK": {
+      "guia": {
+        "passos": [
+          "Ganhe 3 mãos numa mesa de Blackjack."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALL_PRANKS": {
+      "guia": {
+        "passos": [
+          "Só termine aquele ÚLTIMO trabalho."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BOOST_FLYING": {
+      "guia": {
+        "passos": [
+          "Mostre seu controle de veículo no ar no deserto."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TO_THE_MOON": {
+      "guia": {
+        "passos": [
+          "Uma Viagem à Lua."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ISLAND_IN_THE_AIR": {
+      "guia": {
+        "passos": [
+          "Use um canhão para ir até a Ilha no Céu."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_IMPRISON_POLICE": {
+      "guia": {
+        "passos": [
+          "Jogue 5 policiais na prisão."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MASKS": {
+      "guia": {
+        "passos": [
+          "Use 30 máscaras ao mesmo tempo."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_PAN_FLUTE": {
+      "guia": {
+        "passos": [
+          "Escute a música inteira da flauta de pã."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_HYDRAULIC_CARS": {
+      "guia": {
+        "passos": [
+          "Ative os carros hidráulicos."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CHARM_COW": {
+      "guia": {
+        "passos": [
+          "Encante uma vaca usando Valentino Salami."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_DOLPH_LIFT": {
+      "guia": {
+        "passos": [
+          "Use Dolph Spaghetti para erguer um membro da equipe até o topo do prédio mais alto."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CABLE_TIE": {
+      "guia": {
+        "passos": [
+          "Amarre 50 NPCs."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CAMEL_DANCERS": {
+      "guia": {
+        "passos": [
+          "Espirre nos dançarinos usando Humphrey Ciabatta."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CREW_LICK": {
+      "guia": {
+        "passos": [
+          "Lamba todos os membros da equipe juntos para formar uma Cabrapéia."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CREW_BIO": {
+      "guia": {
+        "passos": [
+          "Reúna a equipe para um cinema drive-in."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_NPC_TRAIN": {
+      "guia": {
+        "passos": [
+          "Coloque um NPC amarrado nos trilhos do trem."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GTA": {
+      "guia": {
+        "passos": [
+          "Tire alguém do carro com uma cabeçada e depois atropele!"
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_JEDI_SITH": {
+      "guia": {
+        "passos": [
+          "Pegue uma espada de fótons como pai ou cabra boa."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_NOT_AFRIGHT": {
+      "guia": {
+        "passos": [
+          "Destrua todos os cargueiros."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_RULER_OF_SKIES": {
+      "guia": {
+        "passos": [
+          "Exploda todas as naves piratas."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BACON_MARAUDER": {
+      "guia": {
+        "passos": [
+          "Derrube 30 naves da polícia."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MINER_INCONVENIENCE": {
+      "guia": {
+        "passos": [
+          "Destrua 100 asteroides."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ALIEN_OR_EGG": {
+      "guia": {
+        "passos": [
+          "Dê cabeçada em todos os ovos alienígenas."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_PUKE_MACHINE": {
+      "guia": {
+        "passos": [
+          "Complete o evento da centrífuga."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_SWEET_COLLECTION": {
+      "guia": {
+        "passos": [
+          "Encontre 10 troféus."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_LIMITED_EDITION": {
+      "guia": {
+        "passos": [
+          "Encontre 20 troféus."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_NERD": {
+      "guia": {
+        "passos": [
+          "Encontre todos os troféus no Espaço."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_BAAHLIONAIRE": {
+      "guia": {
+        "passos": [
+          "Quero ser um bééélionário."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CAPTAIN_INDUSTRY": {
+      "guia": {
+        "passos": [
+          "Minere 10 pedaços de channitatium."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_MY_LITTLE_BRONY": {
+      "guia": {
+        "passos": [
+          "Encontre todos os pôneis."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_TESTAHOLIC": {
+      "guia": {
+        "passos": [
+          "Complete as câmaras de teste."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_ITS_WORKING": {
+      "guia": {
+        "passos": [
+          "Corra à vontade com o podracer."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_FUND_THIS": {
+      "guia": {
+        "passos": [
+          "Dê uma cabeçada em Lawrence S. Windler no covil dele."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_SPLISH_SPLASH": {
+      "guia": {
+        "passos": [
+          "Visite o badehaus."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_GRILL_PREP": {
+      "guia": {
+        "passos": [
+          "Embrulhe um garl'eek em papel-alumínio."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_CANVAS_WORLD": {
+      "guia": {
+        "passos": [
+          "Pinte 10 paredes."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_SPEND_TO_MAKE": {
+      "guia": {
+        "passos": [
+          "Coloque uma caixa de dinheiro no triturador de mineração."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    },
+    "ACH_FEDORABLE": {
+      "guia": {
+        "passos": [
+          "Use 30 coisas como chapéu ao mesmo tempo."
+        ],
+        "dicas": [
+          "Muitas conquistas são piadas ou segredos de mapa; várias são de DLCs (MMO, Zombie, Heist, Space, Payday). Explore e interaja com tudo."
+        ]
+      }
+    }
+  }
 }

@@ -15,5 +15,706 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_00": {
+      "guia": {
+        "passos": [
+          "CLIQUE."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_10": {
+      "guia": {
+        "passos": [
+          "Você está chegando a algum lugar..!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_1B": {
+      "guia": {
+        "passos": [
+          "Um bilhão de cliques! O auge da maestria em cliques!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_1K": {
+      "guia": {
+        "passos": [
+          "Mil cliques! Você está mesmo comprometido!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_1M": {
+      "guia": {
+        "passos": [
+          "Clicador milionário! Uma conquista extraordinária!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_2K": {
+      "guia": {
+        "passos": [
+          "Marco duplo! Perseverança fora de série!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_2M": {
+      "guia": {
+        "passos": [
+          "Dínamo da Banana! Seu poder de clique é imparável!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_4K": {
+      "guia": {
+        "passos": [
+          "Conquista notável! Seu esforço brilha!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_4M": {
+      "guia": {
+        "passos": [
+          "Esforço fenomenal! Você é uma lenda dos cliques!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_8K": {
+      "guia": {
+        "passos": [
+          "Compromisso excepcional! Continue avançando!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_8M": {
+      "guia": {
+        "passos": [
+          "Marco épico! Sua dedicação não tem limites!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_16K": {
+      "guia": {
+        "passos": [
+          "Fôlego impressionante! Você é uma potência dos cliques!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_16M": {
+      "guia": {
+        "passos": [
+          "Clicador icônico! Perseverança notável!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_32K": {
+      "guia": {
+        "passos": [
+          "Nível elite! Sua dedicação é incomparável!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_32M": {
+      "guia": {
+        "passos": [
+          "Conquista suprema! Seu compromisso não tem igual!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_50": {
+      "guia": {
+        "passos": [
+          "Progresso constante! Você está indo muito bem!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_64K": {
+      "guia": {
+        "passos": [
+          "Mestre dos cliques! Persistência incrível!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_64M": {
+      "guia": {
+        "passos": [
+          "Titã dos cliques! Um feito extraordinário!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_100": {
+      "guia": {
+        "passos": [
+          "Primeiro marco! Excelente dedicação!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_250": {
+      "guia": {
+        "passos": [
+          "Esforço dedicado! Sua persistência compensa!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_500": {
+      "guia": {
+        "passos": [
+          "Metade do caminho! Continue com o ótimo trabalho!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_25": {
+      "guia": {
+        "passos": [
+          "Parece mais longe do que eu pensava.."
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_128K": {
+      "guia": {
+        "passos": [
+          "Soberano da Banana! Seus cliques reinam!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_512M": {
+      "guia": {
+        "passos": [
+          "Mais de meio bilhão de cliques! Sua dedicação é monumental!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_512K": {
+      "guia": {
+        "passos": [
+          "Mais de meio milhão de cliques! Seu compromisso inspira!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_256M": {
+      "guia": {
+        "passos": [
+          "Lenda suprema! Uma conquista de cliques sem igual!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_256K": {
+      "guia": {
+        "passos": [
+          "Clicador supremo! Dedicação excepcional!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "GAMEPLAY_CLICKS_128M": {
+      "guia": {
+        "passos": [
+          "Imperador da Banana! Sua habilidade nos cliques é lendária!"
+        ],
+        "dicas": [
+          "Clicker: só continuar clicando. Use upgrades para acelerar."
+        ]
+      }
+    },
+    "JOKE_CLICKS_42": {
+      "guia": {
+        "passos": [
+          "Chegue a 42 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_69": {
+      "guia": {
+        "passos": [
+          "Chegue a 69 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_112": {
+      "guia": {
+        "passos": [
+          "Chegue a 112 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_200": {
+      "guia": {
+        "passos": [
+          "Chegue a 200 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_201": {
+      "guia": {
+        "passos": [
+          "Chegue a 201 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_204": {
+      "guia": {
+        "passos": [
+          "Chegue a 204 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_301": {
+      "guia": {
+        "passos": [
+          "Chegue a 301 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_302": {
+      "guia": {
+        "passos": [
+          "Chegue a 302 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_314": {
+      "guia": {
+        "passos": [
+          "Chegue a 314 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_400": {
+      "guia": {
+        "passos": [
+          "Chegue a 400 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_403": {
+      "guia": {
+        "passos": [
+          "Chegue a 403 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_404": {
+      "guia": {
+        "passos": [
+          "Chegue a 404 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_420": {
+      "guia": {
+        "passos": [
+          "Chegue a 420 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_500": {
+      "guia": {
+        "passos": [
+          "Chegue a 500 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_503": {
+      "guia": {
+        "passos": [
+          "Chegue a 503 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_666": {
+      "guia": {
+        "passos": [
+          "Chegue a 666 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_911": {
+      "guia": {
+        "passos": [
+          "Chegue a 911 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_1337": {
+      "guia": {
+        "passos": [
+          "Chegue a 1337 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_3141": {
+      "guia": {
+        "passos": [
+          "Chegue a 3141 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_5338": {
+      "guia": {
+        "passos": [
+          "Chegue a 5338 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_5508": {
+      "guia": {
+        "passos": [
+          "Chegue a 5508 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_6969": {
+      "guia": {
+        "passos": [
+          "Chegue a 6969 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_8008": {
+      "guia": {
+        "passos": [
+          "Chegue a 8008 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_9001": {
+      "guia": {
+        "passos": [
+          "Chegue a 9001 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_12345": {
+      "guia": {
+        "passos": [
+          "Chegue a 12345 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_80095": {
+      "guia": {
+        "passos": [
+          "Chegue a 80095 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_666666": {
+      "guia": {
+        "passos": [
+          "Chegue a 666666 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_696969": {
+      "guia": {
+        "passos": [
+          "Chegue a 696969 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "JOKE_CLICKS_8008135": {
+      "guia": {
+        "passos": [
+          "Chegue a 8008135 cliques no contador total."
+        ],
+        "dicas": [
+          "Conquista de piada: desbloqueia naturalmente ao passar pelo número."
+        ]
+      }
+    },
+    "EXCHANGE_AMOUNT_1": {
+      "guia": {
+        "passos": [
+          "Parabéns pela sua primeira troca!"
+        ]
+      }
+    },
+    "EXCHANGE_AMOUNT_2": {
+      "guia": {
+        "passos": [
+          "Você está pegando o jeito! Continue assim!"
+        ]
+      }
+    },
+    "EXCHANGE_AMOUNT_5": {
+      "guia": {
+        "passos": [
+          "Você já trocou 5 vezes! Bora!"
+        ]
+      }
+    },
+    "CALORIES_SPENT_1K": {
+      "guia": {
+        "passos": [
+          "Abacateee."
+        ]
+      }
+    },
+    "CALORIES_SPENT_1M": {
+      "guia": {
+        "passos": [
+          "Urânio e potássio são a mesma coisa."
+        ]
+      }
+    },
+    "CALORIES_SPENT_2K": {
+      "guia": {
+        "passos": [
+          "ovo."
+        ]
+      }
+    },
+    "CALORIES_SPENT_4K": {
+      "guia": {
+        "passos": [
+          "nada supera pão de banana torrado."
+        ]
+      }
+    },
+    "CALORIES_SPENT_8K": {
+      "guia": {
+        "passos": [
+          "Queijo ou bolo? Por que não os dois?"
+        ]
+      }
+    },
+    "CALORIES_SPENT_10": {
+      "guia": {
+        "passos": [
+          "Trocando rabanete por banana."
+        ]
+      }
+    },
+    "CALORIES_SPENT_16K": {
+      "guia": {
+        "passos": [
+          "Pêssego ou lámen, nem sei mais."
+        ]
+      }
+    },
+    "CALORIES_SPENT_32K": {
+      "guia": {
+        "passos": [
+          "Banana enrolada no bacon, alguém?"
+        ]
+      }
+    },
+    "CALORIES_SPENT_50": {
+      "guia": {
+        "passos": [
+          "Ótimo lanche no verão."
+        ]
+      }
+    },
+    "CALORIES_SPENT_64K": {
+      "guia": {
+        "passos": [
+          "Fica ótimo com leite de banana."
+        ]
+      }
+    },
+    "CALORIES_SPENT_100": {
+      "guia": {
+        "passos": [
+          "Amigos frutas!"
+        ]
+      }
+    },
+    "CALORIES_SPENT_128K": {
+      "guia": {
+        "passos": [
+          "somos só uns caras da fritura."
+        ]
+      }
+    },
+    "CALORIES_SPENT_256K": {
+      "guia": {
+        "passos": [
+          "Quando sai o hambúrguer de banana?"
+        ]
+      }
+    },
+    "CALORIES_SPENT_512K": {
+      "guia": {
+        "passos": [
+          "Quem não gosta de bolo?"
+        ]
+      }
+    },
+    "CALORIES_SPENT_250": {
+      "guia": {
+        "passos": [
+          "Mais ou menos o que tem numa banana."
+        ]
+      }
+    },
+    "CALORIES_SPENT_500": {
+      "guia": {
+        "passos": [
+          "Uns amendoins resolvem."
+        ]
+      }
+    }
+  }
 }

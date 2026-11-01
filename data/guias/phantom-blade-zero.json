@@ -1,0 +1,492 @@
+{
+  "resumo": "Ação estilo soulslike de kung fu. Conquistas vêm da história, chefes, missões secundárias, armas Phantom Edge e coletáveis.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Avance a campanha e derrote os chefes principais."
+    },
+    {
+      "titulo": "2. Missões",
+      "texto": "Faça as missões secundárias dos personagens antes do final."
+    },
+    {
+      "titulo": "3. Armas",
+      "texto": "Experimente as habilidades únicas de cada arma para as conquistas de técnica."
+    },
+    {
+      "titulo": "4. Coleta",
+      "texto": "Junte âmbar, flores, pedras negras e acessórios; melhore armas ao nível 30."
+    }
+  ],
+  "avisos": [],
+  "conquistas": {
+    "ACH_001": {
+      "guia": {
+        "passos": [
+          "Escape dos perseguidores na Estrada Principal."
+        ]
+      }
+    },
+    "ACH_002": {
+      "guia": {
+        "passos": [
+          "Atravesse o Entreposto."
+        ]
+      }
+    },
+    "ACH_003": {
+      "guia": {
+        "passos": [
+          "Saia da caverna atrás da cachoeira."
+        ]
+      }
+    },
+    "ACH_004": {
+      "guia": {
+        "passos": [
+          "Desvende a ilusão no Bosque Espelhado."
+        ]
+      }
+    },
+    "ACH_005": {
+      "guia": {
+        "passos": [
+          "Deixe o Vilarejo de Lu rumo a Pangzhen."
+        ]
+      }
+    },
+    "ACH_006": {
+      "guia": {
+        "passos": [
+          "Visite a taverna da Ordem."
+        ]
+      }
+    },
+    "ACH_007": {
+      "guia": {
+        "passos": [
+          "Desvende a fechadura da cabeça de serpente na Casa da Serpente Verde."
+        ]
+      }
+    },
+    "ACH_008": {
+      "guia": {
+        "passos": [
+          "Investigue a Área de Treinamento."
+        ]
+      }
+    },
+    "ACH_009": {
+      "guia": {
+        "passos": [
+          "Chegue ao Reino da Miragem."
+        ]
+      }
+    },
+    "ACH_010": {
+      "guia": {
+        "passos": [
+          "Abra caminho pelo Coração do Lago com um corte."
+        ]
+      }
+    },
+    "ACH_011": {
+      "guia": {
+        "passos": [
+          "Atravesse a Mansão Onírica."
+        ]
+      }
+    },
+    "ACH_012": {
+      "guia": {
+        "passos": [
+          "Avance pela neve em direção ao penhasco."
+        ]
+      }
+    },
+    "ACH_013": {
+      "guia": {
+        "passos": [
+          "Tudo Vem à Luz."
+        ]
+      }
+    },
+    "ACH_014": {
+      "guia": {
+        "passos": [
+          "Derrote Peng Meng, o Mestre do Machado."
+        ]
+      }
+    },
+    "ACH_015": {
+      "guia": {
+        "passos": [
+          "Derrote Hua, a Noiva Condenada."
+        ]
+      }
+    },
+    "ACH_016": {
+      "guia": {
+        "passos": [
+          "Derrote o Carrasco, Caçador da Ordem."
+        ]
+      }
+    },
+    "ACH_017": {
+      "guia": {
+        "passos": [
+          "Derrote Hua Qianxiao, a Lâmina Lunática."
+        ]
+      }
+    },
+    "ACH_018": {
+      "guia": {
+        "passos": [
+          "Derrote Bai Chilian, Senhora das Serpes Gêmeas."
+        ]
+      }
+    },
+    "ACH_019": {
+      "guia": {
+        "passos": [
+          "Derrote Mu Xiaokui, a Jovem Donzela da Ordem."
+        ]
+      }
+    },
+    "ACH_020": {
+      "guia": {
+        "passos": [
+          "Derrote Chama, o Grão-Mestre da Dança do Leão."
+        ]
+      }
+    },
+    "ACH_021": {
+      "guia": {
+        "passos": [
+          "Derrote o Chefe Discípulo da Formação das Sete Estrelas."
+        ]
+      }
+    },
+    "ACH_022": {
+      "guia": {
+        "passos": [
+          "Derrote Huangxing, o Renegado de Kunlun."
+        ]
+      }
+    },
+    "ACH_023": {
+      "guia": {
+        "passos": [
+          "Derrote o Coletor de Marionetes."
+        ]
+      }
+    },
+    "ACH_024": {
+      "guia": {
+        "passos": [
+          "Derrote Lei Dang, o Canhão do Tigre."
+        ]
+      }
+    },
+    "ACH_025": {
+      "guia": {
+        "passos": [
+          "Derrote o Mestre da Lâmina da Nevasca."
+        ]
+      }
+    },
+    "ACH_026": {
+      "guia": {
+        "passos": [
+          "Derrote a Serra e o Esmagador."
+        ]
+      }
+    },
+    "ACH_027": {
+      "guia": {
+        "passos": [
+          "Todos os Planos Caem por Terra."
+        ]
+      }
+    },
+    "ACH_028": {
+      "guia": {
+        "passos": [
+          "Derrote You Loong, Líder da Tripulação da Água Negra, Yan Qiansui, a Madame da Cítara, e o Arqueiro de Um Olho na região do Lago Meigu."
+        ]
+      }
+    },
+    "ACH_029": {
+      "guia": {
+        "passos": [
+          "Derrote as Quatro Grandes Marionetes: Yuzan, Yubi, Yuding e Yucong."
+        ]
+      }
+    },
+    "ACH_030": {
+      "guia": {
+        "passos": [
+          "Derrote Zhu Yuan e o Comandante Bi Feng."
+        ]
+      }
+    },
+    "ACH_031": {
+      "guia": {
+        "passos": [
+          "Derrote os três Guardiões das Sombras: Parte-rédeas, Rouba-almas e Estaca-corações."
+        ]
+      }
+    },
+    "ACH_032": {
+      "guia": {
+        "passos": [
+          "Conclua [Segredos no Coração do Lago]."
+        ]
+      }
+    },
+    "ACH_033": {
+      "guia": {
+        "passos": [
+          "Conclua [Despertar da Linhagem]."
+        ]
+      }
+    },
+    "ACH_034": {
+      "guia": {
+        "passos": [
+          "Conclua [Segredos da Escola Baishan]."
+        ]
+      }
+    },
+    "ACH_035": {
+      "guia": {
+        "passos": [
+          "Conclua [Regresso a Casa]."
+        ]
+      }
+    },
+    "ACH_036": {
+      "guia": {
+        "passos": [
+          "Conclua [Jovem Mestre Lan]."
+        ]
+      }
+    },
+    "ACH_037": {
+      "guia": {
+        "passos": [
+          "Conclua [Selo Mental Partido]."
+        ]
+      }
+    },
+    "ACH_038": {
+      "guia": {
+        "passos": [
+          "Conclua [Lírio Carnal], [Curandeira Aprendiz] e [Misericórdia da Cura]."
+        ]
+      }
+    },
+    "ACH_039": {
+      "guia": {
+        "passos": [
+          "Conclua todos os [Pedidos de Zhang Ligeiro]."
+        ]
+      }
+    },
+    "ACH_040": {
+      "guia": {
+        "passos": [
+          "Conclua [Corações Banyan]."
+        ]
+      }
+    },
+    "ACH_041": {
+      "guia": {
+        "passos": [
+          "Realize Têmpera Anímica em 10 armas."
+        ]
+      }
+    },
+    "ACH_042": {
+      "guia": {
+        "passos": [
+          "Aprimore uma arma para o Nível 30."
+        ]
+      }
+    },
+    "ACH_043": {
+      "guia": {
+        "passos": [
+          "Colete 10 Âmbares de Sha-Chi."
+        ]
+      }
+    },
+    "ACH_044": {
+      "guia": {
+        "passos": [
+          "Colete 10 Flores da Memória."
+        ]
+      }
+    },
+    "ACH_045": {
+      "guia": {
+        "passos": [
+          "Colete 10 Pedras Negras."
+        ]
+      }
+    },
+    "ACH_046": {
+      "guia": {
+        "passos": [
+          "Colete 30 acessórios."
+        ]
+      }
+    },
+    "ACH_047": {
+      "guia": {
+        "passos": [
+          "Realize Têmpera Anímica em 10 Armas-fantasma."
+        ]
+      }
+    },
+    "ACH_048": {
+      "guia": {
+        "passos": [
+          "Aprimore uma Arma-fantasma para o Nível 30."
+        ]
+      }
+    },
+    "ACH_049": {
+      "guia": {
+        "passos": [
+          "Execute um Assassinato Sucessivo."
+        ]
+      }
+    },
+    "ACH_050": {
+      "guia": {
+        "passos": [
+          "Execute uma Execução Sucessiva."
+        ]
+      }
+    },
+    "ACH_051": {
+      "guia": {
+        "passos": [
+          "Inflija Hemorragia com a Lâmina Desgastada."
+        ]
+      }
+    },
+    "ACH_052": {
+      "guia": {
+        "passos": [
+          "Use a Lâmina Quebrada do Fanático para entrar no Estado [Bêbado]."
+        ]
+      }
+    },
+    "ACH_053": {
+      "guia": {
+        "passos": [
+          "Use a [Inversão Serpentina] da Espada Flexível da Serpente para defletir um ataque inimigo."
+        ]
+      }
+    },
+    "ACH_054": {
+      "guia": {
+        "passos": [
+          "Use a Sanguínea Infernal para liberar [Espada Fantasma]."
+        ]
+      }
+    },
+    "ACH_055": {
+      "guia": {
+        "passos": [
+          "Use a Lâmina de Guerra do Fora da Lei para liberar [Frenesi Sanguinário]."
+        ]
+      }
+    },
+    "ACH_056": {
+      "guia": {
+        "passos": [
+          "Use Sombra Branca para congelar um inimigo."
+        ]
+      }
+    },
+    "ACH_057": {
+      "guia": {
+        "passos": [
+          "Use o [Corte Qinglong] da Lâmina Crescente para matar um inimigo instantaneamente."
+        ]
+      }
+    },
+    "ACH_058": {
+      "guia": {
+        "passos": [
+          "Use Serras Demoníacas para ativar [Erosão de Aura Hedionda]."
+        ]
+      }
+    },
+    "ACH_059": {
+      "guia": {
+        "passos": [
+          "Use Morte Circular para acertar Aros Voadores sucessivos em um inimigo na mira."
+        ]
+      }
+    },
+    "ACH_060": {
+      "guia": {
+        "passos": [
+          "Use a Espada da Tempestade de Baishan para liberar [Tormenta de Raios]."
+        ]
+      }
+    },
+    "ACH_061": {
+      "guia": {
+        "passos": [
+          "Use o Porrete Esmagador para acertar um inimigo com um golpe descendente no ar."
+        ]
+      }
+    },
+    "ACH_062": {
+      "guia": {
+        "passos": [
+          "Derrote duas vezes You Loong, Líder da Tripulação da Água Negra."
+        ],
+        "dicas": [
+          "Enfrente You Loong duas vezes; a revanche é opcional."
+        ]
+      }
+    },
+    "ACH_063": {
+      "guia": {
+        "passos": [
+          "Use as Manoplas de Ferro para executar [Punho Magistral]."
+        ]
+      }
+    },
+    "ACH_064": {
+      "guia": {
+        "passos": [
+          "Use a Lança do Trovão para paralisar um inimigo."
+        ]
+      }
+    },
+    "ACH_065": {
+      "guia": {
+        "passos": [
+          "Use qualquer Arma-fantasma de invocação para invocar um aliado."
+        ]
+      }
+    },
+    "ACH_066": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as outras conquistas."
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todas as outras."
+        ]
+      }
+    }
+  }
+}

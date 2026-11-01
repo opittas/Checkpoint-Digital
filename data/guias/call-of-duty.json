@@ -17,5 +17,1756 @@
   "avisos": [
     "Cada jogo do pacote só conta se você tiver ele."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "rex_sp_noharmdone": {
+      "guia": {
+        "passos": [
+          "Obtenha a localização do desertor sem ferir nenhum civil em 'Obediência Cega'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_holdtheline": {
+      "guia": {
+        "passos": [
+          "Conclua o jogo em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_worthit": {
+      "guia": {
+        "passos": [
+          "Conclua o jogo na dificuldade Realismo."
+        ],
+        "atencao": [
+          "Dificuldade Veterano (Realista); use a Seleção de Missão em capítulos difíceis."
+        ]
+      }
+    },
+    "rex_sp_deaddrop": {
+      "guia": {
+        "passos": [
+          "Elimine 10 paraquedistas em 'Caos' antes que eles toquem o chão."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_onlygunneed": {
+      "guia": {
+        "passos": [
+          "Derrote todos os inimigos na cozinha em 'Sangue Frio' sem disparar a sua arma na dificuldade Casca-grossa ou superior."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_canttouchthis": {
+      "guia": {
+        "passos": [
+          "Derrote o Makarov no beco sem sofrer dano na dificuldade Veterano ou superior."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_nostoneunturned": {
+      "guia": {
+        "passos": [
+          "Confisque todo o contrabando e leia todas as anotações em 'Obediência Cega'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_bullettrain": {
+      "guia": {
+        "passos": [
+          "Elimine 50 inimigos enquanto estiver em cima de vagões de trem em 'Criminoso de Aluguel'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_rainingthunder": {
+      "guia": {
+        "passos": [
+          "Elimine 15 inimigos com 3 projéteis de morteiro consecutivos em 'Perdendo Terreno'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_revenge": {
+      "guia": {
+        "passos": [
+          "Elimine todos após a morte do Shin em 'Assassinos' na dificuldade Casca-grossa ou superior."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_pacifist": {
+      "guia": {
+        "passos": [
+          "Conclua 'Assassinos' eliminando apenas um inimigo."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_timetocrate": {
+      "guia": {
+        "passos": [
+          "Abra todas as Caixas de Suprimento Amarelas em 'Isolamento'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_scavenger": {
+      "guia": {
+        "passos": [
+          "Conserte tudo no Acampamento Base."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_incoming": {
+      "guia": {
+        "passos": [
+          "Destrua todos os reforços de veículos no campo de MSA antes que desembarquem em 'Isolamento'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_longshot": {
+      "guia": {
+        "passos": [
+          "Elimine, com um fuzil de precisão, todos os 4 inimigos disparando morteiros em 'Contra-ataque'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_neverforgotten": {
+      "guia": {
+        "passos": [
+          "Recupere as Plaquetas de Identificação em 'Fuga'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_trenchbroom": {
+      "guia": {
+        "passos": [
+          "Em 'Nas Trincheiras', elimine 15 inimigos com uma escopeta antes de assegurar o prédio alvo."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "rex_sp_noteworthy": {
+      "guia": {
+        "passos": [
+          "Leia 50 anotações diferentes."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_global_newdynasty": {
+      "guia": {
+        "passos": [
+          "Atinja o Prestígio no Black Ops 7."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_global_myrifle": {
+      "guia": {
+        "passos": [
+          "Obtenha qualquer Camuflagem de Arco Voltaico, Pedra da Lua ou Pedra de Sangue."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_global_masterofarms": {
+      "guia": {
+        "passos": [
+          "Entre no Prestígio de Arma com qualquer arma."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_global_drippedout": {
+      "guia": {
+        "passos": [
+          "Obtenha Distintivos de Diamante em qualquer categoria de Distintivos de Maestria."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_global_decoratedveteran": {
+      "guia": {
+        "passos": [
+          "Obtenha 100 Medalhas únicas no Multijogador ou Zumbis."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_completecampaign": {
+      "guia": {
+        "passos": [
+          "Conclua a Campanha Co-op do Black Ops 7."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_turbocharged": {
+      "guia": {
+        "passos": [
+          "Aprimore um operador para a máxima Eficiência em Combate na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_loremaster": {
+      "guia": {
+        "passos": [
+          "Colete todas inteligências na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_purveyoroffinegoods": {
+      "guia": {
+        "passos": [
+          "Realize 250 baixas com armas exóticas na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_mission1": {
+      "guia": {
+        "passos": [
+          "Conclua Exposição na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_mission2and3": {
+      "guia": {
+        "passos": [
+          "Conclua Imersão e Distorção na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_mission4and5": {
+      "guia": {
+        "passos": [
+          "Conclua Designação e Interferência na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_mission6and7": {
+      "guia": {
+        "passos": [
+          "Conclua Colapso e Fragmentos na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_mission8and9": {
+      "guia": {
+        "passos": [
+          "Conclua Quarentena e Supressão na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_mission10and11": {
+      "guia": {
+        "passos": [
+          "Conclua Ruptura e Contenção na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_dontdieonme": {
+      "guia": {
+        "passos": [
+          "Reanime um companheiro na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_glide800m": {
+      "guia": {
+        "passos": [
+          "Plane por 800 m usando o wingsuit na Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_capricorn_stealth": {
+      "guia": {
+        "passos": [
+          "Mantenha a furtividade no deque do iate em Interferência."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_wc_complete10assignments": {
+      "guia": {
+        "passos": [
+          "Conclua 10 Missões na Zona IV da Campanha Co-Op."
+        ],
+        "dicas": [
+          "Conquista do Campanha co-op de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_maximumoverdrive": {
+      "guia": {
+        "passos": [
+          "Equipe um Modificador em um letal, tático, Melhoria de Campo e 3 Séries de Pontuação ao mesmo tempo."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_frontlineoffensive": {
+      "guia": {
+        "passos": [
+          "Vença 25 partidas no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_destroyer": {
+      "guia": {
+        "passos": [
+          "Realize 1.000 eliminações no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_glamorshot": {
+      "guia": {
+        "passos": [
+          "Tenha o destaque de Melhor Jogada 3 vezes."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_takingnames": {
+      "guia": {
+        "passos": [
+          "Conclua os 6 Desafios de Cartões de Visitas em qualquer categoria do Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_archenemy": {
+      "guia": {
+        "passos": [
+          "Elimine seu Nêmesis 10 vezes."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_perfected": {
+      "guia": {
+        "passos": [
+          "Realize 100 eliminações com uma Vantagem de Combate Híbrida ativa no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_callingforbackup": {
+      "guia": {
+        "passos": [
+          "Solicite 50 Séries de Pontuação no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_notinmyhouse": {
+      "guia": {
+        "passos": [
+          "Destrua 5 itens com o Bot Caçador em uma única partida."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_legitimatestrategy": {
+      "guia": {
+        "passos": [
+          "Obtenha 3 baixas enquanto defende uma zona de objetivo sem sair dela."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_readyforaction": {
+      "guia": {
+        "passos": [
+          "Conclua a Área de Treinamento do Multijogador de Black Ops 7."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_pathfinder": {
+      "guia": {
+        "passos": [
+          "Realize uma baixa com acerto direto a pelo menos 30 metros de distância com o Drone Dardo."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_farsight": {
+      "guia": {
+        "passos": [
+          "Realize 3 baixas com um único uso da Série de Pontuação Sepultador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_mp_freshmoves": {
+      "guia": {
+        "passos": [
+          "Realize uma baixa no ar ao saltar em uma parede."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_dusttodust": {
+      "guia": {
+        "passos": [
+          "Conclua a missão principal de Cinzas dos Condenados."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_corpseaplenty": {
+      "guia": {
+        "passos": [
+          "Elimine 10.000 zumbis."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_survivalfittest": {
+      "guia": {
+        "passos": [
+          "Atinja a rodada 30 em um mapa de Sobrevivência."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_expertcurator": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 3 relíquias em Cinzas dos Condenados."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_hoarder": {
+      "guia": {
+        "passos": [
+          "Conclua os 6 Desafios de Cartões de Visitas em qualquer categoria de Zumbis."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_mixologist": {
+      "guia": {
+        "passos": [
+          "Beba 4 drinques diferentes e bem preparados."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_chewonthis": {
+      "guia": {
+        "passos": [
+          "Consuma 15 Gomas de Matar em uma única partida."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_intesitea": {
+      "guia": {
+        "passos": [
+          "Elimine um zumbi de elite com o último golpe sendo de seu companheiro etéreo."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_youlikeupgrades": {
+      "guia": {
+        "passos": [
+          "Aprimore a Carro-Lina por completo."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_goodsoldiers": {
+      "guia": {
+        "passos": [
+          "Descubra os segredos de um herói de guerra."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_poisonparadise": {
+      "guia": {
+        "passos": [
+          "Realize 50 baixas críticas em zumbis afetados pelo Crescimento Tóxico."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_yoursoulismine": {
+      "guia": {
+        "passos": [
+          "Elimine 50 zumbis com a Drenagem de Vida de uma Injeção de Discípulo."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_scientificbreakthrough": {
+      "guia": {
+        "passos": [
+          "Equipe 2 Aumentadores Pequenos em uma Melhoria de Campo, uma Vantagem e um Mod de Munição."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_zm_enforcedfreedom": {
+      "guia": {
+        "passos": [
+          "Elimine 100 zumbis com explosões de fogos de artifício."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_doa_reunited": {
+      "guia": {
+        "passos": [
+          "Derrote o Papai Gorila e salve sua querida amiga em Dead Ops Arcade."
+        ],
+        "dicas": [
+          "Conquista do modo especial de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_doa_foreverfated": {
+      "guia": {
+        "passos": [
+          "Descubra sua sina na Sala do Destino em Dead Ops Arcade."
+        ],
+        "dicas": [
+          "Conquista do modo especial de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "sat_doa_fowlfivepiece": {
+      "guia": {
+        "passos": [
+          "Amarre 5 galinhas umas às outras em Dead Ops Arcade."
+        ],
+        "dicas": [
+          "Conquista do modo especial de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_global_return_king": {
+      "guia": {
+        "passos": [
+          "Entre no Prestígio 1."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_global_showoff": {
+      "guia": {
+        "passos": [
+          "Obtenha um Distintivo de Maestria para qualquer arma."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_global_camosforever": {
+      "guia": {
+        "passos": [
+          "Desbloqueie uma Camuflagem Diamante ou Opala."
+        ],
+        "dicas": [
+          "Conquista do progresso geral de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_complete_any": {
+      "guia": {
+        "passos": [
+          "Conclua a Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_complete_veteran": {
+      "guia": {
+        "passos": [
+          "Conclua a Campanha na dificuldade Veterano."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_intro": {
+      "guia": {
+        "passos": [
+          "Conclua Bispo Pega Torre na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_contract": {
+      "guia": {
+        "passos": [
+          "Conclua Rixa de Sangue na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_union": {
+      "guia": {
+        "passos": [
+          "Conclua O Resgate na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_sandbox": {
+      "guia": {
+        "passos": [
+          "Conclua Temporada de Caça e O Berço na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_redacted": {
+      "guia": {
+        "passos": [
+          "Conclua Pleno Devaneio na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_heist": {
+      "guia": {
+        "passos": [
+          "Conclua Cartada de Mestre na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_storm": {
+      "guia": {
+        "passos": [
+          "Conclua Voo Cancelado na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_sabotage": {
+      "guia": {
+        "passos": [
+          "Conclua Cara e Coragem na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_interrogation": {
+      "guia": {
+        "passos": [
+          "Conclua Ansiedade de Separação na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_mission_safehouse": {
+      "guia": {
+        "passos": [
+          "Conclua Xeque-mate na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_contract_covert": {
+      "guia": {
+        "passos": [
+          "Em Rixa de Sangue, chegue na reunião da Guilda sem ser visto."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_union_takedowns": {
+      "guia": {
+        "passos": [
+          "Em O Resgate, realize 5 derrubadas em seguranças do evento sem ser percebido."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_sandbox_full": {
+      "guia": {
+        "passos": [
+          "Em Temporada de Caça, complete todos os Pontos de Interesse do Mapa Tático."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_sabotage_target": {
+      "guia": {
+        "passos": [
+          "Em Cara e Coragem, faça com que o M.S.A. atinja a si mesmo e o helicóptero."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_storm_crush": {
+      "guia": {
+        "passos": [
+          "Em Voo Cancelado, atropele 25 inimigos ao dirigir o tanque."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_safehouse_apc": {
+      "guia": {
+        "passos": [
+          "Em Xeque-mate, destrua o TPA usando um DX-CR."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_safehouse_purchase": {
+      "guia": {
+        "passos": [
+          "Compre todas as melhorias para o Abrigo e para o Jogador na Campanha."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_safehouse_puzzles": {
+      "guia": {
+        "passos": [
+          "Conclua todos os quebra-cabeças do Abrigo na Campanha."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_remote_knife": {
+      "guia": {
+        "passos": [
+          "Realize 2 baixas de 50 metros ou mais com uma única Faca de Arremesso controlada na Campanha."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_adrenaline": {
+      "guia": {
+        "passos": [
+          "Realize 5 baixas com tiros na cabeça durante o uso de um Estimulante de Adrenalina na Campanha."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_takedowns": {
+      "guia": {
+        "passos": [
+          "Realize 10 derrubadas na Campanha."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_sp_killstreak": {
+      "guia": {
+        "passos": [
+          "Realize 5 baixas com uma única Série de Pontuação na Campanha."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_palehorse": {
+      "guia": {
+        "passos": [
+          "Realize 500 Eliminações no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_podiumfinish": {
+      "guia": {
+        "passos": [
+          "Vença 25 partidas no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_rushhour": {
+      "guia": {
+        "passos": [
+          "Realize uma Baixa Dupla com o DX-CR no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_redcarpet": {
+      "guia": {
+        "passos": [
+          "Tenha o destaque de Melhor Jogada 3 vezes no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_doingyourpart": {
+      "guia": {
+        "passos": [
+          "Finalize a Área de Treinamento no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_betrayal": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo pelas costas a curta distância enquanto estiver usando o Kit Espião."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_heavyordinance": {
+      "guia": {
+        "passos": [
+          "Destrua 50 Séries de Pontuação aéreas com Lançadores no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_mp_stylishkill": {
+      "guia": {
+        "passos": [
+          "Realize 75 eliminações com uma Especialidade de Combate ativa no Multijogador."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_complete_quartz_mq": {
+      "guia": {
+        "passos": [
+          "Escape da prisão, mas por um preço."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_culinary_delight": {
+      "guia": {
+        "passos": [
+          "Em Terminus, consuma um peixe feito com um ingrediente especial."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_treasure_hunter": {
+      "guia": {
+        "passos": [
+          "Em Terminus, encontre o último Talismã."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_complete_garnet_mq": {
+      "guia": {
+        "passos": [
+          "Ajude o cientista perdido a concluir seu experimento."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_world_domination": {
+      "guia": {
+        "passos": [
+          "Em Liberty Falls, mostre o seu lado de supervilão."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_deadwood": {
+      "guia": {
+        "passos": [
+          "Em Liberty Falls, atinja a pontuação perfeita."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_knowyourenemy": {
+      "guia": {
+        "passos": [
+          "Realize 100 baixas enquanto usa Injeções Mutantes em Zumbis."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_cyberized": {
+      "guia": {
+        "passos": [
+          "Pesquise todos os Aumentadores para 10 itens em Zumbis."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "t10_zm_annihilation": {
+      "guia": {
+        "passos": [
+          "Realize 100 eliminações de Zumbis de Elite."
+        ],
+        "dicas": [
+          "Conquista do Zumbis de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_boundandmagged": {
+      "guia": {
+        "passos": [
+          "Encontre e use todos os armamentos em Missões de Combate Aberto."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_timeforanewplan": {
+      "guia": {
+        "passos": [
+          "Personalize seu armamento em todas as Missões de Combate Aberto."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_professionalhoarder": {
+      "guia": {
+        "passos": [
+          "Colete todas as armas e melhorias de campo de caixas de suprimentos em Missões de Combate Aberto."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_partyfavors": {
+      "guia": {
+        "passos": [
+          "Use 5 armamentos diferentes em Missões de Combate Aberto."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_engineeringdegree": {
+      "guia": {
+        "passos": [
+          "Dirija um veículo com uma Sentinela e permita que ela elimine 5 inimigos."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_iliketopretendihaveaplan": {
+      "guia": {
+        "passos": [
+          "Use a luneta de observação para marcar 60 inimigos ou itens em Missões de Combate Aberto."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_suit_up": {
+      "guia": {
+        "passos": [
+          "Encontre todas as melhorias de coletes em Missões de Combate Aberto."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_haveyoutriedturningitoff": {
+      "guia": {
+        "passos": [
+          "Use um Bastão de Choque para desativar uma Sentinela inimiga."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_thatsonewaytodoit": {
+      "guia": {
+        "passos": [
+          "Destrua um helicóptero inimigo no ar com um Ataque de Morteiro."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_heycatch": {
+      "guia": {
+        "passos": [
+          "Arremesse e acerte um inimigo diretamente com um botijão inflamável e exploda ele."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_frequentflier": {
+      "guia": {
+        "passos": [
+          "Pule de uma superfície e plane por mais de 150 m com seu paraquedas."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_driveby": {
+      "guia": {
+        "passos": [
+          "Elimine 10 inimigos enquanto usa uma tirolesa."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_whatthehellkindofnameis": {
+      "guia": {
+        "passos": [
+          "Conclua a campanha."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_141ready": {
+      "guia": {
+        "passos": [
+          "Conclua a campanha na dificuldade Veterano."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_deathpenalty": {
+      "guia": {
+        "passos": [
+          "Elimine 12 inimigos enquanto desce pelo cabo em 'Operação 627'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_fightorflight": {
+      "guia": {
+        "passos": [
+          "Pule de paraquedas de um guindaste até o terraço do prédio da capitania em 'Carga Explosiva'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_jackofallweapons": {
+      "guia": {
+        "passos": [
+          "Destrua cada helicóptero-alvo com armamentos diferentes em 'Operação Nuclear'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_cccollateral": {
+      "guia": {
+        "passos": [
+          "Usando a EBR-14, elimine 2 inimigos com uma só bala 5 vezes em 'Jogo Sujo' sem acionar o alarme."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_oldhabitsdiehard": {
+      "guia": {
+        "passos": [
+          "Pegue o cartão de acesso do major em até 90s e sem ser detectada em 'Escondida em Plena Vista' ."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_shotblocked": {
+      "guia": {
+        "passos": [
+          "Atire na arma arremessada pelo inimigo antes que o outro terrorista a pegue em 'Flashback'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_enjoythelittlethings": {
+      "guia": {
+        "passos": [
+          "Destrua todos os carros na garagem da mansão em 'A Oligarca'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_fullsweep": {
+      "guia": {
+        "passos": [
+          "Chegue no topo do prédio em 'Alto Risco' em menos de 45 segundos."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_hushhush": {
+      "guia": {
+        "passos": [
+          "Elimine o sniper na floresta em 'Abaixo de Zero' com uma derrubada."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_hitchhiker": {
+      "guia": {
+        "passos": [
+          "Desarme a bomba da picape em 'Barragem de Gora' enquanto ela estiver em movimento."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_sp_yourtaxdollarsatwork": {
+      "guia": {
+        "passos": [
+          "Use um míssil para eliminar um único inimigo em 'Fogo Cruzado'."
+        ],
+        "dicas": [
+          "Conquista do Campanha de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_mp_thefirststep": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 55."
+        ],
+        "dicas": [
+          "Conquista do Multijogador de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_andsoitbegins": {
+      "guia": {
+        "passos": [
+          "Faça uma extração bem-sucedida em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_writeoff": {
+      "guia": {
+        "passos": [
+          "Obtenha 500 baixas usando uma arma segurada em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_perkaholic": {
+      "guia": {
+        "passos": [
+          "Tenha 9 vantagens ativas ao mesmo tempo em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_gravestone": {
+      "guia": {
+        "passos": [
+          "Mate 100 zumbis com um veículo em uma única mobilização em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_backfromthedead": {
+      "guia": {
+        "passos": [
+          "Recupere seus equipamentos de uma Lápide em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_helpfulstranger": {
+      "guia": {
+        "passos": [
+          "Reviva um jogador de outro esquadrão em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_youcanpetthedog": {
+      "guia": {
+        "passos": [
+          "Faça carinho em um Cão Infernal em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_hiredgun": {
+      "guia": {
+        "passos": [
+          "Conclua 20 contratos em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_seeingred": {
+      "guia": {
+        "passos": [
+          "Conclua 5 contratos na Área de Alta Ameaça em uma única mobilização em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_theend": {
+      "guia": {
+        "passos": [
+          "Conclua o Ato III em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_slaughterhouse": {
+      "guia": {
+        "passos": [
+          "Elimine 50.000 inimigos em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_conqueror": {
+      "guia": {
+        "passos": [
+          "Derrote um Chefe em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "jup_ob_oneagainstall": {
+      "guia": {
+        "passos": [
+          "Elimine o Orcus enquanto faz parte de um esquadrão de 6 pessoas em MWZ."
+        ],
+        "dicas": [
+          "Conquista do modo Zumbis/Operações de um dos jogos do hub do Call of Duty; abra o jogo certo pelo launcher."
+        ]
+      }
+    },
+    "acrappywaytodie": {
+      "guia": {
+        "passos": [
+          "Elimine o inimigo no banheiro químico."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "backpackguy": {
+      "guia": {
+        "passos": [
+          "Mate com molotov, semtex e fragmentação hostis atordoados ou atingidos por gás em 'Fuga da Prisão'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "crocodile": {
+      "guia": {
+        "passos": [
+          "Elimine 3 inimigos atirando quando debaixo d'água em 'Trabalho de Fôlego'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "daredevil": {
+      "guia": {
+        "passos": [
+          "Elimine 2 inimigos na Campanha ou Cooperativo estando atordoado por uma granada de luz."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "gentlemanthief": {
+      "guia": {
+        "passos": [
+          "Abra 3 cofres na Campanha."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "ghostintraining": {
+      "guia": {
+        "passos": [
+          "Chegue à cobertura em 'El Sin Nombre' sem eliminar ninguém ou sem ativar o alarme."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "mustbewind": {
+      "guia": {
+        "passos": [
+          "Resgate os reféns em 'Contagem Regressiva' sem que os inimigos disparem suas armas."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "nessy": {
+      "guia": {
+        "passos": [
+          "Chegue na barca sem ser visto em 'Trabalho de Fôlego'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "nobodywasthere": {
+      "guia": {
+        "passos": [
+          "Não dispare o alarme em 'Reconhecimento Mortal'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "noshootwounded": {
+      "guia": {
+        "passos": [
+          "Termine 'Exército de Um Homem Só' sem disparar uma arma de fogo."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "notimetolose": {
+      "guia": {
+        "passos": [
+          "Conclua a sequência das câmeras em 4 minutos."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "onehijack": {
+      "guia": {
+        "passos": [
+          "Chegue até o Price usando o primeiro veículo que você pegar."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "practicemakesperfect": {
+      "guia": {
+        "passos": [
+          "Atire em todos os alvos na área de treinamento em 'Equipe Ghost'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "spfinish": {
+      "guia": {
+        "passos": [
+          "Termine a Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "testdrive": {
+      "guia": {
+        "passos": [
+          "Dirija 5 tipos de veículos em 'Violência e Força'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "thefloorislava": {
+      "guia": {
+        "passos": [
+          "Avance 90 metros no navio em 'Águas Sombrias' sem pisar no convés."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "vetfinish": {
+      "guia": {
+        "passos": [
+          "Conclua todas as missões da Campanha na dificuldade Veterano ou Realismo."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "wallofduty": {
+      "guia": {
+        "passos": [
+          "Elimine 3 inimigos com o escudo antimotim na Campanha ou no Cooperativo."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "fullsse": {
+      "guia": {
+        "passos": [
+          "Encontre 20 fragmentos de inteligência no Cooperativo."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "noalarmbadsit": {
+      "guia": {
+        "passos": [
+          "Conclua 'Na Surdina' sem ativar alarmes."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "onestarcp": {
+      "guia": {
+        "passos": [
+          "Ganhe pelo menos 1 Estrela no Cooperativo."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "threestarbadsit": {
+      "guia": {
+        "passos": [
+          "Ganhe 3 Estrelas em 'Na Surdina'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "threestarobservatory": {
+      "guia": {
+        "passos": [
+          "Ganhe 3 Estrelas em 'Monte Zaya'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    },
+    "threestarvehesc": {
+      "guia": {
+        "passos": [
+          "Ganhe 3 Estrelas em 'Área Restrita'."
+        ],
+        "dicas": [
+          "Conquista de campanha/missões especiais; use a Seleção de Missão para repetir a fase."
+        ]
+      }
+    }
+  }
 }

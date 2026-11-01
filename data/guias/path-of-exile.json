@@ -15,5 +15,967 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "FinishNormal": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto em uma liga não Hardcore."
+        ]
+      }
+    },
+    "FinishCruel": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto Cruel em uma liga não Hardcore."
+        ]
+      }
+    },
+    "FinishMerciless": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto Impiedoso em uma liga não Hardcore."
+        ]
+      }
+    },
+    "FinishNormalHC": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto em uma liga Hardcore."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "FinishCruelHC": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto Cruel em uma liga Hardcore."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "FinishMercilessHC": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto Impiedoso em uma liga Hardcore."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "KillBrutus": {
+      "guia": {
+        "passos": [
+          "Mate Brutus, o Carcereiro da Prisão Axiom."
+        ]
+      }
+    },
+    "KillMerveil": {
+      "guia": {
+        "passos": [
+          "Mate Merveil, a Sereia."
+        ]
+      }
+    },
+    "KillVaal": {
+      "guia": {
+        "passos": [
+          "Elimine o Sobrealma Vaal."
+        ]
+      }
+    },
+    "KillPiety": {
+      "guia": {
+        "passos": [
+          "Derrote a Piety em seu laboratório."
+        ]
+      }
+    },
+    "KillDominusRanger": {
+      "guia": {
+        "passos": [
+          "Mate o Dominus como a Caçadora."
+        ],
+        "dicas": [
+          "Dominus é o chefe final do Ato 3; derrote-o com essa classe."
+        ]
+      }
+    },
+    "KillDominusTemplar": {
+      "guia": {
+        "passos": [
+          "Mate o Dominus como o Templário."
+        ],
+        "dicas": [
+          "Dominus é o chefe final do Ato 3; derrote-o com essa classe."
+        ]
+      }
+    },
+    "KillDominusWitch": {
+      "guia": {
+        "passos": [
+          "Mate o Dominus como a Bruxa."
+        ],
+        "dicas": [
+          "Dominus é o chefe final do Ato 3; derrote-o com essa classe."
+        ]
+      }
+    },
+    "KillDominusShadow": {
+      "guia": {
+        "passos": [
+          "Mate o Dominus como o Sombra."
+        ],
+        "dicas": [
+          "Dominus é o chefe final do Ato 3; derrote-o com essa classe."
+        ]
+      }
+    },
+    "KillDominusDuelist": {
+      "guia": {
+        "passos": [
+          "Mate o Dominus como o Duelista."
+        ],
+        "dicas": [
+          "Dominus é o chefe final do Ato 3; derrote-o com essa classe."
+        ]
+      }
+    },
+    "KillDominusMarauder": {
+      "guia": {
+        "passos": [
+          "Mate o Dominus como o Marauder."
+        ],
+        "dicas": [
+          "Dominus é o chefe final do Ato 3; derrote-o com essa classe."
+        ]
+      }
+    },
+    "KillDominusScion": {
+      "guia": {
+        "passos": [
+          "Mate o Dominus como a Herdeira."
+        ],
+        "dicas": [
+          "A Scion é liberada ao resgatá-la no Ato 3; depois derrote Dominus com ela."
+        ]
+      }
+    },
+    "UnlockScion": {
+      "guia": {
+        "passos": [
+          "Liberte a Herdeira."
+        ]
+      }
+    },
+    "Level60": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 60 com um personagem Não Hardcore."
+        ]
+      }
+    },
+    "Level70": {
+      "guia": {
+        "passos": [
+          "Atinja o nível 70 com um personagem fora do modo Extremo."
+        ]
+      }
+    },
+    "Level80": {
+      "guia": {
+        "passos": [
+          "Atinja o nível 80 com um personagem fora do modo Extremo."
+        ]
+      }
+    },
+    "Level90": {
+      "guia": {
+        "passos": [
+          "Atinja o nível 90 com um personagem fora do modo Extremo."
+        ]
+      }
+    },
+    "Level60HC": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 60 com um personagem Hardcore."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "Level70HC": {
+      "guia": {
+        "passos": [
+          "Atinja o nível 70 com um personagem no modo Extremo."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "Level80HC": {
+      "guia": {
+        "passos": [
+          "Atinja o nível 80 com um personagem no modo Extremo."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "Level90HC": {
+      "guia": {
+        "passos": [
+          "Atinja o nível 90 com um personagem no modo Extremo."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "AllWaypoints": {
+      "guia": {
+        "passos": [
+          "Ative cada um dos marcadores com o mesmo personagem."
+        ]
+      }
+    },
+    "AllOptionalQuests": {
+      "guia": {
+        "passos": [
+          "Complete cada uma das missões paralelas com o mesmo personagem."
+        ]
+      }
+    },
+    "AllOptionalDialogue": {
+      "guia": {
+        "passos": [
+          "Escute todos diálogos opcionais de NPCs com o mesmo personagem."
+        ],
+        "dicas": [
+          "Fale com todos os NPCs em todas as opções de diálogo em cada ato."
+        ]
+      }
+    },
+    "AllEnvironmentLore": {
+      "guia": {
+        "passos": [
+          "Descubra todas histórias ambientais com o mesmo personagem."
+        ],
+        "dicas": [
+          "Leia todas as placas/lore espalhadas pelos atos."
+        ]
+      }
+    },
+    "ChanceUnique": {
+      "guia": {
+        "passos": [
+          "Crie um item Único usando um Orbe da Chance."
+        ]
+      }
+    },
+    "RollSixLink": {
+      "guia": {
+        "passos": [
+          "Crie um item com seis encaixes conectados usando o Orbe da Fusão."
+        ]
+      }
+    },
+    "Level20Gem": {
+      "guia": {
+        "passos": [
+          "Aprimore uma Gema de Habilidade até o nível 20."
+        ]
+      }
+    },
+    "Have15Charges": {
+      "guia": {
+        "passos": [
+          "Tenha 15 Cargas de Tolerância, Frenesi e Poder combinadas e ativas simultaneamente."
+        ]
+      }
+    },
+    "SlayBurningShockedFrozen": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo que está Incendiado, Eletrizado e Congelado ao mesmo tempo."
+        ]
+      }
+    },
+    "EquipRareEachSlot": {
+      "guia": {
+        "passos": [
+          "Equipe um item Único ou Raro em todos os espaços que não são para Frascos."
+        ]
+      }
+    },
+    "ShatterFiveInOne": {
+      "guia": {
+        "passos": [
+          "Estilhace 5 monstros com uma única ação."
+        ]
+      }
+    },
+    "EquipUnique": {
+      "guia": {
+        "passos": [
+          "Equipe um Item Único."
+        ]
+      }
+    },
+    "AllocateKeystone": {
+      "guia": {
+        "passos": [
+          "Distribuia uma Habilidade Pedra Passiva Angular."
+        ]
+      }
+    },
+    "FullClearMap": {
+      "guia": {
+        "passos": [
+          "Limpe completamente uma área de um Mapa do fim do jogo."
+        ]
+      }
+    },
+    "SideWithBandits": {
+      "guia": {
+        "passos": [
+          "Ajude todos os três Lordes Bandidos."
+        ]
+      }
+    },
+    "OpenGoldenChest": {
+      "guia": {
+        "passos": [
+          "Abra um Baú Grande."
+        ]
+      }
+    },
+    "HaveThreeTotems": {
+      "guia": {
+        "passos": [
+          "Tenha 3 Totens vivos ao mesmo tempo."
+        ]
+      }
+    },
+    "Level8InRace": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 8 em qualquer Evento de Corrida."
+        ],
+        "atencao": [
+          "Eventos de Race não acontecem com frequência; fique de olho no calendário."
+        ]
+      }
+    },
+    "CaptureAFlag": {
+      "guia": {
+        "passos": [
+          "Pegue uma Bandeira."
+        ],
+        "atencao": [
+          "O PvP de Capture a Bandeira pode não existir mais; verifique se ainda é possível."
+        ]
+      }
+    },
+    "Have9Zombies": {
+      "guia": {
+        "passos": [
+          "Tenha 9 Zumbis Evocados ao mesmo tempo."
+        ]
+      }
+    },
+    "ResistAllElements75%": {
+      "guia": {
+        "passos": [
+          "Tenha ao menos 75% de resistência a Fogo, Gelo e Raio."
+        ]
+      }
+    },
+    "UniqueMapFromUniqueMap": {
+      "guia": {
+        "passos": [
+          "Encontre um Mapa Único em um Mapa Único."
+        ]
+      }
+    },
+    "UniqueFromNormalTwilightStrand": {
+      "guia": {
+        "passos": [
+          "Encontre um Item Único na Costa do Crepúsculo no Ato 1."
+        ]
+      }
+    },
+    "FullClearDreadThicket": {
+      "guia": {
+        "passos": [
+          "Limpe completamente o Matagal Horrendo."
+        ]
+      }
+    },
+    "Allocate4Keystones": {
+      "guia": {
+        "passos": [
+          "Distribua a quarta Habilidade Pedra Passiva Angular de um personagem."
+        ]
+      }
+    },
+    "FullClearCatacombs": {
+      "guia": {
+        "passos": [
+          "Limpe completamente as Catacumbas."
+        ]
+      }
+    },
+    "ResistAnyElement90%": {
+      "guia": {
+        "passos": [
+          "Tenha ao menos 90% de resistência a qualquer Elemento."
+        ]
+      }
+    },
+    "FullClearArchives": {
+      "guia": {
+        "passos": [
+          "Limpe completamente os Arquivos."
+        ]
+      }
+    },
+    "JoinPublicParty": {
+      "guia": {
+        "passos": [
+          "Entre em um grupo público."
+        ]
+      }
+    },
+    "FullClearShipGraveyardCave": {
+      "guia": {
+        "passos": [
+          "Limpe completamente a Caverna da Necrópole de Navios."
+        ]
+      }
+    },
+    "Level20VaalGem": {
+      "guia": {
+        "passos": [
+          "Aprimore uma Gema de Habilidade Vaal até o nível 20."
+        ]
+      }
+    },
+    "CorruptItemWhiteSocket": {
+      "guia": {
+        "passos": [
+          "Corrompa um item para ter um encaixe branco."
+        ]
+      }
+    },
+    "Have60Minions": {
+      "guia": {
+        "passos": [
+          "Tenha 60 Lacaios ao mesmo tempo."
+        ]
+      }
+    },
+    "CorruptMap8Mods": {
+      "guia": {
+        "passos": [
+          "Corrompa um mapa para ter oito propriedades."
+        ]
+      }
+    },
+    "KillPlayerInCutthroat": {
+      "guia": {
+        "passos": [
+          "Mate outro jogador em qualquer modo ou liga."
+        ],
+        "atencao": [
+          "Liga/evento antigo Cut-throat: provavelmente não é mais obtível."
+        ]
+      }
+    },
+    "CorruptMapTier14": {
+      "guia": {
+        "passos": [
+          "Corrompa um mapa nível 78 em um mapa de Templo Vaal."
+        ]
+      }
+    },
+    "CorruptGemVaalGem": {
+      "guia": {
+        "passos": [
+          "Corromper uma gema de habilidade em uma gema de habilidade Vaal."
+        ]
+      }
+    },
+    "EnhanceMapWithFragment": {
+      "guia": {
+        "passos": [
+          "Aprimore um mapa com um fragmento Vaal."
+        ]
+      }
+    },
+    "CorruptItemNewImplicit": {
+      "guia": {
+        "passos": [
+          "Corrompa um item para obter uma nova propriedade implícita."
+        ]
+      }
+    },
+    "FullClearApexOfSacrifice": {
+      "guia": {
+        "passos": [
+          "Mate Atziri no Ápice do Sacrifício."
+        ]
+      }
+    },
+    "FullClearColosseum": {
+      "guia": {
+        "passos": [
+          "Limpe completamente o mapa do Coliseu ou do Fosso no fim de jogo."
+        ]
+      }
+    },
+    "FullClearTheHarvest": {
+      "guia": {
+        "passos": [
+          "Limpe completamente a Colheita."
+        ]
+      }
+    },
+    "KillVollBoss": {
+      "guia": {
+        "passos": [
+          "Mate Voll, Imperador da Pureza."
+        ]
+      }
+    },
+    "KillShavronne": {
+      "guia": {
+        "passos": [
+          "Mate Shavronne da Umbra."
+        ]
+      }
+    },
+    "KillDoedre": {
+      "guia": {
+        "passos": [
+          "Mate Doedre Língua Sombria."
+        ]
+      }
+    },
+    "KillMaligaro": {
+      "guia": {
+        "passos": [
+          "Mate Maligaro, o Inquisidor."
+        ]
+      }
+    },
+    "KillMalachaiMapBoss": {
+      "guia": {
+        "passos": [
+          "Mate o Devorador de Almas no Mapa Avançado, Núcleo."
+        ]
+      }
+    },
+    "HandInFullSetDivinationCards": {
+      "guia": {
+        "passos": [
+          "Entregue um conjunto completo de Cartas de Adivinhação."
+        ]
+      }
+    },
+    "KillMalachaiAllCharacters": {
+      "guia": {
+        "passos": [
+          "Mate Malachai, O Pesadelo."
+        ]
+      }
+    },
+    "LifeReservedNinetyFivePercent": {
+      "guia": {
+        "passos": [
+          "Reserve 95% ou mais da sua Vida."
+        ]
+      }
+    },
+    "VaalOversoulKilledWithFortify": {
+      "guia": {
+        "passos": [
+          "Dê o golpe fatal na Sobrealma Vaal enquanto tiver o Bônus Fortificar ativo."
+        ]
+      }
+    },
+    "KillExileKaomsStronghold": {
+      "guia": {
+        "passos": [
+          "Mate um Exilado Renegado na Fortaleza de Kaom."
+        ]
+      }
+    },
+    "KillBurningManWhileBurning": {
+      "guia": {
+        "passos": [
+          "Dê o golpe fatal no Homem Ardente enquanto estiver queimando."
+        ]
+      }
+    },
+    "OpenAVaalVessel": {
+      "guia": {
+        "passos": [
+          "Abra um Vaso Vaal em uma zona corrompida."
+        ]
+      }
+    },
+    "EquipMarakethWeapons": {
+      "guia": {
+        "passos": [
+          "Equipe cada tipo de Arma Maraketh."
+        ]
+      }
+    },
+    "MakeFourModJewelWithAlchemy": {
+      "guia": {
+        "passos": [
+          "Crie uma Joia com quatro modificações usando um Orbe da Alquimia."
+        ]
+      }
+    },
+    "CorruptToCorruptUniqueJewel": {
+      "guia": {
+        "passos": [
+          "Corrompa uma Joia Única em uma Joia Única diferente."
+        ]
+      }
+    },
+    "EquipUniqueJewelRadius": {
+      "guia": {
+        "passos": [
+          "Equipe uma Joia Única dentro de um raio."
+        ]
+      }
+    },
+    "FindAllShaperMemoryFragments": {
+      "guia": {
+        "passos": [
+          "Derrote o Ancião."
+        ]
+      }
+    },
+    "CompleteAct5": {
+      "guia": {
+        "passos": [
+          "Complete a Parte 1."
+        ]
+      }
+    },
+    "KillBrineKing": {
+      "guia": {
+        "passos": [
+          "Mate Tsoagoth, o Rei da Salmoura."
+        ]
+      }
+    },
+    "KillArakaali": {
+      "guia": {
+        "passos": [
+          "Mate Arakaali, Fiandeira das Sombras."
+        ]
+      }
+    },
+    "KillLunarisSolaris": {
+      "guia": {
+        "passos": [
+          "Mate Lunaris e Solaris no mesmo encontro."
+        ]
+      }
+    },
+    "KillUnholyTrio": {
+      "guia": {
+        "passos": [
+          "Mate a Trindade Depravada."
+        ]
+      }
+    },
+    "CompleteAct10": {
+      "guia": {
+        "passos": [
+          "Complete a Parte 2."
+        ]
+      }
+    },
+    "AllWhiteMaps": {
+      "guia": {
+        "passos": [
+          "Encaixe uma Pedra do Vazio em seu Atlas."
+        ]
+      }
+    },
+    "AllYellowMaps": {
+      "guia": {
+        "passos": [
+          "Encaixe duas Pedras do Vazio em seu Atlas."
+        ]
+      }
+    },
+    "AllRedMaps": {
+      "guia": {
+        "passos": [
+          "Encaixe três Pedras do Vazio em seu Atlas."
+        ]
+      }
+    },
+    "CompleteAtlas": {
+      "guia": {
+        "passos": [
+          "Complete todos mapas no Atlas."
+        ],
+        "dicas": [
+          "Complete todos os mapas do Atlas em uma liga; exige muito tempo de endgame."
+        ]
+      }
+    },
+    "HallOfGrandmasters": {
+      "guia": {
+        "passos": [
+          "Complete o Salão dos Grão-Mestres."
+        ]
+      }
+    },
+    "KillUberAtziri": {
+      "guia": {
+        "passos": [
+          "Mate Atziri no Abismo Encantador."
+        ],
+        "atencao": [
+          "Atziri Uber é um chefe de endgame muito difícil."
+        ]
+      }
+    },
+    "UseShapersOrb": {
+      "guia": {
+        "passos": [
+          "Complete um mapa de nível 11 ou superior com um Escaravelho com Chifres aplicado."
+        ]
+      }
+    },
+    "KillAllBreachlords": {
+      "guia": {
+        "passos": [
+          "Mate Aquilo que foi Esh e Aquilo que foi Tul."
+        ]
+      }
+    },
+    "ChooseAscendancyClass": {
+      "guia": {
+        "passos": [
+          "Escolha uma Classe Ascendente."
+        ]
+      }
+    },
+    "KillPaleCouncil": {
+      "guia": {
+        "passos": [
+          "Complete a Praça Vinktar."
+        ]
+      }
+    },
+    "KillTheShaper": {
+      "guia": {
+        "passos": [
+          "Derrote o Criador."
+        ]
+      }
+    },
+    "StandardEndgameLabyrinth": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto Eterno em uma Liga não Extrema."
+        ]
+      }
+    },
+    "HardcoreEndgameLabyrinth": {
+      "guia": {
+        "passos": [
+          "Complete o Labirinto Eterno em uma Liga Extrema."
+        ],
+        "atencao": [
+          "Exige personagem Hardcore: morrer manda o personagem para a liga Standard."
+        ]
+      }
+    },
+    "KillDominus": {
+      "guia": {
+        "passos": [
+          "Mate o Alto Templário Dominus."
+        ],
+        "dicas": [
+          "Dominus é o chefe final do Ato 3; derrote-o com essa classe."
+        ]
+      }
+    },
+    "KillArgus": {
+      "guia": {
+        "passos": [
+          "Mate o Argus."
+        ]
+      }
+    },
+    "GetThreeKeysFromIzaro": {
+      "guia": {
+        "passos": [
+          "Mate o Izaro e faça com que ele derrube 3 chaves do tesouro."
+        ]
+      }
+    },
+    "SlayAGod": {
+      "guia": {
+        "passos": [
+          "Mate um deus e obtenha seu poder."
+        ]
+      }
+    },
+    "EquipTwoOfTheSameUnique": {
+      "guia": {
+        "passos": [
+          "Equipe dois itens únicos com o mesmo nome."
+        ]
+      }
+    },
+    "CompleteTenModMap": {
+      "guia": {
+        "passos": [
+          "Complete uma área de mapa que está sendo afetada por 10 ou mais modificadores."
+        ]
+      }
+    },
+    "OpenAndEnterAMap": {
+      "guia": {
+        "passos": [
+          "Abra um mapa no dispositivo de mapas e atravesse o portal."
+        ]
+      }
+    },
+    "KillAbaxoth": {
+      "guia": {
+        "passos": [
+          "Mate o Beidat, Arcanjo da Morte."
+        ]
+      }
+    },
+    "CompleteADailyMission": {
+      "guia": {
+        "passos": [
+          "Complete Objetivos dos Mestres no Atlas."
+        ]
+      }
+    },
+    "SevenMaxLevelMasters": {
+      "guia": {
+        "passos": [
+          "Derrote o inimigo mais perigoso de Cada Mestre."
+        ],
+        "atencao": [
+          "Sistema de Mestres antigo; pode não ser mais obtível como descrito."
+        ]
+      }
+    },
+    "ObtainAllGodPowers": {
+      "guia": {
+        "passos": [
+          "Obtenha todos poderes do Panteão."
+        ]
+      }
+    },
+    "FullyUpgradePantheon": {
+      "guia": {
+        "passos": [
+          "Aprimore completamente cada poder de deus."
+        ]
+      }
+    },
+    "CorruptMonolith": {
+      "guia": {
+        "passos": [
+          "Corrompe um monstro de essência com um Orbe Vaal."
+        ]
+      }
+    },
+    "KillFiveEssenceMonster": {
+      "guia": {
+        "passos": [
+          "Mate um monstro que está sob influência de cinco mods de Essência."
+        ]
+      }
+    },
+    "KillAllWarbandLeaders": {
+      "guia": {
+        "passos": [
+          "Mate todos líderes Bandoleiros."
+        ]
+      }
+    },
+    "UseCurrencyOnStrongbox": {
+      "guia": {
+        "passos": [
+          "Use um orbe para mudar os mods de um Cofre."
+        ]
+      }
+    },
+    "UpgradeAllCountriesTier5": {
+      "guia": {
+        "passos": [
+          "Encaixe quatro Pedras do Vazio em seu Atlas."
+        ]
+      }
+    },
+    "DefeatTheOrion": {
+      "guia": {
+        "passos": [
+          "Derrote Sirius, Precursor de Mundos."
+        ]
+      }
+    },
+    "DefeatTheMaven": {
+      "guia": {
+        "passos": [
+          "Aceite o Convite da Maven e derrote A Maven."
+        ]
+      }
+    },
+    "DefeatScarsOfTheAtlasBoss1": {
+      "guia": {
+        "passos": [
+          "Derrote a Estrela Negra."
+        ]
+      }
+    },
+    "DefeatScarsOfTheAtlasBoss2": {
+      "guia": {
+        "passos": [
+          "Derrote a Fome Infinita."
+        ]
+      }
+    },
+    "DefeatScarsOfTheAtlasBoss3": {
+      "guia": {
+        "passos": [
+          "Derrote o Exarca Cauterizado."
+        ]
+      }
+    },
+    "DefeatScarsOfTheAtlasBoss4": {
+      "guia": {
+        "passos": [
+          "Derrote o Devorador de Mundos."
+        ]
+      }
+    }
+  }
 }

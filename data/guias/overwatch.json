@@ -11,5 +11,1646 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "0x0E60000000000002": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos usando um único Desabrochar da Morte do Reaper em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000156": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000157": {
+      "guia": {
+        "passos": [
+          "Suba 10 escalões do Passe de Batalha."
+        ],
+        "dicas": [
+          "Suba níveis do Passe de Batalha (a trilha gratuita conta)."
+        ]
+      }
+    },
+    "0x0E60000000000158": {
+      "guia": {
+        "passos": [
+          "Suba 25 escalões do Passe de Batalha."
+        ],
+        "dicas": [
+          "Suba níveis do Passe de Batalha (a trilha gratuita conta)."
+        ]
+      }
+    },
+    "0x0E60000000000159": {
+      "guia": {
+        "passos": [
+          "Suba 50 escalões do Passe de Batalha."
+        ],
+        "dicas": [
+          "Suba níveis do Passe de Batalha (a trilha gratuita conta)."
+        ]
+      }
+    },
+    "0x0E6000000000015B": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos usando uma única Lâmina do Dragão de Genji em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000015D": {
+      "guia": {
+        "passos": [
+          "Realize 20 abates em série em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000015E": {
+      "guia": {
+        "passos": [
+          "Destrua 3 Teletransportadores da Symmetra em uma única partida de Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000015F": {
+      "guia": {
+        "passos": [
+          "Use kit médico para curar 900 de vida em uma única vida em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000160": {
+      "guia": {
+        "passos": [
+          "Conclua 50 desafios."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000161": {
+      "guia": {
+        "passos": [
+          "Receba 21 Indicações."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000162": {
+      "guia": {
+        "passos": [
+          "Consiga 50 desbloqueios para um único herói."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000163": {
+      "guia": {
+        "passos": [
+          "Mate 2 inimigos usando um único Desviar do Genji em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000164": {
+      "guia": {
+        "passos": [
+          "Consiga 3 abates individuais com um único cartucho do Reaper no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000165": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo detido pelo Clarão do Cassidy com um tiro na cabeça em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000166": {
+      "guia": {
+        "passos": [
+          "Consiga 4 golpes finais usando um único Tiro Certeiro do Cassidy em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000167": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos seguidos com a Pharah sem tocar o chão em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000168": {
+      "guia": {
+        "passos": [
+          "Derrube um inimigo para morte usando a Explosão Concussiva da Pharah em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000169": {
+      "guia": {
+        "passos": [
+          "Consiga 2 golpes finais usando um único Foguete Hélix do Soldado: 76 em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000016A": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos usando um único Visor Tático do Soldado: 76 em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000016B": {
+      "guia": {
+        "passos": [
+          "Recupere 400 de vida usando a Recordação da Tracer sem morrer em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000016C": {
+      "guia": {
+        "passos": [
+          "Prenda 4 Bombas Eletromagnéticas da Tracer nos inimigos em um único Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000016D": {
+      "guia": {
+        "passos": [
+          "Mate 2 inimigos com cada uma das configurações do Bastion sem morrer em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000016E": {
+      "guia": {
+        "passos": [
+          "Mate 3 inimigos usando uma única Configuração: Artilharia de Bastion no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000016F": {
+      "guia": {
+        "passos": [
+          "Consiga 3 golpes finais com um só uso de Flechas da Tempestade do Hanzo em Jogo Rápido/Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000170": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos com um dos Dragões Espirituais de Hanzo em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000171": {
+      "guia": {
+        "passos": [
+          "Derrube um inimigo na Armadilha de Aço com Mina de Concussão do Junkrat em Jogo Rápido/Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000172": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos usando um único Pneu da Morte do Junkrat em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000173": {
+      "guia": {
+        "passos": [
+          "Bloqueie 1.000 de dano usando uma única Muralha de Gelo da Mei no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000174": {
+      "guia": {
+        "passos": [
+          "Congele 4 inimigos de uma vez com a Mei em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000175": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos usando um único Núcleo Fundido do Torbjörn em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000177": {
+      "guia": {
+        "passos": [
+          "Absorva 500 de dano com a Sobrecarga do Torbjörn sem morrer no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000178": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos usando a Mina Venenosa da Widowmaker em um único Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000179": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo com tiro na cabeça (telescópica, no ar) com Widowmaker em Jogo Rápido/Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000017A": {
+      "guia": {
+        "passos": [
+          "Evite 1.250 de dano usando uma única Matriz de Defesa da D.va no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000017B": {
+      "guia": {
+        "passos": [
+          "Mate 4 inimigos usando um único Autodestruir da D.va em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000017C": {
+      "guia": {
+        "passos": [
+          "Bloqueie 7.500 de dano com o Campo de Barreira do Reinhardt sem morrer no Jogo Rápido ou Comp."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000017D": {
+      "guia": {
+        "passos": [
+          "Use Tiro Flamejante e Investida de Reinhardt após o Abalo Terrestre em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000017E": {
+      "guia": {
+        "passos": [
+          "Interrompa a habilidade suprema de um inimigo com o Gancho do Roadhog em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000017F": {
+      "guia": {
+        "passos": [
+          "Derrube 2 inimigos para morte usando um único Cair Matando do Roadhog em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000180": {
+      "guia": {
+        "passos": [
+          "Destrua 10 torres/armadilhas com o Canhão de Tesla do Winston sem morrer em Jogo Rápido/Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000181": {
+      "guia": {
+        "passos": [
+          "Cause dano a 5 inimigos usando uma única Fúria Primata de Winston no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000182": {
+      "guia": {
+        "passos": [
+          "Mantenha o canhão de partículas da Zarya acima de 70 por 60 segundos em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000183": {
+      "guia": {
+        "passos": [
+          "Capture 4 inimigos em um único Surto de Grávitons da Zarya no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000184": {
+      "guia": {
+        "passos": [
+          "Consiga 3 golpes finais correndo na parede com o Lúcio sem morrer em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000185": {
+      "guia": {
+        "passos": [
+          "Bloqueie 900 de dano usando uma única Barreira de Som do Lúcio no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000186": {
+      "guia": {
+        "passos": [
+          "Restaure 150 de vida de 4 aliados com a Mercy sem morrer no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000187": {
+      "guia": {
+        "passos": [
+          "Ressuscite 5 aliados sem morrer com a Mercy no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000188": {
+      "guia": {
+        "passos": [
+          "Acerte um inimigo com 3 raios simultaneamente com Symmetra em um Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000189": {
+      "guia": {
+        "passos": [
+          "Teletransporte 15 aliados com a Symmetra em uma única partida de Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000018A": {
+      "guia": {
+        "passos": [
+          "Faça 4 abates/assistências com Orbe da Discórdia do Zenyatta em 6 seg. em Jogo Rápido/Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000018B": {
+      "guia": {
+        "passos": [
+          "Restaure 1.250 de vida usando uma única Transcendência do Zenyatta no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000018C": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de Mapas de Ataque na defesa sem perder o primeiro objetivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000018D": {
+      "guia": {
+        "passos": [
+          "Capture os dois objetivos em uma partida de Mapas de Ataque sem morrer."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000018E": {
+      "guia": {
+        "passos": [
+          "Empurre uma carga por 100 metros sem largá-la, em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000018F": {
+      "guia": {
+        "passos": [
+          "Evite que a equipe atacante toque na carga por 1 minuto em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000190": {
+      "guia": {
+        "passos": [
+          "Vença mapa de controle sem deixar que o inimigo capture um objetivo em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000191": {
+      "guia": {
+        "passos": [
+          "Vença um Jogo Rápido ou Competitivo em 12 mapas diferentes."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000192": {
+      "guia": {
+        "passos": [
+          "Jogue um Jogo Rápido ou Competitivo em grupo com um amigo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000195": {
+      "guia": {
+        "passos": [
+          "Interrompa a habilidade suprema de um inimigo com Dardo Sonífero em um Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000196": {
+      "guia": {
+        "passos": [
+          "Consiga 4 abates ou assistências com um único uso do Estimulante no Jogo Competitivo ou Rápido."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000197": {
+      "guia": {
+        "passos": [
+          "Vença a Vingança de Junkenstein no modo Difícil."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000198": {
+      "guia": {
+        "passos": [
+          "Vença a Vingança de Junkenstein no modo Difícil sem danos à porta."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000199": {
+      "guia": {
+        "passos": [
+          "Vença a Vingança de Junkenstein com 4 heróis diferentes."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E6000000000019C": {
+      "guia": {
+        "passos": [
+          "Vença a Vingança de Junkenstein no modo Lendário."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001A9": {
+      "guia": {
+        "passos": [
+          "Hackeie 15 inimigos como a Sombra sem morrer no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001AA": {
+      "guia": {
+        "passos": [
+          "Hackeie 5 inimigos usando o PEM da Sombra uma só vez no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001AB": {
+      "guia": {
+        "passos": [
+          "Vença a Ofensiva de Bola de Neve da Mei sem perder uma rodada."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001AC": {
+      "guia": {
+        "passos": [
+          "Abata 4 inimigos sem errar na Ofensiva de Bola de Neve da Mei."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001AD": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo com uma bola de neve a 25 metros de distância na Ofensiva de Bola de Neve da Mei."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001AE": {
+      "guia": {
+        "passos": [
+          "Mate 3 inimigos enquanto eles estão pegando neve em um jogo de Ofensiva de Bola de Neve da Mei."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001AF": {
+      "guia": {
+        "passos": [
+          "Vença no modo Capture a Bandeira com o placar de 3 a 0."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001B0": {
+      "guia": {
+        "passos": [
+          "Recupere uma bandeira em uma partida de Capture a Bandeira."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001B1": {
+      "guia": {
+        "passos": [
+          "Mate 3 inimigos usando um único Rompante Terrano da Orisa no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001B2": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo derrubando-o com o Dardo Energético da Orisa no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001B3": {
+      "guia": {
+        "passos": [
+          "Conclua Insurreição (História) no modo Difícil."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001B4": {
+      "guia": {
+        "passos": [
+          "Conclua Insurreição (História) no modo Especialista."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001B5": {
+      "guia": {
+        "passos": [
+          "Conclua Insurreição (História) no modo Lendário."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001B6": {
+      "guia": {
+        "passos": [
+          "Entregue a carga com mais de 80% de vida em Insurreição (História) no modo Difícil."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001B7": {
+      "guia": {
+        "passos": [
+          "Conclua Insurreição (História) com cada um dos 4 heróis."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001B8": {
+      "guia": {
+        "passos": [
+          "Vença a Insurreição (todos os heróis) com 8 heróis diferentes."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001BB": {
+      "guia": {
+        "passos": [
+          "Empurre 3 inimigos contra a parede com o Soco Foguete Carregado do Doomfist no Jogo Rápido ou Comp."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001BC": {
+      "guia": {
+        "passos": [
+          "Atinja 4 inimigos usando um único Impacto Meteoro do Doomfist no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001BD": {
+      "guia": {
+        "passos": [
+          "Marque um gol no Lúciobol com um chute de pelo menos 4 metros de distância no ar."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001BE": {
+      "guia": {
+        "passos": [
+          "Faça 3 defesas seguidas no Lúciobol."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001BF": {
+      "guia": {
+        "passos": [
+          "Marque um gol, uma defesa e uma assistência em um jogo de Lúciobol."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001C2": {
+      "guia": {
+        "passos": [
+          "Vença a Vingança de Junkenstein no modo Especialista."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001C3": {
+      "guia": {
+        "passos": [
+          "Vença em Junkenstein Sem Fim com 6 heróis diferentes."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001C4": {
+      "guia": {
+        "passos": [
+          "Vença em Junkenstein Sem Fim no modo Difícil sem danos à porta."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001C5": {
+      "guia": {
+        "passos": [
+          "Sobreviva a 4 ondas adicionais de inimigos em Junkenstein Sem Fim no modo Especialista."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001C6": {
+      "guia": {
+        "passos": [
+          "Acerte 6 alvos simultaneamente com a Coalescência da Moira no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001C7": {
+      "guia": {
+        "passos": [
+          "Esgote completamente ambos tipos de Orbe Biótico da Moira sem morrer no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001C8": {
+      "guia": {
+        "passos": [
+          "Como o Yeti, coma 4 carnes em Caça ao Yeti."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001C9": {
+      "guia": {
+        "passos": [
+          "Como um Caçador, prenda o Yeti em Caça ao Yeti."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001CB": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo que esteja no ar com o Disparo Açoitador de Brigitte em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001CC": {
+      "guia": {
+        "passos": [
+          "Mate um herói inimigo com o Golpe de Escudo da Brigitte no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001CD": {
+      "guia": {
+        "passos": [
+          "Conclua Retaliação (História) com cada um dos 4 heróis."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001CE": {
+      "guia": {
+        "passos": [
+          "Vença em Retaliação (todos os heróis) com 8 heróis."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001CF": {
+      "guia": {
+        "passos": [
+          "Conclua Retaliação (História) no modo Difícil."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001D0": {
+      "guia": {
+        "passos": [
+          "Conclua Retaliação (História) no modo Especialista."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001D1": {
+      "guia": {
+        "passos": [
+          "Conclua Retaliação (História) no modo Lendário."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001D2": {
+      "guia": {
+        "passos": [
+          "Conclua Retaliação (História) no modo Especialista sem nenhuma incapacitação."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001D5": {
+      "guia": {
+        "passos": [
+          "Absorva 1.250 de dano com o Escudo Adaptativo do Wrecking Ball sem morrer no Jogo Rápido ou Comp."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001D6": {
+      "guia": {
+        "passos": [
+          "Passe rolando por cima de 4 inimigos em 2 segundos com Wrecking Ball no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001D8": {
+      "guia": {
+        "passos": [
+          "Vença a Vingança de Junkenstein com 6 heróis diferentes."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001D9": {
+      "guia": {
+        "passos": [
+          "Sobreviva a 4 ondas adicionais em Junkenstein Sem Fim no modo Difícil."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001DA": {
+      "guia": {
+        "passos": [
+          "Sobreviva a 12 ondas adicionais em Junkenstein Sem Fim."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001DB": {
+      "guia": {
+        "passos": [
+          "Com Ashe, abata um inimigo lançado para o alto por B.O.B. no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001DC": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo atirando na Dinamite de Ashe, 30 m ou mais de distância no Jogo Rápido/Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001DD": {
+      "guia": {
+        "passos": [
+          "Mate 2 inimigos com uma única Rajada da Mei na Ofensiva de Bola de Neve da Mei."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001DE": {
+      "guia": {
+        "passos": [
+          "Vença uma rodada como único sobrevivente na Ofensiva de Bola de Neve da Mei."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001DF": {
+      "guia": {
+        "passos": [
+          "Como o Yeti, mate 3 inimigos na Caça ao Yeti."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E0": {
+      "guia": {
+        "passos": [
+          "Capture uma bandeira em uma partida de Capture a Bandeira."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E1": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo que esteja carregando a bandeira em uma partida de Capture a Bandeira."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E2": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (História) com cada um dos 4 heróis."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E3": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (História) no modo Especialista."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E4": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (História) no modo Difícil."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E5": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (História) no modo Lendário."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E6": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (Todos os Heróis) com 8 heróis diferentes."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E7": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (Todos os Heróis) no modo Especialista."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E8": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (Todos os Heróis) no modo Difícil."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001E9": {
+      "guia": {
+        "passos": [
+          "Conclua Tempestade Iminente (Todos os Heróis) no modo Lendário sem nenhuma incapacitação."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001EA": {
+      "guia": {
+        "passos": [
+          "Amplifique um total de 2.000 de dano e cura sem morrer com Baptiste no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001EB": {
+      "guia": {
+        "passos": [
+          "Impeça 4 mortes com um único uso do Campo de Imortalidade de Baptiste em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001F1": {
+      "guia": {
+        "passos": [
+          "Consiga 3 golpes finais com um único Fluxo Gravitacional de Sigma em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001F2": {
+      "guia": {
+        "passos": [
+          "Ganhe 350 escudos usando um único Punho Cinético de Sigma em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001F3": {
+      "guia": {
+        "passos": [
+          "Mate com um tiro na cabeça carregado do Canhão Elétrico deslizando no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E600000000001F5": {
+      "guia": {
+        "passos": [
+          "Abata um inimigo após destruir parte da Muralha de Gelo dele no Combate até a Morte de Bola de Neve."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001F6": {
+      "guia": {
+        "passos": [
+          "Abata 3 inimigos sem recarregar nem morrer no Combate até a Morte de Bola de Neve."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001F7": {
+      "guia": {
+        "passos": [
+          "Abata um inimigo com uma bola de neve pega no Combate até a Morte de Bola de Neve."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001FA": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Núcleos Fundidos."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001FB": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Canhão de Vidro."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001FC": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Ataque Cirúrgico."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001FD": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Proximidade."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001FE": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Lua de Sangue Iminente."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E600000000001FF": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Fúria da Tempestade."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000200": {
+      "guia": {
+        "passos": [
+          "Consiga 2 golpes finais usando um único Feixe Concentrado da Echo em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000201": {
+      "guia": {
+        "passos": [
+          "Use 2 supremos de outros heróis sem morrer com Echo em Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000203": {
+      "guia": {
+        "passos": [
+          "Marque 2 gols em 5 segundos em uma partida de Lúciobol Remix."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000204": {
+      "guia": {
+        "passos": [
+          "Faça 15 defesas em uma partida de Lúciobol Remix."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000205": {
+      "guia": {
+        "passos": [
+          "Complete a missão de desafio Junkenstein Fantasma Vingativo."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000206": {
+      "guia": {
+        "passos": [
+          "Complete a missão de desafio Junkenstein Debandada Frenética."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000207": {
+      "guia": {
+        "passos": [
+          "Complete a missão de desafio Junkenstein Trio Parada Dura."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000208": {
+      "guia": {
+        "passos": [
+          "Complete a missão de desafio Junkenstein Zômnicos Voláteis."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000209": {
+      "guia": {
+        "passos": [
+          "Complete a missão de desafio Junkenstein Troca Misteriosa."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E6000000000020A": {
+      "guia": {
+        "passos": [
+          "Complete a missão de desafio Junkenstein Surpresa Chocante."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000211": {
+      "guia": {
+        "passos": [
+          "Interrompa 3 descongelamentos inimigos em uma rodada de Eliminação Descongelante."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000213": {
+      "guia": {
+        "passos": [
+          "Interrompa a habilidade suprema de um inimigo congelando-o com a Eliminação Descongelante."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000214": {
+      "guia": {
+        "passos": [
+          "Descongele um aliado que descongelou você em uma rodada de Eliminação Descongelante."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000216": {
+      "guia": {
+        "passos": [
+          "Mate 3 inimigos sem morrer como alvo da caçada em Caçador de Recompensas."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000217": {
+      "guia": {
+        "passos": [
+          "Ganhe 8 recompensas em uma partida de Caçador de Recompensas."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000218": {
+      "guia": {
+        "passos": [
+          "Mate o Alvo da Caçada quando ele estiver usando a habilidade suprema em Caçador de Recompensas."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E60000000000219": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Tempestade."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E6000000000021A": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Barreiras à Prova de Balas."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E6000000000021B": {
+      "guia": {
+        "passos": [
+          "Conclua a missão de desafio dos Arquivos Condolência."
+        ],
+        "atencao": [
+          "Evento sazonal (Arcade): só dá para fazer enquanto o evento estiver ativo."
+        ]
+      }
+    },
+    "0x0E6000000000021C": {
+      "guia": {
+        "passos": [
+          "Remova 5 efeitos negativos com um uso do Suzu de Proteção da Kiriko no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E6000000000021D": {
+      "guia": {
+        "passos": [
+          "Como Kiriko, restaure 1.500 de vida e realize 5 acertos críticos sem morrer no Jogo Rápido ou Comp."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000220": {
+      "guia": {
+        "passos": [
+          "Consiga 4 golpes finais usando uma única Sobrecarga da Sojourn no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000226": {
+      "guia": {
+        "passos": [
+          "Tenha 7 ferimentos da Rainha Junker ativos ao mesmo tempo no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000227": {
+      "guia": {
+        "passos": [
+          "Use a Lâmina Serrilhada e a Carnificina da Rainha Junker para puxar e matar no Jogo Rápido ou Comp."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000232": {
+      "guia": {
+        "passos": [
+          "Elimine 3 inimigos em uma única Aniquilação do Ramattra no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000233": {
+      "guia": {
+        "passos": [
+          "Bloqueie 300 de dano ou mais e sobreviva em um uso da Forma Nêmesis no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000235": {
+      "guia": {
+        "passos": [
+          "Restaure 1.200 de Vida com um uso da Árvore da Vida do Lifeweaver no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    },
+    "0x0E60000000000236": {
+      "guia": {
+        "passos": [
+          "Impeça 3 mortes usando o Abraço Vital de Lifeweaver sem morrer no Jogo Rápido ou Competitivo."
+        ],
+        "dicas": [
+          "Conquista de herói: jogue Partida Rápida, Arcade ou personalizada com bots para treinar."
+        ]
+      }
+    }
+  }
 }

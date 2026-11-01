@@ -1,215 +1,1018 @@
 {
- "resumo": "Roguelite com uma das listas mais pesadas: 5 Células de Chefe, chefes sem levar dano e runs com condições especiais. Nada é perdível — cada run é uma nova chance — mas quase metade das conquistas exige as DLCs pagas.",
- "roadmap": [
-  {
-   "titulo": "Runas e biomas",
-   "texto": "Explore para pegar as runas (Liana, Teletransporte, Ruína, Aranha e Desafiante). Elas abrem os caminhos para todos os biomas do jogo base."
-  },
-  {
-   "titulo": "Células de Chefe",
-   "texto": "Vença a Mão do Rei para ganhar cada Célula de Chefe (até 5) e termine uma run com cada nível ativo. Na 5ª, o caminho final leva ao Coletor."
-  },
-  {
-   "titulo": "Sem levar dano",
-   "texto": "As lutas sem dano valem em qualquer dificuldade: treine cada chefe no 0 Célula de Chefe, com builds de sobrevivência."
-  },
-  {
-   "titulo": "Runs especiais",
-   "texto": "Termine com a arma inicial, com a Espada Maldita e com o amuleto de vida única. Separe runs para as escolhas do Cogumelo Companheiro."
-  },
-  {
-   "titulo": "DLCs",
-   "texto": "The Bad Seed, Fatal Falls, The Queen and the Sea e Return to Castlevania são DLCs pagas, cada uma com sua aba e porcentagem própria. Rise of the Giant, Derelict Distillery e Break the Bank foram atualizações gratuitas e contam no jogo base."
+  "resumo": "Roguelite com uma das listas mais pesadas: 5 Células de Chefe, chefes sem levar dano e runs com condições especiais. Nada é perdível — cada run é uma nova chance — mas quase metade das conquistas exige as DLCs pagas.",
+  "roadmap": [
+    {
+      "titulo": "Runas e biomas",
+      "texto": "Explore para pegar as runas (Liana, Teletransporte, Ruína, Aranha e Desafiante). Elas abrem os caminhos para todos os biomas do jogo base."
+    },
+    {
+      "titulo": "Células de Chefe",
+      "texto": "Vença a Mão do Rei para ganhar cada Célula de Chefe (até 5) e termine uma run com cada nível ativo. Na 5ª, o caminho final leva ao Coletor."
+    },
+    {
+      "titulo": "Sem levar dano",
+      "texto": "As lutas sem dano valem em qualquer dificuldade: treine cada chefe no 0 Célula de Chefe, com builds de sobrevivência."
+    },
+    {
+      "titulo": "Runs especiais",
+      "texto": "Termine com a arma inicial, com a Espada Maldita e com o amuleto de vida única. Separe runs para as escolhas do Cogumelo Companheiro."
+    },
+    {
+      "titulo": "DLCs",
+      "texto": "The Bad Seed, Fatal Falls, The Queen and the Sea e Return to Castlevania são DLCs pagas, cada uma com sua aba e porcentagem própria. Rise of the Giant, Derelict Distillery e Break the Bank foram atualizações gratuitas e contam no jogo base."
+    }
+  ],
+  "avisos": [
+    "Algumas conquistas do Cogumelo Companheiro se excluem na mesma run, mas podem ser feitas em runs diferentes.",
+    "O Desafio Diário precisa de internet."
+  ],
+  "conquistas": {
+    "BIOME_REACHED_GREENHOUSE": {
+      "dlc": "The Bad Seed",
+      "guia": {
+        "passos": [
+          "Chegou no Arboreto pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_SWAMP": {
+      "dlc": "The Bad Seed",
+      "guia": {
+        "passos": [
+          "Chegou ao Pântano dos Exilados pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_SWAMPHEART": {
+      "dlc": "The Bad Seed",
+      "guia": {
+        "passos": [
+          "Chegou ao Ninho pela primeira vez."
+        ]
+      }
+    },
+    "FIGHT_BEAT_MAMATICK": {
+      "dlc": "The Bad Seed",
+      "guia": {
+        "passos": [
+          "Derrotou \"Mãe Carrapato\"!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_MAMATICK_NODAMAGE": {
+      "dlc": "The Bad Seed",
+      "guia": {
+        "passos": [
+          "Derrotou \"Mãe Carrapato\" sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "BIOME_REACHED_GARDENER": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Chegue ao Mausoléu pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_CLIFF": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Chegue na Costa Imortal pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_TUMULUS": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Chegue aos Altares Partidos pela primeira vez."
+        ]
+      }
+    },
+    "FIGHT_BEAT_GARDENER": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Você derrotou o Espantalho!"
+        ],
+        "dicas": [
+          "DLC The Bad Seed."
+        ]
+      }
+    },
+    "FIGHT_BEAT_GARDENER_NODAMAGE": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Derrotou o Espantalho sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "FIGHT_BEAT_GARDENER_NOBOUNCE": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Derrote o Espantalho sem quicar em nenhum cogumelo."
+        ]
+      }
+    },
+    "FEAT_COMBO_SICKLES": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Derrote pelo menos 5 inimigos em sequência com as Foices do Espantalho."
+        ]
+      }
+    },
+    "FEAT_PENDULO_TRAP_KILL": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Faça um inimigo cair numa armadilha dos Altares Partidos!"
+        ]
+      }
+    },
+    "FEAT_COSTUME_REQUIRED": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Use o traje de Cultista para acessar a Costa Imortal."
+        ]
+      }
+    },
+    "BIOME_REACHED_SHIPWRECK": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Chegue ao Náufrago pela primeira vez!"
+        ]
+      }
+    },
+    "BIOME_REACHED_LIGHTHOUSE": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Chegue ao Farol pela primeira vez!"
+        ]
+      }
+    },
+    "BIOME_REACHED_QUEENARENA": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Chegue à Coroa pela primeira vez!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_QUEEN": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Você derrotou a Rainha!"
+        ],
+        "dicas": [
+          "DLC The Queen and the Sea."
+        ]
+      }
+    },
+    "FIGHT_BEAT_QUEEN_NODAMAGE": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Você derrotou a Rainha sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "FIGHT_BEAT_QUEEN_FALL": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Derrotou a Rainha a jogando no vazio."
+        ]
+      }
+    },
+    "FIGHT_BEAT_QUEEN_CARDS": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Derrotou a Rainha com o Deck Mortal."
+        ]
+      }
+    },
+    "FIGHT_BEAT_QUEEN_COSTUME": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Derrotou a Rainha com um Traje de Rainha."
+        ]
+      }
+    },
+    "FEAT_STAPHY_EVOLVE": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Faça o Grudento evoluir."
+        ]
+      }
+    },
+    "FEAT_STAPHY_KILL_STAPHY": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Faça o Grudento matar um Camarão Blindado."
+        ]
+      }
+    },
+    "FEAT_KILL_PIRATE_CANNON": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Mate um Capitão Pirata com o Canhão dos Destroços."
+        ]
+      }
+    },
+    "FEAT_WRECKINGBALL_STRIKE": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Mate cinco inimigos com um único arremesso e retorno da Bola de Demolição."
+        ]
+      }
+    },
+    "FEAT_HANDHOOK_SPIKES": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Jogue um inimigo nos espinhos com a Mão de Gancho."
+        ]
+      }
+    },
+    "FEAT_SHARK_WATER": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Ajude o tubarão a voltar para a água."
+        ]
+      }
+    },
+    "FEAT_SERVANT_COSTUME": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Conclua o Farol usando um traje de Servo."
+        ]
+      }
+    },
+    "FIGHT_BEAT_AMAZONS": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Você concluiu o Farol!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_AMAZONS_NODAMAGE": {
+      "dlc": "The Queen and the Sea",
+      "guia": {
+        "passos": [
+          "Você concluiu o Farol sem levar dano!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "BIOME_REACHED_PGARDEN": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Chegue nos Arredores do Castelo pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_PCASTLE": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Chegue no Castelo de Drácula pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_DEATH": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Chegue na Necrópole Profanada pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_DOOKU": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Chegue no Forte do Mestre pela primeira vez."
+        ]
+      }
+    },
+    "FIGHT_BEAT_DEATH": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Você derrotou a Morte!"
+        ],
+        "dicas": [
+          "DLC Return to Castlevania."
+        ]
+      }
+    },
+    "FIGHT_BEAT_DEATH_NODAMAGE": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Você derrotou a Morte sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "FIGHT_BEAT_DOOKU": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Você derrotou Drácula!"
+        ],
+        "dicas": [
+          "DLC Return to Castlevania."
+        ]
+      }
+    },
+    "FIGHT_BEAT_DOOKU_BEAST": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Você venceu a última batalha de Castlevania!"
+        ],
+        "dicas": [
+          "DLC Return to Castlevania."
+        ]
+      }
+    },
+    "FIGHT_BEAT_DOOKU_NODAMAGE": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Você venceu a última batalha de Castlevania sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "FEAT_CAT_KILL_DEATH": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Faça o Gato da Maria aplicar o golpe final na Morte."
+        ]
+      }
+    },
+    "FEAT_AXE_KILL_WWOLF": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Mate um Lobisomem com um Machado de Arremesso."
+        ]
+      }
+    },
+    "FEAT_VKILLER_KILL_DOOKU": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Você derrotou a última batalha de Castlevania com a Matadora de Vampiros."
+        ]
+      }
+    },
+    "FEAT_BIBLE_MULTI_HIT": {
+      "dlc": "Return to Castlevania",
+      "guia": {
+        "passos": [
+          "Acerte o mesmo inimigo com 5 Bíblias giratórias num curto período."
+        ]
+      }
+    },
+    "FEAT_DEATH_LOST_100_CELLS": {
+      "dica": "Faça numa run em que você não se importe de perder: junte 100 células antes de um Coletor e morra de propósito.",
+      "guia": {
+        "passos": [
+          "Morreu com pelo menos 100 células. Que saco."
+        ]
+      }
+    },
+    "FEAT_KILLYOURSELF_ELEVATOR": {
+      "dica": "Fique embaixo de um elevador que está descendo.",
+      "guia": {
+        "passos": [
+          "Suicidou-se com um elevador."
+        ]
+      }
+    },
+    "FEAT_DIVE_SPIKES": {
+      "dica": "Use o ataque de mergulho (para baixo no ar) em cima de estacas.",
+      "guia": {
+        "passos": [
+          "Um ataque esmagador para baixo... direto sobre estacas mortais!"
+        ]
+      }
+    },
+    "FEAT_ENDGAME_STARTWEAPON": {
+      "dica": "Vença a Mão do Rei usando só a espada, o arco ou o escudo iniciais — mais fácil no 0 Célula de Chefe.",
+      "guia": {
+        "passos": [
+          "Concluiu o jogo com a espada, arco ou escudo inicial."
+        ]
+      }
+    },
+    "FEAT_SURVIVE_CURSE": {
+      "dica": "Pegue um baú amaldiçoado e mate a quantidade de inimigos pedida sem levar dano.",
+      "guia": {
+        "passos": [
+          "Foi amaldiçoado... e sobreviveu."
+        ],
+        "dicas": [
+          "Pegue uma maldição (baú amaldiçoado) e mate os inimigos necessários sem levar dano."
+        ]
+      }
+    },
+    "EQUIP_ENDGAME_CURSEDSWORD": {
+      "dica": "A Espada Maldita mata você com um golpe; use mutações defensivas e vá devagar.",
+      "guia": {
+        "passos": [
+          "Você concluiu o jogo com a Espada Maldita, por incrível que pareça!"
+        ]
+      }
+    },
+    "FEAT_ENDGAME_NOKILL_MUSHROOM_BOI": {
+      "dica": "Excludente com 'Direto pro Inferno' na mesma run (essa é do jogo base) — faça em runs separadas.",
+      "dlc": "The Bad Seed",
+      "guia": {
+        "passos": [
+          "Concluiu o jogo sem sacrificar o Cogumelo Companheiro!"
+        ],
+        "dicas": [
+          "Precisa do Mushroom Boi (pet) vivo até o fim."
+        ]
+      }
+    },
+    "FEAT_EXPLODE_MUSHROOM_BOI": {
+      "dica": "Faça em uma run diferente de 'Quem é um bom garoto?'.",
+      "guia": {
+        "passos": [
+          "Sacrificou o Cogumelo Companheiro."
+        ]
+      }
+    },
+    "FEAT_PRISON_NOBREAK_DOOR": {
+      "dica": "Na primeira fase, abra todas as portas normalmente, sem quebrá-las com ataques.",
+      "guia": {
+        "passos": [
+          "Concluiu o primeiro nível sem quebrar uma porta."
+        ],
+        "dicas": [
+          "No primeiro nível, não quebre nenhuma porta (abra sem atacar)."
+        ]
+      }
+    },
+    "FEAT_FINISHLEVEL_NOLAUNCHER": {
+      "dica": "Atravesse a Destilaria sem usar os Lança-barris para subir.",
+      "guia": {
+        "passos": [
+          "Concluiu a Destilaria Abandonada sem usar o Lança-barril!"
+        ]
+      }
+    },
+    "FEAT_DEBT": {
+      "dica": "No Banco, pegue o máximo de empréstimo e termine a run sem pagar.",
+      "guia": {
+        "passos": [
+          "Vença o jogo com o máximo de dívidas restante."
+        ],
+        "dicas": [
+          "Termine o jogo com a dívida máxima do Banco (DLC)."
+        ]
+      }
+    },
+    "FIGHT_BEAT_BEHEMOTH_NODAMAGE": {
+      "dica": "As conquistas 'sem ser atingido' valem em qualquer dificuldade: treine no 0 Célula de Chefe.",
+      "guia": {
+        "passos": [
+          "Derrotou \"O Guardião\" sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "FEAT_COMPLETE_1_DAILYRUN": {
+      "dica": "O Desafio Diário fica no menu principal e exige conexão com a internet.",
+      "guia": {
+        "passos": [
+          "Concluiu um desafio diário. Muito bem!"
+        ]
+      }
+    },
+    "FEAT_SACRIFICE_MUSHROOM_BOI": {
+      "dlc": "The Bad Seed",
+      "guia": {
+        "passos": [
+          "Aplacou a raiva da \"Mãe Carrapato\"."
+        ]
+      }
+    },
+    "FEAT_NECROMANT_REVIVE_3_MOBS": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Deixe um Apóstata reviver pelo menos 3 almas."
+        ]
+      }
+    },
+    "FEAT_FLYINGSWORD_JEALOUSY": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Tente usar Serenata e outra mascote ao mesmo tempo..."
+        ]
+      }
+    },
+    "FEAT_LIGHTNING_WATER_KILL": {
+      "dlc": "Fatal Falls",
+      "guia": {
+        "passos": [
+          "Eletrifique um inimigo com Para-raios enquanto ele estiver na água."
+        ]
+      }
+    },
+    "BIOME_REACHED_COURTYARD": {
+      "guia": {
+        "passos": [
+          "Chegou na Alameda dos Condenados pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_PRISONROOF": {
+      "guia": {
+        "passos": [
+          "Chegou nas Torres pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_BRIDGE": {
+      "guia": {
+        "passos": [
+          "Chegou na Ponte Sombria pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_OSSUARY": {
+      "guia": {
+        "passos": [
+          "Chegou no Ossuário pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_SEWERS": {
+      "guia": {
+        "passos": [
+          "Chegou no Esgoto Tóxico pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_SEWERSDEPTH": {
+      "guia": {
+        "passos": [
+          "Chegou no Esgoto Antigo pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_STILTVILLAGE": {
+      "guia": {
+        "passos": [
+          "Chegou na Aldeia de Palafitas pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_CEMETERY": {
+      "guia": {
+        "passos": [
+          "Chegou no Cemitério pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_PRISONDEPTH": {
+      "guia": {
+        "passos": [
+          "Chegou nas Profundezas do Presídio pela primeira vez."
+        ]
+      }
+    },
+    "EXPLO_GETRUNE_VINE": {
+      "guia": {
+        "passos": [
+          "Absorveu a Runa da Liana."
+        ]
+      }
+    },
+    "EXPLO_GETRUNE_TELEPORT": {
+      "guia": {
+        "passos": [
+          "Absorveu a Runa do Teletransporte."
+        ]
+      }
+    },
+    "FEAT_KILLWITH_ELEVATOR": {
+      "guia": {
+        "passos": [
+          "Matou um inimigo com um elevador."
+        ]
+      }
+    },
+    "FEAT_KILLYOURSELF_NOPE": {
+      "guia": {
+        "passos": [
+          "Enganou a morte..."
+        ]
+      }
+    },
+    "FIGHT_BEAT_BEHEMOTH": {
+      "guia": {
+        "passos": [
+          "Derrotou \"O Guardião\"!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_BEHOLDER": {
+      "guia": {
+        "passos": [
+          "Você destruiu \"Conjuntivitius\"!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_100_ELITES": {
+      "guia": {
+        "passos": [
+          "Você matou 100 criaturas de elite. Fodão."
+        ]
+      }
+    },
+    "FIGHT_BEAT_BEHOLDER_NODAMAGE": {
+      "guia": {
+        "passos": [
+          "Derrotou \"Conjuntivitius\" sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "EQUIP_UNLOCK_10_WEAPONS": {
+      "guia": {
+        "passos": [
+          "Desbloqueou 10 armas."
+        ]
+      }
+    },
+    "EQUIP_UNLOCK_10_ACTIVES": {
+      "guia": {
+        "passos": [
+          "Desbloqueou 10 habilidades."
+        ]
+      }
+    },
+    "BIOME_REACHED_CRYPT": {
+      "guia": {
+        "passos": [
+          "Chegou no Sepulcro Abandonado pela primeira vez!"
+        ]
+      }
+    },
+    "EXPLO_FIRST_TIMEDDOOR": {
+      "guia": {
+        "passos": [
+          "Abriu sua primeira porta temporizada."
+        ]
+      }
+    },
+    "EXPLO_FIRST_RIFTCHALLENGE": {
+      "guia": {
+        "passos": [
+          "Concluiu com sucesso uma Fenda do Desafio."
+        ]
+      }
+    },
+    "EXPLO_FIRST_SECRETZONE": {
+      "guia": {
+        "passos": [
+          "Encontrou sua primeira área secreta."
+        ]
+      }
+    },
+    "EXPLO_GETRUNE_SCORING": {
+      "guia": {
+        "passos": [
+          "Absorveu a Runa do Desafiante!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_BERSERK": {
+      "guia": {
+        "passos": [
+          "Você derrotou o \"Guardião do Tempo\"!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_BERSERK_NODAMAGE": {
+      "guia": {
+        "passos": [
+          "Derrotou o \"Guardião do Tempo\" sem ser atingido."
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "BIOME_REACHED_CLOCKTOWER": {
+      "guia": {
+        "passos": [
+          "Chegou na Torre do Relógio pela primeira vez!"
+        ]
+      }
+    },
+    "BIOME_REACHED_TOPCLOCKTOWER": {
+      "guia": {
+        "passos": [
+          "Chegou na Câmara do Relógio pela primeira vez!"
+        ]
+      }
+    },
+    "BIOME_REACHED_ANCIENTTEMPLE": {
+      "guia": {
+        "passos": [
+          "Chegou no Santuário Letárgico pela primeira vez!"
+        ]
+      }
+    },
+    "EXPLO_GETRUNE_WALLGRAB": {
+      "guia": {
+        "passos": [
+          "Absorveu a Runa da Aranha!"
+        ]
+      }
+    },
+    "EQUIP_ENDGAME_YOLO": {
+      "guia": {
+        "passos": [
+          "Concluiu o jogo carregando o \"São Salvador de Vida Uma Vez\"!"
+        ],
+        "atencao": [
+          "Ygdar Orus Li Ox: termine o jogo com essa mutação equipada."
+        ]
+      }
+    },
+    "EXPLO_GETRUNE_BREAKGROUND": {
+      "guia": {
+        "passos": [
+          "Absorveu a Runa da Ruína."
+        ]
+      }
+    },
+    "EXPLO_GETBOSSRUNE_FIRST": {
+      "guia": {
+        "passos": [
+          "Absorveu sua primeira Célula-tronco de Chefe."
+        ]
+      }
+    },
+    "EXPLO_GETBOSSRUNE_SECOND": {
+      "guia": {
+        "passos": [
+          "Absorveu sua segunda Célula-tronco de Chefe."
+        ]
+      }
+    },
+    "EXPLO_GETBOSSRUNE_THIRD": {
+      "guia": {
+        "passos": [
+          "Absorveu sua terceira Célula-tronco de Chefe."
+        ]
+      }
+    },
+    "FEAT_ENDGAME_BOSSRUNE_1": {
+      "guia": {
+        "passos": [
+          "Concluiu o jogo com uma Célula-tronco de Chefe ativa."
+        ],
+        "dicas": [
+          "Células de Chefe (Boss Cells) aumentam a dificuldade; cada uma é obtida ao vencer o jogo na anterior."
+        ]
+      }
+    },
+    "FEAT_ENDGAME_BOSSRUNE_2": {
+      "guia": {
+        "passos": [
+          "Concluiu o jogo com duas Células-tronco de Chefe ativas."
+        ],
+        "dicas": [
+          "Células de Chefe (Boss Cells) aumentam a dificuldade; cada uma é obtida ao vencer o jogo na anterior."
+        ]
+      }
+    },
+    "FEAT_ENDGAME_BOSSRUNE_3": {
+      "guia": {
+        "passos": [
+          "Concluiu o jogo com três Células-tronco de Chefe ativas."
+        ],
+        "dicas": [
+          "Células de Chefe (Boss Cells) aumentam a dificuldade; cada uma é obtida ao vencer o jogo na anterior."
+        ]
+      }
+    },
+    "FIGHT_BEAT_KINGSHAND": {
+      "guia": {
+        "passos": [
+          "Derrotou o Mão do Rei."
+        ]
+      }
+    },
+    "FIGHT_BEAT_KINGSHAND_NODAMAGE": {
+      "guia": {
+        "passos": [
+          "Derrotou o Mão do Rei sem ser atingido."
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "EXPLO_GETBOSSRUNE_FOURTH": {
+      "guia": {
+        "passos": [
+          "Absorveu sua quarta Célula-tronco de Chefe."
+        ]
+      }
+    },
+    "FEAT_ENDGAME_BOSSRUNE_4": {
+      "guia": {
+        "passos": [
+          "Concluiu o jogo com quatro Células-tronco de Chefe ativas."
+        ],
+        "dicas": [
+          "Células de Chefe (Boss Cells) aumentam a dificuldade; cada uma é obtida ao vencer o jogo na anterior."
+        ]
+      }
+    },
+    "BIOME_REACHED_CASTLE": {
+      "guia": {
+        "passos": [
+          "Chegou no Castelo pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_THRONE": {
+      "guia": {
+        "passos": [
+          "Chegou na Sala do Trono pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_BEHOLDERPIT": {
+      "guia": {
+        "passos": [
+          "Chegou na Cripta Insuportável pela primeira vez."
+        ]
+      }
+    },
+    "EXPLO_GETBOSSRUNE_FIFTH": {
+      "guia": {
+        "passos": [
+          "Você absorveu a quinta Célula-tronco de Chefe."
+        ]
+      }
+    },
+    "FIGHT_BEAT_GIANT": {
+      "guia": {
+        "passos": [
+          "Você derrotou o Gigante!"
+        ]
+      }
+    },
+    "FIGHT_BEAT_COLLECTOR": {
+      "guia": {
+        "passos": [
+          "Você derrotou o Coletor!"
+        ]
+      }
+    },
+    "BIOME_REACHED_CAVERN": {
+      "guia": {
+        "passos": [
+          "Chegou na Caverna pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_GIANT": {
+      "guia": {
+        "passos": [
+          "Chegou no Refúgio do Guardião pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_ASTROLAB": {
+      "guia": {
+        "passos": [
+          "Chegou no Astrolab pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_OBSERVATORY": {
+      "guia": {
+        "passos": [
+          "Chegou no Observatório pela primeira vez."
+        ]
+      }
+    },
+    "FIGHT_BEAT_GIANT_NODAMAGE": {
+      "guia": {
+        "passos": [
+          "Derrotou \"O Gigante\" sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "FIGHT_BEAT_COLLECTOR_NODAMAGE": {
+      "guia": {
+        "passos": [
+          "Derrotou \"O Coletor\" sem ser atingido!"
+        ],
+        "atencao": [
+          "Sem levar dano no chefe: aprenda os padrões e use itens de defesa/escudo com parry."
+        ]
+      }
+    },
+    "BIOME_REACHED_PRISONCORRUPT": {
+      "guia": {
+        "passos": [
+          "Chegou no Presídio Corrompido pela primeira vez."
+        ]
+      }
+    },
+    "BIOME_REACHED_DISTILLERY": {
+      "guia": {
+        "passos": [
+          "Chegue à Destilaria Abandonada pela primeira vez!"
+        ]
+      }
+    },
+    "FEAT_KILLWITH_BARREL": {
+      "guia": {
+        "passos": [
+          "Matou um Operário Infectado com seu próprio barril!"
+        ]
+      }
+    },
+    "FEAT_TWO_PETS": {
+      "guia": {
+        "passos": [
+          "Tenha 2 mascotes ativas ao mesmo tempo."
+        ]
+      }
+    },
+    "BIOME_REACHED_BANK": {
+      "guia": {
+        "passos": [
+          "Chegue ao Banco pela primeira vez."
+        ]
+      }
+    },
+    "FIGHT_BEAT_MIMIC": {
+      "guia": {
+        "passos": [
+          "Mate o Mímico Vendedor."
+        ]
+      }
+    }
   }
- ],
- "avisos": [
-  "Algumas conquistas do Cogumelo Companheiro se excluem na mesma run, mas podem ser feitas em runs diferentes.",
-  "O Desafio Diário precisa de internet."
- ],
- "conquistas": {
-  "BIOME_REACHED_GREENHOUSE": {
-   "dlc": "The Bad Seed"
-  },
-  "BIOME_REACHED_SWAMP": {
-   "dlc": "The Bad Seed"
-  },
-  "BIOME_REACHED_SWAMPHEART": {
-   "dlc": "The Bad Seed"
-  },
-  "FIGHT_BEAT_MAMATICK": {
-   "dlc": "The Bad Seed"
-  },
-  "FIGHT_BEAT_MAMATICK_NODAMAGE": {
-   "dlc": "The Bad Seed"
-  },
-  "BIOME_REACHED_GARDENER": {
-   "dlc": "Fatal Falls"
-  },
-  "BIOME_REACHED_CLIFF": {
-   "dlc": "Fatal Falls"
-  },
-  "BIOME_REACHED_TUMULUS": {
-   "dlc": "Fatal Falls"
-  },
-  "FIGHT_BEAT_GARDENER": {
-   "dlc": "Fatal Falls"
-  },
-  "FIGHT_BEAT_GARDENER_NODAMAGE": {
-   "dlc": "Fatal Falls"
-  },
-  "FIGHT_BEAT_GARDENER_NOBOUNCE": {
-   "dlc": "Fatal Falls"
-  },
-  "FEAT_COMBO_SICKLES": {
-   "dlc": "Fatal Falls"
-  },
-  "FEAT_PENDULO_TRAP_KILL": {
-   "dlc": "Fatal Falls"
-  },
-  "FEAT_COSTUME_REQUIRED": {
-   "dlc": "Fatal Falls"
-  },
-  "BIOME_REACHED_SHIPWRECK": {
-   "dlc": "The Queen and the Sea"
-  },
-  "BIOME_REACHED_LIGHTHOUSE": {
-   "dlc": "The Queen and the Sea"
-  },
-  "BIOME_REACHED_QUEENARENA": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FIGHT_BEAT_QUEEN": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FIGHT_BEAT_QUEEN_NODAMAGE": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FIGHT_BEAT_QUEEN_FALL": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FIGHT_BEAT_QUEEN_CARDS": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FIGHT_BEAT_QUEEN_COSTUME": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FEAT_STAPHY_EVOLVE": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FEAT_STAPHY_KILL_STAPHY": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FEAT_KILL_PIRATE_CANNON": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FEAT_WRECKINGBALL_STRIKE": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FEAT_HANDHOOK_SPIKES": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FEAT_SHARK_WATER": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FEAT_SERVANT_COSTUME": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FIGHT_BEAT_AMAZONS": {
-   "dlc": "The Queen and the Sea"
-  },
-  "FIGHT_BEAT_AMAZONS_NODAMAGE": {
-   "dlc": "The Queen and the Sea"
-  },
-  "BIOME_REACHED_PGARDEN": {
-   "dlc": "Return to Castlevania"
-  },
-  "BIOME_REACHED_PCASTLE": {
-   "dlc": "Return to Castlevania"
-  },
-  "BIOME_REACHED_DEATH": {
-   "dlc": "Return to Castlevania"
-  },
-  "BIOME_REACHED_DOOKU": {
-   "dlc": "Return to Castlevania"
-  },
-  "FIGHT_BEAT_DEATH": {
-   "dlc": "Return to Castlevania"
-  },
-  "FIGHT_BEAT_DEATH_NODAMAGE": {
-   "dlc": "Return to Castlevania"
-  },
-  "FIGHT_BEAT_DOOKU": {
-   "dlc": "Return to Castlevania"
-  },
-  "FIGHT_BEAT_DOOKU_BEAST": {
-   "dlc": "Return to Castlevania"
-  },
-  "FIGHT_BEAT_DOOKU_NODAMAGE": {
-   "dlc": "Return to Castlevania"
-  },
-  "FEAT_CAT_KILL_DEATH": {
-   "dlc": "Return to Castlevania"
-  },
-  "FEAT_AXE_KILL_WWOLF": {
-   "dlc": "Return to Castlevania"
-  },
-  "FEAT_VKILLER_KILL_DOOKU": {
-   "dlc": "Return to Castlevania"
-  },
-  "FEAT_BIBLE_MULTI_HIT": {
-   "dlc": "Return to Castlevania"
-  },
-  "FEAT_DEATH_LOST_100_CELLS": {
-   "dica": "Faça numa run em que você não se importe de perder: junte 100 células antes de um Coletor e morra de propósito."
-  },
-  "FEAT_KILLYOURSELF_ELEVATOR": {
-   "dica": "Fique embaixo de um elevador que está descendo."
-  },
-  "FEAT_DIVE_SPIKES": {
-   "dica": "Use o ataque de mergulho (para baixo no ar) em cima de estacas."
-  },
-  "FEAT_ENDGAME_STARTWEAPON": {
-   "dica": "Vença a Mão do Rei usando só a espada, o arco ou o escudo iniciais — mais fácil no 0 Célula de Chefe."
-  },
-  "FEAT_SURVIVE_CURSE": {
-   "dica": "Pegue um baú amaldiçoado e mate a quantidade de inimigos pedida sem levar dano."
-  },
-  "EQUIP_ENDGAME_CURSEDSWORD": {
-   "dica": "A Espada Maldita mata você com um golpe; use mutações defensivas e vá devagar."
-  },
-  "FEAT_ENDGAME_NOKILL_MUSHROOM_BOI": {
-   "dica": "Excludente com 'Direto pro Inferno' na mesma run (essa é do jogo base) — faça em runs separadas.",
-   "dlc": "The Bad Seed"
-  },
-  "FEAT_EXPLODE_MUSHROOM_BOI": {
-   "dica": "Faça em uma run diferente de 'Quem é um bom garoto?'."
-  },
-  "FEAT_PRISON_NOBREAK_DOOR": {
-   "dica": "Na primeira fase, abra todas as portas normalmente, sem quebrá-las com ataques."
-  },
-  "FEAT_FINISHLEVEL_NOLAUNCHER": {
-   "dica": "Atravesse a Destilaria sem usar os Lança-barris para subir."
-  },
-  "FEAT_DEBT": {
-   "dica": "No Banco, pegue o máximo de empréstimo e termine a run sem pagar."
-  },
-  "FIGHT_BEAT_BEHEMOTH_NODAMAGE": {
-   "dica": "As conquistas 'sem ser atingido' valem em qualquer dificuldade: treine no 0 Célula de Chefe."
-  },
-  "FEAT_COMPLETE_1_DAILYRUN": {
-   "dica": "O Desafio Diário fica no menu principal e exige conexão com a internet."
-  },
-  "FEAT_SACRIFICE_MUSHROOM_BOI": {
-   "dlc": "The Bad Seed"
-  },
-  "FEAT_NECROMANT_REVIVE_3_MOBS": {
-   "dlc": "Fatal Falls"
-  },
-  "FEAT_FLYINGSWORD_JEALOUSY": {
-   "dlc": "Fatal Falls"
-  },
-  "FEAT_LIGHTNING_WATER_KILL": {
-   "dlc": "Fatal Falls"
-  }
- }
 }

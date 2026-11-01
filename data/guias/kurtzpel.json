@@ -13,5 +13,610 @@
   "avisos": [
     "Depende dos servidores."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "kz1": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro 1 Vez."
+        ]
+      }
+    },
+    "kz2": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro 10 Vezes."
+        ]
+      }
+    },
+    "kz3": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro 30 Vezes."
+        ]
+      }
+    },
+    "kz4": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro 100 Vezes."
+        ]
+      }
+    },
+    "kz5": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro na Dificuldade Máxima 1 Vez."
+        ]
+      }
+    },
+    "kz6": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro na Dificuldade Máxima 10 Vezes."
+        ]
+      }
+    },
+    "kz7": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro na Dificuldade Máxima 30 Vezes."
+        ]
+      }
+    },
+    "kz11": {
+      "guia": {
+        "passos": [
+          "Jogue Missão de Monstro em Grupo 1 Vez."
+        ]
+      }
+    },
+    "kz12": {
+      "guia": {
+        "passos": [
+          "Jogue Missão de Monstro em Grupo 10 Vezes."
+        ]
+      }
+    },
+    "kz13": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro Sem Ser Atingido."
+        ]
+      }
+    },
+    "kz14": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro Sem Ser Nocauteado."
+        ]
+      }
+    },
+    "kz15": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro na Dificuldade Máxima Sem Ser Atingido."
+        ]
+      }
+    },
+    "kz16": {
+      "guia": {
+        "passos": [
+          "Complete Missão de Monstro na Dificuldade Máxima Sem Ser Nocauteado."
+        ]
+      }
+    },
+    "kz17": {
+      "guia": {
+        "passos": [
+          "Consiga Sua Primeira Vitória em Missão de Batalha."
+        ]
+      }
+    },
+    "kz18": {
+      "guia": {
+        "passos": [
+          "Consiga Sua Primeira Derrota em Missão de Batalha."
+        ]
+      }
+    },
+    "kz19": {
+      "guia": {
+        "passos": [
+          "Consiga Seu Primeiro Empate em Missão de Batalha."
+        ]
+      }
+    },
+    "kz20": {
+      "guia": {
+        "passos": [
+          "Vença 10 Vezes em Missão de Batalha."
+        ]
+      }
+    },
+    "kz21": {
+      "guia": {
+        "passos": [
+          "Vença 30 Vezes em Missão de Batalha."
+        ]
+      }
+    },
+    "kz22": {
+      "guia": {
+        "passos": [
+          "Vença 100 Vezes em Missão de Batalha."
+        ]
+      }
+    },
+    "kz23": {
+      "guia": {
+        "passos": [
+          "Vença 3 Vezes Consecutivas em Missão de Batalha."
+        ]
+      }
+    },
+    "kz24": {
+      "guia": {
+        "passos": [
+          "Vença 10 Vezes Consecutivas em Missão de Batalha."
+        ]
+      }
+    },
+    "kz25": {
+      "guia": {
+        "passos": [
+          "Perca 3 Vezes Consecutivas em Missão de Batalha."
+        ]
+      }
+    },
+    "kz26": {
+      "guia": {
+        "passos": [
+          "Nocauteie 1 Inimigo em Missão de Batalha."
+        ]
+      }
+    },
+    "kz27": {
+      "guia": {
+        "passos": [
+          "Nocauteie 100 Inimigos em Missão de Batalha."
+        ]
+      }
+    },
+    "kz28": {
+      "guia": {
+        "passos": [
+          "Capture a Bandeira 1 Vez em Missão de Batalha."
+        ]
+      }
+    },
+    "kz29": {
+      "guia": {
+        "passos": [
+          "Capture a Bandeira 100 Vezes em Missão de Batalha."
+        ]
+      }
+    },
+    "kz30": {
+      "guia": {
+        "passos": [
+          "Vença com 80% ou Mais de Contribuição de Destruição em Missão de Batalha."
+        ]
+      }
+    },
+    "kz31": {
+      "guia": {
+        "passos": [
+          "Vença com 80% ou Mais de Contribuição de Dano em Missão de Batalha."
+        ]
+      }
+    },
+    "kz32": {
+      "guia": {
+        "passos": [
+          "Vença com 70% ou Mais de Contribuição de Destruição e Dano em Missão de Batalha."
+        ]
+      }
+    },
+    "kz33": {
+      "guia": {
+        "passos": [
+          "Jogue Missão de Batalha em Grupo 1 Vez."
+        ]
+      }
+    },
+    "kz34": {
+      "guia": {
+        "passos": [
+          "Jogue Missão de Batalha em Grupo 10 Vezes."
+        ]
+      }
+    },
+    "kz35": {
+      "guia": {
+        "passos": [
+          "Atinja o Rank de Chaser D."
+        ]
+      }
+    },
+    "kz36": {
+      "guia": {
+        "passos": [
+          "Atinja o Rank de Chaser C."
+        ]
+      }
+    },
+    "kz37": {
+      "guia": {
+        "passos": [
+          "Atinja o Rank de Chaser B."
+        ]
+      }
+    },
+    "kz38": {
+      "guia": {
+        "passos": [
+          "Atinja o Rank de Chaser A."
+        ],
+        "atencao": [
+          "Rank A em PvP ranqueado exige muita prática."
+        ]
+      }
+    },
+    "kz39": {
+      "guia": {
+        "passos": [
+          "Tenha o Rank de Chaser Diminuído."
+        ]
+      }
+    },
+    "kz40": {
+      "guia": {
+        "passos": [
+          "Vença Missão de Batalha Sem Ser Atingido."
+        ]
+      }
+    },
+    "kz41": {
+      "guia": {
+        "passos": [
+          "Vença Missão de Batalha Sem Ser Nocauteado."
+        ]
+      }
+    },
+    "kz42": {
+      "guia": {
+        "passos": [
+          "Se Torne Conhecido com Ethan Soulguard."
+        ]
+      }
+    },
+    "kz43": {
+      "guia": {
+        "passos": [
+          "Se Torne Conhecido com Lire Eruell."
+        ]
+      }
+    },
+    "kz44": {
+      "guia": {
+        "passos": [
+          "Se Torne Conhecido com Marian Vendor."
+        ]
+      }
+    },
+    "kz45": {
+      "guia": {
+        "passos": [
+          "Se Torne Conhecido com Jin Kaien."
+        ]
+      }
+    },
+    "kz46": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Ethan Soulguard."
+        ]
+      }
+    },
+    "kz47": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Lire Eruell."
+        ]
+      }
+    },
+    "kz48": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Marian Vendor."
+        ]
+      }
+    },
+    "kz49": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Ensher Renhart."
+        ]
+      }
+    },
+    "kz50": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Crim Plie."
+        ]
+      }
+    },
+    "kz51": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Jin Kaien."
+        ]
+      }
+    },
+    "kz52": {
+      "guia": {
+        "passos": [
+          "Alcance o Nível Máximo com Espada de Taliah."
+        ]
+      }
+    },
+    "kz53": {
+      "guia": {
+        "passos": [
+          "Alcance o Nível Máximo com Dança do Vento."
+        ]
+      }
+    },
+    "kz54": {
+      "guia": {
+        "passos": [
+          "Alcance o Nível Máximo com Feiticeira Diabólica."
+        ]
+      }
+    },
+    "kz55": {
+      "guia": {
+        "passos": [
+          "Alcance o Nível Máximo com Punho Ardente."
+        ]
+      }
+    },
+    "kz56": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Perseguição após Levantamento ou Corrida 10 Vezes."
+        ]
+      }
+    },
+    "kz57": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Perseguição após Levantamento & Disparo ou Disparo de Cobertura 10 Vezes."
+        ]
+      }
+    },
+    "kz58": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Perseguição após Levantamento & Combo ou Retaliação 10 Vezes."
+        ]
+      }
+    },
+    "kz59": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Perseguição após Explosão de Energia ou Corrida & Chute 10 Vezes."
+        ]
+      }
+    },
+    "kz60": {
+      "guia": {
+        "passos": [
+          "Use Ataque Giratório com a Montante 10 Vezes."
+        ]
+      }
+    },
+    "kz61": {
+      "guia": {
+        "passos": [
+          "Use Disparos Contínuos com o Arco 10 Vezes."
+        ]
+      }
+    },
+    "kz62": {
+      "guia": {
+        "passos": [
+          "Use Bolas de Fogo Contínuas com o Cajado 10 Vezes."
+        ]
+      }
+    },
+    "kz63": {
+      "guia": {
+        "passos": [
+          "Use Golpes Contínuos com as Manoplas 10 Vezes."
+        ]
+      }
+    },
+    "kz64": {
+      "guia": {
+        "passos": [
+          "Use Ataque Especial (Destruição) na Carga Máxima com a Montante 10 Vezes."
+        ]
+      }
+    },
+    "kz65": {
+      "guia": {
+        "passos": [
+          "Use Disparo com Mira (Recarregado) com o Arco 10 Vezes."
+        ]
+      }
+    },
+    "kz66": {
+      "guia": {
+        "passos": [
+          "Use Terreno Congelado com o Cajado 10 Vezes."
+        ]
+      }
+    },
+    "kz67": {
+      "guia": {
+        "passos": [
+          "Use Cadeia de Relâmpagos com o Cajado 10 Vezes."
+        ]
+      }
+    },
+    "kz68": {
+      "guia": {
+        "passos": [
+          "Use Roda Flamejante com o Cajado 10 Vezes."
+        ]
+      }
+    },
+    "kz69": {
+      "guia": {
+        "passos": [
+          "Use Combo de Golpes Carregados com as Manoplas 10 Vezes."
+        ]
+      }
+    },
+    "kz70": {
+      "guia": {
+        "passos": [
+          "Modifique um Equipamento 1 Vez."
+        ]
+      }
+    },
+    "kz71": {
+      "guia": {
+        "passos": [
+          "Modifique um Equipamento 10 Vezes."
+        ]
+      }
+    },
+    "kz72": {
+      "guia": {
+        "passos": [
+          "Modify Equipment 1 time."
+        ],
+        "atencao": [
+          "Evento temporário: só durante o período do evento."
+        ]
+      }
+    },
+    "kz73": {
+      "guia": {
+        "passos": [
+          "Modify Equipment 10 times."
+        ],
+        "atencao": [
+          "Evento temporário: só durante o período do evento."
+        ]
+      }
+    },
+    "kz74": {
+      "guia": {
+        "passos": [
+          "Se Torne Conhecido com Kien Astrea."
+        ]
+      }
+    },
+    "kz75": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Ethan Soulguard."
+        ]
+      }
+    },
+    "kz76": {
+      "guia": {
+        "passos": [
+          "Alcance o Nível Máximo com Espíritos Gêmeos."
+        ]
+      }
+    },
+    "kz77": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Perseguição após Corte Superior ou Corte Superior na Corrida 10 Vezes."
+        ]
+      }
+    },
+    "kz78": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Golpes Contínuos com as Espadas Gêmeas 10 Vezes."
+        ]
+      }
+    },
+    "kz79": {
+      "guia": {
+        "passos": [
+          "Use Corte do Luar com as Espadas Gêmeas 10 Vezes."
+        ]
+      }
+    },
+    "kz80": {
+      "guia": {
+        "passos": [
+          "Se Torne Conhecido com Lime Serenity."
+        ]
+      }
+    },
+    "kz81": {
+      "guia": {
+        "passos": [
+          "Se Torne Alma Gêmea com Lime Serenity."
+        ]
+      }
+    },
+    "kz82": {
+      "guia": {
+        "passos": [
+          "Alcance o Nível Máximo com o Guardião Sagrado."
+        ]
+      }
+    },
+    "kz83": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Perseguição após Giro Ascendente ou Ataque na Corrida 10 Vezes."
+        ]
+      }
+    },
+    "kz84": {
+      "guia": {
+        "passos": [
+          "Use Giro Contínuo com o Martelo Gigante 10 Vezes."
+        ]
+      }
+    },
+    "kz85": {
+      "guia": {
+        "passos": [
+          "Use Ataque Carregado Ⅳ com o Martelo Gigante 10 Vezes."
+        ]
+      }
+    },
+    "kz86": {
+      "guia": {
+        "passos": [
+          "Use Ataque de Perseguição após Levantamento ou Carga 10 Vezes."
+        ]
+      }
+    },
+    "kz88": {
+      "guia": {
+        "passos": [
+          "Use Disparo Explosivo com o Demolidor Elemental 10 Vezes."
+        ]
+      }
+    },
+    "kz87": {
+      "guia": {
+        "passos": [
+          "Use Disparo Rápido com o Demolidor Elemental 10 Vezes."
+        ]
+      }
+    }
+  }
 }

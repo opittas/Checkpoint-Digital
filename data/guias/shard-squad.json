@@ -15,5 +15,495 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVMENT_000": {
+      "guia": {
+        "passos": [
+          "Conclua o Arquipélago Kashmyr."
+        ]
+      }
+    },
+    "ACHIEVMENT_001": {
+      "guia": {
+        "passos": [
+          "Conclua o Bosque de Nimbus."
+        ]
+      }
+    },
+    "ACHIEVMENT_002": {
+      "guia": {
+        "passos": [
+          "Conclua o Vale das Tecessombras."
+        ]
+      }
+    },
+    "ACHIEVMENT_003": {
+      "guia": {
+        "passos": [
+          "Conclua a Estrada do Caolho."
+        ]
+      }
+    },
+    "ACHIEVMENT_004": {
+      "guia": {
+        "passos": [
+          "Conclua a Praia de Jerichó."
+        ]
+      }
+    },
+    "ACHIEVMENT_005": {
+      "guia": {
+        "passos": [
+          "Conclua a Mata Populla."
+        ]
+      }
+    },
+    "ACHIEVMENT_006": {
+      "guia": {
+        "passos": [
+          "Conclua a Pirâmide de Gizza."
+        ]
+      }
+    },
+    "ACHIEVMENT_007": {
+      "guia": {
+        "passos": [
+          "Conclua o Fosso das Origens."
+        ]
+      }
+    },
+    "ACHIEVMENT_008": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Braut."
+        ]
+      }
+    },
+    "ACHIEVMENT_009": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Deruto."
+        ]
+      }
+    },
+    "ACHIEVMENT_010": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Haus."
+        ]
+      }
+    },
+    "ACHIEVMENT_011": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Nana."
+        ]
+      }
+    },
+    "ACHIEVMENT_012": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Slap."
+        ]
+      }
+    },
+    "ACHIEVMENT_013": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Zippy."
+        ]
+      }
+    },
+    "ACHIEVMENT_014": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Mossy."
+        ]
+      }
+    },
+    "ACHIEVMENT_015": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Kai & Viv."
+        ]
+      }
+    },
+    "ACHIEVMENT_016": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Juno."
+        ]
+      }
+    },
+    "ACHIEVMENT_017": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Drip."
+        ]
+      }
+    },
+    "ACHIEVMENT_018": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Klaus."
+        ]
+      }
+    },
+    "ACHIEVMENT_019": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Hop Hop."
+        ]
+      }
+    },
+    "ACHIEVMENT_020": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Edge."
+        ]
+      }
+    },
+    "ACHIEVMENT_021": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Blip."
+        ]
+      }
+    },
+    "ACHIEVMENT_022": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Dorian."
+        ]
+      }
+    },
+    "ACHIEVMENT_023": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Akari."
+        ]
+      }
+    },
+    "ACHIEVMENT_024": {
+      "guia": {
+        "passos": [
+          "Desbloqueie Liu Kong."
+        ]
+      }
+    },
+    "ACHIEVMENT_025": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com a característica Flamejante."
+        ]
+      }
+    },
+    "ACHIEVMENT_026": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com a característica Elétrico."
+        ]
+      }
+    },
+    "ACHIEVMENT_027": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com a característica Aquático."
+        ]
+      }
+    },
+    "ACHIEVMENT_028": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com a característica Natural."
+        ]
+      }
+    },
+    "ACHIEVMENT_029": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com a característica Cristalizado."
+        ]
+      }
+    },
+    "ACHIEVMENT_030": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com a característica Bicudo."
+        ]
+      }
+    },
+    "ACHIEVMENT_031": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 3 com a característica Melhores Amigos."
+        ]
+      }
+    },
+    "ACHIEVMENT_032": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 3 com a característica Saltitantes."
+        ]
+      }
+    },
+    "ACHIEVMENT_033": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 6 com a característica Sangue-Frio."
+        ]
+      }
+    },
+    "ACHIEVMENT_034": {
+      "guia": {
+        "passos": [
+          "Ative a característica Confiante."
+        ]
+      }
+    },
+    "ACHIEVMENT_035": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 4 com a característica Gladiador."
+        ]
+      }
+    },
+    "ACHIEVMENT_036": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 6 com a característica Caçador."
+        ]
+      }
+    },
+    "ACHIEVMENT_037": {
+      "guia": {
+        "passos": [
+          "Ative a característica Apaixonados."
+        ]
+      }
+    },
+    "ACHIEVMENT_038": {
+      "guia": {
+        "passos": [
+          "Ative a característica Irmãs."
+        ]
+      }
+    },
+    "ACHIEVMENT_039": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 7 com a característica Garotas Mágicas."
+        ]
+      }
+    },
+    "ACHIEVMENT_040": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 4 com a característica Protetor."
+        ]
+      }
+    },
+    "ACHIEVMENT_041": {
+      "guia": {
+        "passos": [
+          "Ative a característica Estiloso."
+        ]
+      }
+    },
+    "ACHIEVMENT_042": {
+      "guia": {
+        "passos": [
+          "Ative a característica Zen."
+        ]
+      }
+    },
+    "ACHIEVMENT_043": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 25 relíquias."
+        ]
+      }
+    },
+    "ACHIEVMENT_044": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 50 relíquias."
+        ]
+      }
+    },
+    "ACHIEVMENT_045": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 75 relíquias."
+        ]
+      }
+    },
+    "ACHIEVMENT_046": {
+      "guia": {
+        "passos": [
+          "Desbloqueia 99 relíquias."
+        ],
+        "dicas": [
+          "Relíquias vêm de partidas e eventos; é progresso de longo prazo."
+        ]
+      }
+    },
+    "ACHIEVMENT_047": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 15 contos."
+        ]
+      }
+    },
+    "ACHIEVMENT_048": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 30 contos."
+        ]
+      }
+    },
+    "ACHIEVMENT_049": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 10 shards."
+        ]
+      }
+    },
+    "ACHIEVMENT_050": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 20 shards."
+        ]
+      }
+    },
+    "ACHIEVMENT_051": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 22 shards."
+        ]
+      }
+    },
+    "ACHIEVMENT_052": {
+      "guia": {
+        "passos": [
+          "Complete uma partida com todos os pontos de nível focados em dano."
+        ]
+      }
+    },
+    "ACHIEVMENT_053": {
+      "guia": {
+        "passos": [
+          "Complete uma partida com todos os pontos de nível focados em redução de recarga ou duração."
+        ]
+      }
+    },
+    "ACHIEVMENT_054": {
+      "guia": {
+        "passos": [
+          "Complete uma partida com todos os pontos de nível focados em área ou quantidade."
+        ]
+      }
+    },
+    "ACHIEVMENT_055": {
+      "guia": {
+        "passos": [
+          "Maximize todas as receitas do Chef Jokan."
+        ]
+      }
+    },
+    "ACHIEVMENT_056": {
+      "guia": {
+        "passos": [
+          "Maximize todos os itens em uma partida."
+        ]
+      }
+    },
+    "ACHIEVMENT_057": {
+      "guia": {
+        "passos": [
+          "Maximize todos os suportes em uma partida."
+        ]
+      }
+    },
+    "ACHIEVMENT_058": {
+      "guia": {
+        "passos": [
+          "Conclua todos os eventos ao menos uma vez."
+        ]
+      }
+    },
+    "ACHIEVMENT_059": {
+      "guia": {
+        "passos": [
+          "Termine o Jogo."
+        ]
+      }
+    },
+    "ACHIEVMENT_061": {
+      "guia": {
+        "passos": [
+          "Conclua o Fosso das Origens com a relíquia Coração Prismático equipada."
+        ]
+      }
+    },
+    "ACHIEVMENT_062": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os NPCs na Árvore de Moltavida."
+        ]
+      }
+    },
+    "ACHIEVMENT_063": {
+      "guia": {
+        "passos": [
+          "Conclua uma partida sem nenhuma relíquia equipada."
+        ]
+      }
+    },
+    "ACHIEVMENT_064": {
+      "guia": {
+        "passos": [
+          "Conclua o Fosso das Origens sem nenhuma relíquia equipada."
+        ],
+        "atencao": [
+          "Pit of Origins sem relíquias: monte um time forte de sinergias."
+        ]
+      }
+    },
+    "ACHIEVMENT_065": {
+      "guia": {
+        "passos": [
+          "Complete uma partida com um shard de cada um dos 6 elementos na equipe."
+        ]
+      }
+    },
+    "ACHIEVMENT_066": {
+      "guia": {
+        "passos": [
+          "Faça um time de quadrúpedes."
+        ]
+      }
+    },
+    "ACHIEVMENT_067": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 50."
+        ]
+      }
+    },
+    "ACHIEVMENT_068": {
+      "guia": {
+        "passos": [
+          "Conclua o evento Sensei da Embaixadinha, com o Dex como líder, 5 vezes."
+        ]
+      }
+    },
+    "ACHIEVMENT_069": {
+      "guia": {
+        "passos": [
+          "Conclua uma partida com 3 ajudantes advindos de relíquias e/ou características."
+        ]
+      }
+    }
+  }
 }

@@ -19,286 +19,1098 @@
   ],
   "conquistas": {
     "CH2_DISMEMBERED": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Perca a Mão Vermelha."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_TAKING_CHARGE": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue a Mão Verde."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_MUSICAL_MEMORY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Vença o Memória Musical."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_WHACK_A_WUGGY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Vença o Acerte o Wuggy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_STATUES": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Fuja do Estátua."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_WHAT_HAVE_YOU_DONE": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Derrote a Mommy Long Legs."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_ESCAPE": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_MEMORY_MASTER": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Vença o Memória Musical sem errar."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_SHOT_IN_THE_DARK": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Vença o Acerte o Wuggy sem usar a lanterna."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_ABRIDGED": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Complete o puzzle do Tratamento de Água com o mínimo de movimentos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_AHEAD_OF_SCHEDULE": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Termine o jogo inteiro em menos de 45 minutos."
+        ],
+        "dicas": [
+          "Speedrun do capítulo: aprenda a rota antes."
+        ]
+      }
     },
     "CH2_UNDEFEATED": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Termine o jogo sem morrer."
+        ],
+        "atencao": [
+          "Sem morrer no capítulo inteiro; difícil nas perseguições."
+        ]
+      }
     },
     "CH2_AVID_READER": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Colete todos os documentos escondidos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_AVID_LISTENER": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Assista a todas as fitas VHS."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_DAISY_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu da Daisy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_TRAIN_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu do Trem."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_GREEN_HAND_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu da Mão Verde."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_BUNZO_BUNNY_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu do Bunzo Bunny."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_KISSY_MISSY_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu da Kissy Missy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_PJ_PUG_A_PILLAR_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu do PJ Pug-A-Pillar."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_BARRY_CART_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu do Barry Cart."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_MOMMY_LONG_LEGS_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu da Mommy Long Legs."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_CLAW_TROPHY": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pegue o troféu da Garra."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_SWEET_REVENGE": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Derrube o painel de papelão do Huggy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_BAD_LISTENER": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Deixe a Poppy triste."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_TALK_TO_THE_HAND": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Dê um tapa na cara da Mommy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_THE_SCARIEST_DINOSAUR": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Escute todas as piadas do Bron."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_SUGAR_RUSH": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Dê comida demais ao CandyCat."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_BAD_HIDING_SPOT": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Você ao menos tentou?"
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_IS_SHE_GONE_YET": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Pode descer agora."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_YOURE_FIRED": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Saia em grande estilo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH2_WHISTLEBLOWER": {
-      "dlc": "Capítulo 2"
+      "dlc": "Capítulo 2",
+      "guia": {
+        "passos": [
+          "Piuí!"
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_WELCOME_TO_PLAYCARE": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Entre na cúpula da Playcare."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_WELL_ARMED": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Pegue o GrabPack 2.0."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_BAD_DREAM": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "\"Fuja\" do Huggy Pesadelo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_CLASS_DISMISSED": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Derrote a Miss Delight."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_LAST_OF_THE_SMILING_CRITTERS": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Fuja do DogDay."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_REMEMBER": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Sobreviva a um encontro de pesadelo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_THE_NIGHTMARE_ENDS": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Derrote o CatNap."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_DELVING_DEEPER": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_EXPERT_NAVIGATOR": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Fuja do primeiro sonho sem errar o caminho."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_SNEAK_ATTACK": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Tire a bateria do Bobby BearHug sem ser notado."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_QUICK_LEARNER": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Derrote a Miss Delight em menos de dois minutos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_ECO_FRIENDLY": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Derrote o CatNap sem usar baterias extras."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_SCREAMING_CRITTERS": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Escute todos os painéis de papelão dos Smiling Critters."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_THRILL_SEEKER": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Leve todos os sustos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_SELF_RESTRAINT": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Chegue à Sala Segura sem lançar as mãos do GrabPack mais de 200 vezes."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_POPPYS_ANGEL": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Termine o jogo sem morrer."
+        ],
+        "atencao": [
+          "Sem morrer no Capítulo 3."
+        ]
+      }
     },
     "CH3_STUDIOUS": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Colete todas as anotações da escola."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_AVID_LISTENER": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Assista a todas as fitas VHS."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_TIGHT_SQUEEZE": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Seja esmagado no compactador de lixo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_HURRY_UP": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Leve uma bronca do Ollie."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_SLEEP_WELL": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Escute uma música secreta com o CatNap."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_AIRTIME": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Fique 30 segundos no ar usando a Mão Roxa."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_MEMORY_LANE": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Encontre a Kissy Missy em Lar Doce Lar."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_SPEED_DEMON": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Ande num carro de corrida em Lar Doce Lar."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_STOP_HITTING_YOURSELF": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Atire em si mesmo com uma Torre de Agarrar cinco vezes."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_BYE_KISSY": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Dê tchau para a Kissy Missy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_WORSHIP": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Veja o CatNap adorando o Protótipo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_EXTERMINATOR": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Atire um sinalizador em cada variante dos Smiling Critters."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_LIONS_DEN": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Descubra o covil secreto do CatNap."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_PREDATION": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "É o ciclo da vida!"
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH3_CANT_CATCH_ME": {
-      "dlc": "Capítulo 3"
+      "dlc": "Capítulo 3",
+      "guia": {
+        "passos": [
+          "Corra com o CatNap por um minuto."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_DONT_LOSE_IT_THIS_TIME": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Pegue a Mão Vermelha."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_SANCTUARY": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Chegue ao Refúgio Seguro."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_HOOK_LION_AND_SINKER": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Derrote o Yarnaby."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_AN_APPLE_A_DAY": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Pegue a Omni-Mão do Doutor."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_SAVIOR_OF_SAFE_HAVEN": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Conserte o gerador."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_COLD_BLOODED": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Derrote o Doey."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_START_RUNNING": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_UNTOUCHABLE": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Sobreviva à Horda sem sofrer dano."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_YOU_CAN_RUN": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Derrote o Yarnaby sem usar esconderijos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_HOLD_YOUR_BREATH": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Complete o labirinto de gás sem recarregar o tanque de oxigênio."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_PIPING_HOTSHOT": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Redirecione o gás da Fundação com o mínimo de movimentos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_EFFICNCY": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Derrote o Doey sem desperdiçar cilindros de nitrogênio."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_MANE_ATTRACTION": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Escute o painel de papelão do Yarnaby."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_JOIN_THE_CHORUS": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Escute o painel de papelão do Pianosaurus."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_TRIPLE_TIMES_THE_FUN": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Escute o painel de papelão do Doey."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_DEAR_DIARY": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Colete todos os diários escondidos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_AVID_READER": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Colete todos os documentos escondidos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_AVID_LISTENER": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Assista a todas as fitas VHS."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_FEARLESS": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Termine o jogo sem morrer."
+        ],
+        "atencao": [
+          "Sem morrer no Capítulo 4."
+        ]
+      }
     },
     "CH4_SELF_RESTRAINT": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Termine o jogo sem lançar as mãos do GrabPack mais de 200 vezes."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_ACCESS_DENIED": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          ":(."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_D_O_E_Y": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Diversão até o dia em que você morrer!"
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_PERSISTENT_PETS": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Por favor, não faça carinho no Yarnaby."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_RESCUE_MISSION": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Leve um amigo para um lugar seguro."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_HAT_TRICK": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Marque três gols num CraftyCorn ativo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_MOMENT_OF_SILENCE": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Preste homenagem aos brinquedos caídos."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_BOO": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Você me achou!"
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_EAVESDROPPING": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Escute uma conversa particular."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_MUSCLE_MEMORY": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "É, com certeza está quebrado."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_HEART_OF_GOLD": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Escolha poupar uma vida."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
     },
     "CH4_UNCOVERING_THE_PAST": {
-      "dlc": "Capítulo 4"
+      "dlc": "Capítulo 4",
+      "guia": {
+        "passos": [
+          "Entre na sala secreta do Doutor."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
+    },
+    "CH1_YOUR_FRIEND_HUGGY": {
+      "guia": {
+        "passos": [
+          "Escute a música-tema do Huggy Wuggy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
+    },
+    "CH1_USE_RESPONSIBLY": {
+      "guia": {
+        "passos": [
+          "Complete o GrabPack."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
+    },
+    "CH1_MADE_A_FRIEND": {
+      "guia": {
+        "passos": [
+          "Monte o brinquedo Gato-Abelha."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
+    },
+    "CH1_NARROW_ESCAPE": {
+      "guia": {
+        "passos": [
+          "Fuja do Huggy Wuggy."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
+    },
+    "CH1_TIME_TO_PLAY": {
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ],
+        "dicas": [
+          "Cada capítulo é um DLC/episódio separado; use a seleção de capítulo para repetir."
+        ]
+      }
+    },
+    "CH1_AVID_LISTENER": {
+      "guia": {
+        "passos": [
+          "Assista a todas as fitas VHS."
+        ],
+        "dicas": [
+          "As fitas VHS ficam espalhadas pelo capítulo; algumas exigem a mão azul/vermelha para alcançar."
+        ]
+      }
     }
   }
 }

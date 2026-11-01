@@ -19,5 +19,696 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Getting_Started": {
+      "guia": {
+        "passos": [
+          "E aí, amigo! Você não me conhece e eu não te conheço, mas se prestar atenção talvez sobreviva. Talvez até se divirta. Ou vire meu amigo. Espero que a gente vire am... *ai* desculpa! Falo demais. Vamos te colocar no jogo."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Practice_Makes_Good_Enough": {
+      "guia": {
+        "passos": [
+          "Escuta aqui, verme: não tenho tempo nem paciência para partidas chatas. Tenho um exército de seres semiconscientes prontos para te enfrentar. Só os fortes entram nas Arenas de verdade! Jogue partidas de Treino, junte Essências Cinzentas e prove seu valor!"
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Let_it_Shine_on_You": {
+      "guia": {
+        "passos": [
+          "Só quem busca impor a Justiça Divina pode empunhar nossas Gemas de Poder. Prove seu senso de Dever à Alta Ordem e seja batizado pela Luz da cabeça aos pés."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "The_Art_of_Combat": {
+      "guia": {
+        "passos": [
+          "Enfrentar os inimigos de frente, como uma Força Mortal: é isso que significa fazer parte do Pacto Élfico. Só verdadeiros Mestres do Combate podem tomar nossas Gemas de Poder nas mãos."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Lightning_Eyes": {
+      "guia": {
+        "passos": [
+          "A Resistência só entrega suas Gemas de Poder a certas pessoas: quem tem a Faísca nos Olhos e a determinação inabalável de proteger quem ama."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Heart_of_the_Mountain": {
+      "guia": {
+        "passos": [
+          "Então você veio atrás das Sementes do Diabo. Aceitar nossas Gemas de Poder é abraçar as próprias Sombras Ardentes, desejar forjar um Núcleo de Magma e ter Paciência para ir até o fim."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "How_Rivers_Cut_Through_Rocks": {
+      "guia": {
+        "passos": [
+          "O Ataque da Evolução recebe todos que firmam os pés e mostram ao mundo que a Natureza sempre Persiste. Aceite isso e receba as Gemas de Poder dos Espíritos da Floresta."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Hug_Smash": {
+      "guia": {
+        "passos": [
+          "Se estiver no caminho, Esmague. Se levantar, Esmague de novo. Se trouxer amigos, Esmague todos. Esse é o caminho da vitória, o caminho do... DESTRUIDOOOOR! Bom, brincadeiras à parte, vamos liberar sua Força."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "No_Survivors": {
+      "guia": {
+        "passos": [
+          "Se veio até aqui, você busca aperfeiçoar sua Técnica. Nosso Estilo de Luta não é para os fracos: vamos te treinar para ser um verdadeiro Assassino, capaz de um Ataque Implacável contra seus alvos."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Welcome_to_the_Machine": {
+      "guia": {
+        "passos": [
+          "É triste, sério. Como esperam vencer sem pensar de forma criativa? Venha. Vou ampliar seus horizontes. Você vai aprender a se Adaptar a tudo e Controlar qualquer situação."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Universal_Balance": {
+      "guia": {
+        "passos": [
+          "Oi. Que bom que você veio. Este é seu primeiro passo no caminho da Fé. Sente. Relaxe. Aceite. Encontre seu eu interior, Medite e redescubra sua realidade. Renasça como um Espírito."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Unbreakable_Objects": {
+      "guia": {
+        "passos": [
+          "Sabe quantos acham que podem Proteger os outros sem conseguir proteger a si mesmos? É valentia barata. Eles pulam o Condicionamento cruel que constrói a Resistência de um Escudo Indomável."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Its_time": {
+      "guia": {
+        "passos": [
+          "Olá de novo, Pequena Alma. Você chegou até aqui, e agora é hora de ver do que é feito. Que os jogos de verdade comecem."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Challenge_of_the_Soul_Conqueror": {
+      "guia": {
+        "passos": [
+          "Vença {0} partidas."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Challenge_of_the_Soul_Collector": {
+      "guia": {
+        "passos": [
+          "Somando partidas, segure pelo menos 3 Esferas de Alma por {0} segundos."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Challenge_of_the_Soul_Stealer": {
+      "guia": {
+        "passos": [
+          "Somando partidas, roube {0} Esferas de Alma derrotando seus donos."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Challenge_of_the_Soul_Protector": {
+      "guia": {
+        "passos": [
+          "Somando partidas, devolva {0} Esferas de Alma aos donos derrotando quem as roubou."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Look_Ma_I_have_a_Job": {
+      "guia": {
+        "passos": [
+          "Colete 50.000 Essências Cinzentas em partidas normais."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Hey_Im_Good_at_this": {
+      "guia": {
+        "passos": [
+          "Colete 500.000 Essências Cinzentas em partidas normais."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Fields_of_Gray": {
+      "guia": {
+        "passos": [
+          "Colete 5.000.000 de Essências Cinzentas em partidas normais."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Nothing_Beats_the_Real_Thing": {
+      "guia": {
+        "passos": [
+          "Então você não é totalmente inútil. Vamos ver como se sai contra adversários de verdade."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Perfect_Practice_makes_Perfect": {
+      "guia": {
+        "passos": [
+          "Isso mesmo, vermezinho! Está ficando promissor. Estou empolgado com você. Prove que estou certo!"
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "You_Make_me_Proud": {
+      "guia": {
+        "passos": [
+          "É isso. Mostre ao mundo o guerreiro que eu criei!"
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "That_White_Stuff_is_Good": {
+      "guia": {
+        "passos": [
+          "Colete 1.000.000 de essências brancas em partidas ranqueadas."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Give_me_More": {
+      "guia": {
+        "passos": [
+          "Colete 1.000.000 de essências brancas em partidas ranqueadas."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "White_Mountain": {
+      "guia": {
+        "passos": [
+          "Colete 1.000.000 de essências brancas em partidas ranqueadas."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Hmm": {
+      "guia": {
+        "passos": [
+          "Hmm.. Você conseguiu. Inteiro, devo dizer. Que os jogos de verdade comecem."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Ohhh": {
+      "guia": {
+        "passos": [
+          "Ohhh..? Então você sabe fazer coisas. Vamos ver até onde chega."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Interesting": {
+      "guia": {
+        "passos": [
+          "Interessante..! Parece que eu estava certo sobre você. Agora só me resta saber.. Você vai.. me divertir?"
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "First_Bloods": {
+      "guia": {
+        "passos": [
+          "Derrote um adversário com cada uma das suas habilidades de Ataque."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Master_Predator": {
+      "guia": {
+        "passos": [
+          "Derrote dois adversários seguidos com cada uma das suas habilidades de Ataque."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Undying_Victorious_Soul": {
+      "guia": {
+        "passos": [
+          "Vença uma partida sem ser derrotado nenhuma vez."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Total_Annihilation": {
+      "guia": {
+        "passos": [
+          "Derrote todos os adversários em 15 segundos."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "All_Your_Souls_Are_Belong_To_Me": {
+      "guia": {
+        "passos": [
+          "Segure todas as Esferas de Alma ao mesmo tempo."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Inner_Strength": {
+      "guia": {
+        "passos": [
+          "Vença uma partida sem usar nenhum power-up."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "SingleMinded_Elemental": {
+      "guia": {
+        "passos": [
+          "Honre as Cinco Facções vencendo uma partida só com habilidades do Elemento de cada uma."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Style_Unparalleled": {
+      "guia": {
+        "passos": [
+          "Honre as Cinco Federações vencendo uma partida com o Estilo de Luta de cada uma."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "You_Reap_what_you_Sow": {
+      "guia": {
+        "passos": [
+          "Derrote um adversário que está segurando todas as Esferas de Alma."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Citizen_of_the_World": {
+      "guia": {
+        "passos": [
+          "Seja reconhecido pelas Cinco Facções de Delasphos e desbloqueie seus Elementos."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Member_of_the_Cause": {
+      "guia": {
+        "passos": [
+          "Prove seu valor às Cinco Federações de Delasphos e domine seus Estilos de Luta."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "All_the_Items": {
+      "guia": {
+        "passos": [
+          "Colete todos os itens à venda."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "All_the_History": {
+      "guia": {
+        "passos": [
+          "Colete todos os itens de história à venda."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "All_the_Trials": {
+      "guia": {
+        "passos": [
+          "Complete todas as Provações."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "All_the_Challenges": {
+      "guia": {
+        "passos": [
+          "Complete cada Desafio pelo menos uma vez."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Impossible": {
+      "guia": {
+        "passos": [
+          "Obrigado, pequena Alma. Você cresceu além de tudo que eu esperava. Pedi aos meus Vois da Tall Guy Productions uma recompensa à altura."
+        ],
+        "atencao": [
+          "Uma das mais difíceis; deixe para o final."
+        ]
+      }
+    },
+    "All_the_Achievements": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as conquistas, menos esta. Senão daria um loop infinito."
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer as demais (exceto as excluídas na descrição)."
+        ]
+      }
+    },
+    "Before_it_all_Began_pt_I": {
+      "guia": {
+        "passos": [
+          "Os Planos Astrais de Leth, o Reino Mãe, só recebem as almas dos mortos. No centro fica M' Or, o Coração do Reino, feito de energia de alma pura. Delasphos é um dos planetas que orbitam M' Or e abriga as almas de quem viveu na Terra, reencarnadas como Humanos e Gnomos. Tudo mudou quando começou a Guerra das Almas."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Before_it_all_Began_ptII": {
+      "guia": {
+        "passos": [
+          "Ano 0 do novo calendário: a Guerra das Almas começa e termina no mesmo dia. Um raio de energia pura atingiu M' Or, que passou a vazar energia. Planetas próximos explodiram e os distantes definharam. Foi quando a futura Arquifeiticeira humana Nimelle Dios foi muito além do seu dever."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Before_it_all_Began_ptIII": {
+      "guia": {
+        "passos": [
+          "Durante a cerimônia de Despertar de Nimelle, uma onda de energia saiu de M' Or e devastou tudo. Em Delasphos, a terra se partiu e surgiram montanhas e vulcões. Nimelle absorveu metade da onda com um Dreno e bloqueou o resto com um Escudo. Salvou todos, mas a dor foi tanta que ela deixou de ser totalmente humana e caiu num longo coma."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Before_it_all_Began_ptIV": {
+      "guia": {
+        "passos": [
+          "Inspirados por Nimelle, os Arquifeiticeiros abriram portais para os planetas dos Elfos, dos Anões e dos Orcs. Quando M' Or se estabilizou, os portais fecharam e os recém-chegados ficaram presos em Delasphos. Os gnomos subaquáticos surgiram, animais sofreram mutações e nasceram Aaracocras e Draconatos. Delasphos passou a ter 8 Tribos forçadas a conviver."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "The_Beginning_of_this_Era_ptI": {
+      "guia": {
+        "passos": [
+          "Meio século depois do fechamento dos portais, as coisas finalmente melhoram. No começo houve dez anos de guerra, e a energia que sobrou devastava rios, plantações e cidades. A Resistência aceitou que os novos povos estavam ali para ficar. No ano 13, representantes de todas as Tribos se reuniram em Valnor para negociar a paz."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "The_Beginning_of_this_Era_ptII": {
+      "guia": {
+        "passos": [
+          "As negociações de Valnor foram um desastre: o Rei dos Humanos, Sever Pott IV, explodiu a cidade. Anos depois veio o Tratado do Trevo, que criou fronteiras claras respeitadas com a ajuda da Alta Ordem. Cada Facção domina alguns recursos, mas precisa das outras para sobreviver, e é isso que mantém a paz."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "The_Beginning_of_this_Era_ptIII": {
+      "guia": {
+        "passos": [
+          "O aniversário do Tratado do Trevo é comemorado em quase toda Delasphos, mas não em toda. Ainda há quem não perdoe quem matou suas famílias. Mesmo assim, os governantes atuais assinaram o Tratado e as fronteiras são respeitadas. No fundo, cada Facção preferiria estar sozinha no planeta, mas precisa seguir em frente."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Wandering_Souls": {
+      "guia": {
+        "passos": [
+          "As Facções nasceram da necessidade, em tempos de guerra e caos. Cinco décadas depois as feridas fecharam, mas ficaram as cicatrizes. Nas cidades, 1 em cada 10 ou 20 pessoas é de uma Tribo de outra Facção, vinda por curiosidade, amor ou sobrevivência. Esses imigrantes não são atacados, mas quase sempre são tratados como cidadãos de segunda classe."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Nimelle": {
+      "guia": {
+        "passos": [
+          "Nimelle Dios seria a primeira Arquifeiticeira de Delasphos. Em vez disso, virou uma semideusa e salvou o planeta, mas perdeu a humanidade. Hoje tem poderes que não controla e se isolou na mansão do antigo mestre, nas Terras Geladas de Duggen. O clima do mundo segue o humor dela, então todos trabalham para mantê-la contente."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "The_Vois": {
+      "guia": {
+        "passos": [
+          "A onda de energia marcou Delasphos para sempre e muitas espécies morreram. Os Vois, criaturas peludas, brincalhonas e gentis, sobreviveram mas ficaram viciados na energia de M' Or. Quando ela sumiu de suas casas, seguiram um cheiro poderoso até as Terras Geladas e encontraram Nimelle. Nunca mais saíram do lado dela."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "The_Arenas": {
+      "guia": {
+        "passos": [
+          "Os Vois conseguem ver os sonhos de Nimelle e começaram a construir miniaturas dos lugares que viam. Para dar vida a eles, Nimelle colocou Almas Errantes em pequenos corpos feitos pelos Vois, para lutarem nesses lugares. Muitos acham isso um desrespeito ao Fluxo de Almas, mas ninguém ousa dizer. As Facções oferecem Gemas de Poder e treinam os guerreiros para agradá-la."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "The_FourLeafed_Clover": {
+      "guia": {
+        "passos": [
+          "Valnor, antiga capital humana, foi destruída no ano 13 quando o Rei Sever Pott IV explodiu a cidade. Depois, as quatro Facções a reconstruíram em forma de trevo de quatro folhas como sede da Alta Ordem, a força de paz neutra, reconhecida como quinta Facção. No ano 48 a cidade está pronta para o aniversário de 10 anos do Tratado do Trevo."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Brick_and_Order": {
+      "guia": {
+        "passos": [
+          "Clover abriga a Alta Ordem, formada por soldados de todas as Facções na medida certa: forte o bastante para proteger qualquer Facção, mas não para enfrentar as quatro juntas. A Associação dos Construtores ergueu a cidade inteira e atraiu trabalhadores de todas as origens. O resultado é uma cidade segura, lar de pessoas das oito Tribos."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "A_Monarch_chosen_by_her_People": {
+      "guia": {
+        "passos": [
+          "A Resistência é a única Facção com direito \"objetivo\" sobre Delasphos: chegou primeiro. É formada por Humanos e Gnomos, com alguns meio-orcs e meio-elfos, e governada por uma Monarca. Amyra, a líder atual, ajudou a criar o Tratado do Trevo e abriu as portas para quem quisesse se juntar, fazendo da capital um centro de comércio, ciência, arte e boa comida."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Guilds_and_Politics": {
+      "guia": {
+        "passos": [
+          "Amyra tem apoio suficiente para manter a estabilidade. A Guilda dos Mercadores quer paz, mas pressiona as outras Facções nos recursos agrícolas. A Guilda das Artes Arcanas estuda o desequilíbrio elemental do planeta junto com a Guilda dos Inventores. A Guilda da Expressão incentiva talentos nos festivais. Juntas, criam o ambiente multicultural que Amyra sonhava."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Clipped_Wings_High_Spirits": {
+      "guia": {
+        "passos": [
+          "Depois que os portais fecharam, tempestades de energia sugaram as almas de pássaros e dragões. Algumas dessas almas se fundiram a corpos humanos e nasceram os primeiros Draconatos e Aaracocras. Sem poder voar, se abrigaram na floresta e juraram protegê-la. Viraram o Ataque da Evolução, que hoje fornece madeira e pedra e ajuda a prever tempestades."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Stronger_Together": {
+      "guia": {
+        "passos": [
+          "Os cidadãos do Ataque da Evolução ocuparam cidades abandonadas nas montanhas e são guiados por um conselho eleito. Há muitos clãs: os Res R' Cher estudam a natureza para controlar o clima, e os Hut Ur Khul, mais agressivos, são vistos como o escudo da floresta."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "An_Unlikely_Alliance": {
+      "guia": {
+        "passos": [
+          "O Pacto Élfico junta Altos Elfos e Elfos Negros, que se odeiam. Quando os portais abriram, deixaram as diferenças de lado para conquistar o outro mundo, e teriam conseguido se os portais ficassem abertos mais tempo. Hoje dividem a cidade de Inl e Onf Thenmar, partida ao meio, e cada Tribo segue seus próprios líderes e leis."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Gods_and_Councils": {
+      "guia": {
+        "passos": [
+          "Cada Tribo élfica tem um Sumo Sacerdote e um Conselho de sábios, com as famílias nobres influentes. Em tempos de guerra, os conselhos dão lugar ao Conselho das Sete Lâminas. Há rumores de missões secretas contra outras Facções, o que alimenta a desconfiança, e por isso Inl e Onf Thenmar quase não recebem visitantes."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "All_Kinds_of_Laws": {
+      "guia": {
+        "passos": [
+          "O Pacto Élfico segue o Tratado do Trevo e mais três níveis de regras: Leis Élficas (roubou, perde a mão; matou, perde a cabeça), aplicadas pela Guarda da Capital; Mandamentos Divinos; e Ordens do Conselho. Esse sistema rígido faz quase todos se sentirem mal-vindos por lá."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Elven_Hearts": {
+      "guia": {
+        "passos": [
+          "\"Quando nosso mundo colidiu com Delasphos, nossas duas nações rivais deixaram de lado anos de rivalidade. Não era Negro contra Alto, só Elfo contra Elfo, e nenhuma nação aguentaria sozinha.\" Versos de Thaduin, que viu a Trégua élfica. A canção inspirou as Gemas de Poder da Força Mortal: magia alto-élfica e combate élfico-negro."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "For_the_Children": {
+      "guia": {
+        "passos": [
+          "Orcs e Anões chegaram quando seus planetas desmoronavam e encontraram abrigo nas cavernas do Pico Risonho. Mas vozes sombrias começaram a dominar os jovens e os levaram a devastar o mundo. Os anciãos fugiram e, depois de trinta anos de estudo, se sacrificaram para enfraquecer o Sombrio e libertar os jovens. O mundo nunca esqueceu, e a Facção ficou conhecida como Sementes do Diabo."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    },
+    "Law_of_the_Mountain": {
+      "guia": {
+        "passos": [
+          "Por três décadas, Orcs e Anões ouviram a Voz Sombria, até os Anciãos se sacrificarem para libertá-los. Perdidos, muitos seguiram quem dizia ainda ouvir a Voz, e assim nasceram os Cultos. Na capital, só há um: o culto de Tharizdun, liderado por Morthos, um poderoso feiticeiro orc com partes demoníacas. Ord Vuzdur virou a sede do culto."
+        ],
+        "dicas": [
+          "Conquistas de história/lore: aparecem ao avançar e ler o conteúdo de cada facção."
+        ]
+      }
+    }
+  }
 }

@@ -19,5 +19,755 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_HONK_A_CLOWNS_NOSE": {
+      "guia": {
+        "passos": [
+          "Aperte o nariz de 10 palhaços."
+        ]
+      }
+    },
+    "ACH_INCENDIARY_CLOWN_POSSE": {
+      "guia": {
+        "passos": [
+          "Usando um Molotov, incendeie um Palhaço que está liderando pelo menos 10 Infectados Comuns."
+        ]
+      }
+    },
+    "ACH_MELEE_A_CHARGER": {
+      "guia": {
+        "passos": [
+          "Mate um Esmagador com uma arma corpo a corpo durante a investida."
+        ]
+      }
+    },
+    "ACH_KILL_SPITTER_FAST": {
+      "guia": {
+        "passos": [
+          "Mate uma Cuspidora antes que ela cuspa."
+        ]
+      }
+    },
+    "ACH_FINISH_CAMPAIGN_MELEE_ONLY": {
+      "guia": {
+        "passos": [
+          "Termine uma campanha usando só armas corpo a corpo."
+        ]
+      }
+    },
+    "ACH_KILL_EVERY_UNCOMMON_INFECTED": {
+      "guia": {
+        "passos": [
+          "Mate um de cada Infectado Incomum."
+        ],
+        "dicas": [
+          "Cada campanha tem um tipo raro (palhaço, homem-lama, CEDA, operário, motoqueiro, riot, Jimmy Gibbs)."
+        ]
+      }
+    },
+    "ACH_SAVE_PLAYER_FROM_JOCKEY_FAST": {
+      "guia": {
+        "passos": [
+          "Mate um Jóquei em até 2 segundos depois de ele ter saltado em um Sobrevivente."
+        ]
+      }
+    },
+    "ACH_CUT_OFF_HEADS_MELEE": {
+      "guia": {
+        "passos": [
+          "Decapite 200 Infectados com uma arma corpo a corpo."
+        ]
+      }
+    },
+    "ACH_BEAT_CAMPAIGNS_EXPERT_MODE": {
+      "guia": {
+        "passos": [
+          "Sobreviva a todas as campanhas na dificuldade Experiente."
+        ],
+        "atencao": [
+          "Expert em todas as campanhas: jogue com amigos."
+        ]
+      }
+    },
+    "ACH_SURVIVE_EXPERT_REALISM": {
+      "guia": {
+        "passos": [
+          "Sobreviva a uma campanha na dificuldade Experiente com o modo Realismo ativado."
+        ],
+        "atencao": [
+          "Expert Realism é muito difícil; jogue com um grupo coordenado."
+        ]
+      }
+    },
+    "ACH_VS_FORM_PARTY_AND_WIN_4V4": {
+      "guia": {
+        "passos": [
+          "Forme uma equipe e vença uma partida nos modos Versus ou Busca e Coleta em equipes."
+        ]
+      }
+    },
+    "ACH_KILL_SUBMERGED_MUDMEN": {
+      "guia": {
+        "passos": [
+          "Mate 10 homens do pântano enquanto ainda estão na água."
+        ]
+      }
+    },
+    "ACH_COLLECT_CEDA_VIALS": {
+      "guia": {
+        "passos": [
+          "Recolha 10 frascos de vômito de Gorfo de agentes infectados da CEDA que você tenha matado."
+        ]
+      }
+    },
+    "ACH_KILL_ZOMBIES_GRENADE_BLAST": {
+      "guia": {
+        "passos": [
+          "Mate 15 Infectados com uma única explosão do lança-granadas."
+        ]
+      }
+    },
+    "ACH_IGNITE_INFECTED_FIRE_AMMO": {
+      "guia": {
+        "passos": [
+          "Incendeie 50 Infectados Comuns com munição incendiária."
+        ]
+      }
+    },
+    "ACH_DEPLOY_AMMO_UPGRADE": {
+      "guia": {
+        "passos": [
+          "Abra um pacote de munição no chão que seja usado por toda a equipe."
+        ]
+      }
+    },
+    "ACH_RES_SURVIVORS_WITH_DEFIB": {
+      "guia": {
+        "passos": [
+          "Reviva 10 Sobreviventes mortos com o desfibrilador."
+        ]
+      }
+    },
+    "ACH_SPEED_REVIVE_WITH_ADRENALINE": {
+      "guia": {
+        "passos": [
+          "Reviva 10 sobreviventes incapacitados enquanto estiver sob os efeitos da adrenalina."
+        ]
+      }
+    },
+    "ACH_KILL_INFECTED_WITH_CHAINSAW": {
+      "guia": {
+        "passos": [
+          "Mate 100 Infectados Comuns com a motosserra."
+        ]
+      }
+    },
+    "ACH_BILE_A_TANK": {
+      "guia": {
+        "passos": [
+          "Use uma bomba de vômito em um Tanque."
+        ]
+      }
+    },
+    "ACH_KILL_WITH_EVERY_MELEE": {
+      "guia": {
+        "passos": [
+          "Use todas as armas corpo a corpo disponíveis para matar Infectados Comuns."
+        ]
+      }
+    },
+    "ACH_KILL_TANK_MELEE_ONLY": {
+      "guia": {
+        "passos": [
+          "Mate um Tanque com armas corpo a corpo."
+        ]
+      }
+    },
+    "ACH_BRIDGE_TIMED_RUN": {
+      "guia": {
+        "passos": [
+          "Atravesse a ponte do finale em menos de três minutos."
+        ]
+      }
+    },
+    "ACH_SURVIVE_MALL": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"Shopping da Morte\"."
+        ]
+      }
+    },
+    "ACH_SURVIVE_ROAD": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"Parque Sombrio\"."
+        ]
+      }
+    },
+    "ACH_SURVIVE_SWAMP": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"Febre do Pântano\"."
+        ]
+      }
+    },
+    "ACH_SURVIVE_TOWN": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"Tempestade\"."
+        ]
+      }
+    },
+    "ACH_SURVIVE_BRIDGE": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"A Paróquia\"."
+        ]
+      }
+    },
+    "ACH_IMPOUND_LOT_NO_ALARMS": {
+      "guia": {
+        "passos": [
+          "Passe pelo depósito de carros e chegue ao abrigo sem ativar nenhum alarme."
+        ]
+      }
+    },
+    "ACH_GNOME_RESCUE": {
+      "guia": {
+        "passos": [
+          "Resgate o gnomo Chompski do parque."
+        ],
+        "dicas": [
+          "Pegue o gnomo Chompski no parque de diversões de Dark Carnival e carregue até o helicóptero no final."
+        ]
+      }
+    },
+    "ACH_WITCH_TOWN_NO_WITCH_KILLS": {
+      "guia": {
+        "passos": [
+          "Passe pela usina de açúcar e chegue ao abrigo sem matar nenhuma Bruxa."
+        ]
+      }
+    },
+    "ACH_AIRLINE_FINALE_NO_DAMAGE": {
+      "guia": {
+        "passos": [
+          "Defenda-se no avião destruído sem sofrer dano."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_WIN_A_GAME": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de Busca e Coleta."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_COLLECT_CAN_GRIND": {
+      "guia": {
+        "passos": [
+          "Colete 100 galões de gasolina no modo Busca e Coleta."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_COLLECT_ALL_CANS": {
+      "guia": {
+        "passos": [
+          "Colete 15 galões de gasolina em uma única rodada de Busca e Coleta."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_SHUT_OUT": {
+      "guia": {
+        "passos": [
+          "Impeça a equipe inimiga de coletar galões de gasolina em uma rodada de Busca e Coleta."
+        ]
+      }
+    },
+    "ACH_STRONGMAN_GAME": {
+      "guia": {
+        "passos": [
+          "Prove que você é mais forte que o Moustachio."
+        ],
+        "dicas": [
+          "Em Dark Carnival 2, acerte o jogo de força do Moustachio com um melee."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_MAKE_SURVIVOR_DROP_CAN": {
+      "guia": {
+        "passos": [
+          "Faça um Sobrevivente largar um galão de gasolina durante o tempo extra."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_CAN_DROP_GRIND": {
+      "guia": {
+        "passos": [
+          "Como Infectado Especial, faça com que larguem 25 galões de gasolina."
+        ]
+      }
+    },
+    "ACH_STASH_WHACKER": {
+      "guia": {
+        "passos": [
+          "Prove que você é mais rápido que o Moustachio."
+        ],
+        "dicas": [
+          "Jogo de bater no Moustachio em Dark Carnival 2."
+        ]
+      }
+    },
+    "ACH_SURVIVE_THE_PASSING": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"A Passagem\"."
+        ]
+      }
+    },
+    "ACH_KILLS_WITH_M60": {
+      "guia": {
+        "passos": [
+          "Usando a M60, mate 25 infectados sem tirar o dedo do gatilho."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_FALLEN_SURVIVOR": {
+      "guia": {
+        "passos": [
+          "Colete 10 itens largados por um Sobrevivente Falecido."
+        ]
+      }
+    },
+    "ACH_COMPLETE_CHALLENGE_MODES": {
+      "guia": {
+        "passos": [
+          "Jogue 6 Mutações."
+        ]
+      }
+    },
+    "ACH_HEADS_WITH_GOLF_CLUB": {
+      "guia": {
+        "passos": [
+          "Arranque a cabeça de 18 infectados com um taco de golfe."
+        ]
+      }
+    },
+    "ACH_HEAR_BALLAD": {
+      "guia": {
+        "passos": [
+          "Toque a nova música dos Midnight Riders em uma jukebox."
+        ],
+        "dicas": [
+          "Ache uma jukebox (ex.: em The Passing) e toque a música nova dos Midnight Riders."
+        ]
+      }
+    },
+    "ACH_KILL_TANK_L4D1_ONLY": {
+      "guia": {
+        "passos": [
+          "Deixe que os Sobreviventes originais causem todo o dano a um Tanque."
+        ]
+      }
+    },
+    "ACH_OPEN_FOOT_LOCKERS": {
+      "guia": {
+        "passos": [
+          "Abra 5 baús."
+        ]
+      }
+    },
+    "ACH_SCAVENGE_PLAY_C6_FINALE": {
+      "guia": {
+        "passos": [
+          "Jogue 5 partidas completas de Busca e Coleta no Porto."
+        ]
+      }
+    },
+    "ACH_COMPLETE_THE_SACRIFICE": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"O Sacrifício\"."
+        ]
+      }
+    },
+    "ACH_SACRIFICE_BILL": {
+      "guia": {
+        "passos": [
+          "Faça o Bill se sacrificar pela equipe."
+        ],
+        "dicas": [
+          "Na campanha The Sacrifice, jogue como Bill e faça o sacrifício no final."
+        ]
+      }
+    },
+    "ACH_KILL_SPECIAL_WITH_BARREL": {
+      "guia": {
+        "passos": [
+          "Mate um Infectado Especial com um barril explosivo."
+        ]
+      }
+    },
+    "ACH_RUN_ALL_GENERATORS": {
+      "guia": {
+        "passos": [
+          "Coloque os 3 geradores para funcionar de uma vez no finale de \"O Sacrifício\"."
+        ]
+      }
+    },
+    "ACH_VS_PREVENT_SACRIFICE": {
+      "guia": {
+        "passos": [
+          "Como um Infectado Especial, incapacite alguém que está tentando se sacrificar."
+        ]
+      }
+    },
+    "ACH_SURVIVE_COLD_STREAM": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"Córregos Gelados\" em qualquer dificuldade."
+        ]
+      }
+    },
+    "ACH_HELP_FREE_PLAYER_SURVIVE": {
+      "guia": {
+        "passos": [
+          "Jogue com jogadores do fim de semana gratuito e ajude-os a sobreviver a uma campanha."
+        ],
+        "atencao": [
+          "Evento antigo de fim de semana grátis: pode não ser mais obtível."
+        ]
+      }
+    },
+    "ACH_HELP_FREE_CHRISTMAS_PLAYER_SURVIVE": {
+      "guia": {
+        "passos": [
+          "Ajude alguém que obteve o jogo gratuitamente em um evento festivo a sobreviver a uma campanha."
+        ],
+        "atencao": [
+          "Evento antigo de fim de ano: pode não ser mais obtível."
+        ]
+      }
+    },
+    "ACH_SURVIVE_LIGHTHOUSE": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"O Último Confronto\" em qualquer dificuldade."
+        ]
+      }
+    },
+    "ACH_SURVIVE_LIGHTHOUSE_EXPERT_REALISM": {
+      "guia": {
+        "passos": [
+          "Sobreviva à campanha \"O Último Confronto\" na dificuldade Experiente do modo Realismo."
+        ]
+      }
+    },
+    "ACH_REVIVE_WITH_ACTIVE_TANK": {
+      "guia": {
+        "passos": [
+          "Socorra um colega incapacitado com um Tanque próximo."
+        ]
+      }
+    },
+    "ACH_RESCUE_X_PLAYERS_TOGETHER": {
+      "guia": {
+        "passos": [
+          "Resgate três Sobreviventes de um só armário."
+        ]
+      }
+    },
+    "ACH_FREE_SELF_FROM_SMOKER_WITH_MELEE": {
+      "guia": {
+        "passos": [
+          "Use uma arma corpo a corpo afiada para cortar a língua de um Fumacento antes que ele enlace você."
+        ]
+      }
+    },
+    "ACH_KILL_LEAPING_HUNTER_WITH_SHOTGUN": {
+      "guia": {
+        "passos": [
+          "Use uma escopeta para matar um Caçador que esteja dando um bote."
+        ]
+      }
+    },
+    "ACH_DESTROY_TANK_ROCK": {
+      "guia": {
+        "passos": [
+          "Destrua a rocha de um Tanque no ar."
+        ]
+      }
+    },
+    "ACH_ONE_SHOT_KILL_WITCH_BRIDE": {
+      "guia": {
+        "passos": [
+          "Mate a Bruxa noiva com um só tiro de escopeta na dificuldade Experiente."
+        ]
+      }
+    },
+    "ACH_KILL_X_JOCKEYS_WITH_MELEE": {
+      "guia": {
+        "passos": [
+          "Mate 20 Jóqueis com a pá ou com a forquilha."
+        ]
+      }
+    },
+    "ACH_KILL_X_INFECTED_LIFETIME": {
+      "guia": {
+        "passos": [
+          "Mate 53.599 infectados. Agora é que os mortos não levantam mais!"
+        ]
+      }
+    },
+    "ACH_ESCAPE_MALL_FINALE_NO_TANKS": {
+      "guia": {
+        "passos": [
+          "Fujam do saguão do shopping antes que o primeiro Tanque apareça."
+        ]
+      }
+    },
+    "ACH_FIND_LIGHTHOUSE_HIDDEN_ROOM": {
+      "guia": {
+        "passos": [
+          "Descubra a sala secreta da campanha \"O Último Confronto\"."
+        ],
+        "dicas": [
+          "Em The Last Stand, procure a sala escondida com nomes na parede."
+        ]
+      }
+    },
+    "ACH_KILL_WITCH_MELEE_ONLY": {
+      "guia": {
+        "passos": [
+          "Use uma arma corpo a corpo para matar uma Bruxa sem que um Sobrevivente fique incapacitado ou morra."
+        ]
+      }
+    },
+    "ACH_CONCERT_FINALE_DONT_LEAVE_STAGE": {
+      "guia": {
+        "passos": [
+          "No final da campanha \"Parque Sombrio\", sobrevivam até a chegada do helicóptero sem saírem do palco."
+        ]
+      }
+    },
+    "ACH_LAST_STAND_TIMED": {
+      "guia": {
+        "passos": [
+          "Termine a campanha \"O Último Confronto\" em até 13 minutos sem que nenhum Sobrevivente morra."
+        ]
+      }
+    },
+    "GLOBAL_GNOME_ALONE": {
+      "guia": {
+        "passos": [
+          "Se você está lendo esta conquista, é porque o Gabe Newell lançou o gnomo Chompski para o espaço com sucesso."
+        ],
+        "atencao": [
+          "Conquista global de evento; pode não ser mais obtível."
+        ]
+      }
+    },
+    "ACH_VS_JOCKEY_LONG_RIDE": {
+      "guia": {
+        "passos": [
+          "Como Jóquei, monte em um Sobrevivente por mais de 12 segundos."
+        ]
+      }
+    },
+    "ACH_VS_JOCKEY_TWO_PLAYERS": {
+      "guia": {
+        "passos": [
+          "Como Jóquei, monte nos Sobreviventes duas vezes na mesma vida."
+        ]
+      }
+    },
+    "ACH_VS_JOCKEY_INTO_ACID": {
+      "guia": {
+        "passos": [
+          "Como Jóquei, leve um Sobrevivente até a poça ácida de uma Cuspidora."
+        ]
+      }
+    },
+    "ACH_VS_SPIT_ON_ENEMY_TEAM": {
+      "guia": {
+        "passos": [
+          "Como Cuspidora, acerte todos os Sobreviventes com uma única poça de ácido."
+        ]
+      }
+    },
+    "ACH_VS_SPIT_ON_SMOKERED_PLAYER": {
+      "guia": {
+        "passos": [
+          "Como Cuspidora, cuspa em um Sobrevivente que está sendo enforcado por um Fumacento."
+        ]
+      }
+    },
+    "ACH_VS_BOWL_ENEMY_TEAM": {
+      "guia": {
+        "passos": [
+          "Como Esmagador, derrube toda a equipe inimiga em apenas uma investida."
+        ]
+      }
+    },
+    "ACH_VS_CHARGER_GROUND_SMASH": {
+      "guia": {
+        "passos": [
+          "Como Esmagador, agarre um Sobrevivente e esmague-o contra o chão por 15 segundos."
+        ]
+      }
+    },
+    "ACH_VS_CHARGER_LONG_CARRY": {
+      "guia": {
+        "passos": [
+          "Como Esmagador, agarre um Sobrevivente e carregue-o por mais de 24 metros."
+        ]
+      }
+    },
+    "ACH_VS_CHARGE_THROUGH_CHAIRS": {
+      "guia": {
+        "passos": [
+          "Como Esmagador, agarre um Sobrevivente e faça-o colidir com 8 cadeiras no casamento."
+        ]
+      }
+    },
+    "ACH_VS_SPIT_ON_CHARGED_PLAYER": {
+      "guia": {
+        "passos": [
+          "Como Cuspidora, cuspa em um Sobrevivente que foi agarrado por um Esmagador."
+        ]
+      }
+    },
+    "ACH_VS_SPIT_ON_POUNCED_PLAYER": {
+      "guia": {
+        "passos": [
+          "Como Cuspidora, cuspa em um Sobrevivente que foi pego por um Caçador."
+        ]
+      }
+    },
+    "ACH_VS_SPIT_ON_GAS_CANS": {
+      "guia": {
+        "passos": [
+          "Como Cuspidora, destrua 20 galões de gasolina."
+        ]
+      }
+    },
+    "ACH_VS_CHARGER_INSTANT_KILL": {
+      "guia": {
+        "passos": [
+          "Como Esmagador, mate um Sobrevivente instantaneamente."
+        ]
+      }
+    },
+    "ACH_VS_BILE_PLAYER_NO_LINE_OF_SIGHT": {
+      "guia": {
+        "passos": [
+          "Como Gorfo, vomite em um Sobrevivente que não esteja vendo."
+        ]
+      }
+    },
+    "ACH_CAUSE_X_POUNCE_DAMAGE": {
+      "guia": {
+        "passos": [
+          "Como Caçador, cause 25 de dano com um bote."
+        ]
+      }
+    },
+    "ACH_VS_LEAVE_SAFE_ROOM_DEFIB_TEAMMATE": {
+      "guia": {
+        "passos": [
+          "Em uma partida do modo Versus, saia do abrigo para desfibrilar um colega morto."
+        ]
+      }
+    },
+    "ACH_VS_COMPLETE_DEAD_AIR": {
+      "guia": {
+        "passos": [
+          "Jogue uma partida do modo Versus na campanha \"Aeromorto\" do início ao fim."
+        ]
+      }
+    },
+    "ACH_COLLECT_HOLIDAY_GIFTS": {
+      "guia": {
+        "passos": [
+          "Colete três presentes largados por Infectados Especiais no Modo Versus."
+        ],
+        "atencao": [
+          "Evento de 2011: não é mais obtível."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_VERSUS_X_MINUTES": {
+      "guia": {
+        "passos": [
+          "Sobreviva por 10 minutos em qualquer mapa oficial no modo Sobreviversus."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_GET_MEDAL_MELEE_ONLY": {
+      "guia": {
+        "passos": [
+          "Em uma rodada de Sobrevivência, obtenha uma medalha usando só armas corpo a corpo."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_BRONZE_MEDAL": {
+      "guia": {
+        "passos": [
+          "Ganhe uma medalha de bronze em qualquer mapa oficial no modo Sobrevivência."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_SILVER_MEDAL": {
+      "guia": {
+        "passos": [
+          "Ganhe uma medalha de prata em qualquer mapa oficial no modo Sobrevivência."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_GOLD_MEDAL": {
+      "guia": {
+        "passos": [
+          "Ganhe uma medalha de ouro em qualquer mapa oficial no modo Sobrevivência."
+        ]
+      }
+    },
+    "ACH_COLLECT_GOLDEN_CROWBARS": {
+      "guia": {
+        "passos": [
+          "Ache os pés de cabra dourados escondidos nos mapas de Sobrevivência do Left 4 Dead 1."
+        ],
+        "dicas": [
+          "Evento antigo; verifique se ainda está disponível."
+        ]
+      }
+    },
+    "ACH_EARN_ALL_BRONZE_MEDALS": {
+      "guia": {
+        "passos": [
+          "Ganhe uma medalha de bronze em todos os mapas oficiais no modo Sobrevivência."
+        ]
+      }
+    },
+    "ACH_EARN_ALL_SILVER_MEDALS": {
+      "guia": {
+        "passos": [
+          "Ganhe uma medalha de prata em todos os mapas oficiais no modo Sobrevivência."
+        ]
+      }
+    },
+    "ACH_EARN_ALL_GOLD_MEDALS": {
+      "guia": {
+        "passos": [
+          "Ganhe uma medalha de ouro em todos os mapas oficiais no modo Sobrevivência."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_X_MINUTES": {
+      "guia": {
+        "passos": [
+          "Sobreviva por 30 minutos em qualquer mapa oficial no modo Sobrevivência."
+        ]
+      }
+    }
+  }
 }

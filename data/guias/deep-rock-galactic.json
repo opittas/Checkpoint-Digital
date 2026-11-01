@@ -1,0 +1,548 @@
+{
+  "resumo": "Co-op de mineração espacial com 4 anões. Conquistas vêm de missões em várias dificuldades, Deep Dives, promoções e minijogos da Space Rig.",
+  "roadmap": [
+    {
+      "titulo": "1. Space Rig",
+      "texto": "Faça as conquistas do bar, jukebox e barris logo no começo."
+    },
+    {
+      "titulo": "2. Missões",
+      "texto": "Suba as dificuldades (Hazard 3 a 5) com um grupo."
+    },
+    {
+      "titulo": "3. Promoções",
+      "texto": "Leve os 4 anões ao nível 25 e promova; repita para Prata e Ouro."
+    },
+    {
+      "titulo": "4. Deep Dives",
+      "texto": "Faça os Deep Dives semanais, incluindo o Elite."
+    }
+  ],
+  "avisos": [
+    "Algumas conquistas exigem grupo completo de 4 jogadores."
+  ],
+  "conquistas": {
+    "APPROVED_GREENBEARD": {
+      "guia": {
+        "passos": [
+          "Complete sua primeira tarefa."
+        ]
+      }
+    },
+    "GETPAIDFORTHIS": {
+      "guia": {
+        "passos": [
+          "Alcance, no Barrilsquete, uma pontuação de 3000 ou mais em menos de 100 jogadas."
+        ],
+        "dicas": [
+          "Na Space Rig, chute barris na cesta do jogo de Barrel Hoop."
+        ]
+      }
+    },
+    "BARRELKICKER": {
+      "guia": {
+        "passos": [
+          "Que mira, hein? Você mandou 10 barris no aro sem um erro sequer."
+        ]
+      }
+    },
+    "NOTHOWYOUPLAY": {
+      "guia": {
+        "passos": [
+          "Entulho vai para o lixo, não no maquinário complexo do Barrilsquete!"
+        ]
+      }
+    },
+    "DARWINAWARD": {
+      "guia": {
+        "passos": [
+          "Se sacrificou no Barrilsquete enquanto estava embriagado."
+        ],
+        "dicas": [
+          "Fique bêbado no bar e pule no buraco do Barrel Hoop."
+        ]
+      }
+    },
+    "HAPPYFEET": {
+      "guia": {
+        "passos": [
+          "Você passou uma hora ou mais sacudindo a poupança."
+        ]
+      }
+    },
+    "BIGSPENDER": {
+      "guia": {
+        "passos": [
+          "Que grande companheiro. Você pagou 25 rodadas no Bar do Abismo."
+        ]
+      }
+    },
+    "PARTYTIME": {
+      "guia": {
+        "passos": [
+          "Você brindou com boa música enquanto estava numa equipe completa."
+        ]
+      }
+    },
+    "DISCJOCKEY": {
+      "guia": {
+        "passos": [
+          "Toque 25 músicas na Jukebox. (as músicas devem tocar até o fim para contar)."
+        ]
+      }
+    },
+    "BARRELRIDER": {
+      "guia": {
+        "passos": [
+          "Pilote um barril na Estação Espacial por três segundos."
+        ]
+      }
+    },
+    "THEATEAM": {
+      "guia": {
+        "passos": [
+          "Através de um manejo excepcional, você colocou um barril em cada assento da Cápsula de Transporte. Parabéns?"
+        ],
+        "dicas": [
+          "Com 4 jogadores, cada um acerta um barril no jogo."
+        ]
+      }
+    },
+    "TIMEWELLSPENT": {
+      "guia": {
+        "passos": [
+          "Você enfiou cada um dos barris da Estação Espacial na Cápsula de Transporte. A Gerência chora."
+        ]
+      }
+    },
+    "FOREIGNOBJECT": {
+      "guia": {
+        "passos": [
+          "Você chutou todos os barris para dentro da Plataforma de Lançamento. Você é o motivo pelo qual o Controle de Missão bebe."
+        ]
+      }
+    },
+    "SELFCONTROL": {
+      "guia": {
+        "passos": [
+          "Jogue 10 missões consecutivas sem chutar sequer um único barril na Estação Espacial."
+        ],
+        "dicas": [
+          "Jogue 10 missões seguidas sem ir ao bar entre elas."
+        ]
+      }
+    },
+    "MINIFIXER": {
+      "guia": {
+        "passos": [
+          "Conserte 50 Mini M.U.LA.s."
+        ]
+      }
+    },
+    "BETCTIME": {
+      "guia": {
+        "passos": [
+          "Derrote e conserte uma BET-C."
+        ],
+        "dicas": [
+          "BET-C aparece em missões com o modificador de robô hackeado; derrote e conserte."
+        ]
+      }
+    },
+    "HITWHEREITHURTS": {
+      "guia": {
+        "passos": [
+          "Você fez 1000 ataques em pontos fracos. Impressionante."
+        ]
+      }
+    },
+    "BIGGAMEHUNTER": {
+      "guia": {
+        "passos": [
+          "Participe da matança de 40 Encouraçados."
+        ]
+      }
+    },
+    "CYADETONATOR": {
+      "guia": {
+        "passos": [
+          "Participe da matança de 20 Detonadores Grandalhões."
+        ]
+      }
+    },
+    "PESTCONTROL": {
+      "guia": {
+        "passos": [
+          "Participe da matança de dois Encouraçados em 5 minutos em Perigo Nível 3 ou maior."
+        ],
+        "dicas": [
+          "Missões de Eliminação contra Dreadnoughts."
+        ]
+      }
+    },
+    "BUGHUNT": {
+      "guia": {
+        "passos": [
+          "Participe da matança de dois Encouraçados dentro de 30 segundos no Perigo Nível 3 ou maior."
+        ]
+      }
+    },
+    "JEWELER": {
+      "guia": {
+        "passos": [
+          "Colete 10 Gemacres."
+        ]
+      }
+    },
+    "PROSPECTOR": {
+      "guia": {
+        "passos": [
+          "Colete 20 Pedaços de Ouro Comprimido."
+        ]
+      }
+    },
+    "WHATISTHIS": {
+      "guia": {
+        "passos": [
+          "Você coletou 5 artefatos alienígenas misteriosos. Eles são quentes ao toque, e têm um vago odor de... asfalto?"
+        ],
+        "dicas": [
+          "Artefatos alienígenas (Error Cubes/Lost Packs) aparecem raramente nas missões."
+        ]
+      }
+    },
+    "MOLLYRIDER": {
+      "guia": {
+        "passos": [
+          "Ande na Molly por 15 segundos."
+        ]
+      }
+    },
+    "FARMER": {
+      "guia": {
+        "passos": [
+          "Monte sobre o Coletor de Silicato por 30 segundos."
+        ]
+      }
+    },
+    "CARPOOL": {
+      "guia": {
+        "passos": [
+          "Suba no Coletor de Silicato com outros 3 anões e matem 5 inimigos cada sem sair de cima."
+        ]
+      }
+    },
+    "DESIGNATEDDECOY": {
+      "guia": {
+        "passos": [
+          "Você levou mais dano de um Encouraçado que o resto da sua equipe."
+        ]
+      }
+    },
+    "WITHOUTAPADDLE": {
+      "guia": {
+        "passos": [
+          "Você era o último anão de pé, sem nenhuma munição na arma primária nem na secundária, e bem nessa hora surgiu um Encouraçado. É... alguns dias a gente nem deveria sair da cama..."
+        ]
+      }
+    },
+    "ILIKEITDOWNHERE": {
+      "guia": {
+        "passos": [
+          "Você passou uma hora ou mais em uma missão."
+        ]
+      }
+    },
+    "MINER": {
+      "guia": {
+        "passos": [
+          "Complete sua primeira missão."
+        ]
+      }
+    },
+    "EXPERTMINER": {
+      "guia": {
+        "passos": [
+          "Complete 100 missões."
+        ]
+      }
+    },
+    "LEGENDARYMINER": {
+      "guia": {
+        "passos": [
+          "Complete 500 missões."
+        ]
+      }
+    },
+    "STEPPINGITUP": {
+      "guia": {
+        "passos": [
+          "Sobreviva a uma missão de dificuldade \"Perigo 3\" do começo ao fim."
+        ]
+      }
+    },
+    "CONSISTENTPERFORMANCE": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso três missões seguidas de dificuldade \"Perigo 3\" do começo ao fim."
+        ]
+      }
+    },
+    "THICKSKINNED": {
+      "guia": {
+        "passos": [
+          "Sobreviva a uma missão de dificuldade \"Perigo 4\" do começo ao fim."
+        ]
+      }
+    },
+    "EMPLOYEEOFTHEMONTH": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso quatro missões seguidas de dificuldade \"Perigo 4\" do começo ao fim."
+        ]
+      }
+    },
+    "GOINGLETHAL": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso uma missão de dificuldade \"Perigo 5\" do começo ao fim."
+        ],
+        "atencao": [
+          "Hazard 5 é difícil: jogue com um grupo coordenado."
+        ]
+      }
+    },
+    "ROCKSOLID": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso cinco missões seguidas de dificuldade \"Perigo 5\" do começo ao fim."
+        ]
+      }
+    },
+    "AGAME": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso uma missão de dificuldade \"Perigo 3\" do começo ao fim em que nenhum anão tenha caído ou pedido por um reabastecimento."
+        ]
+      }
+    },
+    "OILEDMACHINE": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso uma missão de dificuldade \"Perigo 4\" do começo ao fim em que nenhum anão tenha caído ou pedido por um reabastecimento."
+        ]
+      }
+    },
+    "KARLISPROUD": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso uma missão de dificuldade \"Perigo 5\" do começo ao fim em que nenhum anão tenha caído ou pedido por um reabastecimento."
+        ],
+        "atencao": [
+          "Hazard 5 sem ninguém cair; jogue com um grupo experiente."
+        ]
+      }
+    },
+    "MUTATEDSCAVENGER": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso 20 missões marcadas com Alertas do começo ao fim."
+        ]
+      }
+    },
+    "ITSMYPARTY": {
+      "guia": {
+        "passos": [
+          "Você hospedou e completou com sucesso 50 missões em equipe do começo ao fim."
+        ]
+      }
+    },
+    "GOODSHEPHERD": {
+      "guia": {
+        "passos": [
+          "Complete com sucesso 25 missões em que, pelo menos, 1 jogador é 10 níveis menor que você."
+        ]
+      }
+    },
+    "LONEWOLF": {
+      "guia": {
+        "passos": [
+          "Você completou 10 missões sozinho. Impressionante."
+        ]
+      }
+    },
+    "BESTBOSCO": {
+      "guia": {
+        "passos": [
+          "Você completou 100 missões sozinho. Impressionante."
+        ]
+      }
+    },
+    "PERFORMANCEMATTERS": {
+      "guia": {
+        "passos": [
+          "Complete 10 Metas."
+        ]
+      }
+    },
+    "MANAGEMENTAPPROVES": {
+      "guia": {
+        "passos": [
+          "Complete 25 Metas."
+        ]
+      }
+    },
+    "FEELINGPERKY": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 10 Vantagens."
+        ]
+      }
+    },
+    "MOVINGONUP": {
+      "guia": {
+        "passos": [
+          "Promova qualquer anão pelo menos uma vez."
+        ]
+      }
+    },
+    "CORPORATECLIMBER": {
+      "guia": {
+        "passos": [
+          "Promova dois anões ao menos uma vez."
+        ]
+      }
+    },
+    "HATTRICK": {
+      "guia": {
+        "passos": [
+          "Promova três anões ao menos uma vez."
+        ]
+      }
+    },
+    "FULLTEAMAHEAD": {
+      "guia": {
+        "passos": [
+          "Promova todos os quatro anões pelo menos uma vez."
+        ]
+      }
+    },
+    "SILVEREMPLOYEE": {
+      "guia": {
+        "passos": [
+          "Ganhe uma promoção para Prata."
+        ]
+      }
+    },
+    "GOLDEMPLOYEE": {
+      "guia": {
+        "passos": [
+          "Ganhe uma promoção para Ouro."
+        ]
+      }
+    },
+    "PROTEAM": {
+      "guia": {
+        "passos": [
+          "Ganhe promoções para Prata para todos os quatro anões."
+        ]
+      }
+    },
+    "LEGENDARYTEAM": {
+      "guia": {
+        "passos": [
+          "Ganhe promoções para Ouro para todos os quatro anões."
+        ],
+        "dicas": [
+          "Promoção Ouro exige muitas promoções com os 4 anões."
+        ]
+      }
+    },
+    "EXPLORINGMYOPTIONS": {
+      "guia": {
+        "passos": [
+          "Você desbloqueou uma nova arma primária e uma nova arma secundária para o mesmo personagem."
+        ]
+      }
+    },
+    "STATEOFTHEART": {
+      "guia": {
+        "passos": [
+          "Você comprou uma Modificação em cada nível para um de cada tipo de item aprimorável no Terminal de Equipamento, para o mesmo personagem."
+        ]
+      }
+    },
+    "ADVANCEDROBOTICS": {
+      "guia": {
+        "passos": [
+          "Você comprou uma modificação em cada nível para o Bosco."
+        ]
+      }
+    },
+    "MUSTACHO": {
+      "guia": {
+        "passos": [
+          "Compre cinco bigodes para um personagem."
+        ]
+      }
+    },
+    "TOTALMAKEOVER": {
+      "guia": {
+        "passos": [
+          "Customize todos os espaços para acessórios de um personagem."
+        ]
+      }
+    },
+    "BABYDIVER": {
+      "guia": {
+        "passos": [
+          "Complete uma Escavação Profunda."
+        ]
+      }
+    },
+    "EXPERTDIVER": {
+      "guia": {
+        "passos": [
+          "Complete uma Escavação Profunda de Elite."
+        ],
+        "atencao": [
+          "Elite Deep Dive é semanal e muito difícil."
+        ]
+      }
+    },
+    "OUTATIME": {
+      "guia": {
+        "passos": [
+          "Complete qualquer Escavação Profunda em menos de 45 minutos."
+        ],
+        "dicas": [
+          "Deep Dive rápido: grupo coordenado e foco nos objetivos."
+        ]
+      }
+    },
+    "VETERANDIVER": {
+      "guia": {
+        "passos": [
+          "Complete 5 Escavações Profundas."
+        ]
+      }
+    },
+    "DRILLBYSHOOTING": {
+      "guia": {
+        "passos": [
+          "Suba na Perfuratriz com outros 3 anões e matem 15 inimigos cada sem descer dela."
+        ]
+      }
+    },
+    "LONGPIPE": {
+      "guia": {
+        "passos": [
+          "Surfe em uma tubulação por 120 segundos sem parar."
+        ],
+        "dicas": [
+          "Pipes aparecem nas missões de Refinaria; deslize neles por 2 minutos."
+        ]
+      }
+    }
+  }
+}

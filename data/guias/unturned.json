@@ -17,5 +17,710 @@
   "avisos": [
     "Algumas são de eventos sazonais (Natal)."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "PEI": {
+      "guia": {
+        "passos": [
+          "Chegue à Ilha do Príncipe Eduardo."
+        ]
+      }
+    },
+    "Bridge": {
+      "guia": {
+        "passos": [
+          "Falhe em conter o vírus."
+        ]
+      }
+    },
+    "Mastermind": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as suas habilidades."
+        ]
+      }
+    },
+    "Offense": {
+      "guia": {
+        "passos": [
+          "Aprenda toda a árvore de ataque."
+        ]
+      }
+    },
+    "Defense": {
+      "guia": {
+        "passos": [
+          "Aprenda toda a árvore de defesa."
+        ]
+      }
+    },
+    "Support": {
+      "guia": {
+        "passos": [
+          "Aprenda toda a árvore de suporte."
+        ]
+      }
+    },
+    "Experienced": {
+      "guia": {
+        "passos": [
+          "Ganhe 1000 de experiência."
+        ]
+      }
+    },
+    "Hoarder": {
+      "guia": {
+        "passos": [
+          "Encontre 1000 itens."
+        ]
+      }
+    },
+    "Outdoors": {
+      "guia": {
+        "passos": [
+          "Colete 100 recursos."
+        ]
+      }
+    },
+    "Psychopath": {
+      "guia": {
+        "passos": [
+          "Mate 100 jogadores."
+        ],
+        "dicas": [
+          "Exige PvP em servidores online."
+        ]
+      }
+    },
+    "Murderer": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores."
+        ]
+      }
+    },
+    "Survivor": {
+      "guia": {
+        "passos": [
+          "Mate 100 zumbis comuns."
+        ]
+      }
+    },
+    "Unturned": {
+      "guia": {
+        "passos": [
+          "Mate 1000 zumbis comuns."
+        ]
+      }
+    },
+    "Hardened": {
+      "guia": {
+        "passos": [
+          "Mate um mega zumbi."
+        ]
+      }
+    },
+    "Forged": {
+      "guia": {
+        "passos": [
+          "Mate 10 mega zumbis."
+        ]
+      }
+    },
+    "Scavenger": {
+      "guia": {
+        "passos": [
+          "Encontre 100 itens."
+        ]
+      }
+    },
+    "Camper": {
+      "guia": {
+        "passos": [
+          "Colete 10 recursos."
+        ]
+      }
+    },
+    "Schooled": {
+      "guia": {
+        "passos": [
+          "Ganhe 100 de experiência."
+        ]
+      }
+    },
+    "Berries": {
+      "guia": {
+        "passos": [
+          "!?"
+        ],
+        "dicas": [
+          "Conquista secreta: coma frutinhas silvestres (berries)."
+        ]
+      }
+    },
+    "Accident_Prone": {
+      "guia": {
+        "passos": [
+          "Morra 10 vezes."
+        ]
+      }
+    },
+    "Wheel": {
+      "guia": {
+        "passos": [
+          "Encontre um veículo."
+        ]
+      }
+    },
+    "Yukon": {
+      "guia": {
+        "passos": [
+          "Chegue ao Yukon."
+        ]
+      }
+    },
+    "Washington": {
+      "guia": {
+        "passos": [
+          "Chegue a Washington."
+        ]
+      }
+    },
+    "Educated": {
+      "guia": {
+        "passos": [
+          "Complete sua educação."
+        ]
+      }
+    },
+    "Fishing": {
+      "guia": {
+        "passos": [
+          "Pesque 10 peixes."
+        ]
+      }
+    },
+    "Crafting": {
+      "guia": {
+        "passos": [
+          "Fabrique 100 itens."
+        ]
+      }
+    },
+    "Farming": {
+      "guia": {
+        "passos": [
+          "Cultive 100 plantas."
+        ]
+      }
+    },
+    "Headshot": {
+      "guia": {
+        "passos": [
+          "Acerte 100 tiros na cabeça."
+        ]
+      }
+    },
+    "Sharpshooter": {
+      "guia": {
+        "passos": [
+          "Acerte 1000 tiros na cabeça."
+        ]
+      }
+    },
+    "Hiking": {
+      "guia": {
+        "passos": [
+          "Percorra 50.000 m a pé."
+        ]
+      }
+    },
+    "Roadtrip": {
+      "guia": {
+        "passos": [
+          "Percorra 100.000 m de veículo."
+        ]
+      }
+    },
+    "Champion": {
+      "guia": {
+        "passos": [
+          "Vença 3 partidas de arena."
+        ]
+      }
+    },
+    "Fortified": {
+      "guia": {
+        "passos": [
+          "Construa 250 objetos."
+        ]
+      }
+    },
+    "Russia": {
+      "guia": {
+        "passos": [
+          "Chegue à Rússia."
+        ]
+      }
+    },
+    "Soulcrystal": {
+      "guia": {
+        "passos": [
+          "???"
+        ],
+        "dicas": [
+          "Conquista secreta de mapa; consulte a comunidade para o local."
+        ]
+      }
+    },
+    "Paragon": {
+      "guia": {
+        "passos": [
+          "Conquiste uma reputação respeitada."
+        ]
+      }
+    },
+    "Villain": {
+      "guia": {
+        "passos": [
+          "Conquiste uma reputação intimidadora."
+        ]
+      }
+    },
+    "Mk2": {
+      "guia": {
+        "passos": [
+          "???"
+        ],
+        "dicas": [
+          "Conquista secreta ligada a uma arma especial; consulte a comunidade."
+        ]
+      }
+    },
+    "Quest": {
+      "guia": {
+        "passos": [
+          "Termine uma missão."
+        ]
+      }
+    },
+    "Ensign": {
+      "guia": {
+        "passos": [
+          "Suba ao posto de Alferes na Coalizão."
+        ]
+      }
+    },
+    "Lieutenant": {
+      "guia": {
+        "passos": [
+          "Suba ao posto de Tenente na Coalizão."
+        ]
+      }
+    },
+    "Major": {
+      "guia": {
+        "passos": [
+          "Suba ao posto de Major na Coalizão."
+        ]
+      }
+    },
+    "Peaks": {
+      "guia": {
+        "passos": [
+          "Chegue à Alemanha."
+        ]
+      }
+    },
+    "Zweihander": {
+      "guia": {
+        "passos": [
+          "???"
+        ],
+        "dicas": [
+          "Conquista secreta no mapa Germany (Castelo Neuschwanstein)."
+        ]
+      }
+    },
+    "Festive2021_Delivery": {
+      "guia": {
+        "passos": [
+          "Entregue todos os presentes atrasados do Papai Noel durante as festas de fim de ano."
+        ],
+        "atencao": [
+          "Evento sazonal de Natal (2021); pode não estar mais disponível."
+        ]
+      }
+    },
+    "Festive2021_Snowman": {
+      "guia": {
+        "passos": [
+          "Construa um bonecão de neve durante as festas de fim de ano."
+        ],
+        "atencao": [
+          "Evento sazonal de inverno."
+        ]
+      }
+    },
+    "Festive2021_Cook": {
+      "guia": {
+        "passos": [
+          "Experimente a receita festiva do Sous-Chef Roman durante as festas de fim de ano."
+        ],
+        "atencao": [
+          "Evento sazonal de Natal."
+        ]
+      }
+    },
+    "Festive2021_Power": {
+      "guia": {
+        "passos": [
+          "Ligue as luzes de Seattle durante as festas de fim de ano."
+        ],
+        "atencao": [
+          "Evento sazonal de Natal."
+        ]
+      }
+    },
+    "Cali2_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue à Califórnia. (...2?)."
+        ]
+      }
+    },
+    "Cali2_ZoneTrekker": {
+      "guia": {
+        "passos": [
+          "Complete a missão \"Explorador de Zonas\" visitando todas as zonas mortas de California 2."
+        ]
+      }
+    },
+    "Cali2_DiplomaticImmunity": {
+      "guia": {
+        "passos": [
+          "Resolva uma situação tensa em California 2."
+        ]
+      }
+    },
+    "Cali2_EmployeeOfTheCentury": {
+      "guia": {
+        "passos": [
+          "Complete a linha de missões do Phoneman em California 2."
+        ]
+      }
+    },
+    "Cali2_HeartOfGold": {
+      "guia": {
+        "passos": [
+          "Complete a linha de missões dos Gnomos em California 2."
+        ]
+      }
+    },
+    "Cali2_AnOldWound": {
+      "guia": {
+        "passos": [
+          "Destrua o Coração no Metrô de SF em California 2."
+        ]
+      }
+    },
+    "Cali2_VoidCave": {
+      "guia": {
+        "passos": [
+          "Pule no buraco da Caverna do Vazio em California 2."
+        ]
+      }
+    },
+    "LS_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue a Limestone."
+        ]
+      }
+    },
+    "LS_Covert": {
+      "guia": {
+        "passos": [
+          "Fabrique qualquer variante de arma com silenciador em Limestone."
+        ]
+      }
+    },
+    "LS_Dare": {
+      "guia": {
+        "passos": [
+          "Coma uma minhoca em Limestone."
+        ]
+      }
+    },
+    "LS_Concrete": {
+      "guia": {
+        "passos": [
+          "Consiga concreto em Limestone."
+        ]
+      }
+    },
+    "LS_Widowmaker": {
+      "guia": {
+        "passos": [
+          "Fabrique uma Widowmaker em Limestone."
+        ]
+      }
+    },
+    "Rio_Bookworm": {
+      "guia": {
+        "passos": [
+          "Fabrique sua primeira Enciclopédia no Rio."
+        ]
+      }
+    },
+    "Rio_BrokenChains": {
+      "guia": {
+        "passos": [
+          "Derrote o chefe Horder no Rio."
+        ]
+      }
+    },
+    "Rio_ChaosTheorem": {
+      "guia": {
+        "passos": [
+          "Liberte o Caos no Rio."
+        ]
+      }
+    },
+    "Rio_PermanentTourist": {
+      "guia": {
+        "passos": [
+          "Torne-se membro da Zona Segura de Brocoió no Rio."
+        ]
+      }
+    },
+    "Rio_SproutUp": {
+      "guia": {
+        "passos": [
+          "Encontre os 12 brotos escondidos no Rio."
+        ],
+        "dicas": [
+          "São 12 brotos escondidos no mapa Rio; consulte um mapa da comunidade."
+        ]
+      }
+    },
+    "RioRemastered_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue ao Rio de Janeiro, Brasil."
+        ]
+      }
+    },
+    "PBS_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue a Escalation."
+        ]
+      }
+    },
+    "PBS_BombsAway": {
+      "guia": {
+        "passos": [
+          "Peça um ataque aéreo com um LTLM em Escalation."
+        ]
+      }
+    },
+    "PBS_ForcefulAcquisition": {
+      "guia": {
+        "passos": [
+          "Derrube um airdrop com um míssil em Escalation."
+        ]
+      }
+    },
+    "PBS_DeadSilent": {
+      "guia": {
+        "passos": [
+          "Fabrique todas as armas com silenciador em Escalation."
+        ]
+      }
+    },
+    "PBS_PoorInvestment": {
+      "guia": {
+        "passos": [
+          "Invista dinheiro demais no Gurt em Escalation."
+        ]
+      }
+    },
+    "Buak_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue a Buak."
+        ]
+      }
+    },
+    "Buak_ADayInTheSun": {
+      "guia": {
+        "passos": [
+          "Encontre alguém se divertindo em Buak."
+        ]
+      }
+    },
+    "Buak_Memory": {
+      "guia": {
+        "passos": [
+          "Descubra o passado em Buak."
+        ]
+      }
+    },
+    "Buak_TacoWaffle": {
+      "guia": {
+        "passos": [
+          "Faça experimentos com waffles em Buak."
+        ]
+      }
+    },
+    "Buak_Anomaly": {
+      "guia": {
+        "passos": [
+          "???"
+        ],
+        "dicas": [
+          "Conquista secreta no mapa Buak."
+        ]
+      }
+    },
+    "Arid_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue a Arid."
+        ]
+      }
+    },
+    "Arid_Finale": {
+      "guia": {
+        "passos": [
+          "Termine todas as missões principais em Arid."
+        ]
+      }
+    },
+    "Arid_RPG": {
+      "guia": {
+        "passos": [
+          "Monte um lança-foguetes."
+        ]
+      }
+    },
+    "Kuwait_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue ao Kuwait."
+        ]
+      }
+    },
+    "Kuwait_Squeek": {
+      "guia": {
+        "passos": [
+          "Pesque um inimigo formidável no Kuwait."
+        ]
+      }
+    },
+    "Kuwait_FelineFriends": {
+      "guia": {
+        "passos": [
+          "Alimente os gatos do Kuwait com peixe."
+        ]
+      }
+    },
+    "Kuwait_DinosaurJuice": {
+      "guia": {
+        "passos": [
+          "Talvez não seja a melhor bebida do Kuwait."
+        ]
+      }
+    },
+    "Kuwait_HomeDecor": {
+      "guia": {
+        "passos": [
+          "Fabrique uma decoração fofa no Kuwait."
+        ]
+      }
+    },
+    "Kuwait_AlwaysWatching": {
+      "guia": {
+        "passos": [
+          "EYE; Sea; You."
+        ]
+      }
+    },
+    "Kuwait_FamiliarFaces": {
+      "guia": {
+        "passos": [
+          "Contate a Coalizão no Kuwait... Eye; SEA; You."
+        ]
+      }
+    },
+    "Kuwait_EscapingOutlands": {
+      "guia": {
+        "passos": [
+          "Experimente uma ótima assistência médica. Eye; Sea; YOU."
+        ]
+      }
+    },
+    "Kuwait_DunemansPromise": {
+      "guia": {
+        "passos": [
+          "Gaste demais numa arma nova e brilhante."
+        ]
+      }
+    },
+    "Hawaii": {
+      "guia": {
+        "passos": [
+          "Chegue ao Havaí."
+        ]
+      }
+    },
+    "Boss_Magma": {
+      "guia": {
+        "passos": [
+          "Mate um zumbi de magma."
+        ]
+      }
+    },
+    "Ireland_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue à Irlanda."
+        ]
+      }
+    },
+    "Elver_FinalBoss": {
+      "guia": {
+        "passos": [
+          "???"
+        ],
+        "dicas": [
+          "Chefe final do mapa Elver (secreto)."
+        ]
+      }
+    },
+    "Elver_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue a Elver."
+        ]
+      }
+    },
+    "Frost_Visited": {
+      "guia": {
+        "passos": [
+          "Chegue a A6 Polaris."
+        ]
+      }
+    },
+    "Frost_Expedition": {
+      "guia": {
+        "passos": [
+          "???"
+        ],
+        "dicas": [
+          "Mapa A6 Polaris: complete todas as expedições."
+        ]
+      }
+    }
+  }
 }

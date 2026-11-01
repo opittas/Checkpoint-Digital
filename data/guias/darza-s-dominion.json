@@ -15,5 +15,155 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Baby_Steps": {
+      "guia": {
+        "passos": [
+          "Entre na masmorra Matagal Florido (perto do início) e derrote o chefe."
+        ],
+        "dicas": [
+          "É a primeira masmorra: faça em grupo se puder."
+        ]
+      }
+    },
+    "Natural_Selection": {
+      "guia": {
+        "passos": [
+          "Morra uma vez."
+        ],
+        "atencao": [
+          "A morte é permanente: perde o personagem e os itens equipados. Faça com um personagem novo."
+        ]
+      }
+    },
+    "Ooh_Sparkly!": {
+      "guia": {
+        "passos": [
+          "Use uma Gema de Atributo do inventário."
+        ],
+        "dicas": [
+          "Elas caem de chefes de masmorras."
+        ]
+      }
+    },
+    "Healing_Hand": {
+      "guia": {
+        "passos": [
+          "Jogue com a classe que usa o Pilão do Boticário e cure alguém com a habilidade."
+        ]
+      }
+    },
+    "Event_Ageous": {
+      "guia": {
+        "passos": [
+          "Participe de um evento mundial do Aspecto do Vazio e ajude a matá-lo."
+        ],
+        "dicas": [
+          "Fique perto do grupo para receber o crédito."
+        ]
+      }
+    },
+    "Welcome_Back": {
+      "guia": {
+        "passos": [
+          "Abra o jogo em 4 dias diferentes."
+        ]
+      }
+    },
+    "Dirty_Hands": {
+      "guia": {
+        "passos": [
+          "Dê o golpe final em 1500 inimigos no total."
+        ],
+        "dicas": [
+          "Classes de dano alto ajudam."
+        ]
+      }
+    },
+    "Maxing_Out": {
+      "guia": {
+        "passos": [
+          "Consuma gemas de um mesmo atributo até o limite."
+        ],
+        "dicas": [
+          "Guarde as gemas iguais num personagem só."
+        ]
+      }
+    },
+    "Life_Steal": {
+      "guia": {
+        "passos": [
+          "Junte 200 essências."
+        ]
+      }
+    },
+    "Crab_Crusher": {
+      "guia": {
+        "passos": [
+          "Vá à Praia Oeste e mate os caranguejos."
+        ]
+      }
+    },
+    "Nomad": {
+      "guia": {
+        "passos": [
+          "Explore o mapa para revelar as áreas."
+        ]
+      }
+    },
+    "Dungeon_Completion": {
+      "guia": {
+        "passos": [
+          "Complete 1000 masmorras no total (conta toda a conta)."
+        ],
+        "dicas": [
+          "Masmorras curtas rendem mais rápido."
+        ]
+      }
+    },
+    "Conquer_The_Void": {
+      "guia": {
+        "passos": [
+          "Entre no Vazio no fim do ciclo e ajude a matar Darza."
+        ],
+        "dicas": [
+          "Exige personagem forte e grupo."
+        ]
+      }
+    },
+    "Glory_Hoarder": {
+      "guia": {
+        "passos": [
+          "Acumule prata na conta ao longo do tempo."
+        ]
+      }
+    },
+    "Anomaly": {
+      "guia": {
+        "passos": [
+          "Chegue a 10.000 de glória com um personagem ainda vivo."
+        ],
+        "dicas": [
+          "Evite riscos desnecessários com esse personagem."
+        ]
+      }
+    },
+    "Ruby_Red": {
+      "guia": {
+        "passos": [
+          "Complete qualquer Conquista Rubi da temporada."
+        ]
+      }
+    },
+    "Prestige": {
+      "guia": {
+        "passos": [
+          "Complete todas as Conquistas Rubi de uma temporada."
+        ],
+        "atencao": [
+          "As temporadas mudam: faça antes do fim da temporada atual."
+        ]
+      }
+    }
+  }
 }

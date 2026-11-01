@@ -15,5 +15,146 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "sarahend": {
+      "guia": {
+        "passos": [
+          "Termine Wishing Sarah."
+        ]
+      }
+    },
+    "SC_50_POINTS": {
+      "guia": {
+        "passos": [
+          "No Spooky Cooking, faça 50 pontos numa rodada."
+        ]
+      }
+    },
+    "SC_100_POINTS": {
+      "guia": {
+        "passos": [
+          "Faça 100 pontos numa rodada."
+        ]
+      }
+    },
+    "SC_200_POINTS": {
+      "guia": {
+        "passos": [
+          "Faça 200 pontos numa rodada."
+        ]
+      }
+    },
+    "SC_500_POINTS": {
+      "guia": {
+        "passos": [
+          "Faça 500 pontos numa rodada."
+        ]
+      }
+    },
+    "SC_10_STARS": {
+      "guia": {
+        "passos": [
+          "Ganhe 10 estrelas somando as rodadas."
+        ]
+      }
+    },
+    "SC_10_LIGHTINGS": {
+      "guia": {
+        "passos": [
+          "Ganhe 10 raios somando as rodadas."
+        ]
+      }
+    },
+    "SC_20_FIRES": {
+      "guia": {
+        "passos": [
+          "Apague 20 fogos com a estrela."
+        ]
+      }
+    },
+    "SC_40_FIRES": {
+      "guia": {
+        "passos": [
+          "Apague 40 fogos com a estrela."
+        ]
+      }
+    },
+    "SC_100_ENEMIES": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos com a estrela."
+        ]
+      }
+    },
+    "SC_200_ENEMIES": {
+      "guia": {
+        "passos": [
+          "Mate 200 inimigos com a estrela."
+        ]
+      }
+    },
+    "TGIF": {
+      "guia": {
+        "passos": [
+          "Vá trabalhar."
+        ]
+      }
+    },
+    "SWIMMING_WITH_THE_FISHES": {
+      "guia": {
+        "passos": [
+          "Alimente seu peixe."
+        ]
+      }
+    },
+    "OH_HI_DOGGY": {
+      "guia": {
+        "passos": [
+          "Faça carinho no cachorro."
+        ]
+      }
+    },
+    "NECRO_ROMANCER": {
+      "guia": {
+        "passos": [
+          "Beije sua esposa."
+        ]
+      }
+    },
+    "DISHES_UNECESSARY": {
+      "guia": {
+        "passos": [
+          "Lave a louça."
+        ]
+      }
+    },
+    "THIS_IS_STUPID": {
+      "guia": {
+        "passos": [
+          "Encontre seu amigo."
+        ]
+      }
+    },
+    "T100_PERSISTENCE": {
+      "guia": {
+        "passos": [
+          "Morra 10 vezes e continue jogando."
+        ]
+      }
+    },
+    "T100_MASTER_CAT": {
+      "guia": {
+        "passos": [
+          "Purifique toda a torre."
+        ]
+      }
+    },
+    "T100_NO_SHOVEL": {
+      "guia": {
+        "passos": [
+          "Ache um item escondido no chão."
+        ]
+      }
+    }
+  }
 }

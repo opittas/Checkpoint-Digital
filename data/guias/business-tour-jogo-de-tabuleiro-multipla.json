@@ -7,5 +7,148 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_WON_TRIPLE_01": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas com monopólio triplo (3 grupos de cores completos)."
+        ],
+        "dicas": [
+          "Compre cidades do mesmo grupo e troque com rivais."
+        ]
+      }
+    },
+    "ACH_WON_TRIPLE_02": {
+      "guia": {
+        "passos": [
+          "Vença 50 partidas com monopólio triplo."
+        ]
+      }
+    },
+    "ACH_WON_TRIPLE_03": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas com monopólio triplo."
+        ]
+      }
+    },
+    "ACH_WON_LINE_01": {
+      "guia": {
+        "passos": [
+          "Vença 5 partidas comprando todas as cidades de um lado do tabuleiro."
+        ]
+      }
+    },
+    "ACH_WON_LINE_02": {
+      "guia": {
+        "passos": [
+          "Vença 25 partidas assim."
+        ]
+      }
+    },
+    "ACH_WON_LINE_03": {
+      "guia": {
+        "passos": [
+          "Vença 50 partidas assim."
+        ]
+      }
+    },
+    "ACH_WON_RESORT_01": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas comprando todas as cidades litorâneas."
+        ]
+      }
+    },
+    "ACH_WON_RESORT_02": {
+      "guia": {
+        "passos": [
+          "Vença 50 partidas assim."
+        ]
+      }
+    },
+    "ACH_WON_RESORT_03": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas assim."
+        ]
+      }
+    },
+    "ACH_WON_LASTPLAYER_01": {
+      "guia": {
+        "passos": [
+          "Vença 10 vezes levando todos à falência."
+        ]
+      }
+    },
+    "ACH_WON_LASTPLAYER_02": {
+      "guia": {
+        "passos": [
+          "Vença 50 vezes levando todos à falência."
+        ]
+      }
+    },
+    "ACH_WON_LASTPLAYER_03": {
+      "guia": {
+        "passos": [
+          "Vença 100 vezes levando todos à falência."
+        ]
+      }
+    },
+    "ACH_TRAVELER_01": {
+      "guia": {
+        "passos": [
+          "Use a casa Volta ao Mundo 50 vezes."
+        ],
+        "dicas": [
+          "Conta em todas as partidas."
+        ]
+      }
+    },
+    "ACH_TRAVELER_02": {
+      "guia": {
+        "passos": [
+          "Faça a volta ao mundo 200 vezes."
+        ]
+      }
+    },
+    "ACH_TRAVELER_03": {
+      "guia": {
+        "passos": [
+          "Faça a volta ao mundo 500 vezes."
+        ]
+      }
+    },
+    "ACH_LIGHT": {
+      "guia": {
+        "passos": [
+          "Desligue as luzes de um rival 50 vezes (carta de apagão)."
+        ]
+      }
+    },
+    "ACH_LUCKY": {
+      "guia": {
+        "passos": [
+          "Saia da Ilha Perdida 50 vezes tirando dupla na primeira tentativa."
+        ]
+      }
+    },
+    "ACH_MULTIPLER": {
+      "guia": {
+        "passos": [
+          "Aumente o Multiplicador de Aluguel em 10."
+        ]
+      }
+    },
+    "ACH_PAIR_3X": {
+      "guia": {
+        "passos": [
+          "Tire três duplas seguidas."
+        ],
+        "dicas": [
+          "Questão de sorte; vem com o tempo."
+        ]
+      }
+    }
+  }
 }

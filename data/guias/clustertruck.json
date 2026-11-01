@@ -11,5 +11,151 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "COMPLETED_DESERT": {
+      "guia": {
+        "passos": [
+          "Termine o mundo do deserto."
+        ]
+      }
+    },
+    "TENTHOUSAND_POINTS": {
+      "guia": {
+        "passos": [
+          "Faça 10.000 pontos numa fase."
+        ],
+        "dicas": [
+          "Truques no ar e habilidades dão muitos pontos."
+        ]
+      }
+    },
+    "COMPLETED_GAME": {
+      "guia": {
+        "passos": [
+          "Termine todos os mundos."
+        ]
+      }
+    },
+    "BEAT_GHOST": {
+      "guia": {
+        "passos": [
+          "Vença o fantasma de outro jogador numa fase."
+        ]
+      }
+    },
+    "ALL_ABILITIES": {
+      "guia": {
+        "passos": [
+          "Compre todas as habilidades com pontos."
+        ],
+        "dicas": [
+          "Repita fases fáceis com truques para juntar pontos."
+        ]
+      }
+    },
+    "ACE_10_LEVELS": {
+      "guia": {
+        "passos": [
+          "Gabarite 10 fases (melhor tempo/pontuação exigida)."
+        ]
+      }
+    },
+    "BEST_FRIEND_RECORD": {
+      "guia": {
+        "passos": [
+          "Faça o melhor tempo entre seus amigos numa fase."
+        ]
+      }
+    },
+    "TEN_SECONDS_AIR_TIME": {
+      "guia": {
+        "passos": [
+          "Fique 10 segundos no ar."
+        ],
+        "dicas": [
+          "Use pulo duplo e câmera lenta."
+        ]
+      }
+    },
+    "COMPLETED_FOREST": {
+      "guia": {
+        "passos": [
+          "Termine o mundo da floresta."
+        ]
+      }
+    },
+    "COMPLETED_WINTER": {
+      "guia": {
+        "passos": [
+          "Termine o mundo do inverno."
+        ]
+      }
+    },
+    "COMPLETED_LASER": {
+      "guia": {
+        "passos": [
+          "Termine o mundo do laser."
+        ]
+      }
+    },
+    "COMPLETED_MEDIEVAL": {
+      "guia": {
+        "passos": [
+          "Termine o mundo medieval."
+        ]
+      }
+    },
+    "COMPLETED_ANCIENT": {
+      "guia": {
+        "passos": [
+          "Termine o mundo antigo."
+        ]
+      }
+    },
+    "COMPLETED_SCIFI": {
+      "guia": {
+        "passos": [
+          "Termine o mundo sci-fi."
+        ]
+      }
+    },
+    "COMPLETED_STEAMPUNK": {
+      "guia": {
+        "passos": [
+          "Termine o mundo steampunk."
+        ]
+      }
+    },
+    "COMPLETED_GAME_NOABILITIES": {
+      "guia": {
+        "passos": [
+          "Termine todos os mundos sem usar habilidades."
+        ],
+        "dicas": [
+          "Desequipe as habilidades antes de começar."
+        ]
+      }
+    },
+    "COMPLETED_HELL": {
+      "guia": {
+        "passos": [
+          "Termine o mundo do inferno (secreto, aberto depois do jogo)."
+        ]
+      }
+    },
+    "BEAT_HALLOWEEN": {
+      "guia": {
+        "passos": [
+          "Termine as fases sazonais de Halloween (no menu de fases)."
+        ]
+      }
+    },
+    "BEAT_CHRISTMAS": {
+      "guia": {
+        "passos": [
+          "Termine as fases sazonais de Natal."
+        ]
+      }
+    }
+  }
 }

@@ -11,5 +11,145 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "FinishedChapter00": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 1."
+        ]
+      }
+    },
+    "FinishedChapter01": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 2."
+        ]
+      }
+    },
+    "FinishedChapter02": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 3."
+        ]
+      }
+    },
+    "FinishedChapter03a": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 4."
+        ]
+      }
+    },
+    "FinishedChapter04": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 5."
+        ]
+      }
+    },
+    "FinishedChapter05": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 6."
+        ]
+      }
+    },
+    "FinishedChapter07": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 8 (final)."
+        ]
+      }
+    },
+    "FinishedChapter03b": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 7."
+        ]
+      }
+    },
+    "Insights_Tundra": {
+      "guia": {
+        "passos": [
+          "Ache todas as corujas (Sabedorias) na Tundra."
+        ],
+        "dicas": [
+          "Elas aparecem como corujas brilhando."
+        ]
+      }
+    },
+    "Insights_TundraVillage": {
+      "guia": {
+        "passos": [
+          "Ache todas as Sabedorias na Aldeia de Nuna."
+        ]
+      }
+    },
+    "Insights_IceFloes": {
+      "guia": {
+        "passos": [
+          "Ache todas as Sabedorias nos Blocos de Gelo."
+        ]
+      }
+    },
+    "Insights_Whale": {
+      "guia": {
+        "passos": [
+          "Ache todas as Sabedorias no Espírito da Baleia."
+        ]
+      }
+    },
+    "Insights_Forest": {
+      "guia": {
+        "passos": [
+          "Ache todas as Sabedorias na Floresta."
+        ]
+      }
+    },
+    "Insights_All": {
+      "guia": {
+        "passos": [
+          "Encontre e assista a todas as Sabedorias."
+        ],
+        "dicas": [
+          "Veja os vídeos no menu."
+        ]
+      }
+    },
+    "Insights_Coastal": {
+      "guia": {
+        "passos": [
+          "Ache todas as Sabedorias na Aldeia Costeira."
+        ]
+      }
+    },
+    "FT01_FinishedOcean": {
+      "guia": {
+        "passos": [
+          "DLC Foxtales: termine o primeiro capítulo."
+        ]
+      }
+    },
+    "FT01_FinishedRiver": {
+      "guia": {
+        "passos": [
+          "DLC Foxtales: termine o segundo capítulo."
+        ]
+      }
+    },
+    "FT01_FinishedLake": {
+      "guia": {
+        "passos": [
+          "DLC Foxtales: termine o último capítulo."
+        ]
+      }
+    },
+    "FT01_Insights_All": {
+      "guia": {
+        "passos": [
+          "DLC Foxtales: ache e veja todas as Sabedorias."
+        ]
+      }
+    }
+  }
 }

@@ -11,5 +11,382 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "LIGHT_FIRE": {
+      "guia": {
+        "passos": [
+          "Acenda o fogo na caldeira."
+        ]
+      }
+    },
+    "BURN_DOLL": {
+      "guia": {
+        "passos": [
+          "Queime uma boneca das trevas na caldeira."
+        ]
+      }
+    },
+    "BURN_WRONG": {
+      "guia": {
+        "passos": [
+          "Queime uma boneca Pacificadora na caldeira."
+        ],
+        "dicas": [
+          "As bonecas Pacify são as que acalmam a menina; jogar uma na caldeira conta."
+        ]
+      }
+    },
+    "KEY_MASTER": {
+      "guia": {
+        "passos": [
+          "Colete todas as chaves no modo single player ou cooperativo."
+        ]
+      }
+    },
+    "KEY_HOARDER": {
+      "guia": {
+        "passos": [
+          "Tenha todas as chaves de uma só vez no modo jogador versus jogador."
+        ]
+      }
+    },
+    "PACIFY_HER": {
+      "guia": {
+        "passos": [
+          "Dê uma boneca à garota quando ela for um monstro."
+        ]
+      }
+    },
+    "LOVE_LORE": {
+      "guia": {
+        "passos": [
+          "Ler todas as notas."
+        ],
+        "dicas": [
+          "Leia todas as notas espalhadas pela casa."
+        ]
+      }
+    },
+    "PVP_BULLY": {
+      "guia": {
+        "passos": [
+          "Derrube alguém no modo jogador versus jogador."
+        ]
+      }
+    },
+    "YOU_DOLL": {
+      "guia": {
+        "passos": [
+          "Seja atacado pela boneca."
+        ]
+      }
+    },
+    "SINGLE_WIN": {
+      "guia": {
+        "passos": [
+          "Ganhe o jogo no modo single player."
+        ]
+      }
+    },
+    "COOP_WIN": {
+      "guia": {
+        "passos": [
+          "Ganhe o jogo no modo cooperativo."
+        ]
+      }
+    },
+    "PVP_WIN": {
+      "guia": {
+        "passos": [
+          "Ganhe o jogo no modo jogador versus jogador."
+        ]
+      }
+    },
+    "SAVE_FRIEND": {
+      "guia": {
+        "passos": [
+          "Dê uma boneca pacificadora à garota enquanto ela estiver atacando um jogador."
+        ]
+      }
+    },
+    "REVIVE": {
+      "guia": {
+        "passos": [
+          "Queime a si mesmo na caldeira e fique normal novamente."
+        ]
+      }
+    },
+    "BEAT_DEV": {
+      "guia": {
+        "passos": [
+          "Ganhe uma sessão single player em menos de 20 minutos."
+        ],
+        "dicas": [
+          "Aprenda a rota da casa e queime as bonecas rapidamente."
+        ]
+      }
+    },
+    "BURN_GIRL": {
+      "guia": {
+        "passos": [
+          "Jogue a garota na fogueira!"
+        ]
+      }
+    },
+    "CHICKEN_HUNT": {
+      "guia": {
+        "passos": [
+          "Derruba uma galinha na quinta."
+        ]
+      }
+    },
+    "FILL_UP": {
+      "guia": {
+        "passos": [
+          "Usa o canal de água na quinta."
+        ]
+      }
+    },
+    "POISON_WATER": {
+      "guia": {
+        "passos": [
+          "Usa um saco de veneno no canal da quinta."
+        ]
+      }
+    },
+    "POISON_CHICKEN": {
+      "guia": {
+        "passos": [
+          "Mergulha uma galinha na água envenenada."
+        ]
+      }
+    },
+    "WEAK_MONSTER": {
+      "guia": {
+        "passos": [
+          "Alimenta o monstro da quinta com uma galinha envenenada."
+        ]
+      }
+    },
+    "YUMMY_CHICKEN": {
+      "guia": {
+        "passos": [
+          "Alimenta o monstro da quinta com uma galinha."
+        ]
+      }
+    },
+    "COOL_STORY": {
+      "guia": {
+        "passos": [
+          "Lê todas as notas na quinta."
+        ]
+      }
+    },
+    "HEAVY_LOAD": {
+      "guia": {
+        "passos": [
+          "Carrega o monstro com o carrinho de mão."
+        ]
+      }
+    },
+    "MAGIC_WIND": {
+      "guia": {
+        "passos": [
+          "Reanima-te no moinho."
+        ]
+      }
+    },
+    "RUSTY_LOCKS": {
+      "guia": {
+        "passos": [
+          "Abre todos os cadeados na quinta."
+        ]
+      }
+    },
+    "FARM_SOLO": {
+      "guia": {
+        "passos": [
+          "Atreve-te a jogar na quinta sozinho."
+        ]
+      }
+    },
+    "COOP_FARM": {
+      "guia": {
+        "passos": [
+          "Joga na quinta no modo colaborativo."
+        ]
+      }
+    },
+    "PVP_FARM": {
+      "guia": {
+        "passos": [
+          "Joga na quinta no modo jogador vs jogador."
+        ]
+      }
+    },
+    "BEAT_DEV_II": {
+      "guia": {
+        "passos": [
+          "Ganha uma sessão de um jogador na quinta em menos de 30 minutos."
+        ]
+      }
+    },
+    "COOP_WOODS": {
+      "guia": {
+        "passos": [
+          "Joga na floresta no modo de colaboração."
+        ]
+      }
+    },
+    "PVP_WOODS": {
+      "guia": {
+        "passos": [
+          "Joga na floresta no modo de jogador contra jogador."
+        ]
+      }
+    },
+    "SOLO_WOODS": {
+      "guia": {
+        "passos": [
+          "Tem a coragem de jogar na floresta sozinho."
+        ]
+      }
+    },
+    "WITCH_BREW": {
+      "guia": {
+        "passos": [
+          "Combina os ingredientes no caldeirão."
+        ]
+      }
+    },
+    "RELEASE_POWER": {
+      "guia": {
+        "passos": [
+          "Empala uma boneca de gravetos encantada."
+        ]
+      }
+    },
+    "POOR_PUPPY": {
+      "guia": {
+        "passos": [
+          "Corta a cauda de um cachorrinho."
+        ]
+      }
+    },
+    "WORK_HOME": {
+      "guia": {
+        "passos": [
+          "Encontra o esconderijo da bruxa."
+        ]
+      }
+    },
+    "CAPTURE_WITCH": {
+      "guia": {
+        "passos": [
+          "Enfraquece a bruxa, e trá-la para o furgão na floresta."
+        ]
+      }
+    },
+    "RELEASE_SPIRITS": {
+      "guia": {
+        "passos": [
+          "Descobre uma forma de libertares os espíritos da criança que foram capturados pela bruxa na floresta."
+        ]
+      }
+    },
+    "BEAT_DEV_III": {
+      "guia": {
+        "passos": [
+          "Vence uma sessão de jogador único na floresta em menos de 20 minutos."
+        ]
+      }
+    },
+    "WITCH_STORY": {
+      "guia": {
+        "passos": [
+          "Lê todas as notas da criança perdida na floresta."
+        ]
+      }
+    },
+    "WELCOME_HQ": {
+      "guia": {
+        "passos": [
+          "Ajude no quartel-general durante o apagão no modo cooperativo."
+        ]
+      }
+    },
+    "YOU_HQ": {
+      "guia": {
+        "passos": [
+          "Encare sozinho o quartel-general durante o apagão."
+        ]
+      }
+    },
+    "POWER_IT": {
+      "guia": {
+        "passos": [
+          "Coloque uma bateria carregada em um soquete para bateria."
+        ]
+      }
+    },
+    "CHARGE_IT": {
+      "guia": {
+        "passos": [
+          "Carregue uma bateria 100%."
+        ]
+      }
+    },
+    "CREEPY_EXP": {
+      "guia": {
+        "passos": [
+          "Solucione a simulação assombrada."
+        ]
+      }
+    },
+    "DONT_DO_IT": {
+      "guia": {
+        "passos": [
+          "Deixe você mesmo um monstro sair de sua cela."
+        ]
+      }
+    },
+    "POWER_LCU": {
+      "guia": {
+        "passos": [
+          "Forneça energia para ligar a Unidade Menor de Contenção."
+        ]
+      }
+    },
+    "SELF_DESTRUCT": {
+      "guia": {
+        "passos": [
+          "Exceda o tempo durante a sequência de autodestruição."
+        ]
+      }
+    },
+    "ZERO_DEATHS": {
+      "guia": {
+        "passos": [
+          "Não se machuque nenhuma vez enquanto mantém a segurança do quartel-general."
+        ],
+        "atencao": [
+          "Exige não levar dano nenhuma vez na HQ."
+        ]
+      }
+    },
+    "BULLS_EYE": {
+      "guia": {
+        "passos": [
+          "Acerte na mosca no jogo de dardos."
+        ]
+      }
+    },
+    "BYE_BYE": {
+      "guia": {
+        "passos": [
+          "Você e as entidades fugiram do quartel-general."
+        ]
+      }
+    }
+  }
 }

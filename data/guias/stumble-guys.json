@@ -11,5 +11,324 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "CROWNS_EARNED_1": {
+      "guia": {
+        "passos": [
+          "Termine em 1º lugar entre 32 jogadores."
+        ]
+      }
+    },
+    "LEVELS_PLAYED": {
+      "guia": {
+        "passos": [
+          "Jogue 300 níveis."
+        ]
+      }
+    },
+    "TROPHIES_EARNED": {
+      "guia": {
+        "passos": [
+          "Ganhe 1.000 troféus stumble."
+        ]
+      }
+    },
+    "STARS_EARNED": {
+      "guia": {
+        "passos": [
+          "Ganhe 500 estrelas."
+        ]
+      }
+    },
+    "EXPERIENCE_EARNED": {
+      "guia": {
+        "passos": [
+          "Ganhe 10.000 EXP."
+        ]
+      }
+    },
+    "SKINS_UNLOCKED": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 40 visuais exclusivos."
+        ]
+      }
+    },
+    "EMOTES_UNLOCKED": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 20 emotes exclusivos."
+        ]
+      }
+    },
+    "ANIMATIONS_UNLOCKED": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 10 animações exclusivas."
+        ]
+      }
+    },
+    "FOOTSTEPS_UNLOCKED": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 5 pegadas exclusivas."
+        ]
+      }
+    },
+    "CHANGING_COLOR": {
+      "guia": {
+        "passos": [
+          "Altere a cor de seu stumbler."
+        ]
+      }
+    },
+    "CROWNS_EARNED_5": {
+      "guia": {
+        "passos": [
+          "Termine 5 vezes em 1º lugar entre 32 jogadores."
+        ]
+      }
+    },
+    "ADVANCE_BOT_BASH": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Bot Bash."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_PAINT_SPLASH": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Paint Splash."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_BLOCK_DASH": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Block Dash."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_JUNGLE_ROLL": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Jungle Roll."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_ROCKET_RUMBLE": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Rocket Rumble."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_LOST_TEMPLE": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Lost Temple."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_LASER_TRACER": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Laser Tracer."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_SUPER_SLIDE": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Super Slide."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_SPACE_RACE": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Space Race."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_LAVA_LAND": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Lava Land."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_BOMBARDMENT": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Bombardment."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_HONEY_DROP": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Honey Drop."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_STUMBLE_SOCCER": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Stumble Soccer."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_LAVA_RUSH": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Lava Rush."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_FLOOR_FLIP": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Floor Flip."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_OVER_AND_UNDER": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Over and Under."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_CANNON_CLIMB": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Cannon Climb."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_PIVOT_PUSH": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Pivot Push."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_HUMBLE_STUMBLE": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Humble Stumble."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_ICY_HEIGHTS": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Icy Heights."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_SPIN_GO_ROUND": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Spin Go Round."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "ADVANCE_TILE_FALL": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em Tile Fall."
+        ],
+        "dicas": [
+          "As fases aparecem por sorteio: jogue o modo normal até cair nessa."
+        ]
+      }
+    },
+    "LEVELS_ADVANCED": {
+      "guia": {
+        "passos": [
+          "Avance ou vença em 100 níveis."
+        ]
+      }
+    },
+    "SPINS": {
+      "guia": {
+        "passos": [
+          "Gire 50 roletas."
+        ]
+      }
+    },
+    "EMOTES_USED": {
+      "guia": {
+        "passos": [
+          "Use 100 emotes."
+        ]
+      }
+    }
+  }
 }

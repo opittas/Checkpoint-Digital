@@ -11,5 +11,325 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "WIN_AGENT_LEADER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Líder dos Agentes."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_FIELD_AGENT": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Agente de Campo."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_MOLE_FIELDOPS": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Infiltrado (Operações de Campo)."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_MOLE_INVESTIGATIVE": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Infiltrado (Investigação)."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_MOLE_OFFENSIVE": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Infiltrado (Ofensivo)."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_RUNAWAY_SNITCH": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Dedo-Duro Fugitivo."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_CCTV": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Especialista em CFTV."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_NETSPEC": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Especialista em Redes."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_BLACKHAT": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Blackhat."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_SOCIALENGINEER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Engenheiro Social."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_INSIDEMAN": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Homem de Dentro."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_SPEARPHISHER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Spearphisher."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_ENFORCER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Executor."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_ANALYST": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Analista."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_IMPROVISED_HACKER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Hacker Improvisado."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_OPERATION_LEADER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Líder da Operação."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_SCRIPT_KIDDIE": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Script Kiddie."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_BOUNTY_HUNTER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Caçador de Recompensas."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_SOCIOPATH": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Sociopata."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_RESENTFUL_CRIMINAL": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Criminoso Ressentido."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_RIVAL_HACKER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Hacker Rival."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_JOURNALIST": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Jornalista."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_CORRUPTDETECTIVE": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Detetive Corrupto."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_BLABBERMOUTH": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Linguarudo em Pânico."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_LOOSECANNON": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Descontrolado."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_FORENSICSSPECIALIST": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Especialista Forense."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "WIN_DOUBLECROSSER": {
+      "guia": {
+        "passos": [
+          "Vença uma partida como Traidor Duplo."
+        ],
+        "dicas": [
+          "O papel é sorteado: jogue várias partidas até cair com ele."
+        ]
+      }
+    },
+    "ASAHACKER": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial NETSEC."
+        ]
+      }
+    },
+    "ASANAGENT": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial AGENTE."
+        ]
+      }
+    },
+    "IDENTITYTHEFT": {
+      "guia": {
+        "passos": [
+          "Troque o avatar no menu."
+        ]
+      }
+    },
+    "HELLOWORLD": {
+      "guia": {
+        "passos": [
+          "Envie uma mensagem para todos no chat da partida."
+        ]
+      }
+    },
+    "CASTTHEFIRSTSTONE": {
+      "guia": {
+        "passos": [
+          "Seja o primeiro a votar na execução de alguém."
+        ]
+      }
+    },
+    "FIRSTWIN": {
+      "guia": {
+        "passos": [
+          "Vença uma partida online."
+        ]
+      }
+    },
+    "STOPHITTINGYOURSELF": {
+      "guia": {
+        "passos": [
+          "Conquista secreta: use uma habilidade de investigação que acaba voltando contra você."
+        ]
+      }
+    }
+  }
 }

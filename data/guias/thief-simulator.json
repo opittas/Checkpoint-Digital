@@ -15,5 +15,249 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHALARMS": {
+      "guia": {
+        "passos": [
+          "Desative 10 painéis de alarme com o kit de hacker (compre no app de equipamentos)."
+        ]
+      }
+    },
+    "ACHALLCARS": {
+      "guia": {
+        "passos": [
+          "Roube 5 carros."
+        ],
+        "dicas": [
+          "Compre a ferramenta de destravar carros e o laptop de hackear ignição."
+        ]
+      }
+    },
+    "ACHART1": {
+      "guia": {
+        "passos": [
+          "Roube 10 quadros das casas."
+        ]
+      }
+    },
+    "ACHBRICK": {
+      "guia": {
+        "passos": [
+          "Pegue um tijolo e jogue numa janela."
+        ]
+      }
+    },
+    "ACHCAR1": {
+      "guia": {
+        "passos": [
+          "Roube o Bolthorn 86 Classic quando aparecer em uma das casas ou ruas."
+        ]
+      }
+    },
+    "ACHCAR2": {
+      "guia": {
+        "passos": [
+          "Roube o Aisan Cougar."
+        ]
+      }
+    },
+    "ACHCAR3": {
+      "guia": {
+        "passos": [
+          "Roube o Bolthorn Family MkV."
+        ]
+      }
+    },
+    "ACHCAR4": {
+      "guia": {
+        "passos": [
+          "Roube o Vulcan Spectre."
+        ]
+      }
+    },
+    "ACHCAR5": {
+      "guia": {
+        "passos": [
+          "Roube o Kubra GTS (bairro rico)."
+        ]
+      }
+    },
+    "ACHCASH1": {
+      "guia": {
+        "passos": [
+          "Roube itens somando 5000."
+        ],
+        "dicas": [
+          "Venda no BlackBay ou na loja de penhores."
+        ]
+      }
+    },
+    "ACHCASH2": {
+      "guia": {
+        "passos": [
+          "Roube itens somando 20000."
+        ]
+      }
+    },
+    "ACHCASH3": {
+      "guia": {
+        "passos": [
+          "Roube itens somando 50000."
+        ]
+      }
+    },
+    "ACHCASH4": {
+      "guia": {
+        "passos": [
+          "Roube itens somando 100000."
+        ],
+        "dicas": [
+          "As casas do bairro rico rendem mais."
+        ]
+      }
+    },
+    "ACHCONSOLES": {
+      "guia": {
+        "passos": [
+          "Roube 5 videogames."
+        ]
+      }
+    },
+    "ACHDISHES": {
+      "guia": {
+        "passos": [
+          "Quebre 10 pratos."
+        ]
+      }
+    },
+    "ACHFREEMAN": {
+      "guia": {
+        "passos": [
+          "Seja demitido pelo Vinny (falhe ou recuse as missões dele)."
+        ]
+      }
+    },
+    "ACHSNEAK": {
+      "guia": {
+        "passos": [
+          "Termine 10 roubos com rank S sem ser visto."
+        ],
+        "dicas": [
+          "Observe a rotina dos moradores antes de entrar."
+        ]
+      }
+    },
+    "ACHTOILETS": {
+      "guia": {
+        "passos": [
+          "Quebre 10 vasos sanitários."
+        ]
+      }
+    },
+    "ACHTV": {
+      "guia": {
+        "passos": [
+          "Roube 5 TVs."
+        ]
+      }
+    },
+    "ACHWINDOWS": {
+      "guia": {
+        "passos": [
+          "Quebre 10 janelas."
+        ]
+      }
+    },
+    "ACHTOAST": {
+      "guia": {
+        "passos": [
+          "Roube 10 torradeiras."
+        ]
+      }
+    },
+    "ACHEGG": {
+      "guia": {
+        "passos": [
+          "Na casa do Richie R., ache as 5 réplicas de Ovo Fabergé."
+        ]
+      }
+    },
+    "ACHXMAS": {
+      "guia": {
+        "passos": [
+          "Venda todos os presentes de Natal no BlackBay (evento de Natal)."
+        ]
+      }
+    },
+    "ACHCLOAK": {
+      "guia": {
+        "passos": [
+          "No Novo Jogo+, compre o dispositivo de camuflagem."
+        ]
+      }
+    },
+    "ACHEQUIPMENT": {
+      "guia": {
+        "passos": [
+          "Roube 5 caixas amarelas da obra."
+        ]
+      }
+    },
+    "ACHCARFORKLIFT": {
+      "guia": {
+        "passos": [
+          "Roube a empilhadeira da obra."
+        ]
+      }
+    },
+    "ACHCARSKIDLOADER": {
+      "guia": {
+        "passos": [
+          "Roube a minicarregadeira da obra."
+        ]
+      }
+    },
+    "ACHHALLOWEENCANDY": {
+      "guia": {
+        "passos": [
+          "Roube e venda 8 sacos de doces no BlackBay (evento de Halloween)."
+        ]
+      }
+    },
+    "ACHHALLOWEENDOLLS": {
+      "guia": {
+        "passos": [
+          "Roube e venda 4 bonecas sinistras no BlackBay."
+        ]
+      }
+    },
+    "ACHHALLOWEENPUMPKINS": {
+      "guia": {
+        "passos": [
+          "Roube e venda 7 abóboras no BlackBay."
+        ]
+      }
+    },
+    "ACHXMASSLEIGH": {
+      "guia": {
+        "passos": [
+          "Roube o carro-trenó do Papai Noel (evento de Natal)."
+        ]
+      }
+    },
+    "ACHBIGTOYS": {
+      "guia": {
+        "passos": [
+          "Roube 6 caixas grandes de brinquedo."
+        ]
+      }
+    },
+    "ACHVHS": {
+      "guia": {
+        "passos": [
+          "Venda 5 fitas VHS no BlackBay."
+        ]
+      }
+    }
+  }
 }

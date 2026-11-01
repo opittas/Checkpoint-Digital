@@ -19,5 +19,328 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_ALL_EP1_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Um."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_ALL_EP1_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Um no Modo Contagem Regressiva."
+        ]
+      }
+    },
+    "ACH_INVISIBLE_ALL_EP1_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Um no Modo Invisível."
+        ]
+      }
+    },
+    "ACH_CHALLENGE_MEDAL_EP1_COMP": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as medalhas do Episódio Um."
+        ]
+      }
+    },
+    "ACH_CAMPAINF_PT_MEDIUM": {
+      "guia": {
+        "passos": [
+          "Junte 50.000 BP no total."
+        ]
+      }
+    },
+    "ACH_FLAME_NOT_USED": {
+      "guia": {
+        "passos": [
+          "Fuja do centro de detenção no Episódio Um da Claire sem usar o busto lança-chamas."
+        ],
+        "dicas": [
+          "Desvie dos inimigos e use outras armas."
+        ]
+      }
+    },
+    "ACH_PROGRESSOR_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote 100 Aflitos na campanha principal."
+        ]
+      }
+    },
+    "ACH_HOMUNCULUS_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote 100 Revenants na campanha principal."
+        ]
+      }
+    },
+    "ACH_KNIFE_WEAPON_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote 100 inimigos com a faca na campanha principal."
+        ]
+      }
+    },
+    "ACH_BLOW_ATK_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote 50 inimigos com ataques físicos na campanha principal."
+        ]
+      }
+    },
+    "ACH_GRAP_BLOW_KILL": {
+      "guia": {
+        "passos": [
+          "Faça 50 golpes de finalização na campanha principal."
+        ]
+      }
+    },
+    "ACH_BACK_ATK_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote 20 inimigos com ataques furtivos na campanha principal."
+        ]
+      }
+    },
+    "ACH_LIGHT_ATK": {
+      "guia": {
+        "passos": [
+          "Use a luz da Moira para atordoar 50 inimigos na campanha principal."
+        ]
+      }
+    },
+    "ACH_BAR_WEAPON_KILL": {
+      "guia": {
+        "passos": [
+          "Use o pé de cabra da Moira para derrotar 50 inimigos na campanha principal."
+        ]
+      }
+    },
+    "ACH_STONE_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote 20 inimigos com um tijolo jogando de Natalia na campanha principal."
+        ]
+      }
+    },
+    "ACH_KNIFE_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Um usando só a faca."
+        ],
+        "dicas": [
+          "Jogue com Barry/Natalia e use furtividade; desligue a mira automática."
+        ]
+      }
+    },
+    "ACH_SHOT_TWO_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote dois inimigos com um tiro na campanha principal."
+        ]
+      }
+    },
+    "ACH_HOMU_WEAPON_DEST": {
+      "guia": {
+        "passos": [
+          "Destrua 30 braços-arma de Revenants."
+        ]
+      }
+    },
+    "ACH_PROG_JUMPATK_STOP": {
+      "guia": {
+        "passos": [
+          "Derrube 30 Aflitos no meio do salto na campanha principal."
+        ]
+      }
+    },
+    "ACH_GRAP_COMBINATION": {
+      "guia": {
+        "passos": [
+          "Faça a Moira atordoar um inimigo e a Claire finalizar com ataque físico na campanha principal."
+        ]
+      }
+    },
+    "ACH_ASSIST_HOLD_HELP": {
+      "guia": {
+        "passos": [
+          "Salve seu parceiro capturado dez vezes na campanha principal."
+        ]
+      }
+    },
+    "ACH_BOTTLE_FIVE_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote cinco inimigos com uma garrafa explosiva ou incendiária na campanha principal."
+        ]
+      }
+    },
+    "ACH_SYS_RAID_MISSION_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine uma missão do Modo Raid."
+        ]
+      }
+    },
+    "ACH_SYS_RAID_USE_JUDGMENT": {
+      "guia": {
+        "passos": [
+          "Avalie um item no Modo Raid."
+        ]
+      }
+    },
+    "ACH_SYS_RAID_DUNGEON_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine um Desafio no Modo Raid."
+        ]
+      }
+    },
+    "ACH_ALL_EP2_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Dois."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_ALL_EP2_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Dois no Modo Contagem Regressiva."
+        ]
+      }
+    },
+    "ACH_INVISIBLE_ALL_EP2_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Dois no Modo Invisível."
+        ]
+      }
+    },
+    "ACH_CHALLENGE_MEDAL_EP2_COMP": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as medalhas do Episódio Dois."
+        ]
+      }
+    },
+    "ACH_PEDRO_PAST_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote o Pedro Mutante no Episódio Dois da Claire."
+        ],
+        "dicas": [
+          "Derrote o Pedro mutante em vez de fugir."
+        ]
+      }
+    },
+    "ACH_GHOST_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote 20 Glasps na campanha principal."
+        ]
+      }
+    },
+    "ACH_ALL_EP3_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Três."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_ALL_EP3_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Três no Modo Contagem Regressiva."
+        ]
+      }
+    },
+    "ACH_INVISIBLE_ALL_EP3_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Três no Modo Invisível."
+        ]
+      }
+    },
+    "ACH_CHALLENGE_MEDAL_EP3_COMP": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as medalhas do Episódio Três."
+        ]
+      }
+    },
+    "ACH_MOIRA_NEIL_KILLED": {
+      "guia": {
+        "passos": [
+          "A Moira derrota o Neil no Episódio Três da Claire."
+        ],
+        "dicas": [
+          "Depende da escolha na cena com o Neil."
+        ]
+      }
+    },
+    "ACH_FLOOD_GATE_ITEM_GET": {
+      "guia": {
+        "passos": [
+          "Pegue o item além do portão nos esgotos no Episódio Três do Barry."
+        ],
+        "dicas": [
+          "Exige que no episódio 3 da Claire você tenha aberto a comporta."
+        ]
+      }
+    },
+    "ACH_ALL_EP4_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Quatro."
+        ]
+      }
+    },
+    "ACH_SURVIVAL_ALL_EP4_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Quatro no Modo Contagem Regressiva."
+        ]
+      }
+    },
+    "ACH_INVISIBLE_ALL_EP4_CLEAR": {
+      "guia": {
+        "passos": [
+          "Termine o Episódio Quatro no Modo Invisível."
+        ]
+      }
+    },
+    "ACH_CHALLENGE_MEDAL_EP4_COMP": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as medalhas do Episódio Quatro."
+        ]
+      }
+    },
+    "ACH_PAST_GHOST_KILL": {
+      "guia": {
+        "passos": [
+          "Derrote seis ou mais Glasps no monumento no Episódio Quatro da Claire, no Normal ou acima."
+        ],
+        "dicas": [
+          "Use tijolos e furtividade com a Natalia."
+        ]
+      }
+    },
+    "ACH_FLOOD_GATE_USED": {
+      "guia": {
+        "passos": [
+          "Complete as duas rotas pelo aterro no Episódio Quatro do Barry."
+        ],
+        "dicas": [
+          "Jogue o episódio 4 duas vezes, uma por cada rota."
+        ]
+      }
+    }
+  }
 }

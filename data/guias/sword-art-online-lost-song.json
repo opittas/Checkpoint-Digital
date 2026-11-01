@@ -19,5 +19,316 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "TRP_GET_ALL": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_0": {
+      "guia": {
+        "passos": [
+          "Entre em ALfheim Online."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_1": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"Fadas no Céu\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_2": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"O Mundo das Fadas Negras\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_3": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"A Deusa Juvenil\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_4": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"A Ruiva nas Sombras\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_5": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"Um Paradoxo de Luz e Trevas\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_6": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"Batalha dos Cavaleiros da Lâmina Tripla\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_7": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"Mentiras\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_8": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"Desejos Entrelaçados\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_9": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"O Mundo Sombrio\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_10": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"O Crepúsculo dos Deuses\"."
+        ]
+      }
+    },
+    "TRP_BEGIN_CHAPTER_11": {
+      "guia": {
+        "passos": [
+          "Chegue ao capítulo \"As Duas Ídolos\"."
+        ]
+      }
+    },
+    "TRP_END_CHAPTER_11": {
+      "guia": {
+        "passos": [
+          "Complete todos os capítulos da história principal. \"Ainda temos muito jogo pela frente!\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_EVENT_ASU": {
+      "guia": {
+        "passos": [
+          "Complete a história paralela da Asuna. \"Fique comigo para sempre, Asuna.\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_EVENT_LEA": {
+      "guia": {
+        "passos": [
+          "Complete a história paralela da Leafa. \"Espero sempre me dar bem com a Sugu.\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_EVENT_SIL": {
+      "guia": {
+        "passos": [
+          "Complete a história paralela da Silica. \"Não vou contar para ninguém o que aconteceu aqui hoje.\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_EVENT_LIS": {
+      "guia": {
+        "passos": [
+          "Complete a história paralela da Lisbeth. \"Vamos forjar muitas memórias juntos, quer você queira ou não.\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_EVENT_SIN": {
+      "guia": {
+        "passos": [
+          "Complete a história paralela da Sinon. \"A Sinon é parte indispensável deste time e uma amiga importante.\"."
+        ]
+      }
+    },
+    "TRP_ALL_FESTIVAL": {
+      "guia": {
+        "passos": [
+          "Vá ao festival com todas as heroínas do jogo. \"Que furo de reportagem!\"."
+        ],
+        "dicas": [
+          "Os convites aparecem com a afinidade alta de cada heroína."
+        ]
+      }
+    },
+    "TRP_PARTY_IN_SUM": {
+      "guia": {
+        "passos": [
+          "Faça amizade com Sumeragi."
+        ]
+      }
+    },
+    "TRP_CLEAR_SUBQUEST_FIRST": {
+      "guia": {
+        "passos": [
+          "Complete sua primeira missão secundária."
+        ]
+      }
+    },
+    "TRP_CLEAR_MANY_SUBQUEST": {
+      "guia": {
+        "passos": [
+          "Complete 100 missões secundárias no total."
+        ]
+      }
+    },
+    "TRP_CLEAR_MANY_EXTRA_MULTI_QUEST": {
+      "guia": {
+        "passos": [
+          "Complete 100 Missões Extras e/ou Missões Multijogador no total."
+        ]
+      }
+    },
+    "TRP_CLEAR_QUEST_KIR_ASU": {
+      "guia": {
+        "passos": [
+          "Complete uma missão secundária, Extra ou Multijogador com um grupo de Kirito e Asuna."
+        ]
+      }
+    },
+    "TRP_CLEAR_QUEST_KIR_CLI_AGI": {
+      "guia": {
+        "passos": [
+          "Complete uma missão secundária, Extra ou Multijogador com um grupo de Kirito, Klein e Agil."
+        ]
+      }
+    },
+    "TRP_CLEAR_QUEST_SIL_LIS_LEA": {
+      "guia": {
+        "passos": [
+          "Complete uma missão secundária, Extra ou Multijogador com um grupo de Silica, Lisbeth e Leafa."
+        ]
+      }
+    },
+    "TRP_CLEAR_QUEST_SOLO": {
+      "guia": {
+        "passos": [
+          "Complete 10 missões secundárias, Extras e/ou Multijogador com um grupo de um só personagem."
+        ]
+      }
+    },
+    "TRP_CLEAR_EXTRA_QUEST_NO_DAMAGE": {
+      "guia": {
+        "passos": [
+          "Complete uma Missão Extra sem sofrer dano."
+        ]
+      }
+    },
+    "TRP_DEAD": {
+      "guia": {
+        "passos": [
+          "Deixe o personagem que você controla chegar a 0 de HP e virar uma Luz Remanescente."
+        ]
+      }
+    },
+    "TRP_REVIVAL": {
+      "guia": {
+        "passos": [
+          "Ressuscite um membro do grupo que virou Luz Remanescente."
+        ]
+      }
+    },
+    "TRP_COLLECT_MANY_WEAPON": {
+      "guia": {
+        "passos": [
+          "Colete 100 armas diferentes, sem contar escudos."
+        ]
+      }
+    },
+    "TRP_COLLECT_MANY_ACCESSORY": {
+      "guia": {
+        "passos": [
+          "Colete 50 acessórios diferentes."
+        ]
+      }
+    },
+    "TRP_ENHANCE_WEAPON_MAX": {
+      "guia": {
+        "passos": [
+          "Leve o nível de aprimoramento de uma arma ao máximo."
+        ]
+      }
+    },
+    "TRP_MASTER_MANY_SWORD_SKILL": {
+      "guia": {
+        "passos": [
+          "Leve uma Habilidade de Espada ao nível 500. *Inclui OSS."
+        ]
+      }
+    },
+    "TRP_MASTER_MANY_MAGIC_SKILL": {
+      "guia": {
+        "passos": [
+          "Leve uma Habilidade Mágica ou Especial ao nível 500."
+        ]
+      }
+    },
+    "TRP_MASTER_ALL_OSS": {
+      "guia": {
+        "passos": [
+          "Leve as OSS de Asuna, Yuuki, Rain e Sumeragi ao nível 100."
+        ]
+      }
+    },
+    "TRP_MASTER_ALL_SKILL": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as Habilidades de Espada, Mágicas e Especiais possíveis de um personagem."
+        ],
+        "dicas": [
+          "Escolha um personagem e use todos os tipos de arma e magia nele."
+        ]
+      }
+    },
+    "TRP_GET_MANY_MONEY": {
+      "guia": {
+        "passos": [
+          "Tenha mais de 1.000.000 de Yuld."
+        ]
+      }
+    },
+    "TRP_KILL_MANY_ENEMY_ONE_ATTACK": {
+      "guia": {
+        "passos": [
+          "Derrote 5 ou mais inimigos ao mesmo tempo com um só ataque."
+        ]
+      }
+    },
+    "TRP_KILL_MANY_ENEMY": {
+      "guia": {
+        "passos": [
+          "Derrote 1.000 inimigos ao longo do jogo."
+        ]
+      }
+    },
+    "TRP_GET_EXCALIBUR": {
+      "guia": {
+        "passos": [
+          "Obtenha a Excalibur."
+        ],
+        "dicas": [
+          "Fica no pós-jogo, em uma das masmorras finais."
+        ]
+      }
+    },
+    "TRP_CREATE_CUSTOM_CHARACTER": {
+      "guia": {
+        "passos": [
+          "Crie um grupo que inclua seu personagem personalizado."
+        ]
+      }
+    }
+  }
 }

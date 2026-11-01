@@ -1,23 +1,434 @@
 {
   "resumo": "Platina longa, mas sem dificuldade extrema. Nada é permanentemente perdível: o que você deixar passar pode ser feito no NG+. Com um backup do save antes do chefe final, dá para pegar os 3 finais em uma jogatina só.",
   "roadmap": [
-    { "titulo": "1ª jogatina completa", "texto": "Explore tudo e derrote todos os chefes da lista. Vários são opcionais e ficam em áreas escondidas (Placidusax, Fortissax, Astel, Mohg, Malenia, Loretta da Árvore Sacra)." },
-    { "titulo": "Quests que liberam lendários", "texto": "Faça a quest da Ranni do começo ao fim: ela dá a Grande Espada da Lua Negra e o feitiço Lua Sombria de Ranni (lendários) e abre o final Era das Estrelas." },
-    { "titulo": "Colecione os lendários", "texto": "Armas, talismãs, feitiços/encantos e cinzas lendárias. Use um checklist — a Espada Relíquia Sagrada sai da Lembrança do chefe final." },
-    { "titulo": "Finais", "texto": "Antes de enfrentar o chefe final, faça backup do save (nuvem no console; copie a pasta do save no PC). Pegue Lorde Prístino, restaure e faça Era das Estrelas e Lorde da Chama Frenética." }
+    {
+      "titulo": "1ª jogatina completa",
+      "texto": "Explore tudo e derrote todos os chefes da lista. Vários são opcionais e ficam em áreas escondidas (Placidusax, Fortissax, Astel, Mohg, Malenia, Loretta da Árvore Sacra)."
+    },
+    {
+      "titulo": "Quests que liberam lendários",
+      "texto": "Faça a quest da Ranni do começo ao fim: ela dá a Grande Espada da Lua Negra e o feitiço Lua Sombria de Ranni (lendários) e abre o final Era das Estrelas."
+    },
+    {
+      "titulo": "Colecione os lendários",
+      "texto": "Armas, talismãs, feitiços/encantos e cinzas lendárias. Use um checklist — a Espada Relíquia Sagrada sai da Lembrança do chefe final."
+    },
+    {
+      "titulo": "Finais",
+      "texto": "Antes de enfrentar o chefe final, faça backup do save (nuvem no console; copie a pasta do save no PC). Pegue Lorde Prístino, restaure e faça Era das Estrelas e Lorde da Chama Frenética."
+    }
   ],
   "avisos": [
     "Os 3 finais são excludentes: use backup do save ou NG+.",
     "Receber a Chama Frenética faz a Melina abandonar você, mas não bloqueia nenhuma conquista."
   ],
   "conquistas": {
-    "ACH01": { "missavel": true, "dica": "Final padrão. Faça backup do save antes do chefe final." },
-    "ACH02": { "missavel": true, "dica": "Exige a quest completa da Ranni (Nokron → Ainsel → Lago da Podridão → Catedral de Manus Celes)." },
-    "ACH03": { "missavel": true, "dica": "Receba a Chama Frenética dos Três Dedos, sob Leyndell (é preciso estar sem roupa para passar pela porta)." },
-    "ACH12": { "dica": "Em Farum Azula em Ruínas, perto da graça 'Ao lado da Grande Ponte', há um ponto escondido onde você pode se deitar — ele leva à arena." },
-    "ACH19": { "dica": "Faça a quest da Fia até o Leito Profundo; o chefe aparece no 'sonho' da Fia." },
-    "ACH33": { "dica": "Acesso pelo Lago da Podridão, na rota da quest da Ranni." },
-    "ACH09": { "dica": "Chegue ao Palácio Mohgwyn pela quest do Varré ou pelo medalhão no Rio Siofra." },
-    "ACH13": { "dica": "Leve qualquer arma ao +25 (pedras de forja comuns) ou +10 (pedras sombrias)." }
+    "ACH01": {
+      "missavel": true,
+      "dica": "Final padrão. Faça backup do save antes do chefe final.",
+      "guia": {
+        "passos": [
+          "Conquistou o final \"Lorde Prístino\"."
+        ]
+      }
+    },
+    "ACH02": {
+      "missavel": true,
+      "dica": "Exige a quest completa da Ranni (Nokron → Ainsel → Lago da Podridão → Catedral de Manus Celes).",
+      "guia": {
+        "passos": [
+          "Conquistou o final \"Era das Estrelas\"."
+        ]
+      }
+    },
+    "ACH03": {
+      "missavel": true,
+      "dica": "Receba a Chama Frenética dos Três Dedos, sob Leyndell (é preciso estar sem roupa para passar pela porta).",
+      "guia": {
+        "passos": [
+          "Conquistou o final \"Lorde da Chama Frenética\"."
+        ]
+      }
+    },
+    "ACH12": {
+      "dica": "Em Farum Azula em Ruínas, perto da graça 'Ao lado da Grande Ponte', há um ponto escondido onde você pode se deitar — ele leva à arena.",
+      "guia": {
+        "passos": [
+          "Derrotou Placidusax, o Lorde Dragão."
+        ]
+      }
+    },
+    "ACH19": {
+      "dica": "Faça a quest da Fia até o Leito Profundo; o chefe aparece no 'sonho' da Fia.",
+      "guia": {
+        "passos": [
+          "Derrotou Fortissax, o Dragão Lich."
+        ]
+      }
+    },
+    "ACH33": {
+      "dica": "Acesso pelo Lago da Podridão, na rota da quest da Ranni.",
+      "guia": {
+        "passos": [
+          "Derrotou Astel, Filho Natural da Escuridão."
+        ]
+      }
+    },
+    "ACH09": {
+      "dica": "Chegue ao Palácio Mohgwyn pela quest do Varré ou pelo medalhão no Rio Siofra.",
+      "guia": {
+        "passos": [
+          "Derrotou o portador de fragmento, Mohg."
+        ]
+      }
+    },
+    "ACH13": {
+      "dica": "Leve qualquer arma ao +25 (pedras de forja comuns) ou +10 (pedras sombrias).",
+      "guia": {
+        "passos": [
+          "Melhorou qualquer arma ao nível máximo."
+        ]
+      }
+    },
+    "ACH00": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ],
+        "dicas": [
+          "Faça os três finais com saves de backup antes do último chefe."
+        ]
+      }
+    },
+    "ACH04": {
+      "guia": {
+        "passos": [
+          "Derrotou o portador de fragmento, Godrick."
+        ],
+        "dicas": [
+          "Castelo de Stormveil."
+        ]
+      }
+    },
+    "ACH05": {
+      "guia": {
+        "passos": [
+          "Derrotou o portador de fragmento, Radahn."
+        ],
+        "dicas": [
+          "Caelid, no Festival de Radahn (abre com a missão do Castelo Redmane)."
+        ]
+      }
+    },
+    "ACH06": {
+      "guia": {
+        "passos": [
+          "Derrotou o portador de fragmento, Morgott."
+        ],
+        "dicas": [
+          "Leyndell, Capital Real."
+        ]
+      }
+    },
+    "ACH07": {
+      "guia": {
+        "passos": [
+          "Derrotou o portador de fragmento, Rykard."
+        ],
+        "dicas": [
+          "Vulcano Manor, no Monte Gelmir."
+        ]
+      }
+    },
+    "ACH08": {
+      "guia": {
+        "passos": [
+          "Derrotou a portadora de fragmento, Malenia."
+        ],
+        "dicas": [
+          "Fim da Árvore Sacra de Miquella, nas Ilhas Elphael."
+        ]
+      }
+    },
+    "ACH10": {
+      "guia": {
+        "passos": [
+          "Derrotou Maliketh, a Lâmina Negra."
+        ],
+        "dicas": [
+          "Crumbling Farum Azula."
+        ]
+      }
+    },
+    "ACH11": {
+      "guia": {
+        "passos": [
+          "Derrotou Hoarah Loux, o Guerreiro."
+        ],
+        "dicas": [
+          "Leyndell em Cinzas, perto do fim."
+        ]
+      }
+    },
+    "ACH14": {
+      "guia": {
+        "passos": [
+          "Obteve todas as armas lendárias."
+        ],
+        "dicas": [
+          "São 9 armas lendárias; algumas exigem chefes opcionais e a Cidade Eterna."
+        ]
+      }
+    },
+    "ACH15": {
+      "guia": {
+        "passos": [
+          "Obteve todas as cinzas lendárias."
+        ],
+        "dicas": [
+          "São 6 Cinzas lendárias; algumas ficam em áreas opcionais."
+        ]
+      }
+    },
+    "ACH16": {
+      "guia": {
+        "passos": [
+          "Obteve todos os feitiços e encantos lendários."
+        ],
+        "dicas": [
+          "São 7 feitiços/encantamentos lendários; alguns dependem de missões de NPC."
+        ]
+      }
+    },
+    "ACH17": {
+      "guia": {
+        "passos": [
+          "Obteve todos os talismãs lendários."
+        ],
+        "dicas": [
+          "São 8 talismãs lendários, incluindo o Radagon Icon e o Godfrey Icon."
+        ]
+      }
+    },
+    "ACH18": {
+      "guia": {
+        "passos": [
+          "Derrotou Rennala, Rainha da Lua Cheia."
+        ],
+        "dicas": [
+          "Academia de Raya Lucaria."
+        ]
+      }
+    },
+    "ACH20": {
+      "guia": {
+        "passos": [
+          "Derrotou a Dupla da Pele Divina."
+        ],
+        "dicas": [
+          "Crumbling Farum Azula, no Templo do Dragão."
+        ]
+      }
+    },
+    "ACH21": {
+      "guia": {
+        "passos": [
+          "Derrotou o Gigante de Fogo."
+        ],
+        "dicas": [
+          "Montanhas dos Gigantes, a caminho da Forja."
+        ]
+      }
+    },
+    "ACH22": {
+      "guia": {
+        "passos": [
+          "Derrotou o Soldado Draconiano de Nokstella."
+        ],
+        "dicas": [
+          "Nokstella, Cidade Eterna (Subsolo)."
+        ]
+      }
+    },
+    "ACH23": {
+      "guia": {
+        "passos": [
+          "Derrotou o Espírito Ancestral Nobre."
+        ],
+        "dicas": [
+          "Nokron, Cidade Eterna (Ancestral Regal)."
+        ]
+      }
+    },
+    "ACH24": {
+      "guia": {
+        "passos": [
+          "Derrotou as Gárgulas Valentes."
+        ],
+        "dicas": [
+          "Aqueduto de Siofra, em Nokron."
+        ]
+      }
+    },
+    "ACH25": {
+      "guia": {
+        "passos": [
+          "Derrotou Margit, o Agouro Caído."
+        ],
+        "dicas": [
+          "Antes do Castelo de Stormveil. Invoque ajuda e use a Algema de Margit, que o prende por alguns segundos."
+        ]
+      }
+    },
+    "ACH26": {
+      "guia": {
+        "passos": [
+          "Derrotou o Lobo Vermelho de Radagon."
+        ],
+        "dicas": [
+          "Academia de Raya Lucaria."
+        ]
+      }
+    },
+    "ACH27": {
+      "guia": {
+        "passos": [
+          "Derrotou o Nobre da Pele Divina."
+        ],
+        "dicas": [
+          "Vulcano Manor."
+        ]
+      }
+    },
+    "ACH28": {
+      "guia": {
+        "passos": [
+          "Derrotou o Wyrm de Magma de Makar."
+        ],
+        "dicas": [
+          "Ruin-Strewn Precipice, em Liurnia."
+        ]
+      }
+    },
+    "ACH29": {
+      "guia": {
+        "passos": [
+          "Derrotou Godfrey, o Primeiro Lorde Prístino."
+        ],
+        "dicas": [
+          "Fantasma dourado em Leyndell."
+        ]
+      }
+    },
+    "ACH30": {
+      "guia": {
+        "passos": [
+          "Derrotou Mohg, o Agouro."
+        ],
+        "dicas": [
+          "Embaixo de Leyndell, nas Catacumbas Subterrâneas (Shunning-Grounds)."
+        ]
+      }
+    },
+    "ACH31": {
+      "guia": {
+        "passos": [
+          "Derrotou a Lágrima Imitadora."
+        ],
+        "dicas": [
+          "Nokron, Cidade Eterna."
+        ]
+      }
+    },
+    "ACH32": {
+      "guia": {
+        "passos": [
+          "Derrotou Loretta, Cavaleira da Árvore Sacra."
+        ],
+        "dicas": [
+          "Árvore Sacra de Miquella."
+        ]
+      }
+    },
+    "ACH34": {
+      "guia": {
+        "passos": [
+          "Derrotou o Bastardo Leonino."
+        ],
+        "dicas": [
+          "Castle Morne, em Weeping Peninsula."
+        ]
+      }
+    },
+    "ACH35": {
+      "guia": {
+        "passos": [
+          "Derrotou Loretta, Cavaleira Real."
+        ],
+        "dicas": [
+          "Caria Manor, em Liurnia."
+        ]
+      }
+    },
+    "ACH36": {
+      "guia": {
+        "passos": [
+          "Derrotou Elemer dos Espinhos."
+        ],
+        "dicas": [
+          "Torre de Shaded Castle (Altus Plateau)."
+        ]
+      }
+    },
+    "ACH37": {
+      "guia": {
+        "passos": [
+          "Derrotou o Espírito Ancestral."
+        ],
+        "dicas": [
+          "Siofra River."
+        ]
+      }
+    },
+    "ACH38": {
+      "guia": {
+        "passos": [
+          "Derrotou o Comandante Niall."
+        ],
+        "dicas": [
+          "Castelo Sol, Montanhas dos Gigantes."
+        ]
+      }
+    },
+    "ACH39": {
+      "guia": {
+        "passos": [
+          "Chegou à Mesa-Redonda."
+        ],
+        "dicas": [
+          "Melina leva você após descansar em alguns Locais de Graça."
+        ]
+      }
+    },
+    "ACH40": {
+      "guia": {
+        "passos": [
+          "Restaurou o poder de uma Grande Runa."
+        ],
+        "dicas": [
+          "Vença um portador de runa (Godrick) e ative a runa na Torre Divina de Limgrave."
+        ]
+      }
+    },
+    "ACH41": {
+      "guia": {
+        "passos": [
+          "Usou acendalha para atear fogo à Térvore."
+        ],
+        "dicas": [
+          "Final da história: fale com Melina no Forja dos Gigantes."
+        ]
+      }
+    }
   }
 }

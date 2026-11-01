@@ -1,15 +1,351 @@
 {
   "resumo": "Uma das platinas mais fáceis da geração. Nada é perdível; a única exigência extra é terminar a história no Novo Jogo+.",
   "roadmap": [
-    { "titulo": "História + atividades", "texto": "Faça a campanha e as atividades dos distritos conforme aparecem no mapa." },
-    { "titulo": "100% dos distritos", "texto": "Esconderijos de tecnologia, Fotos Espontâneas, pedidos do app SMAV e atividades da FEM." },
-    { "titulo": "Conquistas variadas", "texto": "Faça as de habilidade (Radical, Corda Bamba, Voando, Home Run!) e erre de propósito uma acrobacia para Espatifada." },
-    { "titulo": "Novo Jogo+", "texto": "Termine a história de novo no NG+ — dá para usar a dificuldade mais baixa." }
+    {
+      "titulo": "História + atividades",
+      "texto": "Faça a campanha e as atividades dos distritos conforme aparecem no mapa."
+    },
+    {
+      "titulo": "100% dos distritos",
+      "texto": "Esconderijos de tecnologia, Fotos Espontâneas, pedidos do app SMAV e atividades da FEM."
+    },
+    {
+      "titulo": "Conquistas variadas",
+      "texto": "Faça as de habilidade (Radical, Corda Bamba, Voando, Home Run!) e erre de propósito uma acrobacia para Espatifada."
+    },
+    {
+      "titulo": "Novo Jogo+",
+      "texto": "Termine a história de novo no NG+ — dá para usar a dificuldade mais baixa."
+    }
   ],
-  "avisos": ["Nada é perdível: o mundo fica aberto depois dos créditos."],
+  "avisos": [
+    "Nada é perdível: o mundo fica aberto depois dos créditos."
+  ],
   "conquistas": {
-    "WingsuitConeyIslandToQueens": { "dica": "Comece num prédio alto do Financial District e plane sem usar túneis de vento; corrija a altura com correntes de ar sobre a água." },
-    "FailAirTrick": { "dica": "Comece uma acrobacia aérea e deixe o personagem cair antes de terminá-la." },
-    "NewGamePlusComplete": { "dica": "Libere o NG+ terminando a história; qualquer dificuldade vale." }
+    "WingsuitConeyIslandToQueens": {
+      "dica": "Comece num prédio alto do Financial District e plane sem usar túneis de vento; corrija a altura com correntes de ar sobre a água.",
+      "guia": {
+        "passos": [
+          "Usando apenas as Asas de Teia, voe do Financial District até Astoria (exceto túneis de vento)."
+        ],
+        "dicas": [
+          "Use as correntes de ar dos Túneis de Vento e mantenha altura; comece do alto de um prédio no Distrito Financeiro."
+        ]
+      }
+    },
+    "FailAirTrick": {
+      "dica": "Comece uma acrobacia aérea e deixe o personagem cair antes de terminá-la.",
+      "guia": {
+        "passos": [
+          "Tente fazer uma acrobacia e fracasse antes de \"aterrissar\"."
+        ],
+        "dicas": [
+          "Comece um truque bem perto do chão."
+        ]
+      }
+    },
+    "NewGamePlusComplete": {
+      "dica": "Libere o NG+ terminando a história; qualquer dificuldade vale.",
+      "guia": {
+        "passos": [
+          "Conclua a história principal no modo Novo Jogo+."
+        ],
+        "dicas": [
+          "O NG+ fica no menu depois de zerar."
+        ]
+      }
+    },
+    "VisitMayGrave": {
+      "guia": {
+        "passos": [
+          "Como Peter, visite o túmulo da tia May."
+        ]
+      }
+    },
+    "ProwlerTechStashes": {
+      "guia": {
+        "passos": [
+          "Conclua todos os Esconderijos de Tecnologia."
+        ]
+      }
+    },
+    "DefeatSandman": {
+      "guia": {
+        "passos": [
+          "Conclua \"Tensão Superficial\"."
+        ]
+      }
+    },
+    "PlatinumTrophy": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "CompleteAllDistricts": {
+      "guia": {
+        "passos": [
+          "Conclua todos os distritos 100%."
+        ],
+        "dicas": [
+          "Cada distrito mostra o que falta no mapa."
+        ]
+      }
+    },
+    "GoldenPath": {
+      "guia": {
+        "passos": [
+          "Conclua a História Principal."
+        ]
+      }
+    },
+    "UpgradeAllGadgets": {
+      "guia": {
+        "passos": [
+          "Adquira todos os Aprimoramentos de Dispositivo."
+        ]
+      }
+    },
+    "AllSuits": {
+      "guia": {
+        "passos": [
+          "Adquira todos os Trajes disponíveis."
+        ],
+        "dicas": [
+          "Alguns trajes dependem de nível e de Tokens de cidade."
+        ]
+      }
+    },
+    "CompleteAllMysterioChallenges": {
+      "guia": {
+        "passos": [
+          "Conclua o \"Grande Final\"."
+        ]
+      }
+    },
+    "MaxLevel": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível máximo."
+        ]
+      }
+    },
+    "FalconChases": {
+      "guia": {
+        "passos": [
+          "Conclua \"Alvo Identificado\"."
+        ]
+      }
+    },
+    "WraithBoss": {
+      "guia": {
+        "passos": [
+          "Conclua \"Ideal para Mim\"."
+        ]
+      }
+    },
+    "SymbioteNests": {
+      "guia": {
+        "passos": [
+          "Conclua todos os Ninhos de Simbionte."
+        ]
+      }
+    },
+    "SandmanCollectibles": {
+      "guia": {
+        "passos": [
+          "Junte as memórias quebradas."
+        ]
+      }
+    },
+    "VenomModeKills": {
+      "guia": {
+        "passos": [
+          "Conclua \"Não Tenha Medo\"."
+        ]
+      }
+    },
+    "DefeatKraven": {
+      "guia": {
+        "passos": [
+          "Conclua \"Nada É Inquebrável\"."
+        ]
+      }
+    },
+    "HunterBases": {
+      "guia": {
+        "passos": [
+          "Conclua todas as Bases de Caçadores."
+        ]
+      }
+    },
+    "CompleteAllFNSM": {
+      "guia": {
+        "passos": [
+          "Conclua todos os pedidos no SMAV."
+        ]
+      }
+    },
+    "DefeatLizard": {
+      "guia": {
+        "passos": [
+          "Conclua \"O Escolhido\"."
+        ]
+      }
+    },
+    "SymbiotePowersDuringRageMode": {
+      "guia": {
+        "passos": [
+          "Use Habilidades  de Simbionte 25 vezes durante uma Onda Simbionte."
+        ]
+      }
+    },
+    "EmilyMayFoundationQuests": {
+      "guia": {
+        "passos": [
+          "Conclua todos os Experimentos da FEM."
+        ]
+      }
+    },
+    "BlueVenomKills": {
+      "guia": {
+        "passos": [
+          "Derrote 100 inimigos com Habilidades Venom Evoluídas."
+        ]
+      }
+    },
+    "IronArmKills": {
+      "guia": {
+        "passos": [
+          "Derrote 100 inimigos com as habilidades dos Spider-Braços."
+        ]
+      }
+    },
+    "DefeatLi": {
+      "guia": {
+        "passos": [
+          "Conclua \"Sem Escapatória\"."
+        ]
+      }
+    },
+    "AllSuitTech": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de Tecnologia de Traje do Spider-Man."
+        ]
+      }
+    },
+    "BrooklynVisions": {
+      "guia": {
+        "passos": [
+          "Conclua \"Um Presente\"."
+        ]
+      }
+    },
+    "HarlemArc": {
+      "guia": {
+        "passos": [
+          "Conclua \"Ritmo Acelerado\"."
+        ]
+      }
+    },
+    "VenoMJ": {
+      "guia": {
+        "passos": [
+          "Conclua \"Você Não É Assim\"."
+        ]
+      }
+    },
+    "CompleteAllSpiderBots": {
+      "guia": {
+        "passos": [
+          "Solucione o mistério da origem dos Spider-Bots."
+        ]
+      }
+    },
+    "EquipSuitVariant": {
+      "guia": {
+        "passos": [
+          "Equipe um estilo de traje."
+        ]
+      }
+    },
+    "WebLineTakedowns": {
+      "guia": {
+        "passos": [
+          "Abata 25 inimigos furtivamente estando na Linha de Teia."
+        ]
+      }
+    },
+    "AirTricksInARow": {
+      "guia": {
+        "passos": [
+          "Faça uma sequência de 30 Acrobacias Aéreas sem tocar no chão."
+        ]
+      }
+    },
+    "ReverseFluxTargetCount": {
+      "guia": {
+        "passos": [
+          "Como Miles, use Fluxo Reverso para puxar 6 inimigos ou mais de uma vez."
+        ]
+      }
+    },
+    "ConeyIslandHomeRun": {
+      "guia": {
+        "passos": [
+          "Passe por todas as bases no Estádio Big Apple Ballers."
+        ],
+        "dicas": [
+          "No estádio do Brooklyn, corra pelas bases em sequência."
+        ]
+      }
+    },
+    "FindMilesAndPhinTrophy": {
+      "guia": {
+        "passos": [
+          "Como Miles, encontre o troféu de ciência que Miles e Phin ganharam juntos."
+        ],
+        "dicas": [
+          "Na Escola Brooklyn Visions/no quarto do Miles: procure o troféu de ciência."
+        ]
+      }
+    },
+    "FNSM_Howard": {
+      "guia": {
+        "passos": [
+          "Ajude o Howard."
+        ]
+      }
+    },
+    "CollectTechParts": {
+      "guia": {
+        "passos": [
+          "Colete um total de 10.000 Peças Avançadas."
+        ]
+      }
+    },
+    "AllPhotoLocations": {
+      "guia": {
+        "passos": [
+          "Conclua todas as Fotos Espontâneas."
+        ]
+      }
+    },
+    "AntiVenomSymbioteKill": {
+      "guia": {
+        "passos": [
+          "Derrote um Simbionte afetado por uma condição Anti-Venom."
+        ]
+      }
+    },
+    "CompleteAct1": {
+      "guia": {
+        "passos": [
+          "Obtenha o Traje Preto."
+        ]
+      }
+    }
   }
 }

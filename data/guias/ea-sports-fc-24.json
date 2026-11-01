@@ -17,5 +17,301 @@
   "avisos": [
     "Ultimate Team e Clubs exigem online, que pode ser desligado com o tempo."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "Achievement_GOSCC_1": {
+      "guia": {
+        "passos": [
+          "Atinja 90 de GER com seu Avatar no Volta Football."
+        ]
+      }
+    },
+    "Achievement_GOSCC_2": {
+      "guia": {
+        "passos": [
+          "Vença uma partida nos Elencos do Volta com 3 amizades."
+        ]
+      }
+    },
+    "Achievement_GOSCC_3": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 50 itens estéticos diferentes."
+        ]
+      }
+    },
+    "Achievement_GOSCC_4": {
+      "guia": {
+        "passos": [
+          "Compre um item na Loja Volta usando Moedas Volta."
+        ]
+      }
+    },
+    "Achievement_GOSCC_5": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 7 em uma temporada do Volta Football ou do Clubs."
+        ]
+      }
+    },
+    "Achievement_GOSCC_6": {
+      "guia": {
+        "passos": [
+          "Faça um gol de falta."
+        ],
+        "dicas": [
+          "Em Arrancada (Kick Off), pegue um cobrador forte e treine no modo Treino."
+        ]
+      }
+    },
+    "Achievement_GOSCC_7": {
+      "guia": {
+        "passos": [
+          "Vença uma disputa de pênaltis sem perder nenhuma cobrança."
+        ],
+        "dicas": [
+          "Use a cobrança precisa e escolha cantos."
+        ]
+      }
+    },
+    "Achievement_GOSCC_8": {
+      "guia": {
+        "passos": [
+          "Marque um gol usando o superchute."
+        ]
+      }
+    },
+    "Achievement_GOSCC_9": {
+      "guia": {
+        "passos": [
+          "Jogue/vença uma partida em qualquer modo offline com as configurações competitivas ativadas."
+        ]
+      }
+    },
+    "Achievement_GOSCC_10": {
+      "guia": {
+        "passos": [
+          "Acerte 25 passes precisos."
+        ]
+      }
+    },
+    "Achievement_GOSCC_11": {
+      "guia": {
+        "passos": [
+          "Marque um gol usando finalização precisa."
+        ]
+      }
+    },
+    "Achievement_GOSCC_12": {
+      "guia": {
+        "passos": [
+          "Marque um gol com um estilo de jogo+ ativo."
+        ]
+      }
+    },
+    "Achievement_GOSCC_13": {
+      "guia": {
+        "passos": [
+          "Conclua 10 Desafios de Montagem de Elenco no Football Ultimate Team."
+        ]
+      }
+    },
+    "Achievement_GOSCC_14": {
+      "guia": {
+        "passos": [
+          "Monte um elenco com 33 pontos de entrosamento no UT. Não inclui atletas de conceito nem DMEs."
+        ]
+      }
+    },
+    "Achievement_GOSCC_15": {
+      "guia": {
+        "passos": [
+          "Crie sua própria tática personalizada no Football Ultimate Team."
+        ]
+      }
+    },
+    "Achievement_GOSCC_16": {
+      "guia": {
+        "passos": [
+          "Não sofra gols em 10 jogos em Squad Battles do UT."
+        ],
+        "dicas": [
+          "Squad Battles em dificuldade baixa ajuda."
+        ]
+      }
+    },
+    "Achievement_GOSCC_17": {
+      "guia": {
+        "passos": [
+          "Conclua 1 Momento no Football Ultimate Team."
+        ]
+      }
+    },
+    "Achievement_GOSCC_18": {
+      "guia": {
+        "passos": [
+          "Obtenha Pontos de Classificação do UT Champions para se classificar ao Mata-mata do UT Champions."
+        ]
+      }
+    },
+    "Achievement_GOSCC_19": {
+      "guia": {
+        "passos": [
+          "Alcance o Marco 3 em uma Temporada do Division Rivals do UT."
+        ]
+      }
+    },
+    "Achievement_GOSCC_20": {
+      "guia": {
+        "passos": [
+          "Jogue 200 partidas pelo clube com 1 atleta no Football Ultimate Team."
+        ]
+      }
+    },
+    "Achievement_GOSCC_21": {
+      "guia": {
+        "passos": [
+          "Jogue uma partida no UT com um elenco que contenha atletas das ligas masculinas e femininas."
+        ]
+      }
+    },
+    "Achievement_GOSCC_22": {
+      "guia": {
+        "passos": [
+          "Conclua um nível de evolução no UT e resgate as melhorias."
+        ]
+      }
+    },
+    "Achievement_GOSCC_23": {
+      "guia": {
+        "passos": [
+          "Conclua uma evolução e resgate as melhorias no UT."
+        ]
+      }
+    },
+    "Achievement_GOSCC_24": {
+      "guia": {
+        "passos": [
+          "Chegue ao último nível de progresso nos Objetivos da Temporada em qualquer temporada do UT 24."
+        ]
+      }
+    },
+    "Achievement_GOSCC_25": {
+      "guia": {
+        "passos": [
+          "Termine como equipe campeã na tabela de Playoffs do Clubs."
+        ]
+      }
+    },
+    "Achievement_GOSCC_26": {
+      "guia": {
+        "passos": [
+          "Consiga uma promoção de liga no Clubs com sua equipe."
+        ]
+      }
+    },
+    "Achievement_GOSCC_27": {
+      "guia": {
+        "passos": [
+          "Chegue à Divisão de Elite com sua equipe em uma temporada de liga do Clubs."
+        ]
+      }
+    },
+    "Achievement_GOSCC_28": {
+      "guia": {
+        "passos": [
+          "Vença sua primeira partida de liga no Clubs."
+        ]
+      }
+    },
+    "Achievement_GOSCC_29": {
+      "guia": {
+        "passos": [
+          "Vença sua primeira partida de Playoffs no Clubs."
+        ]
+      }
+    },
+    "Achievement_GOSCC_30": {
+      "guia": {
+        "passos": [
+          "Receba nota A em um jogo de habilidade do Clubs."
+        ]
+      }
+    },
+    "Achievement_GOSCC_31": {
+      "guia": {
+        "passos": [
+          "Desenvolva uma característica de personalidade dominante de mais de 75%."
+        ]
+      }
+    },
+    "Achievement_GOSCC_32": {
+      "guia": {
+        "passos": [
+          "Siga a recomendação de time da sua agência duas vezes durante a mesma Carreira de Jogador."
+        ]
+      }
+    },
+    "Achievement_GOSCC_33": {
+      "guia": {
+        "passos": [
+          "Vença a final da UEFA Women's Champions League."
+        ],
+        "dicas": [
+          "Na Carreira de Manager com time feminino, ou no Kick Off se a final estiver disponível."
+        ]
+      }
+    },
+    "Achievement_GOSCC_34": {
+      "guia": {
+        "passos": [
+          "Equipe um protetor facial e uma tatuagem no menu de personalização de avatar na Carreira de Jogador."
+        ]
+      }
+    },
+    "Achievement_GOSCC_35": {
+      "guia": {
+        "passos": [
+          "Contrate 1 auxiliar téc. nível especialista para cada departamento do seu clube."
+        ]
+      }
+    },
+    "Achievement_GOSCC_36": {
+      "guia": {
+        "passos": [
+          "Ao assistir a uma partida na visão tática na Carreira de Manager, assuma o controle e marque um gol."
+        ]
+      }
+    },
+    "Achievement_GOSCC_37": {
+      "guia": {
+        "passos": [
+          "Cheque o relatório pré-jogo, conclua a sessão de treino e participe da coletiva antes de uma partida."
+        ]
+      }
+    },
+    "Achievement_GOSCC_38": {
+      "guia": {
+        "passos": [
+          "Vença a Final da UEFA Champions League."
+        ],
+        "dicas": [
+          "Mais rápido no Kick Off > Torneio da UCL."
+        ]
+      }
+    },
+    "Achievement_GOSCC_39": {
+      "guia": {
+        "passos": [
+          "Jogue 5 partidas 1 contra 1 com uma amizade no modo Jogo Rápido."
+        ]
+      }
+    },
+    "Achievement_GOSCC_40": {
+      "guia": {
+        "passos": [
+          "Jogue uma partida entre seleções do futebol feminino."
+        ]
+      }
+    }
+  }
 }

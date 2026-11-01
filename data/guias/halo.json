@@ -1,11 +1,1091 @@
 {
   "resumo": "Lista enorme que mistura campanha e multijogador. A campanha é mundo aberto, então nada fica perdido; o desafio maior é terminar no Lendário com todas as caveiras (LASO).",
   "roadmap": [
-    { "titulo": "Campanha", "texto": "Termine a história e limpe Zeta Halo: bases, alvos de alto valor, registros de áudio, armários Mjolnir e caveiras." },
-    { "titulo": "Lendário", "texto": "Termine a campanha no Lendário (pode ser em co-op)." },
-    { "titulo": "Desafios da campanha", "texto": "Conquistas de missão com condições específicas; consulte a descrição de cada uma." },
-    { "titulo": "Multijogador", "texto": "Partidas casuais, ranqueadas e modos específicos completam o restante." }
+    {
+      "titulo": "Campanha",
+      "texto": "Termine a história e limpe Zeta Halo: bases, alvos de alto valor, registros de áudio, armários Mjolnir e caveiras."
+    },
+    {
+      "titulo": "Lendário",
+      "texto": "Termine a campanha no Lendário (pode ser em co-op)."
+    },
+    {
+      "titulo": "Desafios da campanha",
+      "texto": "Conquistas de missão com condições específicas; consulte a descrição de cada uma."
+    },
+    {
+      "titulo": "Multijogador",
+      "texto": "Partidas casuais, ranqueadas e modos específicos completam o restante."
+    }
   ],
-  "avisos": ["Muitas conquistas exigem multijogador online."],
-  "conquistas": {}
+  "avisos": [
+    "Muitas conquistas exigem multijogador online."
+  ],
+  "conquistas": {
+    "NEW_ACHIEVEMENT_1_0": {
+      "guia": {
+        "passos": [
+          "Perdido e encontrado."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "guia": {
+        "passos": [
+          "Explore as entranhas de Zeta Halo e recupere uma arma para mudar o rumo deste conflito."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "guia": {
+        "passos": [
+          "Derrote Tremonius, o senhor de guerra dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "guia": {
+        "passos": [
+          "Abra caminho pelo Posto Avançado Tremonius e saia na superfície de Zeta Halo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "guia": {
+        "passos": [
+          "Siga o sinal do UNSC até uma fortaleza dos Banidos chamada Torre. Encontre a fonte. Saia vivo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "guia": {
+        "passos": [
+          "Desligue o laser de mineração dos Banidos e consiga acesso ao Conservatório."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "guia": {
+        "passos": [
+          "Derrote a dupla de Hunters posicionados na base do Pináculo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "guia": {
+        "passos": [
+          "Desligue o primeiro Pináculo e impeça a Reforma de Zeta antes que seja tarde demais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "guia": {
+        "passos": [
+          "Destrua uma arma antiaérea dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "guia": {
+        "passos": [
+          "Elimine os Matadores de Spartans Hyperius e Tovarus."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "guia": {
+        "passos": [
+          "Chegue aos Sinalizadores, monte a Sequência e ganhe acesso ao Pináculo de Comando."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "guia": {
+        "passos": [
+          "Entre no Nexus e descubra os segredos dos Pináculos. A confiança é algo frágil, não é mesmo?"
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "guia": {
+        "passos": [
+          "Infiltre-se no Pináculo de Comando e coloque um fim à Reforma."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "guia": {
+        "passos": [
+          "Um amigo está em perigo e o tempo se esgotando. Hora de enfrentar seu passado e salvar seu futuro."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "guia": {
+        "passos": [
+          "Invada o Lar do Acerto de Contas e dê a Escharum a luta final que ele tanto deseja."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "guia": {
+        "passos": [
+          "No final, ele era apenas um soldado. Esperando que tivesse feito a coisa certa."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "guia": {
+        "passos": [
+          "Derrote a Harbinger. Confronte a verdade."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "guia": {
+        "passos": [
+          "Conclua a campanha principal."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "guia": {
+        "passos": [
+          "Conclua a campanha principal na dificuldade Normal."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "guia": {
+        "passos": [
+          "Conclua todas as missões principais da campanha na dificuldade Heroico."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "guia": {
+        "passos": [
+          "Conclua todas as missões principais na dificuldade Lendária com todos os Crânios ativos."
+        ],
+        "atencao": [
+          "Lendário: jogue em co-op ou aproveite upgrades do Master Chief antes."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "guia": {
+        "passos": [
+          "Desbloqueie a habilidade do Propulsor."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "guia": {
+        "passos": [
+          "Desbloqueie a habilidade da Parede Posicionável."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "guia": {
+        "passos": [
+          "Desbloqueie a habilidade do Sensor de Ameaça."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "guia": {
+        "passos": [
+          "Aprimore completamente a habilidade do Propulsor."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "guia": {
+        "passos": [
+          "Aprimore completamente a habilidade da Parede Posicionável."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "guia": {
+        "passos": [
+          "Aprimore completamente a habilidade do Sensor de Ameaça."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "guia": {
+        "passos": [
+          "Conclua um posto avançado dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "guia": {
+        "passos": [
+          "Conclua todos os sete postos avançados dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "guia": {
+        "passos": [
+          "Capture sua primeira Base de Operação Avançada."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "guia": {
+        "passos": [
+          "Capture todas as Bases de Operação Avançada disponíveis."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "guia": {
+        "passos": [
+          "Conclua todas as atividades que concedem Bravura."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+      "guia": {
+        "passos": [
+          "Responda um pedido de socorro do UNSC."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+      "guia": {
+        "passos": [
+          "Responda todos os pedidos de socorro do UNSC."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "guia": {
+        "passos": [
+          "Elimine um Alvo Banido de Alto Valor."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+      "guia": {
+        "passos": [
+          "Elimine todos os 15 Alvos Banidos de Alto Valor."
+        ],
+        "dicas": [
+          "Alvos de Alto Valor (HVT) aparecem no mapa após capturar bases avançadas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+      "guia": {
+        "passos": [
+          "Acesse seu primeiro Registro de Áudio do UNSC."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os Registros de Áudio do UNSC."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_9": {
+      "guia": {
+        "passos": [
+          "Acesse seu primeiro Registro de Áudio dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_10": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os Registros de Áudio dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_11": {
+      "guia": {
+        "passos": [
+          "Acesse seu primeiro Registro de Áudio dos Spartans."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_12": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os Registros de Áudio dos Spartans."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_13": {
+      "guia": {
+        "passos": [
+          "Localize e proteja um Núcleo de Spartan."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_14": {
+      "guia": {
+        "passos": [
+          "Adquira todos os Núcleos de Spartan."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_15": {
+      "guia": {
+        "passos": [
+          "Aprimore completamente seus Escudos de Energia."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_16": {
+      "guia": {
+        "passos": [
+          "Aprimore completamente o Lança-arpéu."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_17": {
+      "guia": {
+        "passos": [
+          "Acesse seu primeiro Armário de Armadura Mjolnir."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_18": {
+      "guia": {
+        "passos": [
+          "Acesse todos os 34 Armários de Armadura Mjolnir."
+        ],
+        "dicas": [
+          "Os armários de armadura ficam escondidos pelo mapa aberto."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_19": {
+      "guia": {
+        "passos": [
+          "Analise um Artefato Forerunner."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_20": {
+      "guia": {
+        "passos": [
+          "Analise todos os sete Artefatos Forerunner."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_21": {
+      "guia": {
+        "passos": [
+          "Descubra seu primeiro Crânio escondido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_22": {
+      "guia": {
+        "passos": [
+          "Descubra todos os Crânios escondidos."
+        ],
+        "dicas": [
+          "As caveiras ficam escondidas no mundo aberto e em missões; use um guia de localização."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_23": {
+      "guia": {
+        "passos": [
+          "Destrua uma Torre de Propaganda dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_24": {
+      "guia": {
+        "passos": [
+          "Destrua 40 Torres de Propaganda dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_25": {
+      "guia": {
+        "passos": [
+          "Destrua todas as três armas AA dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_26": {
+      "guia": {
+        "passos": [
+          "Conclua todas as 14 missões principais em menos de oito horas."
+        ],
+        "dicas": [
+          "Speedrun das missões principais; use o modo Heroico/Normal e evite atividades extras."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_27": {
+      "guia": {
+        "passos": [
+          "Abata um Grunt que foi jogado por um Brute."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_28": {
+      "guia": {
+        "passos": [
+          "Confira a melhor vista possível."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_29": {
+      "guia": {
+        "passos": [
+          "Use o Lança-arpéu com sucesso 50 vezes."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_30": {
+      "guia": {
+        "passos": [
+          "Coloque a Parede Posicionável 50 vezes."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_31": {
+      "guia": {
+        "passos": [
+          "Use o Sensor de Ameaça 50 vezes."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_0": {
+      "guia": {
+        "passos": [
+          "Use o Propulsor 50 vezes."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_1": {
+      "guia": {
+        "passos": [
+          "Use o Lança-arpéu para subir em um Ghost inimigo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_2": {
+      "guia": {
+        "passos": [
+          "Jogue 50 bobinas de fusão."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_3": {
+      "guia": {
+        "passos": [
+          "Leve o Scorpion até a Casa sem que ele exploda."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_4": {
+      "guia": {
+        "passos": [
+          "Atropele um inimigo com um Ghost."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_5": {
+      "guia": {
+        "passos": [
+          "Traga alguns Fuzileiros resgatados do UNSC para a missão principal."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_6": {
+      "guia": {
+        "passos": [
+          "Grude granadas em 50 inimigos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_7": {
+      "guia": {
+        "passos": [
+          "Conclua todas as missões principais da campanha na dificuldade Lendário."
+        ],
+        "atencao": [
+          "LASO (Lendário com todas as caveiras): um dos maiores desafios do jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_14": {
+      "guia": {
+        "passos": [
+          "Obtenha e equipe uma nova IA."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_15": {
+      "guia": {
+        "passos": [
+          "Use um novo item de personalização de armadura."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_16": {
+      "guia": {
+        "passos": [
+          "Experimente um novo item de personalização de armas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_17": {
+      "guia": {
+        "passos": [
+          "Teste uma nova personalização de veículo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_18": {
+      "guia": {
+        "passos": [
+          "Mude sua Etiqueta de Spartan."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_19": {
+      "guia": {
+        "passos": [
+          "Mude o visual do seu Spartan no menu de aparência."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_20": {
+      "guia": {
+        "passos": [
+          "Conclua um nível em um Passe de Batalha."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_21": {
+      "guia": {
+        "passos": [
+          "Conclua um Passe de Batalha."
+        ],
+        "dicas": [
+          "Multiplayer: complete qualquer Passe de Batalha (inclusive gratuito)."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_22": {
+      "guia": {
+        "passos": [
+          "Conclua um Desafio Diário."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_23": {
+      "guia": {
+        "passos": [
+          "Conclua um Desafio Semanal."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_24": {
+      "guia": {
+        "passos": [
+          "Conclua um Desafio de Tempo Limitado."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_25": {
+      "guia": {
+        "passos": [
+          "Jogue uma Partida Ranqueada."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_26": {
+      "guia": {
+        "passos": [
+          "Terminou as Partidas de Posicionamento Ranqueadas."
+        ],
+        "dicas": [
+          "Termine as partidas de posicionamento no Ranqueado do multiplayer."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_27": {
+      "guia": {
+        "passos": [
+          "Veja um clipe no cinema."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_28": {
+      "guia": {
+        "passos": [
+          "Jogue um jogo personalizado."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_29": {
+      "guia": {
+        "passos": [
+          "Inicie no Modo de Treinamento pela primeira vez."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_30": {
+      "guia": {
+        "passos": [
+          "Mude alguma opção do Modo de Treinamento."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3_31": {
+      "guia": {
+        "passos": [
+          "Conclua um Exercício de Armas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_0": {
+      "guia": {
+        "passos": [
+          "Ganhe 3 estrelas em um Exercício de Armas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_1": {
+      "guia": {
+        "passos": [
+          "Ganhe 3 estrelas em 5 Exercícios de Armas de Patamar 3."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_2": {
+      "guia": {
+        "passos": [
+          "Conclua o Tutorial."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_3": {
+      "guia": {
+        "passos": [
+          "Acesse sua IA Pessoal."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_4": {
+      "guia": {
+        "passos": [
+          "Pegue uma arma poderosa do arsenal do Tutorial."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_5": {
+      "guia": {
+        "passos": [
+          "Conclua o Pátio de Movimento em menos de 25 segundos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_6": {
+      "guia": {
+        "passos": [
+          "Ganhe 2.000 pontos em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_7": {
+      "guia": {
+        "passos": [
+          "Ganhe uma Medalha Mítica em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_8": {
+      "guia": {
+        "passos": [
+          "Ganhe Atropelamento com um Chopper Brute em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_9": {
+      "guia": {
+        "passos": [
+          "Ganhe Perfeito com um Commando VK78 em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_10": {
+      "guia": {
+        "passos": [
+          "Ganhe Montaria com um Razorback em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_11": {
+      "guia": {
+        "passos": [
+          "Ganhe Reação em Cadeia com um Rifle de Choque em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_12": {
+      "guia": {
+        "passos": [
+          "Ataque pelas Costas um inimigo que esteja usando o zoom de uma arma com mira em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_13": {
+      "guia": {
+        "passos": [
+          "Abata um inimigo com ataque corpo a corpo usando uma arma com lâminas em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_14": {
+      "guia": {
+        "passos": [
+          "Abata um inimigo com o tiro carregado da Devastadora em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_15": {
+      "guia": {
+        "passos": [
+          "Destrua um veículo inimigo com a Espetadora em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_16": {
+      "guia": {
+        "passos": [
+          "Arpe para Roubar um veículo voador inimigo em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_17": {
+      "guia": {
+        "passos": [
+          "Pegue uma arma usando o Lança-arpéu em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_18": {
+      "guia": {
+        "passos": [
+          "Coloque um item no armazenamento do Razorback em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_19": {
+      "guia": {
+        "passos": [
+          "Afaste uma granada inimiga com a Repulsora em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_20": {
+      "guia": {
+        "passos": [
+          "Jogue uma Arma Poderosa para um aliado em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_21": {
+      "guia": {
+        "passos": [
+          "Dirija 4 veículos exclusivos em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_22": {
+      "guia": {
+        "passos": [
+          "Assista a um aliado que está dirigindo um Warthog ou Razorback em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_23": {
+      "guia": {
+        "passos": [
+          "Marque um inimigo localizado em Intermediário Superior em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_24": {
+      "guia": {
+        "passos": [
+          "Marque mais de 3 inimigos ao mesmo tempo em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_25": {
+      "guia": {
+        "passos": [
+          "Ganhe acesso a uma caverna de saques em um jogo pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_26": {
+      "guia": {
+        "passos": [
+          "Abata três inimigos com a bola em um jogo de Bola Maluca pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_27": {
+      "guia": {
+        "passos": [
+          "Capture a bandeira duas vezes em um jogo de Capture a Bandeira pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_28": {
+      "guia": {
+        "passos": [
+          "Proteja 5 zonas em um jogo de Fortalezas pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_29": {
+      "guia": {
+        "passos": [
+          "Reviva 3 aliados em uma rodada de Atrito/Eliminação em um jogo personalizado ou pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_30": {
+      "guia": {
+        "passos": [
+          "Dê assistência na captura de todas as zonas que levam a uma pontuação em um jogo de Controle Total pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4_31": {
+      "guia": {
+        "passos": [
+          "Deposite 5 Fontes de Energia em um jogo de Reservas pré-definido."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_5_26": {
+      "guia": {
+        "passos": [
+          "Consiga pelo menos um abate com cada arma e granada disponível na nave dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_5_27": {
+      "guia": {
+        "passos": [
+          "Derrote Tremonius com a Espetadora."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_5_28": {
+      "guia": {
+        "passos": [
+          "Destrua ambos os Phantoms antes que eles deixem o Posto Avançado Tremonius."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_5_29": {
+      "guia": {
+        "passos": [
+          "Abata o comandante da Torre com uma Granada de plasma."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_5_30": {
+      "guia": {
+        "passos": [
+          "Abata um inimigo com o laser de mineração dos Banidos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_5_31": {
+      "guia": {
+        "passos": [
+          "Complete o Conservatório em menos de 15 minutos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_0": {
+      "guia": {
+        "passos": [
+          "Elimine todos os inimigos no Sinalizador Sul com um Tanque Scorpion."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_1": {
+      "guia": {
+        "passos": [
+          "No Nexus, abata o par de Hunters com golpes finais de corpo a corpo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_2": {
+      "guia": {
+        "passos": [
+          "Abata 40 inimigos com o Rifle Stalker no Pináculo do Comando."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_3": {
+      "guia": {
+        "passos": [
+          "Abata um Chefe e use sua torreta para abater outro no Repositório."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_4": {
+      "guia": {
+        "passos": [
+          "Derrote o Chefe de Guerra Escharum sem nunca perder completamente seus escudos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_5": {
+      "guia": {
+        "passos": [
+          "Invada o Auditório em menos de três minutos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_6": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, capture todas as Bases de Operação Avançadas em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_7": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, conclua todos os sete postos avançados dos Banidos em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_8": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, responda a todos os pedidos de socorro do UNSC em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_9": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, elimine todos os Alvos Banidos de Alto Valor em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_10": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, abata 100 inimigos enquanto todos os jogadores estão em veículos aéreos."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_11": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, atropele 50 inimigos enquanto anda em um veículo com outro jogador."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_12": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, abateu 50 inimigos enquanto em um Mongoose com outro jogador."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_13": {
+      "guia": {
+        "passos": [
+          "Abata 5 inimigos com um Rifle de Precisão de um veículo. Todos nele compartilham o progresso."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_14": {
+      "guia": {
+        "passos": [
+          "Abateu 5 inimigos com um Martelo de Gravidade de um veículo. Todos nele compartilham o progresso."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_16": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, mate um Hunter e seu irmão unido com três segundos de diferença."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_17": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, destrua todas as torres de resfriamento no Local de Escavação com 60s de diferença."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_18": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, destruiu quatro Silos de Combustível em 5s no Forte do Resgate ou Forge de Teash."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6_19": {
+      "guia": {
+        "passos": [
+          "Na cooperativa, abaixe todos os três portões com 15 segundos de diferença no Portão de Riven."
+        ],
+        "dicas": [
+          "Exige campanha em co-op online."
+        ]
+      }
+    }
+  }
 }

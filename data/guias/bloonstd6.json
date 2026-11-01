@@ -29,16 +29,1136 @@
   "conquistas": {
     "141": {
       "online": true,
-      "dica": "Um desafio diário por dia: são 365 dias diferentes."
+      "dica": "Um desafio diário por dia: são 365 dias diferentes.",
+      "guia": {
+        "passos": [
+          "Vença 365 desafios diários diferentes."
+        ],
+        "atencao": [
+          "365 desafios diários diferentes: leva no mínimo um ano."
+        ]
+      }
     },
     "144": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Capture 50 territórios."
+        ]
+      }
     },
     "159": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Ganhe as 15.000 estrelas em qualquer Temporada Social."
+        ]
+      }
     },
     "66": {
-      "dica": "Procure combinações conhecidas da comunidade para 2 torres."
+      "dica": "Procure combinações conhecidas da comunidade para 2 torres.",
+      "guia": {
+        "passos": [
+          "Conclua uma partida na dificuldade CHIMPS com apenas 2 torres de macaco."
+        ]
+      }
+    },
+    "1": {
+      "guia": {
+        "passos": [
+          "Estoure 100.000.000 Bloons."
+        ]
+      }
+    },
+    "2": {
+      "guia": {
+        "passos": [
+          "Destrua 25.000 MOABs."
+        ]
+      }
+    },
+    "3": {
+      "guia": {
+        "passos": [
+          "Destrua 10.000 BFBs."
+        ]
+      }
+    },
+    "4": {
+      "guia": {
+        "passos": [
+          "Destrua 5.000 ZOMGs."
+        ]
+      }
+    },
+    "5": {
+      "guia": {
+        "passos": [
+          "Destrua 5.000 DDTs."
+        ]
+      }
+    },
+    "6": {
+      "guia": {
+        "passos": [
+          "Estoure 5.000.000 Bloons Fortificados ou Classe MOAB."
+        ]
+      }
+    },
+    "7": {
+      "guia": {
+        "passos": [
+          "1 Vitórias não-tutoriais em mapas iniciantes."
+        ]
+      }
+    },
+    "8": {
+      "guia": {
+        "passos": [
+          "Vença em 9 mapas iniciantes diferentes."
+        ]
+      }
+    },
+    "9": {
+      "guia": {
+        "passos": [
+          "Ganhe 1 jogo num mapa intermediário."
+        ]
+      }
+    },
+    "10": {
+      "guia": {
+        "passos": [
+          "Ganhe jogos em 5 mapas intermediários diferentes."
+        ]
+      }
+    },
+    "11": {
+      "guia": {
+        "passos": [
+          "Ganhe 1 jogo em um mapa avançado."
+        ]
+      }
+    },
+    "13": {
+      "guia": {
+        "passos": [
+          "Coloque uma torre de macaco nível 4."
+        ]
+      }
+    },
+    "14": {
+      "guia": {
+        "passos": [
+          "Coloque uma torre de macaco nível 5."
+        ]
+      }
+    },
+    "15": {
+      "guia": {
+        "passos": [
+          "Coloque um Herói num mapa não tutorial."
+        ]
+      }
+    },
+    "16": {
+      "guia": {
+        "passos": [
+          "Use qualquer habilidade heroica nível 3."
+        ]
+      }
+    },
+    "17": {
+      "guia": {
+        "passos": [
+          "Use qualquer habilidade heroica nível 10."
+        ]
+      }
+    },
+    "18": {
+      "guia": {
+        "passos": [
+          "Eleve qualquer herói ao nível 20."
+        ]
+      }
+    },
+    "19": {
+      "guia": {
+        "passos": [
+          "Vença um jogo com 4 Heróis diferentes."
+        ]
+      }
+    },
+    "20": {
+      "guia": {
+        "passos": [
+          "Use poderes pela primeira vez."
+        ]
+      }
+    },
+    "21": {
+      "guia": {
+        "passos": [
+          "Use poderes 25 vezes."
+        ]
+      }
+    },
+    "22": {
+      "guia": {
+        "passos": [
+          "Use poderes 100 vezes."
+        ]
+      }
+    },
+    "23": {
+      "guia": {
+        "passos": [
+          "Aplique seu primeiro ponto de Conhecimento Símio."
+        ]
+      }
+    },
+    "24": {
+      "guia": {
+        "passos": [
+          "Aplique 10 pontos de Conhecimento Símio."
+        ]
+      }
+    },
+    "46": {
+      "guia": {
+        "passos": [
+          "Libere todo Conhecimento Símio de uma área."
+        ]
+      }
+    },
+    "25": {
+      "guia": {
+        "passos": [
+          "Gaste 106 pontos de Conhecimento Símio."
+        ]
+      }
+    },
+    "26": {
+      "guia": {
+        "passos": [
+          "Vença 10 jogos usando apenas macacos primários."
+        ]
+      }
+    },
+    "27": {
+      "guia": {
+        "passos": [
+          "Vença 10 jogos usando apenas macacos militares."
+        ]
+      }
+    },
+    "28": {
+      "guia": {
+        "passos": [
+          "Vença 10 jogos usando apenas macacos mágicos."
+        ]
+      }
+    },
+    "29": {
+      "guia": {
+        "passos": [
+          "Vença 10 jogos usando apenas macacos de suporte."
+        ]
+      }
+    },
+    "30": {
+      "guia": {
+        "passos": [
+          "Vença a rodada 100 no modo Esvaziamento."
+        ]
+      }
+    },
+    "31": {
+      "guia": {
+        "passos": [
+          "Vença a rodada 100 no modo Estouralipse."
+        ]
+      }
+    },
+    "32": {
+      "guia": {
+        "passos": [
+          "Vença 25 jogos com rodadas de Bloons Alternados."
+        ]
+      }
+    },
+    "33": {
+      "guia": {
+        "passos": [
+          "Vença 25 jogos na dificuldade Inestourável."
+        ],
+        "dicas": [
+          "Impoppable: dificuldade mais alta; use estratégias da comunidade."
+        ]
+      }
+    },
+    "34": {
+      "guia": {
+        "passos": [
+          "Vença 10 jogos no modo de Metade do Dinheiro."
+        ]
+      }
+    },
+    "35": {
+      "guia": {
+        "passos": [
+          "Vença 25 jogos contra MOABs com o dobro de vida."
+        ]
+      }
+    },
+    "36": {
+      "guia": {
+        "passos": [
+          "Vença um jogo no modo Reverso."
+        ]
+      }
+    },
+    "37": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as medalhas de um mapa."
+        ]
+      }
+    },
+    "38": {
+      "guia": {
+        "passos": [
+          "Ganhe 36 medalhas em mapas iniciantes."
+        ]
+      }
+    },
+    "39": {
+      "guia": {
+        "passos": [
+          "Estoure 100.000 Bloons Roxos."
+        ]
+      }
+    },
+    "40": {
+      "guia": {
+        "passos": [
+          "Estoure 250.000 Bloons Camuflados."
+        ]
+      }
+    },
+    "41": {
+      "guia": {
+        "passos": [
+          "Obtenha pelo menos 12 poderes diferentes."
+        ]
+      }
+    },
+    "42": {
+      "guia": {
+        "passos": [
+          "Vença 1 Desafio Diário."
+        ]
+      }
+    },
+    "43": {
+      "guia": {
+        "passos": [
+          "Vença 10 Desafios Diários."
+        ]
+      }
+    },
+    "44": {
+      "guia": {
+        "passos": [
+          "Vença 100 Desafios Diários."
+        ]
+      }
+    },
+    "45": {
+      "guia": {
+        "passos": [
+          "Complete todos os desafios diários em uma semana."
+        ]
+      }
+    },
+    "47": {
+      "guia": {
+        "passos": [
+          "Vença 1 mapa no modo CHIMPS."
+        ],
+        "dicas": [
+          "CHIMPS: sem continues, sem renda extra, sem poderes. Comece por mapas iniciantes."
+        ]
+      }
+    },
+    "48": {
+      "guia": {
+        "passos": [
+          "Vença 5 mapas no modo CHIMPS."
+        ]
+      }
+    },
+    "49": {
+      "guia": {
+        "passos": [
+          "Vença 15 mapas no modo CHIMPS."
+        ],
+        "atencao": [
+          "15 mapas no CHIMPS exige muita estratégia; procure builds da comunidade."
+        ]
+      }
+    },
+    "50": {
+      "guia": {
+        "passos": [
+          "Destrua 1.000 BADs."
+        ]
+      }
+    },
+    "51": {
+      "guia": {
+        "passos": [
+          "Vença 1 mapa no modo cooperativo."
+        ]
+      }
+    },
+    "52": {
+      "guia": {
+        "passos": [
+          "Vença 1 mapa no modo cooperativo de 4 jogadores."
+        ]
+      }
+    },
+    "53": {
+      "guia": {
+        "passos": [
+          "Vença 1 mapa no modo cooperativo de 3 jogadores."
+        ]
+      }
+    },
+    "54": {
+      "guia": {
+        "passos": [
+          "Tenha 4 heróis na tela ao mesmo tempo."
+        ]
+      }
+    },
+    "55": {
+      "guia": {
+        "passos": [
+          "Vença 10 jogos na dificuldade Difícil no modo cooperativo."
+        ]
+      }
+    },
+    "56": {
+      "guia": {
+        "passos": [
+          "Dê 10.000 em dinheiro no modo cooperativo."
+        ]
+      }
+    },
+    "57": {
+      "guia": {
+        "passos": [
+          "Dê 50.000 em dinheiro no modo cooperativo."
+        ]
+      }
+    },
+    "58": {
+      "guia": {
+        "passos": [
+          "Dê 100.000 em dinheiro no modo cooperativo."
+        ]
+      }
+    },
+    "59": {
+      "guia": {
+        "passos": [
+          "Dê 1.000.000 em dinheiro no modo cooperativo."
+        ]
+      }
+    },
+    "60": {
+      "guia": {
+        "passos": [
+          "Use 10 poderes no modo cooperativo."
+        ]
+      }
+    },
+    "61": {
+      "guia": {
+        "passos": [
+          "Use 100 poderes no modo cooperativo."
+        ]
+      }
+    },
+    "62": {
+      "guia": {
+        "passos": [
+          "Use 5 Macacos Insta no modo cooperativo."
+        ]
+      }
+    },
+    "63": {
+      "guia": {
+        "passos": [
+          "Estoure 10.000.000 bloons no modo cooperativo."
+        ]
+      }
+    },
+    "64": {
+      "guia": {
+        "passos": [
+          "Pat gosta ainda mais de abraçar Grandes Bloons."
+        ]
+      }
+    },
+    "65": {
+      "guia": {
+        "passos": [
+          "Está regulado para M de mini, quando deveria estar em W de wumbo."
+        ]
+      }
+    },
+    "67": {
+      "guia": {
+        "passos": [
+          "Termine uma partida com exatamente metade da sua vida inicial e metade do seu dinheiro inicial."
+        ]
+      }
+    },
+    "68": {
+      "guia": {
+        "passos": [
+          "Envie $500.000 para um aliado em Cooperativo de uma só vez."
+        ]
+      }
+    },
+    "69": {
+      "guia": {
+        "passos": [
+          "Entre em 500 corridas."
+        ]
+      }
+    },
+    "70": {
+      "guia": {
+        "passos": [
+          "Conclua uma corrida em menos de 10 minutos."
+        ]
+      }
+    },
+    "71": {
+      "guia": {
+        "passos": [
+          "Conclua uma corrida em menos de 5 minutos."
+        ]
+      }
+    },
+    "72": {
+      "guia": {
+        "passos": [
+          "Conclua qualquer corrida em menos de 3 minutos."
+        ]
+      }
+    },
+    "73": {
+      "guia": {
+        "passos": [
+          "Crie o jogue 200 desafios."
+        ]
+      }
+    },
+    "74": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas usando o visual de qualquer herói."
+        ]
+      }
+    },
+    "75": {
+      "guia": {
+        "passos": [
+          "Estoure {0} Bloons na Península."
+        ]
+      }
+    },
+    "76": {
+      "guia": {
+        "passos": [
+          "Cause 1 bilhão de dano com o Mestre Bloon Alquimista."
+        ]
+      }
+    },
+    "77": {
+      "guia": {
+        "passos": [
+          "Revele {0} Bloons usando Reluzente."
+        ]
+      }
+    },
+    "78": {
+      "guia": {
+        "passos": [
+          "Posicione 50 torres de macaco no mapa de uma vez."
+        ]
+      }
+    },
+    "80": {
+      "guia": {
+        "passos": [
+          "Vença uma partida com apenas 1 torre de macaco na tela durante a partida toda e em qualquer fase do modo Difícil."
+        ]
+      }
+    },
+    "81": {
+      "guia": {
+        "passos": [
+          "Tenha 1000 vidas ao mesmo tempo em uma única partida."
+        ]
+      }
+    },
+    "82": {
+      "guia": {
+        "passos": [
+          "Estoure {0} Bloons Arco-Íris com Macacos Mágicos."
+        ]
+      }
+    },
+    "83": {
+      "guia": {
+        "passos": [
+          "Quando os planetas se alinham adoravelmente."
+        ],
+        "dicas": [
+          "Conquista secreta: acontece por acaso numa condição rara."
+        ]
+      }
+    },
+    "84": {
+      "guia": {
+        "passos": [
+          "V-V-Vença qualquer mapa Expert em CHIMPS com $40.870 ou mais gasto em 1 Usina de Espinhos."
+        ]
+      }
+    },
+    "85": {
+      "guia": {
+        "passos": [
+          "Sacrifique cada tipo de torre no jogo para o Templo."
+        ]
+      }
+    },
+    "86": {
+      "guia": {
+        "passos": [
+          "Conclua uma partida de CHIMPS com mais de 2 milhões de dano causados por uma torre."
+        ]
+      }
+    },
+    "87": {
+      "guia": {
+        "passos": [
+          "Abra uma Caixa de Diamante em qualquer evento de coleta."
+        ]
+      }
+    },
+    "88": {
+      "guia": {
+        "passos": [
+          "Tenha um de cada franco-atirador C5 em uma partida de CHIMPS."
+        ]
+      }
+    },
+    "89": {
+      "guia": {
+        "passos": [
+          "Tenha 200 macacos instantâneos no seu inventário em algum momento."
+        ]
+      }
+    },
+    "90": {
+      "guia": {
+        "passos": [
+          "Abra o baú diário 365 vezes."
+        ],
+        "dicas": [
+          "Abra o baú diário por 365 dias (não precisa ser seguido)."
+        ]
+      }
+    },
+    "91": {
+      "guia": {
+        "passos": [
+          "Ganhe 10 níveis para Adora em uma rodada."
+        ]
+      }
+    },
+    "92": {
+      "guia": {
+        "passos": [
+          "Bloompa-loompa-doompa-di-du!"
+        ],
+        "dicas": [
+          "Conquista secreta ligada ao Golden Bloon/evento especial."
+        ]
+      }
+    },
+    "93": {
+      "guia": {
+        "passos": [
+          "Conclua uma Odisseia."
+        ]
+      }
+    },
+    "94": {
+      "guia": {
+        "passos": [
+          "Conclua uma Odisseia Difícil."
+        ]
+      }
+    },
+    "95": {
+      "guia": {
+        "passos": [
+          "Conclua todas as 3 dificuldades de uma única Odisseia."
+        ]
+      }
+    },
+    "96": {
+      "guia": {
+        "passos": [
+          "Conclua 12 Odisseias diferentes."
+        ]
+      }
+    },
+    "97": {
+      "guia": {
+        "passos": [
+          "Conclua 50 Odisseias."
+        ]
+      }
+    },
+    "98": {
+      "guia": {
+        "passos": [
+          "Conclua 100 Odisseias."
+        ]
+      }
+    },
+    "99": {
+      "guia": {
+        "passos": [
+          "Conclua uma Odisseia em menos de 1 hora."
+        ]
+      }
+    },
+    "100": {
+      "guia": {
+        "passos": [
+          "Compre um item da Loja de Troféus."
+        ]
+      }
+    },
+    "101": {
+      "guia": {
+        "passos": [
+          "Conclua uma Odisseia sem um herói."
+        ]
+      }
+    },
+    "102": {
+      "guia": {
+        "passos": [
+          "Gosto deles grandes, gosto deles com pedaços."
+        ]
+      }
+    },
+    "103": {
+      "guia": {
+        "passos": [
+          "Reanime 250.000 Bloons para lutar ao seu lado usando o Mago Necromante."
+        ]
+      }
+    },
+    "104": {
+      "guia": {
+        "passos": [
+          "Vença qualquer jogo não CHIMPS/Inestourável com apenas 1 vida restante."
+        ]
+      }
+    },
+    "105": {
+      "guia": {
+        "passos": [
+          "Use o Tônico Transformador do Alquimista 100 vezes."
+        ]
+      }
+    },
+    "106": {
+      "guia": {
+        "passos": [
+          "Crie ou faça login na sua conta Ninja Kiwi para salvar seu progresso na nuvem."
+        ]
+      }
+    },
+    "107": {
+      "guia": {
+        "passos": [
+          "Crie e vença 10 jogos cooperativos."
+        ]
+      }
+    },
+    "108": {
+      "guia": {
+        "passos": [
+          "Remova a fortificação de DDTs Fortificados 3.000 vezes."
+        ]
+      }
+    },
+    "109": {
+      "guia": {
+        "passos": [
+          "Envie um desafio para o Navegador de Desafios."
+        ]
+      }
+    },
+    "110": {
+      "guia": {
+        "passos": [
+          "Estoure 1.000.000 de bloons com Atiradoes de Dardos."
+        ]
+      }
+    },
+    "111": {
+      "guia": {
+        "passos": [
+          "Gaste pelo menos 50 troféus na Loja de Troféus."
+        ]
+      }
+    },
+    "112": {
+      "guia": {
+        "passos": [
+          "Use com Macaco Insta Nível 5. AVISO: mesmo após usados, Instas ainda contam para sua coleção!"
+        ]
+      }
+    },
+    "113": {
+      "guia": {
+        "passos": [
+          "Use 100 Macacos Insta. AVISO: mesmo após usados, Instas ainda contam para sua coleção!"
+        ]
+      }
+    },
+    "114": {
+      "guia": {
+        "passos": [
+          "Compre pelo menos 1 novo item de tempo limitado na Loja de Troféus."
+        ]
+      }
+    },
+    "115": {
+      "guia": {
+        "passos": [
+          "Melhore torres 20.000 vezes."
+        ]
+      }
+    },
+    "116": {
+      "guia": {
+        "passos": [
+          "Só porque uma coisa pode ser feita, não significa que deve ser feita."
+        ]
+      }
+    },
+    "117": {
+      "guia": {
+        "passos": [
+          "Consiga 35 conquistas."
+        ],
+        "dicas": [
+          "Aparece ao coletar 35 conquistas."
+        ]
+      }
+    },
+    "118": {
+      "guia": {
+        "passos": [
+          "Fisgue 3.000 Bloons classe MOAB usando a habilidade Derrubar MOAB."
+        ]
+      }
+    },
+    "119": {
+      "guia": {
+        "passos": [
+          "Reposicione 1.000 macacos usando o Helicóptero de Suporte."
+        ]
+      }
+    },
+    "120": {
+      "guia": {
+        "passos": [
+          "Use reações 100 vezes em jogos cooperativos."
+        ]
+      }
+    },
+    "121": {
+      "guia": {
+        "passos": [
+          "Estoure 20 Bloons Dourados."
+        ]
+      }
+    },
+    "122": {
+      "guia": {
+        "passos": [
+          "Estoure 100 Bloons Dourados."
+        ]
+      }
+    },
+    "123": {
+      "guia": {
+        "passos": [
+          "Estoure 500 Bloons Dourados."
+        ]
+      }
+    },
+    "124": {
+      "guia": {
+        "passos": [
+          "Estoure 50 Bloons Dourados no modo apenas Macacos Mágicos."
+        ]
+      }
+    },
+    "125": {
+      "guia": {
+        "passos": [
+          "Vença 25 vezes com Equipes de Macacos."
+        ]
+      }
+    },
+    "126": {
+      "guia": {
+        "passos": [
+          "Vença 50 vezes com Equipes de Macacos."
+        ]
+      }
+    },
+    "127": {
+      "guia": {
+        "passos": [
+          "Vença 100 vezes com Equipes de Macacos."
+        ]
+      }
+    },
+    "128": {
+      "guia": {
+        "passos": [
+          "Derrote um Chefe de Nível 1."
+        ]
+      }
+    },
+    "129": {
+      "guia": {
+        "passos": [
+          "Derrote um Chefe de Nível 5."
+        ]
+      }
+    },
+    "130": {
+      "guia": {
+        "passos": [
+          "Derrote um Chefe de Elite de Nível 5."
+        ],
+        "atencao": [
+          "Chefe Elite Tier 5: um dos desafios mais difíceis do jogo."
+        ]
+      }
+    },
+    "131": {
+      "guia": {
+        "passos": [
+          "Evolua uma torre para Paragon de Macaco."
+        ]
+      }
+    },
+    "132": {
+      "guia": {
+        "passos": [
+          "Estoure 50 Bloons Chefes."
+        ]
+      }
+    },
+    "133": {
+      "guia": {
+        "passos": [
+          "O Paragon dos Paragons."
+        ],
+        "dicas": [
+          "Leve um Paragon ao grau máximo."
+        ]
+      }
+    },
+    "134": {
+      "guia": {
+        "passos": [
+          "Vença uma batalha de chefe sem usar Herói."
+        ]
+      }
+    },
+    "135": {
+      "guia": {
+        "passos": [
+          "Vença Ilhas das Especiarias em Rodadas de Bloons Alternados só com torres terrestres."
+        ]
+      }
+    },
+    "136": {
+      "guia": {
+        "passos": [
+          "Vença Milharal no CHIMPS sem remover nenhum milho."
+        ]
+      }
+    },
+    "137": {
+      "guia": {
+        "passos": [
+          "4 x 10^5 (fique com $400.000 de dívida)."
+        ]
+      }
+    },
+    "138": {
+      "guia": {
+        "passos": [
+          "Acerte 25.000 golpes críticos."
+        ]
+      }
+    },
+    "139": {
+      "guia": {
+        "passos": [
+          "Cole 500.000 Bloons."
+        ]
+      }
+    },
+    "140": {
+      "guia": {
+        "passos": [
+          "Gaste 1.000.000 de dinheiro em uma rodada."
+        ]
+      }
+    },
+    "142": {
+      "guia": {
+        "passos": [
+          "Gaste 1.000 MM em continues ou checkpoints."
+        ]
+      }
+    },
+    "143": {
+      "guia": {
+        "passos": [
+          "Capture 5 territórios de outros jogadores."
+        ]
+      }
+    },
+    "145": {
+      "guia": {
+        "passos": [
+          "Capture 1 de cada: Chefe, Contra o Tempo, Menos Níveis e Menos Dinheiro."
+        ]
+      }
+    },
+    "147": {
+      "guia": {
+        "passos": [
+          "Tenha 75 bônus ativos nos seus macacos ao mesmo tempo."
+        ]
+      }
+    },
+    "146": {
+      "guia": {
+        "passos": [
+          "Complete uma missão."
+        ]
+      }
+    },
+    "148": {
+      "guia": {
+        "passos": [
+          "Ganhe 150.000 de XP de Domador de Feras."
+        ]
+      }
+    },
+    "149": {
+      "guia": {
+        "passos": [
+          "Ganhe 5.368.709 de experiência em qualquer torre."
+        ]
+      }
+    },
+    "151": {
+      "guia": {
+        "passos": [
+          "Invista pelo menos $401.626 a mais ao criar qualquer Paragon."
+        ]
+      }
+    },
+    "152": {
+      "guia": {
+        "passos": [
+          "Derrote 5 Chefes diferentes no Nível 5 (vale Evento de Chefe ou Modo Desafio)."
+        ]
+      }
+    },
+    "153": {
+      "guia": {
+        "passos": [
+          "Vença 100 criações diferentes da comunidade (desafios, odisseias, mapas)."
+        ]
+      }
+    },
+    "154": {
+      "guia": {
+        "passos": [
+          "Basicamente fez um NAPSFRILLS."
+        ],
+        "dicas": [
+          "Conquista secreta: vença um desafio de CHIMPS com restrições extremas (NAPSFRILLS)."
+        ]
+      }
+    },
+    "155": {
+      "guia": {
+        "passos": [
+          "Rima com Grug."
+        ],
+        "dicas": [
+          "Conquista secreta."
+        ]
+      }
+    },
+    "156": {
+      "guia": {
+        "passos": [
+          "Complete a missão do tutorial inicial."
+        ]
+      }
+    },
+    "157": {
+      "guia": {
+        "passos": [
+          "Alcance o Nível 1 em qualquer estágio de uma Temporada Social."
+        ]
+      }
+    },
+    "158": {
+      "guia": {
+        "passos": [
+          "Ganhe 7.500 estrelas em qualquer Temporada Social."
+        ]
+      }
     }
   }
 }

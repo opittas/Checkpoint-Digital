@@ -17,5 +17,427 @@
   "avisos": [
     "Precisa de servidores online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "GOAL_ID_1200": {
+      "guia": {
+        "passos": [
+          "10 eliminações duplas."
+        ]
+      }
+    },
+    "GOAL_ID_1211": {
+      "guia": {
+        "passos": [
+          "50 eliminações duplas."
+        ]
+      }
+    },
+    "GOAL_ID_1212": {
+      "guia": {
+        "passos": [
+          "100 eliminações duplas."
+        ]
+      }
+    },
+    "GOAL_ID_1213": {
+      "guia": {
+        "passos": [
+          "200 eliminações duplas."
+        ]
+      }
+    },
+    "GOAL_ID_1214": {
+      "guia": {
+        "passos": [
+          "400 eliminações duplas."
+        ]
+      }
+    },
+    "GOAL_ID_1201": {
+      "guia": {
+        "passos": [
+          "1 Campeão com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1202": {
+      "guia": {
+        "passos": [
+          "2 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1203": {
+      "guia": {
+        "passos": [
+          "3 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1204": {
+      "guia": {
+        "passos": [
+          "4 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1205": {
+      "guia": {
+        "passos": [
+          "5 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1206": {
+      "guia": {
+        "passos": [
+          "6 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1207": {
+      "guia": {
+        "passos": [
+          "7 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1208": {
+      "guia": {
+        "passos": [
+          "8 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1209": {
+      "guia": {
+        "passos": [
+          "9 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1210": {
+      "guia": {
+        "passos": [
+          "10 Campeões com maestria 5."
+        ]
+      }
+    },
+    "GOAL_ID_1215": {
+      "guia": {
+        "passos": [
+          "Sobreviva a mais de 50 batalhas com menos de 10% de vida."
+        ]
+      }
+    },
+    "GOAL_ID_1216": {
+      "guia": {
+        "passos": [
+          "Acerte 5 headshots na sequência, sem errar."
+        ]
+      }
+    },
+    "GOAL_ID_1217": {
+      "guia": {
+        "passos": [
+          "Jogue 5 horas em grupo com alguém da sua lista de amigos."
+        ]
+      }
+    },
+    "GOAL_ID_1218": {
+      "guia": {
+        "passos": [
+          "Jogue 10 horas em grupo com alguém da sua lista de amigos."
+        ]
+      }
+    },
+    "GOAL_ID_1219": {
+      "guia": {
+        "passos": [
+          "Jogue 25 horas em grupo com alguém da sua lista de amigos."
+        ]
+      }
+    },
+    "GOAL_ID_1220": {
+      "guia": {
+        "passos": [
+          "Jogue 100 horas em grupo com alguém da sua lista de amigos."
+        ]
+      }
+    },
+    "GOAL_ID_1221": {
+      "guia": {
+        "passos": [
+          "Jogue 250 horas em grupo com alguém da sua lista de amigos."
+        ]
+      }
+    },
+    "GOAL_ID_1222": {
+      "guia": {
+        "passos": [
+          "Jogue uma partida em grupo."
+        ]
+      }
+    },
+    "GOAL_ID_1223": {
+      "guia": {
+        "passos": [
+          "Jogue 10 partidas em grupo."
+        ]
+      }
+    },
+    "GOAL_ID_1224": {
+      "guia": {
+        "passos": [
+          "Jogue 20 partidas em grupo."
+        ]
+      }
+    },
+    "GOAL_ID_1225": {
+      "guia": {
+        "passos": [
+          "Jogue 50 partidas em grupo."
+        ]
+      }
+    },
+    "GOAL_ID_1226": {
+      "guia": {
+        "passos": [
+          "Jogue 100 partidas em grupo."
+        ]
+      }
+    },
+    "GOAL_ID_1227": {
+      "guia": {
+        "passos": [
+          "Você atingiu o nível 30 durante o beta de Paladins."
+        ],
+        "atencao": [
+          "Exclusiva do Beta: não é mais obtível."
+        ]
+      }
+    },
+    "GOAL_ID_1228": {
+      "guia": {
+        "passos": [
+          "Vença uma partida em que a equipe inimiga não faça nenhum ponto."
+        ]
+      }
+    },
+    "GOAL_ID_1229": {
+      "guia": {
+        "passos": [
+          "Cause dano a todos os Campeões inimigos em uma partida antes deles causarem a você."
+        ]
+      }
+    },
+    "GOAL_ID_1230": {
+      "guia": {
+        "passos": [
+          "Elimine um Campeão inimigo depois dele ter matado você."
+        ]
+      }
+    },
+    "GOAL_ID_1231": {
+      "guia": {
+        "passos": [
+          "Mate mais de 20 Campeões inimigos em uma única partida."
+        ]
+      }
+    },
+    "GOAL_ID_1246": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial de Paladins."
+        ]
+      }
+    },
+    "GOAL_ID_1256": {
+      "guia": {
+        "passos": [
+          "Elimine um jogador que está em uma sequência de 15 eliminações ou mais."
+        ]
+      }
+    },
+    "GOAL_ID_1340": {
+      "guia": {
+        "passos": [
+          "Elimine um jogador no ar a mais de 100 unidades de altura do chão."
+        ]
+      }
+    },
+    "GOAL_ID_1250": {
+      "guia": {
+        "passos": [
+          "Acerte um golpe fatal depois do final da rodada."
+        ]
+      }
+    },
+    "GOAL_ID_1251": {
+      "guia": {
+        "passos": [
+          "Morra vítima de uma armadilha do cenário."
+        ]
+      }
+    },
+    "GOAL_ID_1257": {
+      "guia": {
+        "passos": [
+          "Cause mais de 100.000 pontos de dano durante uma partida."
+        ]
+      }
+    },
+    "GOAL_ID_1249": {
+      "guia": {
+        "passos": [
+          "Seja o único jogador vivo numa partida."
+        ]
+      }
+    },
+    "GOAL_ID_1248": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 100 cartas."
+        ]
+      }
+    },
+    "GOAL_ID_1255": {
+      "guia": {
+        "passos": [
+          "Elimine um jogador inimigo enquanto você tem 50 ou menos de vida."
+        ]
+      }
+    },
+    "GOAL_ID_1252": {
+      "guia": {
+        "passos": [
+          "Elimine um jogador usando uma armadilha do cenário."
+        ]
+      }
+    },
+    "GOAL_ID_1253": {
+      "guia": {
+        "passos": [
+          "Elimine um jogador a uma distância de 300 unidades."
+        ]
+      }
+    },
+    "GOAL_ID_1366": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o modo Competitivo."
+        ]
+      }
+    },
+    "GOAL_ID_1369": {
+      "guia": {
+        "passos": [
+          "Bloqueie mais de 100.000 de dano durante uma partida."
+        ]
+      }
+    },
+    "GOAL_ID_1368": {
+      "guia": {
+        "passos": [
+          "Cure mais de 100.000 de vida durante uma partida."
+        ]
+      }
+    },
+    "GOAL_ID_1415": {
+      "guia": {
+        "passos": [
+          "Receba a recompensa diária por 7 dias consecutivos."
+        ],
+        "dicas": [
+          "Entre no jogo 7 dias seguidos para pegar a recompensa diária."
+        ]
+      }
+    },
+    "GOAL_ID_1416": {
+      "guia": {
+        "passos": [
+          "Monte seu baralho personalizado."
+        ]
+      }
+    },
+    "GOAL_ID_1409": {
+      "guia": {
+        "passos": [
+          "Dispute 300 partidas."
+        ]
+      }
+    },
+    "GOAL_ID_1413": {
+      "guia": {
+        "passos": [
+          "Ganhe mais de 500.000 em ouro durante seu histórico de jogo."
+        ]
+      }
+    },
+    "GOAL_ID_1414": {
+      "guia": {
+        "passos": [
+          "Ganhe mais de 1.000.000 em ouro durante todo o seu histórico de jogo."
+        ]
+      }
+    },
+    "GOAL_ID_1394": {
+      "guia": {
+        "passos": [
+          "Consiga 20 mortes em sequência em uma partida."
+        ]
+      }
+    },
+    "GOAL_ID_1395": {
+      "guia": {
+        "passos": [
+          "Gaste mais de 100.000 créditos na Loja após suas partidas."
+        ]
+      }
+    },
+    "GOAL_ID_1418": {
+      "guia": {
+        "passos": [
+          "Alcance o nível Mestre no Competitivo."
+        ],
+        "atencao": [
+          "Mestre no Ranqueado é um dos ranks mais altos; muito difícil."
+        ]
+      }
+    },
+    "GOAL_ID_1417": {
+      "guia": {
+        "passos": [
+          "Tenha a conta de Paladins há mais de 1 ano."
+        ],
+        "dicas": [
+          "Só esperar: conta com mais de 1 ano."
+        ]
+      }
+    },
+    "GOAL_ID_1410": {
+      "guia": {
+        "passos": [
+          "Ao ter mais de 30 Campeões no nível 10 ou acima."
+        ]
+      }
+    },
+    "GOAL_ID_1411": {
+      "guia": {
+        "passos": [
+          "Ao ter mais de 30 Campeões no nível 15 ou acima."
+        ]
+      }
+    },
+    "GOAL_ID_1412": {
+      "guia": {
+        "passos": [
+          "Ao ter mais de 30 Campeões no nível 20 ou acima."
+        ],
+        "dicas": [
+          "Maestria 20 em 30 campeões exige centenas de horas."
+        ]
+      }
+    }
+  }
 }

@@ -11,5 +11,434 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "NO_DAMAGE_BOSS_WORLD1": {
+      "guia": {
+        "passos": [
+          "Derrote O Chefe 1 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_BOSS_WORLD2": {
+      "guia": {
+        "passos": [
+          "Derrote O Chefe 2 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_BOSS_WORLD3": {
+      "guia": {
+        "passos": [
+          "Derrote O Chefe 3 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_BOSS_WORLD4": {
+      "guia": {
+        "passos": [
+          "Derrote O Chefe 4 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_BOSS_WORLD5": {
+      "guia": {
+        "passos": [
+          "Derrote O Chefe 5 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_BOSS_WORLD6": {
+      "guia": {
+        "passos": [
+          "Derrote O Chefe 6 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_BOSS_WORLD7": {
+      "guia": {
+        "passos": [
+          "Derrote O Chefe 7 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "MINECARD_GOD": {
+      "guia": {
+        "passos": [
+          "Pegar Todas Moedas Nos Trilhos Do Carrinho."
+        ],
+        "dicas": [
+          "Na fase de carrinho de mina, pegue todas as moedas; repita a fase se perder alguma."
+        ]
+      }
+    },
+    "NO_DAMAGE_MINIBOSS1": {
+      "guia": {
+        "passos": [
+          "Derrote O Subchefe 1 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_MINIBOSS2": {
+      "guia": {
+        "passos": [
+          "Derrote O Subchefe 2 Sem Tomar Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_MINIBOSS3": {
+      "guia": {
+        "passos": [
+          "Derrote O Subchefe 3 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_MINIBOSS4": {
+      "guia": {
+        "passos": [
+          "Derrote O Subchefe 4 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_MINIBOSS5": {
+      "guia": {
+        "passos": [
+          "Derrote O Subchefe 5 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NO_DAMAGE_MINIBOSS6": {
+      "guia": {
+        "passos": [
+          "Derrote O Subchefe 6 Sem Sofrer Dano."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1": {
+      "guia": {
+        "passos": [
+          "Termine a fase 1."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2": {
+      "guia": {
+        "passos": [
+          "Termine a fase 2."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_3": {
+      "guia": {
+        "passos": [
+          "Termine a fase 3."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4": {
+      "guia": {
+        "passos": [
+          "Termine a fase 4."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_5": {
+      "guia": {
+        "passos": [
+          "Termine a fase 5."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_6": {
+      "guia": {
+        "passos": [
+          "Termine a fase 6."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_7": {
+      "guia": {
+        "passos": [
+          "Termine a fase 7."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_8": {
+      "guia": {
+        "passos": [
+          "Termine a fase 8."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_9": {
+      "guia": {
+        "passos": [
+          "Termine o epílogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_10": {
+      "guia": {
+        "passos": [
+          "Derrote o sub-chefe da fase 1."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_11": {
+      "guia": {
+        "passos": [
+          "Derrote o sub-chefe da fase 2."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_12": {
+      "guia": {
+        "passos": [
+          "Derrote o sub-chefe da fase 3."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_13": {
+      "guia": {
+        "passos": [
+          "Derrote o sub-chefe da fase 4."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_14": {
+      "guia": {
+        "passos": [
+          "Derrote o sub-chefe da fase 5."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_15": {
+      "guia": {
+        "passos": [
+          "Derrote o sub-chefe da fase 6."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_16": {
+      "guia": {
+        "passos": [
+          "Derrote o Terrível Vilão."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_17": {
+      "guia": {
+        "passos": [
+          "Derrote o sub-chefe do epílogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_18": {
+      "guia": {
+        "passos": [
+          "Obtenha a Bola de fogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_19": {
+      "guia": {
+        "passos": [
+          "Obtenha a poção de invisibilidade."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_20": {
+      "guia": {
+        "passos": [
+          "Obtenha o pergaminho do escudo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_21": {
+      "guia": {
+        "passos": [
+          "Obtenha o dash."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_22": {
+      "guia": {
+        "passos": [
+          "Obtenha o pulo duplo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_23": {
+      "guia": {
+        "passos": [
+          "Obtenha o gancho."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_24": {
+      "guia": {
+        "passos": [
+          "Obtenha o bumerangue."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_25": {
+      "guia": {
+        "passos": [
+          "Colete 9999 moedas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_26": {
+      "guia": {
+        "passos": [
+          "Mate 200 inimigos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_27": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_28": {
+      "guia": {
+        "passos": [
+          "Colete todos os pedaços de coração."
+        ],
+        "dicas": [
+          "Volte a fases antigas com novas habilidades para alcançar os corações."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_29": {
+      "guia": {
+        "passos": [
+          "Colete todos os pedaços de energia."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_30": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as técnicas de espada."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_31": {
+      "guia": {
+        "passos": [
+          "Colete todas as notas musicais."
+        ],
+        "dicas": [
+          "As notas musicais ficam espalhadas pelas fases; algumas em áreas secretas que exigem habilidades posteriores."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_32": {
+      "guia": {
+        "passos": [
+          "Colete metade das notas musicais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_33": {
+      "guia": {
+        "passos": [
+          "Sobreviva a pedra rolante."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_34": {
+      "guia": {
+        "passos": [
+          "Resolva o enigma  da piramide."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_35": {
+      "guia": {
+        "passos": [
+          "Ande de carrinho pela primeira vez."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_36": {
+      "guia": {
+        "passos": [
+          "Mate 20 inimigos no furacão."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_37": {
+      "guia": {
+        "passos": [
+          "Mate todos os inimigos na avalanche."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_38": {
+      "guia": {
+        "passos": [
+          "Utilize uma caixa para deslizar sobre os precipícios."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_39": {
+      "guia": {
+        "passos": [
+          "Abrir o Baú Congelado."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_40": {
+      "guia": {
+        "passos": [
+          "Vire um Super-herói."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_41": {
+      "guia": {
+        "passos": [
+          "Sobreviva aos asteroides."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_42": {
+      "guia": {
+        "passos": [
+          "Faça carinho no cachorro."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_43": {
+      "guia": {
+        "passos": [
+          "Replique O Pulo Da Aventureira."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_44": {
+      "guia": {
+        "passos": [
+          "Colete as letras do Heroi."
+        ],
+        "dicas": [
+          "As letras H, E, R, O ficam escondidas nas fases."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_45": {
+      "guia": {
+        "passos": [
+          "Encontre o último local inútil escondido."
+        ],
+        "dicas": [
+          "O jogo tem vários 'pontos inúteis' escondidos como piada; procure paredes falsas e cantos."
+        ]
+      }
+    }
+  }
 }

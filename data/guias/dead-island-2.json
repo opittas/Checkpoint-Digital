@@ -1,0 +1,453 @@
+{
+  "resumo": "",
+  "roadmap": [],
+  "avisos": [],
+  "conquistas": {
+    "ach_welcome_to_hell_a": {
+      "guia": {
+        "passos": [
+          "Sobreviva a um acidente de avião, receba uma mordida e crie sua primeira Zona Livre de Zumbis."
+        ]
+      }
+    },
+    "ach_hotel_california": {
+      "guia": {
+        "passos": [
+          "Lute pelo Hotel Halperin para fazer contato com as autoridades."
+        ]
+      }
+    },
+    "ach_star_performance": {
+      "guia": {
+        "passos": [
+          "Encontre o Michael e resgate-o do terror do Monarch Studios."
+        ]
+      }
+    },
+    "ach_ammo_ran": {
+      "guia": {
+        "passos": [
+          "Una forças com Sam B e consiga algumas armas."
+        ]
+      }
+    },
+    "ach_her_name_was_lola": {
+      "guia": {
+        "passos": [
+          "Encontre uma… benfeitora misteriosa? Bom, é assim que ela se refere a si própria."
+        ]
+      }
+    },
+    "ach_a_day_in_the_beach": {
+      "guia": {
+        "passos": [
+          "Sobreviva aos vários perigos de Venice Beach e encontre o Dr. Reed no Hotel Serling."
+        ]
+      }
+    },
+    "ach_doctor_i_am_butcho": {
+      "guia": {
+        "passos": [
+          "Elimine um palhaço assassino e leve a amostra do seu sangue para o Dr. Reed."
+        ]
+      }
+    },
+    "ach_fetch_me_a_tisha": {
+      "guia": {
+        "passos": [
+          "Descubra a verdade sobre o que você é quando segredos sombrios forem revelados."
+        ]
+      }
+    },
+    "ach_get_to_the_chopper": {
+      "guia": {
+        "passos": [
+          "Encontre o Patton e convença-o a te tirar de Los Angeles de helicóptero."
+        ]
+      }
+    },
+    "ach_metropolitan": {
+      "guia": {
+        "passos": [
+          "Sobreviva ao sistema de Metrô e chegue à Hollywood Boulevard."
+        ]
+      }
+    },
+    "ach_thesacrifice": {
+      "guia": {
+        "passos": [
+          "Desista da sua chance de voltar a ser humano."
+        ],
+        "dicas": [
+          "Escolha final (DLC Haus): salve antes da decisão."
+        ]
+      }
+    },
+    "ach_the_vcla": {
+      "guia": {
+        "passos": [
+          "Reúna todos os Bobcats da VCLA."
+        ]
+      }
+    },
+    "ach_ayeaye_captain_vixen": {
+      "guia": {
+        "passos": [
+          "Ajude a Sarah e o Sebastian a ligar o farol da esperança."
+        ]
+      }
+    },
+    "ach_magnum_opus": {
+      "guia": {
+        "passos": [
+          "Ajude uma artista a concluir sua maior (e mais macabra) obra de arte."
+        ]
+      }
+    },
+    "ach_internet_famous": {
+      "guia": {
+        "passos": [
+          "Conclua as missões para atrair cliques da Amanda. Você não vai acreditar no que acontece no final!"
+        ]
+      }
+    },
+    "ach_a_taste_of_stardom": {
+      "guia": {
+        "passos": [
+          "Conclua 10 missões que não sejam da história."
+        ]
+      }
+    },
+    "ach_well_known_survivor": {
+      "guia": {
+        "passos": [
+          "Conclua 20 missões que não sejam da história."
+        ]
+      }
+    },
+    "ach_big_name_in_town": {
+      "guia": {
+        "passos": [
+          "Conclua 40 missões que não sejam da história."
+        ]
+      }
+    },
+    "ach_legendary": {
+      "guia": {
+        "passos": [
+          "Encontre sua primeira arma lendária."
+        ]
+      }
+    },
+    "ach_knowledgeable": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os tipos de zumbis na Zumbipédia."
+        ],
+        "dicas": [
+          "Alguns tipos aparecem só em áreas ou DLCs específicos."
+        ]
+      }
+    },
+    "ach_contender": {
+      "guia": {
+        "passos": [
+          "Conclua a primeiro categoria de todos os desafios de zumbis."
+        ]
+      }
+    },
+    "ach_weapon_wrangler": {
+      "guia": {
+        "passos": [
+          "Conclua a primeira categoria de todos os desafios de arma."
+        ]
+      }
+    },
+    "ach_well_trained": {
+      "guia": {
+        "passos": [
+          "Conclua a primeira categoria de todos os desafios de combate."
+        ]
+      }
+    },
+    "ach_survival_expert": {
+      "guia": {
+        "passos": [
+          "Conclua a primeira categoria de todos os desafios de sobreviventes."
+        ]
+      }
+    },
+    "ach_explorer": {
+      "guia": {
+        "passos": [
+          "Conclua a primeira categoria de todos os desafios de exploração."
+        ]
+      }
+    },
+    "ach_secrets_of_la": {
+      "guia": {
+        "passos": [
+          "Conclua 5 missões de armas de Achados e Perdidos."
+        ]
+      }
+    },
+    "ach_investigator": {
+      "guia": {
+        "passos": [
+          "Conclua 9 missões de pessoas desaparecidas de Achados e Perdidos."
+        ]
+      }
+    },
+    "ach_jumbo_keyring": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 10 cofres."
+        ]
+      }
+    },
+    "ach_bookworm": {
+      "guia": {
+        "passos": [
+          "Colete 50 diários."
+        ]
+      }
+    },
+    "ach_skilled_up": {
+      "guia": {
+        "passos": [
+          "Colete 30 cartas de habilidade."
+        ]
+      }
+    },
+    "ach_mind_over_monster": {
+      "guia": {
+        "passos": [
+          "Equipe sua primeira carta de habilidade de nume."
+        ]
+      }
+    },
+    "ach_survival_of_the_fittest": {
+      "guia": {
+        "passos": [
+          "Chegue no nível 30."
+        ]
+      }
+    },
+    "ach_salvation": {
+      "guia": {
+        "passos": [
+          "Chegue à categoria mais alta da infecção de autofagia equipando as habilidades de autofagia."
+        ]
+      }
+    },
+    "ach_anger_management": {
+      "guia": {
+        "passos": [
+          "Elimine 50 zumbis com ataques de Fúria."
+        ]
+      }
+    },
+    "ach_this_is_my_weapon": {
+      "guia": {
+        "passos": [
+          "Melhore 100% uma arma superior e personalize-a com um modificador ou vantagem em todos os espaços."
+        ]
+      }
+    },
+    "ach_good_eyesight": {
+      "guia": {
+        "passos": [
+          "Elimine um Mutante antes que se transforme."
+        ]
+      }
+    },
+    "ach_hazardous_materials": {
+      "guia": {
+        "passos": [
+          "Elimine 100 zumbis usando dano Cáustico, de Fogo ou Choque."
+        ]
+      }
+    },
+    "ach_break_a_leg": {
+      "guia": {
+        "passos": [
+          "Desmembre 100 membros."
+        ]
+      }
+    },
+    "ach_doom_buddies": {
+      "guia": {
+        "passos": [
+          "Conclua 5 missões cooperativas quaisquer."
+        ]
+      }
+    },
+    "ach_revival_tour": {
+      "guia": {
+        "passos": [
+          "Reviva outros caça-zumbis 5 vezes."
+        ]
+      }
+    },
+    "ach_finisher": {
+      "guia": {
+        "passos": [
+          "Elimine 25 zumbis usando golpes finalizadores."
+        ]
+      }
+    },
+    "ach_blueprinted": {
+      "guia": {
+        "passos": [
+          "Conclua 5 desafios de esquemas."
+        ]
+      }
+    },
+    "ach_impressive_aim": {
+      "guia": {
+        "passos": [
+          "Arremesse uma arma branca e acerte um zumbi a 35 metros ou mais de distância."
+        ]
+      }
+    },
+    "ach_knock_down": {
+      "guia": {
+        "passos": [
+          "Derrube 10 Supervariantes."
+        ]
+      }
+    },
+    "ach_defensive": {
+      "guia": {
+        "passos": [
+          "Execute 25 movimentos defensivos perfeitos."
+        ]
+      }
+    },
+    "ach_brink_of_success": {
+      "guia": {
+        "passos": [
+          "Presente de Konstantin recebido."
+        ],
+        "dicas": [
+          "Conteúdo do DLC Haus."
+        ]
+      }
+    },
+    "ach_pork_chops": {
+      "guia": {
+        "passos": [
+          "Derrote Long Piglet."
+        ],
+        "dicas": [
+          "Chefe do DLC Haus."
+        ]
+      }
+    },
+    "ach_dark_magic": {
+      "guia": {
+        "passos": [
+          "Conclua os Ritos de Passagem na Haus."
+        ],
+        "dicas": [
+          "DLC Haus."
+        ]
+      }
+    },
+    "ach_this_is_deeper_v2": {
+      "guia": {
+        "passos": [
+          "Mande 15 zumbis para os poços sem fundo."
+        ]
+      }
+    },
+    "ach_zombie_predator": {
+      "guia": {
+        "passos": [
+          "Execute cinco acertos na cabeça com a Besta rapidamente e em sequência."
+        ]
+      }
+    },
+    "ach_gardening_tools": {
+      "guia": {
+        "passos": [
+          "Desmembre 10 zumbis com ferramentas de jardinagem na grama alta da rua sem saída."
+        ]
+      }
+    },
+    "ach_that_was_close": {
+      "guia": {
+        "passos": [
+          "Derrote o Lamento e silencie o Som."
+        ],
+        "dicas": [
+          "Conteúdo do DLC SoLA (festival)."
+        ]
+      }
+    },
+    "ach_helping_out": {
+      "guia": {
+        "passos": [
+          "Reprima o Som para ajudar a acalmar Grace."
+        ],
+        "dicas": [
+          "Conteúdo do DLC SoLA (festival)."
+        ]
+      }
+    },
+    "ach_whoops_did_i_do_that": {
+      "guia": {
+        "passos": [
+          "Sobreviva ao primeiro encontro com um Coagulador."
+        ],
+        "dicas": [
+          "Inimigo do DLC SoLA."
+        ]
+      }
+    },
+    "ach_strike": {
+      "guia": {
+        "passos": [
+          "Acerte 5 zumbis com o aríete em uma única investida."
+        ]
+      }
+    },
+    "ach_rippin_and_sawin": {
+      "guia": {
+        "passos": [
+          "Mate 5 zumbis com um Estraçalhador sobrecarregado e corte mais 5 com um Lançador de Serras."
+        ]
+      }
+    },
+    "ach_im_doing_my_part": {
+      "guia": {
+        "passos": [
+          "Limpe o enorme derramamento de Caustic X em Utopia."
+        ],
+        "dicas": [
+          "Conteúdo do DLC SoLA (festival)."
+        ]
+      }
+    },
+    "ach_complete_ngplus": {
+      "guia": {
+        "passos": [
+          "Conclua as Missões da História em NJ+. Nenhuma marmota foi ferida na realização desta conquista."
+        ],
+        "dicas": [
+          "Inicie o New Game+ após a história e refaça as missões principais."
+        ]
+      }
+    },
+    "ach_revenant_slayer": {
+      "guia": {
+        "passos": [
+          "Mate todas as 10 Aparições em NJ+."
+        ],
+        "dicas": [
+          "Revenants aparecem no NG+ pelo mapa; ficam marcados após missões."
+        ]
+      }
+    }
+  }
+}

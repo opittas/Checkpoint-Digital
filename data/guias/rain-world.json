@@ -21,5 +21,425 @@
   "avisos": [
     "É um jogo propositalmente cruel."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "PassageSurvivor": {
+      "guia": {
+        "passos": [
+          "Esta terra se tornou seu lar."
+        ],
+        "dicas": [
+          "Jogue ciclos seguidos sem morrer até a barra de karma ficar alta (Sobrevivente é a primeira passagem)."
+        ]
+      }
+    },
+    "PassageHunter": {
+      "guia": {
+        "passos": [
+          "Caminho do carnívoro."
+        ],
+        "dicas": [
+          "Coma criaturas (carne) em vários ciclos."
+        ]
+      }
+    },
+    "PassageMonk": {
+      "guia": {
+        "passos": [
+          "Caminho do vegetariano."
+        ],
+        "dicas": [
+          "Coma só frutas e plantas por vários ciclos."
+        ]
+      }
+    },
+    "PassageSaint": {
+      "guia": {
+        "passos": [
+          "Caminho do pacifista."
+        ],
+        "dicas": [
+          "Passe vários ciclos sem matar nenhuma criatura."
+        ]
+      }
+    },
+    "PassageOutlaw": {
+      "guia": {
+        "passos": [
+          "Caminho da agressão."
+        ],
+        "dicas": [
+          "Mate muitas criaturas, principalmente perigosas."
+        ]
+      }
+    },
+    "PassageDragonSlayer": {
+      "guia": {
+        "passos": [
+          "Predador se tornou presa."
+        ],
+        "dicas": [
+          "Mate lagartos de 6 tipos diferentes."
+        ]
+      }
+    },
+    "PassageChieftain": {
+      "guia": {
+        "passos": [
+          "Acolhido por uma nova tribo."
+        ],
+        "dicas": [
+          "Dê presentes (pérolas, itens) aos Scavengers até ganhar a reputação deles."
+        ]
+      }
+    },
+    "PassageTraveller": {
+      "guia": {
+        "passos": [
+          "Suas viagens o levaram para longe."
+        ],
+        "dicas": [
+          "Visite todas as regiões do mapa."
+        ]
+      }
+    },
+    "PassageScholar": {
+      "guia": {
+        "passos": [
+          "Lições de História."
+        ],
+        "dicas": [
+          "Leve pérolas para a Looks to the Moon ler."
+        ]
+      }
+    },
+    "PassageFriend": {
+      "guia": {
+        "passos": [
+          "Não é preciso viajar sozinho."
+        ],
+        "dicas": [
+          "Domestique um lagarto dando comida a ele várias vezes."
+        ]
+      }
+    },
+    "GhostCC": {
+      "guia": {
+        "passos": [
+          "Você encontrou o eco de Dezenove Espadas, Reflexos Infinitos."
+        ],
+        "dicas": [
+          "Eco em Chimney Canopy; exige karma alto."
+        ]
+      }
+    },
+    "GhostSI": {
+      "guia": {
+        "passos": [
+          "Você encontrou o eco de Gotas sobre Cinco Grandes Gotas."
+        ],
+        "dicas": [
+          "Eco em Sky Islands."
+        ]
+      }
+    },
+    "GhostLF": {
+      "guia": {
+        "passos": [
+          "Você encontrou o eco de Um Sino, Dezoito Continhas de Âmbar."
+        ],
+        "dicas": [
+          "Eco em Farm Arrays."
+        ]
+      }
+    },
+    "GhostSH": {
+      "guia": {
+        "passos": [
+          "Você encontrou o eco de Quatro Agulhas sob Folhas Abundantes."
+        ],
+        "dicas": [
+          "Eco em Shaded Citadel."
+        ]
+      }
+    },
+    "GhostUW": {
+      "guia": {
+        "passos": [
+          "Você encontrou o eco de Seis Grãos de Cascalho, Abundância de Montanhas."
+        ],
+        "dicas": [
+          "Eco em The Exterior."
+        ]
+      }
+    },
+    "GhostSB": {
+      "guia": {
+        "passos": [
+          "Você encontrou o eco de Dois Brotos, Doze Hastes."
+        ],
+        "dicas": [
+          "Eco em Subterranean."
+        ]
+      }
+    },
+    "AllGhostsEncountered": {
+      "guia": {
+        "passos": [
+          "A mais elevada iluminação, alcançada por meio do caminho mais árduo. Um feito que até mesmo os guardiões devem respeitar."
+        ],
+        "dicas": [
+          "Encontre todos os ecos."
+        ]
+      }
+    },
+    "MoonEncounterBad": {
+      "guia": {
+        "passos": [
+          "Um ganho considerável, mas a que custo?"
+        ],
+        "dicas": [
+          "Na câmara da Looks to the Moon, interaja de forma agressiva com ela (rota ruim)."
+        ]
+      }
+    },
+    "MoonEncounterGood": {
+      "guia": {
+        "passos": [
+          "Você não é a única alma perdida neste mundo..."
+        ],
+        "dicas": [
+          "Visite a Looks to the Moon e entregue o neurônio que encontrar."
+        ]
+      }
+    },
+    "PebblesEncounter": {
+      "guia": {
+        "passos": [
+          "\"Vá para o oeste, para além dos Conjuntos Agrários, e então desça profundamente terra adentro...\"."
+        ],
+        "dicas": [
+          "Chegue à estrutura de Five Pebbles e fale com ele."
+        ]
+      }
+    },
+    "Win": {
+      "guia": {
+        "passos": [
+          "Você deixou este mundo para trás."
+        ],
+        "dicas": [
+          "Siga a rota de Five Pebbles e desça até o Void Sea no Depths."
+        ]
+      }
+    },
+    "HunterPayload": {
+      "guia": {
+        "passos": [
+          "Um último ato beneficente."
+        ],
+        "dicas": [
+          "Hunter: entregue o neurônio verde para a Looks to the Moon."
+        ]
+      }
+    },
+    "HunterWin": {
+      "guia": {
+        "passos": [
+          "Você encontrou outra forma de sair."
+        ],
+        "dicas": [
+          "Hunter: ache outro final antes do tempo do personagem acabar."
+        ]
+      }
+    },
+    "GourmandEnding": {
+      "guia": {
+        "passos": [
+          "Você voltou após fazer o reconhecimento de um novo terreno."
+        ],
+        "dicas": [
+          "Downpour: final do Gourmand."
+        ]
+      }
+    },
+    "ArtificerEnding": {
+      "guia": {
+        "passos": [
+          "Você está pagando o preço da sua jornada."
+        ],
+        "dicas": [
+          "Downpour: final da Artificer."
+        ]
+      }
+    },
+    "RivuletEnding": {
+      "guia": {
+        "passos": [
+          "Os destinos foram invertidos."
+        ],
+        "dicas": [
+          "Downpour: final do Rivulet."
+        ]
+      }
+    },
+    "SpearmasterEnding": {
+      "guia": {
+        "passos": [
+          "Você entregou sua mensagem mais importante."
+        ],
+        "dicas": [
+          "Downpour: final do Spearmaster."
+        ]
+      }
+    },
+    "SaintEnding": {
+      "guia": {
+        "passos": [
+          "Tudo tem um fim."
+        ],
+        "dicas": [
+          "Downpour: final do Saint."
+        ]
+      }
+    },
+    "ChallengeMode": {
+      "guia": {
+        "passos": [
+          "Você concluiu todos os desafios que lhe foram apresentados."
+        ],
+        "dicas": [
+          "Downpour: termine todos os desafios."
+        ]
+      }
+    },
+    "Quests": {
+      "guia": {
+        "passos": [
+          "Você concluiu todas as expedições que lhe foram apresentadas."
+        ],
+        "dicas": [
+          "Downpour: complete todas as expedições."
+        ]
+      }
+    },
+    "PassageMartyr": {
+      "guia": {
+        "passos": [
+          "Caminho do autossacrifício."
+        ]
+      }
+    },
+    "PassageNomad": {
+      "guia": {
+        "passos": [
+          "Grandes avanços foram feitos."
+        ]
+      }
+    },
+    "PassagePilgrim": {
+      "guia": {
+        "passos": [
+          "Ouviu a conflação dos ecos."
+        ]
+      }
+    },
+    "PassageMother": {
+      "guia": {
+        "passos": [
+          "Seguiu seus instintos maternais."
+        ]
+      }
+    },
+    "WarpPoint": {
+      "guia": {
+        "passos": [
+          "Sem Rumo."
+        ]
+      }
+    },
+    "BadWarp": {
+      "guia": {
+        "passos": [
+          "Destino Errado."
+        ]
+      }
+    },
+    "AncientUrban": {
+      "guia": {
+        "passos": [
+          "Imagens do Passado."
+        ]
+      }
+    },
+    "SpinningTopEnding": {
+      "guia": {
+        "passos": [
+          "Gira Pião."
+        ]
+      }
+    },
+    "RotPrince": {
+      "guia": {
+        "passos": [
+          "Florescimento."
+        ]
+      }
+    },
+    "RotPrinceEnding": {
+      "guia": {
+        "passos": [
+          "O Príncipe."
+        ]
+      }
+    },
+    "RippleDimension": {
+      "guia": {
+        "passos": [
+          "Ondulação útil."
+        ]
+      }
+    },
+    "RippleCreature": {
+      "guia": {
+        "passos": [
+          "Nadadores e flutuadores sem cérebro."
+        ]
+      }
+    },
+    "VoidWeaver": {
+      "guia": {
+        "passos": [
+          "O Tecedor."
+        ]
+      }
+    },
+    "WeaverAbility": {
+      "guia": {
+        "passos": [
+          "Um caminho. Um propósito."
+        ]
+      }
+    },
+    "VoidWeaverEnding": {
+      "guia": {
+        "passos": [
+          "Uma compreensão."
+        ]
+      }
+    },
+    "PearlReader": {
+      "guia": {
+        "passos": [
+          "Imagens e sons."
+        ]
+      }
+    },
+    "WatcherAscension": {
+      "guia": {
+        "passos": [
+          "A Escolha."
+        ]
+      }
+    }
+  }
 }

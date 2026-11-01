@@ -152,6 +152,7 @@ ao fim da lista:
   "year": 2026,
   "steam_appid": 4115450,
   "platforms": ["ps", "steam"],
+  "consoles": ["PS5", "PC"],
   "labels": { "ps": "", "steam": "" },
   "difficulty": null,
   "hours": null,
@@ -173,6 +174,11 @@ Regras:
   (`store.steampowered.com/app/<número>`), só se você abriu essa página. Se não achar,
   use `null`: o workflow procura o jogo na Steam pelo nome exato.
 - **platforms:** só as plataformas confirmadas pelas fontes (`xbox`, `ps`, `nin`, `steam`).
+- **consoles:** os aparelhos específicos confirmados, nesta ordem e com estes nomes:
+  `PS5`, `PS4`, `PS3`, `PS Vita`, `Xbox Series X|S`, `Xbox One`, `Xbox 360`,
+  `Nintendo Switch 2`, `Nintendo Switch`, `Wii U`, `Nintendo 3DS`, `Game Boy Advance`,
+  `PC`, `iOS/Android` (ou `iOS`). `Nintendo Switch 2` só para versão nativa ou Switch 2 Edition.
+  Tem que bater com `platforms`: cada família listada lá precisa de pelo menos um console aqui.
 - **mode:** `conquistas` se o jogo sai em Xbox, PlayStation ou PC; `sem-conquistas` se
   sai só em consoles Nintendo (eles não têm conquistas oficiais).
 - **difficulty**, **hours**, **playthroughs:** `null` (são preenchidos quando alguém

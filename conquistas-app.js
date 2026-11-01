@@ -157,12 +157,31 @@ const CK = (function () {
     return h + '</span>';
   }
   const PLAT = { xbox: 'Xbox', ps: 'PlayStation', nin: 'Nintendo', steam: 'Steam' };
+  // Família (xbox/ps/nin/steam) de cada console de jogos.json → "consoles"
+  function consoleFam(c) {
+    if (/^PS/.test(c)) return 'ps';
+    if (/^Xbox/.test(c)) return 'xbox';
+    if (/Nintendo|Switch|Wii|Game Boy/.test(c)) return 'nin';
+    if (c === 'PC') return 'steam';
+    return 'mob';
+  }
+  // Mostra os consoles específicos (PS5, Xbox Series X|S, Nintendo Switch 2…);
+  // o selo da família (labels) vai no último console daquela família.
   function platBadges(j) {
-    return (j.platforms || []).map(pl => {
-      let lbl = (j.labels || {})[pl] || '';
-      if (isEN()) lbl = lbl.replace('Platina', 'Platinum').replace('Conquistas', 'Achievements')
-                         .replace('Sem conquistas', 'No achievements').replace('Checklist 100%', '100% checklist');
-      return `<span class="ck-plat ${pl}">${PLAT[pl]}${lbl ? ' · ' + lbl : ''}</span>`;
+    const traduz = lbl => isEN() ? lbl.replace('Platina', 'Platinum').replace('Conquistas', 'Achievements')
+      .replace('Sem conquistas', 'No achievements').replace('Checklist 100%', '100% checklist') : lbl;
+    const cs = j.consoles || [];
+    if (!cs.length) {
+      return (j.platforms || []).map(pl => {
+        const lbl = traduz((j.labels || {})[pl] || '');
+        return `<span class="ck-plat ${pl}">${PLAT[pl]}${lbl ? ' · ' + lbl : ''}</span>`;
+      }).join('');
+    }
+    return cs.map((c, i) => {
+      const f = consoleFam(c);
+      const ultimo = !cs.slice(i + 1).some(x => consoleFam(x) === f);
+      const lbl = ultimo ? traduz((j.labels || {})[f] || '') : '';
+      return `<span class="ck-plat ${f}">${esc(c)}${lbl ? ' · ' + esc(lbl) : ''}</span>`;
     }).join('');
   }
   function esc(s) {

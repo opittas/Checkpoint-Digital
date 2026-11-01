@@ -8,12 +8,22 @@
     "platforms": [
       "xbox",
       "ps",
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "PC"
     ],
     "labels": {
       "xbox": "",
       "ps": "",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "80–120h",
@@ -39,12 +49,22 @@
     "platforms": [
       "xbox",
       "ps",
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "PC"
     ],
     "labels": {
       "xbox": "",
       "ps": "",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "70–110h",
@@ -71,6 +91,11 @@
     "platforms": [
       "ps",
       "steam"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "PC"
     ],
     "labels": {
       "ps": "",
@@ -100,6 +125,10 @@
     "platforms": [
       "ps",
       "steam"
+    ],
+    "consoles": [
+      "PS5",
+      "PC"
     ],
     "labels": {
       "ps": "",
@@ -131,6 +160,10 @@
       "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "PC"
+    ],
     "labels": {
       "ps": "",
       "steam": ""
@@ -161,6 +194,15 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -195,6 +237,14 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -227,6 +277,11 @@
       "xbox",
       "steam"
     ],
+    "consoles": [
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "steam": ""
@@ -254,10 +309,18 @@
     "steam_appid": 1551360,
     "platforms": [
       "xbox",
+      "ps",
       "steam"
+    ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
     ],
     "labels": {
       "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -286,6 +349,11 @@
       "xbox",
       "ps",
       "steam"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -319,6 +387,11 @@
       "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -347,6 +420,9 @@
     "platforms": [
       "ps"
     ],
+    "consoles": [
+      "PS5"
+    ],
     "labels": {
       "ps": ""
     },
@@ -374,6 +450,11 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "Wii U"
+    ],
     "labels": {
       "nin": ""
     },
@@ -400,6 +481,10 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""
@@ -430,6 +515,12 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -465,6 +556,12 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -498,6 +595,12 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -529,6 +632,14 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -563,6 +674,14 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo Switch",
+      "Wii U",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -595,6 +714,12 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -630,6 +755,13 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -663,6 +795,13 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -693,6 +832,11 @@
       "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -720,10 +864,20 @@
     "year": 2024,
     "steam_appid": 2670630,
     "platforms": [
-      "steam"
+      "xbox",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 2,
     "hours": "30–50h",
@@ -745,9 +899,18 @@
     "year": 2022,
     "steam_appid": 648800,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -771,10 +934,23 @@
     "year": 2017,
     "steam_appid": 522470,
     "platforms": [
+      "xbox",
+      "ps",
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -799,10 +975,17 @@
     "year": 2014,
     "steam_appid": 288160,
     "platforms": [
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 2,
     "hours": "3–5h",
@@ -826,12 +1009,21 @@
     "platforms": [
       "xbox",
       "ps",
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
       "xbox": "",
       "ps": "",
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 6,
     "hours": "150h+",
@@ -857,6 +1049,13 @@
       "xbox",
       "ps",
       "steam"
+    ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "Xbox One",
+      "Xbox 360",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -888,6 +1087,10 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
       "steam": ""
     },
@@ -912,10 +1115,23 @@
     "year": 2017,
     "steam_appid": 291550,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "100h+",
@@ -938,10 +1154,25 @@
     "year": 2018,
     "steam_appid": 945360,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "20–40h",
@@ -963,9 +1194,20 @@
     "year": 2022,
     "steam_appid": 1938090,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 5,
@@ -992,6 +1234,14 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -1021,9 +1271,20 @@
     "year": 2023,
     "steam_appid": 1985810,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 6,
@@ -1048,6 +1309,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -1071,10 +1335,22 @@
     "year": 2018,
     "steam_appid": 444090,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "80h+",
@@ -1098,10 +1374,24 @@
     "year": 2023,
     "steam_appid": 2195250,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "60–100h",
@@ -1124,10 +1414,22 @@
     "year": 2018,
     "steam_appid": 813820,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "40–60h",
@@ -1150,6 +1452,9 @@
     "steam_appid": 853860,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -1178,6 +1483,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -1203,10 +1511,18 @@
     "year": 2012,
     "steam_appid": 218680,
     "platforms": [
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Wii U",
+      "Nintendo 3DS",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "15–25h",
@@ -1232,6 +1548,10 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
       "steam": ""
     },
@@ -1256,10 +1576,19 @@
     "year": 2017,
     "steam_appid": 607890,
     "platforms": [
-      "steam"
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "80–120h",
@@ -1284,6 +1613,10 @@
     "steam_appid": 425580,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
       "steam": ""
@@ -1310,6 +1643,9 @@
     "steam_appid": 2200780,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -1338,6 +1674,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -1361,9 +1700,16 @@
     "year": 2024,
     "steam_appid": 2835570,
     "platforms": [
+      "xbox",
       "steam"
     ],
+    "consoles": [
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -1388,9 +1734,19 @@
     "year": 2016,
     "steam_appid": 210970,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "PC",
+      "iOS"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 5,
@@ -1414,9 +1770,18 @@
     "year": 2024,
     "steam_appid": 2437170,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -1441,10 +1806,22 @@
     "year": 2015,
     "steam_appid": 304050,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "80h+",
@@ -1469,6 +1846,9 @@
     "steam_appid": 1187510,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -1497,6 +1877,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -1522,10 +1905,22 @@
     "year": 2017,
     "steam_appid": 433340,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "40–60h",
@@ -1549,10 +1944,25 @@
     "year": 2016,
     "steam_appid": 413150,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "PS Vita",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "100–150h",
@@ -1576,9 +1986,15 @@
     "year": 2014,
     "steam_appid": 238460,
     "platforms": [
+      "xbox",
       "steam"
     ],
+    "consoles": [
+      "Xbox 360",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -1603,10 +2019,16 @@
     "year": 2021,
     "steam_appid": 939400,
     "platforms": [
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 1,
     "hours": "2–3h",
@@ -1630,10 +2052,22 @@
     "year": 2025,
     "steam_appid": 3527290,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "20–40h",
@@ -1657,10 +2091,24 @@
     "year": 2017,
     "steam_appid": 312520,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 9,
     "hours": "50–100h",
@@ -1684,10 +2132,22 @@
     "year": 2019,
     "steam_appid": 621060,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "40–60h",
@@ -1711,6 +2171,9 @@
     "steam_appid": 2873080,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -1739,6 +2202,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -1764,10 +2230,22 @@
     "year": 2019,
     "steam_appid": 967050,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "10–15h",
@@ -1791,10 +2269,17 @@
     "year": 2022,
     "steam_appid": 1218210,
     "platforms": [
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "40–60h",
@@ -1819,6 +2304,9 @@
     "steam_appid": 2923300,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -1845,9 +2333,17 @@
     "year": 2018,
     "steam_appid": 840720,
     "platforms": [
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "PS Vita",
+      "PC"
+    ],
     "labels": {
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -1871,6 +2367,9 @@
     "steam_appid": 711810,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -1897,10 +2396,22 @@
     "year": 2020,
     "steam_appid": 1016920,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "30–50h",
@@ -1924,10 +2435,24 @@
     "year": 2017,
     "steam_appid": 346110,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "200h+",
@@ -1951,9 +2476,18 @@
     "year": 2017,
     "steam_appid": 578080,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 5,
@@ -1979,6 +2513,10 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
       "steam": ""
     },
@@ -2003,10 +2541,25 @@
     "year": 2023,
     "steam_appid": 2653790,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "1–2h",
@@ -2030,9 +2583,15 @@
     "year": 2009,
     "steam_appid": 550,
     "platforms": [
+      "xbox",
       "steam"
     ],
+    "consoles": [
+      "Xbox 360",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
       "steam": ""
     },
     "difficulty": 5,
@@ -2055,10 +2614,25 @@
     "year": 2021,
     "steam_appid": 1721470,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "10–20h",
@@ -2083,6 +2657,9 @@
     "steam_appid": 1625450,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2111,6 +2688,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -2136,10 +2716,17 @@
     "year": 2020,
     "steam_appid": 1102130,
     "platforms": [
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 1,
     "hours": "1h",
@@ -2163,9 +2750,19 @@
     "year": 2014,
     "steam_appid": 295790,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -2191,6 +2788,10 @@
     "steam_appid": 909080,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
       "steam": ""
@@ -2218,6 +2819,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -2243,10 +2847,17 @@
     "year": 2017,
     "steam_appid": 397900,
     "platforms": [
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 2,
     "hours": "20–30h",
@@ -2270,10 +2881,22 @@
     "year": 2011,
     "steam_appid": 620,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS3",
+      "Xbox 360",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "20–30h",
@@ -2297,6 +2920,9 @@
     "steam_appid": 389170,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2323,10 +2949,22 @@
     "year": 2016,
     "steam_appid": 397950,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 6,
     "hours": "10–20h",
@@ -2350,6 +2988,9 @@
     "steam_appid": 257750,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2378,6 +3019,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -2402,10 +3046,24 @@
     "year": 2013,
     "steam_appid": 221040,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "40–60h",
@@ -2429,6 +3087,9 @@
     "steam_appid": 934840,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2454,9 +3115,18 @@
     "year": 2010,
     "steam_appid": 8190,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS3",
+      "Xbox 360",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -2480,9 +3150,18 @@
     "year": 2012,
     "steam_appid": 102840,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS3",
+      "Xbox 360",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 5,
@@ -2507,10 +3186,22 @@
     "year": 2016,
     "steam_appid": 207140,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "30–50h",
@@ -2534,10 +3225,24 @@
     "year": 2018,
     "steam_appid": 678950,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "50–80h",
@@ -2560,6 +3265,9 @@
     "steam_appid": 368230,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2586,10 +3294,25 @@
     "year": 2014,
     "steam_appid": 265930,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "20–30h",
@@ -2613,10 +3336,28 @@
     "year": 2011,
     "steam_appid": 105600,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "PS Vita",
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo Switch",
+      "Wii U",
+      "Nintendo 3DS",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "100–200h",
@@ -2640,10 +3381,22 @@
     "year": 2018,
     "steam_appid": 704850,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 3,
     "hours": "15–25h",
@@ -2667,10 +3420,19 @@
     "year": 2017,
     "steam_appid": 583470,
     "platforms": [
-      "steam"
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 9,
     "hours": "40–80h",
@@ -2695,6 +3457,9 @@
     "steam_appid": 2784840,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2721,10 +3486,25 @@
     "year": 2017,
     "steam_appid": 424840,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "5–8h",
@@ -2747,6 +3527,9 @@
     "steam_appid": 1241100,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2772,10 +3555,24 @@
     "year": 2016,
     "steam_appid": 454650,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "80–120h",
@@ -2799,9 +3596,17 @@
     "year": 2020,
     "steam_appid": 638230,
     "platforms": [
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "PC",
+      "iOS"
+    ],
     "labels": {
+      "ps": "",
       "steam": ""
     },
     "difficulty": 2,
@@ -2825,10 +3630,25 @@
     "year": 2021,
     "steam_appid": 1677740,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 2,
     "hours": "20–40h",
@@ -2853,6 +3673,9 @@
     "steam_appid": 670290,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2881,6 +3704,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -2906,9 +3732,18 @@
     "year": 2015,
     "steam_appid": 311730,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -2932,6 +3767,9 @@
     "steam_appid": 1047480,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -2960,6 +3798,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -2985,9 +3826,18 @@
     "year": 2019,
     "steam_appid": 966330,
     "platforms": [
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "PS Vita",
+      "PC",
+      "iOS"
+    ],
     "labels": {
+      "ps": "",
       "steam": ""
     },
     "difficulty": 1,
@@ -3011,10 +3861,16 @@
     "year": 2019,
     "steam_appid": 931690,
     "platforms": [
-      "steam"
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 2,
     "hours": "3–6h",
@@ -3038,10 +3894,23 @@
     "year": 2015,
     "steam_appid": 341800,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "10–20h",
@@ -3064,6 +3933,9 @@
     "steam_appid": 460540,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3090,9 +3962,16 @@
     "year": 2017,
     "steam_appid": 607880,
     "platforms": [
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "PS Vita",
+      "PC"
+    ],
     "labels": {
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -3116,6 +3995,9 @@
     "steam_appid": 423880,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3143,6 +4025,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -3166,10 +4051,22 @@
     "year": 2016,
     "steam_appid": 442070,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 1,
     "hours": "5–10h",
@@ -3195,6 +4092,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -3219,6 +4119,9 @@
     "steam_appid": 922460,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3247,6 +4150,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -3272,9 +4178,20 @@
     "year": 2019,
     "steam_appid": 1085660,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 5,
@@ -3299,6 +4216,9 @@
     "steam_appid": 1070580,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3327,6 +4247,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -3354,6 +4277,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -3379,10 +4305,20 @@
     "year": 2023,
     "steam_appid": 858710,
     "platforms": [
-      "steam"
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "10–20h",
@@ -3406,6 +4342,9 @@
     "steam_appid": 1160750,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3431,9 +4370,21 @@
     "year": 2015,
     "steam_appid": 319630,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "Xbox One",
+      "Xbox 360",
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 3,
@@ -3457,9 +4408,18 @@
     "year": 2024,
     "steam_appid": 2767030,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 4,
@@ -3484,10 +4444,24 @@
     "year": 2014,
     "steam_appid": 286690,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 6,
     "hours": "15–25h",
@@ -3510,6 +4484,9 @@
     "steam_appid": 1082220,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3536,10 +4513,25 @@
     "year": 2023,
     "steam_appid": 2357570,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "200h+",
@@ -3561,9 +4553,18 @@
     "year": 2013,
     "steam_appid": 238960,
     "platforms": [
+      "xbox",
+      "ps",
       "steam"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": ""
     },
     "difficulty": 6,
@@ -3588,10 +4589,25 @@
     "year": 2015,
     "steam_appid": 287290,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "PS3",
+      "PS Vita",
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "25–40h",
@@ -3615,6 +4631,9 @@
     "steam_appid": 700330,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3641,10 +4660,22 @@
     "year": 2010,
     "steam_appid": 34270,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "20–40h",
@@ -3669,6 +4700,9 @@
     "steam_appid": 3678970,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3695,9 +4729,15 @@
     "year": 2020,
     "steam_appid": 1180660,
     "platforms": [
+      "xbox",
       "steam"
     ],
+    "consoles": [
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
       "steam": ""
     },
     "difficulty": 2,
@@ -3721,6 +4761,10 @@
     "steam_appid": 1361320,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
       "steam": ""
@@ -3747,6 +4791,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -3771,10 +4818,22 @@
     "year": 2017,
     "steam_appid": 304930,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 4,
     "hours": "100h+",
@@ -3798,10 +4857,25 @@
     "year": 2013,
     "steam_appid": 230410,
     "platforms": [
-      "steam"
+      "xbox",
+      "ps",
+      "steam",
+      "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
-      "steam": ""
+      "xbox": "",
+      "ps": "",
+      "steam": "",
+      "nin": ""
     },
     "difficulty": 5,
     "hours": "300h+",
@@ -3825,6 +4899,9 @@
     "steam_appid": 577740,
     "platforms": [
       "steam"
+    ],
+    "consoles": [
+      "PC"
     ],
     "labels": {
       "steam": ""
@@ -3855,6 +4932,14 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
     ],
     "labels": {
       "xbox": "",
@@ -3889,6 +4974,12 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -3921,6 +5012,15 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "iOS"
     ],
     "labels": {
       "xbox": "",
@@ -3955,6 +5055,14 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -3987,6 +5095,15 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -4021,6 +5138,12 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -4048,10 +5171,23 @@
     "year": 2025,
     "steam_appid": 3363560,
     "platforms": [
+      "xbox",
+      "ps",
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -4082,6 +5218,12 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -4111,6 +5253,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch 2"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4135,6 +5280,9 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""
@@ -4164,6 +5312,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4188,6 +5339,10 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch",
+      "iOS/Android"
     ],
     "labels": {
       "nin": ""
@@ -4215,6 +5370,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch 2"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4241,6 +5399,10 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch",
+      "iOS/Android"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4266,6 +5428,10 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""
@@ -4294,6 +5460,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4318,6 +5487,10 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""
@@ -4345,6 +5518,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Game Boy Advance"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4370,10 +5546,19 @@
     "year": 2025,
     "steam_appid": null,
     "platforms": [
+      "ps",
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Nintendo Switch",
+      "PC",
+      "iOS/Android"
+    ],
     "labels": {
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -4401,6 +5586,10 @@
     "platforms": [
       "xbox",
       "ps"
+    ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S"
     ],
     "labels": {
       "xbox": "",
@@ -4433,6 +5622,10 @@
       "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "PC"
+    ],
     "labels": {
       "ps": "",
       "steam": ""
@@ -4462,6 +5655,12 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -4494,6 +5693,12 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -4530,6 +5735,14 @@
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -4562,6 +5775,13 @@
       "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -4589,11 +5809,19 @@
     "steam_appid": 1846700,
     "platforms": [
       "xbox",
+      "ps",
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
+      "ps": "",
       "steam": "",
       "nin": ""
     },
@@ -4619,11 +5847,19 @@
     "year": 2025,
     "steam_appid": 2453160,
     "platforms": [
+      "xbox",
       "ps",
       "steam",
       "nin"
     ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
+    ],
     "labels": {
+      "xbox": "",
       "ps": "",
       "steam": "",
       "nin": ""
@@ -4653,6 +5889,12 @@
       "ps",
       "steam",
       "nin"
+    ],
+    "consoles": [
+      "PS5",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
     ],
     "labels": {
       "xbox": "",
@@ -4686,6 +5928,13 @@
       "ps",
       "steam"
     ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
     "labels": {
       "xbox": "",
       "ps": "",
@@ -4714,6 +5963,9 @@
     "platforms": [
       "steam"
     ],
+    "consoles": [
+      "PC"
+    ],
     "labels": {
       "steam": ""
     },
@@ -4739,6 +5991,10 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""
@@ -4768,6 +6024,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4793,6 +6052,9 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2"
     ],
     "labels": {
       "nin": ""
@@ -4821,6 +6083,10 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4846,6 +6112,10 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4870,6 +6140,9 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""
@@ -4897,6 +6170,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4922,6 +6198,9 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""
@@ -4949,6 +6228,9 @@
     "platforms": [
       "nin"
     ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
     "labels": {
       "nin": ""
     },
@@ -4974,6 +6256,9 @@
     "steam_appid": null,
     "platforms": [
       "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
     ],
     "labels": {
       "nin": ""

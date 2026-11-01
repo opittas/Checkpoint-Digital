@@ -19,5 +19,517 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH01": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial."
+        ]
+      }
+    },
+    "ACH02": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 1 da campanha de Leon."
+        ]
+      }
+    },
+    "ACH03": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 2 da campanha de Leon."
+        ]
+      }
+    },
+    "ACH04": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 3 da campanha de Leon."
+        ]
+      }
+    },
+    "ACH05": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 4 da campanha de Leon."
+        ]
+      }
+    },
+    "ACH06": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 5 da campanha de Leon."
+        ]
+      }
+    },
+    "ACH07": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 1 da campanha de Chris."
+        ]
+      }
+    },
+    "ACH08": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 2 da campanha de Chris."
+        ]
+      }
+    },
+    "ACH09": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 3 da campanha de Chris."
+        ]
+      }
+    },
+    "ACH10": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 4 da campanha de Chris."
+        ]
+      }
+    },
+    "ACH11": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 5 da campanha de Chris."
+        ]
+      }
+    },
+    "ACH12": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 1 da campanha de Jake."
+        ]
+      }
+    },
+    "ACH13": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 2 da campanha de Jake."
+        ]
+      }
+    },
+    "ACH14": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 3 da campanha de Jake."
+        ]
+      }
+    },
+    "ACH15": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 4 da campanha de Jake."
+        ]
+      }
+    },
+    "ACH16": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 5 da campanha de Jake."
+        ]
+      }
+    },
+    "ACH17": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 1 da campanha de Ada."
+        ]
+      }
+    },
+    "ACH18": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 2 da campanha de Ada."
+        ]
+      }
+    },
+    "ACH19": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 3 da campanha de Ada."
+        ]
+      }
+    },
+    "ACH20": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 4 da campanha de Ada."
+        ]
+      }
+    },
+    "ACH21": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 5 da campanha de Ada."
+        ]
+      }
+    },
+    "ACH22": {
+      "guia": {
+        "passos": [
+          "Complete todo o jogo no nível Iniciante."
+        ]
+      }
+    },
+    "ACH23": {
+      "guia": {
+        "passos": [
+          "Complete todo o jogo no nível Normal."
+        ]
+      }
+    },
+    "ACH24": {
+      "guia": {
+        "passos": [
+          "Complete todo o jogo no nível Veterano."
+        ]
+      }
+    },
+    "ACH25": {
+      "guia": {
+        "passos": [
+          "Complete todo o jogo no nível Profissional."
+        ],
+        "atencao": [
+          "Professional é a dificuldade mais alta; jogue em co-op se puder."
+        ]
+      }
+    },
+    "ACH26": {
+      "guia": {
+        "passos": [
+          "Personalize as suas placas de identificação."
+        ]
+      }
+    },
+    "ACH27": {
+      "guia": {
+        "passos": [
+          "Obtenha 10 títulos diferentes."
+        ]
+      }
+    },
+    "ACH28": {
+      "guia": {
+        "passos": [
+          "Compre uma habilidade."
+        ]
+      }
+    },
+    "ACH29": {
+      "guia": {
+        "passos": [
+          "Potencialize as habilidades que permitem você subir de nível."
+        ]
+      }
+    },
+    "ACH30": {
+      "guia": {
+        "passos": [
+          "Use um ataque furtivo para derrubar cinco inimigos."
+        ]
+      }
+    },
+    "ACH31": {
+      "guia": {
+        "passos": [
+          "Execute um golpe de misericórdia em dez inimigos."
+        ]
+      }
+    },
+    "ACH32": {
+      "guia": {
+        "passos": [
+          "Contra-ataque um inimigo três vezes seguidas."
+        ]
+      }
+    },
+    "ACH33": {
+      "guia": {
+        "passos": [
+          "Derrote um inimigo enquanto morre, depois recupere-se sem ajuda."
+        ]
+      }
+    },
+    "ACH34": {
+      "guia": {
+        "passos": [
+          "Ajude ou resgate seu parceiro dez vezes."
+        ]
+      }
+    },
+    "ACH35": {
+      "guia": {
+        "passos": [
+          "Use todas as armas no jogo e mate dez inimigos com cada uma delas."
+        ]
+      }
+    },
+    "ACH36": {
+      "guia": {
+        "passos": [
+          "Bata em dez inimigos de um lugar alto."
+        ]
+      }
+    },
+    "ACH37": {
+      "guia": {
+        "passos": [
+          "Obtenha um título de nível quatro."
+        ]
+      }
+    },
+    "ACH38": {
+      "guia": {
+        "passos": [
+          "Colete 3 figuras."
+        ]
+      }
+    },
+    "ACH39": {
+      "guia": {
+        "passos": [
+          "Derrote 20 inimigos com a Hidra usando um tiro rápido."
+        ]
+      }
+    },
+    "ACH40": {
+      "guia": {
+        "passos": [
+          "Derrube um inimigo a 50 metros de distância com um tiro na cabeça usando uma mira telescópica normal."
+        ]
+      }
+    },
+    "ACH41": {
+      "guia": {
+        "passos": [
+          "Derrote dez inimigos com um ataque de carga de bastão elétrico."
+        ]
+      }
+    },
+    "ACH42": {
+      "guia": {
+        "passos": [
+          "Derrote 500 zumbis."
+        ]
+      }
+    },
+    "ACH43": {
+      "guia": {
+        "passos": [
+          "Derrote 500 J'avo."
+        ]
+      }
+    },
+    "ACH44": {
+      "guia": {
+        "passos": [
+          "Derrote 100 inimigos que saíram de um casulo."
+        ]
+      }
+    },
+    "ACH45": {
+      "guia": {
+        "passos": [
+          "Resgate duas sobreviventes na catedral."
+        ],
+        "dicas": [
+          "Campanha do Leon, Capítulo 1: proteja as duas sobreviventes na catedral."
+        ]
+      }
+    },
+    "ACH46": {
+      "guia": {
+        "passos": [
+          "Pilote o VTOL sem arranhá-lo."
+        ],
+        "dicas": [
+          "Campanha do Chris, Capítulo 5: pilote o VTOL sem levar dano."
+        ]
+      }
+    },
+    "ACH47": {
+      "guia": {
+        "passos": [
+          "Atire no piloto do helicóptero com uma Magnum com um tiro certeiro."
+        ],
+        "dicas": [
+          "Num momento da história com piloto de helicóptero, atire com a Magnum à queima-roupa."
+        ]
+      }
+    },
+    "ACH48": {
+      "guia": {
+        "passos": [
+          "Atravesse a área da ponte do porta-aviões sem ser percebido."
+        ],
+        "dicas": [
+          "No porta-aviões, passe pela ponte sem ser detectado (furtividade)."
+        ]
+      }
+    },
+    "ACH49": {
+      "guia": {
+        "passos": [
+          "Obter 150 medalhas diferentes."
+        ]
+      }
+    },
+    "ACH50": {
+      "guia": {
+        "passos": [
+          "Colete todos os emblemas de serpente."
+        ],
+        "dicas": [
+          "Os emblemas de serpente (Serpent Emblems) ficam escondidos em cada capítulo de todas as campanhas; são 80. Use Chapter Select."
+        ]
+      }
+    },
+    "ACH51": {
+      "guia": {
+        "passos": [
+          "Envie 2000 inimigos para o mapa de seu oponente."
+        ],
+        "dicas": [
+          "Modo Mercenaries/Agent Hunt: conquistas multijogador."
+        ]
+      }
+    },
+    "ACH52": {
+      "guia": {
+        "passos": [
+          "Derrote o seu oponente e conquiste a vitória em 3 fases."
+        ]
+      }
+    },
+    "ACH53": {
+      "guia": {
+        "passos": [
+          "Consiga uma combinação de 30 mortes."
+        ]
+      }
+    },
+    "ACH54": {
+      "guia": {
+        "passos": [
+          "Derrote seu oponente 10 vezes com inimigos que você enviou."
+        ]
+      }
+    },
+    "ACH55": {
+      "guia": {
+        "passos": [
+          "Vença durante o estado de morte."
+        ]
+      }
+    },
+    "ACH56": {
+      "guia": {
+        "passos": [
+          "Ganhe cinco vezes seguidas."
+        ]
+      }
+    },
+    "ACH57": {
+      "guia": {
+        "passos": [
+          "Derrote 100 agentes."
+        ]
+      }
+    },
+    "ACH58": {
+      "guia": {
+        "passos": [
+          "Sobreviva até o fim usando apenas ataques físicos."
+        ]
+      }
+    },
+    "ACH59": {
+      "guia": {
+        "passos": [
+          "Volte para o jogo como um personagem humano."
+        ]
+      }
+    },
+    "ACH60": {
+      "guia": {
+        "passos": [
+          "Ganhe sem ninguém de sua equipe ser morto."
+        ]
+      }
+    },
+    "ACH61": {
+      "guia": {
+        "passos": [
+          "Derrote Ustanak 20 vezes."
+        ]
+      }
+    },
+    "ACH62": {
+      "guia": {
+        "passos": [
+          "Derrote Ustanak sem ninguém em sua equipe ser capturado."
+        ]
+      }
+    },
+    "ACH63": {
+      "guia": {
+        "passos": [
+          "Com Ustanak, elimine todos os jogadores em menos de um minuto."
+        ]
+      }
+    },
+    "ACH64": {
+      "guia": {
+        "passos": [
+          "Com Ustanak, capture um total de 50 pessoas."
+        ]
+      }
+    },
+    "ACH65": {
+      "guia": {
+        "passos": [
+          "Derrote Ustanak sendo o último agente."
+        ]
+      }
+    },
+    "ACH66": {
+      "guia": {
+        "passos": [
+          "Derrote 100 agentes e 100 criaturas controladas por jogadores."
+        ]
+      }
+    },
+    "ACH67": {
+      "guia": {
+        "passos": [
+          "Derrote a BSAA 100 vezes."
+        ]
+      }
+    },
+    "ACH68": {
+      "guia": {
+        "passos": [
+          "Com uma criatura, derrote a BSAA sem morrer nenhuma vez."
+        ]
+      }
+    },
+    "ACH69": {
+      "guia": {
+        "passos": [
+          "Vença 10 vezes."
+        ]
+      }
+    },
+    "ACH70": {
+      "guia": {
+        "passos": [
+          "Proteja a BSAA sem que nenhum deles seja ferido."
+        ]
+      }
+    }
+  }
 }

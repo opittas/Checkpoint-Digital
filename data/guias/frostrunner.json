@@ -15,5 +15,211 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "FirstDeath": {
+      "guia": {
+        "passos": [
+          "Morreu pela primeira vez."
+        ]
+      }
+    },
+    "FirstCollectible": {
+      "guia": {
+        "passos": [
+          "Pegue qualquer colecionável escondido numa fase."
+        ]
+      }
+    },
+    "BabySteps": {
+      "guia": {
+        "passos": [
+          "Ande no começo do jogo."
+        ]
+      }
+    },
+    "FinishChapter1": {
+      "guia": {
+        "passos": [
+          "Terminou o Capítulo 1 - Anel."
+        ]
+      }
+    },
+    "FinishPrologue": {
+      "guia": {
+        "passos": [
+          "Terminou o Prólogo."
+        ]
+      }
+    },
+    "FinishChapter2": {
+      "guia": {
+        "passos": [
+          "Terminou o Capítulo 2 - Gelo."
+        ]
+      }
+    },
+    "FinishChapter3": {
+      "guia": {
+        "passos": [
+          "Terminou o Capítulo 3 - Corda."
+        ]
+      }
+    },
+    "FinishChapter4": {
+      "guia": {
+        "passos": [
+          "Terminou o Capítulo 4 - Arremesso."
+        ]
+      }
+    },
+    "FinishChapter5": {
+      "guia": {
+        "passos": [
+          "Terminou o Capítulo 5 - Corrente."
+        ]
+      }
+    },
+    "FastPrologue": {
+      "guia": {
+        "passos": [
+          "Bata o tempo rápido de todas as fases do Prólogo."
+        ],
+        "dicas": [
+          "Leia as dicas: elas ensinam os atalhos."
+        ]
+      }
+    },
+    "FastChapter1": {
+      "guia": {
+        "passos": [
+          "Bata o tempo rápido de todas as fases do Capítulo 1."
+        ]
+      }
+    },
+    "FastChapter2": {
+      "guia": {
+        "passos": [
+          "Bata o tempo rápido do Capítulo 2."
+        ]
+      }
+    },
+    "FastChapter3": {
+      "guia": {
+        "passos": [
+          "Bata o tempo rápido do Capítulo 3."
+        ]
+      }
+    },
+    "FastChapter4": {
+      "guia": {
+        "passos": [
+          "Bata o tempo rápido do Capítulo 4."
+        ]
+      }
+    },
+    "FastChapter5": {
+      "guia": {
+        "passos": [
+          "Bata o tempo rápido do Capítulo 5."
+        ]
+      }
+    },
+    "FastAll": {
+      "guia": {
+        "passos": [
+          "Bata o tempo rápido em todas as fases."
+        ],
+        "dicas": [
+          "Veja os replays da tabela de líderes para rotas."
+        ]
+      }
+    },
+    "CollectibleTier1": {
+      "guia": {
+        "passos": [
+          "Pegue 10 colecionáveis."
+        ]
+      }
+    },
+    "CollectibleTier2": {
+      "guia": {
+        "passos": [
+          "Pegue 20 colecionáveis."
+        ]
+      }
+    },
+    "CollectibleTier3": {
+      "guia": {
+        "passos": [
+          "Pegue todos os colecionáveis."
+        ]
+      }
+    },
+    "BabyJump": {
+      "guia": {
+        "passos": [
+          "Pule pela primeira vez."
+        ]
+      }
+    },
+    "FirstTether": {
+      "guia": {
+        "passos": [
+          "Use a corda pela primeira vez."
+        ]
+      }
+    },
+    "FirstFling": {
+      "guia": {
+        "passos": [
+          "Use o arremesso pela primeira vez."
+        ]
+      }
+    },
+    "Achieveception": {
+      "guia": {
+        "passos": [
+          "Ganhe qualquer outra conquista."
+        ]
+      }
+    },
+    "LaRana": {
+      "guia": {
+        "passos": [
+          "Ache o colecionável do sapo."
+        ]
+      }
+    },
+    "CyberBlade": {
+      "guia": {
+        "passos": [
+          "Ache o colecionável da espada."
+        ]
+      }
+    },
+    "CircuitSlinger": {
+      "guia": {
+        "passos": [
+          "Ache o colecionável da arma."
+        ]
+      }
+    },
+    "Thanks": {
+      "guia": {
+        "passos": [
+          "Veja os créditos no menu."
+        ]
+      }
+    },
+    "Hidden": {
+      "guia": {
+        "passos": [
+          "Conquista secreta: interaja com algo escondido no menu ou nas fases."
+        ],
+        "dicas": [
+          "Explore a tela de título."
+        ]
+      }
+    }
+  }
 }

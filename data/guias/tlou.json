@@ -1,13 +1,230 @@
 {
   "resumo": "Sem conquistas de dificuldade. Todos os colecionáveis podem ser recuperados pela seleção de capítulos (o jogo mostra quantos faltam em cada capítulo).",
   "roadmap": [
-    { "titulo": "1ª jogatina", "texto": "Jogue a história na dificuldade que quiser, pegando o que encontrar: pingentes, gibis, manuais, bilhetes, ferramentas e cofres." },
-    { "titulo": "Left Behind", "texto": "Termine a expansão e faça as conquistas do shopping: arremesso de tijolos, guerra de pistolas d'água, fliperama e o Jak X." },
-    { "titulo": "Limpeza por capítulo", "texto": "Use a seleção de capítulos e o contador de colecionáveis para completar o que faltou, incluindo as conversas opcionais e as piadas da Ellie." }
+    {
+      "titulo": "1ª jogatina",
+      "texto": "Jogue a história na dificuldade que quiser, pegando o que encontrar: pingentes, gibis, manuais, bilhetes, ferramentas e cofres."
+    },
+    {
+      "titulo": "Left Behind",
+      "texto": "Termine a expansão e faça as conquistas do shopping: arremesso de tijolos, guerra de pistolas d'água, fliperama e o Jak X."
+    },
+    {
+      "titulo": "Limpeza por capítulo",
+      "texto": "Use a seleção de capítulos e o contador de colecionáveis para completar o que faltou, incluindo as conversas opcionais e as piadas da Ellie."
+    }
   ],
-  "avisos": ["As conversas opcionais e piadas são fáceis de perder, mas podem ser refeitas pela seleção de capítulos."],
+  "avisos": [
+    "As conversas opcionais e piadas são fáceis de perder, mas podem ser refeitas pela seleção de capítulos."
+  ],
   "conquistas": {
-    "48d13f3e8665916e": { "dica": "As piadas aparecem quando a Ellie pega o livro de piadas; algumas só surgem se você esperar em pontos específicos." },
-    "8e2d13fc783f696f": { "dica": "Procure o ícone de triângulo para iniciar conversas opcionais com os companheiros." }
+    "48d13f3e8665916e": {
+      "dica": "As piadas aparecem quando a Ellie pega o livro de piadas; algumas só surgem se você esperar em pontos específicos.",
+      "guia": {
+        "passos": [
+          "Ouça todas as piadas da Ellie."
+        ]
+      }
+    },
+    "8e2d13fc783f696f": {
+      "dica": "Procure o ícone de triângulo para iniciar conversas opcionais com os companheiros.",
+      "guia": {
+        "passos": [
+          "Inicie todas as conversas opcionais."
+        ]
+      }
+    },
+    "0cc86a431a4a8154": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "284b17b75ee9e837": {
+      "guia": {
+        "passos": [
+          "Termine a história principal."
+        ]
+      }
+    },
+    "d8be398c779c55da": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo extra Left Behind."
+        ]
+      }
+    },
+    "09a57ae84324b621": {
+      "guia": {
+        "passos": [
+          "Ache todos os pingentes Vaga-lume."
+        ],
+        "dicas": [
+          "Use o menu de capítulos para coletar os que faltaram."
+        ]
+      }
+    },
+    "0cb661f85a2415f9": {
+      "guia": {
+        "passos": [
+          "Ache todos os gibis."
+        ]
+      }
+    },
+    "8b77f28f25db173c": {
+      "guia": {
+        "passos": [
+          "Ache todos os bilhetes e artefatos."
+        ]
+      }
+    },
+    "429d91ec6e991fa7": {
+      "guia": {
+        "passos": [
+          "Ache todos os manuais de treinamento."
+        ]
+      }
+    },
+    "2c22acdebba9a201": {
+      "guia": {
+        "passos": [
+          "Melhore totalmente qualquer arma na bancada."
+        ]
+      }
+    },
+    "50acf882e84c2895": {
+      "guia": {
+        "passos": [
+          "Abra todas as portas trancadas com facas."
+        ]
+      }
+    },
+    "5843b084be7082dc": {
+      "guia": {
+        "passos": [
+          "Ache todas as bancadas."
+        ]
+      }
+    },
+    "60dbb44ccacb0121": {
+      "guia": {
+        "passos": [
+          "Abra todos os cofres."
+        ]
+      }
+    },
+    "33d7ce435071bec5": {
+      "guia": {
+        "passos": [
+          "Ache todas as ferramentas da bancada."
+        ]
+      }
+    },
+    "981b469d0676aa7b": {
+      "guia": {
+        "passos": [
+          "Melhore e quebre uma de cada arma corpo a corpo."
+        ]
+      }
+    },
+    "71d5d57326f5b8f1": {
+      "guia": {
+        "passos": [
+          "Ache um pingente Vaga-lume."
+        ]
+      }
+    },
+    "2143304396bed9b2": {
+      "guia": {
+        "passos": [
+          "Ache um manual de treinamento."
+        ]
+      }
+    },
+    "d6637d641c0a684f": {
+      "guia": {
+        "passos": [
+          "Ache um gibi."
+        ]
+      }
+    },
+    "5d6eea83aff89166": {
+      "guia": {
+        "passos": [
+          "Fabrique todos os itens."
+        ]
+      }
+    },
+    "44d4de56b74c610b": {
+      "guia": {
+        "passos": [
+          "Pegue o bilhete do Frank depois que o Bill joga fora."
+        ]
+      }
+    },
+    "c87c609f99e09e9e": {
+      "guia": {
+        "passos": [
+          "Em Pittsburgh, desligue o gerador do holofote sem ser visto."
+        ]
+      }
+    },
+    "fb3aefb32ef01d3f": {
+      "guia": {
+        "passos": [
+          "Ande no aparato do esgoto com Henry e Sam."
+        ]
+      }
+    },
+    "628588a6ffd82ada": {
+      "guia": {
+        "passos": [
+          "Deixe a Ellie no vácuo quando ela pedir um 'toca aqui'."
+        ]
+      }
+    },
+    "f6bbd883545b7634": {
+      "guia": {
+        "passos": [
+          "Faça carinho no Buckley, o cão."
+        ]
+      }
+    },
+    "b1c7582cb4bdbe80": {
+      "guia": {
+        "passos": [
+          "Em Left Behind, jogue o Jak X no shopping."
+        ]
+      }
+    },
+    "2a0b62cab5f059d9": {
+      "guia": {
+        "passos": [
+          "Vença a competição de arremesso de tijolos com a Riley em Left Behind."
+        ]
+      }
+    },
+    "0461a39547e3a2a3": {
+      "guia": {
+        "passos": [
+          "Derrote o Blackfang sem ser atingido no fliperama de Left Behind."
+        ]
+      }
+    },
+    "80b0d9d2f5a006fa": {
+      "guia": {
+        "passos": [
+          "Vença a batalha de pistolas d'água em Left Behind."
+        ]
+      }
+    },
+    "af668020bf9cc65b": {
+      "guia": {
+        "passos": [
+          "Use tijolos ou garrafas para atrair um infectado e fazê-lo atacar um humano."
+        ]
+      }
+    }
   }
 }

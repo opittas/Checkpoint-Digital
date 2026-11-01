@@ -1,0 +1,139 @@
+{
+  "resumo": "Tears of the Kingdom não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, templos, Espada Mestra, Lágrimas do Dragão, 152 santuários, 120 raízes, 1000 Koroks, Compêndio e os chefes mais difíceis.",
+  "roadmap": [
+    {
+      "titulo": "1. Começo",
+      "texto": "Ilha do Grande Céu e as primeiras torres."
+    },
+    {
+      "titulo": "2. Templos",
+      "texto": "Os 4 Fenômenos Regionais, na ordem que quiser."
+    },
+    {
+      "titulo": "3. Espada Mestra",
+      "texto": "Lágrimas do Dragão e Dragão da Luz."
+    },
+    {
+      "titulo": "4. Final",
+      "texto": "Castelo de Hyrule e Ganondorf."
+    },
+    {
+      "titulo": "5. Limpeza",
+      "texto": "Santuários, raízes, Koroks e Compêndio."
+    }
+  ],
+  "avisos": [
+    "A Nintendo Switch 2 Edition melhora gráficos e desempenho e traz o app Zelda Notes. Não tem metas novas.",
+    "Não há modo difícil. As metas com 🔥 são os chefes opcionais mais duros."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Faça os 4 Fenômenos Regionais (Vento, Fogo, Água e Raio) e o Templo do Espírito.",
+          "Recupere a Espada Mestra e siga para o fundo do Castelo de Hyrule."
+        ],
+        "dicas": [
+          "Antes do chefe final, leve comida de defesa e fadas no inventário."
+        ]
+      }
+    },
+    "templos": {
+      "guia": {
+        "onde": [
+          "Templo do Vento (Rito), do Fogo (Goron), da Água (Zora) e do Raio (Gerudo)."
+        ]
+      }
+    },
+    "espada": {
+      "guia": {
+        "passos": [
+          "Termine a missão das Lágrimas do Dragão ou encontre o Dragão da Luz no céu.",
+          "Pouse nas costas dele e puxe a espada (precisa de 3 rodas de vigor completas)."
+        ],
+        "atencao": [
+          "Sem 3 rodas de vigor a espada não sai: troque Bênçãos por vigor nas estátuas da Deusa."
+        ]
+      }
+    },
+    "lagrimas": {
+      "guia": {
+        "onde": [
+          "Desenhos gigantes no chão de Hyrule, que só dá para ver de cima."
+        ],
+        "passos": [
+          "Pegue a missão com a Impa e use o mapa dos geoglifos para achar cada desenho.",
+          "Cada lágrima fica no centro de um desenho; veja as memórias em ordem no menu."
+        ]
+      }
+    },
+    "santuarios": {
+      "guia": {
+        "dicas": [
+          "Ilumine o Subsolo com as raízes: cada santuário da superfície fica em cima de uma raiz."
+        ],
+        "atencao": [
+          "Alguns só aparecem depois de missões (ex.: os santuários de Cristal)."
+        ]
+      }
+    },
+    "raizes": {
+      "guia": {
+        "dicas": [
+          "Os nomes das raízes são os dos santuários de trás para frente."
+        ]
+      }
+    },
+    "koroks": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Use a Máscara Korok (Caverna de Lost Woods) para ouvir os Koroks por perto.",
+          "Um mapa interativo ajuda muito: marque cada semente pega."
+        ],
+        "atencao": [
+          "O prêmio pelas 1000 é só uma piada do Hestu; para os espaços do inventário bastam bem menos."
+        ]
+      }
+    },
+    "compendio": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Fotos que faltam podem ser compradas no laboratório do Robbie (Akkala)."
+        ]
+      }
+    },
+    "bubbuls": {
+      "guia": {
+        "onde": [
+          "Uma por caverna, quase sempre num Bubbul Frog escondido no teto."
+        ],
+        "passos": [
+          "Troque as gemas com o Koltin por roupas e itens."
+        ]
+      }
+    },
+    "fadas": {
+      "guia": {
+        "passos": [
+          "Ajude a banda do Pikango (Mattison, Pikango e outros) a chegar a cada fonte."
+        ]
+      }
+    },
+    "gleeok": {
+      "dificil": true
+    },
+    "lynel": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Monte nas costas do Lynel depois de um tiro na cara para dar dano extra."
+        ]
+      }
+    },
+    "100": {
+      "dificil": true
+    }
+  }
+}

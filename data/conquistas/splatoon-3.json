@@ -1,0 +1,138 @@
+{
+ "id": "splatoon-3",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Side Order",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "heroi",
+   "g": 0,
+   "n": "Volta dos Mamíferos",
+   "d": "Termine o Modo Herói (Return of the Mammalians).",
+   "n_en": "Return of the Mammalians",
+   "d_en": "Finish Hero Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "heroi_100",
+   "g": 0,
+   "n": "Alterna Completa",
+   "d": "Termine todas as fases do Modo Herói e ache todos os itens de Alterna.",
+   "n_en": "All of Alterna",
+   "d_en": "Clear every Hero Mode stage and find every collectible.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "heroi_final",
+   "g": 0,
+   "n": "Depois do Fim",
+   "d": "Termine a missão secreta depois do final do Modo Herói.",
+   "n_en": "After the End",
+   "d_en": "Clear the secret post-game Hero Mode mission.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "nivel",
+   "g": 0,
+   "n": "Nível 30",
+   "d": "Chegue ao nível 30 de jogador.",
+   "n_en": "Level 30",
+   "d_en": "Reach player level 30.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "anarquia",
+   "g": 0,
+   "n": "Rank S+",
+   "d": "Chegue ao Rank S+ nas Batalhas Anárquicas.",
+   "n_en": "S+ Rank",
+   "d_en": "Reach S+ rank in Anarchy Battles.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "salmon",
+   "g": 0,
+   "n": "Eggsecutive VP",
+   "d": "Chegue ao título Eggsecutive VP no Salmon Run.",
+   "n_en": "Eggsecutive VP",
+   "d_en": "Reach Eggsecutive VP in Salmon Run.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rei_salmao",
+   "g": 0,
+   "n": "Rei dos Salmonídeos",
+   "d": "Derrote um Rei Salmonídeo no Salmon Run.",
+   "n_en": "King Salmonid",
+   "d_en": "Defeat a King Salmonid in Salmon Run.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tableturf",
+   "g": 0,
+   "n": "Mestre do Tableturf",
+   "d": "Vença todos os adversários do Tableturf Battle.",
+   "n_en": "Tableturf Master",
+   "d_en": "Beat every Tableturf Battle opponent.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "splatfest",
+   "g": 0,
+   "n": "Splatfest",
+   "d": "Participe de um Splatfest.",
+   "n_en": "Splatfest",
+   "d_en": "Take part in a Splatfest.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "so_fim",
+   "g": 1,
+   "n": "Topo da Torre",
+   "d": "Chegue ao topo da Torre da Ordem no Side Order.",
+   "n_en": "Top of the Spire",
+   "d_en": "Reach the top of the Spire of Order.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "so_paletas",
+   "g": 1,
+   "n": "Todas as Paletas",
+   "d": "Termine o Side Order com todas as paletas.",
+   "n_en": "Every Palette",
+   "d_en": "Clear Side Order with every palette.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

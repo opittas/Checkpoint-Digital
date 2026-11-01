@@ -1,0 +1,94 @@
+{
+ "id": "luigis-mansion-3",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Pacotes Multijogador",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Hotel Libertado",
+   "d": "Derrote o Rei Boo e salve todos.",
+   "n_en": "Hotel Freed",
+   "d_en": "Beat King Boo and save everyone.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "joias",
+   "g": 0,
+   "n": "Todas as Joias",
+   "d": "Encontre as joias de todos os andares.",
+   "n_en": "Every Gem",
+   "d_en": "Find the gems on every floor.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "boos",
+   "g": 0,
+   "n": "Caça aos Boos",
+   "d": "Capture todos os Boos.",
+   "n_en": "Boo Hunt",
+   "d_en": "Capture every Boo.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rank_a",
+   "g": 0,
+   "n": "Rank A",
+   "d": "Termine com dinheiro suficiente para o Rank A.",
+   "n_en": "A Rank",
+   "d_en": "Finish with an A rank.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "chefes",
+   "g": 0,
+   "n": "Todos os Chefes",
+   "d": "Derrote todos os chefes do hotel.",
+   "n_en": "Every Boss",
+   "d_en": "Defeat every hotel boss.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "scarescraper",
+   "g": 0,
+   "n": "ScareScraper",
+   "d": "Termine o ScareScraper (modo cooperativo).",
+   "n_en": "ScareScraper",
+   "d_en": "Clear the ScareScraper co-op mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mp_pacotes",
+   "g": 1,
+   "n": "Pacotes Multijogador",
+   "d": "Jogue os andares novos dos Pacotes Multijogador.",
+   "n_en": "Multiplayer Packs",
+   "d_en": "Play the new floors from the Multiplayer Packs.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

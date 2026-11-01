@@ -1,0 +1,75 @@
+{
+  "resumo": "Animal Crossing: New Horizons não tem conquistas oficiais (as Milhas Nook são do próprio jogo). Estas são as Conquistas originais Checkpoint: ilha 5 estrelas, museu completo, casa quitada, ferramentas de ouro e a DLC Happy Home Paradise numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeiros dias",
+      "texto": "Museu, loja dos Nook e as casas novas."
+    },
+    {
+      "titulo": "2. K.K. Slider",
+      "texto": "Ilha 3 estrelas para o show."
+    },
+    {
+      "titulo": "3. Ano inteiro",
+      "texto": "Peixes e insetos de cada estação."
+    },
+    {
+      "titulo": "4. Ilha 5 estrelas",
+      "texto": "Decoração e paisagismo."
+    },
+    {
+      "titulo": "5. DLC",
+      "texto": "Happy Home Paradise (aba própria)."
+    }
+  ],
+  "avisos": [
+    "Para o museu completo é preciso jogar o ano todo (ou viajar no tempo).",
+    "A Nintendo Switch 2 Edition melhora gráficos e controles e não muda as metas."
+  ],
+  "conquistas": {
+    "kk": {
+      "guia": {
+        "passos": [
+          "Suba a avaliação da ilha para 3 estrelas com a Isabelle."
+        ]
+      }
+    },
+    "estrelas5": {
+      "guia": {
+        "dicas": [
+          "Ganha-se com móveis ao ar livre, flores, árvores e cercas, e sem lixo no chão."
+        ],
+        "atencao": [
+          "Prêmio: o Lírio-do-vale começa a nascer nos penhascos."
+        ]
+      }
+    },
+    "peixes": {
+      "guia": {
+        "atencao": [
+          "Peixes dependem do mês e da hora. Peixes de um hemisfério só aparecem em outra época."
+        ]
+      }
+    },
+    "arte": {
+      "guia": {
+        "dicas": [
+          "Só o Redd (barco na praia norte) vende arte. Compare com a obra real antes de comprar."
+        ]
+      }
+    },
+    "ouro": {
+      "dificil": true
+    },
+    "milhas": {
+      "dificil": true
+    },
+    "hhp_casas": {
+      "guia": {
+        "requisitos": [
+          "DLC Happy Home Paradise."
+        ]
+      }
+    }
+  }
+}

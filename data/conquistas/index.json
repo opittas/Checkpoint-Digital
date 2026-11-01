@@ -1609,5 +1609,89 @@
   "base": 59,
   "dlcs": {},
   "atualizado": "2026-10-30"
+ },
+ "zelda-totk": {
+  "total": 16,
+  "base": 16,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "super-mario-odyssey": {
+  "total": 13,
+  "base": 13,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "donkey-kong-bananza": {
+  "total": 11,
+  "base": 9,
+  "dlcs": {
+   "Ilha DK + Caça às Esmeraldas": [
+    "dlc_ilha",
+    "dlc_esmeraldas"
+   ]
+  },
+  "atualizado": null
+ },
+ "mario-wonder": {
+  "total": 10,
+  "base": 8,
+  "dlcs": {
+   "Nintendo Switch 2 Edition + Vamos ao Parque Belabel": [
+    "bp_parque",
+    "bp_fases"
+   ]
+  },
+  "atualizado": null
+ },
+ "animal-crossing-nh": {
+  "total": 14,
+  "base": 12,
+  "dlcs": {
+   "Happy Home Paradise": [
+    "hhp_casas",
+    "hhp_instalacoes"
+   ]
+  },
+  "atualizado": null
+ },
+ "splatoon-3": {
+  "total": 11,
+  "base": 9,
+  "dlcs": {
+   "Side Order": [
+    "so_fim",
+    "so_paletas"
+   ]
+  },
+  "atualizado": null
+ },
+ "metroid-dread": {
+  "total": 9,
+  "base": 9,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pikmin-4": {
+  "total": 9,
+  "base": 9,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "zelda-echoes-of-wisdom": {
+  "total": 9,
+  "base": 9,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "luigis-mansion-3": {
+  "total": 7,
+  "base": 6,
+  "dlcs": {
+   "Pacotes Multijogador": [
+    "mp_pacotes"
+   ]
+  },
+  "atualizado": null
  }
 }

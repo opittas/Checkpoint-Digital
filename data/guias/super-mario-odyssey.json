@@ -1,0 +1,56 @@
+{
+  "resumo": "Super Mario Odyssey não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, os dois Lados da Lua, 999 Luas, moedas roxas, capturas, roupas e os minijogos mais difíceis.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Siga o Bowser até o Reino da Lua."
+    },
+    {
+      "titulo": "2. Pós-jogo",
+      "texto": "Volte aos reinos: aparecem Luas novas."
+    },
+    {
+      "titulo": "3. Lados da Lua",
+      "texto": "Lado Escuro (250) e Lado Mais Escuro (500)."
+    },
+    {
+      "titulo": "4. Limpeza",
+      "texto": "Moedas roxas, roupas e capturas."
+    }
+  ],
+  "avisos": [
+    "A Nintendo Switch 2 Edition (atualização gratuita) melhora a resolução e não muda as metas."
+  ],
+  "conquistas": {
+    "lado_sombrio": {
+      "dificil": true,
+      "guia": {
+        "resumo": "Uma fase longa sem checkpoints, com trechos de todos os reinos.",
+        "dicas": [
+          "Leve o Cappy com ataque giratório e pegue os corações extras do caminho."
+        ]
+      }
+    },
+    "luas": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Depois das Luas únicas, compre a Lua de cada loja quantas vezes precisar."
+        ]
+      }
+    },
+    "capturas": {
+      "guia": {
+        "atencao": [
+          "Algumas capturas só existem em um reino; veja a lista no menu de Capturas."
+        ]
+      }
+    },
+    "pular_corda": {
+      "dificil": true
+    },
+    "volei": {
+      "dificil": true
+    }
+  }
+}

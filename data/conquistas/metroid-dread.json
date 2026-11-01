@@ -1,0 +1,113 @@
+{
+ "id": "metroid-dread",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Fim em ZDR",
+   "d": "Derrote o Raven Beak e fuja de ZDR.",
+   "n_en": "Escape from ZDR",
+   "d_en": "Defeat Raven Beak and escape ZDR.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "emmi",
+   "g": 0,
+   "n": "Caçadora de E.M.M.I.",
+   "d": "Destrua os 7 E.M.M.I.",
+   "n_en": "E.M.M.I. Hunter",
+   "d_en": "Destroy all seven E.M.M.I.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 7
+  },
+  {
+   "k": "kraid",
+   "g": 0,
+   "n": "Kraid",
+   "d": "Derrote o Kraid.",
+   "n_en": "Kraid",
+   "d_en": "Defeat Kraid.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "100",
+   "g": 0,
+   "n": "Itens 100%",
+   "d": "Pegue 100% dos itens.",
+   "n_en": "100% Items",
+   "d_en": "Collect 100% of items.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rapido",
+   "g": 0,
+   "n": "Corrida Contra o Tempo",
+   "d": "Termine o jogo em menos de 4 horas.",
+   "n_en": "Against the Clock",
+   "d_en": "Beat the game in under 4 hours.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dificil",
+   "g": 0,
+   "n": "Modo Difícil",
+   "d": "Termine o jogo no Modo Difícil.",
+   "n_en": "Hard Mode",
+   "d_en": "Beat the game on Hard Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dread",
+   "g": 0,
+   "n": "Modo Dread",
+   "d": "Termine o jogo no Modo Dread (um golpe e acabou).",
+   "n_en": "Dread Mode",
+   "d_en": "Beat the game on Dread Mode (one-hit kill).",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "boss_rush",
+   "g": 0,
+   "n": "Boss Rush",
+   "d": "Termine o Boss Rush.",
+   "n_en": "Boss Rush",
+   "d_en": "Clear Boss Rush.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "galeria",
+   "g": 0,
+   "n": "Galeria Completa",
+   "d": "Desbloqueie todas as imagens da galeria.",
+   "n_en": "Full Gallery",
+   "d_en": "Unlock every gallery image.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

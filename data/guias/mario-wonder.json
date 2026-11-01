@@ -1,0 +1,60 @@
+{
+  "resumo": "Super Mario Bros. Wonder não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Sementes Wonder, moedas de 10, mastros, insígnias, Mundo Especial, o Teste Final-Final e as 5 estrelas do save.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 6 mundos e o Castelo do Bowser."
+    },
+    {
+      "titulo": "2. Limpeza",
+      "texto": "Sementes, moedas de 10 e mastros."
+    },
+    {
+      "titulo": "3. Mundo Especial",
+      "texto": "As fases mais difíceis."
+    },
+    {
+      "titulo": "4. Teste Final-Final",
+      "texto": "O último desafio."
+    },
+    {
+      "titulo": "5. Switch 2 Edition",
+      "texto": "Parque Belabel, na aba própria."
+    }
+  ],
+  "avisos": [
+    "A Nintendo Switch 2 Edition + Vamos ao Parque Belabel é vendida à parte e fica numa aba que não conta no 100%.",
+    "As metas da Switch 2 Edition foram escritas sem conferência item por item."
+  ],
+  "conquistas": {
+    "insignias": {
+      "guia": {
+        "passos": [
+          "As insígnias saem dos Desafios de Insígnia e das lojas do Poplin."
+        ]
+      }
+    },
+    "especial": {
+      "dificil": true
+    },
+    "teste_final": {
+      "dificil": true,
+      "guia": {
+        "resumo": "A fase mais difícil do jogo: longa, sem insígnias de ajuda e com trechos de todos os desafios.",
+        "dicas": [
+          "Use um personagem normal (não Yoshi nem Nabbit) para a fase valer como desafio."
+        ]
+      }
+    },
+    "estrelas": {
+      "dificil": true
+    },
+    "bp_parque": {
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch 2 Edition + Vamos ao Parque Belabel."
+        ]
+      }
+    }
+  }
+}

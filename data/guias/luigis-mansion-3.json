@@ -1,0 +1,43 @@
+{
+  "resumo": "Luigi's Mansion 3 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, joias, Boos, Rank A, chefes e o ScareScraper, com os Pacotes Multijogador numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Andar por andar até o Rei Boo."
+    },
+    {
+      "titulo": "2. Boos e joias",
+      "texto": "Volte com o mapa aberto."
+    },
+    {
+      "titulo": "3. Cooperativo",
+      "texto": "ScareScraper com amigos ou online."
+    }
+  ],
+  "avisos": [
+    "Boos perdidos não somem: eles aparecem de novo depois."
+  ],
+  "conquistas": {
+    "joias": {
+      "guia": {
+        "dicas": [
+          "Cada andar tem 6 joias. O menu mostra quantas faltam em cada um."
+        ]
+      }
+    },
+    "boos": {
+      "guia": {
+        "atencao": [
+          "Cada Boo só aparece depois que você termina o andar dele na história."
+        ]
+      }
+    },
+    "mp_pacotes": {
+      "guia": {
+        "requisitos": [
+          "Pacotes Multijogador (DLC)."
+        ]
+      }
+    }
+  }
+}

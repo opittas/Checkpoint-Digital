@@ -1,0 +1,158 @@
+{
+ "id": "super-mario-odyssey",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Casamento Cancelado",
+   "d": "Derrote o Bowser no Reino da Lua e termine a história.",
+   "n_en": "Wedding Crashed",
+   "d_en": "Beat Bowser in the Moon Kingdom.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "reinos",
+   "g": 0,
+   "n": "Volta ao Mundo",
+   "d": "Visite todos os reinos, inclusive o Reino dos Cogumelos.",
+   "n_en": "World Tour",
+   "d_en": "Visit every kingdom, including the Mushroom Kingdom.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lado_escuro",
+   "g": 0,
+   "n": "Lado Escuro da Lua",
+   "d": "Termine o Lado Escuro da Lua (abre com 250 Luas).",
+   "n_en": "Dark Side",
+   "d_en": "Clear the Dark Side of the Moon (250 Moons).",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lado_sombrio",
+   "g": 0,
+   "n": "O Lado Mais Escuro",
+   "d": "Termine o Lado Mais Escuro da Lua (abre com 500 Luas).",
+   "n_en": "Darker Side",
+   "d_en": "Clear the Darker Side of the Moon (500 Moons).",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "luas",
+   "g": 0,
+   "n": "999 Luas",
+   "d": "Encha o contador de Luas até 999.",
+   "n_en": "999 Moons",
+   "d_en": "Fill the Power Moon counter to 999.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 999
+  },
+  {
+   "k": "roxas",
+   "g": 0,
+   "n": "Moedas Regionais",
+   "d": "Junte todas as moedas roxas de todos os reinos.",
+   "n_en": "Regional Coins",
+   "d_en": "Collect every purple coin in every kingdom.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "capturas",
+   "g": 0,
+   "n": "Lista de Capturas",
+   "d": "Capture todas as 52 criaturas e objetos com o Cappy.",
+   "n_en": "Capture List",
+   "d_en": "Capture all 52 creatures and objects.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 52
+  },
+  {
+   "k": "roupas",
+   "g": 0,
+   "n": "Guarda-roupa Completo",
+   "d": "Compre todas as roupas e chapéus.",
+   "n_en": "Full Wardrobe",
+   "d_en": "Buy every outfit and hat.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pular_corda",
+   "g": 0,
+   "n": "Rei da Corda",
+   "d": "Pule 100 vezes seguidas no pular corda do Reino Metropolitano.",
+   "n_en": "Jump Rope Pro",
+   "d_en": "Jump 100 times in a row in New Donk City's jump rope.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "volei",
+   "g": 0,
+   "n": "Craque do Vôlei",
+   "d": "Faça 100 toques no vôlei de praia do Reino do Mar.",
+   "n_en": "Volleyball Pro",
+   "d_en": "Get 100 hits in Seaside Kingdom beach volleyball.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "koopa",
+   "g": 0,
+   "n": "Corrida Koopa",
+   "d": "Vença a Corrida Koopa em todos os reinos.",
+   "n_en": "Koopa Freerunning",
+   "d_en": "Win Koopa Freerunning in every kingdom.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "luigi",
+   "g": 0,
+   "n": "Balões do Luigi",
+   "d": "Encontre um balão no Mundo dos Balões do Luigi.",
+   "n_en": "Luigi's Balloons",
+   "d_en": "Find a balloon in Luigi's Balloon World.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "100",
+   "g": 0,
+   "n": "Odisseia Completa",
+   "d": "Junte todas as Luas únicas e moedas roxas de todos os reinos.",
+   "n_en": "Complete Odyssey",
+   "d_en": "Collect every unique Moon and purple coin.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

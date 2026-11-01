@@ -1,0 +1,56 @@
+{
+  "resumo": "Metroid Dread não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, E.M.M.I., 100% dos itens, speedrun, Modo Difícil, Modo Dread, Boss Rush e a galeria.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeira volta",
+      "texto": "Normal, explorando tudo."
+    },
+    {
+      "titulo": "2. Itens",
+      "texto": "Volte com todos os poderes para 100%."
+    },
+    {
+      "titulo": "3. Difícil e rápido",
+      "texto": "Uma volta no Difícil em menos de 4h."
+    },
+    {
+      "titulo": "4. Dread",
+      "texto": "O modo de um golpe só."
+    }
+  ],
+  "avisos": [
+    "Os modos Difícil e Dread abrem depois de terminar o jogo uma vez."
+  ],
+  "conquistas": {
+    "100": {
+      "guia": {
+        "dicas": [
+          "O mapa marca as salas com itens que faltam depois que você pega o upgrade certo."
+        ]
+      }
+    },
+    "rapido": {
+      "dificil": true
+    },
+    "dificil": {
+      "dificil": true
+    },
+    "dread": {
+      "dificil": true
+    },
+    "boss_rush": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "Atualização 2.0 (gratuita). Abre depois de terminar o jogo."
+        ]
+      }
+    },
+    "galeria": {
+      "dificil": true,
+      "guia": {
+        "resumo": "As imagens dependem de dificuldade, tempo e porcentagem de itens em cada final."
+      }
+    }
+  }
+}

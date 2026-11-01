@@ -1,0 +1,57 @@
+{
+  "resumo": "Donkey Kong Bananza não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, transformações, bananas, fósseis, desafios e a DLC Ilha DK + Caça às Esmeraldas numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Desça camada por camada até o núcleo."
+    },
+    {
+      "titulo": "2. Limpeza",
+      "texto": "Bananas, fósseis e roupas de cada camada."
+    },
+    {
+      "titulo": "3. Desafios",
+      "texto": "As fases de desafio depois dos créditos."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Ilha DK e Caça às Esmeraldas (aba própria)."
+    }
+  ],
+  "avisos": [
+    "Exclusivo do Nintendo Switch 2.",
+    "A DLC fica numa aba separada e não conta no 100% do jogo base."
+  ],
+  "conquistas": {
+    "bananzas": {
+      "guia": {
+        "passos": [
+          "Cada transformação vem de uma das músicas da Pauline, ao longo da história."
+        ]
+      }
+    },
+    "bananas": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Os mapas de bananas vendidos nas lojas marcam as que faltam em cada camada."
+        ]
+      }
+    },
+    "desafios": {
+      "dificil": true
+    },
+    "dlc_ilha": {
+      "guia": {
+        "requisitos": [
+          "Conteúdo extra Ilha DK + Caça às Esmeraldas (vendido à parte ou no pacote)."
+        ]
+      }
+    },
+    "dlc_esmeraldas": {
+      "guia": {
+        "resumo": "Modo de rodadas: junte esmeraldas na camada dentro do tempo, com bônus aleatórios."
+      }
+    }
+  }
+}

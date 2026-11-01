@@ -1,0 +1,29 @@
+{
+  "resumo": "Echoes of Wisdom não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Ecos, Corações, Cristais de Poder, vitaminas, carimbos e missões secundárias.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Fendas e templos."
+    },
+    {
+      "titulo": "2. Ecos",
+      "texto": "Aprenda os monstros de cada região."
+    },
+    {
+      "titulo": "3. Limpeza",
+      "texto": "Corações, cristais, carimbos e missões."
+    }
+  ],
+  "avisos": [
+    "Algumas metas não têm contador no jogo: confira com um guia ao final."
+  ],
+  "conquistas": {
+    "ecos": {
+      "guia": {
+        "dicas": [
+          "Os Ecos que faltam aparecem como ‘???’ na lista, na ordem dos monstros de cada região."
+        ]
+      }
+    }
+  }
+}

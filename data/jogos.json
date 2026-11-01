@@ -409,7 +409,7 @@
     "playthroughs": null,
     "online": false,
     "mode": "sem-conquistas",
-    "image": "imagens/jogos/metroid4.jpg",
+    "image": "imagens/jogos/metroid4-capa2.jpg",
     "generos": [
       "Ação",
       "Aventura",
@@ -4802,7 +4802,7 @@
     "playthroughs": "1",
     "online": false,
     "mode": "checklist",
-    "image": "imagens/jogos/donkey-kong-bananza.jpg",
+    "image": "imagens/jogos/donkey-kong-bananza-capa2.jpg",
     "generos": [
       "Plataforma",
       "Aventura"

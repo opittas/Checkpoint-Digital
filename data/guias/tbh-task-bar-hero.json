@@ -7,5 +7,806 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "STEAM_ACHIEVEMENT_100001": {
+      "guia": {
+        "passos": [
+          "Complete o estágio 1-1 pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_100002": {
+      "guia": {
+        "passos": [
+          "Complete o estágio 1-10 pela primeira vez!"
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_100003": {
+      "guia": {
+        "passos": [
+          "Complete o estágio 2-10 pela primeira vez!"
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_100004": {
+      "guia": {
+        "passos": [
+          "Complete o modo Normal pela primeira vez!"
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_100005": {
+      "guia": {
+        "passos": [
+          "Complete o modo Pesadelo pela primeira vez!"
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_100006": {
+      "guia": {
+        "passos": [
+          "Complete o modo Inferno pela primeira vez!"
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_101001": {
+      "guia": {
+        "passos": [
+          "Derrote 1.000 monstros."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_101002": {
+      "guia": {
+        "passos": [
+          "Derrote 10.000 monstros."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_101003": {
+      "guia": {
+        "passos": [
+          "Derrote 100.000 monstros."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_102001": {
+      "guia": {
+        "passos": [
+          "Abra 10 baús normais."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_102002": {
+      "guia": {
+        "passos": [
+          "Abra 10 baús de chefe de fase."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_102003": {
+      "guia": {
+        "passos": [
+          "Abra 10 baús de chefe de ato."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_103001": {
+      "guia": {
+        "passos": [
+          "Obtenha um equipamento de grau Arcana pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_103002": {
+      "guia": {
+        "passos": [
+          "Obtenha um equipamento de grau Além pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_103003": {
+      "guia": {
+        "passos": [
+          "Obtenha um equipamento de grau Celestial pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_103004": {
+      "guia": {
+        "passos": [
+          "Obtenha um equipamento de grau Divino pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_103005": {
+      "guia": {
+        "passos": [
+          "Obtenha um equipamento de grau Cósmico pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_111001": {
+      "guia": {
+        "passos": [
+          "Sintetize com sucesso um item de grau Incomum pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_111002": {
+      "guia": {
+        "passos": [
+          "Sintetize com sucesso um item de grau Raro pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_111003": {
+      "guia": {
+        "passos": [
+          "Sintetize com sucesso um item de grau Lendário pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_111004": {
+      "guia": {
+        "passos": [
+          "Sintetize com sucesso um item de grau Imortal pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_112001": {
+      "guia": {
+        "passos": [
+          "Aplique com sucesso uma opção de Decoração de Tier 1+ pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_112002": {
+      "guia": {
+        "passos": [
+          "Aplique com sucesso uma opção de Decoração de Tier 5+ pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_113001": {
+      "guia": {
+        "passos": [
+          "Aplique com sucesso uma opção de Gravação de Tier 1+ pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_113002": {
+      "guia": {
+        "passos": [
+          "Aplique com sucesso uma opção de Gravação de Tier 5+ pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_114001": {
+      "guia": {
+        "passos": [
+          "Aplique com sucesso uma opção de Inscrição de Tier 1+ pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_114002": {
+      "guia": {
+        "passos": [
+          "Aplique com sucesso uma opção de Inscrição de Tier 5+ pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_115001": {
+      "guia": {
+        "passos": [
+          "Realize uma Oferenda com sucesso pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_116001": {
+      "guia": {
+        "passos": [
+          "Crie com sucesso um acessório de grau Comum ou superior pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_116002": {
+      "guia": {
+        "passos": [
+          "Crie com sucesso um acessório de grau Imortal ou superior pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_119001": {
+      "guia": {
+        "passos": [
+          "Alcance o Cubo nível 10."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_119002": {
+      "guia": {
+        "passos": [
+          "Alcance o Cubo nível 50."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_120001": {
+      "guia": {
+        "passos": [
+          "Liste um item no Navio Mercante pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_121001": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o Pet Morcego."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_122001": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 de Herói pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_122002": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 20 de Herói pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_122003": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 30 de Herói pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_122004": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 50 de Herói pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_122005": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 60 de Herói pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_122006": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 70 de Herói pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_122007": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 80 de Herói pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_123001": {
+      "guia": {
+        "passos": [
+          "Desbloqueie o herói Sacerdote."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131001": {
+      "guia": {
+        "passos": [
+          "Eleve 4 heróis ao nível 50 ou superior."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131002": {
+      "guia": {
+        "passos": [
+          "Complete Inferno 3-10 sozinho."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131003": {
+      "guia": {
+        "passos": [
+          "Complete Tormento 3-10 com um grupo de 2 jogadores."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131004": {
+      "guia": {
+        "passos": [
+          "Tente inscrição 100 vezes no mesmo item."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131005": {
+      "guia": {
+        "passos": [
+          "Complete toda a Decoração/Gravação/Inscrição em todos os equipamentos equipados (para itens com slots 2/2/2)."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131006": {
+      "guia": {
+        "passos": [
+          "Complete qualquer estágio em menos de 10 segundos."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131007": {
+      "guia": {
+        "passos": [
+          "Complete o chefe de ato Normal 3-10 com 2 membros do grupo mortos em um grupo de 3 jogadores."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_131008": {
+      "guia": {
+        "passos": [
+          "Complete o chefe de ato Pesadelo 3-10 sem tomar nenhum dano."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_104001": {
+      "guia": {
+        "passos": [
+          "Ganhe 1.000 de ouro."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_104002": {
+      "guia": {
+        "passos": [
+          "Ganhe 1.000.000 de ouro."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_104003": {
+      "guia": {
+        "passos": [
+          "Ganhe 100.000.000 de ouro."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_110001": {
+      "guia": {
+        "passos": [
+          "Ganhe 1.000 de ouro com alquimia."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_110002": {
+      "guia": {
+        "passos": [
+          "Ganhe 1.000.000 de ouro com alquimia."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_117001": {
+      "guia": {
+        "passos": [
+          "Realize uma extração com sucesso pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105001": {
+      "guia": {
+        "passos": [
+          "Conclua uma fase das Terras da Peste pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105002": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Pesadelo) na Intensidade da peste 5."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105003": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Pesadelo) na Intensidade da peste 10."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105004": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Pesadelo) na Intensidade da peste 15."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105005": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Pesadelo) na Intensidade da peste 20."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105006": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Inferno) na Intensidade da peste 5."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105007": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Inferno) na Intensidade da peste 10."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105008": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Inferno) na Intensidade da peste 15."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105009": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Inferno) na Intensidade da peste 20."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105010": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Tormento) na Intensidade da peste 5."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105011": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Tormento) na Intensidade da peste 10."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105012": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Tormento) na Intensidade da peste 15."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105013": {
+      "guia": {
+        "passos": [
+          "Conclua as Terras da Peste (Tormento) na Intensidade da peste 20."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105014": {
+      "guia": {
+        "passos": [
+          "Derrote um chefe de ato contaminado."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_105015": {
+      "guia": {
+        "passos": [
+          "Derrote 10.000 monstros nas Terras da Peste."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_118001": {
+      "guia": {
+        "passos": [
+          "Realize uma Corrosão com sucesso pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124001": {
+      "guia": {
+        "passos": [
+          "Obtenha um Relicário pela primeira vez fazendo uma Oferenda de um Relicário contaminado."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124002": {
+      "guia": {
+        "passos": [
+          "Equipe uma Relíquia em um Relicário pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124003": {
+      "guia": {
+        "passos": [
+          "Ative um Efeito de ressonância pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124004": {
+      "guia": {
+        "passos": [
+          "Ative 2 Efeitos de ressonância ao mesmo tempo."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124005": {
+      "guia": {
+        "passos": [
+          "Equipe Relíquias em todos os 8 espaços de um Relicário."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124006": {
+      "guia": {
+        "passos": [
+          "Realize uma Sintonização com sucesso pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124007": {
+      "guia": {
+        "passos": [
+          "Sintonize a mesma Relíquia ou o mesmo Relicário 10 vezes."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    },
+    "STEAM_ACHIEVEMENT_124008": {
+      "guia": {
+        "passos": [
+          "Sintetize uma Relíquia com sucesso pela primeira vez."
+        ],
+        "dicas": [
+          "Jogo idle na barra de tarefas: progride com o tempo; foque em melhorar o equipamento."
+        ]
+      }
+    }
+  }
 }

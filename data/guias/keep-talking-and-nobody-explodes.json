@@ -11,5 +11,94 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "firstbomb": {
+      "guia": {
+        "passos": [
+          "Desarme a primeira bomba."
+        ],
+        "dicas": [
+          "Leia o manual com o parceiro."
+        ]
+      }
+    },
+    "allthebasics": {
+      "guia": {
+        "passos": [
+          "Desarme todas as bombas da seção 'O Básico'."
+        ],
+        "dicas": [
+          "Combine termos antes de começar."
+        ]
+      }
+    },
+    "allmoderate": {
+      "guia": {
+        "passos": [
+          "Desarme as bombas da seção 'Moderado'."
+        ]
+      }
+    },
+    "allneedy": {
+      "guia": {
+        "passos": [
+          "Desarme as bombas da seção 'Necessário'."
+        ],
+        "dicas": [
+          "Fique de olho nos módulos com contagem."
+        ]
+      }
+    },
+    "allchallenging": {
+      "guia": {
+        "passos": [
+          "Desarme as bombas da seção 'Desafiante'."
+        ]
+      }
+    },
+    "allextreme": {
+      "guia": {
+        "passos": [
+          "Desarme as bombas da seção 'Extremo'."
+        ],
+        "dicas": [
+          "Treine bastante antes."
+        ]
+      }
+    },
+    "allexotic": {
+      "guia": {
+        "passos": [
+          "Desarme as bombas da seção 'Exótico'."
+        ]
+      }
+    },
+    "disarmeachmodule": {
+      "guia": {
+        "passos": [
+          "Desarme cada tipo de módulo pelo menos uma vez."
+        ],
+        "dicas": [
+          "Jogue o modo livre com todos os módulos."
+        ]
+      }
+    },
+    "100modulesdisarmed": {
+      "guia": {
+        "passos": [
+          "Desarme 100 módulos no total."
+        ]
+      }
+    },
+    "100defused": {
+      "guia": {
+        "passos": [
+          "Desarme 100 bombas no total."
+        ],
+        "dicas": [
+          "Use o modo livre com bombas curtas."
+        ]
+      }
+    }
+  }
 }

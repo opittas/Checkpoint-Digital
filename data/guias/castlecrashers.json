@@ -29,20 +29,135 @@
   "conquistas": {
     "ACH_ARENAMASTER": {
       "online": true,
-      "dica": "Combine com amigos para fechar as 40 vitórias mais rápido."
+      "dica": "Combine com amigos para fechar as 40 vitórias mais rápido.",
+      "guia": {
+        "passos": [
+          "Vença 40 partidas online na Arena."
+        ],
+        "dicas": [
+          "Combine com amigos."
+        ]
+      }
     },
     "ACH_KISS": {
       "online": true,
-      "dica": "As 4 princesas aparecem ao longo da campanha; cada jogador precisa ganhar uma."
+      "dica": "As 4 princesas aparecem ao longo da campanha; cada jogador precisa ganhar uma.",
+      "guia": {
+        "passos": [
+          "Em multijogador, cada jogador precisa ganhar o beijo de uma das 4 princesas.",
+          "Elas aparecem depois do Chefe Bárbaro, do Castelo de Gelo, do Navio Pirata e do final."
+        ],
+        "dicas": [
+          "Combine quem vai ganhar cada beijo antes da briga entre os jogadores."
+        ]
+      }
     },
     "ACH_MEDIC": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Em jogo de 4 jogadores, ressuscite cada colega pelo menos uma vez."
+        ],
+        "dicas": [
+          "Combine para cada um cair uma vez."
+        ]
+      }
     },
     "ACH_CONOBJECTOR": {
-      "dica": "Use um save novo e não aperte ataque nenhuma vez até o Chefe Bárbaro."
+      "dica": "Use um save novo e não aperte ataque nenhuma vez até o Chefe Bárbaro.",
+      "guia": {
+        "passos": [
+          "Num save novo, vá do Castelo Natal até o Chefe Bárbaro sem atacar nenhum inimigo."
+        ],
+        "dicas": [
+          "Use o salto e passe correndo pelos inimigos."
+        ]
+      }
     },
     "ACH_ANMLTRAINER": {
-      "dica": "Alguns orbes ficam escondidos ou na loja; confira a lista do Zoológico Animal na tela do jogo."
+      "dica": "Alguns orbes ficam escondidos ou na loja; confira a lista do Zoológico Animal na tela do jogo.",
+      "guia": {
+        "passos": [
+          "Junte todos os orbes de animais (pets).",
+          "Alguns são comprados na loja, outros escondidos nas fases."
+        ],
+        "dicas": [
+          "Confira o Zoológico Animal para ver os que faltam."
+        ]
+      }
+    },
+    "ACH_MELEEISBEST": {
+      "guia": {
+        "passos": [
+          "Na luta contra qualquer chefe final, use só ataques corpo a corpo e flechas, sem magia."
+        ],
+        "dicas": [
+          "O Chefe Bárbaro e o Rei Feiticeiro valem; escolha o que você enfrenta melhor."
+        ]
+      }
+    },
+    "ACH_TRADITIONAL": {
+      "guia": {
+        "passos": [
+          "Termine a campanha com qualquer personagem."
+        ],
+        "dicas": [
+          "Use a Normal mode e suba de nível nos mapas anteriores se travar."
+        ]
+      }
+    },
+    "ACH_THETRAITOR": {
+      "guia": {
+        "passos": [
+          "Libere um personagem inimigo (por exemplo, terminando a história com um cavaleiro).",
+          "Derrote o chefe da facção dele usando esse personagem."
+        ],
+        "dicas": [
+          "O Bárbaro contra o Chefe Bárbaro é o caminho mais comum."
+        ]
+      }
+    },
+    "ACH_DEERTRAINER": {
+      "guia": {
+        "passos": [
+          "No Moinho Abandonado, você corre montado no cervo.",
+          "Pule todos os obstáculos sem tocar em nenhum."
+        ],
+        "dicas": [
+          "Recomece a fase se bater."
+        ]
+      }
+    },
+    "ACH_MAXFIREPOWR": {
+      "guia": {
+        "passos": [
+          "Use uma catapulta e lance um cavaleiro com força máxima."
+        ],
+        "dicas": [
+          "Funciona no castelo do Chefe Bárbaro."
+        ]
+      }
+    },
+    "ACH_GLORK": {
+      "guia": {
+        "passos": [
+          "No minijogo Afaste o Bárbaro, sobreviva até 2:30."
+        ],
+        "dicas": [
+          "Fique nas plataformas do meio."
+        ]
+      }
+    },
+    "ACH_TREASURHNTR": {
+      "guia": {
+        "passos": [
+          "Desenterre 10 itens com a pá.",
+          "A pá é encontrada nas primeiras fases."
+        ],
+        "dicas": [
+          "Itens enterrados aparecem como marcas no chão."
+        ]
+      }
     }
   }
 }

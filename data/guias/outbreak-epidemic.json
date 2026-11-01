@@ -7,5 +7,68 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "G1_L2": {
+      "guia": {
+        "passos": [
+          "Jogue e ganhe experiência com o Sobrevivente até o nível 2."
+        ],
+        "dicas": [
+          "Complete objetivos para ganhar mais XP."
+        ]
+      }
+    },
+    "G2_L2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 com o Líder."
+        ]
+      }
+    },
+    "K1_L2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 com a Repórter."
+        ]
+      }
+    },
+    "K2_L2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 com a Médica."
+        ]
+      }
+    },
+    "R1_L2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 com o Renegado."
+        ]
+      }
+    },
+    "R2_L2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 com o Lenhador."
+        ]
+      }
+    },
+    "T1_L2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 com o Atirador."
+        ]
+      }
+    },
+    "T2_L2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 com o Aventureiro."
+        ],
+        "dicas": [
+          "Jogue em cooperativo para ganhar XP mais rápido."
+        ]
+      }
+    }
+  }
 }

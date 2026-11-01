@@ -11,5 +11,103 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "GAME_STARTED": {
+      "guia": {
+        "passos": [
+          "Comece um jogo novo."
+        ]
+      }
+    },
+    "ICE_CLIMB_STARTED": {
+      "guia": {
+        "passos": [
+          "Chegue à fase 7."
+        ]
+      }
+    },
+    "ETHANOL_TEMPLE_STARTED": {
+      "guia": {
+        "passos": [
+          "Chegue à fase 13."
+        ]
+      }
+    },
+    "MINISTRY_INFILTRATION_STARTED": {
+      "guia": {
+        "passos": [
+          "Chegue à fase 19."
+        ]
+      }
+    },
+    "GAME_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ]
+      }
+    },
+    "COASTERS_COLLECTED_10": {
+      "guia": {
+        "passos": [
+          "Junte 10 porta-copos."
+        ],
+        "dicas": [
+          "Eles ficam escondidos nas fases."
+        ]
+      }
+    },
+    "COASTERS_COLLECTED_25": {
+      "guia": {
+        "passos": [
+          "Junte 25 porta-copos."
+        ]
+      }
+    },
+    "COASTERS_COLLECTED_40": {
+      "guia": {
+        "passos": [
+          "Junte 40 porta-copos."
+        ]
+      }
+    },
+    "COASTERS_COLLECTED_72": {
+      "guia": {
+        "passos": [
+          "Junte todos os 72 porta-copos."
+        ],
+        "dicas": [
+          "Revisite as fases para pegar os que faltam."
+        ]
+      }
+    },
+    "LEVEL_CREATED": {
+      "guia": {
+        "passos": [
+          "Salve uma fase no editor."
+        ]
+      }
+    },
+    "COASTERS_COLLECTED_50": {
+      "guia": {
+        "passos": [
+          "Junte 50 porta-copos."
+        ]
+      }
+    },
+    "COASTERS_COLLECTED_60": {
+      "guia": {
+        "passos": [
+          "Junte 60 porta-copos."
+        ]
+      }
+    },
+    "COASTERS_COLLECTED_70": {
+      "guia": {
+        "passos": [
+          "Junte 70 porta-copos."
+        ]
+      }
+    }
+  }
 }

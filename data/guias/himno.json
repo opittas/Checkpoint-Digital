@@ -7,5 +7,110 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "achievement_00": {
+      "guia": {
+        "passos": [
+          "Caia na água."
+        ],
+        "dicas": [
+          "Acontece rápido."
+        ]
+      }
+    },
+    "achievement_01": {
+      "guia": {
+        "passos": [
+          "Acenda 30 tochas numa jogatina."
+        ],
+        "dicas": [
+          "Tochas ficam nas plataformas."
+        ]
+      }
+    },
+    "achievement_02": {
+      "guia": {
+        "passos": [
+          "Visite 100 distritos."
+        ],
+        "dicas": [
+          "Cada jogo gera distritos novos."
+        ]
+      }
+    },
+    "achievement_03": {
+      "guia": {
+        "passos": [
+          "Use 15 runas de impulso."
+        ],
+        "dicas": [
+          "As runas brilham nas plataformas."
+        ]
+      }
+    },
+    "achievement_04": {
+      "guia": {
+        "passos": [
+          "Explore acima de 600 metros."
+        ],
+        "dicas": [
+          "Suba sempre."
+        ]
+      }
+    },
+    "achievement_05": {
+      "guia": {
+        "passos": [
+          "Dê 5000 pulos no total."
+        ],
+        "dicas": [
+          "Vem com o tempo."
+        ]
+      }
+    },
+    "achievement_06": {
+      "guia": {
+        "passos": [
+          "Dê 2500 impulsos no total."
+        ]
+      }
+    },
+    "achievement_07": {
+      "guia": {
+        "passos": [
+          "Liberte seu primeiro Fogo-Fátuo."
+        ],
+        "dicas": [
+          "Toque nele."
+        ]
+      }
+    },
+    "achievement_08": {
+      "guia": {
+        "passos": [
+          "Liberte 25 Fogos-Fátuos."
+        ]
+      }
+    },
+    "achievement_09": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 19."
+        ],
+        "dicas": [
+          "Acenda tochas para ganhar XP."
+        ]
+      }
+    },
+    "achievement_10": {
+      "guia": {
+        "passos": [
+          "Chegue ao distrito 11."
+        ],
+        "dicas": [
+          "Siga em frente."
+        ]
+      }
+    }
+  }
 }

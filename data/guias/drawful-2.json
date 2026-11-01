@@ -13,5 +13,106 @@
   "avisos": [
     "Precisa de várias pessoas."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "DRAWFUL2_LOTS_OF_GAMES": {
+      "guia": {
+        "passos": [
+          "Jogue 50 partidas."
+        ],
+        "dicas": [
+          "Partidas rápidas com amigos ou sozinho contam."
+        ]
+      }
+    },
+    "DRAWFUL2_FOOL_EVERY_OTHER_PLAYER": {
+      "guia": {
+        "passos": [
+          "Escreva um título falso que engane todos os outros jogadores."
+        ],
+        "dicas": [
+          "Um título que pareça a resposta óbvia funciona melhor."
+        ]
+      }
+    },
+    "DRAWFUL2_BIG_AUDIENCE": {
+      "guia": {
+        "passos": [
+          "Tenha 10 ou mais pessoas na plateia."
+        ],
+        "dicas": [
+          "Faça uma live e peça para entrarem pelo jackbox.tv."
+        ]
+      }
+    },
+    "DRAWFUL2_BIG_STREAK": {
+      "guia": {
+        "passos": [
+          "Acerte 3 vezes seguidas."
+        ],
+        "dicas": [
+          "Pense como os outros jogadores."
+        ]
+      }
+    },
+    "DRAWFUL2_PLAY_UGC": {
+      "guia": {
+        "passos": [
+          "Jogue com um episódio criado por usuários."
+        ],
+        "dicas": [
+          "Use o menu Episódios."
+        ]
+      }
+    },
+    "DRAWFUL2_SECRET_TITLE": {
+      "guia": {
+        "passos": [
+          "Na hora de escrever um título falso, digite o título secreto do jogo."
+        ],
+        "dicas": [
+          "O título secreto muda com o tema: procure a dica nas telas de carregamento e no próprio desenho do jogo."
+        ]
+      }
+    },
+    "DRAWFUL2_LOTS_OF_LIKES": {
+      "guia": {
+        "passos": [
+          "Receba mais de 50 curtidas em uma partida."
+        ],
+        "dicas": [
+          "A plateia também curte."
+        ]
+      }
+    },
+    "DRAWFUL2_CHOOSE_DECOY": {
+      "guia": {
+        "passos": [
+          "Escolha uma resposta falsa criada pelo jogo."
+        ],
+        "dicas": [
+          "Escolha a mais estranha."
+        ]
+      }
+    },
+    "DRAWFUL2_LOTS_OF_LINES": {
+      "guia": {
+        "passos": [
+          "Envie um desenho com mais de 50 traços."
+        ],
+        "dicas": [
+          "Faça muitos traços curtos."
+        ]
+      }
+    },
+    "DRAWFUL2_USE_BOTH_COLORS": {
+      "guia": {
+        "passos": [
+          "Use as duas cores em um desenho."
+        ],
+        "dicas": [
+          "Troque a cor no celular."
+        ]
+      }
+    }
+  }
 }

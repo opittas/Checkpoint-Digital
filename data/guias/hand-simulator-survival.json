@@ -7,5 +7,76 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "1_DAY": {
+      "guia": {
+        "passos": [
+          "Sobreviva ao primeiro dia: junte comida, água e madeira."
+        ],
+        "dicas": [
+          "Construa um abrigo antes da noite."
+        ]
+      }
+    },
+    "2_DAY": {
+      "guia": {
+        "passos": [
+          "Sobreviva 2 dias."
+        ],
+        "dicas": [
+          "Mantenha fome e sede acima da metade."
+        ]
+      }
+    },
+    "3_DAY": {
+      "guia": {
+        "passos": [
+          "Sobreviva 3 dias."
+        ],
+        "dicas": [
+          "Faça ferramentas melhores."
+        ]
+      }
+    },
+    "4_DAY": {
+      "guia": {
+        "passos": [
+          "Sobreviva 4 dias."
+        ],
+        "dicas": [
+          "Plante para ter comida estável."
+        ]
+      }
+    },
+    "5_DAY": {
+      "guia": {
+        "passos": [
+          "Sobreviva 5 dias."
+        ],
+        "dicas": [
+          "Junte estoques de comida."
+        ]
+      }
+    },
+    "6_DAY": {
+      "guia": {
+        "passos": [
+          "Sobreviva 6 dias."
+        ],
+        "dicas": [
+          "Melhore o abrigo."
+        ]
+      }
+    },
+    "7_DAY": {
+      "guia": {
+        "passos": [
+          "Sobreviva 7 dias."
+        ],
+        "dicas": [
+          "Jogue em cooperativo para dividir tarefas."
+        ]
+      }
+    }
+  }
 }

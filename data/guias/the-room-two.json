@@ -7,5 +7,61 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "TUTORIAL_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 1 (tutorial)."
+        ],
+        "dicas": [
+          "A lente revela símbolos escondidos."
+        ]
+      }
+    },
+    "SHIP_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo do navio."
+        ]
+      }
+    },
+    "TEMPLE_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo do templo."
+        ]
+      }
+    },
+    "SEANCE_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a sala de sessão espírita."
+        ]
+      }
+    },
+    "BOAT_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo do barco."
+        ]
+      }
+    },
+    "LAB_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o laboratório."
+        ]
+      }
+    },
+    "GAME_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o epílogo."
+        ],
+        "dicas": [
+          "Use as dicas do jogo se travar."
+        ]
+      }
+    }
+  }
 }

@@ -7,5 +7,99 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "NotNow": {
+      "guia": {
+        "passos": [
+          "No capítulo da mãe ligando, desligue 5 vezes."
+        ],
+        "dicas": [
+          "Acontece na primeira parte do jogo."
+        ]
+      }
+    },
+    "Influencer": {
+      "guia": {
+        "passos": [
+          "No capítulo da vida adulta, curta todos os posts das redes sociais."
+        ]
+      }
+    },
+    "Indecisive": {
+      "guia": {
+        "passos": [
+          "Mude a cor da arte 5 vezes."
+        ],
+        "dicas": [
+          "Acontece no capítulo da pintura."
+        ]
+      }
+    },
+    "Necessities": {
+      "guia": {
+        "passos": [
+          "Na mudança, mantenha os dois potes de Marmite/Vegemite."
+        ]
+      }
+    },
+    "Oops": {
+      "guia": {
+        "passos": [
+          "Erre todas as questões de matemática."
+        ]
+      }
+    },
+    "BadAccountant": {
+      "guia": {
+        "passos": [
+          "Erre 3 números no minijogo de contabilidade."
+        ]
+      }
+    },
+    "FamilyPhoto": {
+      "guia": {
+        "passos": [
+          "Na mudança, deixe as duas fotos de família na prateleira."
+        ]
+      }
+    },
+    "Heart": {
+      "guia": {
+        "passos": [
+          "Responda só com corações no chat."
+        ]
+      }
+    },
+    "QuickCleaner": {
+      "guia": {
+        "passos": [
+          "Limpe o quarto do Krish em menos de 15 segundos."
+        ]
+      }
+    },
+    "Overruled": {
+      "guia": {
+        "passos": [
+          "Perca a briga com o Krish no capítulo das compras."
+        ]
+      }
+    },
+    "Acceptance": {
+      "guia": {
+        "passos": [
+          "No capítulo 'Esquecendo', jogue sem parar até o fim."
+        ]
+      }
+    },
+    "Complete": {
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ],
+        "dicas": [
+          "Tudo pode ser feito em uma jogada."
+        ]
+      }
+    }
+  }
 }

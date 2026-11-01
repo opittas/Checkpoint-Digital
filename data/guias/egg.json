@@ -7,5 +7,17 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "EGG_WINNER": {
+      "guia": {
+        "passos": [
+          "Clique no ovo e compre as melhorias que geram ovos automaticamente.",
+          "Deixe o jogo aberto até chegar a 1.000.000."
+        ],
+        "dicas": [
+          "Invista primeiro em produção por segundo: o resto vem com tempo ocioso."
+        ]
+      }
+    }
+  }
 }

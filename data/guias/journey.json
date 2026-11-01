@@ -15,5 +15,110 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_Threshold": {
+      "guia": {
+        "passos": [
+          "Na primeira área, atravesse a ponte quebrada sem reconstruir tudo."
+        ],
+        "dicas": [
+          "Use o pulo para chegar ao outro lado."
+        ]
+      }
+    },
+    "ACH_Mirage": {
+      "guia": {
+        "passos": [
+          "Ache a flor do deserto escondida em uma das áreas iniciais."
+        ]
+      }
+    },
+    "ACH_Explore": {
+      "guia": {
+        "passos": [
+          "Descubra todas as criaturas de pano do deserto."
+        ]
+      }
+    },
+    "ACH_Adventure": {
+      "guia": {
+        "passos": [
+          "Na cidade submersa (surf na areia), passe por 15 portais."
+        ]
+      }
+    },
+    "ACH_Ancestors": {
+      "guia": {
+        "passos": [
+          "Encontre a criatura misteriosa escondida no templo."
+        ]
+      }
+    },
+    "ACH_Trials": {
+      "guia": {
+        "passos": [
+          "Na passagem subterrânea, esconda-se das sentinelas sem rasgar o cachecol."
+        ]
+      }
+    },
+    "ACH_History": {
+      "guia": {
+        "passos": [
+          "Encontre os 10 glifos ancestrais."
+        ]
+      }
+    },
+    "ACH_Crossing": {
+      "guia": {
+        "passos": [
+          "Chegue ao cume com um companheiro e volte ao início."
+        ]
+      }
+    },
+    "ACH_Rebirth": {
+      "guia": {
+        "passos": [
+          "Termine o jogo e volte ao início."
+        ]
+      }
+    },
+    "ACH_Companion": {
+      "guia": {
+        "passos": [
+          "Termine com o mesmo parceiro a maior parte da jornada."
+        ]
+      }
+    },
+    "ACH_Reflection": {
+      "guia": {
+        "passos": [
+          "Sente e medite com outro jogador por mais de 20 segundos."
+        ]
+      }
+    },
+    "ACH_Wonder": {
+      "guia": {
+        "passos": [
+          "Encontre 10 viajantes diferentes."
+        ]
+      }
+    },
+    "ACH_Return": {
+      "guia": {
+        "passos": [
+          "Recomece a jornada depois de uma semana de pausa."
+        ]
+      }
+    },
+    "ACH_Transcendence": {
+      "guia": {
+        "passos": [
+          "Junte todos os símbolos reluzentes."
+        ],
+        "dicas": [
+          "Use um mapa de símbolos."
+        ]
+      }
+    }
+  }
 }

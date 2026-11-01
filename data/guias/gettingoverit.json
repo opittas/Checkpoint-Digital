@@ -19,7 +19,35 @@
   ],
   "conquistas": {
     "ASCENDED_LOTS": {
-      "dica": "Jogadores experientes sobem em menos de 5 minutos; treino é tudo."
+      "dica": "Jogadores experientes sobem em menos de 5 minutos; treino é tudo.",
+      "guia": {
+        "passos": [
+          "Suba 50 vezes no total."
+        ],
+        "dicas": [
+          "Aprenda os atalhos (pulo na árvore, a laranja e o lance da chaminé)."
+        ]
+      }
+    },
+    "ASCENDED_ONCE": {
+      "guia": {
+        "passos": [
+          "Suba a montanha só com o martelo até o topo."
+        ],
+        "dicas": [
+          "Movimentos pequenos e lentos dão mais controle que movimentos rápidos."
+        ]
+      }
+    },
+    "ASCENDED_TWICE": {
+      "guia": {
+        "passos": [
+          "Chegue ao topo de novo, num segundo jogo."
+        ],
+        "dicas": [
+          "A segunda subida é bem mais rápida: você já conhece o caminho."
+        ]
+      }
     }
   }
 }

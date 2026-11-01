@@ -13,5 +13,56 @@
   "avisos": [
     "Nada é perdível."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVE_CHAP_1_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Resolva a primeira caixa e abra o cofre."
+        ],
+        "dicas": [
+          "Use a lente para ver símbolos escondidos."
+        ]
+      }
+    },
+    "ACHIEVE_CHAP_2_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 2."
+        ],
+        "dicas": [
+          "Gire a caixa e examine cada lado."
+        ]
+      }
+    },
+    "ACHIEVE_CHAP_3_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 3."
+        ],
+        "dicas": [
+          "As dicas do jogo aparecem se você ficar parado."
+        ]
+      }
+    },
+    "ACHIEVE_CHAP_4_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o capítulo 4."
+        ],
+        "dicas": [
+          "Junte peças em todas as gavetas."
+        ]
+      }
+    },
+    "ACHIEVE_CHAP_5_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o epílogo."
+        ],
+        "dicas": [
+          "Use a lente em tudo antes de desistir."
+        ]
+      }
+    }
+  }
 }

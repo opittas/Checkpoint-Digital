@@ -27,112 +27,1000 @@
   ],
   "conquistas": {
     "Pets_Achv_Box": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Com certeza, muita fofura!"
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_JourneyFluffiness": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Morgan está orgulhoso de você."
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_WelcomeCozyVillage": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Espero que curta o campo."
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_Caretaker": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Para o início de algo especial."
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_FreshCleanDry": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Agora seu filhotinho pode se sujar de novo."
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_Playtime": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "A melhor parte do dia."
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_TapTap": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Consegue ouvir essas fofas patinhas atrás de você?"
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_VersatileCaretaker": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Você não vai parar por aqui, né?"
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_FloorIsYourCanvas": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Infelizmente não é uma arte muito feliz."
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_Teamwork": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Uma pata amiga sempre é bom!"
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_GrowFast": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "Parece que foi ontem!"
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Pets_Achv_PicturePerfect": {
-      "dlc": "Pets"
+      "dlc": "Pets",
+      "guia": {
+        "passos": [
+          "É difícil tirar uma boa foto quando eles se mexem o tempo inteiro."
+        ],
+        "dicas": [
+          "DLC Pets."
+        ]
+      }
     },
     "Farm_Achiv_OldMcDonald": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Tem algum animal que você ainda não tem?"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_DroneMaster": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Tirar fotos, regar, pulverizar… tudo no ar!"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_TheBiggerTheBetter": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Ampliar a casa é divertido demais!"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_MusicToMyEars": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Sua casa, suas regras, seu rádio."
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_CaptainHook": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Espero que você não tenha medo de altura!"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_Don’tHoldYourHorses": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Cavalgue como o vento!"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_HardworkingFarmer": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Seu esforço rendeu uma colheita."
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_They'reAllInOneBasket": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Ainda procurando o ovo de ouro?"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_SweetDreams": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Que tal um lanche da tarde com um Minotauro?"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achiv_LongDayCountryside": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "O trabalho duro compensa!"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_TalentedRoofer": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Mostre suas verdadeiras cores!"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "Farm_Achv_FreeSpirit": {
-      "dlc": "Farm"
+      "dlc": "Farm",
+      "guia": {
+        "passos": [
+          "Finalmente, nada limita sua imaginação!"
+        ],
+        "dicas": [
+          "DLC Farm."
+        ]
+      }
     },
     "DineOut_Achv_Appetite": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "Isto foi apenas o aperitivo!"
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_WayToHeart": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "… é pelo estômago. Quer um pouco mais?"
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_IcingOnCake": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "Cada um tem o restaurante que sonhou."
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_FlipperFiveStars": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "A arte da culinária não tem segredos para mim."
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_BreadAndWater": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "Quem descobrirá o ingrediente secreto de minha renda?"
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_PropertyManager": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "Oxalá não haja problemas com os inquilinos."
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_LandInHotWater": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "Olhe para baixo - não há piso aqui!"
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_TableDeckYourself": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "Até a comida sabe melhor em uma mesa bem posta!"
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_RestaurantSign": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "É isca para clientes."
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "DineOut_Achv_FlavoursHunter": {
-      "dlc": "Dine Out"
+      "dlc": "Dine Out",
+      "guia": {
+        "passos": [
+          "Comidas secretas, sabores secretos."
+        ],
+        "dicas": [
+          "DLC Dine Out."
+        ]
+      }
     },
     "Millionaire": {
-      "dica": "Compre casas baratas, reforme bem e venda para o comprador que paga mais."
+      "dica": "Compre casas baratas, reforme bem e venda para o comprador que paga mais.",
+      "guia": {
+        "passos": [
+          "Ganhe seu primeiro milhão de euros."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
     },
     "Perfectionist": {
-      "dica": "Termine um trabalho com 100%: confira cada tarefa da lista antes de sair."
+      "dica": "Termine um trabalho com 100%: confira cada tarefa da lista antes de sair.",
+      "guia": {
+        "passos": [
+          "Complete 100% todos os pedidos."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "BigFamily": {
+      "guia": {
+        "passos": [
+          "A família não é só uma coisa importante, é tudo."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "ChangChoi": {
+      "guia": {
+        "passos": [
+          "Não sou nerd. Só sou mais inteligente que você."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "DolanTrusk": {
+      "guia": {
+        "passos": [
+          "Mente acima da matéria. Dinheiro acima de tudo."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "GorgioShanua": {
+      "guia": {
+        "passos": [
+          "A moda é o escudo que nos protege da realidade sombria do dia-a-dia!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "JackTarinton": {
+      "guia": {
+        "passos": [
+          "Negócio é negócio. As emoções deixe na porta de entrada."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "JimmyTraitor": {
+      "guia": {
+        "passos": [
+          "Sutiã pra baixo, garrafas pra cima!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "MrAndMrsJantart": {
+      "guia": {
+        "passos": [
+          "Viva sua vida e esqueça a idade."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "Lonewolf37": {
+      "guia": {
+        "passos": [
+          "Sempre esteja preparado para o desconhecido."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "PreppersFamily": {
+      "guia": {
+        "passos": [
+          "Lembre-se: quando o desastre chegar, já vai ser muito tarde para preparações."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "PrepperWoman": {
+      "guia": {
+        "passos": [
+          "Melhor estar preparado 10 anos antes do que 10 minutos tarde demais!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "RafaelErko": {
+      "guia": {
+        "passos": [
+          "O que acontece na caverna, fica na caverna."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "SmothFamily": {
+      "guia": {
+        "passos": [
+          "Você sabe que está apaixonado quando não consegue dormir… por causa dos… seus filhos barulhentos!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "VeronicaLiptson": {
+      "guia": {
+        "passos": [
+          "Toda criança é artista. O problema é continuar um artista quando você cresce."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "FirstMoney": {
+      "guia": {
+        "passos": [
+          "Termine o primeiro pedido!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "GameOver": {
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ],
+        "dicas": [
+          "Conclua a história/serviços principais."
+        ]
+      }
+    },
+    "DoItASAP": {
+      "guia": {
+        "passos": [
+          "Complete um pedido em menos de 1 minuto."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "KnockKnock": {
+      "guia": {
+        "passos": [
+          "Eu que estou batendo."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "Negotiator": {
+      "guia": {
+        "passos": [
+          "Negocie por pelo menos 50.000 euros e ganhe."
+        ],
+        "dicas": [
+          "Ao vender uma casa, negocie com os compradores até conseguir um bom preço."
+        ]
+      }
+    },
+    "Strongman": {
+      "guia": {
+        "passos": [
+          "Bora puxar ferro, mano?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "CarMechanic": {
+      "guia": {
+        "passos": [
+          "Será que vai precisar de um mecânico?"
+        ],
+        "dicas": [
+          "Conquista com descrição vaga: está ligada a um carro em um dos serviços; explore os jobs."
+        ]
+      }
+    },
+    "YouDoItWrong": {
+      "guia": {
+        "passos": [
+          "Mate uma barata com a marreta."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "JuniorEstateAgent": {
+      "guia": {
+        "passos": [
+          "Venda 10 casas."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "EstateAgent": {
+      "guia": {
+        "passos": [
+          "Venda 20 casas."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "SeniorEstateAgent": {
+      "guia": {
+        "passos": [
+          "Venda 50 casas."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "WorkOnFreshAir": {
+      "guia": {
+        "passos": [
+          "Não esqueça de recolher antes que chova!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "BeginnerGardener": {
+      "guia": {
+        "passos": [
+          "É hora de expandir minhas qualificações!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "Competitor": {
+      "guia": {
+        "passos": [
+          "Olhe para meu jardim, meu jardim é incrível!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "GoodLayout": {
+      "guia": {
+        "passos": [
+          "Fil Szi… Fens Shi… Bem, eu tentei."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "FollowingTheRules": {
+      "guia": {
+        "passos": [
+          "Flor azul, espinhos vermelhos…."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "FullyEquipped": {
+      "guia": {
+        "passos": [
+          "Você não esqueceu de um lugar para algumas flores entre esse sofá e o carrossel?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "CallMeEdward": {
+      "guia": {
+        "passos": [
+          "Você não pode fugir das minhas lâminas!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "Gardener": {
+      "guia": {
+        "passos": [
+          "Sinto esta aura verde dentro de mim…."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "Vegan": {
+      "guia": {
+        "passos": [
+          "Diga para os carnívoros que minha última palavra é… Cenoura…."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "LetsSwim": {
+      "guia": {
+        "passos": [
+          "Não está na hora de tomar um banho?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "WhacMole": {
+      "guia": {
+        "passos": [
+          "Sua hora chegou, Senhora Toupeira…."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "DonKichot": {
+      "guia": {
+        "passos": [
+          "Esse martelo é mesmo real?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "DownToTheLastPenny": {
+      "guia": {
+        "passos": [
+          "Usar até o último centavo é aproveitar ao máximo o seu orçamento!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "TrulyOpenSpace": {
+      "guia": {
+        "passos": [
+          "Precisamos de muito espaço."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "WholeFamily": {
+      "guia": {
+        "passos": [
+          "Precisamos de uma sala grande para encontros da família!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "AllThePossibilities": {
+      "guia": {
+        "passos": [
+          "Mas por outro lado…."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "ChimneySweeper": {
+      "guia": {
+        "passos": [
+          "Está ouvindo isso?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "ModernSolutions": {
+      "guia": {
+        "passos": [
+          "Não tem como haver um vazamento onde não há canos!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "TimeWarp": {
+      "guia": {
+        "passos": [
+          "Vamos viajar no tempo outra vez!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "OliviersWay": {
+      "guia": {
+        "passos": [
+          "Assim que se fala!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "GretasTouch": {
+      "guia": {
+        "passos": [
+          "Esse lugar poderia se beneficiar com um toque feminino!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "HomersHouse": {
+      "guia": {
+        "passos": [
+          "Não vou clicar no mapa."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "Renovator": {
+      "guia": {
+        "passos": [
+          "Reforme todas as casas!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "BeachPlease": {
+      "guia": {
+        "passos": [
+          "Um dia na praia é um dia feliz."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "IHopeTheresNoCellar": {
+      "guia": {
+        "passos": [
+          "E aí, afim de uma festa na piscina?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "WindowsUpdate": {
+      "guia": {
+        "passos": [
+          "Substitua 10 janelas."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "TheFurnisher": {
+      "guia": {
+        "passos": [
+          "O lixo de uns é o tesouro de outros."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "IFixedIt": {
+      "guia": {
+        "passos": [
+          "Tudo o que se precisa é de uma boa martelada."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "Panorama": {
+      "guia": {
+        "passos": [
+          "Tire uma foto da cidade da Casa do Penhasco."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "LuxuryIsAlwaysInStyle": {
+      "guia": {
+        "passos": [
+          "Termine todos os pedidos em Moonrise Bay."
+        ],
+        "dicas": [
+          "DLC Luxury."
+        ]
+      }
+    },
+    "IAmRich": {
+      "guia": {
+        "passos": [
+          "Compre uma das casas da Luxury DLC."
+        ],
+        "dicas": [
+          "DLC Luxury."
+        ]
+      }
+    },
+    "AnyOneKnowsTheWiFiPassword": {
+      "guia": {
+        "passos": [
+          "O próximo passo é contratar um mordomo."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "YouAreTooCreative": {
+      "guia": {
+        "passos": [
+          "Se a gente lhe deixasse fazer isso, o jogo iria bugar."
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "StepUpYourGame": {
+      "guia": {
+        "passos": [
+          "Alguém chamou um especialista em escadas?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "TheChoiceIsYours": {
+      "guia": {
+        "passos": [
+          "Você seguirá o sonho do cliente?"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
+    },
+    "ThisBelongsToMuseum": {
+      "guia": {
+        "passos": [
+          "Cuidado, obviamente é uma herança da família!"
+        ],
+        "dicas": [
+          "Conquista de descrição vaga: geralmente desbloqueia ao concluir o serviço ou a reforma relacionada."
+        ]
+      }
     }
   }
 }

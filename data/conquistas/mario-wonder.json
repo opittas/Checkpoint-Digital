@@ -1,0 +1,127 @@
+{
+ "id": "mario-wonder",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Nintendo Switch 2 Edition + Vamos ao Parque Belabel",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Reino das Flores Salvo",
+   "d": "Derrote o Bowser e termine a história.",
+   "n_en": "Flower Kingdom Saved",
+   "d_en": "Defeat Bowser and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "sementes",
+   "g": 0,
+   "n": "Todas as Sementes Wonder",
+   "d": "Junte todas as Sementes Wonder.",
+   "n_en": "Every Wonder Seed",
+   "d_en": "Collect every Wonder Seed.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "moedas10",
+   "g": 0,
+   "n": "Moedas-Flor de 10",
+   "d": "Junte todas as moedas roxas de 10 de todas as fases.",
+   "n_en": "10-Flower Coins",
+   "d_en": "Collect every purple 10-flower coin.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bandeira",
+   "g": 0,
+   "n": "Topo da Bandeira",
+   "d": "Chegue ao topo do mastro em todas as fases.",
+   "n_en": "Flagpole Top",
+   "d_en": "Reach the top of every flagpole.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "insignias",
+   "g": 0,
+   "n": "Todas as Insígnias",
+   "d": "Consiga todas as insígnias.",
+   "n_en": "Every Badge",
+   "d_en": "Get every badge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "especial",
+   "g": 0,
+   "n": "Mundo Especial",
+   "d": "Termine todas as fases do Mundo Especial.",
+   "n_en": "Special World",
+   "d_en": "Clear every Special World course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "teste_final",
+   "g": 0,
+   "n": "O Teste Final-Final",
+   "d": "Termine a fase 'O Teste Final-Final'.",
+   "n_en": "The Final-Final Test",
+   "d_en": "Clear 'The Final-Final Test'.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas",
+   "g": 0,
+   "n": "Save Estrelado",
+   "d": "Ganhe as 5 estrelas no arquivo de save.",
+   "n_en": "Star-Studded Save",
+   "d_en": "Earn all five stars on your save file.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bp_parque",
+   "g": 1,
+   "n": "Parque Belabel",
+   "d": "Visite o Parque Belabel e jogue todas as atrações.",
+   "n_en": "Bellabel Park",
+   "d_en": "Visit Bellabel Park and play every attraction.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bp_fases",
+   "g": 1,
+   "n": "Fases Novas",
+   "d": "Termine as fases novas da Switch 2 Edition.",
+   "n_en": "New Courses",
+   "d_en": "Clear the new Switch 2 Edition courses.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

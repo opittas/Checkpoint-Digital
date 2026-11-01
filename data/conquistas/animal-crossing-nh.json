@@ -1,0 +1,178 @@
+{
+ "id": "animal-crossing-nh",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Happy Home Paradise",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "kk",
+   "g": 0,
+   "n": "Show do K.K.",
+   "d": "Chame o K.K. Slider para o primeiro show na ilha.",
+   "n_en": "K.K. Concert",
+   "d_en": "Get K.K. Slider to play his first concert.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas5",
+   "g": 0,
+   "n": "Ilha 5 Estrelas",
+   "d": "Chegue a 5 estrelas na avaliação da ilha.",
+   "n_en": "Five-Star Island",
+   "d_en": "Reach a five-star island rating.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "casa",
+   "g": 0,
+   "n": "Casa Quitada",
+   "d": "Pague todos os empréstimos da casa ao Tom Nook.",
+   "n_en": "Mortgage Free",
+   "d_en": "Pay off every home loan.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "peixes",
+   "g": 0,
+   "n": "Aquário Completo",
+   "d": "Doe ao museu todos os 80 peixes.",
+   "n_en": "Full Aquarium",
+   "d_en": "Donate all 80 fish.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 80
+  },
+  {
+   "k": "insetos",
+   "g": 0,
+   "n": "Insetário Completo",
+   "d": "Doe ao museu todos os 80 insetos.",
+   "n_en": "Full Insectarium",
+   "d_en": "Donate all 80 bugs.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 80
+  },
+  {
+   "k": "marinhos",
+   "g": 0,
+   "n": "Fundo do Mar",
+   "d": "Doe ao museu as 40 criaturas marinhas.",
+   "n_en": "Deep Sea",
+   "d_en": "Donate all 40 sea creatures.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 40
+  },
+  {
+   "k": "fosseis",
+   "g": 0,
+   "n": "Ala dos Fósseis",
+   "d": "Doe ao museu as 73 peças de fóssil.",
+   "n_en": "Fossil Hall",
+   "d_en": "Donate all 73 fossil pieces.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 73
+  },
+  {
+   "k": "arte",
+   "g": 0,
+   "n": "Galeria de Arte",
+   "d": "Doe ao museu as 43 obras de arte (só as verdadeiras).",
+   "n_en": "Art Gallery",
+   "d_en": "Donate all 43 artworks.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 43
+  },
+  {
+   "k": "ouro",
+   "g": 0,
+   "n": "Ferramentas de Ouro",
+   "d": "Faça todas as 6 ferramentas de ouro.",
+   "n_en": "Golden Tools",
+   "d_en": "Craft all six golden tools.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 6
+  },
+  {
+   "k": "cafe",
+   "g": 0,
+   "n": "Café do Brewster",
+   "d": "Abra o café The Roost no museu e trabalhe lá.",
+   "n_en": "The Roost",
+   "d_en": "Open Brewster's café and work a shift.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "milhas",
+   "g": 0,
+   "n": "Milhas Nook+",
+   "d": "Complete todas as conquistas de Milhas Nook.",
+   "n_en": "Nook Miles",
+   "d_en": "Complete every Nook Miles achievement.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fotos",
+   "g": 0,
+   "n": "Álbum dos Amigos",
+   "d": "Ganhe a foto de 10 moradores.",
+   "n_en": "Friends' Album",
+   "d_en": "Get 10 villager photos.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "hhp_casas",
+   "g": 1,
+   "n": "Arquiteto de Férias",
+   "d": "Projete casas de férias para os clientes do Paradise Planning.",
+   "n_en": "Vacation Architect",
+   "d_en": "Design vacation homes for Paradise Planning clients.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "hhp_instalacoes",
+   "g": 1,
+   "n": "Arquipélago Completo",
+   "d": "Projete todas as instalações do arquipélago (escola, café, hospital...).",
+   "n_en": "Complete Archipelago",
+   "d_en": "Design every archipelago facility.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

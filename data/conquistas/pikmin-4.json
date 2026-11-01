@@ -1,0 +1,112 @@
+{
+ "id": "pikmin-4",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Resgate do Olimar",
+   "d": "Resgate o Capitão Olimar e termine a história.",
+   "n_en": "Olimar Rescued",
+   "d_en": "Rescue Captain Olimar and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tesouros",
+   "g": 0,
+   "n": "Catálogo de Tesouros",
+   "d": "Junte todos os tesouros.",
+   "n_en": "Treasure Catalog",
+   "d_en": "Collect every treasure.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "naufragos",
+   "g": 0,
+   "n": "Todos a Bordo",
+   "d": "Resgate todos os náufragos.",
+   "n_en": "All Aboard",
+   "d_en": "Rescue every castaway.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cavernas",
+   "g": 0,
+   "n": "Cavernas Completas",
+   "d": "Termine todas as cavernas.",
+   "n_en": "Every Cave",
+   "d_en": "Clear every cave.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dandori",
+   "g": 0,
+   "n": "Platina Dandori",
+   "d": "Ganhe platina em todos os Desafios Dandori.",
+   "n_en": "Dandori Platinum",
+   "d_en": "Earn platinum on every Dandori Challenge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "batalhas",
+   "g": 0,
+   "n": "Duelos Dandori",
+   "d": "Vença todas as Batalhas Dandori.",
+   "n_en": "Dandori Duels",
+   "d_en": "Win every Dandori Battle.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "olimar",
+   "g": 0,
+   "n": "A História do Olimar",
+   "d": "Termine o modo 'Naufrágio do Olimar'.",
+   "n_en": "Olimar's Shipwreck Tale",
+   "d_en": "Finish Olimar's Shipwreck Tale.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "folhinha",
+   "g": 0,
+   "n": "Provas da Folha",
+   "d": "Termine as provas do pós-jogo e derrote o chefe secreto.",
+   "n_en": "Leaf Trials",
+   "d_en": "Clear the post-game trials and the secret boss.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "100",
+   "g": 0,
+   "n": "Rescue Corps 100%",
+   "d": "Chegue a 100% no save.",
+   "n_en": "Rescue Corps 100%",
+   "d_en": "Reach 100% completion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

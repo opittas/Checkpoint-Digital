@@ -1,0 +1,196 @@
+{
+ "id": "zelda-totk",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Lágrimas do Reino",
+   "d": "Derrote o Rei Demônio Ganondorf e termine a história.",
+   "n_en": "Tears of the Kingdom",
+   "d_en": "Defeat the Demon King Ganondorf and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "templos",
+   "g": 0,
+   "n": "Os Quatro Sábios",
+   "d": "Termine os 4 templos dos Fenômenos Regionais.",
+   "n_en": "Four Sages",
+   "d_en": "Clear the four Regional Phenomena temples.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "espada",
+   "g": 0,
+   "n": "A Lâmina que Sela",
+   "d": "Recupere a Espada Mestra das costas do Dragão da Luz.",
+   "n_en": "The Blade That Seals",
+   "d_en": "Retrieve the Master Sword from the Light Dragon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lagrimas",
+   "g": 0,
+   "n": "Memórias do Dragão",
+   "d": "Encontre todas as Lágrimas do Dragão (geoglifos).",
+   "n_en": "Dragon's Memories",
+   "d_en": "Find every Dragon's Tear (geoglyphs).",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "santuarios",
+   "g": 0,
+   "n": "Luz Interior",
+   "d": "Complete os 152 santuários.",
+   "n_en": "Inner Light",
+   "d_en": "Clear all 152 shrines.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 152
+  },
+  {
+   "k": "raizes",
+   "g": 0,
+   "n": "Raízes da Luz",
+   "d": "Ative as 120 Raízes da Luz no Subsolo.",
+   "n_en": "Lightroots",
+   "d_en": "Activate all 120 Lightroots in the Depths.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 120
+  },
+  {
+   "k": "torres",
+   "g": 0,
+   "n": "Mapa Completo",
+   "d": "Ative as 15 Torres de Observação.",
+   "n_en": "Full Map",
+   "d_en": "Activate all 15 Skyview Towers.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 15
+  },
+  {
+   "k": "koroks",
+   "g": 0,
+   "n": "Presente do Hestu",
+   "d": "Junte as 1000 Sementes Korok.",
+   "n_en": "Hestu's Gift",
+   "d_en": "Collect all 1,000 Korok Seeds.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 1000
+  },
+  {
+   "k": "compendio",
+   "g": 0,
+   "n": "Enciclopédia de Hyrule",
+   "d": "Complete o Compêndio de Hyrule (fotos de todas as entradas).",
+   "n_en": "Hyrule Compendium",
+   "d_en": "Complete the Hyrule Compendium.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bubbuls",
+   "g": 0,
+   "n": "Amigo do Koltin",
+   "d": "Encontre todas as Gemas Bubbul (sapos das cavernas).",
+   "n_en": "Koltin's Friend",
+   "d_en": "Find every Bubbul Gem.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "vigor",
+   "g": 0,
+   "n": "No Limite",
+   "d": "Chegue ao máximo de corações ou de vigor.",
+   "n_en": "Maxed Out",
+   "d_en": "Max out your hearts or stamina.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fadas",
+   "g": 0,
+   "n": "Fontes Restauradas",
+   "d": "Restaure as 4 Grandes Fadas.",
+   "n_en": "Fountains Restored",
+   "d_en": "Restore all four Great Fairies.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "gleeok",
+   "g": 0,
+   "n": "Matador de Gleeoks",
+   "d": "Derrote os três tipos de Gleeok (Fogo, Gelo e Trovão).",
+   "n_en": "Gleeok Slayer",
+   "d_en": "Defeat a Flame, Frost and Thunder Gleeok.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  },
+  {
+   "k": "lynel",
+   "g": 0,
+   "n": "Juba Prateada",
+   "d": "Derrote um Lynel Prateado.",
+   "n_en": "Silver Mane",
+   "d_en": "Defeat a Silver Lynel.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "kohga",
+   "g": 0,
+   "n": "Mestre Kohga",
+   "d": "Termine todas as aventuras do Mestre Kohga no Subsolo.",
+   "n_en": "Master Kohga",
+   "d_en": "Finish every Master Kohga quest in the Depths.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "100",
+   "g": 0,
+   "n": "Explorador Lendário",
+   "d": "Chegue a 100% no mapa (santuários, Koroks e locais).",
+   "n_en": "Legendary Explorer",
+   "d_en": "Reach 100% map completion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

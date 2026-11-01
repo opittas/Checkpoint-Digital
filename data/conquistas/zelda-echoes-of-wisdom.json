@@ -1,0 +1,112 @@
+{
+ "id": "zelda-echoes-of-wisdom",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "A Sabedoria de Zelda",
+   "d": "Termine a história e feche as Fendas.",
+   "n_en": "Zelda's Wisdom",
+   "d_en": "Finish the story and seal the Rifts.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ecos",
+   "g": 0,
+   "n": "Todos os Ecos",
+   "d": "Aprenda todos os Ecos.",
+   "n_en": "Every Echo",
+   "d_en": "Learn every Echo.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "coracoes",
+   "g": 0,
+   "n": "Corações Cheios",
+   "d": "Junte todos os Pedaços de Coração.",
+   "n_en": "Full Hearts",
+   "d_en": "Collect every Piece of Heart.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cristais",
+   "g": 0,
+   "n": "Poder Máximo",
+   "d": "Junte todos os Cristais de Poder.",
+   "n_en": "Max Might",
+   "d_en": "Collect every Might Crystal.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "vitaminas",
+   "g": 0,
+   "n": "Bar de Vitaminas",
+   "d": "Faça todas as receitas de vitamina.",
+   "n_en": "Smoothie Bar",
+   "d_en": "Make every smoothie.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "carimbos",
+   "g": 0,
+   "n": "Rally de Carimbos",
+   "d": "Encontre todos os carimbos.",
+   "n_en": "Stamp Rally",
+   "d_en": "Find every stamp.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "secundarias",
+   "g": 0,
+   "n": "Ajuda para Todos",
+   "d": "Termine todas as missões secundárias.",
+   "n_en": "Helping Hand",
+   "d_en": "Finish every side quest.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "acessorios",
+   "g": 0,
+   "n": "Acessórios Completos",
+   "d": "Junte todos os acessórios.",
+   "n_en": "Every Accessory",
+   "d_en": "Collect every accessory.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "100",
+   "g": 0,
+   "n": "Hyrule Restaurada",
+   "d": "Chegue ao fim com todos os itens acima.",
+   "n_en": "Hyrule Restored",
+   "d_en": "Finish with everything above.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

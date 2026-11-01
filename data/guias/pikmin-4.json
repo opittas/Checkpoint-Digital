@@ -1,0 +1,32 @@
+{
+  "resumo": "Pikmin 4 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, tesouros, náufragos, cavernas, Desafios e Batalhas Dandori e o pós-jogo.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Áreas e cavernas na ordem do jogo."
+    },
+    {
+      "titulo": "2. Pós-jogo",
+      "texto": "Áreas novas e a história do Olimar."
+    },
+    {
+      "titulo": "3. Dandori",
+      "texto": "Platina nos desafios."
+    },
+    {
+      "titulo": "4. 100%",
+      "texto": "Tesouros e náufragos que faltam."
+    }
+  ],
+  "avisos": [
+    "Existe uma Nintendo Switch 2 Edition vendida em pacote. As metas dela ainda não estão aqui *(conferir)*."
+  ],
+  "conquistas": {
+    "dandori": {
+      "dificil": true
+    },
+    "folhinha": {
+      "dificil": true
+    }
+  }
+}

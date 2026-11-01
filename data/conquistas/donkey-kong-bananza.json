@@ -1,0 +1,138 @@
+{
+ "id": "donkey-kong-bananza",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Ilha DK + Caça às Esmeraldas",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Até o Núcleo",
+   "d": "Chegue ao núcleo do planeta e termine a história.",
+   "n_en": "To the Core",
+   "d_en": "Reach the planet's core and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bananzas",
+   "g": 0,
+   "n": "Todas as Bananzas",
+   "d": "Desbloqueie todas as transformações Bananza.",
+   "n_en": "Every Bananza",
+   "d_en": "Unlock every Bananza transformation.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bananas",
+   "g": 0,
+   "n": "Banandium Total",
+   "d": "Junte todas as Bananas de Banandium.",
+   "n_en": "Banandium Hoard",
+   "d_en": "Collect every Banandium Gem.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fosseis",
+   "g": 0,
+   "n": "Colecionador de Fósseis",
+   "d": "Junte todos os fósseis de todas as camadas.",
+   "n_en": "Fossil Collector",
+   "d_en": "Collect every fossil in every layer.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "habilidades",
+   "g": 0,
+   "n": "Árvore Completa",
+   "d": "Aprenda todas as habilidades da árvore.",
+   "n_en": "Full Skill Tree",
+   "d_en": "Learn every skill.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "roupas",
+   "g": 0,
+   "n": "Estilo Kong",
+   "d": "Compre todas as roupas para o DK e a Pauline.",
+   "n_en": "Kong Style",
+   "d_en": "Buy every outfit for DK and Pauline.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafios",
+   "g": 0,
+   "n": "Desafios de Ouro",
+   "d": "Termine todas as fases de desafio.",
+   "n_en": "Challenge Champ",
+   "d_en": "Clear every challenge course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pauline",
+   "g": 0,
+   "n": "Show da Pauline",
+   "d": "Ouça todas as músicas da Pauline.",
+   "n_en": "Pauline's Show",
+   "d_en": "Hear all of Pauline's songs.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "100",
+   "g": 0,
+   "n": "Camadas Completas",
+   "d": "Chegue a 100% em todas as camadas.",
+   "n_en": "Every Layer",
+   "d_en": "Reach 100% in every layer.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_ilha",
+   "g": 1,
+   "n": "De Volta à Ilha DK",
+   "d": "Explore a Ilha DK da DLC.",
+   "n_en": "Back to DK Island",
+   "d_en": "Explore DK Island from the DLC.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_esmeraldas",
+   "g": 1,
+   "n": "Caça às Esmeraldas",
+   "d": "Termine uma rodada da Caça às Esmeraldas.",
+   "n_en": "Emerald Rush",
+   "d_en": "Finish an Emerald Rush run.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

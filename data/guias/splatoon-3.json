@@ -1,0 +1,48 @@
+{
+  "resumo": "Splatoon 3 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Modo Herói, ranques online, Salmon Run, Tableturf e a DLC Side Order numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. Modo Herói",
+      "texto": "Aprende as armas e os movimentos."
+    },
+    {
+      "titulo": "2. Online",
+      "texto": "Batalhas Territoriais e Anárquicas."
+    },
+    {
+      "titulo": "3. Salmon Run",
+      "texto": "Suba até Eggsecutive VP."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Side Order (aba própria)."
+    }
+  ],
+  "avisos": [
+    "As metas online precisam do Nintendo Switch Online (pago).",
+    "As atualizações de conteúdo novo acabaram; os servidores continuam no ar *(conferir)*."
+  ],
+  "conquistas": {
+    "heroi_final": {
+      "dificil": true
+    },
+    "anarquia": {
+      "dificil": true,
+      "online": true
+    },
+    "salmon": {
+      "dificil": true,
+      "online": true
+    },
+    "so_fim": {
+      "guia": {
+        "requisitos": [
+          "DLC Side Order (parte do Passe de Expansão)."
+        ]
+      }
+    },
+    "so_paletas": {
+      "dificil": true
+    }
+  }
+}

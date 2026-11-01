@@ -4730,5 +4730,267 @@
     "palavras": [
       "deadlock"
     ]
+  },
+  {
+    "id": "zelda-totk",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "developer": "Nintendo EPD",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "150–250h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/zelda-totk.jpg",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Mundo aberto"
+    ],
+    "palavras": [
+      "tears of the kingdom",
+      "totk"
+    ]
+  },
+  {
+    "id": "super-mario-odyssey",
+    "title": "Super Mario Odyssey",
+    "developer": "Nintendo EPD",
+    "year": 2017,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "60–80h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/super-mario-odyssey.jpg",
+    "generos": [
+      "Plataforma",
+      "Aventura"
+    ],
+    "palavras": [
+      "mario odyssey"
+    ]
+  },
+  {
+    "id": "donkey-kong-bananza",
+    "title": "Donkey Kong Bananza",
+    "developer": "Nintendo EPD",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "40–70h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/donkey-kong-bananza.jpg",
+    "generos": [
+      "Plataforma",
+      "Aventura"
+    ],
+    "palavras": [
+      "donkey kong",
+      "bananza"
+    ]
+  },
+  {
+    "id": "mario-wonder",
+    "title": "Super Mario Bros. Wonder",
+    "developer": "Nintendo EPD",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "20–35h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-wonder.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "mario wonder"
+    ]
+  },
+  {
+    "id": "animal-crossing-nh",
+    "title": "Animal Crossing: New Horizons",
+    "developer": "Nintendo EPD",
+    "year": 2020,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "200h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/animal-crossing-nh.jpg",
+    "generos": [
+      "Simulação"
+    ],
+    "palavras": [
+      "animal crossing"
+    ]
+  },
+  {
+    "id": "splatoon-3",
+    "title": "Splatoon 3",
+    "developer": "Nintendo EPD",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "100h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/splatoon-3.jpg",
+    "generos": [
+      "Tiro",
+      "Ação"
+    ],
+    "palavras": [
+      "splatoon"
+    ]
+  },
+  {
+    "id": "metroid-dread",
+    "title": "Metroid Dread",
+    "developer": "MercurySteam · Nintendo EPD",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 7,
+    "hours": "10–25h",
+    "playthroughs": "2–3",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/metroid-dread.jpg",
+    "generos": [
+      "Ação",
+      "Metroidvania"
+    ],
+    "palavras": [
+      "metroid dread"
+    ]
+  },
+  {
+    "id": "pikmin-4",
+    "title": "Pikmin 4",
+    "developer": "Nintendo EPD",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "30–50h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pikmin-4.jpg",
+    "generos": [
+      "Estratégia",
+      "Aventura"
+    ],
+    "palavras": [
+      "pikmin"
+    ]
+  },
+  {
+    "id": "zelda-echoes-of-wisdom",
+    "title": "The Legend of Zelda: Echoes of Wisdom",
+    "developer": "Grezzo · Nintendo",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "25–40h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/zelda-echoes-of-wisdom.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "echoes of wisdom"
+    ]
+  },
+  {
+    "id": "luigis-mansion-3",
+    "title": "Luigi's Mansion 3",
+    "developer": "Next Level Games",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–25h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/luigis-mansion-3.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "luigi's mansion",
+      "luigis mansion"
+    ]
   }
 ]

@@ -15,5 +15,389 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "NEW_ACHIEVEMENT_1_0": {
+      "guia": {
+        "passos": [
+          "Obtenha todas as conquistas."
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todas as outras."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "guia": {
+        "passos": [
+          "Conclua as Planícies de Rustoria."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "guia": {
+        "passos": [
+          "Conclua a Floresta de Oldrobe."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "guia": {
+        "passos": [
+          "Conclua os Lagos do Pico das Joias."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "guia": {
+        "passos": [
+          "Conclua o Deserto de Kurjiez."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "guia": {
+        "passos": [
+          "Derrote Genesis no Templo das Orações."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "guia": {
+        "passos": [
+          "Derrote Tia em Aincrad."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "guia": {
+        "passos": [
+          "Conclua as missões de Asuna, Yuuki e Strea."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "guia": {
+        "passos": [
+          "Conclua as missões de Liz e Silica."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "guia": {
+        "passos": [
+          "Conclua as missões de Leafa e Philia."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "guia": {
+        "passos": [
+          "Conclua as missões de Yui e Argo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "guia": {
+        "passos": [
+          "Conclua as missões de Sinon."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "guia": {
+        "passos": [
+          "Conclua as missões da Espada do Imperador."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "guia": {
+        "passos": [
+          "Conclua as missões de Kizmel."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "guia": {
+        "passos": [
+          "Tenha mais de 10.000 níveis divididos entre todas as técnicas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "guia": {
+        "passos": [
+          "Aprenda 200 técnicas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 50 com Kirito."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível máximo num domínio de técnica de espada."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "guia": {
+        "passos": [
+          "Obtenha uma comb. de 10 acertos conectando T. de Espada."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Lâminas Celestiais\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Espinho das Ilusões\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Corte Crescente\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Lâmina dos Condenados\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Cruz da Justiça\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Guardião de Presas\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Amante da Guerra\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Lâmina do Assassino\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "guia": {
+        "passos": [
+          "Aprenda a técnica extra \"Toque Rejuvenescedor\"."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Asuna."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Silica."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Lisbeth."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Leafa."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Sinon."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Yui."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Strea."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Philia."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Premiere."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Argo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Yuuki."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Kizmel."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Klein."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_9": {
+      "guia": {
+        "passos": [
+          "Alcance o máximo de afinidade com Agil."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_10": {
+      "guia": {
+        "passos": [
+          "Afinidade máxima com todos os personagens principais."
+        ],
+        "dicas": [
+          "Dê presentes, converse e lute ao lado de cada personagem principal."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_11": {
+      "guia": {
+        "passos": [
+          "Conclua a galeria."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_12": {
+      "guia": {
+        "passos": [
+          "Tenha 100 amigos com nível de amizade \"Amigável\"."
+        ],
+        "dicas": [
+          "Amizade sobe ao lutar junto e elogiar NPCs aleatórios na cidade."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_13": {
+      "guia": {
+        "passos": [
+          "Alcance a melhoria máxima com uma arma."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_14": {
+      "guia": {
+        "passos": [
+          "Encontre um item lendário."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_15": {
+      "guia": {
+        "passos": [
+          "Ganhe o bônus de último ataque contra todos os chefes de Ainground."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_16": {
+      "guia": {
+        "passos": [
+          "Obtenha mais de 1.000.000 de Col."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_17": {
+      "guia": {
+        "passos": [
+          "Derrote 100 Monstros Raros no modo multiplayer."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_18": {
+      "guia": {
+        "passos": [
+          "Derrote o Condutor de Orações com mais de 100 horas de jogo registradas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_19": {
+      "guia": {
+        "passos": [
+          "Morra e ressurja na Praça do Portal de Teleporte."
+        ],
+        "dicas": [
+          "Deixe o grupo inteiro ser derrotado uma vez."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_20": {
+      "guia": {
+        "passos": [
+          "Ajude um membro da equipe necessitado."
+        ]
+      }
+    }
+  }
 }

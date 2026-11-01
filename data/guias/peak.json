@@ -13,5 +13,490 @@
   "avisos": [
     "Melhor com amigos."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "PeakBadge": {
+      "guia": {
+        "passos": [
+          "Alcance o PICO."
+        ],
+        "dicas": [
+          "A conquista principal: suba todos os biomas até o topo e escape no helicóptero."
+        ]
+      }
+    },
+    "CookingBadge": {
+      "guia": {
+        "passos": [
+          "Prepare 20 refeições nas fogueiras."
+        ]
+      }
+    },
+    "KnotTyingBadge": {
+      "guia": {
+        "passos": [
+          "Use 100m de corda em uma só expedição."
+        ]
+      }
+    },
+    "BeachcomberBadge": {
+      "guia": {
+        "passos": [
+          "Escale a COSTA."
+        ]
+      }
+    },
+    "TriedYourBestBadge": {
+      "guia": {
+        "passos": [
+          "Deixe um amigo escapar da ilha sem você."
+        ]
+      }
+    },
+    "TrailblazerBadge": {
+      "guia": {
+        "passos": [
+          "Escale o TRÓPICO."
+        ]
+      }
+    },
+    "HappyCamperBadge": {
+      "guia": {
+        "passos": [
+          "Receba 5 Reforços de Moral de fogueiras."
+        ]
+      }
+    },
+    "AlpinistBadge": {
+      "guia": {
+        "passos": [
+          "Escale os ALPES."
+        ]
+      }
+    },
+    "VolcanologyBadge": {
+      "guia": {
+        "passos": [
+          "Escale a CALDEIRA."
+        ]
+      }
+    },
+    "BoulderingBadge": {
+      "guia": {
+        "passos": [
+          "Fixe 10 pitões."
+        ]
+      }
+    },
+    "ToxicologyBadge": {
+      "guia": {
+        "passos": [
+          "Restaure um total de 200 de veneno usando itens."
+        ]
+      }
+    },
+    "ForagingBadge": {
+      "guia": {
+        "passos": [
+          "Consuma 5 bagas diferentes em uma única expedição."
+        ]
+      }
+    },
+    "EsotericaBadge": {
+      "guia": {
+        "passos": [
+          "Obtenha um item místico."
+        ]
+      }
+    },
+    "LoneWolfBadge": {
+      "guia": {
+        "passos": [
+          "Escape da ilha em uma expedição solo."
+        ],
+        "atencao": [
+          "Solo é bem mais difícil: leve corda, comida e itens de cura."
+        ]
+      }
+    },
+    "ClutchBadge": {
+      "guia": {
+        "passos": [
+          "Reanime 3 escoteiros em uma só expedição."
+        ]
+      }
+    },
+    "BalloonBadge": {
+      "guia": {
+        "passos": [
+          "Escape da ilha sem receber dano por queda."
+        ],
+        "atencao": [
+          "Nenhum dano de queda na expedição inteira; suba devagar."
+        ]
+      }
+    },
+    "LeaveNoTraceBadge": {
+      "guia": {
+        "passos": [
+          "Escape da ilha sem largar nada na montanha."
+        ],
+        "atencao": [
+          "Não coloque cordas, pítons nem outros itens no caminho inteiro."
+        ]
+      }
+    },
+    "SpeedClimberBadge": {
+      "guia": {
+        "passos": [
+          "Escape da ilha em menos de uma hora."
+        ],
+        "dicas": [
+          "Jogue com um grupo experiente, pule baús e siga rotas diretas."
+        ]
+      }
+    },
+    "BingBongBadge": {
+      "guia": {
+        "passos": [
+          "Ajude o Bing Bong a escapar da ilha."
+        ],
+        "dicas": [
+          "Bing Bong é o boneco de pelúcia que aparece no avião; leve-o até o fim."
+        ]
+      }
+    },
+    "NaturalistBadge": {
+      "guia": {
+        "passos": [
+          "Escape da ilha sem consumir nenhum alimento embalado."
+        ],
+        "dicas": [
+          "Coma apenas frutas e cogumelos encontrados, nada de comida embalada."
+        ]
+      }
+    },
+    "GourmandBadge": {
+      "guia": {
+        "passos": [
+          "Escape da ilha depois de cozinhar e consumir meio coco, um favo de mel, uma gelabaga amarela e um ovo."
+        ]
+      }
+    },
+    "MycologyBadge": {
+      "guia": {
+        "passos": [
+          "Consuma 4 tipos diferentes de cogumelos não tóxicos em uma só expedição."
+        ]
+      }
+    },
+    "FirstAidBadge": {
+      "guia": {
+        "passos": [
+          "Cure 100 pontos de lesão dos seus amigos em uma só expedição."
+        ]
+      }
+    },
+    "SurvivalistBadge": {
+      "guia": {
+        "passos": [
+          "Escape da ilha sem nunca perder a consciência."
+        ],
+        "atencao": [
+          "Não desmaie nenhuma vez."
+        ]
+      }
+    },
+    "AnimalSerenadingBadge": {
+      "guia": {
+        "passos": [
+          "Toque o cornetim para uma capivara."
+        ]
+      }
+    },
+    "ArboristBadge": {
+      "guia": {
+        "passos": [
+          "Alcance o topo de uma árvore bem alta."
+        ]
+      }
+    },
+    "MentorshipBadge": {
+      "guia": {
+        "passos": [
+          "Tenha um tête-à-tête com o Chefe Escoteiro."
+        ]
+      }
+    },
+    "EmergencyPreparednessBadge": {
+      "guia": {
+        "passos": [
+          "Cure um amigo inconsciente com um item para salvá-lo da morte."
+        ]
+      }
+    },
+    "AscenderBadge": {
+      "guia": {
+        "passos": [
+          "Escale um total de 5.000m."
+        ]
+      }
+    },
+    "PlundererBadge": {
+      "guia": {
+        "passos": [
+          "Abra 15 bagagens em uma só expedição."
+        ]
+      }
+    },
+    "BookwormBadge": {
+      "guia": {
+        "passos": [
+          "Leia todas as anotações de diário do Chefe Escoteiro Myres."
+        ]
+      }
+    },
+    "EnduranceBadge": {
+      "guia": {
+        "passos": [
+          "Escale 50m para cima sem tocar no chão."
+        ]
+      }
+    },
+    "NomadBadge": {
+      "guia": {
+        "passos": [
+          "Escale a CHAPADA."
+        ]
+      }
+    },
+    "UltimateBadge": {
+      "guia": {
+        "passos": [
+          "Pegue um disco a 100m de distância."
+        ]
+      }
+    },
+    "CoolCucumberBadge": {
+      "guia": {
+        "passos": [
+          "Escale a CHAPADA sem nunca ultrapassar 10% de Calor."
+        ]
+      }
+    },
+    "NeedlepointBadge": {
+      "guia": {
+        "passos": [
+          "Acabe com vários cactos presos em você."
+        ]
+      }
+    },
+    "AeronauticsBadge": {
+      "guia": {
+        "passos": [
+          "Consiga voar."
+        ]
+      }
+    },
+    "TwentyFourKaratBadge": {
+      "guia": {
+        "passos": [
+          "Ofereça um sacrifício digno ao FORNO."
+        ],
+        "dicas": [
+          "No topo (Kiln), ofereça um item valioso."
+        ]
+      }
+    },
+    "ResourcefulnessBadge": {
+      "guia": {
+        "passos": [
+          "Ceda à sua fome."
+        ],
+        "dicas": [
+          "Quando estiver faminto, coma algo de um colega (canibalismo do jogo)."
+        ]
+      }
+    },
+    "DaredevilBadge": {
+      "guia": {
+        "passos": [
+          "Atravesse o cânion da CHAPADA num disparo de canhão."
+        ]
+      }
+    },
+    "MegaentomologyBadge": {
+      "guia": {
+        "passos": [
+          "Sobreviva ao ataque da formiga-leão."
+        ]
+      }
+    },
+    "AstronomyBadge": {
+      "guia": {
+        "passos": [
+          "Olhe um pouco perto demais para o sol escaldante."
+        ],
+        "dicas": [
+          "Olhe direto para o sol por um tempo."
+        ]
+      }
+    },
+    "BundledUpBadge": {
+      "guia": {
+        "passos": [
+          "Escale os ALPES sem nunca ultrapassar 20% de Frio."
+        ]
+      }
+    },
+    "ForestryBadge": {
+      "guia": {
+        "passos": [
+          "Escale as RAÍZES."
+        ]
+      }
+    },
+    "TreadLightlyBadge": {
+      "guia": {
+        "passos": [
+          "Escale as RAÍZES sem nunca ultrapassar 25% de esporos."
+        ]
+      }
+    },
+    "WebSecurityBadge": {
+      "guia": {
+        "passos": [
+          "Escape de uma teia de aranha e sobreviva."
+        ]
+      }
+    },
+    "UndeadEncounterBadge": {
+      "guia": {
+        "passos": [
+          "Cure-se da mordida de um zumbi."
+        ]
+      }
+    },
+    "AdvancedMycologyBadge": {
+      "guia": {
+        "passos": [
+          "Experimente todos os 5 tipos de bagamelos em uma só expedição."
+        ]
+      }
+    },
+    "DisasterResponseBadge": {
+      "guia": {
+        "passos": [
+          "Puxe um amigo desmaiado por 30 m com a Garra de Resgate."
+        ]
+      }
+    },
+    "CalciumIntakeBadge": {
+      "guia": {
+        "passos": [
+          "Bloqueie 100 pontos de dano total com o Leite Fortificado."
+        ]
+      }
+    },
+    "CompetitiveEatingBadge": {
+      "guia": {
+        "passos": [
+          "Coma 3 cachorros-quentes em 5 segundos ou menos."
+        ]
+      }
+    },
+    "AppliedEsotericaBadge": {
+      "guia": {
+        "passos": [
+          "Ressuscite um amigo usando métodos profanos."
+        ]
+      }
+    },
+    "MycoacrobaticsBadge": {
+      "guia": {
+        "passos": [
+          "Salte até 40 m usando um cogumelo."
+        ]
+      }
+    },
+    "CryptogastronomyBadge": {
+      "guia": {
+        "passos": [
+          "Cozinhe e coma uma Mandrágora."
+        ]
+      }
+    },
+    "WandererBadge": {
+      "guia": {
+        "passos": [
+          "Escale MARASMO."
+        ]
+      }
+    },
+    "BellringerBadge": {
+      "guia": {
+        "passos": [
+          "Toque 5 Torres de Sino em MARASMO em uma só expedição."
+        ]
+      }
+    },
+    "WellRestedBadge": {
+      "guia": {
+        "passos": [
+          "Consuma a Larva Matutina."
+        ]
+      }
+    },
+    "JesterBadge": {
+      "guia": {
+        "passos": [
+          "Abra 2 Bagagens de Palhaço em uma só expedição."
+        ]
+      }
+    },
+    "HangGlidingBadge": {
+      "guia": {
+        "passos": [
+          "Voe 100m com o Planador sem tocar o chão."
+        ]
+      }
+    },
+    "MedievalHistoryBadge": {
+      "guia": {
+        "passos": [
+          "Escale a CIDADELA sem que armadilhas atinjam você."
+        ]
+      }
+    },
+    "LastResortBadge": {
+      "guia": {
+        "passos": [
+          "Cure mais de 75% de dano de uma vez usando a Adaga de Ritual."
+        ]
+      }
+    },
+    "ExorcistBadge": {
+      "guia": {
+        "passos": [
+          "Ateie fogo ao Fantasma Grande em MARASMO."
+        ]
+      }
+    },
+    "ArcheryBadge": {
+      "guia": {
+        "passos": [
+          "Remova 10 flechas presas em você em uma só expedição."
+        ]
+      }
+    },
+    "RuleZeroBadge": {
+      "guia": {
+        "passos": [
+          "Liberte a alma do Chefe Escoteiro."
+        ],
+        "dicas": [
+          "Envolve o mistério do Scoutmaster; procure as entradas do diário dele."
+        ]
+      }
+    }
+  }
 }

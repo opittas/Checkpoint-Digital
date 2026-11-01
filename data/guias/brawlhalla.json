@@ -17,5 +17,473 @@
   "avisos": [
     "Depende de servidores online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_1_GoldEarnedBronze": {
+      "guia": {
+        "passos": [
+          "Ganhe um total de 25.000 de ouro."
+        ]
+      }
+    },
+    "ACH_2_GoldEarnedSilver": {
+      "guia": {
+        "passos": [
+          "Ganhe um total de 50.000 de ouro."
+        ]
+      }
+    },
+    "ACH_3_GoldEarnedGold": {
+      "guia": {
+        "passos": [
+          "Ganhe um total de 100.000 de ouro."
+        ]
+      }
+    },
+    "ACH_4_AccountLevelBronze": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 da conta."
+        ]
+      }
+    },
+    "ACH_5_AccountLevelBronze2": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 20 da conta."
+        ]
+      }
+    },
+    "ACH_6_AccountLevelSilver": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 30 da conta."
+        ]
+      }
+    },
+    "ACH_7_AccountLevelGold": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 40 da conta."
+        ]
+      }
+    },
+    "ACH_8_HammerHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Marreta de Garrão."
+        ]
+      }
+    },
+    "ACH_9_SwordHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Espada."
+        ]
+      }
+    },
+    "ACH_10_PistolHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Pistolas."
+        ]
+      }
+    },
+    "ACH_11_LanceHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Lança Foguete."
+        ]
+      }
+    },
+    "ACH_12_SpearHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Lança."
+        ]
+      }
+    },
+    "ACH_13_KatarsHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Katars."
+        ]
+      }
+    },
+    "ACH_14_AxeHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Machado."
+        ]
+      }
+    },
+    "ACH_15_BowHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Arco."
+        ]
+      }
+    },
+    "ACH_16_FistsHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Luvas."
+        ]
+      }
+    },
+    "ACH_17_ScytheHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Foice."
+        ]
+      }
+    },
+    "ACH_21_PlayMatchmakingBronze": {
+      "guia": {
+        "passos": [
+          "Jogue um partida de matchmaking."
+        ]
+      }
+    },
+    "ACH_19_PlayMatchmakingSilver": {
+      "guia": {
+        "passos": [
+          "Jogue 30 partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_18_PlayFFA": {
+      "guia": {
+        "passos": [
+          "Jogue 3 partidas na fila de matchmaking do Modo Livre."
+        ]
+      }
+    },
+    "ACH_20_PlayRanked": {
+      "guia": {
+        "passos": [
+          "Jogue 3 partidas na fila de matchmaking do 1v1 Ranqueado."
+        ]
+      }
+    },
+    "ACH_22_Play2v2Unranked": {
+      "guia": {
+        "passos": [
+          "Jogue 3 partidas na fila de matchmaking do 2v2 Amistoso."
+        ]
+      }
+    },
+    "ACH_23_Play2v2Ranked": {
+      "guia": {
+        "passos": [
+          "Jogue 3 partidas na fila de matchmaking do 2v2 Ranqueado."
+        ]
+      }
+    },
+    "ACH_24_PlayBotW": {
+      "guia": {
+        "passos": [
+          "Jogue 3 partidas na fila de matchmaking do Brawl da Semana."
+        ]
+      }
+    },
+    "ACH_25_KillBronze": {
+      "guia": {
+        "passos": [
+          "Nocauteie 25 oponentes em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_26_KillSilver": {
+      "guia": {
+        "passos": [
+          "Nocauteie 500 oponentes em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_27_KillGold": {
+      "guia": {
+        "passos": [
+          "Nocauteie 1.000 oponentes em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_28_Wins1": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_29_Wins2": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_30_Wins3": {
+      "guia": {
+        "passos": [
+          "Vença 250 partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_31_2HeroesLevel5": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com 2 Lendas."
+        ]
+      }
+    },
+    "ACH_32_5HeroesLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com 5 Lendas."
+        ]
+      }
+    },
+    "ACH_33_10HeroesLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com 10 Lendas."
+        ]
+      }
+    },
+    "ACH_34_DoubleKill25": {
+      "guia": {
+        "passos": [
+          "Obtenha 10 nocautes duplos em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_35_KillThrowsBronze": {
+      "guia": {
+        "passos": [
+          "Nocauteie um oponente com um item lançado 30 vezes em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_36_3Stock": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de 1v1 Ranqueado sem perder nenhuma vida 3 vezes."
+        ],
+        "atencao": [
+          "Ganhe sem perder nenhuma vida no 1v1 ranqueado."
+        ]
+      }
+    },
+    "ACH_37_GavityCancelSigKillsBronze": {
+      "guia": {
+        "passos": [
+          "Nocauteie um oponente com um ataque pesado cancelado por gravidade 10 vezes em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_38_SayGGBronze": {
+      "guia": {
+        "passos": [
+          "Pressione o botão “Diga: GG!” após 66 partidas de matchmaking diferentes."
+        ],
+        "dicas": [
+          "Aperte 'Say: GG!' na tela de fim de partida."
+        ]
+      }
+    },
+    "ACH_39_RedLastStockKillsBronze": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de 1v1 Ranqueado com dano vermelho em sua última vida 5 vezes (vitórias no Desempate não contam)."
+        ]
+      }
+    },
+    "ACH_40_CannonHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Canhão."
+        ]
+      }
+    },
+    "ACH_41_OrbHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Orbe."
+        ]
+      }
+    },
+    "ACH_42_GreatswordHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Espada Montante."
+        ]
+      }
+    },
+    "ACH_43_3HeroesLevel25": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 25 com 3 Lendas."
+        ]
+      }
+    },
+    "ACH_44_5HeroesLevel50": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 com 50 Lendas."
+        ],
+        "dicas": [
+          "Rotação gratuita semanal ajuda a upar várias Lendas sem comprar."
+        ]
+      }
+    },
+    "ACH_45_SlideChargeSigKillsBronze": {
+      "guia": {
+        "passos": [
+          "Nocauteie 10 oponentes com ataques especiais deslizantes em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_46_BouncyBombMultiHit": {
+      "guia": {
+        "passos": [
+          "Atinja vários oponentes com uma única Bomba Saltitante em uma partida de matchmaking."
+        ]
+      }
+    },
+    "ACH_47_SixKOsInTeamGame": {
+      "guia": {
+        "passos": [
+          "Obtenha 6 nocautes em uma única partida de 2v2 Ranqueado ou 2v2 Amistoso."
+        ]
+      }
+    },
+    "ACH_48_DashJumpGroundPoundKO": {
+      "guia": {
+        "passos": [
+          "Nocauteie 25 oponentes dando um pulo de investida e um ataque bate-estaca em partidas de matchmaking."
+        ]
+      }
+    },
+    "ACH_49_HordeSilver": {
+      "guia": {
+        "passos": [
+          "Alcance a Onda 26 no modo Horda com o dano definido como 100% ou menos."
+        ]
+      }
+    },
+    "ACH_50_BootsHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Botas de Batalha."
+        ]
+      }
+    },
+    "ACH_51_SpikeBallQuadHit": {
+      "guia": {
+        "passos": [
+          "Acerte adversários com a mesma Bola de Espinhos 4 vezes em um partida de matchmaking."
+        ]
+      }
+    },
+    "ACH_52_CatchBombsBronze": {
+      "guia": {
+        "passos": [
+          "Pegue 15 Bombas Saltitantes seguidas no Treinamento de Apanhar Bombas sem pisar no quadro."
+        ]
+      }
+    },
+    "ACH_53_SixSigsSingleMatch": {
+      "guia": {
+        "passos": [
+          "Atinja oponentes com todos os 6 ataques especiais de uma Lenda em 10 partidas de matchmaking diferentes."
+        ]
+      }
+    },
+    "ACH_54_BuySkyforged": {
+      "guia": {
+        "passos": [
+          "Compre um item Skyforged na loja."
+        ]
+      }
+    },
+    "ACH_55_BuyGoldforged": {
+      "guia": {
+        "passos": [
+          "Compre um item Forjado em Ouro na loja."
+        ]
+      }
+    },
+    "ACH_56_1HeroLevel40": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 40 com uma Lenda."
+        ]
+      }
+    },
+    "ACH_57_AccountLevelExpansion2": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 50 da conta."
+        ]
+      }
+    },
+    "ACH_58_ChakramHeroLevel10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 com uma Lenda de Chakram."
+        ]
+      }
+    },
+    "ACH_59_LoseRematchSwitchWin": {
+      "guia": {
+        "passos": [
+          "Perca uma partida de 1v1 Ranqueado, opte por uma revanche, mude de Lenda e vença a revanche."
+        ],
+        "dicas": [
+          "Perca uma partida ranqueada, aceite a revanche, troque de Lenda e vença."
+        ]
+      }
+    },
+    "ACH_60_WinRematchSeries10": {
+      "guia": {
+        "passos": [
+          "Vença 10 séries melhor de 3 em matchmaking."
+        ]
+      }
+    },
+    "ACH_61_GavityCancelLightKillsSilver": {
+      "guia": {
+        "passos": [
+          "Nocauteie 50 oponentes com ataques leves cancelados por gravidade."
+        ]
+      }
+    },
+    "ACH_62_Ranked1v1LightOnlyKO10": {
+      "guia": {
+        "passos": [
+          "Nocauteie 10 oponentes em partidas de 1v1 Ranqueado usando apenas ataques leves."
+        ]
+      }
+    },
+    "ACH_63_TripleKill5": {
+      "guia": {
+        "passos": [
+          "Obtenha 5 nocautes triplos."
+        ]
+      }
+    },
+    "ACH_64_TripleHitSig5": {
+      "guia": {
+        "passos": [
+          "Atinja 3 oponentes com um único ataque especial 10 vezes."
+        ]
+      }
+    },
+    "ACH_65_Level25Weapons8": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 25 com Lendas usando 8 armas diferentes."
+        ]
+      }
+    }
+  }
 }

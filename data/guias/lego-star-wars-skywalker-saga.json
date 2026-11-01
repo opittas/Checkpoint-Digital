@@ -1,6 +1,19 @@
 {
-  "resumo": "",
-  "roadmap": [],
+  "resumo": "Aventura LEGO pelas 9 trilogias de Star Wars. Conquistas vêm da história, coleção de personagens, Kyber Bricks e exploração livre.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Jogue os episódios na ordem que quiser."
+    },
+    {
+      "titulo": "2. Free Play",
+      "texto": "Volte com personagens de outras classes para desafios e coletáveis."
+    },
+    {
+      "titulo": "3. Galáxia",
+      "texto": "Explore os planetas atrás de Kyber Bricks, minikits e missões secundárias."
+    }
+  ],
   "avisos": [],
   "conquistas": {
     "COMPLETE_EPISODE_1": {

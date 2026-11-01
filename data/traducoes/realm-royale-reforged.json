@@ -1,4 +1,88 @@
 {
+ "GOAL_ID_1602": {
+  "n": "Guerreiro Novato",
+  "d": "Elimine um adversário jogando de Guerreiro."
+ },
+ "GOAL_ID_1607": {
+  "n": "Guerreiro Mestre",
+  "d": "Consiga 50 eliminações jogando de Guerreiro."
+ },
+ "GOAL_ID_1603": {
+  "n": "Engenheiro Novato",
+  "d": "Elimine um adversário jogando de Engenheiro."
+ },
+ "GOAL_ID_1608": {
+  "n": "Engenheiro Mestre",
+  "d": "Consiga 50 eliminações jogando de Engenheiro."
+ },
+ "GOAL_ID_1604": {
+  "n": "Assassino Novato",
+  "d": "Elimine um adversário jogando de Assassino."
+ },
+ "GOAL_ID_1609": {
+  "n": "Assassino Mestre",
+  "d": "Consiga 50 eliminações jogando de Assassino."
+ },
+ "GOAL_ID_1605": {
+  "n": "Mago Novato",
+  "d": "Elimine um adversário jogando de Mago."
+ },
+ "GOAL_ID_1610": {
+  "n": "Mago Mestre",
+  "d": "Consiga 50 eliminações jogando de Mago."
+ },
+ "GOAL_ID_1606": {
+  "n": "Caçador Novato",
+  "d": "Elimine um adversário jogando de Caçador."
+ },
+ "GOAL_ID_1611": {
+  "n": "Caçador Mestre",
+  "d": "Consiga 50 eliminações jogando de Caçador."
+ },
+ "GOAL_ID_1643": {
+  "n": "20-Piece",
+  "d": "Pegue Poções de Armadura 20 vezes."
+ },
+ "GOAL_ID_1644": {
+  "n": "Coroado",
+  "d": "Ganhe uma Coroa Real."
+ },
+ "GOAL_ID_1645": {
+  "n": "Rei das Coroas",
+  "d": "Ganhe 10 Coroas Reais."
+ },
+ "GOAL_ID_1646": {
+  "n": "Mestre Ferreiro",
+  "d": "Forje 100 itens."
+ },
+ "GOAL_ID_1647": {
+  "n": "Superequipado",
+  "d": "Tenha um item lendário em cada espaço."
+ },
+ "GOAL_ID_1657": {
+  "n": "Galinhador Longínquo",
+  "d": "Transforme em galinha um jogador a mais de 240 m (800 pés)."
+ },
+ "GOAL_ID_1651": {
+  "n": "Faz-Tudo",
+  "d": "Ganhe Coroas Reais com 3 classes diferentes."
+ },
+ "GOAL_ID_1648": {
+  "n": "No Fio da Lâmina",
+  "d": "Elimine um adversário com a adaga."
+ },
+ "GOAL_ID_1649": {
+  "n": "Dizimação",
+  "d": "Elimine mais de 10 jogadores numa partida."
+ },
+ "GOAL_ID_1650": {
+  "n": "Batalhão Unido",
+  "d": "Vença em esquadrão de 4 sem perder nenhum aliado."
+ },
+ "GOAL_ID_1642": {
+  "n": "Ferreiro Novato",
+  "d": "Forje sua primeira arma lendária."
+ },
  "GOAL_ID_1641": {
   "n": "Grande Fuga do Galinheiro",
   "d": "Sobreviva depois de virar galinha."

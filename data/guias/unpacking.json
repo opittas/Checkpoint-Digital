@@ -11,5 +11,181 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "initial": {
+      "guia": {
+        "passos": [
+          "Ache a câmera na primeira caixa."
+        ]
+      }
+    },
+    "sticker_brain": {
+      "guia": {
+        "passos": [
+          "Ache o cubo mágico e resolva clicando nele."
+        ]
+      }
+    },
+    "sticker_music": {
+      "guia": {
+        "passos": [
+          "Ligue um aparelho de som."
+        ]
+      }
+    },
+    "sticker_star": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 1997."
+        ]
+      }
+    },
+    "sticker_dab": {
+      "guia": {
+        "passos": [
+          "Ache o manequim (2010) e clique nele até ficar na pose 'dab'."
+        ]
+      }
+    },
+    "sticker_cookie": {
+      "guia": {
+        "passos": [
+          "Coloque o pote de biscoitos num lugar alto, fora do alcance."
+        ]
+      }
+    },
+    "sticker_skeleton": {
+      "guia": {
+        "passos": [
+          "Coloque algo eletrônico num lugar perigoso (por exemplo, na pia ou na banheira)."
+        ]
+      }
+    },
+    "sticker_graduation": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 2004."
+        ]
+      }
+    },
+    "sticker_gaming": {
+      "guia": {
+        "passos": [
+          "Ligue um videogame."
+        ]
+      }
+    },
+    "sticker_fashion": {
+      "guia": {
+        "passos": [
+          "Ache uma cabeça para o chapéu (por exemplo, uma estátua ou boneco)."
+        ]
+      }
+    },
+    "sticker_roleplaying": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 2007."
+        ]
+      }
+    },
+    "sticker_undies": {
+      "guia": {
+        "passos": [
+          "Na casa do namorado, arrume a gaveta de cuecas dele."
+        ]
+      }
+    },
+    "sticker_coffee": {
+      "guia": {
+        "passos": [
+          "Coloque todos os itens de café no balcão."
+        ]
+      }
+    },
+    "sticker_guitar": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 2010."
+        ]
+      }
+    },
+    "sticker_dog": {
+      "guia": {
+        "passos": [
+          "Ache o pôster da infância e coloque na parede."
+        ]
+      }
+    },
+    "sticker_returningHome": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 2012."
+        ]
+      }
+    },
+    "sticker_microwave": {
+      "guia": {
+        "passos": [
+          "Clique no micro-ondas até ajustar o horário."
+        ]
+      }
+    },
+    "sticker_lightbulb": {
+      "guia": {
+        "passos": [
+          "Escreva uma equação com os ímãs da geladeira."
+        ]
+      }
+    },
+    "sticker_independence": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 2013."
+        ]
+      }
+    },
+    "sticker_plant": {
+      "guia": {
+        "passos": [
+          "Ache um lugar para todas as plantas."
+        ]
+      }
+    },
+    "sticker_love": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 2015."
+        ]
+      }
+    },
+    "sticker_blocks": {
+      "guia": {
+        "passos": [
+          "Construa uma torre com os blocos do bebê."
+        ]
+      }
+    },
+    "sticker_plushToys": {
+      "guia": {
+        "passos": [
+          "Coloque o tigre e o porco de pelúcia lado a lado."
+        ]
+      }
+    },
+    "sticker_toilet": {
+      "guia": {
+        "passos": [
+          "Dê descarga em todos os vasos sanitários."
+        ]
+      }
+    },
+    "sticker_house": {
+      "guia": {
+        "passos": [
+          "Termine a fase de 2018."
+        ]
+      }
+    }
+  }
 }

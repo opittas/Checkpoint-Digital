@@ -15,5 +15,190 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_ALL_STARITES_IN_A_LEVEL": {
+      "guia": {
+        "passos": [
+          "Pegue todas as Starites de qualquer área."
+        ],
+        "dicas": [
+          "Áreas iniciais são as mais rápidas."
+        ]
+      }
+    },
+    "ACH_3_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 3 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_8_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 8 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_12_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 12 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_16_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 16 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_24_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 24 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_30_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 30 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_40_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 40 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_50_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 50 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_60_STARITES_TO_LILY": {
+      "guia": {
+        "passos": [
+          "Entregue 60 Starites à Lily."
+        ]
+      }
+    },
+    "ACH_106_STARITES": {
+      "guia": {
+        "passos": [
+          "Pegue as 106 Starites."
+        ],
+        "dicas": [
+          "Use o mapa para ver o que falta em cada área."
+        ]
+      }
+    },
+    "ACH_40_MAXWELL_BROTHERS": {
+      "guia": {
+        "passos": [
+          "Ajude os 40 irmãos de Maxwell espalhados pelo mundo."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_LIVING": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Vida."
+        ],
+        "dicas": [
+          "Pedaços vêm de ajudar NPCs com problemas pequenos."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_FOOD": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Comida."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_VEHICLES": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Veículo."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_MUSIC": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Música."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_TECH": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Tecnologia."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_WEAPONS": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Arma."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_CLOTHES": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Roupas."
+        ]
+      }
+    },
+    "ACH_ALL_SHARDS_MISC": {
+      "guia": {
+        "passos": [
+          "Junte todos os Pedaços da categoria Diversos."
+        ]
+      }
+    },
+    "ACH_217_OBJ_SHARDS": {
+      "guia": {
+        "passos": [
+          "Junte os 217 Pedaços de Objeto."
+        ]
+      }
+    },
+    "ACH_CHANGE_AVATAR": {
+      "guia": {
+        "passos": [
+          "Troque de avatar no menu."
+        ]
+      }
+    },
+    "ACH_USE_OBJECT_SUGGESTOR": {
+      "guia": {
+        "passos": [
+          "Crie um objeto usando o botão de Sugestão."
+        ]
+      }
+    },
+    "ACH_USE_OBJECT_EDITOR": {
+      "guia": {
+        "passos": [
+          "Crie um objeto no Editor de Objetos."
+        ]
+      }
+    },
+    "ACH_DOWNLOAD_CUSTOM_OBJ": {
+      "guia": {
+        "passos": [
+          "Baixe um objeto criado por outro jogador."
+        ]
+      }
+    }
+  }
 }

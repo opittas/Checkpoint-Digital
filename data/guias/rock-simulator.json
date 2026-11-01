@@ -15,5 +15,556 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_REACH_LEVEL_10": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_20": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 20."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_30": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 30."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_40": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 40."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_50": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 50."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_100": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 100."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_200": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 200."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_300": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 300."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_400": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 400."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_500": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 500."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_1000": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 1000."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_2000": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 2000."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_3000": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 3000."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_4000": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 4000."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_REACH_LEVEL_5000": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5000."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PLAINS_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o quebra-cabeça das Planícies."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_DESERT_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o quebra-cabeça do Deserto."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SPACE_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o quebra-cabeça do Espaço."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SNOW_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o quebra-cabeça da Neve."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_CABIN_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o quebra-cabeça da Cabana."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_NORTH_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o quebra-cabeça do Norte."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_JUNGLE_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Complete o quebra-cabeça da Selva."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_GOLDPOLISHED_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Ouro (Polido)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_GOLDWORN_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Ouro (Gasto)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SHADOWRED_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Sombra (Vermelha)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SHADOWPURPLE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Sombra (Roxa)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SHADOWGREEN_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Sombra (Verde)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SHADOWBLUE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Sombra (Azul)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SHADOWYELLOW_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Sombra (Amarela)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_SHADOWWHITE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Sombra (Branca)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_HOLOBLUE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Holo (Azul)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_HOLOWHITE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Holo (Branco)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_HOLORED_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Holo (Vermelho)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_HOLOYELLOW_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Holo (Amarelo)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_HOLOGREEN_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Holo (Verde)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_HOLOPURPLE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Holo (Roxo)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_ALIEN_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Alienígena."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PLASTICRED_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Plástico (Vermelho)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PLASTICWHITE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Plástico (Branco)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PLASTICYELLOW_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Plástico (Amarelo)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PLASTICGREEN_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Plástico (Verde)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PLASTICPURPLE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Plástico (Roxo)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PLASTICBLUE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Plástico (Azul)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_STEELWORN_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Aço (Gasto)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_STEELWORNGREEN_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Aço (Gasto) (Verde)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_STEELWORNPURPLE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Aço (Gasto) (Roxo)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_STEELWORNRED_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Aço (Gasto) (Vermelho)."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_GRANITE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Granito."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_PICNIC_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Piquenique."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_BRICK_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Tijolo."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_CARDBOARD_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Papelão."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_CONCRETE_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Concreto."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_MOSS_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Musgo."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_LEATHER_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Couro."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    },
+    "ACH_ASPHALT_PURCHASED": {
+      "guia": {
+        "passos": [
+          "Compre Asfalto."
+        ],
+        "dicas": [
+          "Jogo idle: deixe o jogo aberto acumulando progresso e compre as skins na loja conforme o dinheiro cresce."
+        ]
+      }
+    }
+  }
 }

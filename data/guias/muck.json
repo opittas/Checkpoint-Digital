@@ -19,5 +19,370 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Easy Peasy": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no fácil."
+        ]
+      }
+    },
+    "Learning the ropes": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no normal."
+        ]
+      }
+    },
+    "Hardcore gamer": {
+      "guia": {
+        "passos": [
+          "Termine o jogo na dificuldade gamer."
+        ]
+      }
+    },
+    "A gamer move": {
+      "guia": {
+        "passos": [
+          "Termine o jogo em menos de 10 dias no modo Gamer."
+        ]
+      }
+    },
+    "Speedrunner_": {
+      "guia": {
+        "passos": [
+          "Termine o jogo em menos de 8 dias."
+        ]
+      }
+    },
+    "What the muck": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sem nenhum jogador pegar power-up."
+        ]
+      }
+    },
+    "Set sail_": {
+      "guia": {
+        "passos": [
+          "Saia de Muck."
+        ]
+      }
+    },
+    "Untouchable_": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sozinho sem sofrer dano (Normal ou mais difícil)."
+        ],
+        "dicas": [
+          "Jogue sozinho, use armadura forte e lute com cautela; qualquer dano anula."
+        ]
+      }
+    },
+    "Dream Team_": {
+      "guia": {
+        "passos": [
+          "Termine o jogo com 2 jogadores sem ninguém sofrer dano (Normal ou mais difícil)."
+        ]
+      }
+    },
+    "The bois_": {
+      "guia": {
+        "passos": [
+          "Termine o jogo com 4 jogadores sem ninguém sofrer dano (Normal ou mais difícil)."
+        ]
+      }
+    },
+    "Sweat and tears_": {
+      "guia": {
+        "passos": [
+          "Termine o jogo com 8 jogadores sem ninguém sofrer dano (Normal ou mais difícil)."
+        ]
+      }
+    },
+    "Muckinator": {
+      "guia": {
+        "passos": [
+          "Mate 100 criaturas."
+        ]
+      }
+    },
+    "Muckinator 2": {
+      "guia": {
+        "passos": [
+          "Mate 1.000 criaturas."
+        ]
+      }
+    },
+    "Muckinator 3": {
+      "guia": {
+        "passos": [
+          "Mate 10.000 criaturas."
+        ]
+      }
+    },
+    "Muckinator 4": {
+      "guia": {
+        "passos": [
+          "Mate 100.000 criaturas."
+        ]
+      }
+    },
+    "Underdog": {
+      "guia": {
+        "passos": [
+          "Mate 250 criaturas fortalecidas."
+        ]
+      }
+    },
+    "Bullseye": {
+      "guia": {
+        "passos": [
+          "Mate 200 inimigos usando arcos."
+        ]
+      }
+    },
+    "That's not very milk of you, sir": {
+      "guia": {
+        "passos": [
+          "Mate 250 vacas."
+        ]
+      }
+    },
+    "David vs Goliath": {
+      "guia": {
+        "passos": [
+          "Derrote o Big Chunk."
+        ]
+      }
+    },
+    "Gronk": {
+      "guia": {
+        "passos": [
+          "Derrote o Gronk."
+        ]
+      }
+    },
+    "Guardian": {
+      "guia": {
+        "passos": [
+          "Derrote o Guardião."
+        ]
+      }
+    },
+    "Fearless_": {
+      "guia": {
+        "passos": [
+          "Derrote todos os chefes."
+        ]
+      }
+    },
+    "Death Wish": {
+      "guia": {
+        "passos": [
+          "Ative 200 totens de batalha."
+        ]
+      }
+    },
+    "Goblin Slayer": {
+      "guia": {
+        "passos": [
+          "Mate 1000 goblins."
+        ]
+      }
+    },
+    "Big Mistake": {
+      "guia": {
+        "passos": [
+          "Jogue Muck pela primeira vez."
+        ]
+      }
+    },
+    "Pain and suffering": {
+      "guia": {
+        "passos": [
+          "Morra 10 vezes."
+        ]
+      }
+    },
+    "This is fine": {
+      "guia": {
+        "passos": [
+          "Morra 25 vezes."
+        ]
+      }
+    },
+    "Muck off": {
+      "guia": {
+        "passos": [
+          "Morra 50 vezes."
+        ]
+      }
+    },
+    "Muck this game": {
+      "guia": {
+        "passos": [
+          "Morra 100 vezes."
+        ]
+      }
+    },
+    "You're not a fish": {
+      "guia": {
+        "passos": [
+          "Morra afogado."
+        ]
+      }
+    },
+    "Treasure Hunter": {
+      "guia": {
+        "passos": [
+          "Abra 500 baús."
+        ]
+      }
+    },
+    "Architect": {
+      "guia": {
+        "passos": [
+          "Faça 250 construções."
+        ]
+      }
+    },
+    "Illegal work": {
+      "guia": {
+        "passos": [
+          "Fabrique 1.000 moedas."
+        ]
+      }
+    },
+    "Go outside": {
+      "guia": {
+        "passos": [
+          "Sobreviva por 100 dias."
+        ]
+      }
+    },
+    "The Black Swordsman_": {
+      "guia": {
+        "passos": [
+          "Empunhe a Lâmina da Noite."
+        ],
+        "dicas": [
+          "A Night Blade é feita com material raro da ilha; avance até ter as melhores bancadas e forje-a."
+        ]
+      }
+    },
+    "Milkman_": {
+      "guia": {
+        "passos": [
+          "Pegue 10 power-ups de Leite numa partida."
+        ]
+      }
+    },
+    "You're a fish": {
+      "guia": {
+        "passos": [
+          "Nade 25 km."
+        ]
+      }
+    },
+    "Team player": {
+      "guia": {
+        "passos": [
+          "Reviva um colega."
+        ]
+      }
+    },
+    "The red plumber man lied": {
+      "guia": {
+        "passos": [
+          "Coma 50 cogumelos vermelhos sem crescer."
+        ]
+      }
+    },
+    "Salty": {
+      "guia": {
+        "passos": [
+          "Mate um amigo no Modo Sobrevivência."
+        ],
+        "dicas": [
+          "Precisa de um amigo em modo Survival (PvP)."
+        ]
+      }
+    },
+    "Leg day": {
+      "guia": {
+        "passos": [
+          "Ande 250 km."
+        ]
+      }
+    },
+    "I am Inevitable": {
+      "guia": {
+        "passos": [
+          "Colete as 5 gemas."
+        ],
+        "dicas": [
+          "As 5 gemas vêm dos chefes; colete todas na mesma partida."
+        ]
+      }
+    },
+    "Phoon": {
+      "guia": {
+        "passos": [
+          "Pule 10.000 vezes."
+        ]
+      }
+    },
+    "Oh you don't know what Karlson is?": {
+      "guia": {
+        "passos": [
+          "Ache e coloque Karlson na lista de desejos dentro de Muck."
+        ],
+        "dicas": [
+          "Há um objeto escondido do Karlson pelo mapa; interaja com ele."
+        ]
+      }
+    },
+    "Caveman_": {
+      "guia": {
+        "passos": [
+          "Termine o jogo usando só uma pedra como arma e ferramenta. Vale para todos os jogadores."
+        ],
+        "dicas": [
+          "Jogue em Easy; use só a pedra inicial. Vale para todos os jogadores."
+        ]
+      }
+    },
+    "Muck_": {
+      "guia": {
+        "passos": [
+          "Termine o jogo só com uma pedra, sem sofrer dano e sem power-ups. Vale para todos do lobby. (Normal ou mais difícil)."
+        ],
+        "dicas": [
+          "Combinação de Caveman, sem power-ups e sem dano; jogue com muita paciência."
+        ]
+      }
+    },
+    "Chief": {
+      "guia": {
+        "passos": [
+          "Derrote o Chefe."
+        ]
+      }
+    },
+    "ChiefChest": {
+      "guia": {
+        "passos": [
+          "Abra o baú do Chefe."
+        ]
+      }
+    },
+    "PublicEnemy": {
+      "guia": {
+        "passos": [
+          "Mate 100 Homens de Madeira."
+        ]
+      }
+    }
+  }
 }

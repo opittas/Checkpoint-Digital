@@ -19,5 +19,394 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "a0": {
+      "guia": {
+        "passos": [
+          "Ganhe 15.000 ouros."
+        ]
+      }
+    },
+    "1": {
+      "guia": {
+        "passos": [
+          "Ganhe 50.000 ouros."
+        ]
+      }
+    },
+    "2": {
+      "guia": {
+        "passos": [
+          "Ganhe 250.000 ouros."
+        ]
+      }
+    },
+    "3": {
+      "guia": {
+        "passos": [
+          "Ganhe 1.000.000 ouros."
+        ]
+      }
+    },
+    "4": {
+      "guia": {
+        "passos": [
+          "Ganhe 10.000.000 ouros."
+        ]
+      }
+    },
+    "5": {
+      "guia": {
+        "passos": [
+          "Complete a coleção do museu."
+        ],
+        "dicas": [
+          "Doe todos os minerais e artefatos ao Gunther. Abra geodos e escave pontos de artefato (minhocas no chão)."
+        ]
+      }
+    },
+    "6": {
+      "guia": {
+        "passos": [
+          "Alcance amizade nível 5 com alguém."
+        ]
+      }
+    },
+    "7": {
+      "guia": {
+        "passos": [
+          "Alcance amizade nível 10 com alguém."
+        ]
+      }
+    },
+    "9": {
+      "guia": {
+        "passos": [
+          "Alcance amizade nível 10 com 8 pessoas."
+        ]
+      }
+    },
+    "11": {
+      "guia": {
+        "passos": [
+          "Alcance amizade nível 5 com 4 pessoas."
+        ]
+      }
+    },
+    "12": {
+      "guia": {
+        "passos": [
+          "Alcance amizade nível 5 com 10 pessoas."
+        ]
+      }
+    },
+    "13": {
+      "guia": {
+        "passos": [
+          "Alcance amizade nível 5 com 20 pessoas."
+        ]
+      }
+    },
+    "15": {
+      "guia": {
+        "passos": [
+          "Cozinhe 10 receitas diferentes."
+        ]
+      }
+    },
+    "16": {
+      "guia": {
+        "passos": [
+          "Cozinhe 25 receitas diferentes."
+        ]
+      }
+    },
+    "17": {
+      "guia": {
+        "passos": [
+          "Cozinhe todas as receitas."
+        ],
+        "dicas": [
+          "Receitas vêm da TV (Rainha do Molho), amigos e lojas. Use a aba de receitas para ver o que falta."
+        ]
+      }
+    },
+    "18": {
+      "guia": {
+        "passos": [
+          "Atualize sua casa."
+        ]
+      }
+    },
+    "19": {
+      "guia": {
+        "passos": [
+          "Aumente o tamanho de sua casa para o nível máximo."
+        ]
+      }
+    },
+    "20": {
+      "guia": {
+        "passos": [
+          "Crie 15 itens diferentes."
+        ]
+      }
+    },
+    "21": {
+      "guia": {
+        "passos": [
+          "Crie 30 itens diferentes."
+        ]
+      }
+    },
+    "22": {
+      "guia": {
+        "passos": [
+          "Crie todos os itens."
+        ],
+        "dicas": [
+          "Algumas receitas exigem habilidade, amizades ou a Ilha Gengibre."
+        ]
+      }
+    },
+    "24": {
+      "guia": {
+        "passos": [
+          "Pegue 10 peixes diferentes."
+        ]
+      }
+    },
+    "25": {
+      "guia": {
+        "passos": [
+          "Pegue 24 peixes diferentes."
+        ]
+      }
+    },
+    "26": {
+      "guia": {
+        "passos": [
+          "Pegue todos os peixes."
+        ],
+        "dicas": [
+          "Inclui os peixes lendários e os de eventos; o Mercado Noturno (inverno 15–17) tem submarino."
+        ]
+      }
+    },
+    "27": {
+      "guia": {
+        "passos": [
+          "Pegue 100 peixes."
+        ]
+      }
+    },
+    "28": {
+      "guia": {
+        "passos": [
+          "Doe 40 itens ao museu."
+        ]
+      }
+    },
+    "29": {
+      "guia": {
+        "passos": [
+          "Complete 10 missões 'Precisa-se de ajuda'."
+        ]
+      }
+    },
+    "30": {
+      "guia": {
+        "passos": [
+          "Complete 40 missões 'Precisa-se de ajuda'."
+        ]
+      }
+    },
+    "31": {
+      "guia": {
+        "passos": [
+          "Envie 15 itens de cada plantação pelo correio."
+        ]
+      }
+    },
+    "32": {
+      "guia": {
+        "passos": [
+          "Envie 300 itens de uma variedade só pelo correio."
+        ]
+      }
+    },
+    "34": {
+      "guia": {
+        "passos": [
+          "Envie um item de cada ao correio."
+        ],
+        "dicas": [
+          "Envie um de cada item na caixa de envio; verifique a coleção 'Itens Enviados'."
+        ]
+      }
+    },
+    "Achievement_PrairieKing": {
+      "guia": {
+        "passos": [
+          "Zere o arcade 'Jornada do Rei da Pradaria'."
+        ]
+      }
+    },
+    "Achievement_TheBottom": {
+      "guia": {
+        "passos": [
+          "Alcance o nível mais profundo das minas."
+        ]
+      }
+    },
+    "Achievement_LocalLegend": {
+      "guia": {
+        "passos": [
+          "Restaure o Centro Comunitário da Vila Pelicanos."
+        ],
+        "atencao": [
+          "Incompatível com a rota Joja no mesmo save."
+        ]
+      }
+    },
+    "Achievement_Joja": {
+      "guia": {
+        "passos": [
+          "Torne-se um membro da Joja Co. e realize todas as obras para a comunidade."
+        ],
+        "atencao": [
+          "Incompatível com o Centro Comunitário no mesmo save; use outro save."
+        ]
+      }
+    },
+    "Achievement_Stardrop": {
+      "guia": {
+        "passos": [
+          "Encontre todas as Frutas-estrela."
+        ],
+        "dicas": [
+          "São 7 Stardrops: Feira, Museu (60 doações), Krobus (esgoto), baú do nível 100 da mina, cônjuge, conquista Master Angler e o Velho Mestre Cannoli (Floresta Secreta, Fruta Joia Doce)."
+        ]
+      }
+    },
+    "Achievement_FectorsChallenge": {
+      "guia": {
+        "passos": [
+          "Zere 'Jornada do Rei da Pradaria' sem morrer."
+        ],
+        "dicas": [
+          "Jogo do fliperama do Saloon; termine sem morrer nenhuma vez."
+        ]
+      }
+    },
+    "Achievement_FullHouse": {
+      "guia": {
+        "passos": [
+          "Case e tenha dois filhos."
+        ]
+      }
+    },
+    "Achievement_SingularTalent": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 em alguma habilidade."
+        ]
+      }
+    },
+    "Achievement_MasterOfTheFiveWays": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 em todas as habilidades."
+        ]
+      }
+    },
+    "Achievement_KeeperOfTheMysticRings": {
+      "guia": {
+        "passos": [
+          "Complete todas as Metas de Erradicação de Monstros da Guilda dos Aventureiros."
+        ],
+        "dicas": [
+          "Veja as metas no quadro da Guilda dos Aventureiros (Gil)."
+        ]
+      }
+    },
+    "35": {
+      "guia": {
+        "passos": [
+          "Leia todos os livros."
+        ]
+      }
+    },
+    "36": {
+      "guia": {
+        "passos": [
+          "Assista a um filme."
+        ]
+      }
+    },
+    "37": {
+      "guia": {
+        "passos": [
+          "Consiga o primeiro lugar na competição da Feira do Vale do Orvalho."
+        ]
+      }
+    },
+    "38": {
+      "guia": {
+        "passos": [
+          "Agrade o Governador."
+        ],
+        "dicas": [
+          "Na Luau (verão 11), coloque um item de alta qualidade na sopa (ouro/irídio)."
+        ]
+      }
+    },
+    "39": {
+      "guia": {
+        "passos": [
+          "Ajude seus vizinhos da floresta a aumentarem sua família."
+        ],
+        "dicas": [
+          "Missão dos guaxinins (versão 1.6): conserte o toco gigante na floresta e cumpra os pedidos da família."
+        ]
+      }
+    },
+    "41": {
+      "guia": {
+        "passos": [
+          "Chegue até o fundo das minas 'perigosas'."
+        ],
+        "dicas": [
+          "Ative a Mina Perigosa no Desafio do Sr. Qi (Mina da Caveira) e chegue ao fundo."
+        ]
+      }
+    },
+    "42": {
+      "guia": {
+        "passos": [
+          "Obtenha a arma mais poderosa."
+        ],
+        "dicas": [
+          "A Espada Galáctica: leve um Prisma no pilar de Calico (deserto). A Espada Infinita vem das 3 armas galácticas com Almas Cósmicas."
+        ]
+      }
+    },
+    "44": {
+      "guia": {
+        "passos": [
+          "Alcance o pico."
+        ],
+        "dicas": [
+          "Perfeição pede 100% no rastreador (Sr. Qi na Ilha Gengibre). Depois suba ao cume da montanha."
+        ]
+      }
+    },
+    "40": {
+      "guia": {
+        "passos": [
+          "Chegue à Ilha Gengibre."
+        ]
+      }
+    }
+  }
 }

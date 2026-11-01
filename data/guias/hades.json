@@ -19,5 +19,406 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "AchClearTartarus": {
+      "guia": {
+        "passos": [
+          "Complete o Tártaro."
+        ]
+      }
+    },
+    "AchClearAsphodel": {
+      "guia": {
+        "passos": [
+          "Complete Asfódelo."
+        ]
+      }
+    },
+    "AchClearElysium": {
+      "guia": {
+        "passos": [
+          "Complete o Elísio."
+        ]
+      }
+    },
+    "AchClearElysiumEM": {
+      "guia": {
+        "passos": [
+          "Complete o Elísio com a condição 'Medidas Extremas'."
+        ],
+        "dicas": [
+          "Ative o Extreme Measures no Pacto de Punição (nível 1 já basta) e vença Teseu e Astério."
+        ]
+      }
+    },
+    "AchClearHeatGate": {
+      "guia": {
+        "passos": [
+          "Complete um Portão de Érebo sem sofrer dano."
+        ],
+        "dicas": [
+          "Portões Infernais aparecem em Erebus (Pacto com Calor). Use dash e armas de alcance; a sala é curta."
+        ]
+      }
+    },
+    "AchClearAnyRun": {
+      "guia": {
+        "passos": [
+          "Escape com sucesso."
+        ]
+      }
+    },
+    "AchClearRun4thAspect": {
+      "guia": {
+        "passos": [
+          "Escape usando o aspecto oculto de uma arma."
+        ],
+        "dicas": [
+          "Os aspectos ocultos são liberados por conversas específicas (Nyx, Aquiles, Hades etc.) após desbloquear todos os aspectos normais com Chaves Titânicas."
+        ]
+      }
+    },
+    "AchBeatCharon": {
+      "guia": {
+        "passos": [
+          "Ganhe um Cartão de Fidelidade."
+        ],
+        "dicas": [
+          "Na loja de Caronte no meio do caminho, pegue a bolsa de óbolos; depois, uma sala especial permite enfrentá-lo. Ganhe e receba o cartão de fidelidade."
+        ]
+      }
+    },
+    "AchBronzeSkellyTrophy": {
+      "guia": {
+        "passos": [
+          "Receba o primeiro prêmio do Zé Caveira."
+        ]
+      }
+    },
+    "AchSilverSkellyTrophy": {
+      "guia": {
+        "passos": [
+          "Receba o segundo prêmio do Zé Caveira."
+        ]
+      }
+    },
+    "AchFoundKeepsakes": {
+      "guia": {
+        "passos": [
+          "Obtenha todas as Lembrancinhas padrão."
+        ]
+      }
+    },
+    "AchLeveledKeepsakes": {
+      "guia": {
+        "passos": [
+          "Alcance o nível máximo de todas as Lembrancinhas padrão."
+        ],
+        "dicas": [
+          "Cada lembrança sobe de nível ao completar salas equipada; troque de lembrança a cada bioma."
+        ]
+      }
+    },
+    "AchFoundSummon": {
+      "guia": {
+        "passos": [
+          "Equipe um Companheiro Ctônico."
+        ]
+      }
+    },
+    "AchFoundAllSummons": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os Companheiros Ctônicos."
+        ]
+      }
+    },
+    "AchMaxedAnyAspect": {
+      "guia": {
+        "passos": [
+          "Maximize qualquer Aspecto de Arma."
+        ]
+      }
+    },
+    "ActUnlockedAllAspects": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os Aspectos das Armas."
+        ]
+      }
+    },
+    "AchPickedManyBoons": {
+      "guia": {
+        "passos": [
+          "Aceite 100 efeitos de Bençãos diferentes."
+        ]
+      }
+    },
+    "AchPurgedLegendBoon": {
+      "guia": {
+        "passos": [
+          "Expurgue uma Benção Lendária."
+        ],
+        "dicas": [
+          "Use uma Fonte de Purgação (Pool of Purging) num boon lendário em Elísio."
+        ]
+      }
+    },
+    "AchPickedManyHammers": {
+      "guia": {
+        "passos": [
+          "Escolha 50 melhorias diferentes do Martelo de Dédalo."
+        ]
+      }
+    },
+    "AchUnlockedAllWeapons": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as Armas Infernais."
+        ]
+      }
+    },
+    "AchForgedBond": {
+      "guia": {
+        "passos": [
+          "Forme um vínculo com qualquer personagem."
+        ]
+      }
+    },
+    "AchOlympiansCodex": {
+      "guia": {
+        "passos": [
+          "Desbloqueie totalmente as entradas de Codex do Olimpo."
+        ]
+      }
+    },
+    "AchManyBrokerTrades": {
+      "guia": {
+        "passos": [
+          "Realize 20 trocas com o Mercador Miserável."
+        ]
+      }
+    },
+    "AchManyCosmetics": {
+      "guia": {
+        "passos": [
+          "Pague por 50 trabalhos do Empreiteiro."
+        ]
+      }
+    },
+    "AchManyQuests": {
+      "guia": {
+        "passos": [
+          "Realize 15 profecias."
+        ]
+      }
+    },
+    "AchFishFromEachBiome": {
+      "guia": {
+        "passos": [
+          "Pesque um peixe de cada região."
+        ],
+        "dicas": [
+          "A vara de pesca é comprada do Empreiteiro da Casa; pesque em Tártaro, Asfódelos, Elísio, Templo de Estige e no bar de Caronte."
+        ]
+      }
+    },
+    "AchOrpheusSingsAgain": {
+      "guia": {
+        "passos": [
+          "Convença Orfeu a voltar a cantar."
+        ],
+        "dicas": [
+          "Avance os diálogos de Orfeu e Eurídice dando presentes (Néctar) e siga a profecia 'Musician and Muse'."
+        ]
+      }
+    },
+    "AchMirrorAllUnlocked": {
+      "guia": {
+        "passos": [
+          "Tenha ao menos um nível em cada talento do Espelho da Noite."
+        ]
+      }
+    },
+    "AchNyxChaosReunion": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Noite e Escuridão'."
+        ]
+      }
+    },
+    "AchMeetChthonicGods": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Colegas Ctônicos'."
+        ]
+      }
+    },
+    "AchAresKills": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Sede do Deus da Guerra'."
+        ]
+      }
+    },
+    "AchSisyphusLiberation": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Fim do Tormento'."
+        ],
+        "dicas": [
+          "Dê Néctar a Sísifo, ganhe a lembrança dele e depois use Ambrosia para avançar a conversa com Hades."
+        ]
+      }
+    },
+    "AchSingersReunion": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Músico e Musa'."
+        ]
+      }
+    },
+    "AchMyrmidonReunion": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Separados pela Morte'."
+        ],
+        "dicas": [
+          "Leve o vínculo com Aquiles ao máximo e complete as conversas com Pátroclo em Elísio."
+        ]
+      }
+    },
+    "AchMirrorUpgradeClears": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Reflexões Sombrias'."
+        ],
+        "dicas": [
+          "Vença usando cada lado alternativo dos talentos do Espelho da Noite."
+        ]
+      }
+    },
+    "AchPactUpgradesClears": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Condições Difíceis'."
+        ],
+        "dicas": [
+          "Vença corridas aumentando o Calor; 'Harsh Conditions' pede vitórias com cada condição do Pacto."
+        ]
+      }
+    },
+    "AchWeaponClears": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Mestre das Armas'."
+        ],
+        "dicas": [
+          "Precisa vencer uma corrida com cada uma das 6 Armas Infernais."
+        ]
+      }
+    },
+    "AchEliteAttributeKills": {
+      "guia": {
+        "passos": [
+          "Realize a profecia 'Benefícios Reduzidos'."
+        ]
+      }
+    },
+    "AchAccessAdminChamber": {
+      "guia": {
+        "passos": [
+          "Obtenha acesso à Câmara Administrativa."
+        ]
+      }
+    },
+    "AchReachedEnding": {
+      "guia": {
+        "passos": [
+          "Termine a missão principal da história."
+        ],
+        "dicas": [
+          "São 10 vitórias contra Hades para ver o final principal."
+        ]
+      }
+    },
+    "AchReachedEpilogue": {
+      "guia": {
+        "passos": [
+          "Chegue ao Epílogo da História."
+        ],
+        "dicas": [
+          "Depois do final, continue vencendo e complete a profecia de reconciliar a família (com Perséfone e os Olímpicos)."
+        ]
+      }
+    },
+    "AchWellShopItems": {
+      "guia": {
+        "passos": [
+          "Compre nove itens do 'Poço do Caronte' em uma tentativa de fuga."
+        ]
+      }
+    },
+    "AchBuffedButterfly": {
+      "guia": {
+        "passos": [
+          "Ganhe 30% de dano extra com a Broche de Borboleta."
+        ]
+      }
+    },
+    "AchBuffedPlume": {
+      "guia": {
+        "passos": [
+          "Ganhe 20% de chance de esquiva com a Pluma Cintilante."
+        ]
+      }
+    },
+    "AchCrushedThanatos": {
+      "guia": {
+        "passos": [
+          "Derrote Tânato por 15 ou mais eliminações de diferença."
+        ],
+        "dicas": [
+          "Quando Tânatos aparece, foque nos inimigos com ataques em área; mate 15 a mais que ele."
+        ]
+      }
+    },
+    "AchGreaterCall": {
+      "guia": {
+        "passos": [
+          "Use o Grande Chamado para invocar a ajuda de alguém do Olimpo."
+        ]
+      }
+    },
+    "AchGreaterCallSpurned": {
+      "guia": {
+        "passos": [
+          "Use o Grande Chamado de alguém do Olimpo contra eles em uma Provação."
+        ],
+        "dicas": [
+          "Em uma Prova dos Deuses, use o Chamado Maior do deus que você está enfrentando."
+        ]
+      }
+    },
+    "AchSkellyKills": {
+      "guia": {
+        "passos": [
+          "Mate Zé Caveira 15 vezes."
+        ],
+        "dicas": [
+          "Skelly fica no pátio da Casa de Hades; bata nele entre as corridas."
+        ]
+      }
+    },
+    "AchCerberusPets": {
+      "guia": {
+        "passos": [
+          "Acaricie Cérbero 10 vezes."
+        ],
+        "dicas": [
+          "Interaja com Cérbero na Casa de Hades 10 vezes (uma por visita/corrida)."
+        ]
+      }
+    }
+  }
 }

@@ -25,5 +25,513 @@
   "avisos": [
     "Nada é perdível: depois do fim dá para continuar explorando."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT001": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"Encontre Chopper!\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT002": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"Mulher Suspeita\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT003": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"Tripulação Reunida\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT004": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"A Velha Ilha\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT005": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"Para Você\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT006": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"Invasão da Torre\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT007": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"Proteger Todos\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT008": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"Prisão Aérea!\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT009": {
+      "guia": {
+        "passos": [
+          "Conclua todas as Missões Principais."
+        ]
+      }
+    },
+    "ACHIEVEMENT010": {
+      "guia": {
+        "passos": [
+          "Conclua a primeira Missão Secundária."
+        ]
+      }
+    },
+    "ACHIEVEMENT011": {
+      "guia": {
+        "passos": [
+          "Conclua 20 Missões Secundárias."
+        ]
+      }
+    },
+    "ACHIEVEMENT012": {
+      "guia": {
+        "passos": [
+          "Conclua 100 Missões Secundárias."
+        ]
+      }
+    },
+    "ACHIEVEMENT013": {
+      "guia": {
+        "passos": [
+          "Atinja o Rank Pirata 10."
+        ]
+      }
+    },
+    "ACHIEVEMENT014": {
+      "guia": {
+        "passos": [
+          "Atinja o Rank Pirata 50."
+        ]
+      }
+    },
+    "ACHIEVEMENT015": {
+      "guia": {
+        "passos": [
+          "Atinja o Rank Pirata 100."
+        ]
+      }
+    },
+    "ACHIEVEMENT016": {
+      "guia": {
+        "passos": [
+          "Obtenha 100% de Karma com uma facção."
+        ],
+        "dicas": [
+          "Faça side missions da mesma facção até o Karma chegar a 100%."
+        ]
+      }
+    },
+    "ACHIEVEMENT017": {
+      "guia": {
+        "passos": [
+          "Aprenda 10 Habilidades."
+        ]
+      }
+    },
+    "ACHIEVEMENT018": {
+      "guia": {
+        "passos": [
+          "Aprenda 40 Habilidades."
+        ]
+      }
+    },
+    "ACHIEVEMENT019": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as Habilidades."
+        ]
+      }
+    },
+    "ACHIEVEMENT020": {
+      "guia": {
+        "passos": [
+          "Derrote 10 inimigos com uma Derrubada."
+        ]
+      }
+    },
+    "ACHIEVEMENT021": {
+      "guia": {
+        "passos": [
+          "Derrote 100 inimigos com uma Derrubada."
+        ]
+      }
+    },
+    "ACHIEVEMENT022": {
+      "guia": {
+        "passos": [
+          "Execute 10 tiros críticos."
+        ]
+      }
+    },
+    "ACHIEVEMENT023": {
+      "guia": {
+        "passos": [
+          "Execute 100 tiros críticos."
+        ]
+      }
+    },
+    "ACHIEVEMENT024": {
+      "guia": {
+        "passos": [
+          "Faça 30 Esquivas Perfeitas."
+        ]
+      }
+    },
+    "ACHIEVEMENT025": {
+      "guia": {
+        "passos": [
+          "Faça 30 Defesas Perfeitas."
+        ]
+      }
+    },
+    "ACHIEVEMENT026": {
+      "guia": {
+        "passos": [
+          "Percorra no total uma distância de 50.000."
+        ]
+      }
+    },
+    "ACHIEVEMENT027": {
+      "guia": {
+        "passos": [
+          "Voe com o Gomugomu no Rocket por 30 minutos no total."
+        ]
+      }
+    },
+    "ACHIEVEMENT028": {
+      "guia": {
+        "passos": [
+          "Voe por ao menos 5 segundos durante\r\num único Gomugomu no Rocket."
+        ]
+      }
+    },
+    "ACHIEVEMENT029": {
+      "guia": {
+        "passos": [
+          "Quebre 100 objetos."
+        ]
+      }
+    },
+    "ACHIEVEMENT030": {
+      "guia": {
+        "passos": [
+          "Derrote 100 piratas."
+        ]
+      }
+    },
+    "ACHIEVEMENT031": {
+      "guia": {
+        "passos": [
+          "Derrote 200 marinheiros."
+        ]
+      }
+    },
+    "ACHIEVEMENT032": {
+      "guia": {
+        "passos": [
+          "Derrote 1.000 inimigos."
+        ]
+      }
+    },
+    "ACHIEVEMENT033": {
+      "guia": {
+        "passos": [
+          "Derrote 6 inimigos ao mesmo tempo."
+        ]
+      }
+    },
+    "ACHIEVEMENT034": {
+      "guia": {
+        "passos": [
+          "Adquira um total de 100 materiais."
+        ]
+      }
+    },
+    "ACHIEVEMENT035": {
+      "guia": {
+        "passos": [
+          "Crie 20 trajes e itens de equipamento."
+        ]
+      }
+    },
+    "ACHIEVEMENT036": {
+      "guia": {
+        "passos": [
+          "Adquira 25 projetos de trajes e itens de equipamento."
+        ]
+      }
+    },
+    "ACHIEVEMENT037": {
+      "guia": {
+        "passos": [
+          "Adquira 20 receitas de marmita pirata."
+        ]
+      }
+    },
+    "ACHIEVEMENT038": {
+      "guia": {
+        "passos": [
+          "Envie o Bando do Chapéu de Palha para explorar 3 vezes."
+        ]
+      }
+    },
+    "ACHIEVEMENT039": {
+      "guia": {
+        "passos": [
+          "Envie o Bando do Chapéu de Palha para explorar 12 vezes."
+        ]
+      }
+    },
+    "ACHIEVEMENT040": {
+      "guia": {
+        "passos": [
+          "Abra 15 baús de tesouro."
+        ]
+      }
+    },
+    "ACHIEVEMENT041": {
+      "guia": {
+        "passos": [
+          "Abra 200 baús de tesouro."
+        ]
+      }
+    },
+    "ACHIEVEMENT042": {
+      "guia": {
+        "passos": [
+          "Explore a ilha inteira."
+        ],
+        "dicas": [
+          "Revele todo o mapa da Prison Island."
+        ]
+      }
+    },
+    "ACHIEVEMENT043": {
+      "guia": {
+        "passos": [
+          "Chegue a uma Ilha do Céu pela primeira vez."
+        ]
+      }
+    },
+    "ACHIEVEMENT044": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão Principal \"O Protótipo do Espelho Vazio\"."
+        ],
+        "dicas": [
+          "Conteúdo de DLC."
+        ]
+      }
+    },
+    "ACHIEVEMENT045": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as Habilidades de Zoro."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT046": {
+      "guia": {
+        "passos": [
+          "Execute Implacável 25 vezes."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT047": {
+      "guia": {
+        "passos": [
+          "Use o Modo Sério 10 vezes."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT048": {
+      "guia": {
+        "passos": [
+          "Conclua 3 Missões de Desafio com o Zoro."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT049": {
+      "guia": {
+        "passos": [
+          "Conclua uma Missão de Desafio com o Zoro com a nota máxima."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT050": {
+      "guia": {
+        "passos": [
+          "Conclua todas as Missões Principais em\r\n\"Onde Mora a Justiça\"."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT051": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as Habilidades do Sabo."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT052": {
+      "guia": {
+        "passos": [
+          "Derrube 20 inimigos como Sabo."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT053": {
+      "guia": {
+        "passos": [
+          "Faça 30 Esquivas Perfeitas Mera-Mera."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT054": {
+      "guia": {
+        "passos": [
+          "Termine 4 Missões de Desafio como Sabo."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT055": {
+      "guia": {
+        "passos": [
+          "Consiga a maior nota como Sabo\r\nem 4 Missões de Desafio."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT056": {
+      "guia": {
+        "passos": [
+          "Conclua todas as Missões Principais em\r\n\"O Mapa Incompleto\"."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT057": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as Habilidades do Law."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT058": {
+      "guia": {
+        "passos": [
+          "Derrube 20 inimigos como Law."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT059": {
+      "guia": {
+        "passos": [
+          "Use Shambles 30 vezes num inimigo."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT060": {
+      "guia": {
+        "passos": [
+          "Termine 2 Missões de Desafio como Law."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT061": {
+      "guia": {
+        "passos": [
+          "Consiga a maior Nota como Law em 2 Missões de Desafio."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT062": {
+      "guia": {
+        "passos": [
+          "Conclua a Missão de Desafio \"Boss Rush\"."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    },
+    "ACHIEVEMENT063": {
+      "guia": {
+        "passos": [
+          "Conclua \"Boss Rush\" com a maior Nota."
+        ],
+        "dicas": [
+          "DLC Episode Pass (Zoro, Sabo ou Law)."
+        ]
+      }
+    }
+  }
 }

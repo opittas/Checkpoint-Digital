@@ -430,6 +430,72 @@ def _aplicar_seo(html_doc, titulo, bloco):
     return html_doc.replace("</title>", "</title>\n" + bloco, 1)
 
 
+_PLAT_NOME = {"xbox": "Xbox", "ps": "PlayStation", "nin": "Nintendo Switch", "steam": "PC (Steam)"}
+
+
+def _ld(objs):
+    """Dados estruturados (schema.org) para o Google entender a página."""
+    return "".join('<script type="application/ld+json">' + json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+                   + "</script>\n" for o in objs)
+
+
+def _pre_jogo(j, guia, dados, desc, plats_nomes):
+    """Conteúdo do guia já no HTML (o JavaScript troca pela versão interativa ao carregar)."""
+    dicas = guia.get("conquistas") or {}
+    info = [x for x in (
+        f"Desenvolvedora: {j['developer']}" if j.get("developer") else "",
+        f"Lançamento: {j['year']}" if j.get("year") else "",
+        "Plataformas: " + ", ".join(plats_nomes) if plats_nomes else "",
+        f"Dificuldade da platina: {j['difficulty']}/10" if j.get("difficulty") else "",
+        f"Tempo para platinar: {j['hours']}" if j.get("hours") else "",
+        f"Jogadas necessárias: {j['playthroughs']}" if j.get("playthroughs") else "",
+        "Tem conquistas online" if j.get("online") else "") if x]
+    h = [f'<main class="ck-wrap" style="padding:40px 24px">',
+         f'<nav aria-label="Você está em"><a href="../conquistas.html">Explorar jogos</a> › {_esc(j["title"])}</nav>',
+         f'<h1>{_esc(j["title"])} — Guia de Conquistas e Troféus</h1>',
+         f'<p>{_esc(guia.get("resumo") or desc)}</p>']
+    if info:
+        h.append("<ul>" + "".join(f"<li>{_esc(x)}</li>" for x in info) + "</ul>")
+    if guia.get("roadmap"):
+        h.append("<h2>Roteiro para platinar</h2><ol>" + "".join(
+            f'<li><strong>{_esc(r.get("titulo"))}</strong> {_esc(r.get("texto"))}</li>' for r in guia["roadmap"]) + "</ol>")
+    if guia.get("avisos"):
+        h.append("<h2>Avisos e conquistas perdíveis</h2><ul>" + "".join(
+            f"<li>{_esc(a)}</li>" for a in guia["avisos"]) + "</ul>")
+    lista = dados.get("conquistas", [])[:300]
+    if lista:
+        itens = []
+        for a in lista:
+            partes = [f'<strong>{_esc(a.get("n"))}</strong>']
+            if a.get("h"):
+                partes.append("Conquista secreta.")
+            else:
+                if a.get("d"):
+                    partes.append(_esc(a["d"]))
+                dica = (dicas.get(a.get("k")) or {}).get("dica")
+                if dica:
+                    partes.append(f"Dica: {_esc(dica)}")
+            if isinstance(a.get("p"), (int, float)):
+                partes.append(f"({str(a['p']).replace('.', ',')}% dos jogadores)")
+            itens.append("<li>" + " ".join(partes) + "</li>")
+        h.append(f"<h2>Lista de conquistas ({len(dados.get('conquistas', []))})</h2><ul>" + "".join(itens) + "</ul>")
+    h.append("</main>")
+    return "".join(h)
+
+
+def _lista_estatica(doc, jogos):
+    """Índice A–Z com link para todos os guias: ajuda o Google a achar cada página de jogo."""
+    itens = "".join(f'<li style="break-inside:avoid"><a href="conquistas/{_esc(j["id"])}.html" '
+                    f'style="color:var(--text2);text-decoration:none">{_esc(j["title"])}</a></li>'
+                    for j in sorted(jogos, key=lambda x: _norm_nome(x["title"])))
+    bloco = ('<!--JOGOS--><section class="ck-wrap" style="padding:32px 24px 48px">'
+             '<h2 style="font-size:1.1rem;margin-bottom:12px;color:var(--text)">Todos os guias de conquistas (A–Z)</h2>'
+             '<ul style="columns:210px;column-gap:24px;list-style:none;padding:0;margin:0;line-height:1.9;font-size:.9rem">'
+             f'{itens}</ul></section><!--/JOGOS-->')
+    doc = re.sub(r"\n?<!--JOGOS-->.*?<!--/JOGOS-->", "", doc, flags=re.S)
+    return doc.replace("</main>\n", "</main>\n" + bloco + "\n", 1)
+
+
 def gerar_paginas():
     print("\n🔎 Gerando páginas para Google e redes sociais…")
     hoje = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -450,13 +516,31 @@ def gerar_paginas():
     for pt in plats.values():
         fixas[pt["pagina"]] = (f"{pt['nome']} — Notícias e reviews · Checkpoint Digital",
                                f"Notícias, lançamentos e reviews de {pt['nome']}: " + ", ".join(g["nome"] for g in pt["geracoes"]) + ".")
+    jogos = [j for j in load_json("data/jogos.json", []) if j.get("id") not in ("jogo",)]
+    ld_extra = {
+        "index.html": _ld([{"@context": "https://schema.org", "@type": "WebSite", "name": "Checkpoint Digital",
+                            "url": SITE_URL, "inLanguage": "pt-BR"},
+                           {"@context": "https://schema.org", "@type": "Organization", "name": "Checkpoint Digital",
+                            "url": SITE_URL, "logo": _abs(None)}]),
+        "conquistas.html": _ld([{"@context": "https://schema.org", "@type": "CollectionPage",
+                                 "name": "Guias de Conquistas e Troféus", "url": SITE_URL + "conquistas.html",
+                                 "inLanguage": "pt-BR",
+                                 "mainEntity": {"@type": "ItemList", "numberOfItems": len(jogos),
+                                                "itemListElement": [
+                                                    {"@type": "ListItem", "position": i + 1, "name": j["title"],
+                                                     "url": f"{SITE_URL}conquistas/{j['id']}.html"}
+                                                    for i, j in enumerate(sorted(jogos, key=lambda x: _norm_nome(x["title"])))]}}]),
+    }
     for arq, (tit, desc) in fixas.items():
         if not os.path.exists(p(arq)):
             continue
         privado = arq == "conta.html"
         doc = open(p(arq), encoding="utf-8").read()
         doc = _aplicar_seo(doc, tit, _bloco_seo(tit, desc, SITE_URL + ("" if arq == "index.html" else arq),
-                                                 _abs(None), robots="noindex,follow" if privado else "index,follow"))
+                                                 _abs(None), extra=ld_extra.get(arq, ""),
+                                                 robots="noindex,follow" if privado else "index,follow"))
+        if arq == "conquistas.html":
+            doc = _lista_estatica(doc, jogos)
         open(p(arq), "w", encoding="utf-8").write(doc)
         if not privado:
             urls.append((SITE_URL + ("" if arq == "index.html" else arq), hoje))
@@ -507,12 +591,14 @@ def gerar_paginas():
             os.remove(p(f"noticias/{velho}"))
 
     # Jogos (guias de conquistas)
+    # O modelo jogo.html também fica público (conquistas/jogo.html?id=…), então não deve ser indexado.
     modelo = open(p("conquistas/jogo.html"), encoding="utf-8").read()
+    modelo = _aplicar_seo(modelo, "Conquistas — Checkpoint Digital",
+                          "<!--SEO-->\n<meta name=\"robots\" content=\"noindex,follow\">\n<!--/SEO-->")
+    open(p("conquistas/jogo.html"), "w", encoding="utf-8").write(modelo)
     index = load_json("data/conquistas/index.json", {})
-    for j in load_json("data/jogos.json", []):
+    for j in jogos:
         gid = j["id"]
-        if gid in ("jogo",):
-            continue
         guia = load_json(f"data/guias/{gid}.json") or {}
         dados = load_json(f"data/conquistas/{gid}.json") or {}
         base = (index.get(gid) or {}).get("base") or len(dados.get("conquistas", []))
@@ -526,12 +612,29 @@ def gerar_paginas():
             desc = (f"Todas as {base} conquistas de {j['title']}"
                     + (f" (+{sum(len(v) for v in dlcs.values())} de DLC)" if dlcs else "")
                     + " com % de jogadores, roteiro de platina, perdíveis e checklist de progresso.")
+            extra_desc = " ".join(x for x in (
+                f"Platina em {j['hours']}." if j.get("hours") else "",
+                f"Dificuldade {j['difficulty']}/10." if j.get("difficulty") else "") if x)
+            if extra_desc and len(desc) + len(extra_desc) < 200:
+                desc += " " + extra_desc
         titulo = f"{j['title']} — Guia de Conquistas e Troféus · Checkpoint Digital"
         url = f"{SITE_URL}conquistas/{gid}.html"
-        doc = _aplicar_seo(modelo, titulo, _bloco_seo(titulo, desc, url, _abs(j.get("image"))))
-        nomes = "".join(f"<li>{_esc(a.get('n'))}</li>" for a in dados.get("conquistas", [])[:200])
-        pre = (f'<main class="ck-wrap" style="padding:40px 24px"><h1>{_esc(j["title"])} — Conquistas</h1>'
-               f'<p>{_esc(guia.get("resumo") or desc)}</p><ul>{nomes}</ul></main>')
+        img = _abs(j.get("image"))
+        plats_nomes = [_PLAT_NOME.get(x, x) for x in j.get("platforms", [])]
+        jogo_ld = {"@context": "https://schema.org", "@type": "VideoGame", "name": j["title"], "url": url,
+                   "image": img, "description": guia.get("resumo") or desc, "inLanguage": "pt-BR",
+                   "gamePlatform": plats_nomes, "genre": j.get("generos") or [],
+                   "playMode": "MultiPlayer" if j.get("online") else "SinglePlayer"}
+        if j.get("developer"):
+            jogo_ld["author"] = [{"@type": "Organization", "name": n.strip()} for n in j["developer"].split("·") if n.strip()]
+        if j.get("year"):
+            jogo_ld["datePublished"] = str(j["year"])
+        migalhas = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Checkpoint Digital", "item": SITE_URL},
+            {"@type": "ListItem", "position": 2, "name": "Explorar jogos", "item": SITE_URL + "conquistas.html"},
+            {"@type": "ListItem", "position": 3, "name": j["title"], "item": url}]}
+        doc = _aplicar_seo(modelo, titulo, _bloco_seo(titulo, desc, url, img, extra=_ld([jogo_ld, migalhas])))
+        pre = _pre_jogo(j, guia, dados, desc, plats_nomes)
         doc = re.sub(r'<div id="app">.*?</div>\s*</div>\s*</div>', lambda _m: f'<div id="app">{pre}</div>', doc, count=1, flags=re.S)
         doc = doc.replace('<footer id="site-footer"></footer>',
                           f'<footer id="site-footer"></footer>\n<script>window.JOGO_ID = {json.dumps(gid)};</script>', 1)
@@ -541,7 +644,8 @@ def gerar_paginas():
     # Endereço antigo do Elden Ring continua funcionando
     open(p("conquistas/elden-ring.html"), "w", encoding="utf-8").write(
         '<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><title>Redirecionando…</title>'
-        '<meta http-equiv="refresh" content="0; url=eldenring.html"><link rel="canonical" href="eldenring.html">'
+        '<meta http-equiv="refresh" content="0; url=eldenring.html">'
+        f'<link rel="canonical" href="{SITE_URL}conquistas/eldenring.html">'
         "<script>location.replace('eldenring.html'+location.search);</script></head>"
         '<body><a href="eldenring.html">Abrir guia de conquistas</a></body></html>')
 

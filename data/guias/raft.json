@@ -28,13 +28,753 @@
   ],
   "conquistas": {
     "ach_playwithfriend": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Jogue com um amigo no multijogador."
+        ]
+      }
     },
     "ach_survivor_year": {
-      "dica": "Conta dias de jogo, não horas reais; durma na cama para avançar."
+      "dica": "Conta dias de jogo, não horas reais; durma na cama para avançar.",
+      "guia": {
+        "passos": [
+          "Sobreviva 365 dias."
+        ],
+        "dicas": [
+          "Dias de jogo; deixe o mundo rodando em modo pacífico se quiser."
+        ]
+      }
     },
     "ach_snowmobileIsNotABoat": {
-      "dica": "Em Temperance, pegue a moto de neve e acelere direto para o mar."
+      "dica": "Em Temperance, pegue a moto de neve e acelere direto para o mar.",
+      "guia": {
+        "passos": [
+          "Entre no mar com uma moto de neve."
+        ],
+        "dicas": [
+          "Em Temperance, dirija o snowmobile para dentro da água."
+        ]
+      }
+    },
+    "ach_build_foundation_10": {
+      "guia": {
+        "passos": [
+          "Construa 10 fundações."
+        ]
+      }
+    },
+    "ach_build_cookingstandOne": {
+      "guia": {
+        "passos": [
+          "Crie e coloque uma grelha simples."
+        ]
+      }
+    },
+    "ach_build_purifierOne": {
+      "guia": {
+        "passos": [
+          "Crie e coloque um purificador simples."
+        ]
+      }
+    },
+    "ach_sailor": {
+      "guia": {
+        "passos": [
+          "Coloque uma vela e uma âncora fixa na mesma jangada."
+        ]
+      }
+    },
+    "ach_hoarder": {
+      "guia": {
+        "passos": [
+          "Tenha 20 baús na mesma jangada."
+        ]
+      }
+    },
+    "ach_farmer": {
+      "guia": {
+        "passos": [
+          "Tenha 20 canteiros na mesma jangada."
+        ]
+      }
+    },
+    "ach_researcher": {
+      "guia": {
+        "passos": [
+          "Pesquise tudo na mesa de pesquisa."
+        ]
+      }
+    },
+    "ach_build_foundation_100": {
+      "guia": {
+        "passos": [
+          "Construa 100 fundações."
+        ]
+      }
+    },
+    "ach_build_foundation_1000": {
+      "guia": {
+        "passos": [
+          "Construa 1000 fundações."
+        ]
+      }
+    },
+    "ach_sharkKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 tubarão."
+        ]
+      }
+    },
+    "ach_sharkKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 tubarões."
+        ]
+      }
+    },
+    "ach_sharkKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 tubarões."
+        ]
+      }
+    },
+    "ach_gatherer_100": {
+      "guia": {
+        "passos": [
+          "Pesque 100 itens com o gancho."
+        ]
+      }
+    },
+    "ach_gatherer_500": {
+      "guia": {
+        "passos": [
+          "Pesque 500 itens com o gancho."
+        ]
+      }
+    },
+    "ach_gatherer_5000": {
+      "guia": {
+        "passos": [
+          "Pesque 5000 itens com o gancho."
+        ]
+      }
+    },
+    "ach_birdKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 pássaro."
+        ]
+      }
+    },
+    "ach_birdKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 pássaros."
+        ]
+      }
+    },
+    "ach_birdKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 pássaros."
+        ]
+      }
+    },
+    "ach_build_painter_50": {
+      "guia": {
+        "passos": [
+          "Pinte 50 blocos."
+        ]
+      }
+    },
+    "ach_build_painter_200": {
+      "guia": {
+        "passos": [
+          "Pinte 200 blocos."
+        ]
+      }
+    },
+    "ach_build_painter_1000": {
+      "guia": {
+        "passos": [
+          "Pinte 1000 blocos."
+        ]
+      }
+    },
+    "ach_build_reorganizer": {
+      "guia": {
+        "passos": [
+          "Quebre ou recolha 100 blocos."
+        ]
+      }
+    },
+    "ach_cemetary": {
+      "guia": {
+        "passos": [
+          "Morra 25 vezes."
+        ]
+      }
+    },
+    "ach_radiotower": {
+      "guia": {
+        "passos": [
+          "Encontre o quadro branco na estação de rádio."
+        ]
+      }
+    },
+    "ach_diveDeep": {
+      "guia": {
+        "passos": [
+          "Chegue a 100 metros abaixo da superfície."
+        ]
+      }
+    },
+    "ach_survivor_day": {
+      "guia": {
+        "passos": [
+          "Sobreviva 1 dia."
+        ]
+      }
+    },
+    "ach_survivor_week": {
+      "guia": {
+        "passos": [
+          "Sobreviva 7 dias."
+        ]
+      }
+    },
+    "ach_survivor_month": {
+      "guia": {
+        "passos": [
+          "Sobreviva 30 dias."
+        ]
+      }
+    },
+    "ach_pufferKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 baiacu venenoso."
+        ]
+      }
+    },
+    "ach_pufferKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 baiacus venenosos."
+        ]
+      }
+    },
+    "ach_pufferKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 baiacus venenosos."
+        ]
+      }
+    },
+    "ach_stoneBirdKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 Screecher."
+        ]
+      }
+    },
+    "ach_stoneBirdKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 screechers."
+        ]
+      }
+    },
+    "ach_stoneBirdKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 screechers."
+        ]
+      }
+    },
+    "ach_reach_pilotIsland": {
+      "guia": {
+        "passos": [
+          "Descubra um avião caído."
+        ]
+      }
+    },
+    "ach_reach_bigIsland": {
+      "guia": {
+        "passos": [
+          "Descubra uma ilha grande."
+        ]
+      }
+    },
+    "ach_cookedRecipe": {
+      "guia": {
+        "passos": [
+          "Cozinhe um prato seguindo uma receita."
+        ]
+      }
+    },
+    "ach_captureAnimal_1": {
+      "guia": {
+        "passos": [
+          "Capture 1 animal."
+        ]
+      }
+    },
+    "ach_captureAnimal_10": {
+      "guia": {
+        "passos": [
+          "Capture 10 animais."
+        ]
+      }
+    },
+    "ach_captureAnimal_50": {
+      "guia": {
+        "passos": [
+          "Capture 50 animais."
+        ]
+      }
+    },
+    "ach_captureRareAnimal": {
+      "guia": {
+        "passos": [
+          "Capture um animal raro."
+        ]
+      }
+    },
+    "ach_boarKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 javali."
+        ]
+      }
+    },
+    "ach_boarKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 javalis."
+        ]
+      }
+    },
+    "ach_boarKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 javalis."
+        ]
+      }
+    },
+    "ach_reach_captainIsland": {
+      "guia": {
+        "passos": [
+          "Chegue à Ilha do Capitão."
+        ]
+      }
+    },
+    "ach_mamaBearKill": {
+      "guia": {
+        "passos": [
+          "Derrote a Mamãe Ursa."
+        ]
+      }
+    },
+    "ach_balboaBicycle": {
+      "guia": {
+        "passos": [
+          "Ursos sabem usar campainha de bicicleta?"
+        ]
+      }
+    },
+    "ach_fixErrol": {
+      "guia": {
+        "passos": [
+          "Pronto, Errol."
+        ]
+      }
+    },
+    "ach_brunosToolboard": {
+      "guia": {
+        "passos": [
+          "Por que tem uma foto atrás do quadro de ferramentas??"
+        ]
+      }
+    },
+    "ach_tinyLittleMurderer": {
+      "guia": {
+        "passos": [
+          "Agora está tudo tão óbvio..."
+        ],
+        "dicas": [
+          "Segredo em Balboa; preste atenção às notas e objetos."
+        ]
+      }
+    },
+    "ach_allNotes_RadioTower": {
+      "guia": {
+        "passos": [
+          "Encontre todas as notas da Torre de Rádio!"
+        ]
+      }
+    },
+    "ach_allNotes_Vasagatan": {
+      "guia": {
+        "passos": [
+          "Encontre todas as notas do Vasagatan!"
+        ]
+      }
+    },
+    "ach_allNotes_Balboa": {
+      "guia": {
+        "passos": [
+          "Encontre todas as notas de Balboa!"
+        ]
+      }
+    },
+    "ach_vasagatan_Bomb": {
+      "guia": {
+        "passos": [
+          "Arrombe a cabine do Vasagatan!"
+        ]
+      }
+    },
+    "ach_ratKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 Lurker."
+        ]
+      }
+    },
+    "ach_ratKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 lurkers."
+        ]
+      }
+    },
+    "ach_ratKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 lurkers."
+        ]
+      }
+    },
+    "ach_bearKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 urso."
+        ]
+      }
+    },
+    "ach_bearKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 ursos."
+        ]
+      }
+    },
+    "ach_bearKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 ursos."
+        ]
+      }
+    },
+    "ach_allRBPaintings": {
+      "guia": {
+        "passos": [
+          "Encontre e pendure todos os quadros dos desenvolvedores."
+        ],
+        "dicas": [
+          "Pinturas dos desenvolvedores ficam espalhadas pelas ilhas da história."
+        ]
+      }
+    },
+    "ach_allNotes_Caravan": {
+      "guia": {
+        "passos": [
+          "Encontre todas as notas da Cidade Caravana!"
+        ]
+      }
+    },
+    "ach_allNotes_Tangaroa": {
+      "guia": {
+        "passos": [
+          "Encontre todas as notas de Tangaroa!"
+        ]
+      }
+    },
+    "ach_zip_OneGo": {
+      "guia": {
+        "passos": [
+          "Percorra 50 metros numa tirolesa sem se soltar."
+        ]
+      }
+    },
+    "ach_zip_100m": {
+      "guia": {
+        "passos": [
+          "Percorra 100 metros com a tirolesa."
+        ]
+      }
+    },
+    "ach_zip_500m": {
+      "guia": {
+        "passos": [
+          "Percorra 500 metros com a tirolesa."
+        ]
+      }
+    },
+    "ach_zip_1500m": {
+      "guia": {
+        "passos": [
+          "Percorra 1500 metros com a tirolesa."
+        ]
+      }
+    },
+    "ach_excevator_1": {
+      "guia": {
+        "passos": [
+          "Desenterre um tesouro."
+        ]
+      }
+    },
+    "ach_excevator_20": {
+      "guia": {
+        "passos": [
+          "Desenterre 20 tesouros."
+        ]
+      }
+    },
+    "ach_excevator_50": {
+      "guia": {
+        "passos": [
+          "Desenterre 50 tesouros."
+        ]
+      }
+    },
+    "ach_tiki_completed": {
+      "guia": {
+        "passos": [
+          "Quatro peças de madeira restauradas."
+        ]
+      }
+    },
+    "ach_pipes_30": {
+      "guia": {
+        "passos": [
+          "Tenha 30 canos colocados ao mesmo tempo."
+        ]
+      }
+    },
+    "ach_beekeeper_10": {
+      "guia": {
+        "passos": [
+          "Tenha 10 colmeias colocadas ao mesmo tempo."
+        ]
+      }
+    },
+    "ach_beeCaptures_1": {
+      "guia": {
+        "passos": [
+          "Capture 1 abelha."
+        ]
+      }
+    },
+    "ach_beeCaptures_10": {
+      "guia": {
+        "passos": [
+          "Capture 10 abelhas."
+        ]
+      }
+    },
+    "ach_beeCaptures_25": {
+      "guia": {
+        "passos": [
+          "Capture 25 abelhas."
+        ]
+      }
+    },
+    "ach_secret_tangaroa_claw": {
+      "guia": {
+        "passos": [
+          "Encontre o segredo atrás das caixas."
+        ]
+      }
+    },
+    "ach_instrument_notes_1": {
+      "guia": {
+        "passos": [
+          "Toque uma nota num instrumento."
+        ]
+      }
+    },
+    "ach_token_tangaroa_10": {
+      "guia": {
+        "passos": [
+          "Gaste 10 fichas."
+        ]
+      }
+    },
+    "ach_token_tangaroa_20": {
+      "guia": {
+        "passos": [
+          "Gaste 20 fichas."
+        ]
+      }
+    },
+    "ach_token_tangaroa_30": {
+      "guia": {
+        "passos": [
+          "Gaste 30 fichas."
+        ]
+      }
+    },
+    "ach_botKiller_1": {
+      "guia": {
+        "passos": [
+          "Desative 1 Robô-Mordomo."
+        ]
+      }
+    },
+    "ach_botKiller_10": {
+      "guia": {
+        "passos": [
+          "Desative 10 Robôs-Mordomo."
+        ]
+      }
+    },
+    "ach_botKiller_20": {
+      "guia": {
+        "passos": [
+          "Desative 20 Robôs-Mordomo."
+        ]
+      }
+    },
+    "ach_tangaroa_cockpitLaunch": {
+      "guia": {
+        "passos": [
+          "Um sistema de emergência reserva?"
+        ]
+      }
+    },
+    "ach_fireworks_50": {
+      "guia": {
+        "passos": [
+          "Veja 50 explosões de fogos de artifício."
+        ]
+      }
+    },
+    "ach_hidden_tangaroa_room": {
+      "guia": {
+        "passos": [
+          "Vinte andares para baixo."
+        ],
+        "dicas": [
+          "Em Tangaroa, procure uma sala escondida em um dos andares."
+        ]
+      }
+    },
+    "ach_allMysteryLootUnlocked": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as receitas dos pacotes."
+        ]
+      }
+    },
+    "ach_varunaBossKill": {
+      "guia": {
+        "passos": [
+          "Derrote o chefe de Varuna Point."
+        ]
+      }
+    },
+    "ach_anglerFishKiller_1": {
+      "guia": {
+        "passos": [
+          "Mate 1 peixe-pescador."
+        ]
+      }
+    },
+    "ach_anglerFishKiller_10": {
+      "guia": {
+        "passos": [
+          "Mate 10 peixes-pescadores."
+        ]
+      }
+    },
+    "ach_anglerFishKiller_50": {
+      "guia": {
+        "passos": [
+          "Mate 50 peixes-pescadores."
+        ]
+      }
+    },
+    "ach_finalCutscene": {
+      "guia": {
+        "passos": [
+          "Termine a história."
+        ],
+        "dicas": [
+          "Siga as frequências de rádio por todas as ilhas da história até Temperance, Utopia e o final."
+        ]
+      }
+    },
+    "ach_allCharactersUnlocked": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os personagens jogáveis."
+        ]
+      }
+    },
+    "ach_firstPurchaseAtTrader": {
+      "guia": {
+        "passos": [
+          "Compre um item num posto de troca."
+        ]
+      }
+    },
+    "ach_tier2Trader": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 no posto de troca."
+        ]
+      }
+    },
+    "ach_tier3Trader": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 3 no posto de troca."
+        ]
+      }
+    },
+    "ach_allFoodBuffs": {
+      "guia": {
+        "passos": [
+          "Tenha todos os bônus de comidas e bebidas ativos ao mesmo tempo."
+        ]
+      }
+    },
+    "ach_grabbersNest": {
+      "guia": {
+        "passos": [
+          "Encontre todos os esconderijos de Grabber em Varuna Point."
+        ]
+      }
+    },
+    "ach_allNotes_Varuna": {
+      "guia": {
+        "passos": [
+          "Encontre todas as notas de Varuna Point."
+        ]
+      }
+    },
+    "ach_allNotes_Temperance": {
+      "guia": {
+        "passos": [
+          "Encontre todas as notas de Temperance."
+        ]
+      }
     }
   }
 }

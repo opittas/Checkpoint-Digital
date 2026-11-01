@@ -21,5 +21,850 @@
   "avisos": [
     "Algumas conquistas são das mais difíceis da Steam."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "stage_1": {
+      "guia": {
+        "passos": [
+          "Colete 50 tumores."
+        ]
+      }
+    },
+    "stage_2": {
+      "guia": {
+        "passos": [
+          "Colete 100 tumores."
+        ]
+      }
+    },
+    "stage_3": {
+      "guia": {
+        "passos": [
+          "Colete 170 tumores."
+        ]
+      }
+    },
+    "stage_4": {
+      "guia": {
+        "passos": [
+          "Colete 300 tumores."
+        ]
+      }
+    },
+    "stage_5": {
+      "guia": {
+        "passos": [
+          "Colete 450 tumores."
+        ]
+      }
+    },
+    "beat_main_1": {
+      "guia": {
+        "passos": [
+          "Complete O Fim."
+        ]
+      }
+    },
+    "beat_main_2": {
+      "guia": {
+        "passos": [
+          "Complete As Planícies Áridas."
+        ]
+      }
+    },
+    "beat_main_3": {
+      "guia": {
+        "passos": [
+          "Complete Transbordo."
+        ]
+      }
+    },
+    "beat_main_4a": {
+      "guia": {
+        "passos": [
+          "Complete O Muro da Tristeza."
+        ]
+      }
+    },
+    "beat_main_4b": {
+      "guia": {
+        "passos": [
+          "Complete Retrógrado."
+        ]
+      }
+    },
+    "beat_main_4c": {
+      "guia": {
+        "passos": [
+          "Complete As Cavidades."
+        ]
+      }
+    },
+    "beat_main_5a": {
+      "guia": {
+        "passos": [
+          "Complete SS Êxodo."
+        ]
+      }
+    },
+    "beat_main_5b": {
+      "guia": {
+        "passos": [
+          "Complete A Máquina."
+        ]
+      }
+    },
+    "beat_main_5c": {
+      "guia": {
+        "passos": [
+          "Complete Gólgota."
+        ]
+      }
+    },
+    "got_dark_world": {
+      "guia": {
+        "passos": [
+          "Complete O Passado."
+        ]
+      }
+    },
+    "beat_main_1d": {
+      "guia": {
+        "passos": [
+          "Complete Angústia."
+        ]
+      }
+    },
+    "beat_main_2d": {
+      "guia": {
+        "passos": [
+          "Complete Melancolia."
+        ]
+      }
+    },
+    "beat_main_3d": {
+      "guia": {
+        "passos": [
+          "Complete Praga."
+        ]
+      }
+    },
+    "beat_main_6": {
+      "guia": {
+        "passos": [
+          "Complete Ruína."
+        ]
+      }
+    },
+    "beat_main_7": {
+      "guia": {
+        "passos": [
+          ". . ."
+        ],
+        "dicas": [
+          "Conquista secreta do final verdadeiro."
+        ]
+      }
+    },
+    "game_all_items": {
+      "guia": {
+        "passos": [
+          "Colete todos os colecionáveis."
+        ],
+        "dicas": [
+          "Coletáveis incluem tumores, cartuchos e itens escondidos; use o mapa."
+        ]
+      }
+    },
+    "carts_all_beat": {
+      "guia": {
+        "passos": [
+          "Complete todos os cartuchos."
+        ]
+      }
+    },
+    "carts_all_achieve": {
+      "guia": {
+        "passos": [
+          "Faça 100% em todos os cartuchos."
+        ]
+      }
+    },
+    "carts_all_ironman": {
+      "guia": {
+        "passos": [
+          "Complete todos os cartuchos sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "true_god": {
+      "guia": {
+        "passos": [
+          "Faça tudo!"
+        ],
+        "atencao": [
+          "Fazer tudo: todas as conquistas restantes juntas."
+        ]
+      }
+    },
+    "beat_main_escape": {
+      "guia": {
+        "passos": [
+          "Complete Aceitação."
+        ]
+      }
+    },
+    "main_game_lowdeath": {
+      "guia": {
+        "passos": [
+          "Complete o jogo principal com menos de 200 mortes."
+        ]
+      }
+    },
+    "main_game_speedrun": {
+      "guia": {
+        "passos": [
+          "Complete o jogo em uma hora e meia ou menos."
+        ],
+        "dicas": [
+          "Rota direta, sem coletáveis."
+        ]
+      }
+    },
+    "cart_c1_beat": {
+      "guia": {
+        "passos": [
+          "Complete Morta Man."
+        ]
+      }
+    },
+    "cart_c1_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Morta Man sem usar continue."
+        ]
+      }
+    },
+    "cart_c1_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Morta Man com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c1_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Morta Man com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c1_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Morta Man sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c2_beat": {
+      "guia": {
+        "passos": [
+          "Complete Blaster Massacre."
+        ]
+      }
+    },
+    "cart_c2_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Blaster Massacre sem usar continue."
+        ]
+      }
+    },
+    "cart_c2_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Blaster Massacre com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c2_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Blaster Massacre com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c2_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Blaster Massacre sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c3_beat": {
+      "guia": {
+        "passos": [
+          "Complete River City Rancid."
+        ]
+      }
+    },
+    "cart_c3_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete River City Rancid sem usar continue."
+        ]
+      }
+    },
+    "cart_c3_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete River City Rancid com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c3_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete River City Rancid com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c3_ironman": {
+      "guia": {
+        "passos": [
+          "Complete River City Rancid sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c4a_beat": {
+      "guia": {
+        "passos": [
+          "Complete Ash Climber."
+        ]
+      }
+    },
+    "cart_c4a_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Ash Climber sem usar continue."
+        ]
+      }
+    },
+    "cart_c4a_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Ash Climber com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c4a_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Ash Climber com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c4a_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Ash Climber sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c4b_beat": {
+      "guia": {
+        "passos": [
+          "Complete Rubble Bobble."
+        ]
+      }
+    },
+    "cart_c4b_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Rubble Bobble sem usar continue."
+        ]
+      }
+    },
+    "cart_c4b_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Rubble Bobble com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c4b_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Rubble Bobble com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c4b_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Rubble Bobble sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c4c_beat": {
+      "guia": {
+        "passos": [
+          "Complete Catastrovania."
+        ]
+      }
+    },
+    "cart_c4c_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Catastrovania sem usar continue."
+        ]
+      }
+    },
+    "cart_c4c_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Catastrovania com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c4c_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Catastrovania com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c4c_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Catastrovania sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c5a_beat": {
+      "guia": {
+        "passos": [
+          "Complete Fallen Fantasy."
+        ]
+      }
+    },
+    "cart_c5a_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Fallen Fantasy sem usar continue."
+        ]
+      }
+    },
+    "cart_c5a_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Fallen Fantasy com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c5a_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Fallen Fantasy com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c5a_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Fallen Fantasy sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c5b_beat": {
+      "guia": {
+        "passos": [
+          "Complete Morbid Gear."
+        ]
+      }
+    },
+    "cart_c5b_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Morbid Gear sem usar continue."
+        ]
+      }
+    },
+    "cart_c5b_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Morbid Gear com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c5b_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Morbid Gear com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c5b_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Morbid Gear sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c5c_beat": {
+      "guia": {
+        "passos": [
+          "Complete Dig Dead."
+        ]
+      }
+    },
+    "cart_c5c_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete Dig Dead sem usar continue."
+        ]
+      }
+    },
+    "cart_c5c_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete Dig Dead com 50+ anéis."
+        ]
+      }
+    },
+    "cart_c5c_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete Dig Dead com 100 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c5c_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Dig Dead sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_c6_beat": {
+      "guia": {
+        "passos": [
+          "Complete The Super Mega Cart."
+        ]
+      }
+    },
+    "cart_c6_nocontinue": {
+      "guia": {
+        "passos": [
+          "Complete The Super Mega Cart sem usar continue."
+        ]
+      }
+    },
+    "cart_c6_halfcoins": {
+      "guia": {
+        "passos": [
+          "Complete The Super Mega Cart com 500+ anéis."
+        ]
+      }
+    },
+    "cart_c6_allcoins": {
+      "guia": {
+        "passos": [
+          "Complete The Super Mega Cart com 1000 anéis."
+        ],
+        "dicas": [
+          "Pegue todas as moedas do cartucho; jogue com calma."
+        ]
+      }
+    },
+    "cart_c6_ironman": {
+      "guia": {
+        "passos": [
+          "Complete The Super Mega Cart sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_i1_beat": {
+      "guia": {
+        "passos": [
+          "Complete Negação."
+        ]
+      }
+    },
+    "cart_i2_beat": {
+      "guia": {
+        "passos": [
+          "Complete Raiva."
+        ]
+      }
+    },
+    "cart_i3_beat": {
+      "guia": {
+        "passos": [
+          "Complete Barganha."
+        ]
+      }
+    },
+    "cart_i4_beat": {
+      "guia": {
+        "passos": [
+          "Complete Depressão."
+        ]
+      }
+    },
+    "cart_i5_beat": {
+      "guia": {
+        "passos": [
+          "Complete A Torre da Ascensão."
+        ]
+      }
+    },
+    "cart_g0_beat": {
+      "guia": {
+        "passos": [
+          "Complete Ghosts n Grieving."
+        ]
+      }
+    },
+    "cart_g0_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Ghosts n Grieving sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_g1_beat": {
+      "guia": {
+        "passos": [
+          "Complete Spike Tales."
+        ]
+      }
+    },
+    "cart_g1_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Spike Tales sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_g2_beat": {
+      "guia": {
+        "passos": [
+          "Complete Scab or Die."
+        ]
+      }
+    },
+    "cart_g2_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Scab or Die sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_g3_beat": {
+      "guia": {
+        "passos": [
+          "Complete Tombs and Torture."
+        ]
+      }
+    },
+    "cart_g3_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Tombs and Torture sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_g4_beat": {
+      "guia": {
+        "passos": [
+          "Complete Pus Man."
+        ]
+      }
+    },
+    "cart_g4_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Pus Man sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_g5_beat": {
+      "guia": {
+        "passos": [
+          "Complete Dead Racer."
+        ]
+      }
+    },
+    "cart_g5_ironman": {
+      "guia": {
+        "passos": [
+          "Complete Dead Racer sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "cart_g9_beat": {
+      "guia": {
+        "passos": [
+          "Complete The End is Nigh!"
+        ]
+      }
+    },
+    "cart_g9_ironman": {
+      "guia": {
+        "passos": [
+          "Complete The End is Nigh! sem morrer."
+        ],
+        "atencao": [
+          "Sem continues e sem morrer no cartucho: das mais difíceis."
+        ]
+      }
+    },
+    "good_ending": {
+      "guia": {
+        "passos": [
+          "Complete a live do Ash."
+        ]
+      }
+    },
+    "unlock_supercart": {
+      "guia": {
+        "passos": [
+          "Colete os 9 cartuchos retrô do passado."
+        ]
+      }
+    },
+    "unlock_towercart": {
+      "guia": {
+        "passos": [
+          "Colete os 4 cartuchos retrô de ???"
+        ]
+      }
+    },
+    "hundred_percent": {
+      "guia": {
+        "passos": [
+          "Termine o jogo completo e todos os cartuchos."
+        ]
+      }
+    },
+    "iron_cart1": {
+      "guia": {
+        "passos": [
+          "Colete o Cartucho de Ferro I do desconhecido."
+        ],
+        "dicas": [
+          "Cartuchos de ferro ficam em áreas secretas difíceis."
+        ]
+      }
+    },
+    "iron_cart2": {
+      "guia": {
+        "passos": [
+          "Colete o Cartucho de Ferro II do desconhecido."
+        ]
+      }
+    },
+    "iron_cart3": {
+      "guia": {
+        "passos": [
+          "Colete o Cartucho de Ferro III do desconhecido."
+        ]
+      }
+    },
+    "iron_cart4": {
+      "guia": {
+        "passos": [
+          "Colete o Cartucho de Ferro IV do desconhecido."
+        ]
+      }
+    },
+    "main_game_ironman": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sem morrer (como o eenox)."
+        ],
+        "atencao": [
+          "Zerar sem morrer: só para quem já domina o jogo."
+        ]
+      }
+    }
+  }
 }

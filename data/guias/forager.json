@@ -28,16 +28,753 @@
   ],
   "conquistas": {
     "feat98": {
-      "dica": "Deixe o jogo aberto com dezenas de bancos melhorados; leva horas, mas sem esforço."
+      "dica": "Deixe o jogo aberto com dezenas de bancos melhorados; leva horas, mas sem esforço.",
+      "guia": {
+        "passos": [
+          "Tenha 1.000.000.000.000 de moedas."
+        ],
+        "dicas": [
+          "Trilhão de moedas: monte uma economia com bancos e estruturas nucleares e deixe rodando."
+        ]
+      }
     },
     "feat102": {
-      "dica": "Precisa de muita terra livre. Compre todas as ilhas antes."
+      "dica": "Precisa de muita terra livre. Compre todas as ilhas antes.",
+      "guia": {
+        "passos": [
+          "Tenha 100 estruturas nucleares ao mesmo tempo."
+        ]
+      }
     },
     "feat88": {
-      "dica": "Fica numa das ilhas de enigma: acenda todas as tochas do labirinto sem deixar nenhuma apagar."
+      "dica": "Fica numa das ilhas de enigma: acenda todas as tochas do labirinto sem deixar nenhuma apagar.",
+      "guia": {
+        "passos": [
+          "Acenda todas as tochas do Labirinto da Caveira."
+        ]
+      }
     },
     "feat95": {
-      "dica": "Só conta o dinheiro gerado pelos bancos, não o total ganho."
+      "dica": "Só conta o dinheiro gerado pelos bancos, não o total ganho.",
+      "guia": {
+        "passos": [
+          "Ganhe 1 milhão de moedas usando bancos."
+        ]
+      }
+    },
+    "feat0": {
+      "guia": {
+        "passos": [
+          "Adquira 10 terras e 5.000 moedas."
+        ]
+      }
+    },
+    "feat1": {
+      "guia": {
+        "passos": [
+          "Minere o cristal gigante."
+        ]
+      }
+    },
+    "feat2": {
+      "guia": {
+        "passos": [
+          "Colete aço real ou roupas reais."
+        ]
+      }
+    },
+    "feat3": {
+      "guia": {
+        "passos": [
+          "Tenha uma gema de cada no inventário."
+        ]
+      }
+    },
+    "feat4": {
+      "guia": {
+        "passos": [
+          "Tenha vida máxima de 10."
+        ]
+      }
+    },
+    "feat5": {
+      "guia": {
+        "passos": [
+          "Conclua a Tumba Ancestral."
+        ]
+      }
+    },
+    "feat6": {
+      "guia": {
+        "passos": [
+          "Conclua o Labirinto de Crânio."
+        ]
+      }
+    },
+    "feat7": {
+      "guia": {
+        "passos": [
+          "Conclua a Caverna de Cristal."
+        ]
+      }
+    },
+    "feat8": {
+      "guia": {
+        "passos": [
+          "Conclua o Templo do Fogo."
+        ]
+      }
+    },
+    "feat9": {
+      "guia": {
+        "passos": [
+          "Resolva o Enigma da Galáxia Ancestral."
+        ]
+      }
+    },
+    "feat10": {
+      "guia": {
+        "passos": [
+          "Resolva o Enigma da Galáxia de Crânio."
+        ]
+      }
+    },
+    "feat11": {
+      "guia": {
+        "passos": [
+          "Resolva o Enigma da Galáxia Congelada."
+        ]
+      }
+    },
+    "feat12": {
+      "guia": {
+        "passos": [
+          "Resolva o Enigma da Galáxia do Fogo."
+        ]
+      }
+    },
+    "feat13": {
+      "guia": {
+        "passos": [
+          "Conclua uma masmorra sem sofrer dano."
+        ],
+        "dicas": [
+          "Escolha uma masmorra que você já conhece bem e jogue com cuidado."
+        ]
+      }
+    },
+    "feat14": {
+      "guia": {
+        "passos": [
+          "Conduza um ritual de sangue desafiador."
+        ]
+      }
+    },
+    "feat15": {
+      "guia": {
+        "passos": [
+          "Fracasse terrivelmente em um minijogo de perguntas."
+        ],
+        "dicas": [
+          "Erre de propósito o quiz de perguntas de um NPC."
+        ]
+      }
+    },
+    "feat16": {
+      "guia": {
+        "passos": [
+          "Mate com uma única flecha um inimigo."
+        ]
+      }
+    },
+    "feat17": {
+      "guia": {
+        "passos": [
+          "Mate com apenas um golpe de espada 3 inimigos ou mais."
+        ]
+      }
+    },
+    "feat18": {
+      "guia": {
+        "passos": [
+          "Ganhe o prêmio num caça-níquel."
+        ]
+      }
+    },
+    "feat19": {
+      "guia": {
+        "passos": [
+          "Mate um cervo mágico."
+        ]
+      }
+    },
+    "feat20": {
+      "guia": {
+        "passos": [
+          "Mate todas as beterrabas gigantes."
+        ]
+      }
+    },
+    "feat21": {
+      "guia": {
+        "passos": [
+          "Vença o desafio do mago do gelo."
+        ]
+      }
+    },
+    "feat22": {
+      "guia": {
+        "passos": [
+          "Use um arco-íris engarrafado."
+        ]
+      }
+    },
+    "feat23": {
+      "guia": {
+        "passos": [
+          "Ative um droide."
+        ]
+      }
+    },
+    "feat24": {
+      "guia": {
+        "passos": [
+          "Tenha 3 bombas ativas ao mesmo tempo."
+        ]
+      }
+    },
+    "feat25": {
+      "guia": {
+        "passos": [
+          "Escave um item arqueológico."
+        ]
+      }
+    },
+    "feat26": {
+      "guia": {
+        "passos": [
+          "Coma uma gema."
+        ]
+      }
+    },
+    "feat27": {
+      "guia": {
+        "passos": [
+          "Morra 10 vezes."
+        ]
+      }
+    },
+    "feat28": {
+      "guia": {
+        "passos": [
+          "Jogue por 3 horas."
+        ]
+      }
+    },
+    "feat29": {
+      "guia": {
+        "passos": [
+          "Construa 20 estruturas."
+        ]
+      }
+    },
+    "feat30": {
+      "guia": {
+        "passos": [
+          "Adquira 5 terras."
+        ]
+      }
+    },
+    "feat31": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos."
+        ]
+      }
+    },
+    "feat32": {
+      "guia": {
+        "passos": [
+          "Tenha 100 geleias no inventário."
+        ]
+      }
+    },
+    "feat33": {
+      "guia": {
+        "passos": [
+          "Tenha 100 fezes no inventário."
+        ]
+      }
+    },
+    "feat34": {
+      "guia": {
+        "passos": [
+          "Pegue 50 peixes."
+        ]
+      }
+    },
+    "feat35": {
+      "guia": {
+        "passos": [
+          "Tenha 1.000 items no inventário."
+        ]
+      }
+    },
+    "feat36": {
+      "guia": {
+        "passos": [
+          "Tenha 5.000 items no inventário."
+        ]
+      }
+    },
+    "feat37": {
+      "guia": {
+        "passos": [
+          "Regue 100 sementes."
+        ]
+      }
+    },
+    "feat38": {
+      "guia": {
+        "passos": [
+          "Plante 100 sementes."
+        ]
+      }
+    },
+    "feat39": {
+      "guia": {
+        "passos": [
+          "Tenha 100.000 moedas."
+        ]
+      }
+    },
+    "feat40": {
+      "guia": {
+        "passos": [
+          "Tenha 1.000.000 moedas."
+        ]
+      }
+    },
+    "feat41": {
+      "guia": {
+        "passos": [
+          "Crie 500 items na fornalha."
+        ]
+      }
+    },
+    "feat42": {
+      "guia": {
+        "passos": [
+          "Crie 2.000 moedas."
+        ]
+      }
+    },
+    "feat43": {
+      "guia": {
+        "passos": [
+          "Abra 20 baús de tesouro grandes."
+        ]
+      }
+    },
+    "feat44": {
+      "guia": {
+        "passos": [
+          "Escave 50 items."
+        ]
+      }
+    },
+    "feat45": {
+      "guia": {
+        "passos": [
+          "Crie 10.000 items."
+        ]
+      }
+    },
+    "feat46": {
+      "guia": {
+        "passos": [
+          "Construa 200 estruturas."
+        ]
+      }
+    },
+    "feat47": {
+      "guia": {
+        "passos": [
+          "Abra um baú de crânio."
+        ]
+      }
+    },
+    "feat48": {
+      "guia": {
+        "passos": [
+          "Construa sobre cada bloco de água."
+        ],
+        "dicas": [
+          "Construa pontes/estruturas em todos os tiles de água do mapa."
+        ]
+      }
+    },
+    "feat49": {
+      "guia": {
+        "passos": [
+          "Encontre 3 salas secretas."
+        ]
+      }
+    },
+    "feat50": {
+      "guia": {
+        "passos": [
+          "Encontre todas as salas secretas."
+        ],
+        "dicas": [
+          "Salas secretas ficam em paredes rachadas nas masmorras e ilhas; use bombas."
+        ]
+      }
+    },
+    "feat51": {
+      "guia": {
+        "passos": [
+          "Dispare 100 flechas."
+        ]
+      }
+    },
+    "feat52": {
+      "guia": {
+        "passos": [
+          "Esquive 10 ataques."
+        ]
+      }
+    },
+    "feat53": {
+      "guia": {
+        "passos": [
+          "Esquive um ataque letal."
+        ]
+      }
+    },
+    "feat54": {
+      "guia": {
+        "passos": [
+          "Destrua 100 lápides."
+        ]
+      }
+    },
+    "feat55": {
+      "guia": {
+        "passos": [
+          "Engarrafe 100 criaturas."
+        ]
+      }
+    },
+    "feat56": {
+      "guia": {
+        "passos": [
+          "Converse com todos os npcs."
+        ]
+      }
+    },
+    "feat57": {
+      "guia": {
+        "passos": [
+          "Conclua todas as missões de npc."
+        ]
+      }
+    },
+    "feat58": {
+      "guia": {
+        "passos": [
+          "Ajude o druida."
+        ]
+      }
+    },
+    "feat59": {
+      "guia": {
+        "passos": [
+          "Ajude a princesa."
+        ]
+      }
+    },
+    "feat60": {
+      "guia": {
+        "passos": [
+          "Ajude o mago."
+        ]
+      }
+    },
+    "feat61": {
+      "guia": {
+        "passos": [
+          "Ajude o goblin."
+        ]
+      }
+    },
+    "feat62": {
+      "guia": {
+        "passos": [
+          "Ajude a rainha das fadas."
+        ]
+      }
+    },
+    "feat63": {
+      "guia": {
+        "passos": [
+          "Ajude o engenheiro."
+        ]
+      }
+    },
+    "feat64": {
+      "guia": {
+        "passos": [
+          "Ajude o fantasma."
+        ]
+      }
+    },
+    "feat65": {
+      "guia": {
+        "passos": [
+          "Ajude o velhinho."
+        ]
+      }
+    },
+    "feat66": {
+      "guia": {
+        "passos": [
+          "Ajude a raposa."
+        ]
+      }
+    },
+    "feat67": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de coleta do museu."
+        ]
+      }
+    },
+    "feat68": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de mineração do museu."
+        ]
+      }
+    },
+    "feat69": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de construção do museu."
+        ]
+      }
+    },
+    "feat70": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de agropecuária do museu."
+        ]
+      }
+    },
+    "feat71": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de culinária do museu."
+        ]
+      }
+    },
+    "feat72": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de alquimia do museu."
+        ]
+      }
+    },
+    "feat73": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de armadilha do museu."
+        ]
+      }
+    },
+    "feat74": {
+      "guia": {
+        "passos": [
+          "Complete o conjunto de arqueologia do museu."
+        ]
+      }
+    },
+    "feat75": {
+      "guia": {
+        "passos": [
+          "Complete todos os conjuntos do museu."
+        ],
+        "dicas": [
+          "Doe itens de cada coleção no Museu; consulte a lista no prédio."
+        ]
+      }
+    },
+    "feat76": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as técnicas."
+        ]
+      }
+    },
+    "feat77": {
+      "guia": {
+        "passos": [
+          "Compre todas as terras."
+        ]
+      }
+    },
+    "feat78": {
+      "guia": {
+        "passos": [
+          "Abra todos os baús de tesouro grandes."
+        ]
+      }
+    },
+    "feat79": {
+      "guia": {
+        "passos": [
+          "Colete todas as ferramentas e armas."
+        ]
+      }
+    },
+    "feat80": {
+      "guia": {
+        "passos": [
+          "Colete todos os acessórios."
+        ]
+      }
+    },
+    "feat81": {
+      "guia": {
+        "passos": [
+          "Colete todos os selos."
+        ]
+      }
+    },
+    "feat82": {
+      "guia": {
+        "passos": [
+          "Colete todos os artefatos."
+        ]
+      }
+    },
+    "feat83": {
+      "guia": {
+        "passos": [
+          "Realize todas as outras façanhas."
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todos os outros feats."
+        ]
+      }
+    },
+    "feat84": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 5 do Vazio."
+        ]
+      }
+    },
+    "feat85": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 10 do Vazio."
+        ]
+      }
+    },
+    "feat86": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 20 do Vazio."
+        ]
+      }
+    },
+    "feat87": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 30 do Vazio."
+        ]
+      }
+    },
+    "feat89": {
+      "guia": {
+        "passos": [
+          "Obtenha um equipamento do Vazio."
+        ]
+      }
+    },
+    "feat90": {
+      "guia": {
+        "passos": [
+          "Obtenha um equipamento Cósmico."
+        ]
+      }
+    },
+    "feat91": {
+      "guia": {
+        "passos": [
+          "Obtenha um sigilo."
+        ]
+      }
+    },
+    "feat92": {
+      "guia": {
+        "passos": [
+          "Derrote o Rei Slime."
+        ]
+      }
+    },
+    "feat93": {
+      "guia": {
+        "passos": [
+          "Derrote o Rei Esqueleto."
+        ]
+      }
+    },
+    "feat94": {
+      "guia": {
+        "passos": [
+          "Derrote a Beterraba Sombria."
+        ]
+      }
+    },
+    "feat96": {
+      "guia": {
+        "passos": [
+          "Melhore todas as hastes."
+        ]
+      }
+    },
+    "feat97": {
+      "guia": {
+        "passos": [
+          "Tenha 1.000.000.000 de moedas."
+        ],
+        "dicas": [
+          "Bancos e fábricas automatizadas geram moedas sem parar."
+        ]
+      }
+    },
+    "feat99": {
+      "guia": {
+        "passos": [
+          "Derrote o Guardião Tóxico."
+        ]
+      }
+    },
+    "feat100": {
+      "guia": {
+        "passos": [
+          "Obtenha um item de nível Nuclear."
+        ]
+      }
+    },
+    "feat101": {
+      "guia": {
+        "passos": [
+          "Melhore uma estrutura para usar energia nuclear."
+        ]
+      }
     }
   }
 }

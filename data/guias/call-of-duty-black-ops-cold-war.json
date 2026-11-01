@@ -17,5 +17,344 @@
   "avisos": [
     "Os easter eggs de Zombies são longos: siga um guia em vídeo."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "CP_ACHIEVEMENT_COMBAT_RECRUIT": {
+      "guia": {
+        "passos": [
+          "Conclua a Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_COMBAT_HARDENED": {
+      "guia": {
+        "passos": [
+          "Conclua a Campanha na dificuldade Veterano ou Realista."
+        ],
+        "dicas": [
+          "A dificuldade conta por missão: faça todas no Veterano ou Realismo (dá para repetir só as que fez em outra dificuldade)."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_TAKEDOWN": {
+      "guia": {
+        "passos": [
+          "Conclua 'Sem Escapatória' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_NAM_ARMADA": {
+      "guia": {
+        "passos": [
+          "Conclua 'Fracture Jaw' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_GER_STAKEOUT": {
+      "guia": {
+        "passos": [
+          "Conclua 'Na Sombra do Muro' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_RUS_AMERIKA": {
+      "guia": {
+        "passos": [
+          "Conclua 'Luz Vermelha, Luz Verde' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_RUS_YAMANTAU": {
+      "guia": {
+        "passos": [
+          "Conclua 'Ecos da Guerra Fria' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_RUS_KGB": {
+      "guia": {
+        "passos": [
+          "Conclua 'Medidas Desesperadas' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_NIC_REVOLUCION": {
+      "guia": {
+        "passos": [
+          "Conclua 'Fim da Linha' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_NAM_PRISONER": {
+      "guia": {
+        "passos": [
+          "Conclua 'Do Outro Lado' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_RUS_SIEGE": {
+      "guia": {
+        "passos": [
+          "Conclua 'A Contagem Regressiva' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_RUS_DUGA": {
+      "guia": {
+        "passos": [
+          "Conclua 'Ao Pó Retornarás' na Campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_SIDEMISSION_TAKEDOWN": {
+      "guia": {
+        "passos": [
+          "Conclua 'Operação Chaos' na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Missão secundária: junte as provas espalhadas pelas missões e resolva o quebra-cabeça no quadro de evidências."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_CP_SIDEMISSION_TUNDRA": {
+      "guia": {
+        "passos": [
+          "Conclua 'Operação Red Circus' na Campanha em qualquer dificuldade."
+        ],
+        "dicas": [
+          "Missão secundária: exige as provas e decifrar os códigos no quadro de evidências."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_FIRING_RANGE": {
+      "guia": {
+        "passos": [
+          "Derrube 15 alvos de metal na rua principal em 'Luz Vermelha, Luz Verde'."
+        ],
+        "dicas": [
+          "Os alvos de metal ficam pela rua principal; atire neles ao passar."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_BODY_SHIELD": {
+      "guia": {
+        "passos": [
+          "Utilize um escudo humano cinco vezes."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_PATRIOT_ARROW": {
+      "guia": {
+        "passos": [
+          "Mate um inimigo com o arco enquanto estiver usando a tirolesa em 'Ecos da Guerra Fria'."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_MIND_TRIP": {
+      "guia": {
+        "passos": [
+          "Veja todos os sete epílogos e jogue todos os quatro finais em 'Do Outro Lado'."
+        ],
+        "dicas": [
+          "Na missão, escolha caminhos diferentes nas portas e salve antes de cada escolha."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_EXPLOSIVE_FINIISH": {
+      "guia": {
+        "passos": [
+          "Mate 12 inimigos com barris explosivos enquanto o mainframe é erguido em 'Ecos da Guerra Fria'."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_EVERYONE": {
+      "guia": {
+        "passos": [
+          "Mate 25 inimigos com o AC-130 enquanto defende o telhado em Fim da Linha."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_RED_DOOR": {
+      "guia": {
+        "passos": [
+          "Desobedeça às ordens de Adler para passar pela porta em Do Outro Lado."
+        ],
+        "dicas": [
+          "Quando o Adler mandar entrar numa porta, entre na porta vermelha."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_JACK_ALL_TRADES": {
+      "guia": {
+        "passos": [
+          "Obtenha cinco baixas com uma ML, SMT, FA e Escopeta."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_OLD_FAITHFUL": {
+      "guia": {
+        "passos": [
+          "Mate 200 inimigos com um FA."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_SCORCHED_EARTH": {
+      "guia": {
+        "passos": [
+          "Destrua todos os veículos e equipes de morteiro do inimigo ao defender Ripcord em 'Fracture Jaw'."
+        ]
+      }
+    },
+    "CP_ACHIEVEMENT_SCORCHED_EARTH2": {
+      "guia": {
+        "passos": [
+          "Exploda todos os caminhões e torres de guarda ao chegar no monastério em 'A Contagem Regressiva'."
+        ]
+      }
+    },
+    "MP_ACHIEVEMENT_ELIMINATIONS": {
+      "guia": {
+        "passos": [
+          "Obtenha 200 eliminações no Multijogador."
+        ]
+      }
+    },
+    "MP_ACHIEVEMENT_SQUAD_WIPES": {
+      "guia": {
+        "passos": [
+          "Obtenha 10 medalhas de extermínio de pelotão em Esquadrão."
+        ],
+        "dicas": [
+          "Modo Fireteam/Dirty Bomb: elimine um esquadrão inteiro."
+        ]
+      }
+    },
+    "MP_ACHIEVEMENT_VEHICLE_KILLS": {
+      "guia": {
+        "passos": [
+          "Obtenha 100 baixas como motorista, piloto ou passageiro de um veículo no Multijogador."
+        ]
+      }
+    },
+    "MP_ACHIEVEMENT_MATCH_WINS": {
+      "guia": {
+        "passos": [
+          "Vença 50 partidas do Multijogador."
+        ]
+      }
+    },
+    "MP_ACHIEVEMENT_SCORESTREAK_KILLS": {
+      "guia": {
+        "passos": [
+          "Obtenha 50 baixas com Séries de Pontuação letais no Multijogador."
+        ]
+      }
+    },
+    "ZM_SILVER_PAP": {
+      "guia": {
+        "passos": [
+          "Em Die Maschine, forje a máquina de Soco em Lata."
+        ]
+      }
+    },
+    "ZM_SILVER_WW": {
+      "guia": {
+        "passos": [
+          "Em Die Maschine, liberte a Máquina de Entrelaçamento Isotópico Descomprimido perdida."
+        ]
+      }
+    },
+    "ZM_SILVER_PA": {
+      "guia": {
+        "passos": [
+          "Em Die Maschine, feche a fenda."
+        ]
+      }
+    },
+    "ZM_SILVER_MEGA": {
+      "guia": {
+        "passos": [
+          "Em Die Maschine, mate os dois Megatons divididos com um tiro só."
+        ]
+      }
+    },
+    "ZM_SILVER_UPGRADE": {
+      "guia": {
+        "passos": [
+          "Em Zumbis, aprimore uma habilidade."
+        ]
+      }
+    },
+    "ZM_SILVER_SIX": {
+      "guia": {
+        "passos": [
+          "Em Zumbis, aprimore 6 Habilidades de Vantagem para o Nível III."
+        ]
+      }
+    },
+    "ZM_SILVER_WING": {
+      "guia": {
+        "passos": [
+          "Em Die Maschine, mate 100 inimigos sem sair de cima da asa do avião acidentado."
+        ],
+        "dicas": [
+          "Suba na asa do avião caído no Die Maschine e segure as hordas."
+        ]
+      }
+    },
+    "ZM_SILVER_START": {
+      "guia": {
+        "passos": [
+          "Em Die Maschine, fique no Quintal por 15 rodadas."
+        ],
+        "dicas": [
+          "Não abra portas além do pátio inicial até a rodada 15."
+        ]
+      }
+    },
+    "ZM_SILVER_CRAFT": {
+      "guia": {
+        "passos": [
+          "Em Die Maschine, crie 14 tipos diferentes de itens em uma única partida."
+        ]
+      }
+    },
+    "DOA_ACHIEVEMENT_5_PIECE": {
+      "guia": {
+        "passos": [
+          "Amarre 5 galinhas umas às outras em Dead Ops Arcade."
+        ],
+        "dicas": [
+          "Dead Ops Arcade fica no computador do Die Maschine (ou nos modos de Zumbis)."
+        ]
+      }
+    },
+    "DOA_ACHIEVEMENT_ESCAPEWILD": {
+      "guia": {
+        "passos": [
+          "Escape da floresta obscura."
+        ]
+      }
+    },
+    "DOA_ACHIEVEMENT_FIDOLINA": {
+      "guia": {
+        "passos": [
+          "Derrote a Mãe Gorila e salve sua querida amiga."
+        ]
+      }
+    },
+    "DOA_ACHIEVEMENT_FATED": {
+      "guia": {
+        "passos": [
+          "Descubra sua sina na Sala do Destino."
+        ]
+      }
+    },
+    "DOA_ACHIEVEMENT_DUNGEONDIVER": {
+      "guia": {
+        "passos": [
+          "Vasculhe todas as áreas de uma Masmorra Mortal."
+        ]
+      }
+    }
+  }
 }

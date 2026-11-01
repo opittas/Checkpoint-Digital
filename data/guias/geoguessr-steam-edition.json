@@ -15,5 +15,333 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "duelWinsTotal1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo ranqueado."
+        ]
+      }
+    },
+    "duelWinsTotal2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos ranqueados."
+        ]
+      }
+    },
+    "duelWinsTotal3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos ranqueados."
+        ]
+      }
+    },
+    "duelWinsTotal4": {
+      "guia": {
+        "passos": [
+          "Vença 250 Duelos ranqueados."
+        ]
+      }
+    },
+    "duelWinsTotal5": {
+      "guia": {
+        "passos": [
+          "Vença 500 Duelos ranqueados."
+        ]
+      }
+    },
+    "duelWinsTotal6": {
+      "guia": {
+        "passos": [
+          "Vença 1000 Duelos ranqueados."
+        ]
+      }
+    },
+    "duelWinsMoving1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo em Movimento ranqueado."
+        ]
+      }
+    },
+    "duelWinsMoving2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos em Movimento ranqueados."
+        ]
+      }
+    },
+    "duelWinsMoving3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos em Movimento ranqueados."
+        ]
+      }
+    },
+    "duelWinsMoving4": {
+      "guia": {
+        "passos": [
+          "Vença 250 Duelos em Movimento ranqueados."
+        ]
+      }
+    },
+    "duelWinsMoving5": {
+      "guia": {
+        "passos": [
+          "Vença 500 Duelos em Movimento ranqueados."
+        ]
+      }
+    },
+    "duelWinsNoMove1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo Parado ranqueado."
+        ]
+      }
+    },
+    "duelWinsNoMove2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos Parados ranqueados."
+        ]
+      }
+    },
+    "duelWinsNoMove3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos Parados ranqueados."
+        ]
+      }
+    },
+    "duelWinsNoMove4": {
+      "guia": {
+        "passos": [
+          "Vença 250 Duelos Parados ranqueados."
+        ]
+      }
+    },
+    "duelWinsNoMove5": {
+      "guia": {
+        "passos": [
+          "Vença 500 Duelos Parados ranqueados."
+        ]
+      }
+    },
+    "duelWinsNmpz1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo NMPZ ranqueado."
+        ]
+      }
+    },
+    "duelWinsNmpz2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos NMPZ ranqueados."
+        ]
+      }
+    },
+    "duelWinsNmpz3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos NMPZ ranqueados."
+        ]
+      }
+    },
+    "duelWinsNmpz4": {
+      "guia": {
+        "passos": [
+          "Vença 250 Duelos NMPZ ranqueados."
+        ]
+      }
+    },
+    "duelWinsNmpz5": {
+      "guia": {
+        "passos": [
+          "Vença 500 Duelos NMPZ ranqueados."
+        ]
+      }
+    },
+    "duelWinsFlawless1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo ranqueado sem perder vida."
+        ],
+        "dicas": [
+          "Vença sem perder vida nenhuma rodada."
+        ]
+      }
+    },
+    "duelWinsFlawless2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos ranqueados sem perder vida."
+        ]
+      }
+    },
+    "duelWinsFlawless3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos ranqueados sem perder vida."
+        ]
+      }
+    },
+    "perfectRounds1": {
+      "guia": {
+        "passos": [
+          "Acerte um palpite perfeito."
+        ],
+        "dicas": [
+          "Acerte o lugar exato (5000 pontos); placas e nomes de rua ajudam."
+        ]
+      }
+    },
+    "perfectRounds2": {
+      "guia": {
+        "passos": [
+          "Acerte 10 palpites perfeitos."
+        ]
+      }
+    },
+    "perfectRounds3": {
+      "guia": {
+        "passos": [
+          "Acerte 100 palpites perfeitos."
+        ]
+      }
+    },
+    "quickplayWinsFlawless1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo Solo da Partida Rápida sem perder vida."
+        ]
+      }
+    },
+    "quickplayWinsFlawless2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos Solo da Partida Rápida sem perder vida."
+        ]
+      }
+    },
+    "quickplayWinsFlawless3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos Solo da Partida Rápida sem perder vida."
+        ]
+      }
+    },
+    "quickplayDuelsWins1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo da Partida Rápida."
+        ]
+      }
+    },
+    "quickplayDuelsWins2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos da Partida Rápida."
+        ]
+      }
+    },
+    "quickplayDuelsWins3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos da Partida Rápida."
+        ]
+      }
+    },
+    "quickplayDuelsWins4": {
+      "guia": {
+        "passos": [
+          "Vença 250 Duelos da Partida Rápida."
+        ]
+      }
+    },
+    "quickplayDuelsWins5": {
+      "guia": {
+        "passos": [
+          "Vença 500 Duelos da Partida Rápida."
+        ]
+      }
+    },
+    "teamDuelsWins1": {
+      "guia": {
+        "passos": [
+          "Vença 1 Duelo de Equipe casual."
+        ]
+      }
+    },
+    "teamDuelsWins2": {
+      "guia": {
+        "passos": [
+          "Vença 10 Duelos de Equipe casual."
+        ]
+      }
+    },
+    "teamDuelsWins3": {
+      "guia": {
+        "passos": [
+          "Vença 100 Duelos de Equipe casual."
+        ]
+      }
+    },
+    "teamDuelsWins4": {
+      "guia": {
+        "passos": [
+          "Vença 250 Duelos de Equipe casual."
+        ]
+      }
+    },
+    "teamDuelsWins5": {
+      "guia": {
+        "passos": [
+          "Vença 500 Duelos de Equipe casual."
+        ]
+      }
+    },
+    "dcStreak1": {
+      "guia": {
+        "passos": [
+          "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 7 dias seguidos."
+        ]
+      }
+    },
+    "dcStreak2": {
+      "guia": {
+        "passos": [
+          "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 30 dias seguidos."
+        ]
+      }
+    },
+    "dcStreak3": {
+      "guia": {
+        "passos": [
+          "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 100 dias seguidos."
+        ]
+      }
+    },
+    "dcStreak4": {
+      "guia": {
+        "passos": [
+          "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 365 dias seguidos."
+        ],
+        "atencao": [
+          "Exige jogar todo dia por 1 ano; um dia sem jogar zera a sequência."
+        ]
+      }
+    },
+    "dcStreak5": {
+      "guia": {
+        "passos": [
+          "Jogue o Desafio Diário, o Mundo ou vença um Duelo ranqueado por 1000 dias seguidos."
+        ],
+        "atencao": [
+          "Exige quase 3 anos sem falhar um dia."
+        ]
+      }
+    }
+  }
 }

@@ -15,5 +15,330 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVE_01": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "ACHIEVE_02": {
+      "guia": {
+        "passos": [
+          "Faça sua primeira luta fora dos modos Treino e Versus."
+        ]
+      }
+    },
+    "ACHIEVE_04": {
+      "guia": {
+        "passos": [
+          "Lute online."
+        ]
+      }
+    },
+    "ACHIEVE_05": {
+      "guia": {
+        "passos": [
+          "Lute online 10 vezes."
+        ]
+      }
+    },
+    "ACHIEVE_06": {
+      "guia": {
+        "passos": [
+          "Lute online 100 vezes."
+        ]
+      }
+    },
+    "ACHIEVE_09": {
+      "guia": {
+        "passos": [
+          "Jogue uma partida ranqueada."
+        ]
+      }
+    },
+    "ACHIEVE_11": {
+      "guia": {
+        "passos": [
+          "Ative a Zona de Perigo Especial em The Show."
+        ]
+      }
+    },
+    "ACHIEVE_12": {
+      "guia": {
+        "passos": [
+          "Ative a Zona de Perigo Especial em Hot Zone."
+        ]
+      }
+    },
+    "ACHIEVE_60": {
+      "guia": {
+        "passos": [
+          "Ative a Zona de Perigo Especial em Sky City Tokyo."
+        ]
+      }
+    },
+    "ACHIEVE_13": {
+      "guia": {
+        "passos": [
+          "Deixe \"Desafios\" em \"Aceitar\" e faça um desafio no Versus, Arcade ou Treino Livre."
+        ]
+      }
+    },
+    "ACHIEVE_14": {
+      "guia": {
+        "passos": [
+          "Deixe \"Desafios\" em \"Aceitar\" e faça 10 desafios no Versus, Arcade ou Treino Livre."
+        ]
+      }
+    },
+    "ACHIEVE_19": {
+      "guia": {
+        "passos": [
+          "Conclua 1 percurso no modo Arcade (solo)."
+        ]
+      }
+    },
+    "ACHIEVE_20": {
+      "guia": {
+        "passos": [
+          "Conclua 1 percurso no modo Arcade (dupla)."
+        ]
+      }
+    },
+    "ACHIEVE_21": {
+      "guia": {
+        "passos": [
+          "Conclua 1 percurso no modo Contra o Tempo (solo)."
+        ]
+      }
+    },
+    "ACHIEVE_22": {
+      "guia": {
+        "passos": [
+          "Conclua 1 percurso no modo Contra o Tempo (dupla)."
+        ]
+      }
+    },
+    "ACHIEVE_23": {
+      "guia": {
+        "passos": [
+          "Conclua 1 percurso no modo Sobrevivência (solo)."
+        ]
+      }
+    },
+    "ACHIEVE_24": {
+      "guia": {
+        "passos": [
+          "Conclua 1 percurso no modo Sobrevivência (dupla)."
+        ]
+      }
+    },
+    "ACHIEVE_25": {
+      "guia": {
+        "passos": [
+          "Lute uma partida Versus (solo)."
+        ]
+      }
+    },
+    "ACHIEVE_26": {
+      "guia": {
+        "passos": [
+          "Lute uma partida Versus (dupla)."
+        ]
+      }
+    },
+    "ACHIEVE_31": {
+      "guia": {
+        "passos": [
+          "Jogue o Treino Livre por 1 hora."
+        ]
+      }
+    },
+    "ACHIEVE_32": {
+      "guia": {
+        "passos": [
+          "Complete todos os golpes de um personagem no Treino de Comandos."
+        ]
+      }
+    },
+    "ACHIEVE_52": {
+      "guia": {
+        "passos": [
+          "Jogue o Tutorial."
+        ]
+      }
+    },
+    "ACHIEVE_53": {
+      "guia": {
+        "passos": [
+          "Complete todas as lições do Tutorial."
+        ]
+      }
+    },
+    "ACHIEVE_54": {
+      "guia": {
+        "passos": [
+          "Jogou o Desafio de Combos."
+        ]
+      }
+    },
+    "ACHIEVE_55": {
+      "guia": {
+        "passos": [
+          "Complete todas as lições de um personagem no Desafio de Combos."
+        ]
+      }
+    },
+    "ACHIEVE_33": {
+      "guia": {
+        "passos": [
+          "Jogue o modo Espectador."
+        ]
+      }
+    },
+    "ACHIEVE_34": {
+      "guia": {
+        "passos": [
+          "Veja seus resultados no Histórico de Lutas."
+        ]
+      }
+    },
+    "ACHIEVE_35": {
+      "guia": {
+        "passos": [
+          "Faça um arremesso de dupla específico de um personagem."
+        ]
+      }
+    },
+    "ACHIEVE_36": {
+      "guia": {
+        "passos": [
+          "Tire uma foto no modo Espectador."
+        ]
+      }
+    },
+    "ACHIEVE_37": {
+      "guia": {
+        "passos": [
+          "Abra a Lista de Golpes."
+        ]
+      }
+    },
+    "ACHIEVE_38": {
+      "guia": {
+        "passos": [
+          "Abra os Detalhes do Golpe."
+        ]
+      }
+    },
+    "ACHIEVE_39": {
+      "guia": {
+        "passos": [
+          "Salve um replay."
+        ]
+      }
+    },
+    "ACHIEVE_57": {
+      "guia": {
+        "passos": [
+          "Mude as configurações de música de fundo."
+        ]
+      }
+    },
+    "ACHIEVE_59": {
+      "guia": {
+        "passos": [
+          "Assista a um filme."
+        ]
+      }
+    },
+    "ACHIEVE_40": {
+      "guia": {
+        "passos": [
+          "Desligue as Zonas de Perigo na seleção de cenário."
+        ]
+      }
+    },
+    "ACHIEVE_61": {
+      "guia": {
+        "passos": [
+          "Faça uma Luta em Equipe."
+        ]
+      }
+    },
+    "ACHIEVE_42": {
+      "guia": {
+        "passos": [
+          "Lute uma partida de dupla."
+        ]
+      }
+    },
+    "ACHIEVE_43": {
+      "guia": {
+        "passos": [
+          "Faça 10 arremessos de dupla diferentes de personagens."
+        ],
+        "dicas": [
+          "Cada dupla de personagens tem um arremesso de tag próprio; veja na lista de golpes."
+        ]
+      }
+    },
+    "ACHIEVE_44": {
+      "guia": {
+        "passos": [
+          "Acerte um Power Blow."
+        ]
+      }
+    },
+    "ACHIEVE_62": {
+      "guia": {
+        "passos": [
+          "Acerte um Power Launcher."
+        ]
+      }
+    },
+    "ACHIEVE_63": {
+      "guia": {
+        "passos": [
+          "Aperte H+P+K durante um Power Blow para trocar de parceiro e fazer um Tag Power Blow."
+        ]
+      }
+    },
+    "ACHIEVE_45": {
+      "guia": {
+        "passos": [
+          "Ataque com sucesso durante um Cliffhanger."
+        ]
+      }
+    },
+    "ACHIEVE_46": {
+      "guia": {
+        "passos": [
+          "Bloqueie com sucesso um ataque do oponente durante um Cliffhanger."
+        ]
+      }
+    },
+    "ACHIEVE_47": {
+      "guia": {
+        "passos": [
+          "Vença sem sofrer dano."
+        ],
+        "dicas": [
+          "Use o modo fácil contra a IA no Arcade."
+        ]
+      }
+    },
+    "ACHIEVE_48": {
+      "guia": {
+        "passos": [
+          "Veja as poses de derrota de 8 personagens."
+        ],
+        "dicas": [
+          "Perca de propósito com vários personagens em Versus."
+        ]
+      }
+    }
+  }
 }

@@ -255,8 +255,8 @@
   "atualizado": null
  },
  "metroid4": {
-  "total": 0,
-  "base": 0,
+  "total": 13,
+  "base": 13,
   "dlcs": {},
   "atualizado": null
  },
@@ -1609,6 +1609,12 @@
   "base": 59,
   "dlcs": {},
   "atualizado": "2026-10-30"
+ },
+ "deadlock": {
+  "total": 10,
+  "base": 10,
+  "dlcs": {},
+  "atualizado": null
  },
  "zelda-totk": {
   "total": 16,

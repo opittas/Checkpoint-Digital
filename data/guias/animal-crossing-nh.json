@@ -59,15 +59,111 @@
       }
     },
     "ouro": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Ferramentas de ouro são liberadas por progressos: pá (ajudar Gulliver 30 vezes), machado (quebrar 100 machados), rede (completar insetos), vara (completar peixes), regador (5 estrelas), estilingue (abater 300 balões).",
+          "Faça a receita no banco de trabalho."
+        ],
+        "dicas": [
+          "Fazer peças menores repetidas vezes é o mais rápido para o machado."
+        ]
+      }
     },
     "milhas": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Complete todas as metas da lista de Milhas Nook+ no NookPhone.",
+          "Inclui coisas como pescar, plantar, visitar amigos e sonhar."
+        ],
+        "dicas": [
+          "Algumas exigem jogar online ou durante o ano inteiro."
+        ]
+      }
     },
     "hhp_casas": {
       "guia": {
         "requisitos": [
           "DLC Happy Home Paradise."
+        ]
+      }
+    },
+    "casa": {
+      "guia": {
+        "passos": [
+          "Pague o empréstimo da barraca e depois cada ampliação da casa no Tom Nook.",
+          "São vários empréstimos; o último é o porão."
+        ],
+        "dicas": [
+          "Venda frutas não nativas, peixes raros e tarântulas para juntar sinos."
+        ]
+      }
+    },
+    "insetos": {
+      "guia": {
+        "passos": [
+          "Pegue insetos em todos os meses (cada um tem época e horário).",
+          "Doe ao Blathers no museu."
+        ],
+        "dicas": [
+          "Use a lista do NookPhone ('Critterpedia') para ver o que falta; ilhas de Milhas ajudam com raros."
+        ]
+      }
+    },
+    "marinhos": {
+      "guia": {
+        "passos": [
+          "Use roupa de mergulho para pescar criaturas no mar.",
+          "Procure bolhas e sombras na água."
+        ],
+        "dicas": [
+          "Algumas só aparecem em estações específicas."
+        ]
+      }
+    },
+    "fosseis": {
+      "guia": {
+        "passos": [
+          "Desenterre os fósseis (marcas na terra) todos os dias.",
+          "Leve ao Blathers para identificar e doe."
+        ],
+        "dicas": [
+          "Troque repetidos com amigos."
+        ]
+      }
+    },
+    "cafe": {
+      "guia": {
+        "passos": [
+          "Depois da atualização 2.0, fale com o Blathers com o museu já bem preenchido.",
+          "Encontre o Brewster na ilha e libere o café The Roost.",
+          "Trabalhe um turno servindo café."
+        ],
+        "dicas": [
+          "Cada cliente tem preferência de grão, leite e açúcar: preste atenção no pedido."
+        ]
+      }
+    },
+    "fotos": {
+      "guia": {
+        "passos": [
+          "Fique amigo dos moradores (conversas, presentes, cartas).",
+          "A foto aparece como presente quando a amizade está alta."
+        ],
+        "dicas": [
+          "Dar presentes no aniversário aumenta muito a amizade."
+        ]
+      }
+    },
+    "hhp_instalacoes": {
+      "guia": {
+        "passos": [
+          "No DLC, ajude os moradores do arquipélago.",
+          "O Lottie pede instalações em sequência; complete todas."
+        ],
+        "dicas": [
+          "Cada instalação aumenta os pedidos e os itens do catálogo."
         ]
       }
     }

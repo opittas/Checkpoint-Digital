@@ -35,7 +35,16 @@
       }
     },
     "especial": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abra o Mundo Especial pelas saídas secretas e pelo fim da história.",
+          "Termine todas as fases, incluindo a maratona final de insígnias."
+        ],
+        "dicas": [
+          "É o conteúdo mais difícil do jogo: use insígnias que ajudem, como a do salto flutuante."
+        ]
+      }
     },
     "teste_final": {
       "dificil": true,
@@ -47,12 +56,75 @@
       }
     },
     "estrelas": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "As estrelas do save vêm de terminar a história e completar as metas de 100% (sementes, moedas roxas, bandeiras e Mundo Especial)."
+        ],
+        "dicas": [
+          "Confira no menu do save o que falta."
+        ]
+      }
     },
     "bp_parque": {
       "guia": {
         "requisitos": [
           "Nintendo Switch 2 Edition + Vamos ao Parque Belabel."
+        ]
+      }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "Atravesse os mundos do Reino das Flores.",
+          "Derrote o Bowser no Castelo Flutuante."
+        ],
+        "dicas": [
+          "Use insígnias como a Paraquedas para fases difíceis."
+        ]
+      }
+    },
+    "sementes": {
+      "guia": {
+        "passos": [
+          "Cada fase tem a Semente do fim e, na maioria, outra escondida pela Flor Wonder.",
+          "Algumas fases têm saídas secretas que levam a fases novas."
+        ],
+        "dicas": [
+          "O mapa mostra quantas sementes faltam em cada fase."
+        ]
+      }
+    },
+    "moedas10": {
+      "guia": {
+        "passos": [
+          "Cada fase tem 3 moedas roxas de 10 escondidas.",
+          "Explore canos, blocos invisíveis e o efeito Wonder."
+        ],
+        "dicas": [
+          "Jogar devagar e conferir as bordas da tela resolve a maioria."
+        ]
+      }
+    },
+    "bandeira": {
+      "guia": {
+        "passos": [
+          "Chegue ao topo do mastro de chegada em cada fase.",
+          "Use pulo alto (insígnias de salto ou o elefante)."
+        ],
+        "dicas": [
+          "Pule no último degrau antes do mastro para ganhar altura."
+        ]
+      }
+    },
+    "bp_fases": {
+      "guia": {
+        "passos": [
+          "Na Switch 2 Edition, entre no Parque Belabel.",
+          "Complete as fases e desafios novos do parque."
+        ],
+        "dicas": [
+          "Jogue em grupo para liberar desafios cooperativos."
         ]
       }
     }

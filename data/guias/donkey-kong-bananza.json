@@ -39,7 +39,16 @@
       }
     },
     "desafios": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Entre nas fases de desafio (portais) espalhadas pelas camadas.",
+          "Complete cada uma para ganhar a banana de prêmio."
+        ],
+        "dicas": [
+          "As mais difíceis ficam nas camadas finais."
+        ]
+      }
     },
     "dlc_ilha": {
       "guia": {
@@ -51,6 +60,72 @@
     "dlc_esmeraldas": {
       "guia": {
         "resumo": "Modo de rodadas: junte esmeraldas na camada dentro do tempo, com bônus aleatórios."
+      }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "Desça as camadas seguindo a história com a Pauline.",
+          "Derrote os chefes de cada camada até chegar ao núcleo."
+        ],
+        "dicas": [
+          "As Transformações Bananza resolvem a maioria dos bloqueios."
+        ]
+      }
+    },
+    "fosseis": {
+      "guia": {
+        "passos": [
+          "Quebre o terreno e paredes de cada camada para achar fósseis.",
+          "Volte às camadas depois da história com todas as transformações."
+        ],
+        "dicas": [
+          "O mapa mostra a contagem de fósseis por camada."
+        ]
+      }
+    },
+    "habilidades": {
+      "guia": {
+        "passos": [
+          "Junte Gemas de Banana (Bananas) e troque por pontos de habilidade.",
+          "Distribua os pontos até completar a árvore."
+        ],
+        "dicas": [
+          "As bananas das fases de desafio rendem muitos pontos."
+        ]
+      }
+    },
+    "roupas": {
+      "guia": {
+        "passos": [
+          "Compre roupas nas lojas de cada camada usando fósseis.",
+          "Alguns itens exigem progresso na história."
+        ],
+        "dicas": [
+          "Cada camada vende peças próprias: visite todas as lojas."
+        ]
+      }
+    },
+    "pauline": {
+      "guia": {
+        "passos": [
+          "A Pauline aprende músicas novas com os discos encontrados nas camadas.",
+          "Encontre todos os discos e ouça cada música."
+        ],
+        "dicas": [
+          "Os discos aparecem como itens brilhantes em locais secretos."
+        ]
+      }
+    },
+    "100": {
+      "guia": {
+        "passos": [
+          "Junte todas as bananas, fósseis e itens de cada camada.",
+          "Use o mapa de cada camada para checar o que falta."
+        ],
+        "dicas": [
+          "Termine a árvore de habilidades antes para quebrar tudo mais rápido."
+        ]
       }
     }
   }

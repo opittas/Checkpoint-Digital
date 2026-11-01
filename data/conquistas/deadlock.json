@@ -1,0 +1,124 @@
+{
+ "id": "deadlock",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "primeira",
+   "g": 0,
+   "n": "Primeira Vitória",
+   "d": "Vença uma partida 6v6.",
+   "n_en": "First Win",
+   "d_en": "Win a 6v6 match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tutorial",
+   "g": 0,
+   "n": "Pronto para o Ciclo",
+   "d": "Termine o tutorial e o modo Sandbox.",
+   "n_en": "Ready for the Cycle",
+   "d_en": "Finish the tutorial and the Sandbox.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "herois10",
+   "g": 0,
+   "n": "Elenco Variado",
+   "d": "Vença com 10 heróis diferentes.",
+   "n_en": "Varied Roster",
+   "d_en": "Win with 10 different heroes.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "herois",
+   "g": 0,
+   "n": "Todos os Heróis",
+   "d": "Jogue uma partida com todos os heróis.",
+   "n_en": "Every Hero",
+   "d_en": "Play a match with every hero.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "patrono",
+   "g": 0,
+   "n": "Queda do Patrono",
+   "d": "Destrua o Patrono inimigo.",
+   "n_en": "Patron Down",
+   "d_en": "Destroy the enemy Patron.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "alma",
+   "g": 0,
+   "n": "Banco de Almas",
+   "d": "Termine uma partida com 50.000 almas.",
+   "n_en": "Soul Bank",
+   "d_en": "Finish a match with 50,000 souls.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "urn",
+   "g": 0,
+   "n": "Entrega da Urna",
+   "d": "Entregue a Urna da Alma na base.",
+   "n_en": "Urn Runner",
+   "d_en": "Deliver the Soul Urn.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "abate",
+   "g": 0,
+   "n": "Matança",
+   "d": "Faça 10 abates em uma partida.",
+   "n_en": "Rampage",
+   "d_en": "Get 10 kills in one match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mid_boss",
+   "g": 0,
+   "n": "Rejuvenescer",
+   "d": "Derrote o Chefe do Meio e pegue o Rejuvenescedor.",
+   "n_en": "Rejuvenator",
+   "d_en": "Defeat the Mid-Boss and take the Rejuvenator.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rank",
+   "g": 0,
+   "n": "Arconte",
+   "d": "Chegue ao rank Arconte nas partidas ranqueadas.",
+   "n_en": "Archon",
+   "d_en": "Reach Archon rank in ranked.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

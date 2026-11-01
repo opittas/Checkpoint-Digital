@@ -47,10 +47,113 @@
       }
     },
     "pular_corda": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Vá ao Reino Metropolitano e fale com os pulos de corda perto da Prefeitura.",
+          "Pule no ritmo; a velocidade aumenta gradualmente."
+        ],
+        "dicas": [
+          "Olhe para a sombra da corda e use o pulo simples, não o pulo duplo."
+        ]
+      }
     },
     "volei": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "No Reino do Mar, ache a quadra de vôlei de praia.",
+          "Devolva a bola sem deixá-la cair; ela acelera a cada toque."
+        ],
+        "dicas": [
+          "Fique no meio da quadra e reaja ao som da bola."
+        ]
+      }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance reino por reino reunindo Luas suficientes para abastecer a Odyssey.",
+          "No Reino da Lua, vença o Bowser e escape."
+        ],
+        "dicas": [
+          "Suba o barco com as moedas: não há como perder nada na história."
+        ]
+      }
+    },
+    "reinos": {
+      "guia": {
+        "passos": [
+          "Termine a história e volte à Odyssey para viajar ao Reino dos Cogumelos.",
+          "Os reinos opcionais (Reino Escuro e Lado Escuro da Lua) abrem com 250 e 500 Luas."
+        ]
+      }
+    },
+    "lado_escuro": {
+      "guia": {
+        "passos": [
+          "Junte 250 Luas e viaje ao Lado Escuro da Lua.",
+          "Na Rabbit Ridge, vença as revanches dos chefes em sequência."
+        ],
+        "dicas": [
+          "Leve corações extras; entre as lutas há curas."
+        ]
+      }
+    },
+    "roxas": {
+      "guia": {
+        "passos": [
+          "Cada reino tem 50 ou 100 moedas roxas com formato próprio.",
+          "Explore telhados, canos e áreas secundárias."
+        ],
+        "dicas": [
+          "O Hint Art e o Talkatoo ajudam com Luas; para moedas roxas, varra o reino em círculos."
+        ]
+      }
+    },
+    "roupas": {
+      "guia": {
+        "passos": [
+          "Compre na Crazy Cap de cada reino: roupas regionais com moedas roxas e as comuns com moedas de ouro.",
+          "Algumas só liberam com muitas Luas ou ao terminar o jogo."
+        ],
+        "dicas": [
+          "Moedas de ouro rendem bem nos reinos do pós-jogo."
+        ]
+      }
+    },
+    "koopa": {
+      "guia": {
+        "passos": [
+          "Encontre os Koopas de boné em cada reino depois de terminar o jogo.",
+          "Vença a corrida até a bandeira dentro do tempo."
+        ],
+        "dicas": [
+          "Use o mergulho de Cappy e o rolar para ganhar velocidade."
+        ]
+      }
+    },
+    "luigi": {
+      "guia": {
+        "passos": [
+          "Depois do jogo, o Luigi aparece na Odyssey em cada reino com o Mundo dos Balões.",
+          "Escolha 'Encontrar' e procure um balão escondido em até 30 segundos."
+        ],
+        "dicas": [
+          "Balões perto do início do reino e com muitas visualizações são mais fáceis."
+        ]
+      }
+    },
+    "100": {
+      "guia": {
+        "passos": [
+          "Pegue todas as Luas únicas (999 contando as compráveis) e moedas roxas.",
+          "Compre as Luas extras na Crazy Cap quando faltar pouco."
+        ],
+        "dicas": [
+          "O Hint Art e o Talkatoo indicam luas restantes em cada reino."
+        ]
+      }
     }
   }
 }

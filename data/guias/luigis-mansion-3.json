@@ -38,6 +38,50 @@
           "Pacotes Multijogador (DLC)."
         ]
       }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "Suba os andares do Last Resort resgatando Mario, Peach e os Toads.",
+          "Derrote o Rei Boo no topo."
+        ],
+        "dicas": [
+          "Use o Gooigi para resolver enigmas."
+        ]
+      }
+    },
+    "rank_a": {
+      "guia": {
+        "passos": [
+          "Junte dinheiro em todos os andares (vasos, gavetas e cantos).",
+          "Termine com o valor alto para o Rank A."
+        ],
+        "dicas": [
+          "Pegue as gemas e os Boos para ter mais dinheiro."
+        ]
+      }
+    },
+    "chefes": {
+      "guia": {
+        "passos": [
+          "Cada andar tem um chefe fantasma.",
+          "Derrote todos para ganhar os botões dos elevadores."
+        ],
+        "dicas": [
+          "Guarde energia para o Rei Boo."
+        ]
+      }
+    },
+    "scarescraper": {
+      "guia": {
+        "passos": [
+          "No modo multiplayer, jogue o ScareScraper.",
+          "Complete todos os andares em cooperativo."
+        ],
+        "dicas": [
+          "Jogue com amigos para dividir os objetivos."
+        ]
+      }
     }
   }
 }

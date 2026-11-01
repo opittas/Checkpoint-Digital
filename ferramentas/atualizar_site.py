@@ -475,6 +475,10 @@ def _pre_jogo(j, guia, dados, desc, plats_nomes):
                 dica = (dicas.get(a.get("k")) or {}).get("dica")
                 if dica:
                     partes.append(f"Dica: {_esc(dica)}")
+                g = (dicas.get(a.get("k")) or {}).get("guia") or {}
+                for campo, rot in (("passos", "Como fazer"), ("dicas", "Dicas"), ("atencao", "Atenção")):
+                    if g.get(campo):
+                        partes.append(f"{rot}: " + " ".join(_esc(x) for x in g[campo]))
             if isinstance(a.get("p"), (int, float)):
                 partes.append(f"({str(a['p']).replace('.', ',')}% dos jogadores)")
             itens.append("<li>" + " ".join(partes) + "</li>")

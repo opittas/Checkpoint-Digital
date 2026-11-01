@@ -24,6 +24,94 @@
           "Os Ecos que faltam aparecem como ‘???’ na lista, na ordem dos monstros de cada região."
         ]
       }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "Feche as Fendas de cada região com a Zelda.",
+          "Derrote o chefe final no Vazio."
+        ],
+        "dicas": [
+          "Use ecos de monstros fortes contra chefes."
+        ]
+      }
+    },
+    "coracoes": {
+      "guia": {
+        "passos": [
+          "Procure Pedaços de Coração em fendas, missões e cavernas.",
+          "Junte 4 para cada coração."
+        ],
+        "dicas": [
+          "As missões secundárias rendem vários."
+        ]
+      }
+    },
+    "cristais": {
+      "guia": {
+        "passos": [
+          "Cristais de Poder ficam escondidos pelo mapa, em fendas e masmorras.",
+          "Use-os para melhorar a Forma Espadachim."
+        ],
+        "dicas": [
+          "Os acessórios e itens de detecção ajudam a achar o que falta."
+        ]
+      }
+    },
+    "vitaminas": {
+      "guia": {
+        "passos": [
+          "Junte ingredientes de cada região.",
+          "Faça todas as receitas na loja de vitaminas."
+        ],
+        "dicas": [
+          "Algumas receitas são aprendidas em missões."
+        ]
+      }
+    },
+    "carimbos": {
+      "guia": {
+        "passos": [
+          "Procure os carimbos espalhados por Hyrule.",
+          "Cada carimbo dá uma recompensa no cartão."
+        ],
+        "dicas": [
+          "Os carimbos ficam perto de pontos de interesse."
+        ]
+      }
+    },
+    "secundarias": {
+      "guia": {
+        "passos": [
+          "Fale com todos os NPCs com '!' depois de cada região.",
+          "Complete cada missão."
+        ],
+        "dicas": [
+          "Algumas missões só aparecem depois da história."
+        ]
+      }
+    },
+    "acessorios": {
+      "guia": {
+        "passos": [
+          "Ganhe acessórios em baús, missões e lojas.",
+          "Equipe-os para ver o efeito."
+        ],
+        "dicas": [
+          "As lojas mudam o estoque depois da história."
+        ]
+      }
+    },
+    "100": {
+      "guia": {
+        "passos": [
+          "Complete todos os itens acima.",
+          "Termine o jogo com tudo."
+        ],
+        "dicas": [
+          "Faça a limpeza antes do chefe final."
+        ]
+      }
     }
   }
 }

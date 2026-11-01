@@ -30,13 +30,40 @@
       }
     },
     "rapido": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Comece um save e termine em menos de 4 horas.",
+          "Use a rota principal e pule coletáveis."
+        ],
+        "dicas": [
+          "Siga um guia de speedrun simples para não se perder."
+        ]
+      }
     },
     "dificil": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Termine o jogo uma vez para abrir o Modo Difícil.",
+          "Jogue e termine nele."
+        ],
+        "dicas": [
+          "Inimigos causam o dobro de dano."
+        ]
+      }
     },
     "dread": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Desbloqueado depois do Difícil.",
+          "Termine no Modo Dread: um único golpe acaba."
+        ],
+        "dicas": [
+          "Pratique cada chefe no Modo Difícil primeiro."
+        ]
+      }
     },
     "boss_rush": {
       "dificil": true,
@@ -50,6 +77,39 @@
       "dificil": true,
       "guia": {
         "resumo": "As imagens dependem de dificuldade, tempo e porcentagem de itens em cada final."
+      }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga o mapa e derrote Raven Beak.",
+          "Escape de ZDR antes da contagem."
+        ],
+        "dicas": [
+          "Melhore a Mísseis e a Pulsação antes do chefe final."
+        ]
+      }
+    },
+    "emmi": {
+      "guia": {
+        "passos": [
+          "Ache cada um dos 7 E.M.M.I. nas zonas.",
+          "Pegue o Núcleo Ômega e destrua o E.M.M.I. com o Canhão Ômega."
+        ],
+        "dicas": [
+          "Use o Flash Shift para fugir."
+        ]
+      }
+    },
+    "kraid": {
+      "guia": {
+        "passos": [
+          "O Kraid fica em Cataris.",
+          "Atire na boca e na barriga quando abrirem e use os Mísseis nos pontos marcados."
+        ],
+        "dicas": [
+          "Na segunda fase, suba nas plataformas da parede."
+        ]
       }
     }
   }

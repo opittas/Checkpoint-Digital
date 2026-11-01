@@ -404,11 +404,11 @@
     "labels": {
       "nin": ""
     },
-    "difficulty": null,
-    "hours": null,
-    "playthroughs": null,
+    "difficulty": 5,
+    "hours": "20–30h",
+    "playthroughs": "1–2",
     "online": false,
-    "mode": "sem-conquistas",
+    "mode": "checklist",
     "image": "imagens/jogos/metroid4-capa2.jpg",
     "generos": [
       "Ação",
@@ -4717,11 +4717,11 @@
     "labels": {
       "steam": ""
     },
-    "difficulty": null,
-    "hours": null,
-    "playthroughs": null,
+    "difficulty": 6,
+    "hours": "60h+",
+    "playthroughs": "—",
     "online": true,
-    "mode": "conquistas",
+    "mode": "checklist",
     "image": "imagens/jogos/deadlock.jpg",
     "generos": [
       "Ação",

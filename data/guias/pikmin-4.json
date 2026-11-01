@@ -23,10 +23,105 @@
   ],
   "conquistas": {
     "dandori": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Complete cada Desafio Dandori.",
+          "Faça a pontuação de platina."
+        ],
+        "dicas": [
+          "Planeje rotas antes de começar."
+        ]
+      }
     },
     "folhinha": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Termine as provas do pós-jogo.",
+          "Derrote o chefe secreto."
+        ],
+        "dicas": [
+          "Leve muitos Pikmin do tipo certo e o Oatchi melhorado."
+        ]
+      }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "Explore as áreas, cavernas e resgate o Olimar.",
+          "Derrote o chefe final da história."
+        ],
+        "dicas": [
+          "Melhore a nave e os Pikmin com o material."
+        ]
+      }
+    },
+    "tesouros": {
+      "guia": {
+        "passos": [
+          "Junte todos os tesouros das áreas e cavernas.",
+          "Leve-os para a nave."
+        ],
+        "dicas": [
+          "O Treasure Radar ajuda a achá-los."
+        ]
+      }
+    },
+    "naufragos": {
+      "guia": {
+        "passos": [
+          "Resgate todos os náufragos nas áreas e cavernas.",
+          "Os que viraram Folhinhas precisam ser vencidos em Batalhas Dandori para voltar ao normal."
+        ],
+        "dicas": [
+          "Os náufragos dão missões e melhorias novas."
+        ]
+      }
+    },
+    "cavernas": {
+      "guia": {
+        "passos": [
+          "Complete todas as cavernas.",
+          "Derrote os chefes e junte tesouros."
+        ],
+        "dicas": [
+          "Cavernas noturnas exigem cuidado."
+        ]
+      }
+    },
+    "batalhas": {
+      "guia": {
+        "passos": [
+          "Vença cada Batalha Dandori contra a IA.",
+          "Leve mais tesouros que o adversário."
+        ],
+        "dicas": [
+          "Use o Oatchi para carregar itens rápido e atrapalhar o rival."
+        ]
+      }
+    },
+    "olimar": {
+      "guia": {
+        "passos": [
+          "Termine a história principal.",
+          "Jogue o modo 'Naufrágio do Olimar' até o fim."
+        ],
+        "dicas": [
+          "É mais curto e fácil."
+        ]
+      }
+    },
+    "100": {
+      "guia": {
+        "passos": [
+          "Junte todos os tesouros, náufragos, cavernas e desafios.",
+          "Chegue a 100% no save."
+        ],
+        "dicas": [
+          "Use o mapa de cada área para ver o que falta."
+        ]
+      }
     }
   }
 }

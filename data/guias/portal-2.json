@@ -17,5 +17,423 @@
   "avisos": [
     "Várias conquistas exigem parceiro."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "ACH.SURVIVE_CONTAINER_RIDE": {
+      "guia": {
+        "passos": [
+          "Sobreviva ao controle manual."
+        ]
+      }
+    },
+    "ACH.WAKE_UP": {
+      "guia": {
+        "passos": [
+          "Reencontre GLaDOS."
+        ]
+      }
+    },
+    "ACH.LASER": {
+      "guia": {
+        "passos": [
+          "Complete o primeiro teste do Feixe Luminoso de Desencorajamento Térmico."
+        ]
+      }
+    },
+    "ACH.BRIDGE": {
+      "guia": {
+        "passos": [
+          "Complete o primeiro teste com a Ponte de Luz Sólida."
+        ]
+      }
+    },
+    "ACH.BREAK_OUT": {
+      "guia": {
+        "passos": [
+          "Fuja com Wheatley."
+        ]
+      }
+    },
+    "ACH.STALEMATE_ASSOCIATE": {
+      "guia": {
+        "passos": [
+          "Pressione o botão!"
+        ],
+        "dicas": [
+          "No fim do Capítulo 9, aperte o botão de 'Stalemate Resolution' na sala final."
+        ]
+      }
+    },
+    "ACH.ADDICTED_TO_SPUDS": {
+      "guia": {
+        "passos": [
+          "Faça a ciência progredir."
+        ]
+      }
+    },
+    "ACH.BLUE_GEL": {
+      "guia": {
+        "passos": [
+          "Domine o Gel Repulsor."
+        ]
+      }
+    },
+    "ACH.ORANGE_GEL": {
+      "guia": {
+        "passos": [
+          "Domine o Gel Propulsor."
+        ]
+      }
+    },
+    "ACH.WHITE_GEL": {
+      "guia": {
+        "passos": [
+          "Complete o primeiro teste do Gel Conversor."
+        ]
+      }
+    },
+    "ACH.TRACTOR_BEAM": {
+      "guia": {
+        "passos": [
+          "Domine o Funil de Excursão."
+        ]
+      }
+    },
+    "ACH.TRIVIAL_TEST": {
+      "guia": {
+        "passos": [
+          "Faça o mesmo teste duas vezes."
+        ],
+        "dicas": [
+          "No Capítulo 2, um teste se repete; basta resolvê-lo de novo."
+        ]
+      }
+    },
+    "ACH.WHEATLEY_TRIES_TO": {
+      "guia": {
+        "passos": [
+          "A parte é essa."
+        ]
+      }
+    },
+    "ACH.SHOOT_THE_MOON": {
+      "guia": {
+        "passos": [
+          "Aquilo realmente aconteceu."
+        ],
+        "dicas": [
+          "No confronto final, quando o teto se abre, atire um portal na Lua."
+        ]
+      }
+    },
+    "ACH.BOX_HOLE_IN_ONE": {
+      "guia": {
+        "passos": [
+          "Coloque um cubo, sem tocá-lo, sobre um botão."
+        ],
+        "dicas": [
+          "Na Use portais para fazer o cubo cair direto no botão, sem pegá-lo."
+        ]
+      }
+    },
+    "ACH.SPEED_RUN_LEVEL": {
+      "guia": {
+        "passos": [
+          "Complete a Câmara de Teste 10 em 70 segundos."
+        ],
+        "dicas": [
+          "No Capítulo 2, Câmara 10: a rota mais rápida usa portais em sequência sem parar; tente algumas vezes."
+        ]
+      }
+    },
+    "ACH.COMPLIANT": {
+      "guia": {
+        "passos": [
+          "Mostre ao poço quem é que manda."
+        ]
+      }
+    },
+    "ACH.SAVE_CUBE": {
+      "guia": {
+        "passos": [
+          "Quebre as regras na Câmara de Teste 07."
+        ],
+        "dicas": [
+          "No Capítulo 2, Câmara 07, leve o cubo pelo campo de emancipação usando o funil/placas sem ele ser dissolvido; requer truque com portais."
+        ]
+      }
+    },
+    "ACH.LAUNCH_TURRET": {
+      "guia": {
+        "passos": [
+          "Use uma Placa Aérea de Fé para lançar uma torreta."
+        ],
+        "dicas": [
+          "Coloque uma torreta numa Placa de Fé Aérea."
+        ]
+      }
+    },
+    "ACH.CLEAN_UP": {
+      "guia": {
+        "passos": [
+          "Encontre o sinal escondido em uma das tocas do Rat Man."
+        ],
+        "dicas": [
+          "Há receptores de rádio escondidos nos esconderijos do Rato; ache e leve um até o ponto do sinal."
+        ]
+      }
+    },
+    "ACH.REENTER_TEST_CHAMBERS": {
+      "guia": {
+        "passos": [
+          "Aceite o conselho de fuga da GLaDOS."
+        ]
+      }
+    },
+    "ACH.NOT_THE_DROID": {
+      "guia": {
+        "passos": [
+          "Fique dentro de um detector de torretas defeituosas."
+        ],
+        "dicas": [
+          "No Capítulo 7, pare no detector de torretas defeituosas."
+        ]
+      }
+    },
+    "ACH.SAVE_REDEMPTION_TURRET": {
+      "guia": {
+        "passos": [
+          "Salve uma torreta da redenção."
+        ],
+        "dicas": [
+          "No Capítulo 7, pegue a torreta defeituosa na linha de produção antes da incineração."
+        ]
+      }
+    },
+    "ACH.CATCH_CRAZY_BOX": {
+      "guia": {
+        "passos": [
+          "Agarre uma caixa pintada de azul antes que ela toque o chão."
+        ],
+        "dicas": [
+          "Na Câmara 'Conversion Gel', pegue a caixa azul antes de ela tocar o chão."
+        ]
+      }
+    },
+    "ACH.NO_BOAT": {
+      "guia": {
+        "passos": [
+          "Descubra o experimento desaparecido."
+        ],
+        "dicas": [
+          "Uma sala secreta no Capítulo 6 tem um barco; procure caminhos laterais."
+        ]
+      }
+    },
+    "ACH.A3_DOORS": {
+      "guia": {
+        "passos": [
+          "Examine todas as portas vitrificadas das câmaras de teste."
+        ],
+        "dicas": [
+          "No Capítulo 6, examine todas as portas vitrificadas das câmaras antigas ao longo do caminho."
+        ]
+      }
+    },
+    "ACH.PORTRAIT": {
+      "guia": {
+        "passos": [
+          "Encontre um retrato escondido."
+        ],
+        "dicas": [
+          "No Capítulo 6, procure o retrato de Caroline numa sala escondida perto do início."
+        ]
+      }
+    },
+    "ACH.DEFIANT": {
+      "guia": {
+        "passos": [
+          "Recuse-se a resolver o primeiro teste no Capítulo 8."
+        ],
+        "dicas": [
+          "No primeiro teste do Capítulo 8, espere sem resolver até Wheatley desistir."
+        ]
+      }
+    },
+    "ACH.BREAK_MONITORS": {
+      "guia": {
+        "passos": [
+          "Quebre 11 monitores de câmaras de teste."
+        ],
+        "dicas": [
+          "Monitores com o rosto de Wheatley nas câmaras dos Capítulo 8; atire objetos neles."
+        ]
+      }
+    },
+    "ACH.HI_FIVE_YOUR_PARTNER": {
+      "guia": {
+        "passos": [
+          "Celebre seu sucesso na calibração cooperativa."
+        ]
+      }
+    },
+    "ACH.TEAM_BUILDING": {
+      "guia": {
+        "passos": [
+          "Complete todas as câmaras de teste no percurso cooperativo Construção de Equipes."
+        ]
+      }
+    },
+    "ACH.MASS_AND_VELOCITY": {
+      "guia": {
+        "passos": [
+          "Complete todas as câmaras de teste no percurso cooperativo Massa e Velocidade."
+        ]
+      }
+    },
+    "ACH.HUG_NAME": {
+      "guia": {
+        "passos": [
+          "Complete todas as câmaras de teste no percurso cooperativo Superfícies de Luz Sólida."
+        ]
+      }
+    },
+    "ACH.EXCURSION_FUNNELS": {
+      "guia": {
+        "passos": [
+          "Complete todas as câmaras de teste no percurso cooperativo Funis de Excursão."
+        ]
+      }
+    },
+    "ACH.NEW_BLOOD": {
+      "guia": {
+        "passos": [
+          "Complete todas as câmaras de teste em todos os percursos cooperativos."
+        ]
+      }
+    },
+    "ACH.NICE_CATCH": {
+      "guia": {
+        "passos": [
+          "Nunca perca um cubo na Câmara 6 do percurso cooperativo Massa e Velocidade."
+        ]
+      }
+    },
+    "ACH.TAUNTS": {
+      "guia": {
+        "passos": [
+          "Faça todos os 8 gestos por vontade própria no modo cooperativo."
+        ]
+      }
+    },
+    "ACH.YOU_MONSTER": {
+      "guia": {
+        "passos": [
+          "Dance em frente de uma torreta bloqueada por uma ponte de luz sólida no modo cooperativo."
+        ]
+      }
+    },
+    "ACH.PARTNER_DROP": {
+      "guia": {
+        "passos": [
+          "Faça o seu parceiro cooperativo cair na gosma enquanto ele gesticula ao remover a ponte na qual ele está."
+        ]
+      }
+    },
+    "ACH.PARTY_OF_THREE": {
+      "guia": {
+        "passos": [
+          "Encontre o cubo companheiro escondido na câmara de testes cooperativa."
+        ],
+        "dicas": [
+          "Há um Companion Cube escondido numa câmara co-op; procure fora da área do teste."
+        ]
+      }
+    },
+    "ACH.PORTAL_TAUNT": {
+      "guia": {
+        "passos": [
+          "Coloque um portal embaixo de seu parceiro cooperativo enquanto ele estiver gesticulando."
+        ]
+      }
+    },
+    "ACH.TEACHER": {
+      "guia": {
+        "passos": [
+          "Após completar o modo cooperativo, complete o Percurso de Calibração on-line com um amigo que está jogando pela primeira vez."
+        ],
+        "atencao": [
+          "Exige jogar o curso de calibração online com alguém que nunca jogou o co-op."
+        ]
+      }
+    },
+    "ACH.WITH_STYLE": {
+      "guia": {
+        "passos": [
+          "Faça 2 gestos aéreos antes de tocar o chão no modo cooperativo."
+        ]
+      }
+    },
+    "ACH.LIMITED_PORTALS": {
+      "guia": {
+        "passos": [
+          "Complete a Câmara 3 no percurso cooperativo Superfícies de Luz Sólida usando um total de 5 portais."
+        ]
+      }
+    },
+    "ACH.FOUR_PORTALS": {
+      "guia": {
+        "passos": [
+          "Entre em 4 portais diferentes sem tocar o chão no modo cooperativo."
+        ]
+      }
+    },
+    "ACH.SPEED_RUN_COOP": {
+      "guia": {
+        "passos": [
+          "Resolva 3 câmaras cooperativas no percurso Massa e Velocidade em menos de 60 segundos cada."
+        ]
+      }
+    },
+    "ACH.STAYING_ALIVE": {
+      "guia": {
+        "passos": [
+          "Complete o Percurso 4 sem que você ou seu parceiro cooperativo morra."
+        ]
+      }
+    },
+    "ACH.TAUNT_CAMERA": {
+      "guia": {
+        "passos": [
+          "Provoque a GLaDOS em frente de uma câmera em cada um dos cinco percursos cooperativos."
+        ]
+      }
+    },
+    "ACH.ROCK_CRUSHES_ROBOT": {
+      "guia": {
+        "passos": [
+          "Vença 3 partidas consecutivas de \"pedra, papel e tesoura\" no modo cooperativo."
+        ],
+        "dicas": [
+          "Gesto de pedra-papel-tesoura; ganhe 3 seguidos contra o parceiro."
+        ]
+      }
+    },
+    "ACH.SPREAD_THE_LOVE": {
+      "guia": {
+        "passos": [
+          "Enquanto joga no modo cooperativo, abrace 3 pessoas diferentes da sua lista de amigos."
+        ],
+        "atencao": [
+          "Precisa abraçar 3 amigos diferentes da sua lista em co-op online."
+        ]
+      }
+    },
+    "ACH.SUMMER_SALE": {
+      "guia": {
+        "passos": [
+          "Nunca perca um cubo na Câmara 6 do percurso cooperativo Géis de Mobilidade."
+        ]
+      }
+    }
+  }
 }

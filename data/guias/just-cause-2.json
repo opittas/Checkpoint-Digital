@@ -19,5 +19,374 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Achievement1": {
+      "guia": {
+        "passos": [
+          "Complete a missão 1 da história."
+        ]
+      }
+    },
+    "Achievement2": {
+      "guia": {
+        "passos": [
+          "Complete a missão 2 da história."
+        ]
+      }
+    },
+    "Achievement3": {
+      "guia": {
+        "passos": [
+          "Complete a missão 3 da história."
+        ]
+      }
+    },
+    "Achievement4": {
+      "guia": {
+        "passos": [
+          "Complete a missão 4 da história."
+        ]
+      }
+    },
+    "Achievement5": {
+      "guia": {
+        "passos": [
+          "Complete a missão 5 da história."
+        ]
+      }
+    },
+    "Achievement6": {
+      "guia": {
+        "passos": [
+          "Complete a missão 6 da história."
+        ]
+      }
+    },
+    "Achievement7": {
+      "guia": {
+        "passos": [
+          "Complete a missão 7 da história."
+        ]
+      }
+    },
+    "Achievement8": {
+      "guia": {
+        "passos": [
+          "Bônus por terminar o jogo na dificuldade normal."
+        ]
+      }
+    },
+    "Achievement9": {
+      "guia": {
+        "passos": [
+          "Bônus por terminar o jogo no difícil. Também dá o bônus do normal."
+        ]
+      }
+    },
+    "Achievement10": {
+      "guia": {
+        "passos": [
+          "Bônus por terminar o jogo no extremo. Também dá os bônus do difícil e do normal."
+        ],
+        "atencao": [
+          "Dificuldade Extreme: é possível completar a história no Extreme com o mínimo de caos necessário."
+        ]
+      }
+    },
+    "Achievement11": {
+      "guia": {
+        "passos": [
+          "Tome 3 fortalezas."
+        ]
+      }
+    },
+    "Achievement12": {
+      "guia": {
+        "passos": [
+          "Tome 9 fortalezas."
+        ]
+      }
+    },
+    "Achievement13": {
+      "guia": {
+        "passos": [
+          "Complete 49 missões de facção."
+        ]
+      }
+    },
+    "Achievement14": {
+      "guia": {
+        "passos": [
+          "Cause caos pela primeira vez."
+        ]
+      }
+    },
+    "Achievement15": {
+      "guia": {
+        "passos": [
+          "Faça 100 sabotagens."
+        ]
+      }
+    },
+    "Achievement16": {
+      "guia": {
+        "passos": [
+          "Faça 1000 sabotagens."
+        ]
+      }
+    },
+    "Achievement17": {
+      "guia": {
+        "passos": [
+          "Assassine 25 coronéis."
+        ]
+      }
+    },
+    "Achievement18": {
+      "guia": {
+        "passos": [
+          "Complete 10 desafios."
+        ]
+      }
+    },
+    "Achievement19": {
+      "guia": {
+        "passos": [
+          "Complete 50 desafios."
+        ]
+      }
+    },
+    "Achievement20": {
+      "guia": {
+        "passos": [
+          "Colete 1000 itens de recurso."
+        ]
+      }
+    },
+    "Achievement21": {
+      "guia": {
+        "passos": [
+          "Colete 100 itens de recurso."
+        ]
+      }
+    },
+    "Achievement22": {
+      "guia": {
+        "passos": [
+          "Colete 150 itens de facção."
+        ]
+      }
+    },
+    "Achievement23": {
+      "guia": {
+        "passos": [
+          "Descubra 100 locais."
+        ]
+      }
+    },
+    "Achievement24": {
+      "guia": {
+        "passos": [
+          "Chegue a 100% em 15 locais."
+        ]
+      }
+    },
+    "Achievement25": {
+      "guia": {
+        "passos": [
+          "Chegue a 100% em 100 locais."
+        ]
+      }
+    },
+    "Achievement26": {
+      "guia": {
+        "passos": [
+          "Mate 750 inimigos."
+        ]
+      }
+    },
+    "Achievement27": {
+      "guia": {
+        "passos": [
+          "Mate 50 inimigos com ataques corpo a corpo."
+        ]
+      }
+    },
+    "Achievement28": {
+      "guia": {
+        "passos": [
+          "Mate 30 inimigos derrubando-os com o gancho para morrerem na queda."
+        ]
+      }
+    },
+    "Achievement29": {
+      "guia": {
+        "passos": [
+          "Mate 5 inimigos arrastando-os atrás de um veículo com o gancho."
+        ]
+      }
+    },
+    "Achievement30": {
+      "guia": {
+        "passos": [
+          "Mate 30 inimigos enquanto estão pendurados no ar pelo gancho."
+        ]
+      }
+    },
+    "Achievement31": {
+      "guia": {
+        "passos": [
+          "Mate 5 inimigos batendo neles com um objeto preso ao seu veículo pelo gancho."
+        ]
+      }
+    },
+    "Achievement32": {
+      "guia": {
+        "passos": [
+          "Mate 5 inimigos com corpo a corpo enquanto estão pendurados pelo gancho."
+        ]
+      }
+    },
+    "Achievement33": {
+      "guia": {
+        "passos": [
+          "Mate 30 inimigos enquanto caem pelo ar."
+        ]
+      }
+    },
+    "Achievement34": {
+      "guia": {
+        "passos": [
+          "Mate 30 inimigos atropelando-os com veículos."
+        ]
+      }
+    },
+    "Achievement35": {
+      "guia": {
+        "passos": [
+          "Mate 50 inimigos com tiros na cabeça."
+        ]
+      }
+    },
+    "Achievement36": {
+      "guia": {
+        "passos": [
+          "Mate 20 inimigos em 60 segundos."
+        ]
+      }
+    },
+    "Achievement37": {
+      "guia": {
+        "passos": [
+          "Mate 50 inimigos seguidos com armas do inventário sem perder vida."
+        ]
+      }
+    },
+    "Achievement38": {
+      "guia": {
+        "passos": [
+          "Destrua 30 objetos em 60 segundos."
+        ]
+      }
+    },
+    "Achievement39": {
+      "guia": {
+        "passos": [
+          "Dirija 30 veículos diferentes."
+        ]
+      }
+    },
+    "Achievement40": {
+      "guia": {
+        "passos": [
+          "Dirija todos os 104 veículos."
+        ],
+        "dicas": [
+          "Os veículos estão no Mercado Negro ou espalhados por Panau; alguns só em locais específicos."
+        ]
+      }
+    },
+    "Achievement41": {
+      "guia": {
+        "passos": [
+          "Percorra 75 km em veículos terrestres."
+        ]
+      }
+    },
+    "Achievement42": {
+      "guia": {
+        "passos": [
+          "Roube 50 veículos inimigos."
+        ]
+      }
+    },
+    "Achievement43": {
+      "guia": {
+        "passos": [
+          "Faça 100 pontos de dublê."
+        ]
+      }
+    },
+    "Achievement44": {
+      "guia": {
+        "passos": [
+          "Chegue a 50% de conclusão no modo normal ou mercenário."
+        ]
+      }
+    },
+    "Achievement45": {
+      "guia": {
+        "passos": [
+          "Abra o paraquedas e pouse a pé 300 metros acima da altura de partida."
+        ],
+        "dicas": [
+          "Abra o paraquedas e pouse a pé num lugar 300 m acima do ponto de partida, usando o gancho para subir."
+        ]
+      }
+    },
+    "Achievement46": {
+      "guia": {
+        "passos": [
+          "Faça um salto BASE de 1000 metros."
+        ],
+        "dicas": [
+          "Pule de um avião em grande altitude e caia 1000 m antes de abrir o paraquedas."
+        ]
+      }
+    },
+    "Achievement47": {
+      "guia": {
+        "passos": [
+          "Passe de avião por baixo de 30 pontes diferentes de Panau."
+        ],
+        "dicas": [
+          "Use um avião pequeno e passe sob pontes diferentes; procure uma lista de pontes."
+        ]
+      }
+    },
+    "Achievement48": {
+      "guia": {
+        "passos": [
+          "Voe de avião perto do chão por 30 segundos."
+        ]
+      }
+    },
+    "Achievement49": {
+      "guia": {
+        "passos": [
+          "Chegue a 75% de conclusão no modo normal ou mercenário."
+        ]
+      }
+    },
+    "Achievement50": {
+      "guia": {
+        "passos": [
+          "Fique a pé no ponto mais alto de Panau."
+        ],
+        "dicas": [
+          "O ponto mais alto é o pico nevado no norte de Panau; vá de helicóptero e desça a pé no topo."
+        ]
+      }
+    }
+  }
 }

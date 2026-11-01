@@ -11,5 +11,228 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Achievement01": {
+      "guia": {
+        "passos": [
+          "Completou o Capítulo Um."
+        ]
+      }
+    },
+    "Achievement02": {
+      "guia": {
+        "passos": [
+          "No capítulo 1, saia do Centro Residencial de Fireweed com o Tyler."
+        ]
+      }
+    },
+    "Achievement03": {
+      "guia": {
+        "passos": [
+          "Entre na casa da família Ronan."
+        ]
+      }
+    },
+    "Achievement06": {
+      "guia": {
+        "passos": [
+          "Reviva a lembrança da noite em que os gêmeos combinaram mentir."
+        ]
+      }
+    },
+    "Achievement08": {
+      "guia": {
+        "passos": [
+          "Na conversa com a Tessa, escolha as respostas que fazem ela contar tudo."
+        ],
+        "dicas": [
+          "Mostre as provas que você achou antes."
+        ]
+      }
+    },
+    "Achievement10": {
+      "guia": {
+        "passos": [
+          "Na delegacia, ache a senha do computador (pista nas anotações da mesa)."
+        ]
+      }
+    },
+    "Achievement11": {
+      "guia": {
+        "passos": [
+          "Resolva o quebra-cabeça na porta da Mary-Ann usando o Livro dos Goblins."
+        ]
+      }
+    },
+    "Achievement17": {
+      "guia": {
+        "passos": [
+          "Ache o primeiro boneco escondido do Livro dos Goblins."
+        ]
+      }
+    },
+    "Achievement20": {
+      "guia": {
+        "passos": [
+          "Escolha conversar com o gêmeo quando o jogo oferecer."
+        ]
+      }
+    },
+    "Achievement23": {
+      "guia": {
+        "passos": [
+          "Tente abrir uma porta trancada várias vezes."
+        ]
+      }
+    },
+    "Achievement24": {
+      "guia": {
+        "passos": [
+          "Completou o Capítulo Dois."
+        ]
+      }
+    },
+    "Achievement25": {
+      "guia": {
+        "passos": [
+          "No cemitério, faça as pazes com a Mary-Ann."
+        ]
+      }
+    },
+    "Achievement43": {
+      "guia": {
+        "passos": [
+          "Ache as pistas sobre o passado e a morte da Mary-Ann."
+        ]
+      }
+    },
+    "Achievement44": {
+      "guia": {
+        "passos": [
+          "Corrija o entalhe antigo na árvore."
+        ]
+      }
+    },
+    "Achievement27": {
+      "guia": {
+        "passos": [
+          "Descubra quem inspirou cada personagem do Livro dos Goblins."
+        ],
+        "dicas": [
+          "Compare o livro com as pessoas da cidade."
+        ]
+      }
+    },
+    "Achievement28": {
+      "guia": {
+        "passos": [
+          "Ache a gravação da ligação dos gêmeos para a polícia."
+        ]
+      }
+    },
+    "Achievement32": {
+      "guia": {
+        "passos": [
+          "Vença a batalha de pelúcias."
+        ]
+      }
+    },
+    "Achievement30": {
+      "guia": {
+        "passos": [
+          "Cole um bilhete nas costas do Tyler."
+        ]
+      }
+    },
+    "Achievement31": {
+      "guia": {
+        "passos": [
+          "Mostre ao Tyler que a caixinha de vaca é engraçada."
+        ]
+      }
+    },
+    "Achievement29": {
+      "guia": {
+        "passos": [
+          "Ache três pôsteres do Strange Vampyr."
+        ]
+      }
+    },
+    "Achievement33": {
+      "guia": {
+        "passos": [
+          "Comece um capítulo novo com a Alyson."
+        ]
+      }
+    },
+    "Achievement34": {
+      "guia": {
+        "passos": [
+          "Tranque a casa dos Ronan e vá embora com o Tyler."
+        ]
+      }
+    },
+    "Achievement45": {
+      "guia": {
+        "passos": [
+          "Descubra a verdade sobre a relação do Sam com os gêmeos."
+        ]
+      }
+    },
+    "Achievement35": {
+      "guia": {
+        "passos": [
+          "Ache o tesouro perdido da princesa."
+        ]
+      }
+    },
+    "Achievement46": {
+      "guia": {
+        "passos": [
+          "Termine com o laço dos gêmeos forte."
+        ],
+        "dicas": [
+          "Escolha concordar com o gêmeo e apoiar as decisões dele."
+        ]
+      }
+    },
+    "Achievement36": {
+      "guia": {
+        "passos": [
+          "Termine com o laço dos gêmeos fraco."
+        ],
+        "dicas": [
+          "Discorde do gêmeo nas escolhas importantes."
+        ]
+      }
+    },
+    "Achievement37": {
+      "guia": {
+        "passos": [
+          "Coloque todos os colecionáveis no sótão."
+        ]
+      }
+    },
+    "Achievement38": {
+      "guia": {
+        "passos": [
+          "Ajude o Sam a consertar o motor."
+        ]
+      }
+    },
+    "Achievement39": {
+      "guia": {
+        "passos": [
+          "Pesque todos os peixes com o Michael."
+        ]
+      }
+    },
+    "Achievement40": {
+      "guia": {
+        "passos": [
+          "Descubra quem é o Bandido dos Correios."
+        ]
+      }
+    }
+  }
 }

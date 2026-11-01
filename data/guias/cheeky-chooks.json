@@ -15,5 +15,243 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_5_CHOOKS": {
+      "guia": {
+        "passos": [
+          "Tenha 5 galinhas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_100_CHOOKS": {
+      "guia": {
+        "passos": [
+          "Tenha 100 galinhas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_1_RARE_CHOOK": {
+      "guia": {
+        "passos": [
+          "Tenha uma galinha rara."
+        ]
+      }
+    },
+    "ACHIEVEMENT_1_GOLDEN_CHOOK": {
+      "guia": {
+        "passos": [
+          "Tenha uma galinha dourada."
+        ]
+      }
+    },
+    "ACHIEVEMENT_20_GOLDEN_CHOOKS": {
+      "guia": {
+        "passos": [
+          "Tenha 20 galinhas douradas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_100_HAPPINESS": {
+      "guia": {
+        "passos": [
+          "Chegue a 100 de felicidade."
+        ],
+        "dicas": [
+          "Construa decorações e piscinas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_100000_EGGS": {
+      "guia": {
+        "passos": [
+          "Venda 100.000 ovos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_LEVEL_1": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 da fazenda."
+        ]
+      }
+    },
+    "ACHIEVEMENT_LEVEL_2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 3."
+        ]
+      }
+    },
+    "ACHIEVEMENT_LEVEL_3": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 4."
+        ]
+      }
+    },
+    "ACHIEVEMENT_100_MAX_LEVEL": {
+      "guia": {
+        "passos": [
+          "Melhore 100 construções ao nível máximo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_1000_RESOURCES": {
+      "guia": {
+        "passos": [
+          "Tenha 1000 recursos sobrando."
+        ]
+      }
+    },
+    "ACHIEVEMENT_POOL_FOUNTAIN_WATERFALL": {
+      "guia": {
+        "passos": [
+          "Construa uma piscina, uma fonte e uma cachoeira."
+        ]
+      }
+    },
+    "ACHIEVEMENT_ONE_LEGENDARY_BUILDING": {
+      "guia": {
+        "passos": [
+          "Libere uma construção lendária."
+        ]
+      }
+    },
+    "ACHIEVEMENT_ALL_LEGENDARY_BUILDINGS": {
+      "guia": {
+        "passos": [
+          "Tenha as construções lendárias de todas as estações."
+        ]
+      }
+    },
+    "ACHIEVEMENT_OWN_ALL_SEASONAL_BUILDINGS": {
+      "guia": {
+        "passos": [
+          "Tenha todos os itens sazonais."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SPRING_CHICKENS": {
+      "guia": {
+        "passos": [
+          "Libere todas as galinhas de primavera."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SUMMER_CLUCKIN": {
+      "guia": {
+        "passos": [
+          "Libere todas as galinhas de verão."
+        ]
+      }
+    },
+    "ACHIEVEMENT_AUTUMNAL_EGGUINOX": {
+      "guia": {
+        "passos": [
+          "Libere todas as galinhas de outono."
+        ]
+      }
+    },
+    "ACHIEVEMENT_FROZEN_YOLKS": {
+      "guia": {
+        "passos": [
+          "Libere todas as galinhas de inverno."
+        ]
+      }
+    },
+    "ACHIEVEMENT_UNLOCK_ALL_SEASONAL_CHOOKS": {
+      "guia": {
+        "passos": [
+          "Libere todas as galinhas sazonais."
+        ]
+      }
+    },
+    "ACHIEVEMENT_UNLOCK_ALL_CHOOKS": {
+      "guia": {
+        "passos": [
+          "Descubra todos os tipos de galinha."
+        ]
+      }
+    },
+    "ACHIEVEMENT_UNLOCK_ONE_LEGENDARY": {
+      "guia": {
+        "passos": [
+          "Libere uma galinha lendária."
+        ]
+      }
+    },
+    "ACHIEVEMENT_CHOOK_LEGENDS": {
+      "guia": {
+        "passos": [
+          "Libere todas as galinhas lendárias."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SELL_EGGS_TO_EGG_TRUCK": {
+      "guia": {
+        "passos": [
+          "Venda 150.000 ovos para o Caminhão de Ovos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_WASTE_OF_DISK_SPACE": {
+      "guia": {
+        "passos": [
+          "Comece um jogo novo no modo Aventura."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SOUNDS_LIKE_A_LIE_BUT_WHATEVER": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 2 da fazenda em menos de 15 minutos."
+        ],
+        "dicas": [
+          "Foque em vender ovos no começo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_GO_FOR_GOLD": {
+      "guia": {
+        "passos": [
+          "Consiga uma galinha dourada nos primeiros 5 minutos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_INCREDIBLY_RARE": {
+      "guia": {
+        "passos": [
+          "Choque uma galinha rara em menos de 5 minutos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_DON'T_GAMBLE_WITH_EM": {
+      "guia": {
+        "passos": [
+          "Espante 100 fantasmas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_WEED_WHACKER": {
+      "guia": {
+        "passos": [
+          "Arranque 100 ervas daninhas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SPELL_CASTING_CHEATER": {
+      "guia": {
+        "passos": [
+          "Libere a viagem no tempo ainda na primavera do ano 1."
+        ]
+      }
+    },
+    "ACHIEVEMENT_A_CHOOK_HISTROY_OF_TIME": {
+      "guia": {
+        "passos": [
+          "Viaje no tempo."
+        ]
+      }
+    }
+  }
 }

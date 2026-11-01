@@ -15,5 +15,685 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "CRYSIS": {
+      "guia": {
+        "passos": [
+          "Monte um PC gastando mais que $10k nas peças e faça o sistema iniciar."
+        ]
+      }
+    },
+    "STOP_IT": {
+      "guia": {
+        "passos": [
+          "Monte um PC com gabinete completo, cooler AIO, pelo menos 1 ventilador RGB, o máximo de memória RAM suportado pela placa-mãe, qualquer 1080Ti (ou até SLI), mas use um Celeron."
+        ]
+      }
+    },
+    "BSOD": {
+      "guia": {
+        "passos": [
+          "Veja a tela azul da morte 10 vezes depois de fazer overclock de um PC."
+        ]
+      }
+    },
+    "1920X1080": {
+      "guia": {
+        "passos": [
+          "Instale uma Threadripper 1920x e uma GTX 1080 ou GTX 1080Ti."
+        ]
+      }
+    },
+    "SICK": {
+      "guia": {
+        "passos": [
+          "Não trabalhe por 7 dias consecutivos."
+        ]
+      }
+    },
+    "BROKE": {
+      "guia": {
+        "passos": [
+          "Acumule uma dívida de $3.000."
+        ]
+      }
+    },
+    "BRICK": {
+      "guia": {
+        "passos": [
+          "Quebre sua CPU."
+        ],
+        "dicas": [
+          "Faça overclock com voltagem alta demais até queimar a CPU."
+        ]
+      }
+    },
+    "REPAY": {
+      "guia": {
+        "passos": [
+          "Saia de uma dívida de $2.500."
+        ]
+      }
+    },
+    "AMD_NVIDIA": {
+      "guia": {
+        "passos": [
+          "Instale uma CPU AMD e uma GPU NVIDIA no mesmo PC."
+        ]
+      }
+    },
+    "PERFECTION": {
+      "guia": {
+        "passos": [
+          "Obtenha a pontuação exata solicitada no 3DMark."
+        ],
+        "dicas": [
+          "Ajuste overclock até o 3DMark bater exatamente o pedido do cliente."
+        ]
+      }
+    },
+    "HOARDER": {
+      "guia": {
+        "passos": [
+          "Tenha todas as peças possíveis no seu inventário."
+        ],
+        "atencao": [
+          "Exige todas as peças do jogo no inventário (inclusive de DLCs); muito dinheiro."
+        ]
+      }
+    },
+    "CASH_1": {
+      "guia": {
+        "passos": [
+          "$1.000 no banco."
+        ]
+      }
+    },
+    "CASH_2": {
+      "guia": {
+        "passos": [
+          "$10.000 no banco."
+        ]
+      }
+    },
+    "CASH_3": {
+      "guia": {
+        "passos": [
+          "$100.000 no banco."
+        ]
+      }
+    },
+    "CASH_4": {
+      "guia": {
+        "passos": [
+          "$1.000.000 no banco."
+        ]
+      }
+    },
+    "JOBS_1": {
+      "guia": {
+        "passos": [
+          "Conclua 10 trabalhos."
+        ]
+      }
+    },
+    "JOBS_2": {
+      "guia": {
+        "passos": [
+          "Conclua 30 trabalhos."
+        ]
+      }
+    },
+    "JOBS_3": {
+      "guia": {
+        "passos": [
+          "Conclua 100 trabalhos."
+        ]
+      }
+    },
+    "JOBS_4": {
+      "guia": {
+        "passos": [
+          "Conclua 200 trabalhos."
+        ]
+      }
+    },
+    "JOBS_5": {
+      "guia": {
+        "passos": [
+          "Conclua 500 trabalhos."
+        ]
+      }
+    },
+    "STARS_1": {
+      "guia": {
+        "passos": [
+          "Conquiste uma avaliação de 4 estrelas."
+        ]
+      }
+    },
+    "STARS_2": {
+      "guia": {
+        "passos": [
+          "Conquiste uma avaliação de 4,5 estrelas."
+        ]
+      }
+    },
+    "STARS_3": {
+      "guia": {
+        "passos": [
+          "Conquiste uma avaliação de 5 estrelas."
+        ]
+      }
+    },
+    "HBPC": {
+      "guia": {
+        "passos": [
+          "Conclua o modo Como Montar um PC."
+        ]
+      }
+    },
+    "TREAT_1": {
+      "guia": {
+        "passos": [
+          "Instale uma GTX 1080Ti na sua máquina do escritório."
+        ]
+      }
+    },
+    "TREAT_2": {
+      "guia": {
+        "passos": [
+          "Instale uma CPU Threadripper na sua máquina do escritório."
+        ]
+      }
+    },
+    "TREAT_3": {
+      "guia": {
+        "passos": [
+          "Instale 128 GB de RAM na sua máquina do escritório."
+        ]
+      }
+    },
+    "OPC_BM_1": {
+      "guia": {
+        "passos": [
+          "Obtenha 5.000 de pontuação do 3DMark no seu PC do escritório."
+        ]
+      }
+    },
+    "OPC_BM_2": {
+      "guia": {
+        "passos": [
+          "Obtenha 10.000 de pontuação do 3DMark no seu PC do escritório."
+        ]
+      }
+    },
+    "OPC_BM_3": {
+      "guia": {
+        "passos": [
+          "Obtenha 20.000 de pontuação do 3DMark no seu PC do escritório."
+        ]
+      }
+    },
+    "OPC_WC": {
+      "guia": {
+        "passos": [
+          "Instale resfriamento líquido customizado no seu PC do escritório."
+        ]
+      }
+    },
+    "OPC_LIGHTS": {
+      "guia": {
+        "passos": [
+          "Instale um monte de luzes no seu PC do escritório."
+        ]
+      }
+    },
+    "OPC_PURPLE": {
+      "guia": {
+        "passos": [
+          "Deixe seu PC do escritório o mais roxo possível."
+        ]
+      }
+    },
+    "SHARES_1": {
+      "guia": {
+        "passos": [
+          "Adquira 51% das ações da empresa do seu tio Tim."
+        ]
+      }
+    },
+    "SHARES_2": {
+      "guia": {
+        "passos": [
+          "Compre todas as ações da empresa do seu tio Tim."
+        ]
+      }
+    },
+    "RADS": {
+      "guia": {
+        "passos": [
+          "Crie um ciclo de resfriamento líquido com 5 ou mais radiadores."
+        ]
+      }
+    },
+    "HBPC_TIME": {
+      "guia": {
+        "passos": [
+          "Conclua o modo Como Montar um PC em menos de 150 segundos."
+        ],
+        "dicas": [
+          "Repita o modo How To Build a PC até decorar a sequência."
+        ]
+      }
+    },
+    "INVENTORY": {
+      "guia": {
+        "passos": [
+          "Tenha um inventário no valor de $200.000 no modo Carreira."
+        ]
+      }
+    },
+    "MONITOR": {
+      "guia": {
+        "passos": [
+          "Tente usar o monitor sem conectá-lo ao PC."
+        ]
+      }
+    },
+    "DATE": {
+      "guia": {
+        "passos": [
+          "Vá para o ano de 2029."
+        ],
+        "dicas": [
+          "Só avançar os dias no modo carreira até 2029."
+        ]
+      }
+    },
+    "DELIVERY": {
+      "guia": {
+        "passos": [
+          "Receba mais de 50 itens em uma única entrega."
+        ]
+      }
+    },
+    "PLAY_MUSIC": {
+      "guia": {
+        "passos": [
+          "Toque sua própria música no reprodutor de música."
+        ]
+      }
+    },
+    "PLAY_INET": {
+      "guia": {
+        "passos": [
+          "Toque uma rádio online no reprodutor de música."
+        ]
+      }
+    },
+    "GPUS": {
+      "guia": {
+        "passos": [
+          "Tenha 100 GPUs no seu inventário."
+        ]
+      }
+    },
+    "NO_PASTE": {
+      "guia": {
+        "passos": [
+          "Esqueça de aplicar pasta térmica na CPU."
+        ],
+        "dicas": [
+          "Monte um PC e ligue sem aplicar pasta térmica na CPU."
+        ]
+      }
+    },
+    "LEVEL_1": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 6."
+        ]
+      }
+    },
+    "LEVEL_2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 12."
+        ]
+      }
+    },
+    "LEVEL_3": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 18."
+        ]
+      }
+    },
+    "LEVEL_4": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 24."
+        ]
+      }
+    },
+    "LEVEL_5": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 30."
+        ]
+      }
+    },
+    "BUILD_1": {
+      "guia": {
+        "passos": [
+          "Compre a segunda bancada de trabalho."
+        ]
+      }
+    },
+    "BUILD_2": {
+      "guia": {
+        "passos": [
+          "Compre a terceira bancada de trabalho."
+        ]
+      }
+    },
+    "BUILD_3": {
+      "guia": {
+        "passos": [
+          "Compre o armário de armazenamento."
+        ]
+      }
+    },
+    "STICK_TEAM_A": {
+      "guia": {
+        "passos": [
+          "Fique com os Vandals por toda a sua carreira."
+        ]
+      }
+    },
+    "EVERY_TEAM": {
+      "guia": {
+        "passos": [
+          "Trabalhe para todas as empresas disponíveis."
+        ]
+      }
+    },
+    "HAPPY_TEAMMATE": {
+      "guia": {
+        "passos": [
+          "Receba 20 curtidas de um jogador."
+        ]
+      }
+    },
+    "WATCH_GOLD": {
+      "guia": {
+        "passos": [
+          "Termine a sua carreira com um relógio de ouro."
+        ]
+      }
+    },
+    "WATCH_SILVER": {
+      "guia": {
+        "passos": [
+          "Termine a sua carreira com um relógio de prata."
+        ]
+      }
+    },
+    "WATCH_BRONZE": {
+      "guia": {
+        "passos": [
+          "Termine a sua carreira com um relógio de bronze."
+        ]
+      }
+    },
+    "GIFT_1": {
+      "guia": {
+        "passos": [
+          "Pegue o seu primeiro presente de um jogador."
+        ]
+      }
+    },
+    "GIFT_10": {
+      "guia": {
+        "passos": [
+          "Ganhe 10 presentes de jogadores."
+        ]
+      }
+    },
+    "GIFT_15": {
+      "guia": {
+        "passos": [
+          "Ganhe 15 presentes de jogadores."
+        ]
+      }
+    },
+    "GIFT_ALL": {
+      "guia": {
+        "passos": [
+          "Ganhe todos os 26 presentes dos jogadores."
+        ]
+      }
+    },
+    "GIFT_ALL_SIGNED": {
+      "guia": {
+        "passos": [
+          "Receba um presente assinado."
+        ]
+      }
+    },
+    "TOP_LEAGUE": {
+      "guia": {
+        "passos": [
+          "Leve a sua equipe ao topo da liga!"
+        ]
+      }
+    },
+    "COMPLETE_SIDE_CEO": {
+      "guia": {
+        "passos": [
+          "Conclua um trabalho paralelo para o diretor."
+        ]
+      }
+    },
+    "SEND_EMOJIS": {
+      "guia": {
+        "passos": [
+          "Envie 100 emojis."
+        ]
+      }
+    },
+    "LOST_MATCH": {
+      "guia": {
+        "passos": [
+          "Perca uma partida."
+        ]
+      }
+    },
+    "UNLOCK_SECOND_WORKSHOP": {
+      "guia": {
+        "passos": [
+          "Vá para uma oficina maior."
+        ]
+      }
+    },
+    "UNLOCK_THIRD_WORKSHOP": {
+      "guia": {
+        "passos": [
+          "Vá para uma oficina de elite."
+        ]
+      }
+    },
+    "TRAITOR": {
+      "guia": {
+        "passos": [
+          "Jogue contra uma empresa com que você já trabalhou antes."
+        ]
+      }
+    },
+    "SPEEDY_SETUP": {
+      "guia": {
+        "passos": [
+          "Posicione toda a equipe na arena em 120 segundos ou menos."
+        ]
+      }
+    },
+    "SPEEDY_DISASTER": {
+      "guia": {
+        "passos": [
+          "Lide com um desastre na arena em 120 segundos ou menos."
+        ]
+      }
+    },
+    "NO_CHEAT_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sem marcar as configurações de dificuldade."
+        ],
+        "dicas": [
+          "DLC Esports: termine sem cheats."
+        ]
+      }
+    },
+    "PRINTER_HIT": {
+      "guia": {
+        "passos": [
+          "Conserte 5 impressoras batendo nelas."
+        ]
+      }
+    },
+    "FIRST_OFFSITE": {
+      "guia": {
+        "passos": [
+          "Saia da sua oficina pela primeira vez."
+        ]
+      }
+    },
+    "SECOND_WORKSHOP": {
+      "guia": {
+        "passos": [
+          "Mude para uma oficina maior."
+        ]
+      }
+    },
+    "THIRD_WORKSHOP": {
+      "guia": {
+        "passos": [
+          "Mude para uma oficina maior ainda."
+        ]
+      }
+    },
+    "SELL_PC_ONE": {
+      "guia": {
+        "passos": [
+          "Venda um PC sobrando."
+        ]
+      }
+    },
+    "SELL_PC_LOW": {
+      "guia": {
+        "passos": [
+          "Venda 10 PCs."
+        ]
+      }
+    },
+    "SELL_PC_HIGH": {
+      "guia": {
+        "passos": [
+          "Venda 20 PCs."
+        ]
+      }
+    },
+    "COMPLETE_LOW": {
+      "guia": {
+        "passos": [
+          "Conclua 25 tickets por conta própria."
+        ]
+      }
+    },
+    "COMPLETE_MEDIUM": {
+      "guia": {
+        "passos": [
+          "Conclua 50 tickets por conta própria."
+        ]
+      }
+    },
+    "COMPLETE_HIGH": {
+      "guia": {
+        "passos": [
+          "Conclua 100 tickets por conta própria."
+        ]
+      }
+    },
+    "COMPLETED_STORY": {
+      "guia": {
+        "passos": [
+          "Conclua todos os trabalhos da história por conta própria ou com ajuda da Natalia."
+        ]
+      }
+    },
+    "SLIDE_FIRST": {
+      "guia": {
+        "passos": [
+          "Brinque no escorregador."
+        ]
+      }
+    },
+    "SLIDE_MANY": {
+      "guia": {
+        "passos": [
+          "Brinque no escorregador 3 vezes. Você não precisa trabalhar?"
+        ]
+      }
+    },
+    "MOTHERSHIP_FIRST": {
+      "guia": {
+        "passos": [
+          "Compre um item do catálogo da DEKOR."
+        ]
+      }
+    },
+    "UNCLE_TIM_FIRST": {
+      "guia": {
+        "passos": [
+          "Compre um Pacote de Peças Misteriosas do Porão de Ofertas do Tio Tim."
+        ]
+      }
+    },
+    "MOTHERSHIP_MANY": {
+      "guia": {
+        "passos": [
+          "Compre 25 itens diferentes do catálogo da DEKOR."
+        ]
+      }
+    },
+    "UNCLE_TIM_MANY": {
+      "guia": {
+        "passos": [
+          "Compre 15 Pacotes de Peças Misteriosas diferentes do Porão de Ofertas do Tio Tim."
+        ]
+      }
+    },
+    "SPECIFIC_STORY_A": {
+      "guia": {
+        "passos": [
+          "Seja o cupido de duas pessoas apaixonadas no projeto HypeReach."
+        ]
+      }
+    },
+    "SPECIFIC_STORY_B": {
+      "guia": {
+        "passos": [
+          "Ajude a Repolho Ralado a voltar para um último show."
+        ]
+      }
+    },
+    "SPECIFIC_STORY_C": {
+      "guia": {
+        "passos": [
+          "Ajude a lançar o jogo hit do momento, Yoga Simulator."
+        ]
+      }
+    }
+  }
 }

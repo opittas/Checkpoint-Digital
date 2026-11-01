@@ -6277,5 +6277,48 @@
       "luigi's mansion",
       "luigis mansion"
     ]
+  },
+  {
+    "id": "final-fantasy-xiv",
+    "title": "Final Fantasy XIV Online",
+    "developer": "Square Enix",
+    "year": null,
+    "steam_appid": null,
+    "platforms": [
+      "xbox",
+      "ps",
+      "nin",
+      "steam"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "nin": "",
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/final-fantasy-xiv.jpg",
+    "generos": [
+      "RPG",
+      "Multijogador"
+    ],
+    "palavras": [
+      "final fantasy xiv",
+      "final fantasy 14",
+      "ffxiv",
+      "ff14",
+      "evercold"
+    ]
   }
 ]

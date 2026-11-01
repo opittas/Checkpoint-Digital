@@ -15,5 +15,275 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "1": {
+      "guia": {
+        "passos": [
+          "Chegue ao Abrigo."
+        ]
+      }
+    },
+    "2": {
+      "guia": {
+        "passos": [
+          "Restaure a energia."
+        ]
+      }
+    },
+    "3": {
+      "guia": {
+        "passos": [
+          "Chegue à Torre de Comunicação."
+        ]
+      }
+    },
+    "4": {
+      "guia": {
+        "passos": [
+          "Encontre a garota presa."
+        ]
+      }
+    },
+    "5": {
+      "guia": {
+        "passos": [
+          "Obtenha o Código de Interrupção."
+        ]
+      }
+    },
+    "6": {
+      "guia": {
+        "passos": [
+          "Chegue à Torre Nexus."
+        ]
+      }
+    },
+    "7": {
+      "guia": {
+        "passos": [
+          "Conserte a Diana."
+        ]
+      }
+    },
+    "8": {
+      "guia": {
+        "passos": [
+          "Derrote o Sentinela."
+        ]
+      }
+    },
+    "9": {
+      "guia": {
+        "passos": [
+          "Conclua o jogo em qualquer dificuldade."
+        ],
+        "dicas": [
+          "A dificuldade não importa."
+        ]
+      }
+    },
+    "10": {
+      "guia": {
+        "passos": [
+          "Conclua o modo Sinal Desconhecido."
+        ],
+        "dicas": [
+          "O modo abre depois de terminar a história."
+        ]
+      }
+    },
+    "11": {
+      "guia": {
+        "passos": [
+          "Conclua o jogo na dificuldade Lunática."
+        ],
+        "dicas": [
+          "Fica disponível após zerar uma vez; melhore armas e hackeamento antes."
+        ]
+      }
+    },
+    "12": {
+      "guia": {
+        "passos": [
+          "Fale com a Diana no Abrigo."
+        ]
+      }
+    },
+    "13": {
+      "guia": {
+        "passos": [
+          "Receba um desenho de presente."
+        ]
+      }
+    },
+    "14": {
+      "guia": {
+        "passos": [
+          "Vença no esconde-esconde."
+        ]
+      }
+    },
+    "15": {
+      "guia": {
+        "passos": [
+          "Dê uma LMT de presente."
+        ]
+      }
+    },
+    "16": {
+      "guia": {
+        "passos": [
+          "Conclua uma série de LMTs."
+        ]
+      }
+    },
+    "17": {
+      "guia": {
+        "passos": [
+          "Complete uma Cartela de Selos do Cabin."
+        ]
+      }
+    },
+    "18": {
+      "guia": {
+        "passos": [
+          "Conclua o objetivo principal em uma Simulação de Treino."
+        ]
+      }
+    },
+    "19": {
+      "guia": {
+        "passos": [
+          "Conclua o objetivo principal em todas as Simulações de Treino."
+        ],
+        "dicas": [
+          "Faça todas pelo terminal do Abrigo."
+        ]
+      }
+    },
+    "20": {
+      "guia": {
+        "passos": [
+          "Assuma o controle de uma Zona Vermelha."
+        ]
+      }
+    },
+    "21": {
+      "guia": {
+        "passos": [
+          "Derrote um bot Varredor."
+        ]
+      }
+    },
+    "22": {
+      "guia": {
+        "passos": [
+          "Encontre uma parede holográfica."
+        ]
+      }
+    },
+    "23": {
+      "guia": {
+        "passos": [
+          "Atire em um Mini Cabin."
+        ]
+      }
+    },
+    "24": {
+      "guia": {
+        "passos": [
+          "Atire em todos os Mini Cabins."
+        ],
+        "dicas": [
+          "Os Mini Cabins ficam escondidos pelos setores: olhe para o alto e em cantos."
+        ]
+      }
+    },
+    "25": {
+      "guia": {
+        "passos": [
+          "Melhore uma arma usando lunum puro."
+        ]
+      }
+    },
+    "26": {
+      "guia": {
+        "passos": [
+          "Imprima todas as armas, nodos de hackeamento e habilidades durante a história principal."
+        ],
+        "atencao": [
+          "Precisa ser feito durante a história principal: imprima tudo antes da reta final."
+        ]
+      }
+    },
+    "27": {
+      "guia": {
+        "passos": [
+          "Consiga 100% de progresso em um setor."
+        ]
+      }
+    },
+    "28": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as escotilhas de fuga."
+        ],
+        "dicas": [
+          "Explore cada setor por completo."
+        ]
+      }
+    },
+    "29": {
+      "guia": {
+        "passos": [
+          "Conclua uma missão em um setor especial."
+        ]
+      }
+    },
+    "30": {
+      "guia": {
+        "passos": [
+          "Derrote três inimigos ao mesmo tempo com o reciclador de LNA."
+        ]
+      }
+    },
+    "31": {
+      "guia": {
+        "passos": [
+          "Repila o Escavador enquanto avança pelas Minas de Lunum."
+        ]
+      }
+    },
+    "32": {
+      "guia": {
+        "passos": [
+          "Confunda um certo inimigo e pegue emprestado o escudo dele."
+        ]
+      }
+    },
+    "33": {
+      "guia": {
+        "passos": [
+          "Purifique três ou mais inimigos ao mesmo tempo."
+        ]
+      }
+    },
+    "34": {
+      "guia": {
+        "passos": [
+          "Cause 6.000 de dano com disparos em um segundo."
+        ],
+        "dicas": [
+          "Combine os hackeamentos que aumentam dano com rajadas no ponto fraco."
+        ]
+      }
+    },
+    "35": {
+      "guia": {
+        "passos": [
+          "Cause 3.000 de dano de hackeamento em um único hackeamento."
+        ]
+      }
+    }
+  }
 }

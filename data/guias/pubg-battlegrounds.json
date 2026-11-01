@@ -17,5 +17,295 @@
   "avisos": [
     "Precisa de online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIVE000": {
+      "guia": {
+        "passos": [
+          "Vença uma partida 10 vezes."
+        ]
+      }
+    },
+    "ACHIVE001": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de Um Jogador."
+        ],
+        "dicas": [
+          "Jogue de forma passiva no começo e lute só nos círculos finais."
+        ]
+      }
+    },
+    "ACHIVE002": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de Duplas."
+        ]
+      }
+    },
+    "ACHIVE003": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de Esquadrão."
+        ]
+      }
+    },
+    "ACHIVE004": {
+      "guia": {
+        "passos": [
+          "Fique entre os 10 melhores 10 vezes."
+        ]
+      }
+    },
+    "ACHIVE005": {
+      "guia": {
+        "passos": [
+          "Fique entre os 10 melhores sem matar ninguém."
+        ],
+        "dicas": [
+          "Pouse longe da rota do avião, esconda-se e acompanhe o círculo."
+        ]
+      }
+    },
+    "ACHIVE006": {
+      "guia": {
+        "passos": [
+          "Mate 200 jogadores com uma escopeta, submetralhadora e/ou pistola."
+        ]
+      }
+    },
+    "ACHIVE007": {
+      "guia": {
+        "passos": [
+          "Mate 50 jogadores com uma escopeta, submetralhadora e/ou pistola."
+        ]
+      }
+    },
+    "ACHIVE008": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores com uma escopeta, submetralhadora e/ou pistola."
+        ]
+      }
+    },
+    "ACHIVE009": {
+      "guia": {
+        "passos": [
+          "Mate 100 jogadores com rifle de assalto e/ou rifle de precisão a mais de 100 metros de distância."
+        ]
+      }
+    },
+    "ACHIVE010": {
+      "guia": {
+        "passos": [
+          "Mate 30 jogadores com rifle de assalto e/ou rifle de precisão a mais de 100 metros de distância."
+        ]
+      }
+    },
+    "ACHIVE011": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores com rifle de assalto e/ou rifle de precisão a mais de 100 metros de distância."
+        ]
+      }
+    },
+    "ACHIVE012": {
+      "guia": {
+        "passos": [
+          "Mate 50 jogadores com granadas."
+        ]
+      }
+    },
+    "ACHIVE013": {
+      "guia": {
+        "passos": [
+          "Mate 30 jogadores com granadas."
+        ]
+      }
+    },
+    "ACHIVE014": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores com granadas."
+        ]
+      }
+    },
+    "ACHIVE015": {
+      "guia": {
+        "passos": [
+          "Mate 1.000 jogadores de qualquer maneira."
+        ]
+      }
+    },
+    "ACHIVE016": {
+      "guia": {
+        "passos": [
+          "Mate 100 jogadores de qualquer maneira."
+        ]
+      }
+    },
+    "ACHIVE017": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores de qualquer maneira."
+        ]
+      }
+    },
+    "ACHIVE018": {
+      "guia": {
+        "passos": [
+          "Mate um jogador de qualquer maneira."
+        ]
+      }
+    },
+    "ACHIVE019": {
+      "guia": {
+        "passos": [
+          "Mate 20 jogadores com as mãos vazias."
+        ],
+        "dicas": [
+          "Pouse em áreas populares e brigue antes de achar armas; Treino ou modos casuais ajudam."
+        ]
+      }
+    },
+    "ACHIVE020": {
+      "guia": {
+        "passos": [
+          "Mate pelo menos 4 jogadores em uma única partida."
+        ]
+      }
+    },
+    "ACHIVE021": {
+      "guia": {
+        "passos": [
+          "Mate com um tiro na cabeça 10 jogadores inimigos com um rifle de precisão."
+        ]
+      }
+    },
+    "ACHIVE022": {
+      "guia": {
+        "passos": [
+          "Equipe um Capacete de Nív. 3, Colete Militar e Bolsa de Nív. 3 em 10 partidas."
+        ]
+      }
+    },
+    "ACHIVE023": {
+      "guia": {
+        "passos": [
+          "Realize a primeira baixa de uma partida."
+        ],
+        "dicas": [
+          "Pouse em áreas cheias como Pochinki ou School."
+        ]
+      }
+    },
+    "ACHIVE024": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores com a besta."
+        ],
+        "dicas": [
+          "A besta aparece no chão em vários mapas."
+        ]
+      }
+    },
+    "ACHIVE025": {
+      "guia": {
+        "passos": [
+          "Obtenha 50 itens do Pacote de Ajuda."
+        ],
+        "dicas": [
+          "Os Pacotes de Ajuda caem com fumaça vermelha."
+        ]
+      }
+    },
+    "ACHIVE026": {
+      "guia": {
+        "passos": [
+          "Mate 50 jogadores com armas silenciadas."
+        ]
+      }
+    },
+    "ACHIVE027": {
+      "guia": {
+        "passos": [
+          "Equipe um Traje Ghillie pela primeira vez."
+        ]
+      }
+    },
+    "ACHIVE028": {
+      "guia": {
+        "passos": [
+          "Salte de um avião 101 vezes."
+        ],
+        "dicas": [
+          "Conta toda partida: vem com o tempo."
+        ]
+      }
+    },
+    "ACHIVE029": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores com uma arma de dentro de um veículo."
+        ]
+      }
+    },
+    "ACHIVE030": {
+      "guia": {
+        "passos": [
+          "Reanime um parceiro caído."
+        ]
+      }
+    },
+    "ACHIVE031": {
+      "guia": {
+        "passos": [
+          "Equipe armas silenciadas em todos os espaços para armas. Qual arma é silenciada? Tente usá-las."
+        ]
+      }
+    },
+    "ACHIVE032": {
+      "guia": {
+        "passos": [
+          "Mate outro jogador com a frigideira."
+        ],
+        "dicas": [
+          "A frigideira aparece no chão como arma corpo a corpo."
+        ]
+      }
+    },
+    "ACHIVE033": {
+      "guia": {
+        "passos": [
+          "Mate 10 jogadores atropelando-os com um veículo."
+        ]
+      }
+    },
+    "ACHIVE034": {
+      "guia": {
+        "passos": [
+          "Use o traje de um jogador morto."
+        ],
+        "dicas": [
+          "Pegue a roupa no baú de um inimigo morto e equipe."
+        ]
+      }
+    },
+    "ACHIVE035": {
+      "guia": {
+        "passos": [
+          "Entre em um veículo já ocupado por um jogador inimigo."
+        ]
+      }
+    },
+    "ACHIVE036": {
+      "guia": {
+        "passos": [
+          "Preencha seu medidor de incremento ao máximo com uma overdose de analgésicos e bebidas energéticas."
+        ],
+        "dicas": [
+          "Use bebidas energéticas e analgésicos até a barra de incremento encher."
+        ]
+      }
+    }
+  }
 }

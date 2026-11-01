@@ -15,5 +15,187 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "LittleLostThings": {
+      "guia": {
+        "passos": [
+          "Abrace os Nomes (criaturinhas) que encontrar: abraçar o primeiro já desbloqueia."
+        ],
+        "dicas": [
+          "Eles fogem se você correr; chegue devagar."
+        ]
+      }
+    },
+    "KitchenHand": {
+      "guia": {
+        "passos": [
+          "Na Cozinha, use o moedor e termine a receita jogando carne nele."
+        ],
+        "dicas": [
+          "Acontece durante a fuga dos cozinheiros."
+        ]
+      }
+    },
+    "HighlySprung": {
+      "guia": {
+        "passos": [
+          "No covil, pule na cama do Zelador para quicar alto."
+        ]
+      }
+    },
+    "Rascal": {
+      "guia": {
+        "passos": [
+          "Quebre todas as estatuetas (bonecos) espalhadas pela Bocarra."
+        ],
+        "dicas": [
+          "Volte pela seleção de capítulos se faltar alguma."
+        ]
+      }
+    },
+    "LightUpYourLife": {
+      "guia": {
+        "passos": [
+          "Acenda todas as lanternas/velas do jogo com o isqueiro."
+        ],
+        "dicas": [
+          "Use a seleção de capítulos para voltar e acender as que faltaram."
+        ]
+      }
+    },
+    "ThePrison": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 1, A Prisão."
+        ]
+      }
+    },
+    "TheLair": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 2, O Covil."
+        ]
+      }
+    },
+    "TheKitchen": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 3, A Cozinha."
+        ]
+      }
+    },
+    "TheGuestArea": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 4, o Saguão de Convidados."
+        ]
+      }
+    },
+    "TheLadysQuarters": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 5 e veja o final."
+        ]
+      }
+    },
+    "Elusive": {
+      "guia": {
+        "passos": [
+          "Conquista secreta da história principal: escape de um perseguidor sem ser pega."
+        ],
+        "dicas": [
+          "A pista é o texto: siga escapando dos inimigos em vez de se esconder tarde demais."
+        ]
+      }
+    },
+    "Glissando": {
+      "guia": {
+        "passos": [
+          "Ache e toque o piano de brinquedo/instrumento escondido no caminho da Six."
+        ],
+        "dicas": [
+          "Interaja com objetos musicais que encontrar."
+        ]
+      }
+    },
+    "HardToTheCore": {
+      "guia": {
+        "passos": [
+          "Conquista secreta ligada à coragem da Six: aparece num momento específico da história."
+        ],
+        "dicas": [
+          "Explore cada sala e interaja com tudo."
+        ]
+      }
+    },
+    "SoClose": {
+      "guia": {
+        "passos": [
+          "Conquista secreta: morra bem perto de alcançar um objetivo."
+        ],
+        "dicas": [
+          "Acontece naturalmente em perseguições."
+        ]
+      }
+    },
+    "NotAlone": {
+      "guia": {
+        "passos": [
+          "DLC Secrets of the Maw: termine o primeiro capítulo (As Profundezas)."
+        ]
+      }
+    },
+    "FunAndGamesAhead": {
+      "guia": {
+        "passos": [
+          "DLC: termine o segundo capítulo (O Esconderijo)."
+        ]
+      }
+    },
+    "EndInSight": {
+      "guia": {
+        "passos": [
+          "DLC: avance no capítulo final (A Residência)."
+        ]
+      }
+    },
+    "IsAnybodyOutThere": {
+      "guia": {
+        "passos": [
+          "DLC: conquista secreta ligada a um rádio/transmissão nas fases do Fugitivo."
+        ]
+      }
+    },
+    "AshesInTheMaw": {
+      "guia": {
+        "passos": [
+          "DLC: conquista secreta das fases do Fugitivo."
+        ],
+        "dicas": [
+          "Explore cada sala atrás de interações."
+        ]
+      }
+    },
+    "WellMeetAgain": {
+      "guia": {
+        "passos": [
+          "DLC: termine a última fase do Fugitivo."
+        ]
+      }
+    },
+    "AshesToAshes": {
+      "guia": {
+        "passos": [
+          "DLC: encontre os segredos escondidos das fases do Fugitivo."
+        ]
+      }
+    },
+    "ImLosingYou": {
+      "guia": {
+        "passos": [
+          "DLC: conquista secreta da história do Fugitivo."
+        ]
+      }
+    }
+  }
 }

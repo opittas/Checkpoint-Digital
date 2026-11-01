@@ -11,5 +11,27 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_0": {
+      "guia": {
+        "passos": [
+          "Ande pelo corredor: se notar algo diferente (anomalia), volte; se estiver tudo normal, siga em frente.",
+          "Acerte 8 vezes seguidas para sair pela Saída 8."
+        ],
+        "dicas": [
+          "Decore o corredor normal: placas, portas, cartazes e o homem que passa."
+        ]
+      }
+    },
+    "ACH_1": {
+      "guia": {
+        "passos": [
+          "Encontre todas as anomalias do jogo; a lista fica na tela de título."
+        ],
+        "dicas": [
+          "Jogue com calma e observe tudo antes de decidir; repita até ver todas."
+        ]
+      }
+    }
+  }
 }

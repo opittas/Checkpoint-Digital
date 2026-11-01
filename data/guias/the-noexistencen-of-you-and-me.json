@@ -7,5 +7,229 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_1": {
+      "guia": {
+        "passos": [
+          "Use a opção de trapaça na rota da Lilith."
+        ],
+        "dicas": [
+          "O jogo oferece um 'atalho' em algum ponto."
+        ]
+      }
+    },
+    "ACHIEVEMENT_2": {
+      "guia": {
+        "passos": [
+          "Escolha uma opção negativa no diálogo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_3": {
+      "guia": {
+        "passos": [
+          "Descubra as definições do passado e do futuro."
+        ]
+      }
+    },
+    "ACHIEVEMENT_4": {
+      "guia": {
+        "passos": [
+          "Siga a escolha 'FONTAINEBLEAU;OVEN'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_5": {
+      "guia": {
+        "passos": [
+          "Impeça o plano de FONTAINEBLEAU."
+        ]
+      }
+    },
+    "ACHIEVEMENT_6": {
+      "guia": {
+        "passos": [
+          "Conquista ligada aos limites da percepção na história."
+        ]
+      }
+    },
+    "ACHIEVEMENT_7": {
+      "guia": {
+        "passos": [
+          "Configure a interface para o 'segundo jogador'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_8": {
+      "guia": {
+        "passos": [
+          "Monte um prato personalizado (apresentação e serviço)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_9": {
+      "guia": {
+        "passos": [
+          "Descubra quem comeu o bolo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_10": {
+      "guia": {
+        "passos": [
+          "Conquista secreta: siga a rota até a inexistência."
+        ]
+      }
+    },
+    "ACHIEVEMENT_11": {
+      "guia": {
+        "passos": [
+          "Descubra a autoconsciência."
+        ]
+      }
+    },
+    "ACHIEVEMENT_12": {
+      "guia": {
+        "passos": [
+          "Libere a rota romântica do Livro dos Sonhadores."
+        ]
+      }
+    },
+    "ACHIEVEMENT_13": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo da Floresta Prateada."
+        ]
+      }
+    },
+    "ACHIEVEMENT_14": {
+      "guia": {
+        "passos": [
+          "Termine a jornada pela Floresta Prateada."
+        ]
+      }
+    },
+    "ACHIEVEMENT_15": {
+      "guia": {
+        "passos": [
+          "Siga a rota dos Sonhadores."
+        ]
+      }
+    },
+    "ACHIEVEMENT_16": {
+      "guia": {
+        "passos": [
+          "Chegue aos limites do mundo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_17": {
+      "guia": {
+        "passos": [
+          "Caia na armadilha doce da Majestade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_18": {
+      "guia": {
+        "passos": [
+          "Faça uma boa conversa sob a armadilha doce."
+        ]
+      }
+    },
+    "ACHIEVEMENT_19": {
+      "guia": {
+        "passos": [
+          "Leia a frase do 'truque de mágica'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_20": {
+      "guia": {
+        "passos": [
+          "Faça o primeiro encontro no parque."
+        ]
+      }
+    },
+    "ACHIEVEMENT_21": {
+      "guia": {
+        "passos": [
+          "Receba o cuidado da enfermeira."
+        ]
+      }
+    },
+    "ACHIEVEMENT_22": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Você e eu que existem'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_23": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Você que não existe, e eu'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_24": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Você que existe, e eu'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_25": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Eternidade'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_26": {
+      "guia": {
+        "passos": [
+          "Veja uma morte instantânea."
+        ]
+      }
+    },
+    "ACHIEVEMENT_27": {
+      "guia": {
+        "passos": [
+          "Use as habilidades de fuga."
+        ]
+      }
+    },
+    "ACHIEVEMENT_28": {
+      "guia": {
+        "passos": [
+          "Veja a cena do palco instável."
+        ]
+      }
+    },
+    "ACHIEVEMENT_29": {
+      "guia": {
+        "passos": [
+          "Veja o final 'O único mundo'."
+        ]
+      }
+    },
+    "ACHIEVEMENT_30": {
+      "guia": {
+        "passos": [
+          "Escolha sair ou recomeçar no fim."
+        ]
+      }
+    },
+    "ACHIEVEMENT_31": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Adeus'."
+        ],
+        "dicas": [
+          "Salve antes das escolhas finais para ver todos os finais."
+        ]
+      }
+    }
+  }
 }

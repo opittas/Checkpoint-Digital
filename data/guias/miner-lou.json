@@ -15,5 +15,347 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "LEVEL1_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 100 em qualquer dificuldade."
+        ]
+      }
+    },
+    "LEVEL2_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 50 em qualquer dificuldade."
+        ]
+      }
+    },
+    "TUTORIAL_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial."
+        ]
+      }
+    },
+    "LEVEL3_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 50 em qualquer dificuldade."
+        ]
+      }
+    },
+    "LEVEL4_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 50 em qualquer dificuldade."
+        ]
+      }
+    },
+    "LEVEL5_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 50 em qualquer dificuldade."
+        ]
+      }
+    },
+    "LEVEL6_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 100 em qualquer dificuldade."
+        ]
+      }
+    },
+    "KILLING_BLOWS_50": {
+      "guia": {
+        "passos": [
+          "50 inimigos derrotados."
+        ]
+      }
+    },
+    "KILLING_BLOWS_100": {
+      "guia": {
+        "passos": [
+          "100 inimigos derrotados."
+        ]
+      }
+    },
+    "KILLING_BLOWS_500": {
+      "guia": {
+        "passos": [
+          "500 inimigos derrotados."
+        ]
+      }
+    },
+    "KILLING_BLOWS_1000": {
+      "guia": {
+        "passos": [
+          "1000 inimigos derrotados."
+        ]
+      }
+    },
+    "KILLING_BLOWS_5000": {
+      "guia": {
+        "passos": [
+          "5000 inimigos derrotados."
+        ]
+      }
+    },
+    "KILLING_BLOWS_10000": {
+      "guia": {
+        "passos": [
+          "10.000 inimigos derrotados."
+        ]
+      }
+    },
+    "KILLING_BLOWS_100000": {
+      "guia": {
+        "passos": [
+          "100.000 inimigos derrotados."
+        ]
+      }
+    },
+    "KILLING_BLOWS_1000000": {
+      "guia": {
+        "passos": [
+          "1.000.000 de inimigos derrotados."
+        ],
+        "dicas": [
+          "Deixe o jogo rodando nas fases infinitas com uma build forte."
+        ]
+      }
+    },
+    "DPS_DEALT_100": {
+      "guia": {
+        "passos": [
+          "Chegue a 100 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_200": {
+      "guia": {
+        "passos": [
+          "Chegue a 200 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_300": {
+      "guia": {
+        "passos": [
+          "Chegue a 300 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_500": {
+      "guia": {
+        "passos": [
+          "Chegue a 400 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_OVER999": {
+      "guia": {
+        "passos": [
+          "Chegue a 999 DPS."
+        ]
+      }
+    },
+    "LOU_KNOCKED_OUT_5": {
+      "guia": {
+        "passos": [
+          "Lou foi nocauteado 5 vezes."
+        ]
+      }
+    },
+    "LOU_KNOCKED_OUT_25": {
+      "guia": {
+        "passos": [
+          "Lou foi nocauteado 25 vezes."
+        ]
+      }
+    },
+    "LOU_KNOCKED_OUT_100": {
+      "guia": {
+        "passos": [
+          "Lou foi nocauteado 100 vezes."
+        ]
+      }
+    },
+    "LOU_KNOCKED_OUT_1000": {
+      "guia": {
+        "passos": [
+          "Lou foi nocauteado 1000 vezes."
+        ],
+        "dicas": [
+          "Conta ao longo do jogo; deixar o Lou ser derrubado de propósito acelera."
+        ]
+      }
+    },
+    "DAMAGE_DEALT_5000": {
+      "guia": {
+        "passos": [
+          "Cause 5000 de dano no total."
+        ]
+      }
+    },
+    "DAMAGE_DEALT_10000": {
+      "guia": {
+        "passos": [
+          "Cause 10.000 de dano no total."
+        ]
+      }
+    },
+    "DAMAGE_DEALT_50000": {
+      "guia": {
+        "passos": [
+          "Cause 50.000 de dano no total."
+        ]
+      }
+    },
+    "DAMAGE_DEALT_100000": {
+      "guia": {
+        "passos": [
+          "Cause 100.000 de dano no total."
+        ]
+      }
+    },
+    "DAMAGE_DEALT_1000000": {
+      "guia": {
+        "passos": [
+          "Cause 1.000.000 de dano no total."
+        ]
+      }
+    },
+    "DAMAGE_DEALT_10000000": {
+      "guia": {
+        "passos": [
+          "Cause 10.000.000 de dano no total."
+        ],
+        "dicas": [
+          "Vem junto com as outras de dano jogando fases longas."
+        ]
+      }
+    },
+    "DPS_DEALT_1500": {
+      "guia": {
+        "passos": [
+          "Chegue a 1500 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_2000": {
+      "guia": {
+        "passos": [
+          "Chegue a 2000 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_3000": {
+      "guia": {
+        "passos": [
+          "Chegue a 3000 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_4000": {
+      "guia": {
+        "passos": [
+          "Chegue a 4000 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_5000": {
+      "guia": {
+        "passos": [
+          "Chegue a 5000 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_9999": {
+      "guia": {
+        "passos": [
+          "Chegue a 9999 DPS."
+        ],
+        "dicas": [
+          "Combine as sinergias dos companheiros e melhore armas no máximo."
+        ]
+      }
+    },
+    "LEVEL7_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 75 em qualquer dificuldade."
+        ]
+      }
+    },
+    "LEVEL8_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 75 em qualquer dificuldade."
+        ]
+      }
+    },
+    "LEVEL9_VICTORY": {
+      "guia": {
+        "passos": [
+          "Complete a rodada 100 em qualquer dificuldade."
+        ]
+      }
+    },
+    "MUSHROOM_PERFECTION_STORY_1": {
+      "guia": {
+        "passos": [
+          "Colha todos os cogumelos do Bosque dos Cogumelos. (Modo História)."
+        ]
+      }
+    },
+    "MUSHROOM_PERFECTION_ARCADE_1": {
+      "guia": {
+        "passos": [
+          "Colha todos os cogumelos do Bosque dos Cogumelos do Nível 6."
+        ]
+      }
+    },
+    "FLICKERING_WISP_60": {
+      "guia": {
+        "passos": [
+          "Leve a Sinergia do Fogo-Fátuo Tremulante ao nível 60."
+        ]
+      }
+    },
+    "BOUND_ROOT_60": {
+      "guia": {
+        "passos": [
+          "Leve a Sinergia da Raiz Presa ao nível 60."
+        ]
+      }
+    },
+    "QUIET_EYES_60": {
+      "guia": {
+        "passos": [
+          "Leve a Sinergia dos Olhos Quietos ao nível 60."
+        ]
+      }
+    },
+    "DPS_DEALT_6000": {
+      "guia": {
+        "passos": [
+          "Chegue a 6000 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_7000": {
+      "guia": {
+        "passos": [
+          "Chegue a 7000 DPS."
+        ]
+      }
+    },
+    "DPS_DEALT_8000": {
+      "guia": {
+        "passos": [
+          "Chegue a 8000 DPS."
+        ]
+      }
+    }
+  }
 }

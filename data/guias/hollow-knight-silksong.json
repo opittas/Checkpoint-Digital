@@ -19,5 +19,403 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "FIRST_TOOL": {
+      "guia": {
+        "passos": [
+          "Adquira sua primeira Ferramenta."
+        ]
+      }
+    },
+    "ALL_TOOLS": {
+      "guia": {
+        "passos": [
+          "Adquira todas as Ferramentas."
+        ],
+        "dicas": [
+          "Ferramentas vêm de chefes, lojas e exploração; use o inventário para ver lacunas."
+        ]
+      }
+    },
+    "FIRST_SILK_SKILL": {
+      "guia": {
+        "passos": [
+          "Vincule sua primeira Habilidade de Seda."
+        ]
+      }
+    },
+    "ALL_SILK_SKILLS": {
+      "guia": {
+        "passos": [
+          "Vincule todas as Habilidades de Seda."
+        ]
+      }
+    },
+    "FIRST_CREST": {
+      "guia": {
+        "passos": [
+          "Reivindique seu primeiro Brasão."
+        ]
+      }
+    },
+    "ALL_CRESTS": {
+      "guia": {
+        "passos": [
+          "Reivindique todos os Brasões."
+        ],
+        "dicas": [
+          "Cristas (Crests) ficam em salas escondidas e após chefes; explore o mapa todo."
+        ]
+      }
+    },
+    "FIRST_MASK": {
+      "guia": {
+        "passos": [
+          "Adquira 4 Fragmentos de Máscara."
+        ]
+      }
+    },
+    "ALL_MASKS": {
+      "guia": {
+        "passos": [
+          "Adquira todos os Fragmentos de Máscara."
+        ],
+        "dicas": [
+          "Fragmentos de Máscara vêm de exploração, lojas e missões."
+        ]
+      }
+    },
+    "FIRST_SILK_SPOOL": {
+      "guia": {
+        "passos": [
+          "Adquira 2 Fragmentos de Carretel."
+        ]
+      }
+    },
+    "ALL_SILK_SPOOLS": {
+      "guia": {
+        "passos": [
+          "Adquira todos os Fragmentos de Carretel."
+        ]
+      }
+    },
+    "ALL_SILK_HEARTS": {
+      "guia": {
+        "passos": [
+          "Adquira todos os Corações de Seda."
+        ]
+      }
+    },
+    "ALL_MAPS": {
+      "guia": {
+        "passos": [
+          "Adquira um mapa de cada área."
+        ]
+      }
+    },
+    "BELLWAYS_FULL": {
+      "guia": {
+        "passos": [
+          "Abra todas as Vias Campanárias de Fiarlongo."
+        ]
+      }
+    },
+    "BELLWAY_MELODY": {
+      "guia": {
+        "passos": [
+          "Aprenda o Chamado dos Bestiotes."
+        ]
+      }
+    },
+    "TUBES_FULL": {
+      "guia": {
+        "passos": [
+          "Abra todas as Estações Ventrículas da Cidadela."
+        ]
+      }
+    },
+    "JOURNAL_HALF": {
+      "guia": {
+        "passos": [
+          "Conceda o desejo de Nuu."
+        ]
+      }
+    },
+    "JOURNAL_FULL": {
+      "guia": {
+        "passos": [
+          "Receba o Memento de Nuu."
+        ]
+      }
+    },
+    "FLEAS_HALF": {
+      "guia": {
+        "passos": [
+          "Resgate metade das pulgas perdidas de Fiarlongo."
+        ]
+      }
+    },
+    "FLEAS_ALL": {
+      "guia": {
+        "passos": [
+          "Resgate todas as pulgas perdidas de Fiarlongo e receba o presente final delas."
+        ],
+        "dicas": [
+          "Pulgas ficam escondidas em cada área; ouça o som delas e leve à caravana."
+        ]
+      }
+    },
+    "DEFEATED_BELLBEAST": {
+      "guia": {
+        "passos": [
+          "Derrote a Besta dos Sinos."
+        ]
+      }
+    },
+    "DEFEATED_LACE_1": {
+      "guia": {
+        "passos": [
+          "Derrote Tessela nas Docas Profundas."
+        ]
+      }
+    },
+    "DEFEATED_SONG_GOLEM": {
+      "guia": {
+        "passos": [
+          "Derrote o Quarto Vozerio."
+        ]
+      }
+    },
+    "DEFEATED_WIDOW": {
+      "guia": {
+        "passos": [
+          "Derrote a Viúva."
+        ]
+      }
+    },
+    "DEFEATED_LAST_JUDGE_1": {
+      "guia": {
+        "passos": [
+          "Derrote a Última Juíza."
+        ]
+      }
+    },
+    "DEFEATED_COGWORK_DANCERS": {
+      "guia": {
+        "passos": [
+          "Derrote os Dançarinos Mecânicos."
+        ]
+      }
+    },
+    "DEFEATED_TROBBIO": {
+      "guia": {
+        "passos": [
+          "Derrote Trobbio."
+        ]
+      }
+    },
+    "DEFEATED_LACE_2": {
+      "guia": {
+        "passos": [
+          "Derrote Tessela no Berço."
+        ]
+      }
+    },
+    "DEFEATED_PHANTOM_1": {
+      "guia": {
+        "passos": [
+          "Derrote a Fantasma."
+        ]
+      }
+    },
+    "DEFEATED_FIRST_SINNER": {
+      "guia": {
+        "passos": [
+          "Derrote a Primeira Pecadora e vincule o poder dela."
+        ]
+      }
+    },
+    "DEFEATED_CORAL_KING": {
+      "guia": {
+        "passos": [
+          "Derrote o Rei Coral Khann."
+        ]
+      }
+    },
+    "DEFEATED_FLOWER_QUEEN": {
+      "guia": {
+        "passos": [
+          "Derrote Nyleth."
+        ]
+      }
+    },
+    "DEFEATED_HUNTER_QUEEN": {
+      "guia": {
+        "passos": [
+          "Derrote a Skarrcantora Carmelita."
+        ]
+      }
+    },
+    "DEFEATED_GREEN_PRINCE": {
+      "guia": {
+        "passos": [
+          "Derrote os Dançarinos do Trevo."
+        ]
+      }
+    },
+    "FIRST_WISH": {
+      "guia": {
+        "passos": [
+          "Conceda seu primeiro Desejo."
+        ]
+      }
+    },
+    "GOURMAND_WISH": {
+      "guia": {
+        "passos": [
+          "Sacie o Grande Gourmand."
+        ]
+      }
+    },
+    "SHAKRA_FINAL_QUEST": {
+      "guia": {
+        "passos": [
+          "Conceda o desejo de Shakra."
+        ]
+      }
+    },
+    "GARMOND_FINAL_QUEST": {
+      "guia": {
+        "passos": [
+          "Derrote o Garmond Perdido."
+        ]
+      }
+    },
+    "PINSTRESS_WISH": {
+      "guia": {
+        "passos": [
+          "Derrote a Alfinistra."
+        ]
+      }
+    },
+    "EVA_FINAL_QUEST": {
+      "guia": {
+        "passos": [
+          "Vincule Eva."
+        ]
+      }
+    },
+    "BELLHOME": {
+      "guia": {
+        "passos": [
+          "Adquira seu próprio Campalar."
+        ]
+      }
+    },
+    "CITADEL_SONG": {
+      "guia": {
+        "passos": [
+          "Aprenda a canção Tríplice da Cidadela."
+        ]
+      }
+    },
+    "WHITE_FLOWER_GAINED": {
+      "guia": {
+        "passos": [
+          "Reivindique a Flor-da-Eternidade de uma memória distante."
+        ]
+      }
+    },
+    "ENDING_A": {
+      "guia": {
+        "passos": [
+          "Derrote a Grande Mãe Seda e vincule o poder dela."
+        ]
+      }
+    },
+    "ENDING_C": {
+      "guia": {
+        "passos": [
+          "Derrote a Grande Mãe Seda e entrelace-a com a Teia de Almas."
+        ],
+        "atencao": [
+          "Final alternativo: exige requisitos extras antes da luta final."
+        ]
+      }
+    },
+    "ENDING_D": {
+      "guia": {
+        "passos": [
+          "Derrote a Grande Mãe Seda enquanto estiver amaldiçoada."
+        ],
+        "atencao": [
+          "Final amaldiçoado: siga o caminho específico antes da luta final."
+        ]
+      }
+    },
+    "ENDING_E": {
+      "guia": {
+        "passos": [
+          "Derrote a Tessela Perdida e liberte Fiarlongo."
+        ],
+        "atencao": [
+          "Final verdadeiro (Ato 3): requer completar o terceiro ato."
+        ]
+      }
+    },
+    "HERALD_WISH": {
+      "guia": {
+        "passos": [
+          "Conceda o desejo do Arauto."
+        ]
+      }
+    },
+    "COMPLETION": {
+      "guia": {
+        "passos": [
+          "Consiga 100% de conclusão e termine o jogo."
+        ]
+      }
+    },
+    "SPEEDRUN_1": {
+      "guia": {
+        "passos": [
+          "Complete o jogo em menos de 5 horas."
+        ],
+        "atencao": [
+          "Use outro save: siga uma rota direta, sem coletar tudo."
+        ]
+      }
+    },
+    "SPEED_COMPLETION": {
+      "guia": {
+        "passos": [
+          "Consiga 100% de conclusão e termine o jogo em menos de 30 horas."
+        ],
+        "atencao": [
+          "100% em menos de 30 horas; planeje a rota com antecedência."
+        ]
+      }
+    },
+    "STEEL_SOUL": {
+      "guia": {
+        "passos": [
+          "Finalize o jogo no modo Alma de Aço."
+        ],
+        "atencao": [
+          "Modo Steel Soul: morrer apaga o save. Faça após dominar o jogo."
+        ]
+      }
+    },
+    "STEEL_SOUL_FULL": {
+      "guia": {
+        "passos": [
+          "Consiga 100% de conclusão do jogo e finalize o jogo no modo Alma de Aço."
+        ],
+        "atencao": [
+          "100% em Steel Soul; a conquista mais difícil."
+        ]
+      }
+    }
+  }
 }

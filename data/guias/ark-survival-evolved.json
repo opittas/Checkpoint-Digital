@@ -17,5 +17,236 @@
   "avisos": [
     "Chefes exigem muito preparo; é mais fácil em servidor próprio ou single."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_1": {
+      "guia": {
+        "passos": [
+          "Ache os dossiês de todos os espécimes iniciais."
+        ],
+        "dicas": [
+          "Os dossiês ficam em notas pelo mapa da Ilha."
+        ]
+      }
+    },
+    "ACHIEVEMENT_2": {
+      "guia": {
+        "passos": [
+          "Derrote o primeiro Guardião (Broodmother)."
+        ],
+        "dicas": [
+          "Exige os artefatos das cavernas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_4": {
+      "guia": {
+        "passos": [
+          "Pegue todos os artefatos das cavernas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_5": {
+      "guia": {
+        "passos": [
+          "Derrote o segundo Guardião (Megapithecus)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_6": {
+      "guia": {
+        "passos": [
+          "Derrote o terceiro Guardião (Dragon)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_7": {
+      "guia": {
+        "passos": [
+          "Derrote os três Guardiões."
+        ]
+      }
+    },
+    "ACHIEVEMENT_8": {
+      "guia": {
+        "passos": [
+          "Sobreviva um dia e uma noite completos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_9": {
+      "guia": {
+        "passos": [
+          "Domestique um dinossauro."
+        ]
+      }
+    },
+    "ACHIEVEMENT_10": {
+      "guia": {
+        "passos": [
+          "Monte em um dinossauro (precisa da sela)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_11": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível máximo do sobrevivente."
+        ]
+      }
+    },
+    "ACHIEVEMENT_12": {
+      "guia": {
+        "passos": [
+          "Leve um dinossauro ao nível máximo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_13": {
+      "guia": {
+        "passos": [
+          "Monte num T-Rex."
+        ]
+      }
+    },
+    "ACHIEVEMENT_14": {
+      "guia": {
+        "passos": [
+          "Monte num Giganotossauro."
+        ]
+      }
+    },
+    "ACHIEVEMENT_15": {
+      "guia": {
+        "passos": [
+          "Revele mais de 80% do minimapa."
+        ]
+      }
+    },
+    "ACHIEVEMENT_16": {
+      "guia": {
+        "passos": [
+          "Suba ao topo da montanha mais alta do ARK."
+        ]
+      }
+    },
+    "ACHIEVEMENT_17": {
+      "guia": {
+        "passos": [
+          "Chegue ao fundo do oceano."
+        ]
+      }
+    },
+    "ACHIEVEMENT_18": {
+      "guia": {
+        "passos": [
+          "Cure-se da Febre do Pântano."
+        ]
+      }
+    },
+    "ACHIEVEMENT_19": {
+      "guia": {
+        "passos": [
+          "Ascenda no nível Gama (derrote o Overseer no Gama)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_20": {
+      "guia": {
+        "passos": [
+          "Ascenda no nível Beta."
+        ]
+      }
+    },
+    "ACHIEVEMENT_21": {
+      "guia": {
+        "passos": [
+          "Ascenda no nível Alfa."
+        ]
+      }
+    },
+    "ACHIEVEMENT_22": {
+      "guia": {
+        "passos": [
+          "Ache 10% das Notas de Explorador."
+        ]
+      }
+    },
+    "ACHIEVEMENT_23": {
+      "guia": {
+        "passos": [
+          "Ache 20% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_24": {
+      "guia": {
+        "passos": [
+          "Ache 30% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_25": {
+      "guia": {
+        "passos": [
+          "Ache 40% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_26": {
+      "guia": {
+        "passos": [
+          "Ache 50% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_27": {
+      "guia": {
+        "passos": [
+          "Ache 60% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_28": {
+      "guia": {
+        "passos": [
+          "Ache 70% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_29": {
+      "guia": {
+        "passos": [
+          "Ache 80% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_30": {
+      "guia": {
+        "passos": [
+          "Ache 90% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_31": {
+      "guia": {
+        "passos": [
+          "Ache 100% das notas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_32": {
+      "guia": {
+        "passos": [
+          "Domestique todas as criaturas domesticáveis."
+        ]
+      }
+    },
+    "ACHIEVEMENT_33": {
+      "guia": {
+        "passos": [
+          "Derrote os Guardiões do mapa The Center."
+        ]
+      }
+    }
+  }
 }

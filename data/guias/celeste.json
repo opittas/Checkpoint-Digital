@@ -29,16 +29,235 @@
   ],
   "conquistas": {
     "PICO8": {
-      "dica": "O jogo PICO-8 fica num computador do Capítulo 3 (Hotel) e também no menu principal depois de achá-lo."
+      "dica": "O jogo PICO-8 fica num computador do Capítulo 3 (Hotel) e também no menu principal depois de achá-lo.",
+      "guia": {
+        "passos": [
+          "Jogue o PICO-8 no computador do Capítulo 3 e termine."
+        ]
+      }
     },
     "WOW": {
-      "dica": "No fim do Capítulo 9, numa sala escondida que exige vários movimentos avançados."
+      "dica": "No fim do Capítulo 9, numa sala escondida que exige vários movimentos avançados.",
+      "guia": {
+        "passos": [
+          "Ache o morango lunar no fim do Capítulo 9."
+        ]
+      }
     },
     "ONEUP": {
-      "dica": "Pegue 6 morangos seguidos sem encostar no chão, por exemplo no Capítulo 1."
+      "dica": "Pegue 6 morangos seguidos sem encostar no chão, por exemplo no Capítulo 1.",
+      "guia": {
+        "passos": [
+          "Pegue 6 morangos seguidos sem tocar o chão."
+        ]
+      }
     },
     "CSIDES": {
-      "dica": "Os Lados C abrem com todos os Corações dos Lados B."
+      "dica": "Os Lados C abrem com todos os Corações dos Lados B.",
+      "guia": {
+        "passos": [
+          "Termine todos os Lados C."
+        ]
+      }
+    },
+    "CH7": {
+      "guia": {
+        "passos": [
+          "Termine o Capítulo 7 (Cume)."
+        ]
+      }
+    },
+    "CH1": {
+      "guia": {
+        "passos": [
+          "Complete o Capítulo 1."
+        ]
+      }
+    },
+    "CH2": {
+      "guia": {
+        "passos": [
+          "Complete o Capítulo 2."
+        ]
+      }
+    },
+    "CH3": {
+      "guia": {
+        "passos": [
+          "Complete o Capítulo 3."
+        ]
+      }
+    },
+    "CH4": {
+      "guia": {
+        "passos": [
+          "Complete o Capítulo 4."
+        ]
+      }
+    },
+    "CH5": {
+      "guia": {
+        "passos": [
+          "Complete o Capítulo 5."
+        ]
+      }
+    },
+    "CH6": {
+      "guia": {
+        "passos": [
+          "Complete o Capítulo 6."
+        ]
+      }
+    },
+    "STRB1": {
+      "guia": {
+        "passos": [
+          "Junte 30 morangos."
+        ]
+      }
+    },
+    "STRB2": {
+      "guia": {
+        "passos": [
+          "Junte 80 morangos."
+        ]
+      }
+    },
+    "STRB3": {
+      "guia": {
+        "passos": [
+          "Junte 175 morangos."
+        ],
+        "dicas": [
+          "Volte pelos capítulos: o mapa mostra quantos faltam."
+        ]
+      }
+    },
+    "CASS": {
+      "guia": {
+        "passos": [
+          "Ache a fita cassete de qualquer capítulo."
+        ]
+      }
+    },
+    "HEART1": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 1."
+        ]
+      }
+    },
+    "BSIDE1": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 1."
+        ]
+      }
+    },
+    "HEART2": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 2."
+        ]
+      }
+    },
+    "BSIDE2": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 2."
+        ]
+      }
+    },
+    "HEART3": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 3."
+        ]
+      }
+    },
+    "BSIDE3": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 3."
+        ]
+      }
+    },
+    "HEART4": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 4."
+        ]
+      }
+    },
+    "BSIDE4": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 4."
+        ]
+      }
+    },
+    "HEART5": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 5."
+        ]
+      }
+    },
+    "BSIDE5": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 5."
+        ]
+      }
+    },
+    "HEART6": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 6."
+        ]
+      }
+    },
+    "BSIDE6": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 6."
+        ]
+      }
+    },
+    "HEART7": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 7."
+        ]
+      }
+    },
+    "BSIDE7": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 7."
+        ]
+      }
+    },
+    "HEART8": {
+      "guia": {
+        "passos": [
+          "Ache o Coração de Cristal do Capítulo 8."
+        ]
+      }
+    },
+    "BSIDE8": {
+      "guia": {
+        "passos": [
+          "Complete o Lado B do Capítulo 8."
+        ]
+      }
+    },
+    "FAREWELL": {
+      "guia": {
+        "passos": [
+          "Termine o Capítulo 9 (Adeus)."
+        ]
+      }
     }
   }
 }

@@ -11,5 +11,118 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ach1": {
+      "guia": {
+        "passos": [
+          "Vença as 3 rodadas contra o Dealer."
+        ]
+      }
+    },
+    "ach2": {
+      "guia": {
+        "passos": [
+          "Termine o jogo com o final de 'Portões de Bronze'."
+        ]
+      }
+    },
+    "ach3": {
+      "guia": {
+        "passos": [
+          "Tome os comprimidos para entrar no modo 'Dobro ou Nada'."
+        ]
+      }
+    },
+    "ach4": {
+      "guia": {
+        "passos": [
+          "Comece o 'Dobro ou Nada' 10 vezes."
+        ]
+      }
+    },
+    "ach5": {
+      "guia": {
+        "passos": [
+          "Saque logo no início do 'Dobro ou Nada'."
+        ]
+      }
+    },
+    "ach6": {
+      "guia": {
+        "passos": [
+          "Dobre os ganhos no 'Dobro ou Nada' e vença."
+        ]
+      }
+    },
+    "ach7": {
+      "guia": {
+        "passos": [
+          "Saque mais de 1.000.000 no 'Dobro ou Nada'."
+        ]
+      }
+    },
+    "ach8": {
+      "guia": {
+        "passos": [
+          "Atire em si mesmo com festim em 50/50."
+        ]
+      }
+    },
+    "ach9": {
+      "guia": {
+        "passos": [
+          "Encontre o café da manhã secreto."
+        ]
+      }
+    },
+    "ach10": {
+      "guia": {
+        "passos": [
+          "Perca mais de 100K no 'Dobro ou Nada'."
+        ]
+      }
+    },
+    "ach11": {
+      "guia": {
+        "passos": [
+          "Mate o Dealer de forma especial."
+        ]
+      }
+    },
+    "ach12": {
+      "guia": {
+        "passos": [
+          "Use todos os itens em um turno no 'Dobro ou Nada'."
+        ]
+      }
+    },
+    "ach13": {
+      "guia": {
+        "passos": [
+          "Revele um cartucho real com a lupa e atire em si mesmo."
+        ]
+      }
+    },
+    "ach14": {
+      "guia": {
+        "passos": [
+          "Escute a música da casa noturna por mais de 1 minuto."
+        ]
+      }
+    },
+    "ach15": {
+      "guia": {
+        "passos": [
+          "Serre o cano, atire em si mesmo e morra."
+        ]
+      }
+    },
+    "ach16": {
+      "guia": {
+        "passos": [
+          "Veja o placar de líderes."
+        ]
+      }
+    }
+  }
 }

@@ -19,5 +19,388 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "2033_air_bender": {
+      "guia": {
+        "passos": [
+          "Mate 50 humanos com armas pneumáticas."
+        ]
+      }
+    },
+    "2033_cowboy": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos usando revólveres."
+        ]
+      }
+    },
+    "2033_demolitionist": {
+      "guia": {
+        "passos": [
+          "Exploda o túnel e a câmara de vácuo na ESTAÇÃO AMALDIÇOADA."
+        ]
+      }
+    },
+    "2033_dj_artyom": {
+      "guia": {
+        "passos": [
+          "Na fase POSTO AVANÇADO, chegue à torre de rádio e transmita a mensagem do comandante."
+        ]
+      }
+    },
+    "2033_enlightened": {
+      "guia": {
+        "passos": [
+          "Descubra a verdade."
+        ],
+        "dicas": [
+          "O final 'Iluminado' depende de pontos morais ocultos: escute conversas, ajude pessoas, poupe inimigos que se rendem e toque violão/pianos. Um flash de luz indica ponto ganho."
+        ]
+      }
+    },
+    "2033_fireinthehole": {
+      "guia": {
+        "passos": [
+          "Mate 20 espreitadores."
+        ]
+      }
+    },
+    "2033_flame_grenade": {
+      "guia": {
+        "passos": [
+          "Mate 30 inimigos com granadas incendiárias."
+        ]
+      }
+    },
+    "2033_generous": {
+      "guia": {
+        "passos": [
+          "Ajude os pobres: uma moeda para a criança, remédio para o doente. Você ajuda todo mundo que vê."
+        ],
+        "dicas": [
+          "Dê balas aos mendigos e ajude quem pede. Ajuda também no final 'Iluminado'."
+        ]
+      }
+    },
+    "2033_gunman": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos com escopetas."
+        ]
+      }
+    },
+    "2033_heavy_reader": {
+      "guia": {
+        "passos": [
+          "Mate um bibliotecário."
+        ]
+      }
+    },
+    "2033_hedge_hopper": {
+      "guia": {
+        "passos": [
+          "Na fase LINHA DE FRENTE, mate todos os soldados inimigos do Exército Vermelho e fascistas."
+        ],
+        "dicas": [
+          "Exige matar todos os soldados das duas facções no nível; incompatível com 'Invisible man' na mesma passagem."
+        ]
+      }
+    },
+    "2033_hunter": {
+      "guia": {
+        "passos": [
+          "Mate 200 mutantes."
+        ]
+      }
+    },
+    "2033_inquisitor": {
+      "guia": {
+        "passos": [
+          "Mate 2 demônios."
+        ]
+      }
+    },
+    "2033_invisible_man": {
+      "guia": {
+        "passos": [
+          "Complete a fase LINHA DE FRENTE sem matar ninguém."
+        ],
+        "dicas": [
+          "Em FRONTLINE, passe pelos túneis entre as linhas sem matar ninguém, usando furtividade."
+        ]
+      }
+    },
+    "2033_ka_boom": {
+      "guia": {
+        "passos": [
+          "Exploda 30 inimigos."
+        ]
+      }
+    },
+    "2033_manhattan_project": {
+      "guia": {
+        "passos": [
+          "Passe 60 segundos num foco de radiação."
+        ]
+      }
+    },
+    "2033_mashine_gun": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos com fuzis de assalto."
+        ]
+      }
+    },
+    "2033_max_33": {
+      "guia": {
+        "passos": [
+          "Beba em todas as ocasiões."
+        ],
+        "dicas": [
+          "Aceite toda bebida oferecida por NPCs ao longo da campanha."
+        ]
+      }
+    },
+    "2033_merciful": {
+      "guia": {
+        "passos": [
+          "Complete a fase ESTAÇÃO NEGRA sem matar ou nocautear nenhum inimigo."
+        ],
+        "dicas": [
+          "Em BLACK STATION, passe sem matar nem nocautear; furtividade total, desligue luzes."
+        ]
+      }
+    },
+    "2033_metro_trader": {
+      "guia": {
+        "passos": [
+          "Faça 30 negócios nas lojas de armas."
+        ]
+      }
+    },
+    "2033_snake": {
+      "guia": {
+        "passos": [
+          "Mate 15 inimigos furtivamente."
+        ]
+      }
+    },
+    "2033_ninja_33": {
+      "guia": {
+        "passos": [
+          "Mate 30 inimigos com facas de arremesso."
+        ]
+      }
+    },
+    "2033_nosalis_hunter": {
+      "guia": {
+        "passos": [
+          "Mate 100 nosalis."
+        ]
+      }
+    },
+    "2033_pathoanatomist": {
+      "guia": {
+        "passos": [
+          "Mate 5 amebas."
+        ]
+      }
+    },
+    "2033_published_33": {
+      "guia": {
+        "passos": [
+          "Encontre todas as 51 páginas escondidas do diário do Artyom."
+        ],
+        "dicas": [
+          "Páginas de diário espalhadas pelos níveis; use um guia de coletáveis por fase, pois são perdíveis dentro de cada nível."
+        ]
+      }
+    },
+    "2033_pyro": {
+      "guia": {
+        "passos": [
+          "Mate 30 inimigos com lança-chamas."
+        ]
+      }
+    },
+    "2033_quick_draw": {
+      "guia": {
+        "passos": [
+          "Na fase CAÇADOR, mate os nosalis antes que atravessem as grades de ventilação."
+        ],
+        "dicas": [
+          "Ainda no começo, mate os nosálidos rapidamente antes que quebrem a grade de ventilação."
+        ]
+      }
+    },
+    "2033_raider": {
+      "guia": {
+        "passos": [
+          "Na fase DEPÓSITO, mate o primeiro guarda em silêncio e invada a estação fascista sem ser notado."
+        ],
+        "dicas": [
+          "Mate o primeiro guarda em silêncio e entre na estação sem disparar alarmes."
+        ]
+      }
+    },
+    "2033_ranger": {
+      "guia": {
+        "passos": [
+          "Encontre todos os esconderijos dos Rangers na Cidade Morta."
+        ],
+        "dicas": [
+          "Os esconderijos ficam em DEAD CITY 1 e 2; explore cada prédio e área lateral."
+        ]
+      }
+    },
+    "2033_rescue_ranger": {
+      "guia": {
+        "passos": [
+          "Salve um grupo de Vermelhos do cativeiro fascista."
+        ]
+      }
+    },
+    "2033_safecracker_33": {
+      "guia": {
+        "passos": [
+          "Abra 15 cofres trancados."
+        ]
+      }
+    },
+    "2033_scrooge": {
+      "guia": {
+        "passos": [
+          "Junte 1000 balas de grau militar."
+        ]
+      }
+    },
+    "2033_shocking": {
+      "guia": {
+        "passos": [
+          "Faça 30 mortes com o Hellbreath."
+        ]
+      }
+    },
+    "2033_slice_dice": {
+      "guia": {
+        "passos": [
+          "Mate 30 humanos em combate corpo a corpo."
+        ]
+      }
+    },
+    "2033_sniper_33": {
+      "guia": {
+        "passos": [
+          "Mate 30 humanos com tiros na cabeça."
+        ]
+      }
+    },
+    "2033_marksman": {
+      "guia": {
+        "passos": [
+          "Mate 15 humanos com tiros na cabeça a pelo menos 30 metros."
+        ]
+      }
+    },
+    "2033_soft_touch": {
+      "guia": {
+        "passos": [
+          "Desarme 15 armadilhas de arame."
+        ]
+      }
+    },
+    "2033_spartan": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no Modo Spartan."
+        ],
+        "dicas": [
+          "Escolha o modo Spartan ao iniciar uma nova campanha."
+        ]
+      }
+    },
+    "2033_spider_hunter": {
+      "guia": {
+        "passos": [
+          "Mate 10 aranhas."
+        ]
+      }
+    },
+    "2033_stun_melee": {
+      "guia": {
+        "passos": [
+          "Nocauteie 30 humanos em combate corpo a corpo."
+        ]
+      }
+    },
+    "2033_survival": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no Modo Sobrevivência."
+        ],
+        "dicas": [
+          "Escolha o modo Survival ao iniciar uma nova campanha."
+        ]
+      }
+    },
+    "2033_tank": {
+      "guia": {
+        "passos": [
+          "Mate 10 inimigos seguidos sem sofrer dano."
+        ]
+      }
+    },
+    "2033_tonic_man": {
+      "guia": {
+        "passos": [
+          "Use um kit médico 75 vezes."
+        ]
+      }
+    },
+    "2033_true_ranger": {
+      "guia": {
+        "passos": [
+          "Torne-se um verdadeiro ranger."
+        ]
+      }
+    },
+    "2033_warior": {
+      "guia": {
+        "passos": [
+          "Mate 100 humanos."
+        ]
+      }
+    },
+    "2033_watchman_hunter": {
+      "guia": {
+        "passos": [
+          "Mate 50 vigias."
+        ]
+      }
+    },
+    "2033_weaponsmith": {
+      "guia": {
+        "passos": [
+          "Mate pelo menos um inimigo com cada arma do jogo."
+        ],
+        "dicas": [
+          "Compre/ache cada arma ao longo do jogo e mate pelo menos um inimigo com cada uma."
+        ]
+      }
+    },
+    "2033_wheeler_dealer": {
+      "guia": {
+        "passos": [
+          "Troque 500 balas militares 5.45 nos quiosques de troca."
+        ]
+      }
+    },
+    "2033_who_goes_there": {
+      "guia": {
+        "passos": [
+          "Limpe a máscara de gás 20 vezes."
+        ]
+      }
+    }
+  }
 }

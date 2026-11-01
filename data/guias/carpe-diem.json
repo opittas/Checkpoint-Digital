@@ -7,5 +7,26 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "AI_END": {
+      "guia": {
+        "passos": [
+          "Termine a história conversando com a garota até o fim."
+        ],
+        "dicas": [
+          "O jogo é curto (menos de 1 hora)."
+        ]
+      }
+    },
+    "AI_END2": {
+      "guia": {
+        "passos": [
+          "Jogue até a cena final da versão 2020 e veja os créditos."
+        ],
+        "dicas": [
+          "Se não desbloquear, jogue de novo fazendo escolhas diferentes."
+        ]
+      }
+    }
+  }
 }

@@ -7,5 +7,146 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_CHAPTER1_ALLCOLLECTED": {
+      "guia": {
+        "passos": [
+          "Junte todos os itens do capítulo 1."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL1_SUCCESS": {
+      "guia": {
+        "passos": [
+          "Passe a fase 1 do capítulo 1."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL3_PERFECT": {
+      "guia": {
+        "passos": [
+          "Faça a fase 3 (cozinha) de forma perfeita."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL2_LEVEL3_SUCCESS": {
+      "guia": {
+        "passos": [
+          "Passe as fases 2 e 3."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL5_SUCCESS": {
+      "guia": {
+        "passos": [
+          "Passe a fase 5."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL6_SUCCESS": {
+      "guia": {
+        "passos": [
+          "Passe a fase 6."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL7_SUCCESS": {
+      "guia": {
+        "passos": [
+          "Passe a fase 7."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL8_SUCCESS": {
+      "guia": {
+        "passos": [
+          "Passe a fase 8."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL9_SUCCESS": {
+      "guia": {
+        "passos": [
+          "Passe a fase 9."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_BE": {
+      "guia": {
+        "passos": [
+          "Veja o final ruim do capítulo 1."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_GE": {
+      "guia": {
+        "passos": [
+          "Veja o final neutro do capítulo 1."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_PE": {
+      "guia": {
+        "passos": [
+          "Veja o final perfeito do capítulo 1."
+        ]
+      }
+    },
+    "ACH_CHAPTER1_LEVEL2_ALLLIKE": {
+      "guia": {
+        "passos": [
+          "Curta tudo na fase 2."
+        ]
+      }
+    },
+    "ACH_CHAPTER2_ENDING_1": {
+      "guia": {
+        "passos": [
+          "Veja o primeiro final do capítulo 2."
+        ]
+      }
+    },
+    "ACH_CHAPTER2_ENDING_2": {
+      "guia": {
+        "passos": [
+          "Veja o segundo final do capítulo 2."
+        ]
+      }
+    },
+    "ACH_CHAPTER2_ENDING_3": {
+      "guia": {
+        "passos": [
+          "Veja o terceiro final do capítulo 2."
+        ]
+      }
+    },
+    "ACH_CHAPTER3_HOUSEWORK": {
+      "guia": {
+        "passos": [
+          "Faça todas as tarefas de casa no capítulo 3."
+        ]
+      }
+    },
+    "ACH_CHAPTER3_SECRET_PLAN": {
+      "guia": {
+        "passos": [
+          "Ache a planta secreta no capítulo 3."
+        ]
+      }
+    },
+    "ACH_CHAPTER3_ENDING_1": {
+      "guia": {
+        "passos": [
+          "Veja o primeiro final do capítulo 3."
+        ]
+      }
+    },
+    "ACH_CHAPTER3_ENDING_2": {
+      "guia": {
+        "passos": [
+          "Veja o segundo final do capítulo 3."
+        ]
+      }
+    }
+  }
 }

@@ -17,5 +17,243 @@
   "avisos": [
     "Precisa de partidas online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "kills_first": {
+      "guia": {
+        "passos": [
+          "Execute seu primeiro abate."
+        ]
+      }
+    },
+    "kills_easy": {
+      "guia": {
+        "passos": [
+          "Faça 5 abates no total como Impostor."
+        ]
+      }
+    },
+    "kills_medium": {
+      "guia": {
+        "passos": [
+          "Faça 50 abates."
+        ]
+      }
+    },
+    "kills_hard": {
+      "guia": {
+        "passos": [
+          "Faça 150 abates."
+        ]
+      }
+    },
+    "task_complete_easy": {
+      "guia": {
+        "passos": [
+          "Conclua 10 tarefas."
+        ]
+      }
+    },
+    "task_complete_medium": {
+      "guia": {
+        "passos": [
+          "Conclua 100 tarefas."
+        ]
+      }
+    },
+    "task_complete_hard": {
+      "guia": {
+        "passos": [
+          "Conclua 500 tarefas."
+        ],
+        "dicas": [
+          "Jogue em salas com muitas tarefas."
+        ]
+      }
+    },
+    "wins_skeld": {
+      "guia": {
+        "passos": [
+          "Vença 3 partidas no Skeld."
+        ]
+      }
+    },
+    "wins_mira": {
+      "guia": {
+        "passos": [
+          "Vença 3 partidas no MIRA."
+        ]
+      }
+    },
+    "wins_polus": {
+      "guia": {
+        "passos": [
+          "Vença 3 partidas no Polus."
+        ]
+      }
+    },
+    "wins_airship": {
+      "guia": {
+        "passos": [
+          "Vença 3 partidas no Airship."
+        ]
+      }
+    },
+    "survive_two_impostors": {
+      "guia": {
+        "passos": [
+          "Vença uma partida com 2 Impostores e os dois vivos no fim."
+        ]
+      }
+    },
+    "win_all_tasks": {
+      "guia": {
+        "passos": [
+          "Vença como Tripulante com todas as tarefas feitas."
+        ]
+      }
+    },
+    "win_sabotage": {
+      "guia": {
+        "passos": [
+          "Vença por sabotagem crítica (reator, oxigênio...)."
+        ]
+      }
+    },
+    "win_kills": {
+      "guia": {
+        "passos": [
+          "Vença como Impostor matando todos os Tripulantes."
+        ]
+      }
+    },
+    "survive_crewmate": {
+      "guia": {
+        "passos": [
+          "Sobreviva e vença como Tripulante."
+        ]
+      }
+    },
+    "win_impostor_vote": {
+      "guia": {
+        "passos": [
+          "Vença como Impostor quando a votação expulsa o último Tripulante."
+        ]
+      }
+    },
+    "card_first_try": {
+      "guia": {
+        "passos": [
+          "Passe o cartão na primeira tentativa."
+        ],
+        "dicas": [
+          "Arraste em velocidade constante e moderada."
+        ]
+      }
+    },
+    "kill_during_lights": {
+      "guia": {
+        "passos": [
+          "Mate alguém durante a sabotagem de luzes."
+        ]
+      }
+    },
+    "die_during_medscan": {
+      "guia": {
+        "passos": [
+          "Seja morto durante o escaneamento na enfermaria."
+        ]
+      }
+    },
+    "fix_own_sabotage": {
+      "guia": {
+        "passos": [
+          "Conserte a sabotagem que você causou."
+        ]
+      }
+    },
+    "three_kills_before_meeting": {
+      "guia": {
+        "passos": [
+          "Faça 3 abates antes de uma reunião."
+        ]
+      }
+    },
+    "win_always_correct_votes": {
+      "guia": {
+        "passos": [
+          "Vença como Tripulante votando só no Impostor."
+        ]
+      }
+    },
+    "no_vents_impostor_win": {
+      "guia": {
+        "passos": [
+          "Vença como Impostor sem usar dutos."
+        ]
+      }
+    },
+    "hns_survive_crewmate": {
+      "guia": {
+        "passos": [
+          "Sobreviva no Esconde-esconde."
+        ]
+      }
+    },
+    "hns_impostor_kill_all": {
+      "guia": {
+        "passos": [
+          "Mate todos no Esconde-esconde."
+        ]
+      }
+    },
+    "hns_complete_all_tasks": {
+      "guia": {
+        "passos": [
+          "Faça todas as tarefas no Esconde-esconde."
+        ]
+      }
+    },
+    "kill_while_shifted": {
+      "guia": {
+        "passos": [
+          "Como Metamorfo, mate a pessoa que você está disfarçado."
+        ]
+      }
+    },
+    "block_kill_as_guardian": {
+      "guia": {
+        "passos": [
+          "Como Anjo da Guarda, proteja alguém de um abate."
+        ]
+      }
+    },
+    "hns_crewmate_wins_easy": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas escondendo."
+        ]
+      }
+    },
+    "hns_crewmate_wins_hard": {
+      "guia": {
+        "passos": [
+          "Vença 50 partidas escondendo."
+        ]
+      }
+    },
+    "hns_impostor_kills_easy": {
+      "guia": {
+        "passos": [
+          "Faça 100 abates procurando."
+        ]
+      }
+    },
+    "hns_impostor_kills_hard": {
+      "guia": {
+        "passos": [
+          "Faça 200 abates procurando."
+        ]
+      }
+    }
+  }
 }

@@ -15,5 +15,211 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "achievement_1": {
+      "guia": {
+        "passos": [
+          "No capítulo 1, entre na capela da sala (resolvendo o enigma do relógio e dos símbolos)."
+        ],
+        "dicas": [
+          "As conquistas são do próprio capítulo: explore cada canto da sala."
+        ]
+      }
+    },
+    "achievement_2": {
+      "guia": {
+        "passos": [
+          "No capítulo 1, ache e use o chapéu novo do Dale."
+        ]
+      }
+    },
+    "achievement_3": {
+      "guia": {
+        "passos": [
+          "No capítulo 1, descubra o que aconteceu com o cervo (cabeça na parede)."
+        ]
+      }
+    },
+    "achievement_4": {
+      "guia": {
+        "passos": [
+          "No capítulo 1, descubra a história do Bob."
+        ]
+      }
+    },
+    "achievement_5": {
+      "guia": {
+        "passos": [
+          "No capítulo 1, ache e leia o quadrinho."
+        ]
+      }
+    },
+    "achievement_11": {
+      "guia": {
+        "passos": [
+          "No capítulo 2, ache a gravata nova."
+        ]
+      }
+    },
+    "achievement_12": {
+      "guia": {
+        "passos": [
+          "No capítulo 2, resolva o enigma do peixe."
+        ]
+      }
+    },
+    "achievement_13": {
+      "guia": {
+        "passos": [
+          "No capítulo 2, veja o final alternativo."
+        ],
+        "dicas": [
+          "Tome uma decisão diferente na cena final."
+        ]
+      }
+    },
+    "achievement_14": {
+      "guia": {
+        "passos": [
+          "No capítulo 2, atenda o telefonema."
+        ]
+      }
+    },
+    "achievement_15": {
+      "guia": {
+        "passos": [
+          "No capítulo 2, chegue ao Hotel Great Northern."
+        ]
+      }
+    },
+    "achievement_25": {
+      "guia": {
+        "passos": [
+          "Conquista secreta do capítulo 2: ache o 'paraíso'."
+        ]
+      }
+    },
+    "achievement_26": {
+      "guia": {
+        "passos": [
+          "Conquista secreta do capítulo 2: coloque um item no lugar certo."
+        ]
+      }
+    },
+    "achievement_21": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 1."
+        ]
+      }
+    },
+    "achievement_22": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 2 (é pago à parte)."
+        ]
+      }
+    },
+    "achievement_23": {
+      "guia": {
+        "passos": [
+          "Veja o destino do Dale no capítulo 1."
+        ]
+      }
+    },
+    "achievement_24": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 2 com o destino do Dale."
+        ]
+      }
+    },
+    "achievement_31": {
+      "guia": {
+        "passos": [
+          "Ache o frasco vermelho no capítulo 1."
+        ]
+      }
+    },
+    "achievement_32": {
+      "guia": {
+        "passos": [
+          "Ache o frasco azul no capítulo 2."
+        ]
+      }
+    },
+    "achievement_33": {
+      "guia": {
+        "passos": [
+          "Ache o frasco verde no capítulo 1."
+        ]
+      }
+    },
+    "achievement_27": {
+      "guia": {
+        "passos": [
+          "Escape da mente no capítulo 1."
+        ]
+      }
+    },
+    "achievement_28": {
+      "guia": {
+        "passos": [
+          "Faça uma xícara de café no capítulo 2."
+        ]
+      }
+    },
+    "achievement_41": {
+      "guia": {
+        "passos": [
+          "Ache o cubo de madeira no capítulo 1."
+        ]
+      }
+    },
+    "achievement_42": {
+      "guia": {
+        "passos": [
+          "Ache o cubo de ferro no capítulo 1."
+        ]
+      }
+    },
+    "achievement_43": {
+      "guia": {
+        "passos": [
+          "Ache o cubo de vidro no capítulo 1."
+        ]
+      }
+    },
+    "achievement_44": {
+      "guia": {
+        "passos": [
+          "Desbloqueie a Mente do Presente no capítulo 2."
+        ]
+      }
+    },
+    "achievement_45": {
+      "guia": {
+        "passos": [
+          "Desbloqueie a Mente do Passado no capítulo 2."
+        ]
+      }
+    },
+    "achievement_46": {
+      "guia": {
+        "passos": [
+          "Desbloqueie a Mente do Futuro no capítulo 2."
+        ]
+      }
+    },
+    "achievement_48": {
+      "guia": {
+        "passos": [
+          "Assista ao filme e encontre o Dale do filme no capítulo 2."
+        ],
+        "dicas": [
+          "O filme Paradox está no YouTube; um código dele é usado no jogo."
+        ]
+      }
+    }
+  }
 }

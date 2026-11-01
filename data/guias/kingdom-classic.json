@@ -15,5 +15,322 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ON_THE_FIRST_DAY": {
+      "guia": {
+        "passos": [
+          "Recrute 8 arqueiros no 1º dia: dê moedas aos andarilhos e compre arcos na barraca."
+        ],
+        "dicas": [
+          "Pegue moedas dos baús e coelhos no começo."
+        ]
+      }
+    },
+    "ON_THE_SECOND_DAY": {
+      "guia": {
+        "passos": [
+          "Ganhe muros de graça no 2º dia: não construa muros até lá; o jogo oferece um muro grátis."
+        ]
+      }
+    },
+    "ON_THE_THIRD_DAY": {
+      "guia": {
+        "passos": [
+          "Só acenda a fogueira do acampamento no 3º dia."
+        ]
+      }
+    },
+    "ON_THE_FOURTH_DAY": {
+      "guia": {
+        "passos": [
+          "Cace 20 cervos até o fim do 4º dia com arqueiros."
+        ]
+      }
+    },
+    "FOR_FIVE_DAYS": {
+      "guia": {
+        "passos": [
+          "Não mate nada (nem coelhos) até o 6º dia."
+        ],
+        "dicas": [
+          "Não recrute arqueiros, eles caçam sozinhos."
+        ]
+      }
+    },
+    "BY_DAY_SIXTH": {
+      "guia": {
+        "passos": [
+          "Encha a bolsa de moedas até transbordar no 6º dia."
+        ]
+      }
+    },
+    "ON_THE_EIGTH_DAY": {
+      "guia": {
+        "passos": [
+          "Pegue as moedas no ar sem deixá-las cair no chão."
+        ]
+      }
+    },
+    "ON_THE_NINTH_DAY": {
+      "guia": {
+        "passos": [
+          "Não deixe o cavalo cansar e correr sozinho até o 9º dia."
+        ]
+      }
+    },
+    "THE_TENTH_DAY": {
+      "guia": {
+        "passos": [
+          "Destrua o portal dos Greed até o 10º dia com arqueiros e cavaleiros."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_5": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 5."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_10": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 10."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_15": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 15."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_20": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 20."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_25": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 25."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_30": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 30."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_35": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 35."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_40": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 40."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_45": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 45."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_50": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 50."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_55": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 55."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_60": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 60."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_65": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 65."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_70": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 70."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_75": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 75."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_80": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 80."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_85": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 85."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_90": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 90."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_95": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 95."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "SURVIVED_UNTIL_DAY_100": {
+      "guia": {
+        "passos": [
+          "Sobreviva além do dia 100."
+        ],
+        "dicas": [
+          "Use muros de pedra e mantenha arqueiros nas torres."
+        ]
+      }
+    },
+    "BY_THE_SEVENTH_DAY": {
+      "guia": {
+        "passos": [
+          "Limpe um acre de terra (corte árvores) até o fim do 7º dia."
+        ]
+      }
+    },
+    "SAFE_IN_25": {
+      "guia": {
+        "passos": [
+          "Deixe o reino seguro em até 25 dias destruindo todos os portais e o penhasco dos Greed."
+        ],
+        "dicas": [
+          "Ganhe velocidade expandindo cedo e treinando cavaleiros."
+        ]
+      }
+    },
+    "SAFE_IN_30": {
+      "guia": {
+        "passos": [
+          "Deixe o reino seguro em até 30 dias destruindo todos os portais e o penhasco dos Greed."
+        ],
+        "dicas": [
+          "Ganhe velocidade expandindo cedo e treinando cavaleiros."
+        ]
+      }
+    },
+    "SAFE_IN_35": {
+      "guia": {
+        "passos": [
+          "Deixe o reino seguro em até 35 dias destruindo todos os portais e o penhasco dos Greed."
+        ],
+        "dicas": [
+          "Ganhe velocidade expandindo cedo e treinando cavaleiros."
+        ]
+      }
+    },
+    "SAFE_IN_40": {
+      "guia": {
+        "passos": [
+          "Deixe o reino seguro em até 40 dias destruindo todos os portais e o penhasco dos Greed."
+        ],
+        "dicas": [
+          "Ganhe velocidade expandindo cedo e treinando cavaleiros."
+        ]
+      }
+    }
+  }
 }

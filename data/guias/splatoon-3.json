@@ -24,15 +24,42 @@
   ],
   "conquistas": {
     "heroi_final": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Termine o Modo Herói.",
+          "Volte para Alterna e complete a última missão secreta."
+        ],
+        "dicas": [
+          "Prepare-se: é uma fase longa e difícil."
+        ]
+      }
     },
     "anarquia": {
       "dificil": true,
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Jogue Batalhas Anárquicas e suba os ranks.",
+          "Para S+, conquiste a série de Promoção."
+        ],
+        "dicas": [
+          "Foque em um modo e uma arma que você domine."
+        ]
+      }
     },
     "salmon": {
       "dificil": true,
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Jogue Salmon Run no Grizzco.",
+          "Suba de título ganhando turnos."
+        ],
+        "dicas": [
+          "Comunique-se com o time e dê prioridade aos chefes."
+        ]
+      }
     },
     "so_fim": {
       "guia": {
@@ -42,7 +69,82 @@
       }
     },
     "so_paletas": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Na DLC Side Order, use todas as paletas de cores.",
+          "Complete a torre com cada uma."
+        ],
+        "dicas": [
+          "Melhore a Gema de Cores para facilitar."
+        ]
+      }
+    },
+    "heroi": {
+      "guia": {
+        "passos": [
+          "Entre no bueiro na praça de Splatsville.",
+          "Complete a fase final em Alterna."
+        ],
+        "dicas": [
+          "Melhore a Roupa de Herói com os itens de cada fase."
+        ]
+      }
+    },
+    "heroi_100": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases de cada ilha de Alterna.",
+          "Encontre os colecionáveis em cada fase."
+        ],
+        "dicas": [
+          "Use o mapa de cada ilha para checar o que falta."
+        ]
+      }
+    },
+    "nivel": {
+      "guia": {
+        "passos": [
+          "Jogue Batalhas Normais e Anárquicas para ganhar experiência.",
+          "Cada vitória dá mais pontos."
+        ],
+        "dicas": [
+          "Use o tíquete de experiência dobrada da loja."
+        ]
+      }
+    },
+    "rei_salmao": {
+      "guia": {
+        "passos": [
+          "Complete o turno extra 'Rei Salmonídeo' (aparece na barra do topo).",
+          "Derrote o Rei antes do tempo acabar."
+        ],
+        "dicas": [
+          "Mire os ovos dourados no canhão."
+        ]
+      }
+    },
+    "tableturf": {
+      "guia": {
+        "passos": [
+          "Ganhe cartas e jogue Tableturf no lobby.",
+          "Vença todos os adversários de cada nível."
+        ],
+        "dicas": [
+          "Melhore o baralho com cartas raras."
+        ]
+      }
+    },
+    "splatfest": {
+      "guia": {
+        "passos": [
+          "Escolha um lado quando houver Splatfest.",
+          "Jogue pelo menos uma partida."
+        ],
+        "dicas": [
+          "Os Splatfests aparecem em datas anunciadas."
+        ]
+      }
     }
   }
 }

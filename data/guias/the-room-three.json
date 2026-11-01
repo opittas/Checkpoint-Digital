@@ -11,5 +11,97 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "TUTORIAL_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 1."
+        ],
+        "dicas": [
+          "Use a lente."
+        ]
+      }
+    },
+    "LIGHTHOUSE_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o Farol."
+        ]
+      }
+    },
+    "CLOCKTOWER_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a Torre do Relógio."
+        ]
+      }
+    },
+    "WORKSHOP_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a Forja."
+        ]
+      }
+    },
+    "OBSERVATORY_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o Observatório."
+        ]
+      }
+    },
+    "IMPRISONED_ENDING": {
+      "guia": {
+        "passos": [
+          "É o final padrão: termine a história e aceite o que o Artesão propõe."
+        ],
+        "dicas": [
+          "Depois do final você pode voltar ao último capítulo para tentar os outros."
+        ]
+      }
+    },
+    "ESCAPE_ENDING": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Fuga'.",
+          "Os finais extras exigem achar as peças escondidas nos capítulos (o mapa mostra a contagem)."
+        ],
+        "dicas": [
+          "Volte aos capítulos pelo mapa para pegar o que faltou."
+        ]
+      }
+    },
+    "RELEASE_ENDING": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Libertado'.",
+          "É o final verdadeiro: exige todas as peças escondidas dos capítulos."
+        ],
+        "dicas": [
+          "Faça este por último."
+        ]
+      }
+    },
+    "LOST_ENDING": {
+      "guia": {
+        "passos": [
+          "Veja o final 'Banido'.",
+          "Também depende das peças escondidas e da escolha no final."
+        ],
+        "dicas": [
+          "Use um guia de finais se travar."
+        ]
+      }
+    },
+    "ALL_ENDINGS": {
+      "guia": {
+        "passos": [
+          "Veja os 4 finais."
+        ],
+        "dicas": [
+          "Recarregue o último capítulo para tentar cada final."
+        ]
+      }
+    }
+  }
 }

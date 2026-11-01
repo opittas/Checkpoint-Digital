@@ -7,5 +7,63 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_STABLECOMP_NORM": {
+      "guia": {
+        "passos": [
+          "Complete uma sequência estável inteira na dificuldade normal."
+        ],
+        "dicas": [
+          "Aprenda os padrões dos inimigos."
+        ]
+      }
+    },
+    "ACH_STABLECOMP_EASY": {
+      "guia": {
+        "passos": [
+          "Complete uma sequência estável no fácil."
+        ],
+        "dicas": [
+          "Faça primeiro para aprender."
+        ]
+      }
+    },
+    "ACH_STABLECOMP_HARD": {
+      "guia": {
+        "passos": [
+          "Complete uma sequência estável no difícil."
+        ],
+        "dicas": [
+          "Use as melhores armas."
+        ]
+      }
+    },
+    "ACH_INSTABLECOMP_NORM": {
+      "guia": {
+        "passos": [
+          "Complete uma sequência instável no normal."
+        ],
+        "dicas": [
+          "As salas mudam a cada jogo."
+        ]
+      }
+    },
+    "ACH_INSTABLECOMP_EASY": {
+      "guia": {
+        "passos": [
+          "Complete uma sequência instável no fácil."
+        ]
+      }
+    },
+    "ACH_INSTABLECOMP_HARD": {
+      "guia": {
+        "passos": [
+          "Complete uma sequência instável no difícil."
+        ],
+        "dicas": [
+          "Guarde curas para a sala final."
+        ]
+      }
+    }
+  }
 }

@@ -27,22 +27,381 @@
   ],
   "conquistas": {
     "ACHIEVEMENT_WINONLINEBATTLE7": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Ganhou online 7 vezes!"
+        ]
+      }
     },
     "ACHIEVEMENT_ENTERONLINEBATTLE": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Jogou Batalhas Online pela primeira vez!"
+        ]
+      }
     },
     "ACHIEVEMENT_ENTERONLINEBATTLE7": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Jogou Batalhas Online 7 vezes!"
+        ]
+      }
     },
     "ACHIEVEMENT_WINENDLESSBATTLE": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Ganhou Batalha Sem Fim 7 vezes!"
+        ]
+      }
     },
     "ACHIEVEMENT_SENDPRESENT": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Enviou um Presente!"
+        ]
+      }
     },
     "ACHIEVEMENT_RECIEVEPRESENT": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Recebeu um presente!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_ACHIEVEALL": {
+      "guia": {
+        "passos": [
+          "Obteve todas as conquistas!"
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todas as outras."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO00": {
+      "guia": {
+        "passos": [
+          "Completou o prólogo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO01": {
+      "guia": {
+        "passos": [
+          "Completou a Saga Saiyajin!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO02": {
+      "guia": {
+        "passos": [
+          "Completou a Saga Retorno dos Saiyajins!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO03": {
+      "guia": {
+        "passos": [
+          "Completou a Saga das Forças Ginyu!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO04": {
+      "guia": {
+        "passos": [
+          "Completou a Saga do Freeza!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO05": {
+      "guia": {
+        "passos": [
+          "Completou a Saga do Cell!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO06": {
+      "guia": {
+        "passos": [
+          "Completou a Saga da Nº 18!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO07": {
+      "guia": {
+        "passos": [
+          "Completou a Saga do Majin Boo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO08": {
+      "guia": {
+        "passos": [
+          "Comp. Saga Bills, o Deus da Destruição!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO09": {
+      "guia": {
+        "passos": [
+          "Comp. Saga de Demigra, o Deus Demoníaco!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SCENARIO10": {
+      "guia": {
+        "passos": [
+          "Comp. a Saga do Lendário Super Saiyajin!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERGOK": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Goku completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERPIC": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Piccolo completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERKLL": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Kuririn completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERVGT": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Vegeta completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERGHL": {
+      "guia": {
+        "passos": [
+          "Completou treinamento com Gohan e Videl!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERGNY": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Ginyu completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERFRZ": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Freeza completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERG18": {
+      "guia": {
+        "passos": [
+          "Treinamento com a Nº 18 completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERCL4": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Cell completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERSTN": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Mr. Satan completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERGTX": {
+      "guia": {
+        "passos": [
+          "Treinamento com o Gotenks completo!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERBLS": {
+      "guia": {
+        "passos": [
+          "Completou o treinamento com o Bills!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_GETDRAGONBALL": {
+      "guia": {
+        "passos": [
+          "Obteve sua primeira Esfera do Dragão!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_2NDDRAGONBALL": {
+      "guia": {
+        "passos": [
+          "Encontrou a Esfera de Duas Estrelas!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_4THDRAGONBALL": {
+      "guia": {
+        "passos": [
+          "Encontrou a Esfera de Quatro Estrelas!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_SUMMONSHENLONG": {
+      "guia": {
+        "passos": [
+          "Reuniu 7 Esferas e invocou Shenlong!"
+        ],
+        "dicas": [
+          "Esferas caem em Missões Paralelas (quando aparece a cena de recompensa); junte as 7."
+        ]
+      }
+    },
+    "ACHIEVEMENT_ALLCHARA": {
+      "guia": {
+        "passos": [
+          "Desbloq. todos personagens e variações!"
+        ],
+        "dicas": [
+          "Personagens e variações são desbloqueados pela história e missões paralelas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_ALLSTAGE": {
+      "guia": {
+        "passos": [
+          "Esteve em todos os estágios!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_REGISTERFAVORITE": {
+      "guia": {
+        "passos": [
+          "Adicionou Pat. do Tempo aos Favoritos!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_CLEARPARALLEL": {
+      "guia": {
+        "passos": [
+          "Finalizou 1 Missão Paralela!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_CLEARPARALLEL7": {
+      "guia": {
+        "passos": [
+          "Finalizou 7 Missões Paralelas!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_CLEARPARALLELL50PER": {
+      "guia": {
+        "passos": [
+          "Proporção de MP completas acima de 50%!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_CLEARPARALLEL80PER": {
+      "guia": {
+        "passos": [
+          "Proporção de MP completas acima de 80%!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_CLEARPARALLELALL": {
+      "guia": {
+        "passos": [
+          "Finalizou todas as Missões Paralelas!"
+        ],
+        "dicas": [
+          "Algumas Missões Paralelas exigem condições ocultas para aparecer; consulte a lista no jogo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_COMPLETEULTSKILL": {
+      "guia": {
+        "passos": [
+          "Reuniu todos os golpes finais!"
+        ],
+        "dicas": [
+          "Golpes vêm de mestres, missões paralelas e drops raros; repita missões para os drops."
+        ]
+      }
+    },
+    "ACHIEVEMENT_COMPLETESPASKILL": {
+      "guia": {
+        "passos": [
+          "Reuniu todos os super ataques!"
+        ],
+        "dicas": [
+          "Mesma ideia: repita missões paralelas e compre na loja."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SUCCEEDEDTRAINING": {
+      "guia": {
+        "passos": [
+          "Completou 7 Autopatrulhas!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_WATCHBATTLE7": {
+      "guia": {
+        "passos": [
+          "Observou 7 batalhas!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_GAIN500000ZENY": {
+      "guia": {
+        "passos": [
+          "Reuniu 500.000 zeni!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_ENTERENDLESSBATTLE": {
+      "guia": {
+        "passos": [
+          "Participou de Batalha Sem Fim 7 vezes!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_RESSURECTFELLOW7": {
+      "guia": {
+        "passos": [
+          "Reviveu aliados 7x em partidas online!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_MASTERFRIENDSHIP": {
+      "guia": {
+        "passos": [
+          "Níveis de amizade máx. com todos mestres."
+        ],
+        "dicas": [
+          "Termine o treinamento de um mestre e continue falando com ele e treinando juntos."
+        ]
+      }
     }
   }
 }

@@ -7,5 +7,106 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Player": {
+      "guia": {
+        "passos": [
+          "Vença uma partida."
+        ],
+        "dicas": [
+          "Comece contra a IA."
+        ]
+      }
+    },
+    "Advance": {
+      "guia": {
+        "passos": [
+          "Ganhe 10 pontos de torneio (TMR)."
+        ],
+        "dicas": [
+          "Jogue torneios."
+        ]
+      }
+    },
+    "Champion": {
+      "guia": {
+        "passos": [
+          "Chegue a 300 TMR."
+        ]
+      }
+    },
+    "Elite": {
+      "guia": {
+        "passos": [
+          "Chegue a 50 TMR."
+        ]
+      }
+    },
+    "Expert": {
+      "guia": {
+        "passos": [
+          "Chegue a 100 TMR."
+        ]
+      }
+    },
+    "Level_10": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 10 jogando partidas."
+        ]
+      }
+    },
+    "Level_20": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 20."
+        ]
+      }
+    },
+    "Level_30": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 30."
+        ]
+      }
+    },
+    "Master": {
+      "guia": {
+        "passos": [
+          "Chegue a 200 TMR."
+        ]
+      }
+    },
+    "Treasure": {
+      "guia": {
+        "passos": [
+          "Junte 500 moedas."
+        ],
+        "dicas": [
+          "Vença partidas e torneios."
+        ]
+      }
+    },
+    "Victory_10": {
+      "guia": {
+        "passos": [
+          "Vença 10 jogos."
+        ]
+      }
+    },
+    "Victory_50": {
+      "guia": {
+        "passos": [
+          "Vença 50 jogos."
+        ]
+      }
+    },
+    "Victory_100": {
+      "guia": {
+        "passos": [
+          "Vença 100 jogos."
+        ]
+      }
+    }
+  }
 }

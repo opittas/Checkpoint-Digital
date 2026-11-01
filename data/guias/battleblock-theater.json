@@ -11,5 +11,222 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH01_CAST_MEMBER": {
+      "guia": {
+        "passos": [
+          "Complete a sequência de abertura da história em qualquer modo."
+        ]
+      }
+    },
+    "ACH02_SEASONED_PERFORMER": {
+      "guia": {
+        "passos": [
+          "Complete os primeiros quatro finais em qualquer modo."
+        ]
+      }
+    },
+    "ACH03_VIRTUOSO": {
+      "guia": {
+        "passos": [
+          "Ganhe A++ em 10 níveis."
+        ],
+        "dicas": [
+          "Exige todas as gemas e um tempo rápido."
+        ]
+      }
+    },
+    "ACH04_SOLO_STAR": {
+      "guia": {
+        "passos": [
+          "Ganhe nota em todos os níveis (sem Extras) no modo solo Normal."
+        ]
+      }
+    },
+    "ACH05_COOP_STAR": {
+      "guia": {
+        "passos": [
+          "Ganhe nota em todos os níveis no cooperativo Normal."
+        ]
+      }
+    },
+    "ACH06_INSANE_SOLO_STAR": {
+      "guia": {
+        "passos": [
+          "Ganhe nota em todos os níveis no modo solo Insano."
+        ]
+      }
+    },
+    "ACH07_INSANE_COOP_STAR": {
+      "guia": {
+        "passos": [
+          "Ganhe nota em todos os níveis no cooperativo Insano."
+        ]
+      }
+    },
+    "ACH08_CROWD_PLEASER": {
+      "guia": {
+        "passos": [
+          "Complete todos os Extras."
+        ]
+      }
+    },
+    "ACH09_SECRET_HAT_HUNTER": {
+      "guia": {
+        "passos": [
+          "Junte 10 chapéus dourados."
+        ]
+      }
+    },
+    "ACH10_HATS_OFF": {
+      "guia": {
+        "passos": [
+          "Ganhe nota nos 8 finais."
+        ]
+      }
+    },
+    "ACH11_THE_PROFESSIONAL": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas de arena."
+        ]
+      }
+    },
+    "ACH12_ALL_AROUND_JOE": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de cada modo de arena."
+        ]
+      }
+    },
+    "ACH13_SECRET_FINDER": {
+      "guia": {
+        "passos": [
+          "Ache um nível secreto."
+        ]
+      }
+    },
+    "ACH14_NAIL_FILE_CAKE": {
+      "guia": {
+        "passos": [
+          "Liberte um prisioneiro na Loja de Presentes."
+        ]
+      }
+    },
+    "ACH15_BLACK_MARKETEER": {
+      "guia": {
+        "passos": [
+          "Compre uma arma nova na Loja de Presentes."
+        ]
+      }
+    },
+    "ACH16_JAIL_BREAKER": {
+      "guia": {
+        "passos": [
+          "Liberte 50 prisioneiros."
+        ]
+      }
+    },
+    "ACH17_SOCIAL_BUTTERFLY": {
+      "guia": {
+        "passos": [
+          "Liberte todos os prisioneiros de um formato de cabeça."
+        ]
+      }
+    },
+    "ACH18_FREEDOM_HERO": {
+      "guia": {
+        "passos": [
+          "Liberte todos os prisioneiros."
+        ]
+      }
+    },
+    "ACH19_ARMED_AND_DANGEROUS": {
+      "guia": {
+        "passos": [
+          "Compre todas as armas."
+        ]
+      }
+    },
+    "ACH20_FIRST_TIME_TRADER": {
+      "guia": {
+        "passos": [
+          "Faça uma troca com alguém."
+        ]
+      }
+    },
+    "ACH21_TAKE_A_BOW": {
+      "guia": {
+        "passos": [
+          "Complete um nível extra no modo História."
+        ]
+      }
+    },
+    "ACH22_TRAITOR": {
+      "guia": {
+        "passos": [
+          "Mate seu parceiro 50 vezes."
+        ]
+      }
+    },
+    "ACH23_DEADLY_PERFORMER": {
+      "guia": {
+        "passos": [
+          "Consiga 100 abates."
+        ]
+      }
+    },
+    "ACH24_CHICKEN_TOUCHER": {
+      "guia": {
+        "passos": [
+          "Jogue online com alguém que já tem essa conquista."
+        ],
+        "dicas": [
+          "Pergunte nos fóruns da Steam."
+        ]
+      }
+    },
+    "ACH25_MELEE_MASTER": {
+      "guia": {
+        "passos": [
+          "Use todos os golpes corpo a corpo."
+        ]
+      }
+    },
+    "ACH26_WEAPONS_MASTER": {
+      "guia": {
+        "passos": [
+          "Use todas as armas com sucesso."
+        ]
+      }
+    },
+    "ACH27_CONSOLATION_PRIZE": {
+      "guia": {
+        "passos": [
+          "Morra muitas vezes."
+        ]
+      }
+    },
+    "ACH28_PRISON_FOOD": {
+      "guia": {
+        "passos": [
+          "Seja comido vivo."
+        ]
+      }
+    },
+    "ACH29_THEATER_CRITIC": {
+      "guia": {
+        "passos": [
+          "Complete 10 níveis de uma playlist de destaque."
+        ]
+      }
+    },
+    "ACH30_THEATER_MANAGER": {
+      "guia": {
+        "passos": [
+          "Baixe e hospede um jogo de níveis de usuários."
+        ]
+      }
+    }
+  }
 }

@@ -1,10 +1,315 @@
 {
   "resumo": "Platina direta: sem conquistas de dificuldade e com seleção de capítulos para recuperar colecionáveis, desafios de missão e relíquias.",
   "roadmap": [
-    { "titulo": "Campanha", "texto": "Jogue em qualquer dificuldade pegando os colecionáveis que encontrar." },
-    { "titulo": "Desafios e colecionáveis", "texto": "Use a seleção de capítulos para os Desafios de Missão, brinquedos, páginas do Códice e fragmentos de relíquia." },
-    { "titulo": "Aprimoramentos", "texto": "Junte moeda para maximizar escudo, runas, corpo a corpo e Essências Demoníacas; conclua o Domínio de todas as armas." }
+    {
+      "titulo": "Campanha",
+      "texto": "Jogue em qualquer dificuldade pegando os colecionáveis que encontrar."
+    },
+    {
+      "titulo": "Desafios e colecionáveis",
+      "texto": "Use a seleção de capítulos para os Desafios de Missão, brinquedos, páginas do Códice e fragmentos de relíquia."
+    },
+    {
+      "titulo": "Aprimoramentos",
+      "texto": "Junte moeda para maximizar escudo, runas, corpo a corpo e Essências Demoníacas; conclua o Domínio de todas as armas."
+    }
   ],
-  "avisos": ["Algumas conquistas pedem tudo 'em um único espaço de salvamento'."],
-  "conquistas": {}
+  "avisos": [
+    "Algumas conquistas pedem tudo 'em um único espaço de salvamento'."
+  ],
+  "conquistas": {
+    "NEW_ACHIEVEMENT_1_0": {
+      "guia": {
+        "passos": [
+          "Conclua o capítulo: Vilarejo de Khalim."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "guia": {
+        "passos": [
+          "Conclua o capítulo: Núcleo da Barreira."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "guia": {
+        "passos": [
+          "Conclua o capítulo: A Cidade Sagrada de Aratum."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "guia": {
+        "passos": [
+          "Conclua o capítulo: Pináculo de Nerathul."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "guia": {
+        "passos": [
+          "Conclua o capítulo: Porto das Almas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "guia": {
+        "passos": [
+          "Conclua o capítulo: Ressurreição."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "guia": {
+        "passos": [
+          "Derrote o Antigo e Ahzrak Aprimorado."
+        ],
+        "dicas": [
+          "Chefes finais da campanha."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "guia": {
+        "passos": [
+          "Conclua a campanha em qualquer dificuldade."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "guia": {
+        "passos": [
+          "Execute a Deliriosa Campeã."
+        ],
+        "dicas": [
+          "Mini-chefe opcional em portal secreto."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "guia": {
+        "passos": [
+          "Execute um Caçador Agaddon."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "guia": {
+        "passos": [
+          "Execute um demônio Komodo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "guia": {
+        "passos": [
+          "Adquira seu primeiro aprimoramento de arma."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "guia": {
+        "passos": [
+          "Conclua o Desafio de Domínio de uma única arma."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "guia": {
+        "passos": [
+          "Conclua o Desafio de Domínio de todas as armas."
+        ],
+        "dicas": [
+          "Cada arma tem um Desafio de Domínio no menu de armas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "guia": {
+        "passos": [
+          "Adquira a Besta de Força Balística."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de escudo na categoria básica."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "guia": {
+        "passos": [
+          "Adquira sua primeira Runa de Escudo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de uma única runa de escudo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de armas corpo a corpo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos básicos de escudo, de runas de escudo e de armas corpo a corpo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "guia": {
+        "passos": [
+          "Adquira seu primeiro aprimoramento de Essência Demoníaca."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de munição de Essência Demoníaca."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de armadura de Essência Demoníaca."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de saúde de Essência Demoníaca."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de Essência Demoníaca."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "guia": {
+        "passos": [
+          "Conclua todos os Desafios de Missão na campanha."
+        ],
+        "dicas": [
+          "Os desafios de cada missão aparecem no menu de pausa; dá para repetir missões."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "guia": {
+        "passos": [
+          "Adquira todos os demônios de brinquedo colecionáveis."
+        ],
+        "dicas": [
+          "Os brinquedos ficam em segredos; use o mapa e o Seletor de Capítulos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "guia": {
+        "passos": [
+          "Adquira todas as páginas de história do Códice."
+        ],
+        "dicas": [
+          "Páginas do Códice ficam pelas missões; o mapa marca as que faltam."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "guia": {
+        "passos": [
+          "Conclua a campanha Revelações."
+        ],
+        "dicas": [
+          "DLC/expansão Revelações."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "guia": {
+        "passos": [
+          "Adquira o Traje Pretor."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "guia": {
+        "passos": [
+          "Adquira a Lança com Corrente."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos de uma única habilidade da Lança com Corrente."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "guia": {
+        "passos": [
+          "Adquira todos os aprimoramentos da Lança com Corrente em um único espaço de salvamento."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "guia": {
+        "passos": [
+          "Complete uma Relíquia de cinco fragmentos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "guia": {
+        "passos": [
+          "Complete todas as Relíquias em um único espaço de salvamento."
+        ],
+        "dicas": [
+          "Fragmentos de Relíquia ficam em segredos das missões."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+      "guia": {
+        "passos": [
+          "Conclua um Ritual de Poder."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+      "guia": {
+        "passos": [
+          "Adquira a Escopeta 93."
+        ],
+        "dicas": [
+          "Fica escondida em uma missão; a Escopeta 93 é um segredo clássico."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "guia": {
+        "passos": [
+          "Derrote Xal'Goroth, o Aprisionado."
+        ]
+      }
+    }
+  }
 }

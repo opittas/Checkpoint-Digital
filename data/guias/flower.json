@@ -7,5 +7,116 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_Dream": {
+      "guia": {
+        "passos": [
+          "Termine todos os sonhos e entre na sala final secreta."
+        ]
+      }
+    },
+    "ACH_Nature": {
+      "guia": {
+        "passos": [
+          "Floresça 10.000 flores no total."
+        ],
+        "dicas": [
+          "Vem naturalmente jogando."
+        ]
+      }
+    },
+    "ACH_Urban": {
+      "guia": {
+        "passos": [
+          "Termine o último sonho acordando toda a cidade."
+        ]
+      }
+    },
+    "ACH_Memories": {
+      "guia": {
+        "passos": [
+          "Fique 3 minutos em um sonho antes de voltar ao quarto."
+        ]
+      }
+    },
+    "ACH_Palette": {
+      "guia": {
+        "passos": [
+          "Pinte a grama com 3 cores diferentes."
+        ],
+        "dicas": [
+          "Use flores de cores diferentes."
+        ]
+      }
+    },
+    "ACH_Wind": {
+      "guia": {
+        "passos": [
+          "Ative os moinhos e viaje com o vento 7 vezes."
+        ]
+      }
+    },
+    "ACH_Illumination": {
+      "guia": {
+        "passos": [
+          "Ilumine um lago escuro."
+        ]
+      }
+    },
+    "ACH_Pure": {
+      "guia": {
+        "passos": [
+          "No sonho da tempestade, chegue à cidade sem levar dano."
+        ]
+      }
+    },
+    "ACH_Stars": {
+      "guia": {
+        "passos": [
+          "Solte todos os nomes no céu nos créditos."
+        ]
+      }
+    },
+    "ACH_flOw": {
+      "guia": {
+        "passos": [
+          "Encontre o easter egg de flOw."
+        ]
+      }
+    },
+    "ACH_WelcomeBack": {
+      "guia": {
+        "passos": [
+          "Jogue de novo depois de uma semana sem abrir o jogo."
+        ],
+        "dicas": [
+          "Mude o relógio do sistema se quiser acelerar."
+        ]
+      }
+    },
+    "ACH_HealthyPlay": {
+      "guia": {
+        "passos": [
+          "Faça uma pausa de 10 minutos entre sonhos."
+        ]
+      }
+    },
+    "ACH_Beginning": {
+      "guia": {
+        "passos": [
+          "Comece o primeiro sonho."
+        ]
+      }
+    },
+    "ACH_Discovery": {
+      "guia": {
+        "passos": [
+          "Encontre uma flor secreta em qualquer sonho."
+        ],
+        "dicas": [
+          "Flores secretas soltam pétalas diferentes."
+        ]
+      }
+    }
+  }
 }

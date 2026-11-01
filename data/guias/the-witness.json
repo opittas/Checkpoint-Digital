@@ -11,5 +11,28 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "endgame": {
+      "guia": {
+        "passos": [
+          "Ative os lasers das áreas da ilha (7 bastam) e suba a montanha.",
+          "Resolva os painéis do interior da montanha até o final."
+        ],
+        "dicas": [
+          "Fazer todas as áreas ajuda a aprender as regras usadas na montanha."
+        ]
+      }
+    },
+    "challenge": {
+      "guia": {
+        "passos": [
+          "O Desafio fica escondido sob a montanha (acesso pelo interior, perto do final).",
+          "É uma sequência de painéis aleatórios com tempo limitado pela música."
+        ],
+        "dicas": [
+          "Treine as regras de cada tipo de painel; o desafio pode ser reiniciado quantas vezes quiser."
+        ]
+      }
+    }
+  }
 }

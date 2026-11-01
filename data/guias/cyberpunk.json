@@ -1,34 +1,524 @@
 {
   "resumo": "Platina tranquila e sem conquistas de dificuldade. O cuidado principal são os finais e as escolhas do Phantom Liberty: crie saves manuais nos pontos indicados e recarregue.",
   "roadmap": [
-    { "titulo": "História + romances", "texto": "Avance a história principal fazendo as linhas da Judy, Panam, River e Kerry — cada uma tem conquista." },
-    { "titulo": "Limpe os distritos", "texto": "Gigs e ocorrências do NCPD em cada distrito dão 8 conquistas. Faça também todos os Ciberpsicopatas." },
-    { "titulo": "Phantom Liberty", "texto": "Faça a expansão antes do final do jogo base. Crie um save antes de decidir o destino da Songbird: os 4 'Reis' e A Torre dependem dessas escolhas." },
-    { "titulo": "Finais", "texto": "Na missão do ponto sem volta (\"Nocturne Op55N1\"), salve manualmente e recarregue para O Diabo, A Estrela, O Sol e Temperança." },
-    { "titulo": "Limpeza", "texto": "Itens do Johnny, murais de tarô, dataterms de viagem rápida, todos os veículos e conquistas de combate." }
+    {
+      "titulo": "História + romances",
+      "texto": "Avance a história principal fazendo as linhas da Judy, Panam, River e Kerry — cada uma tem conquista."
+    },
+    {
+      "titulo": "Limpe os distritos",
+      "texto": "Gigs e ocorrências do NCPD em cada distrito dão 8 conquistas. Faça também todos os Ciberpsicopatas."
+    },
+    {
+      "titulo": "Phantom Liberty",
+      "texto": "Faça a expansão antes do final do jogo base. Crie um save antes de decidir o destino da Songbird: os 4 'Reis' e A Torre dependem dessas escolhas."
+    },
+    {
+      "titulo": "Finais",
+      "texto": "Na missão do ponto sem volta (\"Nocturne Op55N1\"), salve manualmente e recarregue para O Diabo, A Estrela, O Sol e Temperança."
+    },
+    {
+      "titulo": "Limpeza",
+      "texto": "Itens do Johnny, murais de tarô, dataterms de viagem rápida, todos os veículos e conquistas de combate."
+    }
   ],
   "avisos": [
     "Finais e escolhas da Songbird são excludentes: use saves manuais.",
     "Alguns murais de tarô ficam em áreas de missões — use um mapa de localização."
   ],
   "conquistas": {
-    "TheDevil": { "missavel": true, "dica": "Final da Arasaka. Recarregue o save do ponto sem volta." },
-    "TheStar": { "missavel": true, "dica": "Final com a Panam e os Aldecaldos (exige a linha da Panam completa)." },
-    "TheSun": { "missavel": true, "dica": "Final da Afterlife com a Rogue (exige a linha da Rogue/Johnny)." },
-    "Temperance": { "missavel": true, "dica": "Deixe o Johnny ficar com o corpo no final." },
-    "TheTower": { "missavel": true, "dlc": "Phantom Liberty", "dica": "Final exclusivo do Phantom Liberty — tem que ser escolhido antes do final do jogo base." },
-    "KingOfTheCups": { "missavel": true, "dlc": "Phantom Liberty" },
-    "KingOfThePentacles": { "missavel": true, "dlc": "Phantom Liberty" },
-    "KingOfTheWands": { "missavel": true, "dlc": "Phantom Liberty" },
-    "KingOfTheSwords": { "missavel": true, "dlc": "Phantom Liberty" },
-    "Kingmaker": { "dlc": "Phantom Liberty" },
-    "AllThePresidentsMen": { "dlc": "Phantom Liberty" },
-    "DirtyWork": { "dlc": "Phantom Liberty" },
-    "HydraIsDead": { "dlc": "Phantom Liberty" },
-    "EasyComeEasyGo": { "dlc": "Phantom Liberty" },
-    "IHateSpider": { "dlc": "Phantom Liberty" },
-    "RelicMaster": { "dlc": "Phantom Liberty" },
-    "DogtownLaw": { "dlc": "Phantom Liberty" },
-    "Gearhead": { "dica": "Deixe para o fim: junte eurodólares com contratos e venda de itens." }
+    "TheDevil": {
+      "missavel": true,
+      "dica": "Final da Arasaka. Recarregue o save do ponto sem volta.",
+      "guia": {
+        "passos": [
+          "Ajude o Takemura a vingar a morte do Saburo Arasaka."
+        ],
+        "atencao": [
+          "Final: escolha confiar na Arasaka (Hanako) na missão 'Nocturne Op55N1'. Faça um save antes do ponto sem volta para pegar todos os finais."
+        ]
+      }
+    },
+    "TheStar": {
+      "missavel": true,
+      "dica": "Final com a Panam e os Aldecaldos (exige a linha da Panam completa).",
+      "guia": {
+        "passos": [
+          "Deixe Night City com os Aldecaldos."
+        ],
+        "atencao": [
+          "Final dos Aldecaldos: exige completar a história da Panam."
+        ]
+      }
+    },
+    "TheSun": {
+      "missavel": true,
+      "dica": "Final da Afterlife com a Rogue (exige a linha da Rogue/Johnny).",
+      "guia": {
+        "passos": [
+          "Torne-se uma lenda da Afterlife."
+        ],
+        "atencao": [
+          "Final com Johnny/Rogue atacando a Arasaka; para a variante secreta, ganhe afinidade alta com Johnny."
+        ]
+      }
+    },
+    "Temperance": {
+      "missavel": true,
+      "dica": "Deixe o Johnny ficar com o corpo no final.",
+      "guia": {
+        "passos": [
+          "Deixe o Johnny Silverhand ficar com o seu corpo."
+        ],
+        "atencao": [
+          "Variação de qualquer final em que V deixa Johnny ficar com o corpo."
+        ]
+      }
+    },
+    "TheTower": {
+      "missavel": true,
+      "dlc": "Phantom Liberty",
+      "dica": "Final exclusivo do Phantom Liberty — tem que ser escolhido antes do final do jogo base.",
+      "guia": {
+        "passos": [
+          "Conclua “Epitáfio”."
+        ],
+        "atencao": [
+          "Final do DLC Phantom Liberty (com Reed). Exige o DLC."
+        ]
+      }
+    },
+    "KingOfTheCups": {
+      "missavel": true,
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Atenda ao pedido da Songbird."
+        ],
+        "atencao": [
+          "Final do Phantom Liberty: ajude Songbird. As 4 'King of' são finais diferentes do DLC; salve antes da escolha."
+        ]
+      }
+    },
+    "KingOfThePentacles": {
+      "missavel": true,
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Recuse o pedido da Songbird."
+        ],
+        "atencao": [
+          "Final do Phantom Liberty: recuse o pedido de Songbird e fique com Reed."
+        ]
+      }
+    },
+    "KingOfTheWands": {
+      "missavel": true,
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Leve a Songbird para as estrelas."
+        ],
+        "atencao": [
+          "Final do Phantom Liberty; salve antes da escolha."
+        ]
+      }
+    },
+    "KingOfTheSwords": {
+      "missavel": true,
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Leve a Songbird para casa."
+        ],
+        "atencao": [
+          "Final do Phantom Liberty; salve antes da escolha."
+        ]
+      }
+    },
+    "Kingmaker": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Conclua “O último julgamento”."
+        ],
+        "dicas": [
+          "Missão do Phantom Liberty (DLC)."
+        ]
+      }
+    },
+    "AllThePresidentsMen": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Salve a presidente Myers."
+        ],
+        "dicas": [
+          "Missão do Phantom Liberty (DLC)."
+        ]
+      }
+    },
+    "DirtyWork": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços em Dogtown."
+        ],
+        "dicas": [
+          "Gigs de Dogtown (DLC Phantom Liberty)."
+        ]
+      }
+    },
+    "HydraIsDead": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Elimine três chefes da categoria “Atividade criminosa aumentada”."
+        ],
+        "dicas": [
+          "Dogtown (DLC Phantom Liberty)."
+        ]
+      }
+    },
+    "EasyComeEasyGo": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Roube o caminhão médico da Arasaka ou entregue 10 veículos para o El Capitan."
+        ],
+        "dicas": [
+          "Atividade em Dogtown (DLC Phantom Liberty)."
+        ]
+      }
+    },
+    "IHateSpider": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Derrote a Quimera."
+        ],
+        "dicas": [
+          "Chefe do Phantom Liberty (DLC)."
+        ]
+      }
+    },
+    "RelicMaster": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as vantagens na árvore de vantagens do Relic."
+        ],
+        "dicas": [
+          "Árvore de Relíquia do Phantom Liberty (DLC)."
+        ]
+      }
+    },
+    "DogtownLaw": {
+      "dlc": "Phantom Liberty",
+      "guia": {
+        "passos": [
+          "Torne-se o criminoso mais procurado de Dogtown."
+        ],
+        "dicas": [
+          "Dogtown (DLC Phantom Liberty)."
+        ]
+      }
+    },
+    "Gearhead": {
+      "dica": "Deixe para o fim: junte eurodólares com contratos e venda de itens.",
+      "guia": {
+        "passos": [
+          "Compre todos os veículos disponíveis."
+        ],
+        "dicas": [
+          "Veículos comprados com fixers via mensagens/Autofixer; precisa de muito dinheiro."
+        ]
+      }
+    },
+    "TheFool": {
+      "guia": {
+        "passos": [
+          "Siga uma vida mercenária."
+        ]
+      }
+    },
+    "TheLovers": {
+      "guia": {
+        "passos": [
+          "Roube o Relic."
+        ]
+      }
+    },
+    "TheHermit": {
+      "guia": {
+        "passos": [
+          "Encontre Alt Cunningham."
+        ]
+      }
+    },
+    "TheWheelOfFortune": {
+      "guia": {
+        "passos": [
+          "Interrogue Anders Hellman."
+        ]
+      }
+    },
+    "TheHightPriestess": {
+      "guia": {
+        "passos": [
+          "Fale com a Hanako Arasaka."
+        ]
+      }
+    },
+    "TheWorld": {
+      "guia": {
+        "passos": [
+          "Conclua a história principal."
+        ]
+      }
+    },
+    "FollowingTheRiver": {
+      "guia": {
+        "passos": [
+          "Conclua a história do River Ward."
+        ]
+      }
+    },
+    "BornToBeWild": {
+      "guia": {
+        "passos": [
+          "Conclua a história do Kerry Eurodyne."
+        ]
+      }
+    },
+    "UnderPressure": {
+      "guia": {
+        "passos": [
+          "Conclua a história da Judy Alvarez."
+        ]
+      }
+    },
+    "QueenOfTheHighway": {
+      "guia": {
+        "passos": [
+          "Conclua a história da Panam Palmer."
+        ]
+      }
+    },
+    "BushidoAndChill": {
+      "guia": {
+        "passos": [
+          "Assista a Bushido X com a Rogue."
+        ]
+      }
+    },
+    "NeverFadeAway": {
+      "guia": {
+        "passos": [
+          "Colete todos os itens outrora pertencentes ao Johnny Silverhand."
+        ],
+        "dicas": [
+          "Itens de Johnny: Malorian, jaqueta, óculos, camiseta, calças, botas e o Porsche 911 (quest 'Chippin' In')."
+        ]
+      }
+    },
+    "YipMan": {
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços e delitos da Polícia de Night City em Watson."
+        ]
+      }
+    },
+    "IAmMaxTac": {
+      "guia": {
+        "passos": [
+          "Conclua todos os avistamentos de ciberpsicopata."
+        ]
+      }
+    },
+    "ThisIsPacifica": {
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços e delitos da Polícia de Night City em Pacifica."
+        ]
+      }
+    },
+    "NoMansLand": {
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços e delitos da Polícia de Night City nas Terras Baldias."
+        ]
+      }
+    },
+    "LittleTokyo": {
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços e delitos da Polícia de Night City em Westbrook."
+        ]
+      }
+    },
+    "LikeFatherLikeSon": {
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços e delitos da Polícia de Night City em Heywood."
+        ]
+      }
+    },
+    "TradeUnion": {
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços e delitos da Polícia de Night City em Santo Domingo."
+        ]
+      }
+    },
+    "Bladerunner": {
+      "guia": {
+        "passos": [
+          "Conclua todos os serviços e delitos da Polícia de Night City no centro da cidade."
+        ]
+      }
+    },
+    "Cyberjunkie": {
+      "guia": {
+        "passos": [
+          "Instale ao menos um implante em cada sistema e parte do corpo."
+        ]
+      }
+    },
+    "GunKata": {
+      "guia": {
+        "passos": [
+          "Mate ou incapacite 3 inimigos seguidos com um revolver ou pistola à queima-roupa."
+        ]
+      }
+    },
+    "MasterRunner": {
+      "guia": {
+        "passos": [
+          "Conclua um minijogo de protocolo de invasão com um mínimo de 3 daemons carregados."
+        ]
+      }
+    },
+    "Specialist": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível máximo de qualquer habilidade."
+        ]
+      }
+    },
+    "Gunslinger": {
+      "guia": {
+        "passos": [
+          "Com um revólver, acerte uma granada inimiga no ar."
+        ]
+      }
+    },
+    "TwoHeadsOneBullet": {
+      "guia": {
+        "passos": [
+          "Mate ou incapacite 2 inimigos com o mesmo disparo de fuzil de precisão."
+        ]
+      }
+    },
+    "ThatIsSoHardForTheKnees": {
+      "guia": {
+        "passos": [
+          "Enquanto \"Frenesi\" estiver ativo, aterrise de super-herói para matar ou incapacitar 2 inimigos."
+        ]
+      }
+    },
+    "Roleplayer": {
+      "guia": {
+        "passos": [
+          "Use uma opção de diálogo relacionada ao rumo de vida de V 10 vezes."
+        ],
+        "dicas": [
+          "Escolha falas marcadas com o ícone da sua origem (Nômade, Rua ou Corporativo)."
+        ]
+      }
+    },
+    "HandyMan": {
+      "guia": {
+        "passos": [
+          "Crie 3 itens lendários."
+        ]
+      }
+    },
+    "NotTheMobile": {
+      "guia": {
+        "passos": [
+          "Mate ou incapacite 3 inimigos com um único hack rápido \"Detonar granada\"."
+        ]
+      }
+    },
+    "MaxPain": {
+      "guia": {
+        "passos": [
+          "Mate ou incapacite 50 inimigos enquanto o tempo está desacelerado."
+        ]
+      }
+    },
+    "MustBeTheRats": {
+      "guia": {
+        "passos": [
+          "Use o hack rápido Distrair Inimigos 30 vezes sem chamar atenção."
+        ]
+      }
+    },
+    "VForVendetta": {
+      "guia": {
+        "passos": [
+          "Após reviver com \"Segundo fôlego\", mate ou incapacite o inimigo que matou você em até 5 segundos."
+        ]
+      }
+    },
+    "TrueSoldier": {
+      "guia": {
+        "passos": [
+          "Mate ou incapacite 300 inimigos usando armas de longo alcance."
+        ]
+      }
+    },
+    "TrueWarrior": {
+      "guia": {
+        "passos": [
+          "Mate ou incapacite 100 inimigos usando armas corpo a corpo."
+        ]
+      }
+    },
+    "Denied": {
+      "guia": {
+        "passos": [
+          "Mate ou incapacite um inimigo que jogou uma granada em você."
+        ]
+      }
+    },
+    "Fortuneteller": {
+      "guia": {
+        "passos": [
+          "Encontre todos os murais de tarô para o seviço \"Balada do louco\"."
+        ],
+        "dicas": [
+          "São 22 grafites de tarô pela cidade; use o scanner perto dos locais das missões."
+        ]
+      }
+    },
+    "GetMeThereScottie": {
+      "guia": {
+        "passos": [
+          "Encontre todos os dataterms de viagem rápida."
+        ],
+        "dicas": [
+          "Os pontos de viagem rápida aparecem no mapa ao passar perto; explore todos os distritos."
+        ]
+      }
+    },
+    "YouKnowWhoIAm": {
+      "guia": {
+        "passos": [
+          "Atinja o máximo de credibilidade."
+        ]
+      }
+    }
   }
 }

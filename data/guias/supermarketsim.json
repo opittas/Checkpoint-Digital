@@ -23,7 +23,110 @@
   ],
   "conquistas": {
     "100_CHECKOUTS": {
-      "dica": "Conte só as vendas que você mesmo passou no caixa."
+      "dica": "Conte só as vendas que você mesmo passou no caixa.",
+      "guia": {
+        "passos": [
+          "Finalize 100 compras sozinho no caixa."
+        ]
+      }
+    },
+    "50_CHECKOUTS": {
+      "guia": {
+        "passos": [
+          "Finalize 50 compras no caixa."
+        ]
+      }
+    },
+    "PURCHASED_ALL_SECTIONS": {
+      "guia": {
+        "passos": [
+          "Compre todas as expansões da loja."
+        ]
+      }
+    },
+    "PAINT_WALLS": {
+      "guia": {
+        "passos": [
+          "Pinte 30 paredes."
+        ]
+      }
+    },
+    "PAINT_FLOORS": {
+      "guia": {
+        "passos": [
+          "Troque 30 pisos."
+        ]
+      }
+    },
+    "DOOR_POSITION": {
+      "guia": {
+        "passos": [
+          "Mude a posição da porta."
+        ]
+      }
+    },
+    "FRONT_STYLE": {
+      "guia": {
+        "passos": [
+          "Mude o estilo da fachada."
+        ]
+      }
+    },
+    "DOOR_NAME": {
+      "guia": {
+        "passos": [
+          "Mude o nome da loja."
+        ]
+      }
+    },
+    "4_LICENCES": {
+      "guia": {
+        "passos": [
+          "Compre 4 licenças de produtos."
+        ]
+      }
+    },
+    "CATEGORY_SIGN": {
+      "guia": {
+        "passos": [
+          "Coloque 3 placas de categoria."
+        ]
+      }
+    },
+    "PLAY_MUSIC": {
+      "guia": {
+        "passos": [
+          "Toque uma música no aparelho de som."
+        ]
+      }
+    },
+    "HIRE_RESTOCKER": {
+      "guia": {
+        "passos": [
+          "Contrate 4 repositores."
+        ]
+      }
+    },
+    "HIRE_CASHIER": {
+      "guia": {
+        "passos": [
+          "Contrate 4 caixas."
+        ]
+      }
+    },
+    "TAKE_LOAN": {
+      "guia": {
+        "passos": [
+          "Pegue um empréstimo no banco."
+        ]
+      }
+    },
+    "PAY_LOAN": {
+      "guia": {
+        "passos": [
+          "Pague todo o empréstimo."
+        ]
+      }
     }
   }
 }

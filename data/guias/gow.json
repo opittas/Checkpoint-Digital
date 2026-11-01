@@ -1,19 +1,414 @@
 {
   "resumo": "Sem conquistas de dificuldade e sem perdíveis: depois da história você pode voltar a qualquer reino para pegar colecionáveis, caçadas e chefes opcionais.",
   "roadmap": [
-    { "titulo": "História", "texto": "Jogue na dificuldade que preferir e pegue os colecionáveis que estiverem no caminho." },
-    { "titulo": "Pós-jogo", "texto": "Volte aos reinos para colecionáveis, Provas de Muspelheim, caçadas em cratera e chefes opcionais (Gná e Rei Hrólf)." },
-    { "titulo": "Equipamento", "texto": "Aprimore um conjunto de armadura ao máximo e forje a Armadura de Escamas de Dragão." },
-    { "titulo": "Valhalla (opcional)", "texto": "O modo roguelite gratuito tem 12 conquistas próprias." }
+    {
+      "titulo": "História",
+      "texto": "Jogue na dificuldade que preferir e pegue os colecionáveis que estiverem no caminho."
+    },
+    {
+      "titulo": "Pós-jogo",
+      "texto": "Volte aos reinos para colecionáveis, Provas de Muspelheim, caçadas em cratera e chefes opcionais (Gná e Rei Hrólf)."
+    },
+    {
+      "titulo": "Equipamento",
+      "texto": "Aprimore um conjunto de armadura ao máximo e forje a Armadura de Escamas de Dragão."
+    },
+    {
+      "titulo": "Valhalla (opcional)",
+      "texto": "O modo roguelite gratuito tem 12 conquistas próprias."
+    }
   ],
-  "avisos": ["Nada é perdível."],
+  "avisos": [
+    "Nada é perdível."
+  ],
   "conquistas": {
-    "NEW_ACHIEVEMENT_2_4": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_5": { "dlc": "Valhalla" },
-    "NEW_ACHIEVEMENT_2_6": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_7": { "dlc": "Valhalla" },
-    "NEW_ACHIEVEMENT_2_8": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_9": { "dlc": "Valhalla" },
-    "NEW_ACHIEVEMENT_2_10": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_11": { "dlc": "Valhalla" },
-    "NEW_ACHIEVEMENT_2_12": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_13": { "dlc": "Valhalla" },
-    "NEW_ACHIEVEMENT_2_14": { "dlc": "Valhalla" }, "NEW_ACHIEVEMENT_2_15": { "dlc": "Valhalla" },
-    "NEW_ACHIEVEMENT_1_31": { "dica": "Provas de Muspelheim: libere todas as provas, incluindo as versões mais difíceis." }
+    "NEW_ACHIEVEMENT_2_4": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Domine Valhalla e a si mesmo."
+        ],
+        "dicas": [
+          "DLC Valhalla: complete o modo inteiro."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Descubra o segredo de Valhalla."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Participe do sacrifício."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Enfrente o Týr."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Recupere a Pedra do Juramento de Kratos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_9": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Visite os 9 reinos em Valhalla."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_10": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Recupere a Estátua de Pandora."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_11": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Participe de uma luta na arena do Fórum."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_12": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Adquira mais de 15.000 Ecos Fugazes em uma única tentativa."
+        ],
+        "dicas": [
+          "DLC Valhalla: junte Ecos Fugazes sem morrer."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_13": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Conclua 9 Missões de Maestria."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_14": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Equipe uma Armadura Cosmética."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_15": {
+      "dlc": "Valhalla",
+      "guia": {
+        "passos": [
+          "Encontre as 3 Chaves do Capitão."
+        ],
+        "dicas": [
+          "As 3 chaves ficam escondidas nas tentativas do Valhalla."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "dica": "Provas de Muspelheim: libere todas as provas, incluindo as versões mais difíceis.",
+      "guia": {
+        "passos": [
+          "Conclua as Provas de Muspelheim."
+        ],
+        "dicas": [
+          "Os Desafios de Muspelheim exigem bom equipamento; faça no pós-jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_0": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "guia": {
+        "passos": [
+          "Obtenha uma flor de cada um dos Nove Reinos."
+        ],
+        "dicas": [
+          "Flores ficam nos reinos durante a história e no pós-jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os livros."
+        ],
+        "dicas": [
+          "Os livros ficam em baús e missões; o mapa mostra pendências."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os artefatos."
+        ],
+        "dicas": [
+          "Artefatos são marcados no mapa ao comprar o mapa de tesouros."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "guia": {
+        "passos": [
+          "Equipe um Encantamento."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "guia": {
+        "passos": [
+          "Aprimore uma peça de armadura."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "guia": {
+        "passos": [
+          "Recorda-te dos ensinamentos espartanos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "guia": {
+        "passos": [
+          "Obtenha todas as Maçãs de Iðunn e Frascos de Hidromel Sangrento."
+        ],
+        "dicas": [
+          "Maçãs e chifres aparecem em baús lendários pelos reinos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "guia": {
+        "passos": [
+          "Compre uma habilidade."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "guia": {
+        "passos": [
+          "Enfrente o urso."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "guia": {
+        "passos": [
+          "Enfrente o deus do trovão."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "guia": {
+        "passos": [
+          "Enfrente a Valquíria misteriosa."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "guia": {
+        "passos": [
+          "Enfrente a Níðhögg."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "guia": {
+        "passos": [
+          "Destrua o caldeirão de Grýla."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "guia": {
+        "passos": [
+          "Enfrente Garm."
+        ],
+        "dicas": [
+          "Garm é chefe de missão secundária em Helheim."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "guia": {
+        "passos": [
+          "Enfrente Heimdall."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "guia": {
+        "passos": [
+          "Enfrente Hrist e Mist."
+        ],
+        "dicas": [
+          "Missão das Valquírias no pós-jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os escudos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "guia": {
+        "passos": [
+          "Obtenha todas as relíquias e punhos de espadas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "guia": {
+        "passos": [
+          "Confeccione o Conjunto de Armadura de Escamas de Dragão."
+        ],
+        "dicas": [
+          "Craft com escamas de dragão das missões de Vanaheim."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "guia": {
+        "passos": [
+          "Repare totalmente o Amuleto da Yggdrasil."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "guia": {
+        "passos": [
+          "Compareça ao funeral."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "guia": {
+        "passos": [
+          "Devolva o martelo da rebelião."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "guia": {
+        "passos": [
+          "Consiga o orbe de Lúnda."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "guia": {
+        "passos": [
+          "Liberte os Hafgufas."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "guia": {
+        "passos": [
+          "Liberte o Lyngbakr."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "guia": {
+        "passos": [
+          "Recupere a Mardöll."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "guia": {
+        "passos": [
+          "Faça todas as caçadas em cratera."
+        ],
+        "dicas": [
+          "Caçadas da Cratera em Vanaheim."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "guia": {
+        "passos": [
+          "Faça carinho em Speki e Svanna."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "guia": {
+        "passos": [
+          "Devolva todos os Lindwyrms para Ratatoskr."
+        ],
+        "dicas": [
+          "Ache os Lindwyrms pelos reinos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "guia": {
+        "passos": [
+          "Devolva os Cervos das Quatro Estações."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "guia": {
+        "passos": [
+          "Aprimore totalmente um conjunto de armadura."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "guia": {
+        "passos": [
+          "Enfrente o Pai-de-Todos."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "guia": {
+        "passos": [
+          "Enfrente o Rei Hrólf."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+      "guia": {
+        "passos": [
+          "Enfrente Gná."
+        ]
+      }
+    }
   }
 }

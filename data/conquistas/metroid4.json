@@ -1,1 +1,156 @@
-{"id": "metroid4", "modo": "sem-conquistas", "grupos": [], "conquistas": []}
+{
+ "id": "metroid4",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Além de Viewros",
+   "d": "Derrote o Sylux e termine a história.",
+   "n_en": "Beyond Viewros",
+   "d_en": "Defeat Sylux and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fury_green",
+   "g": 0,
+   "n": "Floresta Furiosa",
+   "d": "Termine a Fury Green e derrote o Carvex.",
+   "n_en": "Fury Green",
+   "d_en": "Clear Fury Green and defeat Carvex.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "volt_forge",
+   "g": 0,
+   "n": "Forja Elétrica",
+   "d": "Termine a Volt Forge e libere o Modo IC da Vi-O-La.",
+   "n_en": "Volt Forge",
+   "d_en": "Clear Volt Forge and unlock Vi-O-La's IC Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "flare_pool",
+   "g": 0,
+   "n": "Poço de Chamas",
+   "d": "Termine o Flare Pool.",
+   "n_en": "Flare Pool",
+   "d_en": "Clear Flare Pool.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ice_belt",
+   "g": 0,
+   "n": "Cinturão de Gelo",
+   "d": "Termine o Ice Belt.",
+   "n_en": "Ice Belt",
+   "d_en": "Clear Ice Belt.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "great_mines",
+   "g": 0,
+   "n": "Grandes Minas",
+   "d": "Termine as Great Mines.",
+   "n_en": "Great Mines",
+   "d_en": "Clear the Great Mines.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pecas",
+   "g": 0,
+   "n": "Mecânica de Campo",
+   "d": "Encontre as 6 peças de mecânica para o Tokabi.",
+   "n_en": "Field Mechanic",
+   "d_en": "Find all six Mech Parts.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tanques",
+   "g": 0,
+   "n": "Energia Máxima",
+   "d": "Junte todos os Tanques de Energia.",
+   "n_en": "Max Energy",
+   "d_en": "Collect every Energy Tank.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "misseis",
+   "g": 0,
+   "n": "Arsenal Completo",
+   "d": "Junte todas as Expansões de Míssil, de Tiro e de Power Bomb.",
+   "n_en": "Full Arsenal",
+   "d_en": "Collect every Missile, Shot and Power Bomb Expansion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cristais",
+   "g": 0,
+   "n": "Energia Verde",
+   "d": "Junte os Cristais de Energia Verde do Sol Valley e libere todas as recompensas do Altar do Legado.",
+   "n_en": "Green Energy",
+   "d_en": "Collect Green Energy Crystals and unlock every Altar of Legacy reward.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "logbook",
+   "g": 0,
+   "n": "Arquivo Lamorn",
+   "d": "Complete o Logbook: escaneie inimigos, chefes, lore e dados.",
+   "n_en": "Lamorn Archive",
+   "d_en": "Complete the Logbook with every scan.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "100",
+   "g": 0,
+   "n": "Final Verdadeiro",
+   "d": "Termine o jogo com 100% dos itens.",
+   "n_en": "True Ending",
+   "d_en": "Finish the game with 100% items.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dificil",
+   "g": 0,
+   "n": "Caçadora Veterana",
+   "d": "Termine o jogo no modo Difícil.",
+   "n_en": "Veteran Hunter",
+   "d_en": "Beat the game on Hard mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

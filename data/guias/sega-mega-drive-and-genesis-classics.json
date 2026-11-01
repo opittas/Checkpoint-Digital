@@ -11,5 +11,199 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "7¬Achievement¬Columns - High Score 5000 [Easy]": {
+      "guia": {
+        "passos": [
+          "Columns - Faça pelo menos 5000 pontos no fácil."
+        ],
+        "dicas": [
+          "Use o save state para tentar de novo."
+        ]
+      }
+    },
+    "39¬Achievement¬Sonic 1 - All Chaos Emeralds": {
+      "guia": {
+        "passos": [
+          "Termine as 6 Fases Especiais (passe pelo anel gigante com 50 anéis no fim das fases)."
+        ],
+        "dicas": [
+          "Salve antes de cada Fase Especial."
+        ]
+      }
+    },
+    "25¬Achievement¬Golden Axe 3 - Get max magic": {
+      "guia": {
+        "passos": [
+          "Junte potes de magia dos duendes até encher a barra."
+        ]
+      }
+    },
+    "51¬Achievement¬Toejam and Earl - Secret Island found": {
+      "guia": {
+        "passos": [
+          "No nível 0, atravesse a água do canto inferior esquerdo até a ilha secreta."
+        ]
+      }
+    },
+    "1¬Achievement¬Alien Soldier - Use 4 different weapon modes": {
+      "guia": {
+        "passos": [
+          "Use 4 modos de arma diferentes na mesma sessão."
+        ]
+      }
+    },
+    "23¬Achievement¬Golden Axe 1 - Use magic when no enemies are present": {
+      "guia": {
+        "passos": [
+          "Use magia sem inimigos na tela."
+        ]
+      }
+    },
+    "44¬Achievement¬Space Harrier 2 - Score 5,000,000": {
+      "guia": {
+        "passos": [
+          "Space Harrier 2 - Faça 5.000.000 de pontos."
+        ],
+        "dicas": [
+          "Use save states."
+        ]
+      }
+    },
+    "51¬Achievement¬Toejam and Earl - Dance the Hula": {
+      "guia": {
+        "passos": [
+          "Encontre a dançarina de hula e deixe ela fazer você dançar."
+        ]
+      }
+    },
+    "43¬Achievement¬Sonic Spinball - Collect all 3 Emeralds": {
+      "guia": {
+        "passos": [
+          "Pegue as Esmeraldas de uma mesa do Sonic Spinball."
+        ]
+      }
+    },
+    "-1¬Achievement¬Sonic Games - Collect 500 Rings": {
+      "guia": {
+        "passos": [
+          "Junte 500 anéis no total nos jogos do Sonic."
+        ]
+      }
+    },
+    "24¬Achievement¬Golden Axe 2 - Knock enemies off the environment": {
+      "guia": {
+        "passos": [
+          "Derrube 25 inimigos de beiradas na mesma jogada."
+        ]
+      }
+    },
+    "13¬Achievement¬Dynamite Headdy - Defeat the robo-collector": {
+      "guia": {
+        "passos": [
+          "Dynamite Headdy - Derrote o Robo Collector."
+        ]
+      }
+    },
+    "40¬Achievement¬Sonic 2 - Finish Emerald Hills with 5 lives": {
+      "guia": {
+        "passos": [
+          "Pegue as vidas extras dos monitores e termine Emerald Hill com 5 vidas."
+        ]
+      }
+    },
+    "36¬Achievement¬Shining Force - Reached Alterone": {
+      "guia": {
+        "passos": [
+          "Avance a história até a cidade de Alterone."
+        ]
+      }
+    },
+    "-1¬Achievement¬All Games - 1 Challenge Complete": {
+      "guia": {
+        "passos": [
+          "Complete um desafio do menu de Desafios."
+        ]
+      }
+    },
+    "-1¬Achievement¬All Games - 10 Challenges Complete": {
+      "guia": {
+        "passos": [
+          "Complete 10 desafios."
+        ]
+      }
+    },
+    "38¬Achievement¬Shinobi 3 - Earn a Shinobi bonus": {
+      "guia": {
+        "passos": [
+          "Termine uma fase sem jogar shuriken."
+        ]
+      }
+    },
+    "45¬Achievement¬Streets of Rage - Get to last boss without using a continue": {
+      "guia": {
+        "passos": [
+          "Streets of Rage - Chegue ao chefe final sem usar continue."
+        ],
+        "dicas": [
+          "Use o modo fácil e jogue com um amigo."
+        ]
+      }
+    },
+    "0¬Achievement¬Alex Kidd - Win 50 Games of Rock,Paper,Scissor": {
+      "guia": {
+        "passos": [
+          "Vença 50 partidas de pedra, papel e tesoura contra os chefes."
+        ],
+        "dicas": [
+          "Use save states para repetir."
+        ]
+      }
+    },
+    "34¬Achievement¬Shadow Dancer - First 2 acts without magic": {
+      "guia": {
+        "passos": [
+          "Shadow Dancer - Complete as duas primeiras fases sem usar magia."
+        ]
+      }
+    },
+    "47¬Achievement¬Streets of Rage 3 - Finish the game": {
+      "guia": {
+        "passos": [
+          "Streets of Rage 3 - Termine o jogo no Normal ou Difícil."
+        ]
+      }
+    },
+    "-1¬Achievement¬Golden Axe Games - Collect magic": {
+      "guia": {
+        "passos": [
+          "Junte 200 de magia somando os jogos Golden Axe."
+        ]
+      }
+    },
+    "-1¬Achievement¬All Games - All Challenges Complete": {
+      "guia": {
+        "passos": [
+          "Complete todos os desafios."
+        ],
+        "dicas": [
+          "Use save states e o rebobinar."
+        ]
+      }
+    },
+    "-1¬Achievement¬All Games - 20 Games Played": {
+      "guia": {
+        "passos": [
+          "Abra 20 jogos diferentes da coleção."
+        ]
+      }
+    },
+    "-1¬Achievement¬All Games - 50 Games Played": {
+      "guia": {
+        "passos": [
+          "Abra 50 jogos diferentes."
+        ]
+      }
+    }
+  }
 }

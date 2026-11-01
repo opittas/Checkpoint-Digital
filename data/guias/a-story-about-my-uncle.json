@@ -19,5 +19,111 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "MADDIE_CHALLENGE": {
+      "guia": {
+        "passos": [
+          "Complete o joguinho da Maddie."
+        ]
+      }
+    },
+    "SANCTUARY_GRAPPLE_CHALLENGE": {
+      "guia": {
+        "passos": [
+          "Complete o Santuário usando menos de 23 ganchos."
+        ]
+      }
+    },
+    "VILLAGE_GRAPPLE_CHALLENGE": {
+      "guia": {
+        "passos": [
+          "Complete a Vila usando menos de 20 ganchos."
+        ]
+      }
+    },
+    "CHASMS_GRAPPLE_CHALLENGE": {
+      "guia": {
+        "passos": [
+          "Complete os Abismos usando menos de 34 ganchos."
+        ]
+      }
+    },
+    "STARHAVEN_GRAPPLE_CHALLENGE": {
+      "guia": {
+        "passos": [
+          "Complete o Refúgio Estelar usando menos de 55 ganchos."
+        ]
+      }
+    },
+    "ICECAVE_GRAPPLE_CHALLENGE": {
+      "guia": {
+        "passos": [
+          "Complete a Caverna de Gelo usando menos de 115 ganchos."
+        ]
+      }
+    },
+    "FLOOR_IS_LAVA": {
+      "guia": {
+        "passos": [
+          "Atravesse a área indicada sem tocar no chão."
+        ]
+      }
+    },
+    "ALL_GOLD_MEDALS": {
+      "guia": {
+        "passos": [
+          "Ganhe ouro em todas as fases de Contra o Tempo."
+        ]
+      }
+    },
+    "ALL_COLLECTIBLES_FOUND": {
+      "guia": {
+        "passos": [
+          "Ache os 25 colecionáveis."
+        ]
+      }
+    },
+    "SANCTUARY_NO_FAIL": {
+      "guia": {
+        "passos": [
+          "Complete o Santuário sem cair."
+        ]
+      }
+    },
+    "VILLAGE_NO_FAIL": {
+      "guia": {
+        "passos": [
+          "Complete a Vila sem cair."
+        ]
+      }
+    },
+    "CHASMS_NO_FAIL": {
+      "guia": {
+        "passos": [
+          "Complete os Abismos sem cair."
+        ]
+      }
+    },
+    "STARHAVEN_NO_FAIL": {
+      "guia": {
+        "passos": [
+          "Complete o Refúgio Estelar sem cair."
+        ]
+      }
+    },
+    "ICECAVE_NO_FAIL": {
+      "guia": {
+        "passos": [
+          "Complete a Caverna de Gelo sem cair."
+        ]
+      }
+    },
+    "INTERACT_ALL_STORY": {
+      "guia": {
+        "passos": [
+          "Interaja com todos os objetos opcionais da história."
+        ]
+      }
+    }
+  }
 }

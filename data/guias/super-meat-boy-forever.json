@@ -15,5 +15,264 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_SIMILARYETLEGALLYDISTINCT": {
+      "guia": {
+        "passos": [
+          "Termine todos os Portais (Warp Zones)."
+        ],
+        "dicas": [
+          "Os portais aparecem em pontos escondidos das fases."
+        ]
+      }
+    },
+    "ACH_LOOKSFAMILIAR": {
+      "guia": {
+        "passos": [
+          "Ache um Portal escondido numa fase."
+        ]
+      }
+    },
+    "ACH_OAKBOY": {
+      "guia": {
+        "passos": [
+          "Conclua Chipper Grove (Mundo da Luz) sem morrer."
+        ],
+        "dicas": [
+          "Morrer reinicia: jogue com calma, as fases são curtas."
+        ]
+      }
+    },
+    "ACH_STRAIGHTJACKETGIRL": {
+      "guia": {
+        "passos": [
+          "Conclua The Clinic (Mundo da Luz) sem morrer."
+        ]
+      }
+    },
+    "ACH_VACCINEBOY": {
+      "guia": {
+        "passos": [
+          "Conclua Tetanus City (Mundo da Luz) sem morrer."
+        ]
+      }
+    },
+    "ACH_RESEARCHGIRL": {
+      "guia": {
+        "passos": [
+          "Conclua The Lab (Mundo da Luz) sem morrer."
+        ]
+      }
+    },
+    "ACH_DILATIONBOY": {
+      "guia": {
+        "passos": [
+          "Conclua The Other Side (Mundo da Luz) sem morrer."
+        ]
+      }
+    },
+    "ACH_BUFFEROVERRUN": {
+      "guia": {
+        "passos": [
+          "Termine a fase secreta 0xDEADBEEF."
+        ]
+      }
+    },
+    "ACH_PAGEFAULT": {
+      "guia": {
+        "passos": [
+          "Termine a 0xDEADBEEF sem morrer."
+        ]
+      }
+    },
+    "ACH_TEAKGIRL": {
+      "guia": {
+        "passos": [
+          "Conclua Chipper Grove (Mundo das Trevas) sem morrer."
+        ]
+      }
+    },
+    "ACH_PSYCHOPHARMACOLOGYBOY": {
+      "guia": {
+        "passos": [
+          "Conclua The Clinic (Mundo das Trevas) sem morrer."
+        ]
+      }
+    },
+    "ACH_LOCKJAWGIRL": {
+      "guia": {
+        "passos": [
+          "Conclua Tetanus City (Mundo das Trevas) sem morrer."
+        ]
+      }
+    },
+    "ACH_DEVELOPMENTBOY": {
+      "guia": {
+        "passos": [
+          "Conclua The Lab (Mundo das Trevas) sem morrer."
+        ]
+      }
+    },
+    "ACH_HEATDEATHGIRL": {
+      "guia": {
+        "passos": [
+          "Conclua The Other Side (Mundo das Trevas) sem morrer."
+        ]
+      }
+    },
+    "ACH_MACHINEPUNCHER": {
+      "guia": {
+        "passos": [
+          "Derrote o chefe do mundo 1."
+        ]
+      }
+    },
+    "ACH_BRAINPUNCHER": {
+      "guia": {
+        "passos": [
+          "Derrote o chefe do mundo 2."
+        ]
+      }
+    },
+    "ACH_DOORPUNCHER": {
+      "guia": {
+        "passos": [
+          "Derrote o chefe do mundo 3."
+        ]
+      }
+    },
+    "ACH_FETUSPUNCHER": {
+      "guia": {
+        "passos": [
+          "Derrote o chefe do mundo 4."
+        ]
+      }
+    },
+    "ACH_GODPUNCHER": {
+      "guia": {
+        "passos": [
+          "Derrote o chefe final."
+        ]
+      }
+    },
+    "ACH_2014": {
+      "guia": {
+        "passos": [
+          "Libere o Prototype Boy (chupetas)."
+        ]
+      }
+    },
+    "ACH_ARACEAGAINSTTIME": {
+      "guia": {
+        "passos": [
+          "Libere a Brownie."
+        ]
+      }
+    },
+    "ACH_WEHAVEANEWCHAMPION": {
+      "guia": {
+        "passos": [
+          "Libere o Lil' Meat."
+        ]
+      }
+    },
+    "ACH_THEKEYTOITALL": {
+      "guia": {
+        "passos": [
+          "Pegue uma chupeta escondida numa fase."
+        ]
+      }
+    },
+    "ACH_SHASCOMETO": {
+      "guia": {
+        "passos": [
+          "Libere o Squirrel."
+        ]
+      }
+    },
+    "ACH_GOLDENGOD": {
+      "guia": {
+        "passos": [
+          "Termine o jogo 100%."
+        ]
+      }
+    },
+    "ACH_PINKBOMBER": {
+      "guia": {
+        "passos": [
+          "Libere a Mega Bandage."
+        ]
+      }
+    },
+    "ACH_AFRAIDNOMORE": {
+      "guia": {
+        "passos": [
+          "Libere o Manic."
+        ]
+      }
+    },
+    "ACH_GREENSCREENHERO": {
+      "guia": {
+        "passos": [
+          "Libere o Meatsona."
+        ]
+      }
+    },
+    "ACH_FORTHEVEGANS": {
+      "guia": {
+        "passos": [
+          "Libere o Tofu Boy."
+        ]
+      }
+    },
+    "ACH_IREMEMBERYOU": {
+      "guia": {
+        "passos": [
+          "Libere o Classic Boy e a Classic Girl."
+        ]
+      }
+    },
+    "ACH_PUNCHDRUNK": {
+      "guia": {
+        "passos": [
+          "Dê 1000 socos em inimigos ou objetos."
+        ]
+      }
+    },
+    "ACH_WHATEVENISTHISGAME": {
+      "guia": {
+        "passos": [
+          "Libere o MZero."
+        ]
+      }
+    },
+    "ACH_SECONDTIMESACHARM": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no Novo Jogo+."
+        ]
+      }
+    },
+    "ACH_NOTAREALDOCTOR": {
+      "guia": {
+        "passos": [
+          "Libere o Dr. Fetus."
+        ]
+      }
+    },
+    "ACH_INSURANCEFRAUD": {
+      "guia": {
+        "passos": [
+          "Libere o Classic Dr. Fetus."
+        ]
+      }
+    },
+    "ACH_RELATIONSHIPGOALS": {
+      "guia": {
+        "passos": [
+          "Libere o 'casal perfeito'."
+        ]
+      }
+    }
+  }
 }

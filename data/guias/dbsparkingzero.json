@@ -27,13 +27,384 @@
   ],
   "conquistas": {
     "ACH_0004": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Lutou em 100 batalhas online."
+        ]
+      }
     },
     "ACH_0045": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Desbloqueou 10 personagens. (Exclui personagens de conteúdos adicionais)."
+        ]
+      }
     },
     "ACH_0046": {
-      "online": true
+      "online": true,
+      "guia": {
+        "passos": [
+          "Desbloqueou 40 personagens. (Exclui personagens de conteúdos adicionais)."
+        ]
+      }
+    },
+    "ACH_0001": {
+      "guia": {
+        "passos": [
+          "Venceu 10 batalhas."
+        ]
+      }
+    },
+    "ACH_0002": {
+      "guia": {
+        "passos": [
+          "Venceu 100 batalhas."
+        ]
+      }
+    },
+    "ACH_0003": {
+      "guia": {
+        "passos": [
+          "Lutou em 3 batalhas online."
+        ]
+      }
+    },
+    "ACH_0005": {
+      "guia": {
+        "passos": [
+          "Personalizou um personagem."
+        ]
+      }
+    },
+    "ACH_0006": {
+      "guia": {
+        "passos": [
+          "Assistiu a 20 cenas especiais Pré-luta."
+        ],
+        "dicas": [
+          "Banters especiais aparecem quando certos pares de personagens rivais se enfrentam (ex.: Goku x Vegeta). Teste confrontos clássicos."
+        ]
+      }
+    },
+    "ACH_0007": {
+      "guia": {
+        "passos": [
+          "Assistiu a 20 finalizadores especiais."
+        ],
+        "dicas": [
+          "Finalizadores especiais ocorrem ao vencer com um Ultimate específico no momento certo; varie personagens."
+        ]
+      }
+    },
+    "ACH_0008": {
+      "guia": {
+        "passos": [
+          "Conquistou uma vitória no Torneio Mundial."
+        ]
+      }
+    },
+    "ACH_0009": {
+      "guia": {
+        "passos": [
+          "Conquistou uma vitória no Torneio de Cell."
+        ]
+      }
+    },
+    "ACH_0010": {
+      "guia": {
+        "passos": [
+          "Conquistou uma vitória no Torneio do Outro Mundo."
+        ]
+      }
+    },
+    "ACH_0011": {
+      "guia": {
+        "passos": [
+          "Conquistou uma vitória no Torneio dos Destruidores."
+        ]
+      }
+    },
+    "ACH_0012": {
+      "guia": {
+        "passos": [
+          "Conquistou uma vitória no Torneio do Poder."
+        ]
+      }
+    },
+    "ACH_0013": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Goku."
+        ],
+        "dicas": [
+          "As Sagas têm rotas alternativas ('What if'); veja os pontos de ramificação no menu da história."
+        ]
+      }
+    },
+    "ACH_0014": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Lado a Lado\" da Saga de Goku."
+        ]
+      }
+    },
+    "ACH_0015": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Forçando o Limite\" da Saga de Goku."
+        ]
+      }
+    },
+    "ACH_0016": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Mudando o Futuro\" da Saga de Goku."
+        ]
+      }
+    },
+    "ACH_0017": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Vegeta."
+        ]
+      }
+    },
+    "ACH_0018": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Vínculo Parental\" da Saga de Vegeta."
+        ]
+      }
+    },
+    "ACH_0019": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Número Um\" da Saga de Vegeta."
+        ]
+      }
+    },
+    "ACH_0020": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Gohan."
+        ]
+      }
+    },
+    "ACH_0021": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Guerreiro Mais Forte\" da Saga de Gohan."
+        ]
+      }
+    },
+    "ACH_0022": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Piccolo."
+        ]
+      }
+    },
+    "ACH_0023": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Orientação de um Mentor\" da Saga de Piccolo."
+        ]
+      }
+    },
+    "ACH_0024": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Trunks do Futuro."
+        ]
+      }
+    },
+    "ACH_0025": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Esperança Brilhante\" da Saga de Trunks do Futuro."
+        ]
+      }
+    },
+    "ACH_0026": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Orgulho Herdado\" da Saga de Trunks do Futuro."
+        ]
+      }
+    },
+    "ACH_0027": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Embarcando Rumo ao Amanhã\" da Saga de Trunks do Futuro."
+        ]
+      }
+    },
+    "ACH_0028": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Freeza."
+        ]
+      }
+    },
+    "ACH_0029": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"O Exército de Freeza se Junta à Batalha\" da Saga de Freeza."
+        ]
+      }
+    },
+    "ACH_0030": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Goku Black."
+        ]
+      }
+    },
+    "ACH_0031": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Prova de Justiça\" da Saga de Goku Black."
+        ]
+      }
+    },
+    "ACH_0032": {
+      "guia": {
+        "passos": [
+          "Concluiu a Saga de Jiren."
+        ]
+      }
+    },
+    "ACH_0033": {
+      "guia": {
+        "passos": [
+          "Concluiu o capítulo \"Força Verdadeira\" da Saga de Jiren."
+        ]
+      }
+    },
+    "ACH_0034": {
+      "guia": {
+        "passos": [
+          "Completou 21 Sagas em Batalha de Episódio."
+        ],
+        "dicas": [
+          "Complete todas as sagas de Episode Battle de todos os personagens."
+        ]
+      }
+    },
+    "ACH_0035": {
+      "guia": {
+        "passos": [
+          "Concluiu 30 Batalhas Adicionais."
+        ]
+      }
+    },
+    "ACH_0036": {
+      "guia": {
+        "passos": [
+          "Invocou Shenlong e teve o desejo realizado."
+        ],
+        "dicas": [
+          "Junte as 7 Esferas do Dragão ganhando partidas (Esferas aparecem como recompensa) e faça um pedido."
+        ]
+      }
+    },
+    "ACH_0037": {
+      "guia": {
+        "passos": [
+          "Invocou Porunga e teve o desejo realizado."
+        ],
+        "dicas": [
+          "As Esferas de Namek ficam disponíveis após avançar; junte e invoque Porunga."
+        ]
+      }
+    },
+    "ACH_0038": {
+      "guia": {
+        "passos": [
+          "Invocou Super Shenlong e teve o desejo realizado."
+        ],
+        "dicas": [
+          "As Super Esferas são liberadas mais tarde; invoque o Super Shenlong."
+        ]
+      }
+    },
+    "ACH_0039": {
+      "guia": {
+        "passos": [
+          "Chegou ao nível 5 de jogador."
+        ]
+      }
+    },
+    "ACH_0040": {
+      "guia": {
+        "passos": [
+          "Chegou ao nível 20 de jogador."
+        ]
+      }
+    },
+    "ACH_0041": {
+      "guia": {
+        "passos": [
+          "Ganhou um total de 1.000.000 de zeni."
+        ]
+      }
+    },
+    "ACH_0042": {
+      "guia": {
+        "passos": [
+          "Gastou um total de 1.000.000 de zeni."
+        ]
+      }
+    },
+    "ACH_0043": {
+      "guia": {
+        "passos": [
+          "Obteve 10 itens de habilidade diferentes."
+        ]
+      }
+    },
+    "ACH_0044": {
+      "guia": {
+        "passos": [
+          "Obteve 50 itens de habilidade diferentes."
+        ]
+      }
+    },
+    "ACH_0047": {
+      "guia": {
+        "passos": [
+          "Editou completamente um Cartão de Jogador."
+        ]
+      }
+    },
+    "ACH_0048": {
+      "guia": {
+        "passos": [
+          "Ganhou um título."
+        ]
+      }
+    },
+    "ACH_0049": {
+      "guia": {
+        "passos": [
+          "Ganhou 100 títulos."
+        ],
+        "dicas": [
+          "Títulos vêm de partidas, lojas e conquistas internas; é um objetivo de longo prazo."
+        ]
+      }
+    },
+    "ACH_0000": {
+      "guia": {
+        "passos": [
+          "Concluiu todas as conquistas."
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todas as outras."
+        ]
+      }
     }
   }
 }

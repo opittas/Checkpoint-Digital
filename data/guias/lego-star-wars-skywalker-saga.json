@@ -1,0 +1,346 @@
+{
+  "resumo": "",
+  "roadmap": [],
+  "avisos": [],
+  "conquistas": {
+    "COMPLETE_EPISODE_1": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio I - A Ameaça Fantasma''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_2": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio II - Ataque dos Clones''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_3": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio III - A Vingança dos Sith''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_4": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio IV - Uma Nova Esperança''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_5": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio V - O Império Contra-Ataca''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_6": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio VI - O Retorno de Jedi''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_7": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio VII - O Despertar da Força''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_8": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio VIII - Os Últimos Jedi''."
+        ]
+      }
+    },
+    "COMPLETE_EPISODE_9": {
+      "guia": {
+        "passos": [
+          "Complete o ''Episódio IX - A Ascensão Skywalker''."
+        ]
+      }
+    },
+    "COMPLETE_SKYWALKER_SAGA": {
+      "guia": {
+        "passos": [
+          "Complete A Saga Skywalker."
+        ],
+        "dicas": [
+          "Termine as 3 trilogias."
+        ]
+      }
+    },
+    "COMPLETE_GEONOSIS_TATOOINE": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Geonosis e Tatooine."
+        ]
+      }
+    },
+    "COMPLETE_BESPIN_CRAIT_HOTH": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Bespin, Crait e Hoth."
+        ]
+      }
+    },
+    "COMPLETE_CANTONICA_YAVIN_AJAN": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Cantonica, Yavin 4 e Ajan Kloss."
+        ]
+      }
+    },
+    "COMPLETE_KAMINO": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Kamino."
+        ]
+      }
+    },
+    "COMPLETE_CORUSCANT_JAKKU_TAKODANA": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Coruscant, Jakku e Takodana."
+        ]
+      }
+    },
+    "COMPLETE_KASHYYYK_KIJIMI": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Kashyyyk e Kijimi."
+        ]
+      }
+    },
+    "COMPLETE_DQAR_NABOO_PASAANA": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em D'Qar, Naboo e Pasaana."
+        ]
+      }
+    },
+    "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Ahch-To, Endor, Kef Bir e Exegol."
+        ]
+      }
+    },
+    "COMPLETE_DAGOBAH_MUSTAFAR_UTAPAU": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos em Dagobah, Mustafar e Utapau."
+        ]
+      }
+    },
+    "TRUE_JEDI_ONE_LEVEL": {
+      "guia": {
+        "passos": [
+          "Conquiste ''Verdadeiro Jedi'' em um nível."
+        ]
+      }
+    },
+    "TRUE_JEDI_ALL_LEVELS": {
+      "guia": {
+        "passos": [
+          "Conquiste ''Verdadeiro Jedi'' em todos os níveis."
+        ],
+        "dicas": [
+          "Repita os níveis no Modo Livre com personagens de todas as classes."
+        ]
+      }
+    },
+    "LEVEL_CHALLENGES_ONE_LEVEL": {
+      "guia": {
+        "passos": [
+          "Complete todos os ''Desafios de Nível'' em um nível."
+        ]
+      }
+    },
+    "LEVEL_CHALLENGES_ALL_LEVELS": {
+      "guia": {
+        "passos": [
+          "Complete todos os ''Desafios de Nível''."
+        ]
+      }
+    },
+    "MINIKITS_ONE_LEVEL": {
+      "guia": {
+        "passos": [
+          "Colete todos os minikits em um nível."
+        ]
+      }
+    },
+    "MINIKITS_ALL_LEVELS": {
+      "guia": {
+        "passos": [
+          "Colete todos os minikits."
+        ],
+        "dicas": [
+          "Use o Modo Livre e os Data Cards que mostram coletáveis."
+        ]
+      }
+    },
+    "FULLY_UPGRADE_ONE_CHAR_CLASS": {
+      "guia": {
+        "passos": [
+          "Faça todas as melhorias de uma classe de personagem."
+        ]
+      }
+    },
+    "FULLY_UPGRADE_ALL_CHAR_CLASSES": {
+      "guia": {
+        "passos": [
+          "Faça todas as melhorias para todas as classes de personagem."
+        ]
+      }
+    },
+    "COLLECT_EVERY_DATACARD": {
+      "guia": {
+        "passos": [
+          "Colete todos os cartões de dados."
+        ]
+      }
+    },
+    "COLLECT_ALL_KYBERBRICKS": {
+      "guia": {
+        "passos": [
+          "Colete 1.000 Blocos Kyber."
+        ],
+        "dicas": [
+          "Kyber Bricks vêm de níveis, desafios e quebra-cabeças do mundo aberto."
+        ]
+      }
+    },
+    "COLLECT_ALL_CHARACTERS": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os personagens."
+        ]
+      }
+    },
+    "COMPLETE_ALL_GALAXY_EVENTS": {
+      "guia": {
+        "passos": [
+          "Complete todos os eventos na galáxia."
+        ]
+      }
+    },
+    "COMPLETE_ALL_HUB_RACES": {
+      "guia": {
+        "passos": [
+          "Complete todas as corridas na galáxia."
+        ]
+      }
+    },
+    "COMPLETE_ALL_GALAXY_CHALLENGES": {
+      "guia": {
+        "passos": [
+          "Complete todos os Desafios na galáxia."
+        ]
+      }
+    },
+    "JEDI_MIND_TRICKS_CANTINA": {
+      "guia": {
+        "passos": [
+          "Use Truques Mentais Jedi para fazer 5 pessoas lutarem ao mesmo tempo na Cantina."
+        ],
+        "dicas": [
+          "Na cantina de Mos Eisley, use o truque mental em vários clientes."
+        ]
+      }
+    },
+    "RIDE_ALL_CREATURES": {
+      "guia": {
+        "passos": [
+          "Monte em todas as criaturas da galáxia."
+        ]
+      }
+    },
+    "EARN_17K_STUDS": {
+      "guia": {
+        "passos": [
+          "Obtenha 17.000 peças."
+        ]
+      }
+    },
+    "EARN_10B_STUDS": {
+      "guia": {
+        "passos": [
+          "Obtenha 10.000.000.000 peças."
+        ],
+        "dicas": [
+          "Ative os multiplicadores de studs (Data Cards) e repita fases cheias de objetos."
+        ]
+      }
+    },
+    "DESTROY_100_TIE_FIGHTERS": {
+      "guia": {
+        "passos": [
+          "Destrua 100 Caças TIE."
+        ]
+      }
+    },
+    "DEFEAT_3_ENEMIES_WITH_ONE_FORCE": {
+      "guia": {
+        "passos": [
+          "Derrote 3 inimigos ao mesmo tempo com uma explosão."
+        ]
+      }
+    },
+    "SHOOT_50_ENEMIES_HATS": {
+      "guia": {
+        "passos": [
+          "Remova os capacetes de 50 inimigos com tiros."
+        ]
+      }
+    },
+    "CREATE_25_REBEL_DISGUISES": {
+      "guia": {
+        "passos": [
+          "Crie 25 disfarces usando um personagem Herói."
+        ]
+      }
+    },
+    "COMBAT_MULTIPLIER_OF_30": {
+      "guia": {
+        "passos": [
+          "Alcance um multiplicador de combate de 30."
+        ],
+        "dicas": [
+          "Varie golpes sem tomar dano para o multiplicador subir."
+        ]
+      }
+    },
+    "COMPLETE_FAULTYDROID_ON_TATOOINE": {
+      "guia": {
+        "passos": [
+          "Complete todas as missões de ''droides defeituosos'' dos Jawa em Tatooine."
+        ]
+      }
+    },
+    "COMPLETE_ALL_GNK": {
+      "guia": {
+        "passos": [
+          "Complete todas as missões de escolta de droide GNK."
+        ],
+        "dicas": [
+          "Os droides GNK aparecem nos hubs como missões de escolta."
+        ]
+      }
+    },
+    "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING": {
+      "guia": {
+        "passos": [
+          "Complete um nível de voo sem morrer."
+        ]
+      }
+    }
+  }
+}

@@ -15,5 +15,188 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_1": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 20."
+        ]
+      }
+    },
+    "ACH_2": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as subclasses do Titã."
+        ],
+        "dicas": [
+          "Subclasses novas vêm das campanhas e missões de expansões."
+        ]
+      }
+    },
+    "ACH_3": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as subclasses do Caçador."
+        ]
+      }
+    },
+    "ACH_4": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as subclasses do Arcano."
+        ]
+      }
+    },
+    "ACH_5": {
+      "guia": {
+        "passos": [
+          "Conclua a jornada \"Luz Reforjada\"."
+        ]
+      }
+    },
+    "ACH_6": {
+      "guia": {
+        "passos": [
+          "Complete 5 Eventos Públicos na versão heroica."
+        ],
+        "dicas": [
+          "Cada evento tem uma condição para virar heroico (ex.: destruir os geradores)."
+        ]
+      }
+    },
+    "ACH_7": {
+      "guia": {
+        "passos": [
+          "Complete um Evento Público na versão heroica."
+        ]
+      }
+    },
+    "ACH_8": {
+      "guia": {
+        "passos": [
+          "Complete uma atividade de Vanguarda (Assalto) na dificuldade Mestre ou acima."
+        ]
+      }
+    },
+    "ACH_9": {
+      "guia": {
+        "passos": [
+          "Junte 15 exóticos da Guerra Vermelha."
+        ],
+        "dicas": [
+          "Engramas exóticos e o Xur ajudam."
+        ]
+      }
+    },
+    "ACH_10": {
+      "guia": {
+        "passos": [
+          "Suba o ranque de recompensas semanais para 20 na central sazonal."
+        ]
+      }
+    },
+    "ACH_11": {
+      "guia": {
+        "passos": [
+          "Complete qualquer atividade de Operações no Mestre."
+        ]
+      }
+    },
+    "ACH_12": {
+      "guia": {
+        "passos": [
+          "Complete uma atividade de Operações no Grão-mestre."
+        ],
+        "dicas": [
+          "Exige equipe com Poder alto; use o recrutamento."
+        ]
+      }
+    },
+    "ACH_13": {
+      "guia": {
+        "passos": [
+          "Encontre o Xur (Agente dos Nove) quando ele aparecer no fim de semana."
+        ],
+        "dicas": [
+          "A localização muda toda semana."
+        ]
+      }
+    },
+    "ACH_14": {
+      "guia": {
+        "passos": [
+          "Junte 5.000 pontos de Triunfo."
+        ]
+      }
+    },
+    "ACH_15": {
+      "guia": {
+        "passos": [
+          "Junte 10 exóticos de Renegados."
+        ]
+      }
+    },
+    "ACH_16": {
+      "guia": {
+        "passos": [
+          "Complete todos os triunfos de um Selo."
+        ]
+      }
+    },
+    "ACH_17": {
+      "guia": {
+        "passos": [
+          "Complete uma insígnia de Coleções."
+        ]
+      }
+    },
+    "ACH_18": {
+      "guia": {
+        "passos": [
+          "Entre na Cidade Onírica (campanha de Renegados)."
+        ]
+      }
+    },
+    "ACH_19": {
+      "guia": {
+        "passos": [
+          "Junte 15 exóticos de Renegados."
+        ]
+      }
+    },
+    "ACH_20": {
+      "guia": {
+        "passos": [
+          "Vença uma partida de Artimanha (Gambit)."
+        ]
+      }
+    },
+    "ACH_21": {
+      "guia": {
+        "passos": [
+          "Complete 'A Corrompida' ou 'Carcereiro do Nada' no Mestre ou acima."
+        ]
+      }
+    },
+    "ACH_22": {
+      "guia": {
+        "passos": [
+          "Complete a masmorra Trono Estilhaçado."
+        ],
+        "dicas": [
+          "Faça em grupo de 3."
+        ]
+      }
+    },
+    "ACH_23": {
+      "guia": {
+        "passos": [
+          "Complete a incursão Último Desejo."
+        ],
+        "dicas": [
+          "Use o recrutamento oficial para achar grupo de 6."
+        ]
+      }
+    }
+  }
 }

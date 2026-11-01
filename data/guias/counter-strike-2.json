@@ -7,5 +7,16 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "PLAY_CS2": {
+      "guia": {
+        "passos": [
+          "Abra o Counter-Strike 2 e jogue qualquer partida."
+        ],
+        "dicas": [
+          "Desbloqueia sozinha na primeira partida."
+        ]
+      }
+    }
+  }
 }

@@ -15,5 +15,566 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "NEW_ACHIEVEMENT_1_0": {
+      "guia": {
+        "passos": [
+          "Faça 1 ritual."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "guia": {
+        "passos": [
+          "Faça 10 rituais."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "guia": {
+        "passos": [
+          "Faça 20 rituais."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "guia": {
+        "passos": [
+          "Faça 50 rituais."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "guia": {
+        "passos": [
+          "Colete 50 velas."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "guia": {
+        "passos": [
+          "Colete 100 velas."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "guia": {
+        "passos": [
+          "Colete 250 velas."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "guia": {
+        "passos": [
+          "Colete 500 velas."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "guia": {
+        "passos": [
+          "Abra 1 baú."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "guia": {
+        "passos": [
+          "Abra 10 baús."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "guia": {
+        "passos": [
+          "Abra 20 baús."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "guia": {
+        "passos": [
+          "Abra 3 baús de chefe."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "guia": {
+        "passos": [
+          "Abra 30 baús."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "guia": {
+        "passos": [
+          "Abra o baú de fragmento."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "guia": {
+        "passos": [
+          "Melhore qualquer arma."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "guia": {
+        "passos": [
+          "Melhore qualquer item."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "guia": {
+        "passos": [
+          "Desmonte qualquer item."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "guia": {
+        "passos": [
+          "Remova uma tranca."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "guia": {
+        "passos": [
+          "Remova três trancas."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "guia": {
+        "passos": [
+          "Melhore uma arma para qualidade 5."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "guia": {
+        "passos": [
+          "Melhore uma arma para qualidade 10."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "guia": {
+        "passos": [
+          "Melhore uma arma para qualidade 15."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "guia": {
+        "passos": [
+          "Encontre pessoas no fragmento."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "guia": {
+        "passos": [
+          "Complete 10 missões."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "guia": {
+        "passos": [
+          "Complete 50 missões."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "guia": {
+        "passos": [
+          "Complete 100 missões."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 5."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 10."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 20."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "guia": {
+        "passos": [
+          "Tenha 5 de força."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "guia": {
+        "passos": [
+          "Tenha 10 de força."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "guia": {
+        "passos": [
+          "Tenha 15 de força."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_32": {
+      "guia": {
+        "passos": [
+          "Tenha 20 de força."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_33": {
+      "guia": {
+        "passos": [
+          "Tenha 5 de destreza."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_34": {
+      "guia": {
+        "passos": [
+          "Tenha 10 de destreza."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_35": {
+      "guia": {
+        "passos": [
+          "Tenha 15 de destreza."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_36": {
+      "guia": {
+        "passos": [
+          "Tenha 20 de destreza."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_37": {
+      "guia": {
+        "passos": [
+          "Tenha 5 de sabedoria."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_38": {
+      "guia": {
+        "passos": [
+          "Tenha 10 de sabedoria."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_39": {
+      "guia": {
+        "passos": [
+          "Tenha 15 de sabedoria."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_40": {
+      "guia": {
+        "passos": [
+          "Tenha 20 de sabedoria."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_41": {
+      "guia": {
+        "passos": [
+          "Mate 5 chefes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_42": {
+      "guia": {
+        "passos": [
+          "Mate 10 chefes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_43": {
+      "guia": {
+        "passos": [
+          "Mate 20 chefes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_44": {
+      "guia": {
+        "passos": [
+          "Chegue à Zona 5."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_45": {
+      "guia": {
+        "passos": [
+          "Chegue à Zona 10."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_46": {
+      "guia": {
+        "passos": [
+          "Chegue à Zona 50."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_47": {
+      "guia": {
+        "passos": [
+          "Mate 1 campeão."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_48": {
+      "guia": {
+        "passos": [
+          "Mate 25 campeões."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_49": {
+      "guia": {
+        "passos": [
+          "Mate 500 campeões."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_50": {
+      "guia": {
+        "passos": [
+          "Mate 20 vaga-lumes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_51": {
+      "guia": {
+        "passos": [
+          "Mate 1000 vaga-lumes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_52": {
+      "guia": {
+        "passos": [
+          "Mate 10000 vaga-lumes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_53": {
+      "guia": {
+        "passos": [
+          "Clique 500 vezes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_54": {
+      "guia": {
+        "passos": [
+          "Clique 5000 vezes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_55": {
+      "guia": {
+        "passos": [
+          "Clique 50000 vezes."
+        ],
+        "dicas": [
+          "Jogo idle/clicker: progride naturalmente com o tempo de jogo."
+        ]
+      }
+    }
+  }
 }

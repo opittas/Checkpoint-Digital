@@ -19,5 +19,466 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_1": {
+      "guia": {
+        "passos": [
+          "Completou o \"Ataque de Raditz\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_2": {
+      "guia": {
+        "passos": [
+          "Completou \"A ameaça saiyajin\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_3": {
+      "guia": {
+        "passos": [
+          "Completou a \"Confusão em Namekuseijin\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_4": {
+      "guia": {
+        "passos": [
+          "Completou \"Os ataques das Forças Ginyu\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_5": {
+      "guia": {
+        "passos": [
+          "Completou \"O imperador galáctico\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_6": {
+      "guia": {
+        "passos": [
+          "Completou o \"Combate androide\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_7": {
+      "guia": {
+        "passos": [
+          "Completou \"Um futuro desesperador\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_8": {
+      "guia": {
+        "passos": [
+          "Completou \"Batalha decisiva com Majin Boo\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_9": {
+      "guia": {
+        "passos": [
+          "Completou \"A ira do Deus da Destruição\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_10": {
+      "guia": {
+        "passos": [
+          "Completou \"A volta do imperador\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_11": {
+      "guia": {
+        "passos": [
+          "Assistiu à sequência final."
+        ]
+      }
+    },
+    "ACHIEVEMENT_12": {
+      "guia": {
+        "passos": [
+          "Completou \"História desconhecida\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_13": {
+      "guia": {
+        "passos": [
+          "Passou no teste da Turma Fácil."
+        ]
+      }
+    },
+    "ACHIEVEMENT_14": {
+      "guia": {
+        "passos": [
+          "Passou no teste da Turma Kaiohshin."
+        ]
+      }
+    },
+    "ACHIEVEMENT_15": {
+      "guia": {
+        "passos": [
+          "Passou no teste da Turma Super."
+        ]
+      }
+    },
+    "ACHIEVEMENT_16": {
+      "guia": {
+        "passos": [
+          "Coletou 7 Esferas do Dragão e invocou Shenlong!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_17": {
+      "guia": {
+        "passos": [
+          "Desbloqueou todos os personagens e variações!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_18": {
+      "guia": {
+        "passos": [
+          "Visitou todos os estágios!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_19": {
+      "guia": {
+        "passos": [
+          "Participou pela primeira vez de Batalhas Online!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_20": {
+      "guia": {
+        "passos": [
+          "Venceu 7 vezes em rede!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_21": {
+      "guia": {
+        "passos": [
+          "Venceu batalha sem fim 7 vezes!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_22": {
+      "guia": {
+        "passos": [
+          "Mais de 50% de Missões Paralelas Completadas!"
+        ]
+      }
+    },
+    "ACHIEVEMENT_23": {
+      "guia": {
+        "passos": [
+          "Concluiu todas as Missões Paralelas!"
+        ],
+        "dicas": [
+          "Algumas Missões Paralelas exigem condições ocultas; consulte a lista no jogo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_24": {
+      "guia": {
+        "passos": [
+          "Completar 7 Missões Especializadas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_25": {
+      "guia": {
+        "passos": [
+          "Completar todas as Missões Especializadas."
+        ],
+        "dicas": [
+          "Missões Expert são feitas em grupo online (ou com NPCs); algumas são bem difíceis."
+        ]
+      }
+    },
+    "ACHIEVEMENT_26": {
+      "guia": {
+        "passos": [
+          "Provocar o nascimento de um Majin."
+        ],
+        "dicas": [
+          "Siga a missão do Majin na cidade (Conton City) e realize as escolhas do evento."
+        ]
+      }
+    },
+    "ACHIEVEMENT_27": {
+      "guia": {
+        "passos": [
+          "Provocar a mudança de um Majin."
+        ]
+      }
+    },
+    "ACHIEVEMENT_28": {
+      "guia": {
+        "passos": [
+          "Entrar na Força Freeza."
+        ]
+      }
+    },
+    "ACHIEVEMENT_29": {
+      "guia": {
+        "passos": [
+          "Tornar-se o segundo em comando de Freeza."
+        ],
+        "dicas": [
+          "Faça as missões da Força Freeza na cidade até virar Comandante."
+        ]
+      }
+    },
+    "ACHIEVEMENT_30": {
+      "guia": {
+        "passos": [
+          "Desbloquear um bônus em atributo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_31": {
+      "guia": {
+        "passos": [
+          "Reforçar os desejos de Shenlong."
+        ]
+      }
+    },
+    "ACHIEVEMENT_32": {
+      "guia": {
+        "passos": [
+          "Criar um QQ Bang."
+        ]
+      }
+    },
+    "ACHIEVEMENT_33": {
+      "guia": {
+        "passos": [
+          "Fazer com que Vegeta reconheça sua força."
+        ]
+      }
+    },
+    "ACHIEVEMENT_34": {
+      "guia": {
+        "passos": [
+          "Receber uma Recompensa de Mr. Satan."
+        ]
+      }
+    },
+    "ACHIEVEMENT_35": {
+      "guia": {
+        "passos": [
+          "Tornar-se aprendiz dos Grandes Saiyamen e derrotar todos os vilões."
+        ]
+      }
+    },
+    "ACHIEVEMENT_36": {
+      "guia": {
+        "passos": [
+          "Aprender todas as Técnicas Despertadas de todas as raças das grandes fendas temporais."
+        ],
+        "dicas": [
+          "Despertar habilidades é por raça; faça as missões dos mestres para liberar."
+        ]
+      }
+    },
+    "ACHIEVEMENT_37": {
+      "guia": {
+        "passos": [
+          "Coletar metade de todas as técnicas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_38": {
+      "guia": {
+        "passos": [
+          "Coletar metade de todos os equipamentos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_39": {
+      "guia": {
+        "passos": [
+          "Coletar 50% de todos os apelidos e ver a lista (Exceto apelidos de eventos.)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_40": {
+      "guia": {
+        "passos": [
+          "Completar todas as Missões de Desafio."
+        ]
+      }
+    },
+    "ACHIEVEMENT_41": {
+      "guia": {
+        "passos": [
+          "Libertar todos os aliados sob controle mental."
+        ],
+        "dicas": [
+          "Durante eventos de cidade, liberte aliados presos em cristais."
+        ]
+      }
+    },
+    "ACHIEVEMENT_42": {
+      "guia": {
+        "passos": [
+          "Repelir com sucesso uma Explosão Ki gigante."
+        ]
+      }
+    },
+    "ACHIEVEMENT_43": {
+      "guia": {
+        "passos": [
+          "Completar 10 sessões de treinamento do Kuririn."
+        ]
+      }
+    },
+    "ACHIEVEMENT_44": {
+      "guia": {
+        "passos": [
+          "Completar 10 sessões de treinamento do Yamcha."
+        ]
+      }
+    },
+    "ACHIEVEMENT_45": {
+      "guia": {
+        "passos": [
+          "Desbloquear todos os pontos de distorção."
+        ]
+      }
+    },
+    "ACHIEVEMENT_46": {
+      "guia": {
+        "passos": [
+          "Fazer uma visita à Casa do Kame."
+        ]
+      }
+    },
+    "ACHIEVEMENT_47": {
+      "guia": {
+        "passos": [
+          "Usar um veículo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_48": {
+      "guia": {
+        "passos": [
+          "Atingir o nível 80."
+        ],
+        "dicas": [
+          "Nível 80: Missões Paralelas e Expert dão bastante XP."
+        ]
+      }
+    },
+    "ACHIEVEMENT_49": {
+      "guia": {
+        "passos": [
+          "Complete todas as aulas de instrutor."
+        ]
+      }
+    },
+    "ACHIEVEMENT_0": {
+      "guia": {
+        "passos": [
+          "¡Has obtenido todos los logros!"
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todas as outras."
+        ]
+      }
+    },
+    "ACHIEVEMENT_50": {
+      "guia": {
+        "passos": [
+          "Atinja o nível 99."
+        ],
+        "dicas": [
+          "Nível 99 exige DLC/atualização (Ultra Pack/Extra Pack)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_51": {
+      "guia": {
+        "passos": [
+          "Consiga 70 bonecos diferentes no Coliseu dos Heróis e converse com Oshi."
+        ]
+      }
+    },
+    "ACHIEVEMENT_52": {
+      "guia": {
+        "passos": [
+          "Complete as Missões Paralelas de 113 a 117."
+        ]
+      }
+    },
+    "ACHIEVEMENT_53": {
+      "guia": {
+        "passos": [
+          "Complete todas as aulas do Zamasu."
+        ]
+      }
+    },
+    "ACHIEVEMENT_54": {
+      "guia": {
+        "passos": [
+          "Complete as Missões Paralelas de 113 a 117 com Ranking Z."
+        ]
+      }
+    },
+    "ACHIEVEMENT_55": {
+      "guia": {
+        "passos": [
+          "Concluiu todas as histórias e Batalhas Livres no Coliseu dos Heróis."
+        ]
+      }
+    },
+    "ACHIEVEMENT_56": {
+      "guia": {
+        "passos": [
+          "Aprendeu um Ataque Máximo Duplo de todos os instrutores (exceto Hit, Bojack e Zamasu)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_57": {
+      "guia": {
+        "passos": [
+          "Transformou-se em Super Saiyajin Deus Super Saiyajin."
+        ]
+      }
+    },
+    "ACHIEVEMENT_58": {
+      "guia": {
+        "passos": [
+          "Complete as Missões Paralelas de 118 a 122."
+        ]
+      }
+    },
+    "ACHIEVEMENT_59": {
+      "guia": {
+        "passos": [
+          "Concluiu as duas linhas do tempo na História Extra."
+        ],
+        "dicas": [
+          "Conteúdo do DLC (Extra Pack)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_60": {
+      "guia": {
+        "passos": [
+          "Apelido adquirido: ∞."
+        ],
+        "dicas": [
+          "Apelido '∞' é recompensa de longo prazo; consulte a lista de títulos no jogo."
+        ]
+      }
+    }
+  }
 }

@@ -11,5 +11,146 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Customize": {
+      "guia": {
+        "passos": [
+          "Personalize seu personagem."
+        ]
+      }
+    },
+    "Dismember": {
+      "guia": {
+        "passos": [
+          "Arranque uma parte do corpo de outro jogador."
+        ]
+      }
+    },
+    "Kill": {
+      "guia": {
+        "passos": [
+          "Elimine outro jogador."
+        ]
+      }
+    },
+    "Tutorial": {
+      "guia": {
+        "passos": [
+          "Jogue o tutorial."
+        ]
+      }
+    },
+    "Workshop": {
+      "guia": {
+        "passos": [
+          "Baixe um mod da Oficina Steam."
+        ]
+      }
+    },
+    "Cosmetic": {
+      "guia": {
+        "passos": [
+          "Compre um item cosmético."
+        ]
+      }
+    },
+    "White": {
+      "guia": {
+        "passos": [
+          "Chegue à faixa branca jogando partidas."
+        ]
+      }
+    },
+    "Win": {
+      "guia": {
+        "passos": [
+          "Vença uma partida."
+        ]
+      }
+    },
+    "Psycho": {
+      "guia": {
+        "passos": [
+          "Faça 5000 pontos numa partida."
+        ]
+      }
+    },
+    "20Kills": {
+      "guia": {
+        "passos": [
+          "Faça 20 nocautes no total."
+        ]
+      }
+    },
+    "Destruction": {
+      "guia": {
+        "passos": [
+          "Cause 5000 de dano no total."
+        ]
+      }
+    },
+    "Money": {
+      "guia": {
+        "passos": [
+          "Ganhe $5000 no total."
+        ]
+      }
+    },
+    "Block": {
+      "guia": {
+        "passos": [
+          "Faça um bloqueio perfeito."
+        ]
+      }
+    },
+    "Replay": {
+      "guia": {
+        "passos": [
+          "Assista a um replay."
+        ]
+      }
+    },
+    "AirStrike": {
+      "guia": {
+        "passos": [
+          "Acerte um jogador estando no ar."
+        ]
+      }
+    },
+    "Stomp": {
+      "guia": {
+        "passos": [
+          "Acerte um jogador caído."
+        ]
+      }
+    },
+    "ExtraTime": {
+      "guia": {
+        "passos": [
+          "Estenda o tempo da partida."
+        ]
+      }
+    },
+    "NoDismember": {
+      "guia": {
+        "passos": [
+          "Desative o desmembramento nas opções."
+        ]
+      }
+    },
+    "Decap": {
+      "guia": {
+        "passos": [
+          "Decapite outro jogador."
+        ]
+      }
+    },
+    "Flying": {
+      "guia": {
+        "passos": [
+          "Fique 2 segundos no ar."
+        ]
+      }
+    }
+  }
 }

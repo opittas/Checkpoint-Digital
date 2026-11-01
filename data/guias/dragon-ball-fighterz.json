@@ -15,5 +15,278 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT001": {
+      "guia": {
+        "passos": [
+          "Arcade - Complete o Percurso Estilo Cobra."
+        ]
+      }
+    },
+    "ACHIEVEMENT002": {
+      "guia": {
+        "passos": [
+          "Arcade - Complete o Percurso Espaçonave com Gravidade Extrema."
+        ]
+      }
+    },
+    "ACHIEVEMENT003": {
+      "guia": {
+        "passos": [
+          "Arcade - Complete o Percurso Câmara Hiperbólica do Tempo."
+        ]
+      }
+    },
+    "ACHIEVEMENT004": {
+      "guia": {
+        "passos": [
+          "Arcade - Complete um percurso com um ranking S."
+        ],
+        "dicas": [
+          "Escolha o caminho difícil (rotas de cima) e termine rápido com combos longos."
+        ]
+      }
+    },
+    "ACHIEVEMENT005": {
+      "guia": {
+        "passos": [
+          "História - Complete o Arco do Super Guerreiro."
+        ]
+      }
+    },
+    "ACHIEVEMENT006": {
+      "guia": {
+        "passos": [
+          "História - Complete o Arco do Guerreiro Inimigo."
+        ]
+      }
+    },
+    "ACHIEVEMENT007": {
+      "guia": {
+        "passos": [
+          "História - Complete o Arco da Androide 21."
+        ],
+        "dicas": [
+          "O Arco da Androide 21 abre depois dos outros dois."
+        ]
+      }
+    },
+    "ACHIEVEMENT008": {
+      "guia": {
+        "passos": [
+          "História - Eleve o Nível de Conexão para 20."
+        ],
+        "dicas": [
+          "O Nível de Conexão sobe lutando com os mesmos personagens na História."
+        ]
+      }
+    },
+    "ACHIEVEMENT009": {
+      "guia": {
+        "passos": [
+          "História - Eleve o Nível de Conexão para 40."
+        ]
+      }
+    },
+    "ACHIEVEMENT010": {
+      "guia": {
+        "passos": [
+          "História - Derrote o clone do Kid Boo."
+        ],
+        "dicas": [
+          "Aparece no Arco do Guerreiro Inimigo."
+        ]
+      }
+    },
+    "ACHIEVEMENT011": {
+      "guia": {
+        "passos": [
+          "História - Ative uma sequência de conversa especial."
+        ],
+        "dicas": [
+          "Monte times com personagens que têm diálogos especiais (ex.: Goku e Vegeta) e fale com eles no mapa."
+        ]
+      }
+    },
+    "ACHIEVEMENT012": {
+      "guia": {
+        "passos": [
+          "Batalha Local - Jogue uma partida."
+        ]
+      }
+    },
+    "ACHIEVEMENT013": {
+      "guia": {
+        "passos": [
+          "Torneio - Seja campeão."
+        ]
+      }
+    },
+    "ACHIEVEMENT014": {
+      "guia": {
+        "passos": [
+          "Treino - Conclua todos os tutoriais de batalha."
+        ]
+      }
+    },
+    "ACHIEVEMENT015": {
+      "guia": {
+        "passos": [
+          "Treino - Realize um combo que cause 5000 ou mais de dano no modo Treinamento."
+        ],
+        "dicas": [
+          "Use um combo de cartilha com Super no fim; os Desafios de Combo ensinam."
+        ]
+      }
+    },
+    "ACHIEVEMENT016": {
+      "guia": {
+        "passos": [
+          "Treino - Conclua 30 Desafios de Combo diferentes."
+        ]
+      }
+    },
+    "ACHIEVEMENT017": {
+      "guia": {
+        "passos": [
+          "Treino - Conclua 100 Desafios de Combo diferentes."
+        ]
+      }
+    },
+    "ACHIEVEMENT018": {
+      "guia": {
+        "passos": [
+          "Treino - Conclua 200 Desafios de Combo diferentes."
+        ],
+        "dicas": [
+          "Cada personagem tem vários desafios: faça todos pelo menu Treino."
+        ]
+      }
+    },
+    "ACHIEVEMENT019": {
+      "guia": {
+        "passos": [
+          "Partida Mundial - Jogue uma Partida Ranqueada."
+        ]
+      }
+    },
+    "ACHIEVEMENT020": {
+      "guia": {
+        "passos": [
+          "Partida Mundial - Jogue 10 Partidas Ranqueadas."
+        ]
+      }
+    },
+    "ACHIEVEMENT021": {
+      "guia": {
+        "passos": [
+          "Partida Mundial - Jogue 20 Partidas Ranqueadas."
+        ]
+      }
+    },
+    "ACHIEVEMENT022": {
+      "guia": {
+        "passos": [
+          "Partida Mundial - Conquiste 530.000 PB."
+        ],
+        "dicas": [
+          "PB sobe vencendo ranqueadas."
+        ]
+      }
+    },
+    "ACHIEVEMENT023": {
+      "guia": {
+        "passos": [
+          "Partida Mundial - Jogue 10 Partidas Casuais."
+        ]
+      }
+    },
+    "ACHIEVEMENT024": {
+      "guia": {
+        "passos": [
+          "Partida da Arena - Jogue uma partida."
+        ]
+      }
+    },
+    "ACHIEVEMENT025": {
+      "guia": {
+        "passos": [
+          "Partida da Arena - Jogue 10 partidas."
+        ]
+      }
+    },
+    "ACHIEVEMENT026": {
+      "guia": {
+        "passos": [
+          "Partida da Arena - Observe uma partida."
+        ]
+      }
+    },
+    "ACHIEVEMENT027": {
+      "guia": {
+        "passos": [
+          "Partida Mundial - Jogue uma Partida Casual."
+        ]
+      }
+    },
+    "ACHIEVEMENT028": {
+      "guia": {
+        "passos": [
+          "Partida Mundial - Jogue 20 Partidas Casuais."
+        ]
+      }
+    },
+    "ACHIEVEMENT029": {
+      "guia": {
+        "passos": [
+          "Replay - Use um Selo Z enquanto assiste a um Canal de Replays."
+        ]
+      }
+    },
+    "ACHIEVEMENT030": {
+      "guia": {
+        "passos": [
+          "Adquira 5.000.000 Zeni ao longo do jogo."
+        ]
+      }
+    },
+    "ACHIEVEMENT031": {
+      "guia": {
+        "passos": [
+          "Partida da Arena - Jogue 20 partidas."
+        ]
+      }
+    },
+    "ACHIEVEMENT032": {
+      "guia": {
+        "passos": [
+          "Adquira 20.000.000 Zeni ao longo do jogo."
+        ],
+        "dicas": [
+          "Zeni vem de todos os modos; a História e as ranqueadas rendem bem."
+        ]
+      }
+    },
+    "ACHIEVEMENT033": {
+      "guia": {
+        "passos": [
+          "Adquira 1.000.000 Zeni ao longo do jogo."
+        ]
+      }
+    },
+    "ACHIEVEMENT034": {
+      "guia": {
+        "passos": [
+          "Conclua um tutorial de missão."
+        ]
+      }
+    },
+    "ACHIEVEMENT035": {
+      "guia": {
+        "passos": [
+          "Conclua sete ou mais tutoriais de missão."
+        ]
+      }
+    }
+  }
 }

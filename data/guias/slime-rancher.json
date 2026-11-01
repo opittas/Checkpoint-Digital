@@ -19,5 +19,420 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "SELL_PLORTS_A": {
+      "guia": {
+        "passos": [
+          "Venda 100 plorts no Mercado de Plorts."
+        ]
+      }
+    },
+    "SELL_PLORTS_B": {
+      "guia": {
+        "passos": [
+          "Venda 500 plorts no Mercado de Plorts."
+        ]
+      }
+    },
+    "SELL_PLORTS_C": {
+      "guia": {
+        "passos": [
+          "Venda 1.000 plorts no Mercado de Plorts."
+        ]
+      }
+    },
+    "SELL_PLORTS_D": {
+      "guia": {
+        "passos": [
+          "Venda 2.500 plorts no Mercado de Plorts."
+        ]
+      }
+    },
+    "SELL_PLORTS_E": {
+      "guia": {
+        "passos": [
+          "Venda 5.000 plorts no Mercado de Plorts."
+        ]
+      }
+    },
+    "FEED_SLIMES_CHICKENS": {
+      "guia": {
+        "passos": [
+          "Alimente slimes com 100 galinhas no Rancho."
+        ]
+      }
+    },
+    "FRUIT_TREE_TYPES": {
+      "guia": {
+        "passos": [
+          "Tenha 3 árvores frutíferas diferentes no Rancho ao mesmo tempo."
+        ]
+      }
+    },
+    "VEGGIE_PATCH_TYPES": {
+      "guia": {
+        "passos": [
+          "Tenha 3 hortas diferentes no Rancho ao mesmo tempo."
+        ]
+      }
+    },
+    "EARN_CURRENCY_A": {
+      "guia": {
+        "passos": [
+          "Ganhe mais de 5.000 newbucks."
+        ]
+      }
+    },
+    "EARN_CURRENCY_B": {
+      "guia": {
+        "passos": [
+          "Ganhe mais de 25.000 newbucks."
+        ]
+      }
+    },
+    "EARN_CURRENCY_C": {
+      "guia": {
+        "passos": [
+          "Ganhe mais de 100.000 newbucks."
+        ]
+      }
+    },
+    "DAY_CURRENCY": {
+      "guia": {
+        "passos": [
+          "Ganhe 5.000 newbucks em um só dia."
+        ]
+      }
+    },
+    "AWAKE_UNTIL_MORNING": {
+      "guia": {
+        "passos": [
+          "Fique acordado das 6h às 6h do dia seguinte."
+        ]
+      }
+    },
+    "KNOCKOUT_MORNING": {
+      "guia": {
+        "passos": [
+          "Desmaie antes das 10h."
+        ]
+      }
+    },
+    "AWAY_FROM_RANCH": {
+      "guia": {
+        "passos": [
+          "Volte ao Rancho depois de mais de 24 horas."
+        ]
+      }
+    },
+    "FEED_AIRBORNE": {
+      "guia": {
+        "passos": [
+          "Atire comida na boca de um slime no ar."
+        ]
+      }
+    },
+    "PINK_SLIMES_FOOD_TYPES": {
+      "guia": {
+        "passos": [
+          "Dê 10 tipos diferentes de comida aos slimes rosa do Rancho."
+        ]
+      }
+    },
+    "FEED_FAVORITES": {
+      "guia": {
+        "passos": [
+          "Dê a 50 slimes do Rancho sua comida favorita."
+        ]
+      }
+    },
+    "DISCOVERED_QUARRY": {
+      "guia": {
+        "passos": [
+          "Descobriu a Pedreira."
+        ]
+      }
+    },
+    "DISCOVERED_MOSS": {
+      "guia": {
+        "passos": [
+          "Descobriu o Manto de Musgo."
+        ]
+      }
+    },
+    "DISCOVERED_DESERT": {
+      "guia": {
+        "passos": [
+          "Descobriu o Deserto de Vidro."
+        ]
+      }
+    },
+    "BURST_GORDO": {
+      "guia": {
+        "passos": [
+          "Estoure um slime gordo."
+        ]
+      }
+    },
+    "OPEN_SLIME_GATE": {
+      "guia": {
+        "passos": [
+          "Abra um portão de slime."
+        ]
+      }
+    },
+    "INCINERATE_ELDER_CHICKEN": {
+      "guia": {
+        "passos": [
+          "Incinere uma galinha anciã."
+        ]
+      }
+    },
+    "INCINERATE_CHICK": {
+      "guia": {
+        "passos": [
+          "Mande um pintinho fofo para um fim flamejante, o mesmo lugar para onde você vai."
+        ]
+      }
+    },
+    "FILLED_SILO": {
+      "guia": {
+        "passos": [
+          "Coloque pelo menos 50 unidades em cada espaço de um silo totalmente melhorado."
+        ]
+      }
+    },
+    "RANCH_UPGRADED_STORAGE": {
+      "guia": {
+        "passos": [
+          "Tenha curral, galinheiro e silo melhorados ao máximo no Rancho."
+        ]
+      }
+    },
+    "FULFILL_EXCHANGE_EARLY": {
+      "guia": {
+        "passos": [
+          "Cumpra um pedido da Troca do Campo entre meio-dia e 14h."
+        ]
+      }
+    },
+    "DAY_COLLECT_PLORTS": {
+      "guia": {
+        "passos": [
+          "Colete 50 plorts no Campo em um só dia."
+        ]
+      }
+    },
+    "GOLD_SLIME_TRIPLE_PLORT": {
+      "guia": {
+        "passos": [
+          "Consiga pelo menos 3 plorts de ouro de um único slime dourado."
+        ],
+        "dicas": [
+          "Alimente um slime dourado com comida rapidamente."
+        ]
+      }
+    },
+    "EXTENDED_RAD_EXPOSURE": {
+      "guia": {
+        "passos": [
+          "Fique dentro de uma aura radioativa por pelo menos 15 segundos."
+        ]
+      }
+    },
+    "EXTENDED_TARR_HOLD": {
+      "guia": {
+        "passos": [
+          "Segure um tarr por 15 segundos."
+        ]
+      }
+    },
+    "TABBY_HEADBUTT": {
+      "guia": {
+        "passos": [
+          "Deixe um slime malhado dar uma cabeçada bem no seu nariz."
+        ]
+      }
+    },
+    "LAUNCHED_BOOM_EXPLODE": {
+      "guia": {
+        "passos": [
+          "Atire um largo de slime explosivo para o alto e faça ele explodir antes de cair."
+        ]
+      }
+    },
+    "MANY_SLIMES_IN_VAC": {
+      "guia": {
+        "passos": [
+          "Segure mais de 15 slimes no aspirador ao mesmo tempo no campo."
+        ]
+      }
+    },
+    "CORRAL_SLIME_TYPES": {
+      "guia": {
+        "passos": [
+          "Tenha pelo menos 6 tipos diferentes de slimes no mesmo curral."
+        ]
+      }
+    },
+    "CORRAL_LARGO_TYPES": {
+      "guia": {
+        "passos": [
+          "Tenha pelo menos 3 tipos diferentes de largos no mesmo curral."
+        ]
+      }
+    },
+    "POND_SLIME_TYPES": {
+      "guia": {
+        "passos": [
+          "Encha um lago do Rancho com pelo menos 5 tipos diferentes de slimes."
+        ]
+      }
+    },
+    "RANCH_LARGO_TYPES": {
+      "guia": {
+        "passos": [
+          "Tenha pelo menos 10 tipos de largos no Rancho."
+        ]
+      }
+    },
+    "ENTERED_CORRAL_SLIMES": {
+      "guia": {
+        "passos": [
+          "Pule num curral com pelo menos 40 slimes."
+        ]
+      }
+    },
+    "TIME_LIMIT_CURRENCY_A": {
+      "guia": {
+        "passos": [
+          "Chegue a pelo menos 10.000 newbucks no Modo Rush."
+        ]
+      }
+    },
+    "TIME_LIMIT_CURRENCY_B": {
+      "guia": {
+        "passos": [
+          "Chegue a pelo menos 35.000 newbucks no Modo Rush."
+        ]
+      }
+    },
+    "TIME_LIMIT_CURRENCY_C": {
+      "guia": {
+        "passos": [
+          "Chegue a pelo menos 75.000 newbucks no Modo Rush."
+        ],
+        "dicas": [
+          "Modo Rush: foque em slimes valiosos e Largos cedo."
+        ]
+      }
+    },
+    "DISCOVERED_RUINS": {
+      "guia": {
+        "passos": [
+          "Descubra as Ruínas Antigas."
+        ]
+      }
+    },
+    "FABRICATE_GADGETS_A": {
+      "guia": {
+        "passos": [
+          "Fabrique seu primeiro aparelho de Ciência Slime."
+        ]
+      }
+    },
+    "FABRICATE_GADGETS_B": {
+      "guia": {
+        "passos": [
+          "Fabrique 35 aparelhos de Ciência Slime."
+        ]
+      }
+    },
+    "FABRICATE_GADGETS_C": {
+      "guia": {
+        "passos": [
+          "Fabrique 100 aparelhos de Ciência Slime."
+        ]
+      }
+    },
+    "SLIME_STAGE_TARR": {
+      "guia": {
+        "passos": [
+          "Coloque um tarr no Palco Slime nº 1."
+        ]
+      }
+    },
+    "SLIMEBALL_SCORE": {
+      "guia": {
+        "passos": [
+          "Faça 50 pontos numa partida de slimeball."
+        ]
+      }
+    },
+    "JOIN_REWARDS_CLUB": {
+      "guia": {
+        "passos": [
+          "Entre no Clube de Recompensas 7Zee."
+        ]
+      }
+    },
+    "USE_CHROMAS": {
+      "guia": {
+        "passos": [
+          "Use pacotes de cor para mudar a cor da casa, da tecnologia e do aspirador."
+        ]
+      }
+    },
+    "COLLECT_SLIME_TOYS": {
+      "guia": {
+        "passos": [
+          "Compre pelo menos 10 tipos diferentes de brinquedos de slime."
+        ]
+      }
+    },
+    "SNARE_HUNTER_GORDO": {
+      "guia": {
+        "passos": [
+          "Capture um Gordo Caçador."
+        ]
+      }
+    },
+    "ACTIVATE_OASIS": {
+      "guia": {
+        "passos": [
+          "Comece a trazer vida de volta ao Deserto de Vidro."
+        ]
+      }
+    },
+    "COMPLETE_SLIMEPEDIA": {
+      "guia": {
+        "passos": [
+          "Complete a Slimepédia."
+        ],
+        "dicas": [
+          "Descubra todos os slimes, recursos e tutoriais; alguns exigem chegar ao Deserto de Vidro."
+        ]
+      }
+    },
+    "FIND_HOBSONS_END": {
+      "guia": {
+        "passos": [
+          "Descubra onde a jornada de Hobson terminou e começou de novo."
+        ],
+        "dicas": [
+          "Siga as notas de Hobson até o Deserto de Vidro."
+        ]
+      }
+    },
+    "FINISH_ADVENTURE": {
+      "guia": {
+        "passos": [
+          "Complete o Modo Aventura e siga para o que vem depois."
+        ],
+        "dicas": [
+          "Siga a história até as Ruínas e o final do Deserto de Vidro."
+        ]
+      }
+    }
+  }
 }

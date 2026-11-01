@@ -1,20 +1,441 @@
 {
   "resumo": "A parte mais longa é O Melhor do Oeste (100% de conclusão). 17 conquistas são do Red Dead Online. As medalhas de ouro podem ser refeitas pelo menu de missões.",
   "roadmap": [
-    { "titulo": "História", "texto": "Faça as missões principais e de desconhecidos conforme aparecem. Alguns personagens só ficam disponíveis em capítulos específicos." },
-    { "titulo": "Epílogo", "texto": "No epílogo você volta ao mundo aberto completo: termine caçadas, estudos de animais, desafios e colecionáveis." },
-    { "titulo": "Medalhas de ouro", "texto": "Refaça missões pelo menu de progresso até ter 70 medalhas de ouro." },
-    { "titulo": "Red Dead Online", "texto": "As 17 conquistas do online são simples e saem naturalmente ao subir de nível." }
+    {
+      "titulo": "História",
+      "texto": "Faça as missões principais e de desconhecidos conforme aparecem. Alguns personagens só ficam disponíveis em capítulos específicos."
+    },
+    {
+      "titulo": "Epílogo",
+      "texto": "No epílogo você volta ao mundo aberto completo: termine caçadas, estudos de animais, desafios e colecionáveis."
+    },
+    {
+      "titulo": "Medalhas de ouro",
+      "texto": "Refaça missões pelo menu de progresso até ter 70 medalhas de ouro."
+    },
+    {
+      "titulo": "Red Dead Online",
+      "texto": "As 17 conquistas do online são simples e saem naturalmente ao subir de nível."
+    }
   ],
-  "avisos": ["Faça as missões de desconhecidos cedo: algumas expiram ao avançar a história."],
+  "avisos": [
+    "Faça as missões de desconhecidos cedo: algumas expiram ao avançar a história."
+  ],
   "conquistas": {
-    "Achievement35": { "online": true }, "Achievement36": { "online": true }, "Achievement37": { "online": true },
-    "Achievement38": { "online": true }, "Achievement39": { "online": true }, "Achievement40": { "online": true },
-    "Achievement41": { "online": true }, "Achievement42": { "online": true }, "Achievement43": { "online": true },
-    "Achievement44": { "online": true }, "Achievement45": { "online": true }, "Achievement46": { "online": true },
-    "Achievement47": { "online": true }, "Achievement48": { "online": true }, "Achievement49": { "online": true },
-    "Achievement50": { "online": true }, "Achievement51": { "online": true },
-    "Achievement12": { "dica": "Acompanhe a porcentagem no menu de progresso: missões, desconhecidos, desafios, compêndio e colecionáveis." },
-    "Achievement13": { "dica": "Os objetivos de ouro aparecem na tela de resultado de cada missão; refaça pelo menu de progresso." }
+    "Achievement35": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Conclua a Introdução."
+        ]
+      }
+    },
+    "Achievement36": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Participe de uma Série."
+        ]
+      }
+    },
+    "Achievement37": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Aceite 10 missões de Modo Livre de personagens pelo mundo."
+        ]
+      }
+    },
+    "Achievement38": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Jogue 5 Eventos do Modo Livre."
+        ]
+      }
+    },
+    "Achievement39": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Consiga 5 fivelas de ouro."
+        ]
+      }
+    },
+    "Achievement40": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Consiga MVP 3 vezes (em uma rodada com pelo menos 4 jogadores)."
+        ]
+      }
+    },
+    "Achievement41": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Tenha 5 cavalos ao mesmo tempo."
+        ]
+      }
+    },
+    "Achievement42": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Alcance o Nível 10."
+        ]
+      }
+    },
+    "Achievement43": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Alcance o Nível 50."
+        ]
+      }
+    },
+    "Achievement44": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Interfira com sucesso em uma missão de Modo Livre de um Bando rival."
+        ]
+      }
+    },
+    "Achievement45": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Compre 5 melhorias de acampamento."
+        ]
+      }
+    },
+    "Achievement46": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Crie 25 peças de munição."
+        ]
+      }
+    },
+    "Achievement47": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Forme um Bando Permanente."
+        ]
+      }
+    },
+    "Achievement48": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Crie 20 itens (exceto munição)."
+        ]
+      }
+    },
+    "Achievement49": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Venda 20 itens ao açougueiro."
+        ]
+      }
+    },
+    "Achievement50": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Colha 25 ervas."
+        ]
+      }
+    },
+    "Achievement51": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Red Dead Online: Conclua uma missão de Modo Livre em um Bando com pelo menos 2 membros."
+        ]
+      }
+    },
+    "Achievement12": {
+      "dica": "Acompanhe a porcentagem no menu de progresso: missões, desconhecidos, desafios, compêndio e colecionáveis.",
+      "guia": {
+        "passos": [
+          "Atinja 100% de conclusão."
+        ]
+      }
+    },
+    "Achievement13": {
+      "dica": "Os objetivos de ouro aparecem na tela de resultado de cada missão; refaça pelo menu de progresso.",
+      "guia": {
+        "passos": [
+          "Obtenha 70 Medalhas de Ouro em missões da História."
+        ]
+      }
+    },
+    "Achievement1": {
+      "guia": {
+        "passos": [
+          "Conclua o Capítulo 1."
+        ]
+      }
+    },
+    "Achievement2": {
+      "guia": {
+        "passos": [
+          "Conclua “Assombrado por uma Lembrança”."
+        ]
+      }
+    },
+    "Achievement3": {
+      "guia": {
+        "passos": [
+          "Conclua o Capítulo 2."
+        ]
+      }
+    },
+    "Achievement4": {
+      "guia": {
+        "passos": [
+          "Conclua o Capítulo 3."
+        ]
+      }
+    },
+    "Achievement5": {
+      "guia": {
+        "passos": [
+          "Conclua o Capítulo 4."
+        ]
+      }
+    },
+    "Achievement6": {
+      "guia": {
+        "passos": [
+          "Conclua o Capítulo 5."
+        ]
+      }
+    },
+    "Achievement7": {
+      "guia": {
+        "passos": [
+          "Conclua “Adeus, Caro Amigo”."
+        ]
+      }
+    },
+    "Achievement8": {
+      "guia": {
+        "passos": [
+          "Conclua “Sangue, Morte e Redenção”."
+        ]
+      }
+    },
+    "Achievement9": {
+      "guia": {
+        "passos": [
+          "Conclua “Uma Nova Jerusalém”."
+        ]
+      }
+    },
+    "Achievement10": {
+      "guia": {
+        "passos": [
+          "Conclua o Epílogo."
+        ]
+      }
+    },
+    "Achievement11": {
+      "guia": {
+        "passos": [
+          "Conclua todas as missões opcionais de Honra do Modo História."
+        ],
+        "atencao": [
+          "Algumas missões de honra ficam indisponíveis após certos capítulos; faça-as logo que aparecerem."
+        ]
+      }
+    },
+    "Achievement14": {
+      "guia": {
+        "passos": [
+          "Conclua uma atividade com companheiros em cada acampamento."
+        ],
+        "dicas": [
+          "Atividades como caçar, pescar ou beber com membros do bando; uma por acampamento (Horseshoe, Clemens Point, Shady Belle, Beaver Hollow)."
+        ]
+      }
+    },
+    "Achievement15": {
+      "guia": {
+        "passos": [
+          "Jogue todos os minijogos."
+        ],
+        "dicas": [
+          "Pôquer, Blackjack, Dominó, Five Finger Fillet e (Capítulo 6+) Pesca, etc.; jogue cada minijogo pelo menos uma vez."
+        ]
+      }
+    },
+    "Achievement16": {
+      "guia": {
+        "passos": [
+          "Saqueie a reserva de quatro propriedades."
+        ],
+        "dicas": [
+          "Use os mapas de esconderijo ou procure casas isoladas e saqueie."
+        ]
+      }
+    },
+    "Achievement17": {
+      "guia": {
+        "passos": [
+          "Descubra o destino de Marko Dragic."
+        ],
+        "dicas": [
+          "Siga a cadeia do Desconhecido de Marko Dragic (cartas e pistas em Saint Denis) até a montanha."
+        ]
+      }
+    },
+    "Achievement18": {
+      "guia": {
+        "passos": [
+          "Roube ou saqueie $250."
+        ]
+      }
+    },
+    "Achievement19": {
+      "guia": {
+        "passos": [
+          "Doe $250 à caixa de doações da gangue."
+        ]
+      }
+    },
+    "Achievement20": {
+      "guia": {
+        "passos": [
+          "Gaste $5.000 pelas lojas."
+        ]
+      }
+    },
+    "Achievement21": {
+      "guia": {
+        "passos": [
+          "Alcance o nível de Honra máximo ou mínimo."
+        ]
+      }
+    },
+    "Achievement22": {
+      "guia": {
+        "passos": [
+          "Conclua 10 linhas de missões de pessoas desconhecidas."
+        ]
+      }
+    },
+    "Achievement23": {
+      "guia": {
+        "passos": [
+          "Sobreviva por 3 dias com uma recompensa de $250 pela sua cabeça em todos os estados."
+        ],
+        "dicas": [
+          "Junte recompensa de $250 em cada estado e sobreviva 3 dias de jogo sem pagar."
+        ]
+      }
+    },
+    "Achievement24": {
+      "guia": {
+        "passos": [
+          "Conclua uma das linhas de colecionáveis."
+        ]
+      }
+    },
+    "Achievement25": {
+      "guia": {
+        "passos": [
+          "Encontre os túmulos de cada um dos seus companheiros falecidos."
+        ],
+        "dicas": [
+          "Disponível no Epílogo; visite os túmulos dos companheiros falecidos."
+        ]
+      }
+    },
+    "Achievement26": {
+      "guia": {
+        "passos": [
+          "Atenda a 5 pedidos de itens de companheiros do acampamento."
+        ]
+      }
+    },
+    "Achievement27": {
+      "guia": {
+        "passos": [
+          "Encontre um lar permanente para a estátua de esquilo."
+        ],
+        "dicas": [
+          "Desconhecido do 'Artista' em Saint Denis; leve a escultura de esquilo até o museu/galeria."
+        ]
+      }
+    },
+    "Achievement28": {
+      "guia": {
+        "passos": [
+          "Crie 30 itens únicos no Modo História."
+        ]
+      }
+    },
+    "Achievement29": {
+      "guia": {
+        "passos": [
+          "Esfole todas as espécies de animais no Modo História."
+        ],
+        "dicas": [
+          "Use o Compêndio para ver espécies faltando; algumas aparecem só em certas regiões."
+        ]
+      }
+    },
+    "Achievement30": {
+      "guia": {
+        "passos": [
+          "Estude todos os animais em todos os estados no Modo História."
+        ],
+        "dicas": [
+          "Use os binóculos para estudar cada animal; vários exigem regiões específicas."
+        ]
+      }
+    },
+    "Achievement31": {
+      "guia": {
+        "passos": [
+          "Apanhe um peixe de pelo menos 16 lb (7,3 kg)."
+        ],
+        "dicas": [
+          "Use iscas especiais e pesque em lagos grandes ou no mar."
+        ]
+      }
+    },
+    "Achievement32": {
+      "guia": {
+        "passos": [
+          "Aprimore todos os componentes disponíveis para uma única arma curta ou longa."
+        ]
+      }
+    },
+    "Achievement33": {
+      "guia": {
+        "passos": [
+          "Sobreviva a 18 ataques de ursos e mate-os no Modo História."
+        ],
+        "dicas": [
+          "Ursos aparecem em Big Valley e nas montanhas; use um rifle forte."
+        ]
+      }
+    },
+    "Achievement34": {
+      "guia": {
+        "passos": [
+          "Alcance o nível de vínculo máximo com um cavalo."
+        ],
+        "dicas": [
+          "Escove, alimente e cavalgue o mesmo cavalo até o vínculo 4."
+        ]
+      }
+    }
   }
 }

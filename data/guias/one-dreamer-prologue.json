@@ -7,5 +7,93 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Bad_Doggy": {
+      "guia": {
+        "passos": [
+          "Use o poder de hackear para desativar um cachorro."
+        ],
+        "dicas": [
+          "Procure o código do cachorro na primeira fase."
+        ]
+      }
+    },
+    "Honk": {
+      "guia": {
+        "passos": [
+          "Ative o diálogo especial durante a história."
+        ],
+        "dicas": [
+          "Fale com todos os personagens."
+        ]
+      }
+    },
+    "UwU": {
+      "guia": {
+        "passos": [
+          "Encontre o jeito de parar a máquina de fliperama."
+        ],
+        "dicas": [
+          "Mexa no código dela."
+        ]
+      }
+    },
+    "P/\\DDLE": {
+      "guia": {
+        "passos": [
+          "Vença o jogo de P/\\DDLE sem trapacear."
+        ],
+        "dicas": [
+          "Jogue com calma."
+        ]
+      }
+    },
+    "Pathetic": {
+      "guia": {
+        "passos": [
+          "Seja chamado de 'patético' por um personagem."
+        ],
+        "dicas": [
+          "Perca ou falhe propositalmente em um minijogo."
+        ]
+      }
+    },
+    "Respects": {
+      "guia": {
+        "passos": [
+          "Desconecte o EP1C_SLAY3R no jogo."
+        ],
+        "dicas": [
+          "Acontece em uma cena específica: tente o código."
+        ]
+      }
+    },
+    "Awake": {
+      "guia": {
+        "passos": [
+          "Ative o diálogo de tentar entrar no jogo."
+        ]
+      }
+    },
+    "Getting_Old": {
+      "guia": {
+        "passos": [
+          "Mude a variável Frank.tired para false no código."
+        ],
+        "dicas": [
+          "Edite o código pelo terminal."
+        ]
+      }
+    },
+    "Ree": {
+      "guia": {
+        "passos": [
+          "Faça uma criança surtar."
+        ],
+        "dicas": [
+          "Atrapalhe a criança que joga."
+        ]
+      }
+    }
+  }
 }

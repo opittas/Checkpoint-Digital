@@ -9,5 +9,153 @@
   "avisos": [
     "Depende dos servidores."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "mcvs_getaclan": {
+      "guia": {
+        "passos": [
+          "Crie ou entre em um clã."
+        ]
+      }
+    },
+    "mcvs_winmatch1": {
+      "guia": {
+        "passos": [
+          "Vença 3 partidas."
+        ]
+      }
+    },
+    "mcvs_winmatch2": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas."
+        ]
+      }
+    },
+    "mcvs_winmatch3": {
+      "guia": {
+        "passos": [
+          "Vença 50 partidas."
+        ]
+      }
+    },
+    "mcvs_winmatch4": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas."
+        ]
+      }
+    },
+    "mcvs_finalshot1": {
+      "guia": {
+        "passos": [
+          "Faça 10 abates."
+        ]
+      }
+    },
+    "mcvs_finalshot2": {
+      "guia": {
+        "passos": [
+          "Faça 100 abates."
+        ]
+      }
+    },
+    "mcvs_finalshot3": {
+      "guia": {
+        "passos": [
+          "Faça 500 abates."
+        ]
+      }
+    },
+    "mcvs_finalshot4": {
+      "guia": {
+        "passos": [
+          "Faça 2.000 abates."
+        ]
+      }
+    },
+    "mcvs_finalshot5": {
+      "guia": {
+        "passos": [
+          "Faça 5.000 abates."
+        ]
+      }
+    },
+    "mcvs_opencrate1": {
+      "guia": {
+        "passos": [
+          "Abra 5 Caixas de Vitória."
+        ]
+      }
+    },
+    "mcvs_opencrate2": {
+      "guia": {
+        "passos": [
+          "Abra 15 Caixas de Vitória."
+        ]
+      }
+    },
+    "mcvs_opencrate3": {
+      "guia": {
+        "passos": [
+          "Abra 50 Caixas de Vitória."
+        ]
+      }
+    },
+    "mcvs_opencrate4": {
+      "guia": {
+        "passos": [
+          "Abra 200 Caixas de Vitória."
+        ]
+      }
+    },
+    "mcvs_reachbronze": {
+      "guia": {
+        "passos": [
+          "Chegue à Liga de Bronze."
+        ]
+      }
+    },
+    "mcvs_reachsilver": {
+      "guia": {
+        "passos": [
+          "Chegue à Liga de Prata."
+        ]
+      }
+    },
+    "mcvs_reachgold": {
+      "guia": {
+        "passos": [
+          "Chegue à Liga de Ouro."
+        ]
+      }
+    },
+    "mcvs_reachplatinum": {
+      "guia": {
+        "passos": [
+          "Chegue à Liga de Platina."
+        ]
+      }
+    },
+    "mcvs_reachdiamond": {
+      "guia": {
+        "passos": [
+          "Chegue à Liga de Diamante."
+        ]
+      }
+    },
+    "mcvs_reachmaster": {
+      "guia": {
+        "passos": [
+          "Chegue à Liga de Mestre."
+        ]
+      }
+    },
+    "mcvs_winmatch5": {
+      "guia": {
+        "passos": [
+          "Vença 500 partidas."
+        ]
+      }
+    }
+  }
 }

@@ -1,0 +1,162 @@
+{
+  "resumo": "Metroid Prime 4: Beyond não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: as áreas de Viewros, as peças do Tokabi, 100% dos itens e do Logbook, os Cristais de Energia Verde e o modo Difícil.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Prólogo, Fury Green, Volt Forge, Flare Pool, Ice Belt e Great Mines, usando o Sol Valley como centro."
+    },
+    {
+      "titulo": "2. Limpeza",
+      "texto": "Volte com todos os poderes para tanques, expansões e escaneamentos que faltaram."
+    },
+    {
+      "titulo": "3. Cristais",
+      "texto": "Junte os Cristais de Energia Verde no deserto com a Vi-O-La."
+    },
+    {
+      "titulo": "4. Difícil",
+      "texto": "Termine de novo no modo Difícil, liberado ao zerar."
+    }
+  ],
+  "avisos": [
+    "Alguns escaneamentos (piratas espaciais e soldados da Federação) só podem ser feitos no começo do jogo."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga a ordem: Fury Green, Volt Forge, Flare Pool, Ice Belt e Great Mines.",
+          "Volte à Chrono Tower e derrote o Sylux."
+        ],
+        "dicas": [
+          "Antes da batalha final, junte tanques de energia extras."
+        ]
+      }
+    },
+    "fury_green": {
+      "guia": {
+        "passos": [
+          "Atravesse a floresta usando o poder psíquico para a primeira trava.",
+          "Derrote o Carvex no fim."
+        ],
+        "dicas": [
+          "Mire nos pontos que brilham durante os ataques."
+        ]
+      }
+    },
+    "volt_forge": {
+      "guia": {
+        "passos": [
+          "Explore a forja e libere o Modo IC da moto Vi-O-La.",
+          "Derrote o drone mecanoide."
+        ],
+        "dicas": [
+          "O Modo IC destrava passagens elétricas no Sol Valley."
+        ]
+      }
+    },
+    "flare_pool": {
+      "guia": {
+        "passos": [
+          "Use a moto para chegar ao Flare Pool.",
+          "Termine a área e a batalha da ponte."
+        ],
+        "dicas": [
+          "Leve a armadura certa contra calor."
+        ]
+      }
+    },
+    "ice_belt": {
+      "guia": {
+        "passos": [
+          "Explore o Ice Belt e derrote o chefe."
+        ],
+        "dicas": [
+          "Use o tiro de fogo contra inimigos de gelo."
+        ]
+      }
+    },
+    "great_mines": {
+      "guia": {
+        "passos": [
+          "Desça as minas e derrote o chefe."
+        ],
+        "dicas": [
+          "Use Power Bombs para abrir caminhos."
+        ]
+      }
+    },
+    "pecas": {
+      "guia": {
+        "passos": [
+          "Ache as 6 Peças Mecânicas espalhadas pelas áreas e leve ao Tokabi no acampamento."
+        ],
+        "dicas": [
+          "Cada peça melhora a Vi-O-La."
+        ]
+      }
+    },
+    "tanques": {
+      "guia": {
+        "passos": [
+          "Junte os Tanques de Energia de cada área.",
+          "Volte depois com poderes novos para os inacessíveis."
+        ],
+        "dicas": [
+          "O mapa marca áreas não exploradas."
+        ]
+      }
+    },
+    "misseis": {
+      "guia": {
+        "passos": [
+          "Junte todas as expansões de Míssil, de Tiro (normal e grande) e de Power Bomb."
+        ],
+        "dicas": [
+          "Use o Escaneador em paredes suspeitas."
+        ]
+      }
+    },
+    "cristais": {
+      "guia": {
+        "passos": [
+          "No Sol Valley, quebre os cristais verdes com a moto.",
+          "Leve a energia ao Altar do Legado para cada recompensa."
+        ],
+        "dicas": [
+          "A moto em velocidade máxima quebra mais cristais em sequência."
+        ]
+      }
+    },
+    "logbook": {
+      "guia": {
+        "passos": [
+          "Escaneie todos os inimigos, chefes e a lore Lamorn.",
+          "Cheque o Logbook para ver o que falta."
+        ],
+        "atencao": [
+          "Alguns escaneamentos só existem no começo do jogo."
+        ]
+      }
+    },
+    "100": {
+      "guia": {
+        "passos": [
+          "Junte 100% dos itens antes do chefe final.",
+          "Termine para ver o final verdadeiro."
+        ]
+      }
+    },
+    "dificil": {
+      "guia": {
+        "passos": [
+          "Zere o jogo uma vez para liberar o modo Difícil.",
+          "Termine nele."
+        ],
+        "dicas": [
+          "Faça a limpeza de tanques cedo para sobreviver mais."
+        ]
+      }
+    }
+  }
+}

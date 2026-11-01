@@ -19,5 +19,401 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "gc_challenge_001": {
+      "guia": {
+        "passos": [
+          "Derrote 100 inimigos em combate. Mostre do que é capaz!"
+        ]
+      }
+    },
+    "gc_challenge_002": {
+      "guia": {
+        "passos": [
+          "Derrote 250 inimigos em combate. Bote medo neles!"
+        ]
+      }
+    },
+    "gc_challenge_003": {
+      "guia": {
+        "passos": [
+          "Derrote 1000 inimigos em combate. Mostre quem manda!"
+        ]
+      }
+    },
+    "gc_challenge_004": {
+      "guia": {
+        "passos": [
+          "Dê overkill em 250 inimigos. Sem piedade!"
+        ]
+      }
+    },
+    "gc_challenge_005": {
+      "guia": {
+        "passos": [
+          "Derrote 50 inimigos com objetos arremessados. Olha eles voando!"
+        ]
+      }
+    },
+    "gc_challenge_006": {
+      "guia": {
+        "passos": [
+          "Derrote 100 inimigos com objetos arremessados. Mande eles para a lua!"
+        ]
+      }
+    },
+    "gc_challenge_007": {
+      "guia": {
+        "passos": [
+          "Pegue o escudo de um inimigo e arremesse 10 vezes. Agradeça a generosidade!"
+        ]
+      }
+    },
+    "gc_challenge_008": {
+      "guia": {
+        "passos": [
+          "Arremesse de volta qualquer objeto criado por um chefe. Isso vai ensinar!"
+        ]
+      }
+    },
+    "gc_challenge_009": {
+      "guia": {
+        "passos": [
+          "Use Técnicas Burst 100 vezes. Golpes energéticos!"
+        ]
+      }
+    },
+    "gc_challenge_010": {
+      "guia": {
+        "passos": [
+          "Colete todas as melhorias de vida! Mantenha o chassi em forma!"
+        ]
+      }
+    },
+    "gc_challenge_011": {
+      "guia": {
+        "passos": [
+          "Colete todas as melhorias de energia Burst! Punhos sempre carregados!"
+        ]
+      }
+    },
+    "gc_challenge_012": {
+      "guia": {
+        "passos": [
+          "Colete e pesquise todos os Chips de Dados. Muito estudioso!"
+        ]
+      }
+    },
+    "gc_challenge_013": {
+      "guia": {
+        "passos": [
+          "Compre todos os Chips de Reforço do jogo. Um para cada ocasião!"
+        ]
+      }
+    },
+    "gc_challenge_014": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as Técnicas Burst do jogo. Mestre do combate!"
+        ]
+      }
+    },
+    "gc_challenge_015": {
+      "guia": {
+        "passos": [
+          "Resgate todos os robôs que precisam de ajuda em qualquer fase. Ajude eles!"
+        ],
+        "dicas": [
+          "Bots presos ficam escondidos nas fases; ouça e procure áreas secretas."
+        ]
+      }
+    },
+    "gc_challenge_016": {
+      "guia": {
+        "passos": [
+          "Resgate todos os robôs que precisam de ajuda. Dando uma mão!"
+        ]
+      }
+    },
+    "gc_challenge_017": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sem pegar melhorias de vida. Já está em forma!"
+        ],
+        "atencao": [
+          "Faça numa jogada separada (ou NG+) sem pegar upgrades de vida."
+        ]
+      }
+    },
+    "gc_challenge_018": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sem pegar melhorias Burst. Energia suficiente!"
+        ],
+        "atencao": [
+          "Jogada separada sem upgrades de energia; pode combinar com as outras 'Already/Almost'."
+        ]
+      }
+    },
+    "gc_challenge_019": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sem comprar Chips de Reforço extras. Não precisa de mais!"
+        ],
+        "atencao": [
+          "Pode ser combinada com as outras restrições numa mesma jogada."
+        ]
+      }
+    },
+    "gc_challenge_020": {
+      "guia": {
+        "passos": [
+          "Termine o jogo sem comprar Técnicas Burst extras. Só precisa de uma!"
+        ],
+        "atencao": [
+          "Pode ser combinada com as outras restrições numa mesma jogada."
+        ]
+      }
+    },
+    "gc_challenge_021": {
+      "guia": {
+        "passos": [
+          "Resgate Yuki e Amadeus. Quem são eles e por que são tão fofos?"
+        ]
+      }
+    },
+    "gc_challenge_022": {
+      "guia": {
+        "passos": [
+          "Faça carinho em Yuki ou Amadeus. Até um herói tem seu lado sensível!"
+        ]
+      }
+    },
+    "gc_challenge_023": {
+      "guia": {
+        "passos": [
+          "Marque um ponto com a bola de treino. Belo arremesso!"
+        ]
+      }
+    },
+    "gc_challenge_024": {
+      "guia": {
+        "passos": [
+          "Faça dez pontos seguidos com a bola de treino sem tocar o aro. Que pontaria!"
+        ]
+      }
+    },
+    "gc_challenge_025": {
+      "guia": {
+        "passos": [
+          "Descanse com o Fix por um tempo e reflita. Que conforto!"
+        ]
+      }
+    },
+    "gc_challenge_026": {
+      "guia": {
+        "passos": [
+          "Pague pelos estragos que causou. É o certo."
+        ]
+      }
+    },
+    "gc_challenge_027": {
+      "guia": {
+        "passos": [
+          "Sobreviva à Técnica Burst de qualquer chefe dez vezes numa luta. Escapou!"
+        ]
+      }
+    },
+    "gc_challenge_028": {
+      "guia": {
+        "passos": [
+          "Derrote qualquer chefe sem usar Técnica Burst. Ensine o básico!"
+        ]
+      }
+    },
+    "gc_challenge_029": {
+      "guia": {
+        "passos": [
+          "Derrote qualquer chefe finalizando com uma Técnica Burst. Dê um show!"
+        ]
+      }
+    },
+    "gc_challenge_030": {
+      "guia": {
+        "passos": [
+          "Derrote qualquer chefe sem sofrer dano. Luta limpa!"
+        ]
+      }
+    },
+    "gc_challenge_031": {
+      "guia": {
+        "passos": [
+          "Termine qualquer fase sem sofrer dano. Intocável de verdade!"
+        ]
+      }
+    },
+    "gc_challenge_032": {
+      "guia": {
+        "passos": [
+          "Depois de chegar ao QG dos Guardiões, termine qualquer fase sem dano de armadilhas. Segurança em primeiro lugar!"
+        ]
+      }
+    },
+    "gc_challenge_033": {
+      "guia": {
+        "passos": [
+          "Termine qualquer fase sem usar Técnica Burst. Fundamentos sólidos!"
+        ]
+      }
+    },
+    "gc_challenge_034": {
+      "guia": {
+        "passos": [
+          "Depois de chegar ao QG dos Guardiões, termine qualquer fase sem usar estação de reparo. Tem que continuar!"
+        ]
+      }
+    },
+    "gc_challenge_035": {
+      "guia": {
+        "passos": [
+          "Termine qualquer fase só com seu fiel gancho e arremessos. É tudo que precisa!"
+        ]
+      }
+    },
+    "gc_challenge_036": {
+      "guia": {
+        "passos": [
+          "Não seja atingido por nenhum laser na Siderúrgica. Corra mais que tudo!"
+        ]
+      }
+    },
+    "gc_challenge_037": {
+      "guia": {
+        "passos": [
+          "Não fique preso na gosma roxa no Ferro-Velho. Fique limpo!"
+        ]
+      }
+    },
+    "gc_challenge_038": {
+      "guia": {
+        "passos": [
+          "Não congele nas Montanhas. Fique aquecido!"
+        ]
+      }
+    },
+    "gc_challenge_039": {
+      "guia": {
+        "passos": [
+          "Não encoste nas superfícies eletrificadas da Usina. Bzzzt!"
+        ]
+      }
+    },
+    "gc_challenge_040": {
+      "guia": {
+        "passos": [
+          "Não toque nas placas da Rodovia. Ande com cuidado!"
+        ]
+      }
+    },
+    "gc_challenge_041": {
+      "guia": {
+        "passos": [
+          "Não seja atingido pelas ondas sonoras das caixas gigantes do Medley no Centro. Aproveite o silêncio!"
+        ]
+      }
+    },
+    "gc_challenge_042": {
+      "guia": {
+        "passos": [
+          "Não deixe seu mech ser destruído nas Minas. Segurança em primeiro lugar!"
+        ]
+      }
+    },
+    "gc_challenge_043": {
+      "guia": {
+        "passos": [
+          "Castigue o Hash por rir de você no Ciberespaço. Isso é sério!"
+        ]
+      }
+    },
+    "gc_challenge_044": {
+      "guia": {
+        "passos": [
+          "Desvie de todas as Técnicas Burst da Nega. Mova-se como um ninja!"
+        ]
+      }
+    },
+    "gc_challenge_045": {
+      "guia": {
+        "passos": [
+          "Derrote o Cristal do Circuito de primeira, sem tentar de novo. Mostre quem manda!"
+        ]
+      }
+    },
+    "gc_challenge_046": {
+      "guia": {
+        "passos": [
+          "Desvie dos ataques de agarrar do Kernel. Sem encostar!"
+        ]
+      }
+    },
+    "gc_challenge_047": {
+      "guia": {
+        "passos": [
+          "Não seja esmagado pelas mãos do Comandante Circuit. Sem pancada!"
+        ]
+      }
+    },
+    "gc_challenge_048": {
+      "guia": {
+        "passos": [
+          "Faça todos que você ajudou aparecerem na cena final. Reencontro emocionante!"
+        ],
+        "dicas": [
+          "Depende de ter resgatado todos os bots antes do final."
+        ]
+      }
+    },
+    "gc_challenge_049": {
+      "guia": {
+        "passos": [
+          "Derrote os Circuitos Rebeldes. Acabou mesmo?"
+        ]
+      }
+    },
+    "gc_challenge_050": {
+      "guia": {
+        "passos": [
+          "Termine o jogo. Enfim, paz."
+        ]
+      }
+    },
+    "gc_challenge_051": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no Novo Jogo+. Hora de mais uma rodada?"
+        ]
+      }
+    },
+    "gc_challenge_052": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no Modo Circuit. Excelente!"
+        ],
+        "atencao": [
+          "Circuit Mode é a dificuldade mais alta; faça depois de dominar as fases."
+        ]
+      }
+    },
+    "gc_challenge_053": {
+      "guia": {
+        "passos": [
+          "Complete todas as outras conquistas do jogo. Que habilidade!"
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todas as outras."
+        ]
+      }
+    }
+  }
 }

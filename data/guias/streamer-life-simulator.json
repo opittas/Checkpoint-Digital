@@ -11,5 +11,111 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "achievement_00": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial."
+        ]
+      }
+    },
+    "achievement_01": {
+      "guia": {
+        "passos": [
+          "Participe de um torneio."
+        ]
+      }
+    },
+    "achievement_02": {
+      "guia": {
+        "passos": [
+          "Compre algo com desconto."
+        ]
+      }
+    },
+    "achievement_03": {
+      "guia": {
+        "passos": [
+          "Dirija um carro."
+        ]
+      }
+    },
+    "achievement_04": {
+      "guia": {
+        "passos": [
+          "Recolha itens na rua."
+        ]
+      }
+    },
+    "achievement_05": {
+      "guia": {
+        "passos": [
+          "Compre uma casa nova."
+        ]
+      }
+    },
+    "achievement_06": {
+      "guia": {
+        "passos": [
+          "Jogue uma partida ranqueada."
+        ]
+      }
+    },
+    "achievement_07": {
+      "guia": {
+        "passos": [
+          "Junte bastante dinheiro."
+        ]
+      }
+    },
+    "achievement_08": {
+      "guia": {
+        "passos": [
+          "Fique famoso com muitos seguidores."
+        ]
+      }
+    },
+    "achievement_09": {
+      "guia": {
+        "passos": [
+          "Faça várias lives seguidas."
+        ]
+      }
+    },
+    "achievement_10": {
+      "guia": {
+        "passos": [
+          "Adote um pet."
+        ]
+      }
+    },
+    "achievement_11": {
+      "guia": {
+        "passos": [
+          "Monte um minerador de cripto."
+        ]
+      }
+    },
+    "achievement_12": {
+      "guia": {
+        "passos": [
+          "Negocie cripto."
+        ]
+      }
+    },
+    "achievement_13": {
+      "guia": {
+        "passos": [
+          "Junte muito dinheiro."
+        ]
+      }
+    },
+    "achievement_14": {
+      "guia": {
+        "passos": [
+          "Mantenha uma boa reputação na live."
+        ]
+      }
+    }
+  }
 }

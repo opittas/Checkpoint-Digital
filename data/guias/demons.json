@@ -1,23 +1,321 @@
 {
   "resumo": "Lista exclusiva do PS5. Anéis, magias e milagres exigem mais de uma jogatina (NG+), e vários troféus dependem de NPCs e de condições específicas de chefes — leia as dicas antes de cada luta.",
   "roadmap": [
-    { "titulo": "1ª jogatina", "texto": "Derrote todos os demônios, faça os troféus de condição especial (Cavaleiro da Torre sem matar arqueiros, Adjudicador sem cair etc.) e resgate os NPCs." },
-    { "titulo": "Online", "texto": "Ajude alguém a vencer um chefe e vença uma invasão." },
-    { "titulo": "NG+", "texto": "Complete anéis, magias e milagres que dependem de outros ciclos ou tendências de mundo." }
+    {
+      "titulo": "1ª jogatina",
+      "texto": "Derrote todos os demônios, faça os troféus de condição especial (Cavaleiro da Torre sem matar arqueiros, Adjudicador sem cair etc.) e resgate os NPCs."
+    },
+    {
+      "titulo": "Online",
+      "texto": "Ajude alguém a vencer um chefe e vença uma invasão."
+    },
+    {
+      "titulo": "NG+",
+      "texto": "Complete anéis, magias e milagres que dependem de outros ciclos ou tendências de mundo."
+    }
   ],
   "avisos": [
     "Troféus de NPC (Biorr, Garl Vinland, Satsuki, Yuria, Freke, Urbain) podem ser perdidos se o NPC morrer.",
     "Condições de chefe (sem matar arqueiros, sem acertar clones, Adjudicador sem cair) valem só naquela luta — dá para refazer no NG+."
   ],
   "conquistas": {
-    "return-to-form": { "online": true }, "unwelcome-guest": { "online": true },
-    "one-shall-fall": { "missavel": true, "dica": "Ignore os arqueiros nas muralhas durante a luta." },
-    "brother-in-arms": { "missavel": true, "dica": "Resgate Biorr na 2-1 para ele ajudar contra o Penetrador." },
-    "not-fooled": { "missavel": true, "dica": "Ataque apenas o Ídolo verdadeiro e ignore as cópias." },
-    "one-shall-stand": { "missavel": true, "dica": "Não ataque o ponto fraco da barriga que o derruba." },
-    "may-you-be-unharmed": { "missavel": true, "dica": "Passe por Garl Vinland sem matá-lo e derrote Astraea." },
-    "worthy-of-the-sword": { "missavel": true },
-    "seekest-soul-power": { "dica": "É um dos finais: aceite o poder do Antigo após o último chefe." },
-    "king-of-rings": { "dica": "Alguns anéis exigem NG+ ou tendência de mundo específica." }
+    "return-to-form": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Entre como fantasma azul num jogo de outro jogador e ajude a matar o chefe."
+        ]
+      }
+    },
+    "unwelcome-guest": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Use a Pedra Negra do Olho de Sangue para invadir e mate o anfitrião."
+        ]
+      }
+    },
+    "one-shall-fall": {
+      "missavel": true,
+      "dica": "Ignore os arqueiros nas muralhas durante a luta.",
+      "guia": {
+        "passos": [
+          "Derrote o Cavaleiro da Torre sem matar nenhum arqueiro das muralhas."
+        ]
+      }
+    },
+    "brother-in-arms": {
+      "missavel": true,
+      "dica": "Resgate Biorr na 2-1 para ele ajudar contra o Penetrador.",
+      "guia": {
+        "passos": [
+          "Resgate o Biorr na 1-1 e faça a luta contra o Penetrador com ele ajudando."
+        ]
+      }
+    },
+    "not-fooled": {
+      "missavel": true,
+      "dica": "Ataque apenas o Ídolo verdadeiro e ignore as cópias.",
+      "guia": {
+        "passos": [
+          "Derrote o Ídolo do Tolo atacando só o verdadeiro, sem acertar clones."
+        ]
+      }
+    },
+    "one-shall-stand": {
+      "missavel": true,
+      "dica": "Não ataque o ponto fraco da barriga que o derruba.",
+      "guia": {
+        "passos": [
+          "Derrote o Adjudicador sem acertar o ponto fraco que o derruba."
+        ]
+      }
+    },
+    "may-you-be-unharmed": {
+      "missavel": true,
+      "dica": "Passe por Garl Vinland sem matá-lo e derrote Astraea.",
+      "guia": {
+        "passos": [
+          "Derrote a Donzela Astraea sem matar o Garl Vinland."
+        ]
+      }
+    },
+    "worthy-of-the-sword": {
+      "missavel": true,
+      "guia": {
+        "passos": [
+          "Entregue a Makoto (espada) para Satsuki no Nexus."
+        ]
+      }
+    },
+    "seekest-soul-power": {
+      "dica": "É um dos finais: aceite o poder do Antigo após o último chefe.",
+      "guia": {
+        "passos": [
+          "Final 'ruim': depois do último chefe, aceite o poder do Antigo."
+        ]
+      }
+    },
+    "king-of-rings": {
+      "dica": "Alguns anéis exigem NG+ ou tendência de mundo específica.",
+      "guia": {
+        "passos": [
+          "Pegue todos os anéis."
+        ],
+        "dicas": [
+          "Alguns exigem tendência de personagem ou de mundo e NG+."
+        ]
+      }
+    },
+    "slayer-of-trophies": {
+      "guia": {
+        "passos": [
+          "Ganhe todos os outros troféus."
+        ],
+        "dicas": [
+          "Planeje para NG+ e NG++: tendências de mundo e personagem mudam itens."
+        ]
+      }
+    },
+    "phalanx-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 1-1 (Palácio de Boletaria)."
+        ],
+        "dicas": [
+          "Bombas de fogo e armas de fogo quebram os escudos das bolhas."
+        ]
+      }
+    },
+    "tower-knight-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 1-2. Ataque os tornozelos até ele cair e bata no ponto fraco."
+        ],
+        "dicas": [
+          "Mate os arqueiros das muralhas se não estiver buscando o troféu 'Um Há de Cair'."
+        ]
+      }
+    },
+    "penetrator-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 1-3. Desvie das estocadas e ataque logo depois."
+        ],
+        "dicas": [
+          "Resgatar o Biorr ajuda nesta luta."
+        ]
+      }
+    },
+    "armor-spider-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 2-1 (Minas de Stonefang). Aproxime-se pelas laterais e ataque entre as rajadas de fogo."
+        ]
+      }
+    },
+    "flamelurker-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 2-2. Use resistência a fogo e ataque depois dos combos dele."
+        ]
+      }
+    },
+    "fool-s-idol-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 3-1 (Torre de Latria). Mate a sacerdotisa que reanima o Ídolo e depois o Ídolo."
+        ]
+      }
+    },
+    "maneater-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 3-2. Mate o primeiro Devorador rápido, antes do segundo aparecer."
+        ],
+        "dicas": [
+          "Use magia ou arco se tiver."
+        ]
+      }
+    },
+    "adjudicator-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 4-1 (Santuário das Tempestades). Ataque a barriga para derrubá-lo e acerte o ponto fraco."
+        ]
+      }
+    },
+    "old-hero-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 4-2. Ele é cego: ande agachado devagar (sem correr) e ataque pelas costas."
+        ]
+      }
+    },
+    "leechmonger-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 5-1 (Vale da Corrupção). Use fogo; acabe com ele na plataforma."
+        ]
+      }
+    },
+    "dirty-colossus-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 5-2. Use fogo e fuja das nuvens de moscas."
+        ]
+      }
+    },
+    "false-king-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 1-4: o último chefe do Palácio de Boletaria."
+        ]
+      }
+    },
+    "dragon-god-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 2-3. Esconda-se atrás das pedras e use as duas balistas."
+        ]
+      }
+    },
+    "old-monk-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 3-3. Às vezes ele vem como um jogador invasor online."
+        ]
+      }
+    },
+    "storm-king-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 4-3. Pegue a Storm Ruler no campo e use os ataques à distância dela."
+        ]
+      }
+    },
+    "maiden-astraea-s-trophy": {
+      "guia": {
+        "passos": [
+          "Mundo 5-3. Chegue até ela no pântano; derrotar Garl Vinland não é obrigatório."
+        ]
+      }
+    },
+    "sage-s-trophy": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as magias com Freke, Yuria e Sage Freke/Sarrah."
+        ],
+        "dicas": [
+          "Algumas exigem tendência de mundo e almas de demônio específicas: planeje entre NG e NG+."
+        ]
+      }
+    },
+    "saint-s-trophy": {
+      "guia": {
+        "passos": [
+          "Aprenda todos os milagres com o Santo Urbain e outros NPCs."
+        ],
+        "dicas": [
+          "Exige almas de demônio específicas."
+        ]
+      }
+    },
+    "fists-of-legend": {
+      "guia": {
+        "passos": [
+          "Lute contra o Deus Dragão usando as Mãos de Deus (luvas de punho)."
+        ]
+      }
+    },
+    "time-for-rolling": {
+      "guia": {
+        "passos": [
+          "No mundo 3-1, atravesse a passarela rolando sob as flechas do Ídolo."
+        ]
+      }
+    },
+    "a-dash-of-sage": {
+      "guia": {
+        "passos": [
+          "Resgate o Sábio Freke (mundo 3-1)."
+        ]
+      }
+    },
+    "umbasa": {
+      "guia": {
+        "passos": [
+          "Resgate o Santo Urbain (mundo 5-1)."
+        ]
+      }
+    },
+    "road-to-possibilities": {
+      "guia": {
+        "passos": [
+          "Dê a Alma de Demônio Abrasadora (do Espreitador das Chamas) ao Ferreiro Ed."
+        ]
+      }
+    },
+    "one-of-the-few": {
+      "guia": {
+        "passos": [
+          "Obtenha a espada Istarelle (exige tendência de mundo branca pura no mundo 4)."
+        ]
+      }
+    },
+    "witch-in-the-tower": {
+      "guia": {
+        "passos": [
+          "Resgate Yuria na Torre de Latria (mundo 3-1)."
+        ]
+      }
+    },
+    "legacy-of-the-kings": {
+      "guia": {
+        "passos": [
+          "Obtenha o Regalia do Norte (mundo 1-4)."
+        ]
+      }
+    }
   }
 }

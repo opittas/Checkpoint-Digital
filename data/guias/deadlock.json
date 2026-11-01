@@ -1,0 +1,127 @@
+{
+  "resumo": "Deadlock está em acesso antecipado na Steam e ainda não tem conquistas. Estas são as Conquistas originais Checkpoint: vitórias, heróis, objetivos do mapa e o ranqueado.",
+  "roadmap": [
+    {
+      "titulo": "1. Aprenda",
+      "texto": "Faça o tutorial e o Sandbox."
+    },
+    {
+      "titulo": "2. Jogue",
+      "texto": "Teste vários heróis e aprenda as rotas das lanes."
+    },
+    {
+      "titulo": "3. Objetivos",
+      "texto": "Urna, Chefe do Meio e Patrono."
+    },
+    {
+      "titulo": "4. Ranqueado",
+      "texto": "Suba até Arconte."
+    }
+  ],
+  "avisos": [
+    "Deadlock ainda está em acesso antecipado: heróis e regras mudam com as atualizações. Se a Valve criar conquistas, a lista oficial substitui esta."
+  ],
+  "conquistas": {
+    "primeira": {
+      "guia": {
+        "passos": [
+          "Entre no modo 6v6 normal.",
+          "Destrua o Patrono inimigo para vencer."
+        ],
+        "dicas": [
+          "Jogue junto com o time e siga o ping de objetivos."
+        ]
+      }
+    },
+    "tutorial": {
+      "guia": {
+        "passos": [
+          "No menu, abra o tutorial e termine todas as etapas.",
+          "Jogue o Sandbox para testar heróis e itens."
+        ]
+      }
+    },
+    "herois10": {
+      "guia": {
+        "passos": [
+          "Vença uma partida com 10 heróis diferentes."
+        ],
+        "dicas": [
+          "Jogue com heróis de funções variadas para aprender o jogo todo."
+        ]
+      }
+    },
+    "herois": {
+      "guia": {
+        "passos": [
+          "Jogue pelo menos uma partida com cada herói da lista."
+        ],
+        "dicas": [
+          "Heróis novos aparecem nas atualizações."
+        ]
+      }
+    },
+    "patrono": {
+      "guia": {
+        "passos": [
+          "Derrube as torres e o Santuário inimigo.",
+          "Destrua o Patrono no fim."
+        ],
+        "dicas": [
+          "Empurre com o time após um abate."
+        ]
+      }
+    },
+    "alma": {
+      "guia": {
+        "passos": [
+          "Junte almas matando tropas, neutros e inimigos.",
+          "Termine com 50.000."
+        ],
+        "dicas": [
+          "Partidas longas ajudam."
+        ]
+      }
+    },
+    "urn": {
+      "guia": {
+        "passos": [
+          "Pegue a Urna quando aparecer no meio do mapa.",
+          "Leve até o ponto marcado."
+        ],
+        "dicas": [
+          "Faça isso com o time protegendo."
+        ]
+      }
+    },
+    "abate": {
+      "guia": {
+        "passos": [
+          "Faça 10 abates na mesma partida."
+        ],
+        "dicas": [
+          "Heróis de dano de explosão facilitam."
+        ]
+      }
+    },
+    "mid_boss": {
+      "guia": {
+        "passos": [
+          "Derrote o Chefe do Meio no centro do mapa.",
+          "Pegue o Rejuvenescedor para fortalecer o time."
+        ]
+      }
+    },
+    "rank": {
+      "guia": {
+        "passos": [
+          "Jogue ranqueadas.",
+          "Suba até o rank Arconte."
+        ],
+        "dicas": [
+          "Foque em um ou dois heróis."
+        ]
+      }
+    }
+  }
+}

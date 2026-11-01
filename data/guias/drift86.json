@@ -15,5 +15,416 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "Play_SP": {
+      "guia": {
+        "passos": [
+          "Jogue no modo um jogador."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "Play_Multi": {
+      "guia": {
+        "passos": [
+          "Jogue no multijogador."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "TDS_1M": {
+      "guia": {
+        "passos": [
+          "Pontuação total de drift de 1M."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "TDS_5M": {
+      "guia": {
+        "passos": [
+          "Pontuação total de drift de 5M."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "TDS_10M": {
+      "guia": {
+        "passos": [
+          "Pontuação total de drift de 10M."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "TDS_100M": {
+      "guia": {
+        "passos": [
+          "Pontuação total de drift de 100M."
+        ],
+        "dicas": [
+          "Repita a pista favorita com o carro mais estável; drifts longos com multiplicador rendem mais."
+        ]
+      }
+    },
+    "BDS_50K": {
+      "guia": {
+        "passos": [
+          "Melhor pontuação de drift de 50k."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "BDS_100K": {
+      "guia": {
+        "passos": [
+          "Melhor pontuação de drift de 100k."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "BDS_500K": {
+      "guia": {
+        "passos": [
+          "Melhor pontuação de drift de 500k."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "BDS_1M": {
+      "guia": {
+        "passos": [
+          "Melhor pontuação de drift de 1M."
+        ],
+        "dicas": [
+          "Mantenha o drift contínuo sem bater para o multiplicador subir."
+        ]
+      }
+    },
+    "TRT_1H": {
+      "guia": {
+        "passos": [
+          "Tempo total de corrida de 1h."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "TRT_10H": {
+      "guia": {
+        "passos": [
+          "Tempo total de corrida de 10h."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "TRT_100H": {
+      "guia": {
+        "passos": [
+          "Tempo total de corrida de 100h."
+        ],
+        "dicas": [
+          "Conta o tempo total na pista: dá para deixar rodando em sessões longas."
+        ]
+      }
+    },
+    "CreateRoom": {
+      "guia": {
+        "passos": [
+          "Crie uma sala multijogador."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "PG86_Mk3": {
+      "guia": {
+        "passos": [
+          "Jogue com o EG86."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "BMGv35": {
+      "guia": {
+        "passos": [
+          "Jogue com o BMG V92."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "MuscleCar_1970": {
+      "guia": {
+        "passos": [
+          "Jogue com o MuscleCar 1969."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "SunLineGTE 1": {
+      "guia": {
+        "passos": [
+          "Jogue com o Sunline GTE."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "AE86tunning": {
+      "guia": {
+        "passos": [
+          "Jogue com o EG86 Tuned."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "RX71": {
+      "guia": {
+        "passos": [
+          "Jogue com o XR-7."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "X13": {
+      "guia": {
+        "passos": [
+          "Jogue com o X13."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "Supra": {
+      "guia": {
+        "passos": [
+          "Jogue com o SuprX."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "EvoX": {
+      "guia": {
+        "passos": [
+          "Jogue com o Eva X."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "CRX": {
+      "guia": {
+        "passos": [
+          "Jogue com o RCX."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "EG6": {
+      "guia": {
+        "passos": [
+          "Jogue com o 6GE."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "Clio V6": {
+      "guia": {
+        "passos": [
+          "Jogue com o Clia V6."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "SunLineGTE35": {
+      "guia": {
+        "passos": [
+          "Jogue com o GTE 35."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "Lado1": {
+      "guia": {
+        "passos": [
+          "Jogue com o VEZ 6012."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "EvoVIII": {
+      "guia": {
+        "passos": [
+          "Jogue com o EVA VIII."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "Sub1": {
+      "guia": {
+        "passos": [
+          "Jogue com o Imprezo."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "SunLine2000": {
+      "guia": {
+        "passos": [
+          "Jogue com o Sunline 2000."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "GT86": {
+      "guia": {
+        "passos": [
+          "Jogue com o TG68."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "SupraNew": {
+      "guia": {
+        "passos": [
+          "Jogue com o SuprXX."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "GTR32 1": {
+      "guia": {
+        "passos": [
+          "Jogue com o R32 Black Reaper."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "NSX 2": {
+      "guia": {
+        "passos": [
+          "Jogue com o NXS."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "MX5": {
+      "guia": {
+        "passos": [
+          "Jogue com o XM5."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "S13 2": {
+      "guia": {
+        "passos": [
+          "Jogue com o S13."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "RX7FC": {
+      "guia": {
+        "passos": [
+          "Jogue com o XR-7C."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "MR2": {
+      "guia": {
+        "passos": [
+          "Jogue com o Might 2."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "GTR31MOYO": {
+      "guia": {
+        "passos": [
+          "Jogue com o Sunline 31 MayoMan."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    },
+    "F40": {
+      "guia": {
+        "passos": [
+          "Jogue com o Falcon 400."
+        ],
+        "dicas": [
+          "Escolha o carro na garagem e jogue uma partida com ele."
+        ]
+      }
+    }
+  }
 }

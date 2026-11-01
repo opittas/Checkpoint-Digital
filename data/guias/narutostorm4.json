@@ -32,25 +32,541 @@
   ],
   "conquistas": {
     "NEW_ACHIEVEMENT_3_0": {
-      "dlc": "Road to Boruto"
+      "dlc": "Road to Boruto",
+      "guia": {
+        "passos": [
+          "Você completou todos os eventos principais da História de Boruto."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
     },
     "NEW_ACHIEVEMENT_3_1": {
-      "dlc": "Road to Boruto"
+      "dlc": "Road to Boruto",
+      "guia": {
+        "passos": [
+          "Você completou todas as missões paralelas da História de Boruto."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
     },
     "NEW_ACHIEVEMENT_3_2": {
-      "dlc": "Road to Boruto"
+      "dlc": "Road to Boruto",
+      "guia": {
+        "passos": [
+          "Você completou todos os eventos principais da História de Boruto com Classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
     },
     "NEW_ACHIEVEMENT_1_30": {
-      "dica": "Os eventos principais ficam marcados no mapa do Modo Aventura."
+      "dica": "Os eventos principais ficam marcados no mapa do Modo Aventura.",
+      "guia": {
+        "passos": [
+          "Terminou todos os eventos principais em \"Rastros da Tempestade\"."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
     },
     "NEW_ACHIEVEMENT_1_31": {
-      "dica": "Fale com todos os personagens com balão no mapa; alguns só aparecem depois de avançar a história."
+      "dica": "Fale com todos os personagens com balão no mapa; alguns só aparecem depois de avançar a história.",
+      "guia": {
+        "passos": [
+          "Terminou todos os eventos secundários em \"Rastros da Tempestade\"."
+        ],
+        "dicas": [
+          "Eventos secundários em Adventure Mode; procure ícones no mapa."
+        ]
+      }
     },
     "NEW_ACHIEVEMENT_2_0": {
-      "dica": "Use um personagem forte como Naruto (Seis Caminhos) e itens de cura."
+      "dica": "Use um personagem forte como Naruto (Seis Caminhos) e itens de cura.",
+      "guia": {
+        "passos": [
+          "Passou de 30 oponentes na Sobrevivência Suprema."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
     },
     "NEW_ACHIEVEMENT_2_15": {
-      "dica": "Configure uma partida de 3 rodadas no Modo Livre contra a CPU fácil."
+      "dica": "Configure uma partida de 3 rodadas no Modo Livre contra a CPU fácil.",
+      "guia": {
+        "passos": [
+          "Venceu uma batalha de 3 rodadas sem perder nenhuma rodada."
+        ],
+        "dicas": [
+          "Configure 3 rounds no Free Battle contra CPU fácil."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_0": {
+      "guia": {
+        "passos": [
+          "O Capítulo da Criação Completado."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "guia": {
+        "passos": [
+          "Terminou o Capítulo dos Dois Guerreiros Inigualáveis."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "guia": {
+        "passos": [
+          "Completou o Capítulo da Frente Unida."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "guia": {
+        "passos": [
+          "Finalizou o Capítulo do Duelo Final."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "guia": {
+        "passos": [
+          "Finalizou o Capítulo da Nova Vida."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "guia": {
+        "passos": [
+          "Terminou \"Confronto da Criação\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "guia": {
+        "passos": [
+          "Terminou \"Por trás da Máscara\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "guia": {
+        "passos": [
+          "Completou \"Campo de Batalha dos Garotos (Parte 1)\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "guia": {
+        "passos": [
+          "Completou \"Campo de Batalha dos Garotos (Parte 2)\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "guia": {
+        "passos": [
+          "Terminou \"No Inferno\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "guia": {
+        "passos": [
+          "Terminou \"História Secundária - Um Mundo Escuro como Breu\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "guia": {
+        "passos": [
+          "Terminou \"A Batalha se Intensifica\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "guia": {
+        "passos": [
+          "Terminou \"Taka Voa Novamente\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "guia": {
+        "passos": [
+          "Terminou \"Aqueles Que Tudo Sabem\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "guia": {
+        "passos": [
+          "Terminou \"Ao Campo de Batalha\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "guia": {
+        "passos": [
+          "Terminou \"Rugido do Dez Caudas\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "guia": {
+        "passos": [
+          "Terminou \"Equipe 7 Unida\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "guia": {
+        "passos": [
+          "Terminou \"Uma Batalha Através do Tempo e Espaço\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "guia": {
+        "passos": [
+          "Terminou \"O Jinchuriki do Dez Caudas\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "guia": {
+        "passos": [
+          "Terminou \"História Secundária - Batalha dos Ancestrais\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "guia": {
+        "passos": [
+          "Terminou \"Preenchendo Um Vazio no Coração\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "guia": {
+        "passos": [
+          "Terminou \"O Pulso de Madara\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "guia": {
+        "passos": [
+          "Terminou \"Dois\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "guia": {
+        "passos": [
+          "Terminou \"A Fera Carmesim\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "guia": {
+        "passos": [
+          "Terminou \"Taka Voa à Frente\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "guia": {
+        "passos": [
+          "Terminou \"História Secundária - O Homem Chamado Kabuto\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "guia": {
+        "passos": [
+          "Terminou \"O Vento se Enfurece, O Trovão se Apressa\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "guia": {
+        "passos": [
+          "Terminou \"Kaguya, a Deusa Cruel (Parte 1)\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "guia": {
+        "passos": [
+          "Terminou \"Kaguya, a Deusa Cruel (Parte 2)\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "guia": {
+        "passos": [
+          "Terminou \"Naruto e Sasuke\" com classe S."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "guia": {
+        "passos": [
+          "Completou todo o nível iniciante da Sobrevivência com Limite de Habilidade."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "guia": {
+        "passos": [
+          "Completou todo o nível médio da Sobrevivência com Limite de Habilidade."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+      "guia": {
+        "passos": [
+          "Completou todo o nível avançado da Sobrevivência com Limite de Habilidade."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+      "guia": {
+        "passos": [
+          "Você completou todo nível iniciante da Liga de Desafio."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "guia": {
+        "passos": [
+          "Você completou todo o nível médio da Liga de Desafio."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+      "guia": {
+        "passos": [
+          "Você completou todo nível avançado da Liga de Desafio."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+      "guia": {
+        "passos": [
+          "Finalize com sua própria finalização pessoal."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+      "guia": {
+        "passos": [
+          "Realizou uma Finalização com uma Combinação ou Técnica Secreta Conectada."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_9": {
+      "guia": {
+        "passos": [
+          "Realizou um combo de 50 acerto."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_10": {
+      "guia": {
+        "passos": [
+          "Acertou um contra-ataque."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_11": {
+      "guia": {
+        "passos": [
+          "Finalizou um inimigo enquanto Despertado."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_12": {
+      "guia": {
+        "passos": [
+          "Finalizou um inimigo durante um Despertar Conectado."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_13": {
+      "guia": {
+        "passos": [
+          "Acertou um golpe com a Técnica Secreta de cada membro da equipe em uma batalha."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_14": {
+      "guia": {
+        "passos": [
+          "Venceu a batalha sem sofrer nenhum dano ao traje."
+        ],
+        "dicas": [
+          "Vença sem que a roupa do seu personagem seja danificada; use oponente fácil no Free Battle."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_16": {
+      "guia": {
+        "passos": [
+          "Trocou de líder durante um combo."
+        ],
+        "dicas": [
+          "Para Rank S, termine rápido, com pouco dano e use golpes secretos/ataques especiais."
+        ]
+      }
+    },
+    "NEW_ACHIEVEMENT_2_17": {
+      "guia": {
+        "passos": [
+          "Desbloqueou todas as conquistas."
+        ],
+        "dicas": [
+          "Platina: aparece ao fazer todas as outras."
+        ]
+      }
     }
   }
 }

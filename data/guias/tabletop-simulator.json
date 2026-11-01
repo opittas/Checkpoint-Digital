@@ -15,5 +15,209 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_CHANGE_COLOR_50_TIMES": {
+      "guia": {
+        "passos": [
+          "Troque de cor mais de 50 vezes."
+        ],
+        "dicas": [
+          "Clique no seu nome na lista de jogadores."
+        ]
+      }
+    },
+    "ACH_FLIP_TABLE_1000_TIMES": {
+      "guia": {
+        "passos": [
+          "Vire a mesa 1000 vezes."
+        ],
+        "dicas": [
+          "Faça sozinho num jogo vazio; demora pouco."
+        ]
+      }
+    },
+    "ACH_FLIP_TABLE_FAILED": {
+      "guia": {
+        "passos": [
+          "Tente virar a mesa sem ser o anfitrião (não pode)."
+        ],
+        "dicas": [
+          "Entre no jogo de um amigo."
+        ]
+      }
+    },
+    "ACH_PLAY_CHESS_1_HOUR": {
+      "guia": {
+        "passos": [
+          "Jogue xadrez por 1 hora."
+        ]
+      }
+    },
+    "ACH_COMPLETE_TUTORIAL_UNDER_30_SECONDS": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial em menos de 30 segundos."
+        ],
+        "dicas": [
+          "Faça o tutorial uma vez antes para decorar."
+        ]
+      }
+    },
+    "ACH_FLIP_TABLE_100_TIMES": {
+      "guia": {
+        "passos": [
+          "Vire a mesa 100 vezes."
+        ]
+      }
+    },
+    "ACH_SPAWN_10,000_CHIPS": {
+      "guia": {
+        "passos": [
+          "Crie 10.000 fichas de pôquer."
+        ],
+        "dicas": [
+          "Use o modo Pôquer e crie pilhas grandes."
+        ]
+      }
+    },
+    "ACH_RPG_FIGURINES_ATTACK": {
+      "guia": {
+        "passos": [
+          "Coloque duas miniaturas de RPG e faça uma atacar a outra até acertar."
+        ]
+      }
+    },
+    "ACH_FULL_GAME_OF_8_PLAYERS": {
+      "guia": {
+        "passos": [
+          "Jogue numa sala com 8 jogadores."
+        ]
+      }
+    },
+    "ACH_PLAY_GAME_ZERO_GRAVITY": {
+      "guia": {
+        "passos": [
+          "Mude a gravidade para zero nas opções e jogue."
+        ]
+      }
+    },
+    "ACH_PLAY_GAME_1_HOUR_NO_FLIP": {
+      "guia": {
+        "passos": [
+          "Jogue 1 hora sem virar a mesa."
+        ]
+      }
+    },
+    "ACH_USE_PRIVATE_NOTEPAD": {
+      "guia": {
+        "passos": [
+          "Use a página da sua cor no caderno."
+        ]
+      }
+    },
+    "ACH_SAVE_100_ITEMS_TO_CHEST": {
+      "guia": {
+        "passos": [
+          "Salve 100 itens no seu Baú."
+        ]
+      }
+    },
+    "ACH_LASER_LIGHT_SHOW_8_PLAYER": {
+      "guia": {
+        "passos": [
+          "Com 8 jogadores, desenhem linhas juntos com a ferramenta de linhas."
+        ]
+      }
+    },
+    "ACH_LOCK_5000_ITEMS": {
+      "guia": {
+        "passos": [
+          "Trave 5000 itens ao longo do tempo."
+        ],
+        "dicas": [
+          "Trave e destrave o mesmo item repetidamente."
+        ]
+      }
+    },
+    "ACH_TINT_1000_OBJECTS": {
+      "guia": {
+        "passos": [
+          "Pinte 1000 objetos de outra cor."
+        ]
+      }
+    },
+    "ACH_HIDDEN_KNIL_KIMI": {
+      "guia": {
+        "passos": [
+          "Crie as miniaturas especiais dos desenvolvedores (Knil e Kimi) no menu de objetos."
+        ]
+      }
+    },
+    "ACH_PLAY_WITH_STEAM_FRIEND": {
+      "guia": {
+        "passos": [
+          "Jogue com um amigo da Steam."
+        ]
+      }
+    },
+    "ACH_UPLOAD_3_WORKSHOP_ITEMS": {
+      "guia": {
+        "passos": [
+          "Envie 3 itens válidos para a Oficina Steam."
+        ]
+      }
+    },
+    "ACH_COMPLETE_TUTORIAL": {
+      "guia": {
+        "passos": [
+          "Complete o tutorial."
+        ]
+      }
+    },
+    "ACH_PLAY_10_HOURS": {
+      "guia": {
+        "passos": [
+          "Jogue 10 horas."
+        ]
+      }
+    },
+    "ACH_PLAY_50_HOURS": {
+      "guia": {
+        "passos": [
+          "Jogue 50 horas."
+        ]
+      }
+    },
+    "ACH_PLAY_100_HOURS": {
+      "guia": {
+        "passos": [
+          "Jogue 100 horas."
+        ]
+      }
+    },
+    "ACH_PLAY_200_HOURS": {
+      "guia": {
+        "passos": [
+          "Jogue 200 horas."
+        ]
+      }
+    },
+    "ACH_PLAY_500_HOURS": {
+      "guia": {
+        "passos": [
+          "Jogue 500 horas."
+        ],
+        "dicas": [
+          "Deixar o jogo aberto conta tempo."
+        ]
+      }
+    },
+    "ACH_PLAY_1000_HOURS": {
+      "guia": {
+        "passos": [
+          "Jogue 1000 horas."
+        ]
+      }
+    }
+  }
 }

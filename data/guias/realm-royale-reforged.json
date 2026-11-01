@@ -13,5 +13,172 @@
   "avisos": [
     "Precisa de partidas online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "GOAL_ID_1602": {
+      "guia": {
+        "passos": [
+          "Elimine um adversário jogando de Guerreiro."
+        ]
+      }
+    },
+    "GOAL_ID_1607": {
+      "guia": {
+        "passos": [
+          "Consiga 50 eliminações jogando de Guerreiro."
+        ],
+        "dicas": [
+          "Conta ao longo de várias partidas."
+        ]
+      }
+    },
+    "GOAL_ID_1603": {
+      "guia": {
+        "passos": [
+          "Elimine um adversário jogando de Engenheiro."
+        ]
+      }
+    },
+    "GOAL_ID_1608": {
+      "guia": {
+        "passos": [
+          "Consiga 50 eliminações jogando de Engenheiro."
+        ]
+      }
+    },
+    "GOAL_ID_1604": {
+      "guia": {
+        "passos": [
+          "Elimine um adversário jogando de Assassino."
+        ]
+      }
+    },
+    "GOAL_ID_1609": {
+      "guia": {
+        "passos": [
+          "Consiga 50 eliminações jogando de Assassino."
+        ]
+      }
+    },
+    "GOAL_ID_1605": {
+      "guia": {
+        "passos": [
+          "Elimine um adversário jogando de Mago."
+        ]
+      }
+    },
+    "GOAL_ID_1610": {
+      "guia": {
+        "passos": [
+          "Consiga 50 eliminações jogando de Mago."
+        ]
+      }
+    },
+    "GOAL_ID_1606": {
+      "guia": {
+        "passos": [
+          "Elimine um adversário jogando de Caçador."
+        ]
+      }
+    },
+    "GOAL_ID_1611": {
+      "guia": {
+        "passos": [
+          "Consiga 50 eliminações jogando de Caçador."
+        ]
+      }
+    },
+    "GOAL_ID_1643": {
+      "guia": {
+        "passos": [
+          "Pegue Poções de Armadura do chão ou de baús 20 vezes."
+        ]
+      }
+    },
+    "GOAL_ID_1644": {
+      "guia": {
+        "passos": [
+          "Vença uma partida (Coroa Real)."
+        ]
+      }
+    },
+    "GOAL_ID_1645": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas."
+        ]
+      }
+    },
+    "GOAL_ID_1646": {
+      "guia": {
+        "passos": [
+          "Forje 100 itens nas forjas do mapa."
+        ],
+        "dicas": [
+          "Junte fragmentos desmontando itens que não usa."
+        ]
+      }
+    },
+    "GOAL_ID_1647": {
+      "guia": {
+        "passos": [
+          "Tenha um item lendário em cada espaço na mesma partida."
+        ]
+      }
+    },
+    "GOAL_ID_1657": {
+      "guia": {
+        "passos": [
+          "Acerte um tiro final de longe (mais de 240 m) que transforme o inimigo em galinha."
+        ],
+        "dicas": [
+          "Armas de precisão facilitam."
+        ]
+      }
+    },
+    "GOAL_ID_1651": {
+      "guia": {
+        "passos": [
+          "Vença partidas com 3 classes diferentes."
+        ]
+      }
+    },
+    "GOAL_ID_1648": {
+      "guia": {
+        "passos": [
+          "Elimine um adversário usando a adaga."
+        ]
+      }
+    },
+    "GOAL_ID_1649": {
+      "guia": {
+        "passos": [
+          "Elimine mais de 10 jogadores na mesma partida."
+        ]
+      }
+    },
+    "GOAL_ID_1650": {
+      "guia": {
+        "passos": [
+          "Vença em esquadrão de 4 sem nenhum aliado morrer."
+        ]
+      }
+    },
+    "GOAL_ID_1642": {
+      "guia": {
+        "passos": [
+          "Forje sua primeira arma lendária."
+        ]
+      }
+    },
+    "GOAL_ID_1641": {
+      "guia": {
+        "passos": [
+          "Vire galinha e sobreviva até recuperar o personagem."
+        ],
+        "dicas": [
+          "Corra e se esconda até a barra encher."
+        ]
+      }
+    }
+  }
 }

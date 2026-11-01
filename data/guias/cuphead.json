@@ -37,61 +37,362 @@
   ],
   "conquistas": {
     "CompleteWorldDLC": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Derrote todos os chefes da Ilha Tinteiro IV."
+        ]
+      }
     },
     "ARankWorldDLC": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro IV."
+        ]
+      }
     },
     "DefeatBossAsChalice": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Derrote um chefe com a Ms. Chalice."
+        ]
+      }
     },
     "DefeatXBossesAsChalice": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Derrote 10 chefes com a Ms. Chalice."
+        ]
+      }
     },
     "ChaliceSuperWin": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Derrote um chefe com uma Super Arte da Ms. Chalice."
+        ]
+      }
     },
     "DefeatBossDLCWeapon": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Derrote um chefe com uma das armas novas do Porkrind."
+        ]
+      }
     },
     "DefeatAllKOG": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Derrote todos os Campeões do Rei dos Jogos."
+        ]
+      }
     },
     "DefeatKOGGauntlet": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Vença o Desafio do Rei."
+        ],
+        "dicas": [
+          "O desafio contra todos os campeões em sequência abre após vencer cada um."
+        ]
+      }
     },
     "DefeatSaltbaker": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Complete sua missão na Ilha Tinteiro IV."
+        ]
+      }
     },
     "SRankAnyDLC": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Consiga Rank S em uma fase da Ilha Tinteiro IV."
+        ]
+      }
     },
     "DefeatBossNoMinions": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Derrote um chefe da Ilha Tinteiro IV sem matar nenhum de seus capangas."
+        ],
+        "dicas": [
+          "Escolha um chefe do Inkwell Isle IV com poucos lacaios."
+        ]
+      }
     },
     "HP9": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Tenha 9 de vida ao mesmo tempo."
+        ],
+        "dicas": [
+          "Combine amuletos de vida extra com o Heart Ring (ganha vida ao dar parry) e acumule vida durante uma luta."
+        ]
+      }
     },
     "DefeatDevilPhase2": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Sobreviva ao pesadelo."
+        ],
+        "dicas": [
+          "Conquista secreta do DLC ligada à Relíquia Amaldiçoada; siga a missão da relíquia."
+        ]
+      }
     },
     "Paladin": {
-      "dlc": "The Delicious Last Course"
+      "dlc": "The Delicious Last Course",
+      "guia": {
+        "passos": [
+          "Complete a missão da Relíquia Quebrada (DLC) até ela virar a Relíquia Divina."
+        ],
+        "dicas": [
+          "A missão começa ao comprar a Relíquia Quebrada na loja do Porkrind no Inkwell Isle IV."
+        ]
+      }
     },
     "PacifistRun": {
-      "dica": "Só as 6 fases run 'n gun contam. Não pode matar nem os inimigos que renascem."
+      "dica": "Só as 6 fases run 'n gun contam. Não pode matar nem os inimigos que renascem.",
+      "guia": {
+        "passos": [
+          "Termine as 6 fases de corrida sem matar nenhum inimigo."
+        ],
+        "dicas": [
+          "Use só pulo e dash; equipe o amuleto Smoke Bomb."
+        ]
+      }
     },
     "NewGamePlus": {
-      "dica": "Abra o Especialista zerando no Normal. Dá para escolher o modo a cada luta."
+      "dica": "Abra o Especialista zerando no Normal. Dá para escolher o modo a cada luta.",
+      "guia": {
+        "passos": [
+          "Termine o jogo no Especialista."
+        ],
+        "dicas": [
+          "O modo Expert libera ao zerar no Normal."
+        ]
+      }
     },
     "SRank": {
-      "dica": "Especialista, sem levar dano, com parries e Super. Tente no The Root Pack."
+      "dica": "Especialista, sem levar dano, com parries e Super. Tente no The Root Pack.",
+      "guia": {
+        "passos": [
+          "Consiga um Rank S."
+        ],
+        "dicas": [
+          "Vença rápido, sem levar dano, com 3 parries e o Super cheio; mais fácil no Expert, em chefes curtos como The Root Pack."
+        ]
+      }
     },
     "BadEnding": {
-      "dica": "Aceite a oferta do Diabo antes da luta final; depois recarregue o save."
+      "dica": "Aceite a oferta do Diabo antes da luta final; depois recarregue o save.",
+      "guia": {
+        "passos": [
+          "Na conversa com o Diabo, aceite entregar os contratos e veja o final ruim."
+        ],
+        "dicas": [
+          "Recarregue o save depois para continuar normalmente."
+        ]
+      }
     },
     "FoundAllMoney": {
-      "dica": "Inclui as 3 moedas escondidas no mapa, fora das fases."
+      "dica": "Inclui as 3 moedas escondidas no mapa, fora das fases.",
+      "guia": {
+        "passos": [
+          "Pegue todas as moedas do jogo."
+        ],
+        "dicas": [
+          "Moedas das fases + moedas escondidas no mapa e de NPCs."
+        ]
+      }
+    },
+    "DefeatBoss": {
+      "guia": {
+        "passos": [
+          "Derrote um chefe."
+        ]
+      }
+    },
+    "CompleteWorld1": {
+      "guia": {
+        "passos": [
+          "Derrote todos os chefes da Ilha Tinteiro I."
+        ]
+      }
+    },
+    "CompleteWorld2": {
+      "guia": {
+        "passos": [
+          "Derrote todos os chefes da Ilha Tinteiro II."
+        ]
+      }
+    },
+    "CompleteWorld3": {
+      "guia": {
+        "passos": [
+          "Derrote todos os chefes da Ilha Tinteiro III."
+        ]
+      }
+    },
+    "CompleteDicePalace": {
+      "guia": {
+        "passos": [
+          "Complete o Cassino."
+        ]
+      }
+    },
+    "CompleteDevil": {
+      "guia": {
+        "passos": [
+          "Derrote o Diabo."
+        ]
+      }
+    },
+    "ARankWorld1": {
+      "guia": {
+        "passos": [
+          "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro I."
+        ]
+      }
+    },
+    "ARankWorld2": {
+      "guia": {
+        "passos": [
+          "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro II."
+        ]
+      }
+    },
+    "ARankWorld3": {
+      "guia": {
+        "passos": [
+          "Consiga Rank A ou maior em todos os chefes da Ilha Tinteiro III."
+        ]
+      }
+    },
+    "ARankWorld4": {
+      "guia": {
+        "passos": [
+          "Consiga Rank A ou maior em todos os chefes do Inferno Tinteiro."
+        ]
+      }
+    },
+    "GoodEnding": {
+      "guia": {
+        "passos": [
+          "Termine o jogo no Normal."
+        ]
+      }
+    },
+    "BoughtAllItems": {
+      "guia": {
+        "passos": [
+          "Compre tudo na loja do Porkrind."
+        ]
+      }
+    },
+    "FoundSecretPassage": {
+      "guia": {
+        "passos": [
+          "Encontre um atalho."
+        ],
+        "dicas": [
+          "Em Inkwell Isle I, procure o atalho escondido no mapa (há passagens atrás de árvores e casas)."
+        ]
+      }
+    },
+    "ExWin": {
+      "guia": {
+        "passos": [
+          "Derrote um chefe com um golpe Extra Especial."
+        ]
+      }
+    },
+    "SuperWin": {
+      "guia": {
+        "passos": [
+          "Derrote um chefe com uma Super Arte."
+        ]
+      }
+    },
+    "SmallPlaneOnlyWin": {
+      "guia": {
+        "passos": [
+          "Derrote um chefe usando só os tiros do mini-avião."
+        ],
+        "dicas": [
+          "Encolha o avião (botão de encolher) durante toda a luta; Hilda Berg é a mais fácil."
+        ]
+      }
+    },
+    "UnlockedAllSupers": {
+      "guia": {
+        "passos": [
+          "Obtenha todas as Super Artes."
+        ]
+      }
+    },
+    "NoHitsTaken": {
+      "guia": {
+        "passos": [
+          "Complete uma fase sem levar dano."
+        ],
+        "dicas": [
+          "Escolha uma fase de corrida curta ou um chefe fácil."
+        ]
+      }
+    },
+    "FoundAllLevelMoney": {
+      "guia": {
+        "passos": [
+          "Pegue todas as moedas de todas as fases."
+        ],
+        "dicas": [
+          "Cada fase de corrida tem 5 moedas."
+        ]
+      }
+    },
+    "ParryChain": {
+      "guia": {
+        "passos": [
+          "Faça cinco parries antes de tocar o chão."
+        ],
+        "dicas": [
+          "Pule em sequência sobre objetos rosa, como as bolhas do Djimmi."
+        ]
+      }
+    },
+    "ParryApprentice": {
+      "guia": {
+        "passos": [
+          "Faça 20 parries."
+        ]
+      }
+    },
+    "ParryMaster": {
+      "guia": {
+        "passos": [
+          "Faça 100 parries."
+        ]
+      }
+    },
+    "NoHitsTakenDicePalace": {
+      "guia": {
+        "passos": [
+          "Derrote o Rei Dado sem levar dano."
+        ]
+      }
     }
   }
 }

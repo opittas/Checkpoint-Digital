@@ -13,5 +13,66 @@
   "avisos": [
     "Nada é perdível."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "CgkIgaGB2J0LEAIQAA": {
+      "guia": {
+        "passos": [
+          "Aparece no capítulo da Prensa."
+        ],
+        "dicas": [
+          "Use o Oculus Perpetua para ver mecanismos escondidos."
+        ]
+      }
+    },
+    "CgkIgaGB2J0LEAIQAQ": {
+      "guia": {
+        "passos": [
+          "Monte o Cortador de lixa na história."
+        ],
+        "dicas": [
+          "Explore cada gaveta."
+        ]
+      }
+    },
+    "CgkIgaGB2J0LEAIQAg": {
+      "guia": {
+        "passos": [
+          "Toque a Viola organista na história."
+        ],
+        "dicas": [
+          "Escute a melodia."
+        ]
+      }
+    },
+    "CgkIgaGB2J0LEAIQAw": {
+      "guia": {
+        "passos": [
+          "Monte a Carruagem com foice."
+        ],
+        "dicas": [
+          "As peças estão no mesmo cômodo."
+        ]
+      }
+    },
+    "CgkIgaGB2J0LEAIQBA": {
+      "guia": {
+        "passos": [
+          "Resolva o enigma da Ponte giratória."
+        ],
+        "dicas": [
+          "Gire a ponte até as engrenagens encaixarem."
+        ]
+      }
+    },
+    "CgkIgaGB2J0LEAIQBQ": {
+      "guia": {
+        "passos": [
+          "Monte a Máquina voadora no capítulo final."
+        ],
+        "dicas": [
+          "Use o Oculus Perpetua."
+        ]
+      }
+    }
+  }
 }

@@ -7,5 +7,16 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_EVENT_HALLOWEEN_2024_1": {
+      "guia": {
+        "passos": [
+          "Só pôde ser obtida durante o evento de Halloween de 2024."
+        ],
+        "atencao": [
+          "Evento encerrado: se o jogo não repetir o evento, a conquista não está mais disponível."
+        ]
+      }
+    }
+  }
 }

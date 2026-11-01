@@ -15,5 +15,215 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_FLY": {
+      "guia": {
+        "passos": [
+          "Faça um pulo duplo no ar."
+        ]
+      }
+    },
+    "ACH_CAKE": {
+      "guia": {
+        "passos": [
+          "Caia em queda livre atravessando portais."
+        ]
+      }
+    },
+    "ACH_DEDICATED": {
+      "guia": {
+        "passos": [
+          "Termine o modo Aventura e pegue todas as estrelas do modo Corrida."
+        ]
+      }
+    },
+    "ACH_WORLD1_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Completou o mundo 1 no modo Aventura."
+        ]
+      }
+    },
+    "ACH_WORLD2_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Completou o mundo 2 no modo Aventura."
+        ]
+      }
+    },
+    "ACH_WORLD3_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Completou o mundo 3 no modo Aventura."
+        ]
+      }
+    },
+    "ACH_WORLD4_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Completou o mundo 4 no modo Aventura."
+        ]
+      }
+    },
+    "ACH_WORLD5_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Completou o mundo 5 no modo Aventura."
+        ]
+      }
+    },
+    "ACH_HALLOFFAME": {
+      "guia": {
+        "passos": [
+          "Termine o modo Aventura."
+        ]
+      }
+    },
+    "ACH_COOP": {
+      "guia": {
+        "passos": [
+          "Jogue com outros jogadores (local ou online)."
+        ]
+      }
+    },
+    "ACH_SPRINGBOARD": {
+      "guia": {
+        "passos": [
+          "Pule em cima de outro jogador como trampolim."
+        ]
+      }
+    },
+    "ACH_1_STARS": {
+      "guia": {
+        "passos": [
+          "Pegue uma estrela dourada."
+        ],
+        "dicas": [
+          "Estrelas ficam em rotas arriscadas das fases."
+        ]
+      }
+    },
+    "ACH_3_STARS": {
+      "guia": {
+        "passos": [
+          "Pegue 3 estrelas."
+        ]
+      }
+    },
+    "ACH_10_STARS": {
+      "guia": {
+        "passos": [
+          "Pegue 10 estrelas."
+        ]
+      }
+    },
+    "ACH_25_STARS": {
+      "guia": {
+        "passos": [
+          "Pegue 25 estrelas."
+        ]
+      }
+    },
+    "ACH_50_STARS": {
+      "guia": {
+        "passos": [
+          "Pegue 50 estrelas."
+        ]
+      }
+    },
+    "ACH_COLLECTOR": {
+      "guia": {
+        "passos": [
+          "Pegue todas as estrelas douradas."
+        ]
+      }
+    },
+    "ACH_SECRET_A5": {
+      "guia": {
+        "passos": [
+          "Ache a fase secreta do mundo 1 (fase 5)."
+        ],
+        "dicas": [
+          "Procure paredes falsas e saídas escondidas."
+        ]
+      }
+    },
+    "ACH_SECRET_A8": {
+      "guia": {
+        "passos": [
+          "Ache a fase secreta do mundo 1 (fase 8)."
+        ]
+      }
+    },
+    "ACH_SECRET_B4": {
+      "guia": {
+        "passos": [
+          "Ache a fase secreta do mundo 2 (fase 4)."
+        ]
+      }
+    },
+    "ACH_SECRET_C5": {
+      "guia": {
+        "passos": [
+          "Ache a fase secreta do mundo 3 (fase 5)."
+        ]
+      }
+    },
+    "ACH_SECRET_D4": {
+      "guia": {
+        "passos": [
+          "Ache a fase secreta do mundo 4 (fase 4)."
+        ]
+      }
+    },
+    "ACH_SECRET_E6": {
+      "guia": {
+        "passos": [
+          "Ache a fase secreta do mundo 5 (fase 6)."
+        ]
+      }
+    },
+    "ACH_SECRET_ALL": {
+      "guia": {
+        "passos": [
+          "Ache todas as fases secretas."
+        ]
+      }
+    },
+    "ACH_WIN_RACE_1": {
+      "guia": {
+        "passos": [
+          "Fique em 1º numa corrida."
+        ]
+      }
+    },
+    "ACH_WIN_RACE_5": {
+      "guia": {
+        "passos": [
+          "Fique em 1º em 5 fases de corrida."
+        ]
+      }
+    },
+    "ACH_WIN_RACE_20": {
+      "guia": {
+        "passos": [
+          "Fique em 1º em 20 fases de corrida."
+        ]
+      }
+    },
+    "ACH_WIN_DEATH_1": {
+      "guia": {
+        "passos": [
+          "Vença 1 mata-mata."
+        ]
+      }
+    },
+    "ACH_WIN_DEATH_5": {
+      "guia": {
+        "passos": [
+          "Vença 5 mata-matas."
+        ]
+      }
+    }
+  }
 }

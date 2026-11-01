@@ -122,7 +122,16 @@
       }
     },
     "gleeok": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Há Gleeoks na superfície, no céu e no Subsolo; fotografe cada tipo para o Compêndio marcar no mapa.",
+          "Derrube as cabeças acertando o olho de cada uma e bata no corpo enquanto ele estiver no chão."
+        ],
+        "dicas": [
+          "Leve flechas fundidas com olhos de Keese (miram sozinhas) e comida de defesa."
+        ]
+      }
     },
     "lynel": {
       "dificil": true,
@@ -133,7 +142,49 @@
       }
     },
     "100": {
-      "dificil": true
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Complete os 152 santuários, as 120 raízes e visite os locais nomeados (veja a % no mapa)."
+        ],
+        "dicas": [
+          "Ative as raízes para iluminar o Subsolo e ver os locais escondidos."
+        ]
+      }
+    },
+    "torres": {
+      "guia": {
+        "passos": [
+          "Suba em cada torre e entre no lançador para revelar a região no mapa.",
+          "Algumas exigem resolver um obstáculo antes (lodo, monstros, névoa ou caverna)."
+        ],
+        "dicas": [
+          "Ative as torres cedo: elas destravam o mapa e facilitam achar santuários e raízes."
+        ]
+      }
+    },
+    "vigor": {
+      "guia": {
+        "passos": [
+          "Complete santuários para ganhar Bênçãos de Luz.",
+          "Troque 4 Bênçãos por 1 coração ou por 1/5 de vigor nas Estátuas da Deusa."
+        ],
+        "dicas": [
+          "A estátua do Templo da Esperança (Lookout Landing) permite trocar corações por vigor e vice-versa, pagando rupias.",
+          "Os 152 santuários dão 38 trocas: dá para maxar um dos dois e parte do outro."
+        ]
+      }
+    },
+    "kohga": {
+      "guia": {
+        "passos": [
+          "Depois do Fenômeno do Fogo, encontre o Mestre Kohga no Subsolo (perto do Grande Abismo).",
+          "Siga as missões 'Ataque do Mestre Kohga' pelas 4 regiões, derrotando cada versão do chefe."
+        ],
+        "dicas": [
+          "Use o Ultramão para desmontar as engenhocas dele."
+        ]
+      }
     }
   }
 }

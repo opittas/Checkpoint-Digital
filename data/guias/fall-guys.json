@@ -17,5 +17,265 @@
   "avisos": [
     "Precisa de partidas online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_GRAB_PLAYER": {
+      "guia": {
+        "passos": [
+          "Compartilhe um abraço com outro jogador."
+        ],
+        "dicas": [
+          "Segure o botão de agarrar perto de outro jogador."
+        ]
+      }
+    },
+    "ACH_QUALIFY_1_ROUND": {
+      "guia": {
+        "passos": [
+          "Qualifique-se em um round pela primeira vez."
+        ]
+      }
+    },
+    "ACH_WIN_1_EPISODE": {
+      "guia": {
+        "passos": [
+          "Vença seu primeiro episódio."
+        ],
+        "dicas": [
+          "Playlists com menos rounds ou modo em grupo facilitam."
+        ]
+      }
+    },
+    "ACH_FALL_10_QUALIFY_RACE": {
+      "guia": {
+        "passos": [
+          "Qualifique-se em um round de corrida depois de cair mais de 10 vezes."
+        ]
+      }
+    },
+    "ACH_FASHIONISTA": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 50 itens cosméticos da loja."
+        ],
+        "dicas": [
+          "A loja diária e o passe dão cosméticos."
+        ]
+      }
+    },
+    "ACH_SHOPPING_SPREE": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 10 itens cosméticos da loja."
+        ]
+      }
+    },
+    "ACH_SNOWFLAKE": {
+      "guia": {
+        "passos": [
+          "Equipe seu primeiro item cosmético."
+        ]
+      }
+    },
+    "ACH_BARGAIN_BUCKET": {
+      "guia": {
+        "passos": [
+          "Equipe uma Cor, Padronagem, Parte de Cima e Parte de Baixo de nível incomum ou melhor."
+        ]
+      }
+    },
+    "ACH_MAD_TRENDY": {
+      "guia": {
+        "passos": [
+          "Equipe uma Cor, Padronagem, Parte de Cima e Parte de Baixo de nível raro ou melhor."
+        ]
+      }
+    },
+    "ACH_HEAD_TURNER": {
+      "guia": {
+        "passos": [
+          "Equipe uma Cor, Padronagem, Parte de Cima e Parte de Baixo de nível lendário."
+        ]
+      }
+    },
+    "ACH_CATWALK_MODEL": {
+      "guia": {
+        "passos": [
+          "Equipe seu primeiro item de personalização lendário."
+        ]
+      }
+    },
+    "ACH_FAME_TIER_1": {
+      "guia": {
+        "passos": [
+          "Chegue ao nvl. 10 de fama em uma temporada."
+        ]
+      }
+    },
+    "ACH_FAME_TIER_2": {
+      "guia": {
+        "passos": [
+          "Chegue ao nvl. 25 de fama em uma temporada."
+        ]
+      }
+    },
+    "ACH_FAME_TIER_3": {
+      "guia": {
+        "passos": [
+          "Chegue ao nvl. 40 de fama em uma temporada."
+        ]
+      }
+    },
+    "ACH_FLAWLESS_VICTORY": {
+      "guia": {
+        "passos": [
+          "Qualifique-se sem cair uma vez."
+        ]
+      }
+    },
+    "ACH_RACING_TIER_1": {
+      "guia": {
+        "passos": [
+          "Conquiste o primeiro lugar em uma corrida."
+        ]
+      }
+    },
+    "ACH_RACING_TIER_2": {
+      "guia": {
+        "passos": [
+          "Conquiste o primeiro lugar em 5 rounds de corrida."
+        ]
+      }
+    },
+    "ACH_RACING_TIER_3": {
+      "guia": {
+        "passos": [
+          "Conquiste o primeiro lugar em 20 rounds de corrida."
+        ]
+      }
+    },
+    "ACH_INFALLIBLE": {
+      "guia": {
+        "passos": [
+          "Vença 5 episódios seguidos."
+        ],
+        "atencao": [
+          "Uma das mais difíceis: jogue em grupo nas playlists com menos jogadores."
+        ]
+      }
+    },
+    "ACH_WIN_EPISODES_TIER_2": {
+      "guia": {
+        "passos": [
+          "Vença 7 episódios."
+        ]
+      }
+    },
+    "ACH_WIN_EPISODES_TIER_3": {
+      "guia": {
+        "passos": [
+          "Vença 20 episódios."
+        ]
+      }
+    },
+    "ACH_QUALIFY_ROUND_TIER_2": {
+      "guia": {
+        "passos": [
+          "Qualifique-se em 100 rounds."
+        ]
+      }
+    },
+    "ACH_QUALIFY_ROUND_TIER_3": {
+      "guia": {
+        "passos": [
+          "Qualifique-se em 500 rounds."
+        ]
+      }
+    },
+    "ACH_SHOW_OFF": {
+      "guia": {
+        "passos": [
+          "Vença um episódio com uma Celebração personalizada equipada."
+        ]
+      }
+    },
+    "ACH_SQUAD_GOALS": {
+      "guia": {
+        "passos": [
+          "Vença um episódio em um grupo de 3 ou mais jogadores."
+        ]
+      }
+    },
+    "ACH_DOWN_TO_THE_WIRE": {
+      "guia": {
+        "passos": [
+          "Qualifique-se após a prorrogação de um round."
+        ]
+      }
+    },
+    "ACHI_BARELY_MADE_IT": {
+      "guia": {
+        "passos": [
+          "Qualifique-se em uma partida em equipe com apenas 1 ponto."
+        ]
+      }
+    },
+    "ACH_BIG_TEASE": {
+      "guia": {
+        "passos": [
+          "Faça um gesto antes de chegar em primeiro em um round de corrida."
+        ]
+      }
+    },
+    "ACH_BIG_AIR": {
+      "guia": {
+        "passos": [
+          "Acumule 1 hora de tempo total de queda."
+        ],
+        "dicas": [
+          "Conta o tempo total caindo; vem jogando normalmente."
+        ]
+      }
+    },
+    "ACH_STUMBLE_CHUMS": {
+      "guia": {
+        "passos": [
+          "Trombe com outros jogadores 1.000 vezes ao todo."
+        ]
+      }
+    },
+    "ACH_STYLE_POINTS": {
+      "guia": {
+        "passos": [
+          "Caia de cabeça após uma queda de pelo menos 3 segundos."
+        ],
+        "dicas": [
+          "Pule de um lugar alto em fases como Escalada e caia de cabeça."
+        ]
+      }
+    },
+    "ACH_BIG_BULLY": {
+      "guia": {
+        "passos": [
+          "Derrube um jogador."
+        ]
+      }
+    },
+    "ACH_TROUBLEMAKER": {
+      "guia": {
+        "passos": [
+          "Trombe com 3 jogadores enquanto rola no chão antes de levantar."
+        ]
+      }
+    },
+    "ACH_FALL_THROTTLE": {
+      "guia": {
+        "passos": [
+          "Chegue à velocidade terminal."
+        ],
+        "dicas": [
+          "Caia de um ponto muito alto, como no fim de fases verticais."
+        ]
+      }
+    }
+  }
 }

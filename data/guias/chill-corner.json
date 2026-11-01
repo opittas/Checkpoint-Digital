@@ -11,5 +11,256 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ONE_HOUR": {
+      "guia": {
+        "passos": [
+          "Relaxando por uma hora."
+        ],
+        "dicas": [
+          "Deixe aberto em segundo plano."
+        ]
+      }
+    },
+    "FIVE_MINUTE": {
+      "guia": {
+        "passos": [
+          "Relaxando por 5 minutos."
+        ]
+      }
+    },
+    "THIRTY_MINUTE": {
+      "guia": {
+        "passos": [
+          "Relaxando por 30 minutos."
+        ]
+      }
+    },
+    "DECORATOR": {
+      "guia": {
+        "passos": [
+          "Desbloqueie uma decoração."
+        ]
+      }
+    },
+    "PET": {
+      "guia": {
+        "passos": [
+          "Escolha um pet."
+        ]
+      }
+    },
+    "WEATHER": {
+      "guia": {
+        "passos": [
+          "Escolha um clima."
+        ]
+      }
+    },
+    "RAINY_DAY": {
+      "guia": {
+        "passos": [
+          "Escolha o clima chuvoso."
+        ]
+      }
+    },
+    "SNOWVY_DAY": {
+      "guia": {
+        "passos": [
+          "Escolha o clima com neve."
+        ]
+      }
+    },
+    "SUNNY_DAY": {
+      "guia": {
+        "passos": [
+          "Escolha o clima ensolarado."
+        ]
+      }
+    },
+    "TASK": {
+      "guia": {
+        "passos": [
+          "Crie uma tarefa."
+        ]
+      }
+    },
+    "FEEDING": {
+      "guia": {
+        "passos": [
+          "Alimente um pet."
+        ]
+      }
+    },
+    "FAV_TRACK": {
+      "guia": {
+        "passos": [
+          "Coloque sua faixa favorita para repetir."
+        ]
+      }
+    },
+    "GREEN_ROOM": {
+      "guia": {
+        "passos": [
+          "Coloque uma árvore ou vaso de planta."
+        ]
+      }
+    },
+    "CHRISTMAS": {
+      "guia": {
+        "passos": [
+          "Coloque uma árvore de Natal."
+        ]
+      }
+    },
+    "NEW_ROOM": {
+      "guia": {
+        "passos": [
+          "Mude para outra sala."
+        ]
+      }
+    },
+    "MY_OWN_ROOM": {
+      "guia": {
+        "passos": [
+          "Decore sua sala personalizada."
+        ]
+      }
+    },
+    "SHUFFLE": {
+      "guia": {
+        "passos": [
+          "Toque um álbum no modo aleatório."
+        ]
+      }
+    },
+    "MY_ALBUM": {
+      "guia": {
+        "passos": [
+          "Crie seu álbum personalizado."
+        ]
+      }
+    },
+    "SKIPPING": {
+      "guia": {
+        "passos": [
+          "Passe para a faixa seguinte ou anterior."
+        ]
+      }
+    },
+    "BREAKING_TIME": {
+      "guia": {
+        "passos": [
+          "Pause sua atividade."
+        ]
+      }
+    },
+    "DECORATING": {
+      "guia": {
+        "passos": [
+          "Coloque uma decoração."
+        ]
+      }
+    },
+    "PERFECT_COLLECTOR": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todas as decorações."
+        ],
+        "dicas": [
+          "Decorações liberam com o tempo de uso."
+        ]
+      }
+    },
+    "THERE_HOUR": {
+      "guia": {
+        "passos": [
+          "Estude ou trabalhe por 3 horas."
+        ]
+      }
+    },
+    "HARD_WORKING": {
+      "guia": {
+        "passos": [
+          "Passe mais de 24 horas no Chill Corner."
+        ],
+        "dicas": [
+          "Deixe o jogo aberto enquanto estuda ou trabalha."
+        ]
+      }
+    },
+    "CHARACTER": {
+      "guia": {
+        "passos": [
+          "Escolha um personagem."
+        ]
+      }
+    },
+    "STICKER_COLLECTOR": {
+      "guia": {
+        "passos": [
+          "Desbloqueie todos os adesivos."
+        ]
+      }
+    },
+    "SMALL_GIFT": {
+      "guia": {
+        "passos": [
+          "Responda um e-mail com um adesivo."
+        ]
+      }
+    },
+    "DESPRESSION": {
+      "guia": {
+        "passos": [
+          "Envie um e-mail."
+        ]
+      }
+    },
+    "PETTING": {
+      "guia": {
+        "passos": [
+          "Faça carinho no seu pet."
+        ]
+      }
+    },
+    "READER": {
+      "guia": {
+        "passos": [
+          "Leia algumas cartas."
+        ]
+      }
+    },
+    "BEETLE_HOBBYIST": {
+      "guia": {
+        "passos": [
+          "Decore a sala com pelo menos um terrário de besouros."
+        ]
+      }
+    },
+    "FISH_HOBBYIST": {
+      "guia": {
+        "passos": [
+          "Decore a sala com pelo menos um aquário."
+        ]
+      }
+    },
+    "FISH_COLLECTOR": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 60 peixes."
+        ],
+        "dicas": [
+          "Peixes novos liberam com o tempo de uso do aquário."
+        ]
+      }
+    },
+    "BEETLE_COLLECTOR": {
+      "guia": {
+        "passos": [
+          "Desbloqueie 8 besouros."
+        ]
+      }
+    }
+  }
 }

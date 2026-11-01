@@ -11,5 +11,75 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "FOY_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a primeira sala (Saguão)."
+        ],
+        "dicas": [
+          "Use a lente em tudo."
+        ]
+      }
+    },
+    "STU_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a Sala de Estudos."
+        ]
+      }
+    },
+    "CUR_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a Sala de Curiosidades."
+        ]
+      }
+    },
+    "KIT_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a Cozinha."
+        ]
+      }
+    },
+    "MAR_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a Sala Marítima."
+        ]
+      }
+    },
+    "GAR_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o Jardim."
+        ]
+      }
+    },
+    "JPN_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine a Galeria Japonesa."
+        ]
+      }
+    },
+    "ART_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o Estúdio de Arte."
+        ]
+      }
+    },
+    "FIN_COMPLETE": {
+      "guia": {
+        "passos": [
+          "Termine o jogo."
+        ],
+        "dicas": [
+          "Use as dicas se travar."
+        ]
+      }
+    }
+  }
 }

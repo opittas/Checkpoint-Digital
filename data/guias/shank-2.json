@@ -15,5 +15,146 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ultimatesurvivalist": {
+      "guia": {
+        "passos": [
+          "Vença todas as ondas de qualquer mapa da Sobrevivência."
+        ]
+      }
+    },
+    "storyends": {
+      "guia": {
+        "passos": [
+          "Termine a campanha no Normal."
+        ]
+      }
+    },
+    "tooeasy": {
+      "guia": {
+        "passos": [
+          "Termine a campanha no Difícil."
+        ]
+      }
+    },
+    "gonnaleaveamark": {
+      "guia": {
+        "passos": [
+          "Faça 100 mortes com contra-ataque de facão."
+        ]
+      }
+    },
+    "pistolheimlich": {
+      "guia": {
+        "passos": [
+          "Faça 60 mortes com contra-ataque de pistola."
+        ]
+      }
+    },
+    "triggerhappy": {
+      "guia": {
+        "passos": [
+          "Mate 30 com armadilhas de fogo numa partida de Sobrevivência."
+        ]
+      }
+    },
+    "comboking": {
+      "guia": {
+        "passos": [
+          "Faça 10 combos de 20 golpes."
+        ]
+      }
+    },
+    "zombiekiller": {
+      "guia": {
+        "passos": [
+          "Chegue à onda de zumbis em cada mapa da Sobrevivência."
+        ]
+      }
+    },
+    "gimmickfree": {
+      "guia": {
+        "passos": [
+          "Mate um chefe da Sobrevivência sem armadilhas nem granadas."
+        ]
+      }
+    },
+    "surfsup": {
+      "guia": {
+        "passos": [
+          "Passe 15 ondas sem nenhum jogador morrer."
+        ]
+      }
+    },
+    "nobargains": {
+      "guia": {
+        "passos": [
+          "Não compre nada por 10 ondas seguidas."
+        ]
+      }
+    },
+    "upclose": {
+      "guia": {
+        "passos": [
+          "Vença uma fase da campanha sem ataques à distância."
+        ]
+      }
+    },
+    "kitchensink": {
+      "guia": {
+        "passos": [
+          "Ache a pia de cozinha e mate alguém com ela."
+        ]
+      }
+    },
+    "shopaholic": {
+      "guia": {
+        "passos": [
+          "Compre tudo no modo Sobrevivência."
+        ]
+      }
+    },
+    "ditchdigger": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos com a pá."
+        ]
+      }
+    },
+    "batterup": {
+      "guia": {
+        "passos": [
+          "Mate 150 com o taco de beisebol."
+        ]
+      }
+    },
+    "firstdozen": {
+      "guia": {
+        "passos": [
+          "Mate 12 inimigos."
+        ]
+      }
+    },
+    "freedomfighter": {
+      "guia": {
+        "passos": [
+          "Resgate 50 civis da milícia."
+        ]
+      }
+    },
+    "notsofast": {
+      "guia": {
+        "passos": [
+          "Faça 30 contra-ataques numa partida de Sobrevivência."
+        ]
+      }
+    },
+    "shanksmash": {
+      "guia": {
+        "passos": [
+          "Mate 50 esmagando com objetos pesados."
+        ]
+      }
+    }
+  }
 }

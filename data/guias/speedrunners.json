@@ -11,5 +11,212 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "grappled_opponent": {
+      "guia": {
+        "passos": [
+          "Agarre 100 adversários com o Gancho de Ouro (item de caixa)."
+        ]
+      }
+    },
+    "overtaken_opponent": {
+      "guia": {
+        "passos": [
+          "Ultrapasse 1000 adversários."
+        ]
+      }
+    },
+    "air_tackles": {
+      "guia": {
+        "passos": [
+          "Dê 10 voadoras em adversários no ar."
+        ]
+      }
+    },
+    "bomb_multiple_opponents": {
+      "guia": {
+        "passos": [
+          "Acerte 2 adversários com uma bomba."
+        ]
+      }
+    },
+    "in_air_5": {
+      "guia": {
+        "passos": [
+          "Fique 5 segundos sem tocar o chão."
+        ]
+      }
+    },
+    "in_air_10": {
+      "guia": {
+        "passos": [
+          "Fique 10 segundos no ar."
+        ]
+      }
+    },
+    "in_air_30": {
+      "guia": {
+        "passos": [
+          "Fique 30 segundos no ar."
+        ],
+        "dicas": [
+          "Use o gancho em sequência em fases com muitos pontos de agarre."
+        ]
+      }
+    },
+    "grapple_revenge": {
+      "guia": {
+        "passos": [
+          "Agarre quem acabou de te agarrar."
+        ]
+      }
+    },
+    "far_away_grapple": {
+      "guia": {
+        "passos": [
+          "Agarre alguém muito distante."
+        ]
+      }
+    },
+    "rocket_suicide": {
+      "guia": {
+        "passos": [
+          "Atire um míssil que volte em você."
+        ]
+      }
+    },
+    "trigger_roulette": {
+      "guia": {
+        "passos": [
+          "Veja a SpeedRoleta acontecer."
+        ]
+      }
+    },
+    "dodged_hooks": {
+      "guia": {
+        "passos": [
+          "Desvie do Gancho de Ouro 10 vezes."
+        ]
+      }
+    },
+    "rockets_blocked": {
+      "guia": {
+        "passos": [
+          "Bloqueie 10 mísseis com caixotes."
+        ]
+      }
+    },
+    "dropped_crates_on_heads": {
+      "guia": {
+        "passos": [
+          "Derrube caixotes na cabeça dos adversários 10 vezes."
+        ]
+      }
+    },
+    "fireball_strike": {
+      "guia": {
+        "passos": [
+          "Acerte 3 adversários com uma bola de fogo."
+        ]
+      }
+    },
+    "triple_freeze": {
+      "guia": {
+        "passos": [
+          "Congele 3 adversários com um raio."
+        ]
+      }
+    },
+    "superspeed": {
+      "guia": {
+        "passos": [
+          "Mantenha a super velocidade por 1 segundo."
+        ]
+      }
+    },
+    "fireball_reflect": {
+      "guia": {
+        "passos": [
+          "Desvie uma bola de fogo com a onda de choque."
+        ]
+      }
+    },
+    "beginner_league": {
+      "guia": {
+        "passos": [
+          "Suba para a Liga Iniciante."
+        ]
+      }
+    },
+    "bronze_league": {
+      "guia": {
+        "passos": [
+          "Suba para a Liga Bronze."
+        ]
+      }
+    },
+    "ranked_matches": {
+      "guia": {
+        "passos": [
+          "Libere as partidas ranqueadas."
+        ]
+      }
+    },
+    "max_xp_earned": {
+      "guia": {
+        "passos": [
+          "Chegue ao XP máximo."
+        ]
+      }
+    },
+    "golden_ranked_win": {
+      "guia": {
+        "passos": [
+          "Vença uma ranqueada usando um personagem com desvantagem."
+        ]
+      }
+    },
+    "blocked_hook_by_crates": {
+      "guia": {
+        "passos": [
+          "Bloqueie 10 Ganchos de Ouro com caixotes."
+        ]
+      }
+    },
+    "sp_any_diff_chapter_0": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 1 da História."
+        ]
+      }
+    },
+    "sp_any_diff_chapter_1": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 2."
+        ]
+      }
+    },
+    "sp_any_diff_chapter_2": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo 3."
+        ]
+      }
+    },
+    "sp_any_diff_chapter_3": {
+      "guia": {
+        "passos": [
+          "Termine o capítulo final."
+        ]
+      }
+    },
+    "sp_unfair_chapter_3": {
+      "guia": {
+        "passos": [
+          "Termine todos os capítulos no Injusto."
+        ]
+      }
+    }
+  }
 }

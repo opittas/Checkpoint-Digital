@@ -7,5 +7,118 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "CHANGE_WEATHER": {
+      "guia": {
+        "passos": [
+          "Mude o clima no menu."
+        ]
+      }
+    },
+    "DESIGNER_1": {
+      "guia": {
+        "passos": [
+          "Coloque 10 móveis."
+        ]
+      }
+    },
+    "DESIGNER_2": {
+      "guia": {
+        "passos": [
+          "Coloque 50 móveis."
+        ]
+      }
+    },
+    "DESIGNER_3": {
+      "guia": {
+        "passos": [
+          "Coloque 500 móveis."
+        ]
+      }
+    },
+    "PAINTER_1": {
+      "guia": {
+        "passos": [
+          "Pinte 10 paredes."
+        ]
+      }
+    },
+    "PAINTER_2": {
+      "guia": {
+        "passos": [
+          "Pinte 50 paredes."
+        ]
+      }
+    },
+    "PAINTER_3": {
+      "guia": {
+        "passos": [
+          "Pinte 500 paredes."
+        ]
+      }
+    },
+    "ARCHITECT_1": {
+      "guia": {
+        "passos": [
+          "Desenhe 5 minutos no modo de design."
+        ]
+      }
+    },
+    "ARCHITECT_2": {
+      "guia": {
+        "passos": [
+          "Desenhe 30 minutos no modo de design."
+        ]
+      }
+    },
+    "ARCHITECT_3": {
+      "guia": {
+        "passos": [
+          "Desenhe 60 minutos no modo de design."
+        ]
+      }
+    },
+    "PHOTOGRAPHER": {
+      "guia": {
+        "passos": [
+          "Tire uma foto do quarto."
+        ]
+      }
+    },
+    "FIRST_ONE": {
+      "guia": {
+        "passos": [
+          "Molde seu primeiro cômodo."
+        ]
+      }
+    },
+    "ARTIST_1": {
+      "guia": {
+        "passos": [
+          "Mude a cor dos móveis 10 vezes."
+        ]
+      }
+    },
+    "ARTIST_2": {
+      "guia": {
+        "passos": [
+          "Mude a cor dos móveis 50 vezes."
+        ]
+      }
+    },
+    "ARTIST_3": {
+      "guia": {
+        "passos": [
+          "Mude a cor dos móveis 500 vezes."
+        ]
+      }
+    },
+    "ITS_WORKING": {
+      "guia": {
+        "passos": [
+          "Ligue algum aparelho."
+        ]
+      }
+    }
+  }
 }

@@ -15,5 +15,298 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "TRP_GET_ALL": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_1": {
+      "guia": {
+        "passos": [
+          "Concluiu \"O Invasor\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_2": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Os Céus Impacientes\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_3": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Armadilha Gelada\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_4": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Luar Desastroso\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_5": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Confronto\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_6": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Desejo Perdido, Coração Tumultuado\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_7": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Um Lampejo de Esperança\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_8": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Crepúsculo do Milênio\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_CHAPTER_9": {
+      "guia": {
+        "passos": [
+          "Concluiu \"Laços Eternos\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_SIDEEP_1": {
+      "guia": {
+        "passos": [
+          "Concluiu todos os episódios de \"Navegação\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_SIDEEP_2": {
+      "guia": {
+        "passos": [
+          "Concluiu todos os episódios de \"Mistificação\"."
+        ]
+      }
+    },
+    "TRP_CLEAR_FIRST_CHALLENGE": {
+      "guia": {
+        "passos": [
+          "Concluiu uma Missão de Desafio."
+        ]
+      }
+    },
+    "TRP_CLEAR_FIRST_EXTRA": {
+      "guia": {
+        "passos": [
+          "Concluiu uma Missão Extra."
+        ]
+      }
+    },
+    "TRP_CLEAR_FIRST_SUDDEN": {
+      "guia": {
+        "passos": [
+          "Concluiu uma Missão Repentina."
+        ]
+      }
+    },
+    "TRP_CLEAR_FIRST_FRIEND": {
+      "guia": {
+        "passos": [
+          "Concluiu uma Missão de Amigo."
+        ]
+      }
+    },
+    "TRP_CLEAR_QUEST_50": {
+      "guia": {
+        "passos": [
+          "Concluiu 50 missões."
+        ]
+      }
+    },
+    "TRP_RESTCHARA_CLEAR_EXTRA_1": {
+      "guia": {
+        "passos": [
+          "Concluiu uma Missão Extra só com Kirito e Silver Crow."
+        ]
+      }
+    },
+    "TRP_RESTCHARA_CLEAR_EXTRA_2": {
+      "guia": {
+        "passos": [
+          "Concluiu uma Missão Extra só com Asuna e Black Lotus."
+        ]
+      }
+    },
+    "TRP_RESTCHARA_CLEAR_EXTRA_3": {
+      "guia": {
+        "passos": [
+          "Concluiu uma Missão Extra só com Sky Raker, Ardor Maiden e Aqua Current."
+        ]
+      }
+    },
+    "TRP_CLEAR_SUDDEN_ALL": {
+      "guia": {
+        "passos": [
+          "Completou todos os pedidos de Hexe."
+        ]
+      }
+    },
+    "TRP_SWITCH_SUCCEEDED_FIRST": {
+      "guia": {
+        "passos": [
+          "Fez uma Troca."
+        ]
+      }
+    },
+    "TRP_SMITH_FIRST": {
+      "guia": {
+        "passos": [
+          "Usou os serviços de um ferreiro."
+        ]
+      }
+    },
+    "TRP_DESTROY_CORE_FIRST": {
+      "guia": {
+        "passos": [
+          "Destruiu um objeto sólido do Outro Mundo."
+        ]
+      }
+    },
+    "TRP_USE_BP_FIRST": {
+      "guia": {
+        "passos": [
+          "Usou BP para comprar algo."
+        ]
+      }
+    },
+    "TRP_ONLINE_FIRST": {
+      "guia": {
+        "passos": [
+          "Derrotou o monstro general envolto em aura."
+        ]
+      }
+    },
+    "TRP_AVLV_UPTO_50": {
+      "guia": {
+        "passos": [
+          "Levou um personagem ao nível 500."
+        ]
+      }
+    },
+    "TRP_AVLV_UPTO_1000": {
+      "guia": {
+        "passos": [
+          "Levou um personagem ao nível 1000."
+        ],
+        "dicas": [
+          "Repita Missões Extras de alto nível para XP."
+        ]
+      }
+    },
+    "TRP_SKILL_UPTO_50_ALO": {
+      "guia": {
+        "passos": [
+          "Levou a habilidade de um personagem de SAO ao nível 500."
+        ]
+      }
+    },
+    "TRP_SKILL_UPTO_50_AW": {
+      "guia": {
+        "passos": [
+          "Levou a habilidade de um personagem de AW ao nível 500."
+        ]
+      }
+    },
+    "TRP_EQUIP_TO_ENHANCED10": {
+      "guia": {
+        "passos": [
+          "Aprimorou uma arma até +10."
+        ]
+      }
+    },
+    "TRP_EQUIP_RANK1_TO_RANK10": {
+      "guia": {
+        "passos": [
+          "Levou uma arma do Rank 1 ao Rank 10."
+        ]
+      }
+    },
+    "TRP_EQUIP_100KINDS": {
+      "guia": {
+        "passos": [
+          "Conseguiu 100 tipos diferentes de equipamento."
+        ],
+        "dicas": [
+          "Equipamentos caem de baús e chefes."
+        ]
+      }
+    },
+    "TRP_FALL_DOWN_777M": {
+      "guia": {
+        "passos": [
+          "Recebeu 50 títulos."
+        ],
+        "dicas": [
+          "Títulos vêm de ações variadas: veja a lista no menu."
+        ]
+      }
+    },
+    "TRP_GET_100_TITLES": {
+      "guia": {
+        "passos": [
+          "Conseguiu 100 títulos no total."
+        ]
+      }
+    },
+    "TRP_SKILL_CONNECT_5": {
+      "guia": {
+        "passos": [
+          "Encadeou 8 habilidades com Skill Connect."
+        ]
+      }
+    },
+    "TRP_OPEN_ALL_DESCRIPTIONS": {
+      "guia": {
+        "passos": [
+          "Começou o episódio 5 de \"Diga, Srta. Strea!\"."
+        ]
+      }
+    },
+    "TRP_BE_FRIEND_YUNA": {
+      "guia": {
+        "passos": [
+          "Desbloqueou Seven."
+        ]
+      }
+    },
+    "TRP_BE_FRIEND_UNICA": {
+      "guia": {
+        "passos": [
+          "Desbloqueou Nitride Unica."
+        ]
+      }
+    },
+    "TRP_BE_FRIEND_HEPTARCHY": {
+      "guia": {
+        "passos": [
+          "Desbloqueou os sete Reis."
+        ],
+        "dicas": [
+          "Os Reis liberam com as missões de cada um no pós-jogo."
+        ]
+      }
+    }
+  }
 }

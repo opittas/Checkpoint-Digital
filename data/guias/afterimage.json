@@ -15,5 +15,346 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACH_ALL_01": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "ACH_BOSS_ZL1": {
+      "guia": {
+        "passos": [
+          "Derrote o Lobo exuberante."
+        ]
+      }
+    },
+    "ACH_BOSS_FYLS2": {
+      "guia": {
+        "passos": [
+          "Derrote Loss, asas quebradas."
+        ]
+      }
+    },
+    "ACH_BOSS_AGSAJR": {
+      "guia": {
+        "passos": [
+          "Derrote Agus, Golias de Pyro e Aqil, Golias de Pyro."
+        ]
+      }
+    },
+    "ACH_BOSS_YLZ": {
+      "guia": {
+        "passos": [
+          "Derrote a Guia, lua sombria."
+        ]
+      }
+    },
+    "ACH_BOSS_KL": {
+      "guia": {
+        "passos": [
+          "Derrote Karin, primeva oculta."
+        ]
+      }
+    },
+    "ACH_BOSS_YXS": {
+      "guia": {
+        "passos": [
+          "Derrote Eseus, a Transcendente."
+        ]
+      }
+    },
+    "ACH_BOSS_YHYXS": {
+      "guia": {
+        "passos": [
+          "Derrote Eseus, a Eterna."
+        ],
+        "dicas": [
+          "Chefe do final verdadeiro."
+        ]
+      }
+    },
+    "ACH_BOSS_THEM": {
+      "guia": {
+        "passos": [
+          "Derrote todas as entidades poderosas."
+        ],
+        "dicas": [
+          "Inclui os chefes opcionais escondidos."
+        ]
+      }
+    },
+    "ACH_BOSS_ALL": {
+      "guia": {
+        "passos": [
+          "Derrote todos os chefes."
+        ]
+      }
+    },
+    "ACH_ITEM_CHIPALL": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os fragmentos da folha divina e da flor divina."
+        ]
+      }
+    },
+    "ACH_ITEM_RUNEALL": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os glifos primevos."
+        ]
+      }
+    },
+    "ACH_ITEM_AUROGONRUNEALL": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os glifos de Shenlong."
+        ]
+      }
+    },
+    "ACH_INFO_MONSTERALL": {
+      "guia": {
+        "passos": [
+          "Complete o bestiário."
+        ]
+      }
+    },
+    "ACH_ITEM_EQUIPMENT": {
+      "guia": {
+        "passos": [
+          "Obtenha todas as armas e armaduras."
+        ]
+      }
+    },
+    "ACH_ITEM_ACCESSORIES": {
+      "guia": {
+        "passos": [
+          "Obtenha todos os acessórios."
+        ]
+      }
+    },
+    "ACH_ITEM_SKILLBOOK": {
+      "guia": {
+        "passos": [
+          "Aprenda todas as artes secretas."
+        ]
+      }
+    },
+    "ACH_ITEM_FOODALL": {
+      "guia": {
+        "passos": [
+          "Prove todos os pratos de Engardin."
+        ]
+      }
+    },
+    "ACH_LEVELMAX": {
+      "guia": {
+        "passos": [
+          "Alcance o nível 99."
+        ]
+      }
+    },
+    "ACH_ITEM_ABILITYALL": {
+      "guia": {
+        "passos": [
+          "Obtenha todas as habilidades e remanescências e alcance o nível 99."
+        ]
+      }
+    },
+    "ACH_SHOP_ALLITEM": {
+      "guia": {
+        "passos": [
+          "Compre todos os itens da loja."
+        ]
+      }
+    },
+    "ACH_SAVEPOINT_ALL": {
+      "guia": {
+        "passos": [
+          "Ative todas as Confluências dos Fluxos."
+        ]
+      }
+    },
+    "ACH_QUEST_GDS": {
+      "guia": {
+        "passos": [
+          "Testemunhe a longa jornada de Stanley e Levine."
+        ]
+      }
+    },
+    "ACH_QUEST_MFXT": {
+      "guia": {
+        "passos": [
+          "Testemunhe o destino de Nicole."
+        ]
+      }
+    },
+    "ACH_QUEST_XZ": {
+      "guia": {
+        "passos": [
+          "Testemunhe o fim eterno de Ethan."
+        ]
+      }
+    },
+    "ACH_QUEST_MXJ": {
+      "guia": {
+        "passos": [
+          "Testemunhe a grande aventura de Karsa e Brenda."
+        ]
+      }
+    },
+    "ACH_ITEM_MJCZJTQGH": {
+      "guia": {
+        "passos": [
+          "Em nome da máscara, da espada e da auréola."
+        ]
+      }
+    },
+    "ACH_QUEST_ROSALIA": {
+      "guia": {
+        "passos": [
+          "Testemunhe o último eco de Rosalia."
+        ]
+      }
+    },
+    "ACH_QUEST_ZDY20": {
+      "guia": {
+        "passos": [
+          "Não perturbe o \"trabalho\" dos outros."
+        ]
+      }
+    },
+    "ACH_QUEST_JW": {
+      "guia": {
+        "passos": [
+          "Testemunhe o apagar de um sol."
+        ]
+      }
+    },
+    "ACH_QUEST_CSALS": {
+      "guia": {
+        "passos": [
+          "Prove o sabor da felicidade."
+        ]
+      }
+    },
+    "ACH_QUEST_LZYXH": {
+      "guia": {
+        "passos": [
+          "Que nossos caminhos se cruzem novamente em breve..."
+        ]
+      }
+    },
+    "ACH_END_GH": {
+      "guia": {
+        "passos": [
+          "Where is my mind?"
+        ],
+        "dicas": [
+          "O jogo tem vários finais: salve antes do chefe final e siga cada rota/condição."
+        ]
+      }
+    },
+    "ACH_END_YL": {
+      "guia": {
+        "passos": [
+          "Down in a hole."
+        ]
+      }
+    },
+    "ACH_END_SZ": {
+      "guia": {
+        "passos": [
+          "O destino está escrito em uma tábua."
+        ]
+      }
+    },
+    "ACH_END_XW": {
+      "guia": {
+        "passos": [
+          "O fogo está fora de controle..."
+        ]
+      }
+    },
+    "ACH_END_KW": {
+      "guia": {
+        "passos": [
+          "...o mais difícil é deixar você."
+        ]
+      }
+    },
+    "ACH_END_LX": {
+      "guia": {
+        "passos": [
+          "Pé na estrada outra vez."
+        ]
+      }
+    },
+    "ACH_END_MENG": {
+      "guia": {
+        "passos": [
+          "Doces sonhos... são feitos de quê?"
+        ]
+      }
+    },
+    "ACH_END_DD": {
+      "guia": {
+        "passos": [
+          "Engardin está condenada e não há nada que eu possa fazer."
+        ]
+      }
+    },
+    "ACH_END_SJZH": {
+      "guia": {
+        "passos": [
+          "Brilhe, louca flor."
+        ]
+      }
+    },
+    "ACH_END_QIANG": {
+      "guia": {
+        "passos": [
+          "Telefone vermelho ou telefone azul?"
+        ]
+      }
+    },
+    "ACH_SPC_KICKDOWN": {
+      "guia": {
+        "passos": [
+          "Essa fica para a sequência!"
+        ],
+        "dicas": [
+          "Tente pular em cima de inimigos (pogo) com o golpe para baixo."
+        ]
+      }
+    },
+    "ACH_SPC_HIT666": {
+      "guia": {
+        "passos": [
+          "Cause 666 de dano em um único golpe."
+        ],
+        "dicas": [
+          "Use ataques carregados com buffs de dano."
+        ]
+      }
+    },
+    "ACH_SPC_JUMPLV7": {
+      "guia": {
+        "passos": [
+          "Realize um salto de fé."
+        ],
+        "dicas": [
+          "Pule de um lugar muito alto num abismo que parece fatal."
+        ]
+      }
+    },
+    "ACH_SPC_IRONMAN": {
+      "guia": {
+        "passos": [
+          "Derrote um inimigo com um Bastião de ferro aprimorado."
+        ]
+      }
+    }
+  }
 }

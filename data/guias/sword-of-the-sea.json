@@ -1,0 +1,352 @@
+{
+  "resumo": "",
+  "roadmap": [],
+  "avisos": [],
+  "conquistas": {
+    "Achievement000": {
+      "guia": {
+        "passos": [
+          "Ganhe todas as outras conquistas."
+        ]
+      }
+    },
+    "Achievement001": {
+      "guia": {
+        "passos": [
+          "Abra 10 baús de tesouro."
+        ]
+      }
+    },
+    "Achievement002": {
+      "guia": {
+        "passos": [
+          "Encontre 10 ladrilhos de peixe."
+        ]
+      }
+    },
+    "Achievement003": {
+      "guia": {
+        "passos": [
+          "Percorra uma distância enorme sem tocar no chão."
+        ]
+      }
+    },
+    "Achievement004": {
+      "guia": {
+        "passos": [
+          "Execute uma combinação de 5 manobras."
+        ]
+      }
+    },
+    "Achievement005": {
+      "guia": {
+        "passos": [
+          "Execute uma combinação de 10 manobras."
+        ]
+      }
+    },
+    "Achievement006": {
+      "guia": {
+        "passos": [
+          "Execute uma combinação de 20 manobras."
+        ]
+      }
+    },
+    "Achievement007": {
+      "guia": {
+        "passos": [
+          "Retorne toda a água do Mar Velado."
+        ]
+      }
+    },
+    "Achievement008": {
+      "guia": {
+        "passos": [
+          "Retorne toda a água da Gruta Perdida."
+        ]
+      }
+    },
+    "Achievement009": {
+      "guia": {
+        "passos": [
+          "Retorne toda a água do Vale Proibido."
+        ]
+      }
+    },
+    "Achievement010": {
+      "guia": {
+        "passos": [
+          "Retorne toda a água da Tundra Sombria."
+        ]
+      }
+    },
+    "Achievement011": {
+      "guia": {
+        "passos": [
+          "Retorne toda a água das Dunas Congeladas."
+        ]
+      }
+    },
+    "Achievement012": {
+      "guia": {
+        "passos": [
+          "Retorne toda a água do Rio Sagrado."
+        ]
+      }
+    },
+    "Achievement013": {
+      "guia": {
+        "passos": [
+          "Encontre todas as áreas de manobras."
+        ]
+      }
+    },
+    "Achievement014": {
+      "guia": {
+        "passos": [
+          "Bata a pontuação recorde em todas as áreas de manobras."
+        ]
+      }
+    },
+    "Achievement015": {
+      "guia": {
+        "passos": [
+          "Leia todas as mensagens dos monólitos."
+        ]
+      }
+    },
+    "Achievement016": {
+      "guia": {
+        "passos": [
+          "Monte numa orca."
+        ]
+      }
+    },
+    "Achievement017": {
+      "guia": {
+        "passos": [
+          "Monte num archelon."
+        ]
+      }
+    },
+    "Achievement018": {
+      "guia": {
+        "passos": [
+          "Monte numa baleia-jubarte."
+        ]
+      }
+    },
+    "Achievement019": {
+      "guia": {
+        "passos": [
+          "Monte num cachalote."
+        ]
+      }
+    },
+    "Achievement020": {
+      "guia": {
+        "passos": [
+          "Monte num tubarão-baleia."
+        ]
+      }
+    },
+    "Achievement021": {
+      "guia": {
+        "passos": [
+          "Monte numa baleia-azul."
+        ]
+      }
+    },
+    "Achievement022": {
+      "guia": {
+        "passos": [
+          "Monte num elasmossauro."
+        ]
+      }
+    },
+    "Achievement023": {
+      "guia": {
+        "passos": [
+          "Pegue o Corrimão d'Água 4 vezes seguidas."
+        ]
+      }
+    },
+    "Achievement024": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas no Mar Velado."
+        ]
+      }
+    },
+    "Achievement025": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas na Gruta Perdida."
+        ]
+      }
+    },
+    "Achievement026": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas no Vale Proibido."
+        ]
+      }
+    },
+    "Achievement027": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas na Tundra Sombria."
+        ]
+      }
+    },
+    "Achievement028": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas nas Dunas Congeladas."
+        ]
+      }
+    },
+    "Achievement029": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas no Rio Sagrado."
+        ]
+      }
+    },
+    "Achievement030": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas na Caverna Fervente."
+        ]
+      }
+    },
+    "Achievement031": {
+      "guia": {
+        "passos": [
+          "Encontre o sapinho-do-deserto."
+        ]
+      }
+    },
+    "Achievement032": {
+      "guia": {
+        "passos": [
+          "Encontre a rã-touro."
+        ]
+      }
+    },
+    "Achievement033": {
+      "guia": {
+        "passos": [
+          "Encontre o sapo-de-chifre."
+        ]
+      }
+    },
+    "Achievement034": {
+      "guia": {
+        "passos": [
+          "Encontre o sapo-ponta-de-flecha."
+        ]
+      }
+    },
+    "Achievement035": {
+      "guia": {
+        "passos": [
+          "Encontre o esqueleto de sapo."
+        ]
+      }
+    },
+    "Achievement036": {
+      "guia": {
+        "passos": [
+          "Obtenha a habilidade Manobras de Giro."
+        ]
+      }
+    },
+    "Achievement037": {
+      "guia": {
+        "passos": [
+          "Obtenha a habilidade Queda Livre."
+        ]
+      }
+    },
+    "Achievement038": {
+      "guia": {
+        "passos": [
+          "Obtenha a habilidade Supersalto."
+        ]
+      }
+    },
+    "Achievement039": {
+      "guia": {
+        "passos": [
+          "Obtenha a última recompensa do mercador misterioso."
+        ]
+      }
+    },
+    "Achievement040": {
+      "guia": {
+        "passos": [
+          "Faça todas as manobras de giro aéreas."
+        ]
+      }
+    },
+    "Achievement041": {
+      "guia": {
+        "passos": [
+          "Derrote Tor Namun sem sofrer nenhum acerto."
+        ],
+        "dicas": [
+          "Aprenda o padrão e use o Drop para desviar."
+        ]
+      }
+    },
+    "Achievement042": {
+      "guia": {
+        "passos": [
+          "Conclua a aventura e veja os créditos."
+        ]
+      }
+    },
+    "Achievement043": {
+      "guia": {
+        "passos": [
+          "Conclua a aventura em menos de 2 horas."
+        ],
+        "dicas": [
+          "Faça no NG+ com as habilidades e a rota já conhecidas."
+        ]
+      }
+    },
+    "Achievement044": {
+      "guia": {
+        "passos": [
+          "Obtenha uma pontuação recorde em todo o jogo de 1.000.000 ou superior."
+        ],
+        "dicas": [
+          "Combos longos de truques rendem muito ponto."
+        ]
+      }
+    },
+    "Achievement045": {
+      "guia": {
+        "passos": [
+          "Bata a sua própria pontuação recorde em todo o jogo."
+        ]
+      }
+    },
+    "Achievement046": {
+      "guia": {
+        "passos": [
+          "Conclua a aventura no modo Novo Jogo Plus e veja os créditos."
+        ]
+      }
+    },
+    "Achievement047": {
+      "guia": {
+        "passos": [
+          "Encontre todas as conchas secretas."
+        ]
+      }
+    }
+  }
+}

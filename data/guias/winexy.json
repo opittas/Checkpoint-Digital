@@ -11,5 +11,118 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_B": {
+      "guia": {
+        "passos": [
+          "Pegue a letra B nas fases."
+        ]
+      }
+    },
+    "ACHIEVEMENT_O": {
+      "guia": {
+        "passos": [
+          "Pegue a letra O."
+        ]
+      }
+    },
+    "ACHIEVEMENT_N": {
+      "guia": {
+        "passos": [
+          "Pegue a letra N."
+        ]
+      }
+    },
+    "ACHIEVEMENT_U": {
+      "guia": {
+        "passos": [
+          "Pegue a letra U."
+        ]
+      }
+    },
+    "ACHIEVEMENT_S": {
+      "guia": {
+        "passos": [
+          "Pegue a letra S."
+        ]
+      }
+    },
+    "ACHIEVEMENT_BONUSLEVEL": {
+      "guia": {
+        "passos": [
+          "Complete a fase BÔNUS."
+        ]
+      }
+    },
+    "ACHIEVEMENT_FIRSTLEVEL": {
+      "guia": {
+        "passos": [
+          "Complete a primeira fase."
+        ]
+      }
+    },
+    "ACHIEVEMENT_FOGLEVELS": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases de Névoa."
+        ]
+      }
+    },
+    "ACHIEVEMENT_DARKLEVELS": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases Escuras."
+        ]
+      }
+    },
+    "ACHIEVEMENT_FIRELEVELS": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases de Fogo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_MAZELEVELS": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases de Labirinto."
+        ]
+      }
+    },
+    "ACHIEVEMENT_WATERLEVELS": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases de Água."
+        ]
+      }
+    },
+    "ACHIEVEMENT_ALLGOLD": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases no ouro."
+        ]
+      }
+    },
+    "ACHIEVEMENT_SPEEDRUNLEVEL": {
+      "guia": {
+        "passos": [
+          "Complete a fase SPEEDRUN."
+        ]
+      }
+    },
+    "ACHIEVEMENT_ALLLVLS": {
+      "guia": {
+        "passos": [
+          "Complete todas as fases."
+        ]
+      }
+    },
+    "ACHIEVEMENT_PLAY": {
+      "guia": {
+        "passos": [
+          "Clique em Jogar."
+        ]
+      }
+    }
+  }
 }

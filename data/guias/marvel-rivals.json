@@ -11,5 +11,349 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "10000004": {
+      "guia": {
+        "passos": [
+          "Curta 1 jogador."
+        ]
+      }
+    },
+    "20000013": {
+      "guia": {
+        "passos": [
+          "Como Groot, aprisione 4 inimigos com um único uso de Prisão Sufocante."
+        ]
+      }
+    },
+    "8": {
+      "guia": {
+        "passos": [
+          "Use a roda personalizável uma vez."
+        ]
+      }
+    },
+    "3": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 20."
+        ]
+      }
+    },
+    "10000005": {
+      "guia": {
+        "passos": [
+          "Realize uma sequência de 3 nocautes."
+        ]
+      }
+    },
+    "20000002": {
+      "guia": {
+        "passos": [
+          "Como O Justiceiro, realize 3 nocautes em meio à fumaça da Granada de Flagelos em uma só partida."
+        ]
+      }
+    },
+    "20000009": {
+      "guia": {
+        "passos": [
+          "Como Rocket Raccoon, reviva membros dos Guardiões da Galáxia 5 vezes."
+        ]
+      }
+    },
+    "20000029": {
+      "guia": {
+        "passos": [
+          "Como Adam Warlock, crie um vínculo espiritual com 3 aliados dos Guardiões da Galáxia."
+        ]
+      }
+    },
+    "10000001": {
+      "guia": {
+        "passos": [
+          "Vença 100 partidas."
+        ]
+      }
+    },
+    "10000010": {
+      "guia": {
+        "passos": [
+          "Forme uma equipe com um amigo por uma partida."
+        ]
+      }
+    },
+    "10000009": {
+      "guia": {
+        "passos": [
+          "Conclua 1 partida de Arcade."
+        ]
+      }
+    },
+    "20000001": {
+      "guia": {
+        "passos": [
+          "Como Bruce Banner, execute 1 nocaute dentro de 3 segundos após se acalmar de Hulk para Banner."
+        ]
+      }
+    },
+    "20000003": {
+      "guia": {
+        "passos": [
+          "Como Tempestade, preste assistência a membros dos X-Men 10 vezes."
+        ]
+      }
+    },
+    "20000004": {
+      "guia": {
+        "passos": [
+          "Como Loki, execute 1 nocaute apunhalando pelas costas."
+        ]
+      }
+    },
+    "20000005": {
+      "guia": {
+        "passos": [
+          "Como Doutor Estranho, execute 1 nocaute de terreno com o portal."
+        ]
+      }
+    },
+    "20000006": {
+      "guia": {
+        "passos": [
+          "Como Mantis, preste assistência a aliados na execução de uma destruição de equipe."
+        ]
+      }
+    },
+    "20000007": {
+      "guia": {
+        "passos": [
+          "Como Gavião Arqueiro, realize 10 nocautes em parceria com os Vingadores."
+        ]
+      }
+    },
+    "20000008": {
+      "guia": {
+        "passos": [
+          "Como Capitão América, realize 3 nocautes com um único uso de Disparada da Liberdade."
+        ]
+      }
+    },
+    "20000010": {
+      "guia": {
+        "passos": [
+          "Como Hela, realize uma sequência de 3 nocautes em Yggsgard: Caminho de Yggdrasill."
+        ]
+      }
+    },
+    "20000011": {
+      "guia": {
+        "passos": [
+          "Como Manto e Adaga, ajude seus aliados a conseguir uma eliminação de equipe."
+        ]
+      }
+    },
+    "20000012": {
+      "guia": {
+        "passos": [
+          "Como Pantera Negra, faça 3 nocautes seguidos no Império Intergaláctico de Wakanda: Salão de Djalia."
+        ]
+      }
+    },
+    "20000014": {
+      "guia": {
+        "passos": [
+          "Como Magia, execute 3 nocautes com uma única transformação em Criança das Trevas."
+        ]
+      }
+    },
+    "20000015": {
+      "guia": {
+        "passos": [
+          "Como Cavaleiro da Lua, bombardeie 4 inimigos com um único uso da Mão de Khonshu."
+        ]
+      }
+    },
+    "20000016": {
+      "guia": {
+        "passos": [
+          "Como Luna Snow, conclua uma partida em 5 mapas com temas diferentes."
+        ]
+      }
+    },
+    "20000017": {
+      "guia": {
+        "passos": [
+          "Como Garota Esquilo, execute 3 nocautes com um único uso de Tsunâmi de Esquilos Imbatíveis."
+        ]
+      }
+    },
+    "20000018": {
+      "guia": {
+        "passos": [
+          "Como Viúva Negra, realize 3 nocautes com acertos críticos em uma única partida."
+        ]
+      }
+    },
+    "20000019": {
+      "guia": {
+        "passos": [
+          "Como Homem de Ferro, acerte 4 inimigos com um único uso do Canhão de Pulso Invencível."
+        ]
+      }
+    },
+    "20000020": {
+      "guia": {
+        "passos": [
+          "Como Venom, prenda 4 inimigos com um único uso de Corrosão Celular."
+        ]
+      }
+    },
+    "20000021": {
+      "guia": {
+        "passos": [
+          "Como Homem-Aranha, detecte um inimigo com o Sentido-Aranha e execute um contra-ataque vencedor."
+        ]
+      }
+    },
+    "20000022": {
+      "guia": {
+        "passos": [
+          "Como Magneto, preste assistência aos aliados mutantes 10 vezes."
+        ]
+      }
+    },
+    "20000023": {
+      "guia": {
+        "passos": [
+          "Como Feiticeira Escarlate, derrube mutantes inimigos 10 vezes."
+        ]
+      }
+    },
+    "20000024": {
+      "guia": {
+        "passos": [
+          "Como Thor, acerte 4 inimigos com um único uso de Deus do Trovão."
+        ]
+      }
+    },
+    "20000025": {
+      "guia": {
+        "passos": [
+          "Como Soldado Invernal, execute 3 nocautes com um único uso de Impacto do Kraken."
+        ]
+      }
+    },
+    "20000026": {
+      "guia": {
+        "passos": [
+          "Como Peni Parker, exploda 3 inimigos com um único uso da Aracnomina."
+        ]
+      }
+    },
+    "20000027": {
+      "guia": {
+        "passos": [
+          "Como Senhor das Estrelas, realize 10 nocautes com assistências dos Guardiões da Galáxia."
+        ]
+      }
+    },
+    "20000028": {
+      "guia": {
+        "passos": [
+          "Como Namor, invoque uma Cria Monstruosa para executar 10 nocautes em uma só partida."
+        ]
+      }
+    },
+    "20000030": {
+      "guia": {
+        "passos": [
+          "Como Jeff o tubarão da terra, engula 4 inimigos com um único uso de É o Jeff!"
+        ]
+      }
+    },
+    "20000031": {
+      "guia": {
+        "passos": [
+          "Como Psylocke, conteste a área da missão por 60 segundos em uma única partida."
+        ]
+      }
+    },
+    "20000032": {
+      "guia": {
+        "passos": [
+          "Como Wolverine, execute 3 nocautes com um único uso de Até o Fim."
+        ]
+      }
+    },
+    "20000033": {
+      "guia": {
+        "passos": [
+          "Como Punho de Ferro, execute 3 nocautes com um único uso do Chi Vivo."
+        ]
+      }
+    },
+    "20000069": {
+      "guia": {
+        "passos": [
+          "Como Mister Fantástico, ricocheteie 5 vezes com um único uso do Salto Genial."
+        ]
+      }
+    },
+    "20000071": {
+      "guia": {
+        "passos": [
+          "Como Mulher Invisível, ajude os integrantes do Quarteto Fantástico 10 vezes."
+        ]
+      }
+    },
+    "20000067": {
+      "guia": {
+        "passos": [
+          "Como Tocha Humana, realize 3 nocautes com um único uso de Supernova."
+        ]
+      }
+    },
+    "20000073": {
+      "guia": {
+        "passos": [
+          "Como o Coisa, lance 4 inimigos para cima com um único uso de Tá Na Hora do Pau!."
+        ]
+      }
+    },
+    "20000077": {
+      "guia": {
+        "passos": [
+          "Como Emma Frost, force mutantes a se moverem 10 vezes com a Sedução Psiônica."
+        ]
+      }
+    },
+    "20000075": {
+      "guia": {
+        "passos": [
+          "Como Ultron, derrote membros dos Vingadores 10 vezes."
+        ]
+      }
+    },
+    "20000081": {
+      "guia": {
+        "passos": [
+          "Como Fênix, acerte 4 inimigos com um único pouso do Inferno da Canção Final."
+        ]
+      }
+    },
+    "20000079": {
+      "guia": {
+        "passos": [
+          "Como Blade, faça 3 nocautes seguidos em Império da Noite Eterna: Central Park."
+        ]
+      }
+    },
+    "20000083": {
+      "guia": {
+        "passos": [
+          "Como Angela, prenda 4 inimigos com um único uso de Retribuição de Heven."
+        ]
+      }
+    }
+  }
 }

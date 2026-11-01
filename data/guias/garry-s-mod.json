@@ -15,5 +15,224 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "GMA_PLAY_SINGLEPLAYER": {
+      "guia": {
+        "passos": [
+          "Comece um jogo no modo um jogador."
+        ]
+      }
+    },
+    "GMA_PLAY_MULTIPLAYER": {
+      "guia": {
+        "passos": [
+          "Entre em qualquer servidor."
+        ]
+      }
+    },
+    "GMA_X_STARTUPS": {
+      "guia": {
+        "passos": [
+          "Abra o jogo 1000 vezes."
+        ],
+        "dicas": [
+          "Vem com o tempo."
+        ]
+      }
+    },
+    "GMA_SAY_1": {
+      "guia": {
+        "passos": [
+          "Digite no chat do jogo a frase secreta."
+        ],
+        "dicas": [
+          "A frase muda com as versões; procure a atual nos guias da comunidade na Steam."
+        ]
+      }
+    },
+    "GMA_X_MINUTES": {
+      "guia": {
+        "passos": [
+          "Jogue um ano no total (tempo real)."
+        ],
+        "atencao": [
+          "Extremamente demorada."
+        ]
+      }
+    },
+    "GMA_X_MAPS": {
+      "guia": {
+        "passos": [
+          "Jogue 20 mapas diferentes."
+        ]
+      }
+    },
+    "GMA_NOT_SANDBOX": {
+      "guia": {
+        "passos": [
+          "Jogue um modo que não seja Sandbox (TTT, Prop Hunt...)."
+        ]
+      }
+    },
+    "GMA_BADDIES": {
+      "guia": {
+        "passos": [
+          "Mate 1000 NPCs inimigos."
+        ]
+      }
+    },
+    "GMA_FRIENDS": {
+      "guia": {
+        "passos": [
+          "Jogue num servidor com 10 amigos da Steam."
+        ]
+      }
+    },
+    "GMA_PLAYWITH_GARRY": {
+      "guia": {
+        "passos": [
+          "Jogue no mesmo servidor que o Garry."
+        ],
+        "dicas": [
+          "Quase impossível; aconteceu em eventos."
+        ]
+      }
+    },
+    "GMA_MARATHON": {
+      "guia": {
+        "passos": [
+          "Fique 8 horas no mesmo servidor e mapa."
+        ]
+      }
+    },
+    "GMA_HALFMARATHON": {
+      "guia": {
+        "passos": [
+          "Fique 4 horas no mesmo servidor e mapa."
+        ]
+      }
+    },
+    "GMA_DAY": {
+      "guia": {
+        "passos": [
+          "Jogue 24 horas no total."
+        ]
+      }
+    },
+    "GMA_WEEK": {
+      "guia": {
+        "passos": [
+          "Jogue uma semana no total."
+        ]
+      }
+    },
+    "GMA_MONTH": {
+      "guia": {
+        "passos": [
+          "Jogue um mês no total."
+        ]
+      }
+    },
+    "GMA_BYSTANDER": {
+      "guia": {
+        "passos": [
+          "Mate 1000 animais (pombos, corvos...)."
+        ]
+      }
+    },
+    "GMA_BALLEATER": {
+      "guia": {
+        "passos": [
+          "Coma 200 bolinhas saltitantes (use a tecla de usar nelas)."
+        ]
+      }
+    },
+    "GMA_PROPSPAWNER": {
+      "guia": {
+        "passos": [
+          "Crie 5000 objetos."
+        ]
+      }
+    },
+    "GMA_BALLOONPOPPER": {
+      "guia": {
+        "passos": [
+          "Estoure 1000 balões."
+        ]
+      }
+    },
+    "GMA_REMOVER": {
+      "guia": {
+        "passos": [
+          "Remova 5000 coisas com a ferramenta de remover."
+        ]
+      }
+    },
+    "GMA_SPAWNMENUER": {
+      "guia": {
+        "passos": [
+          "Abra o menu de spawn 100.000 vezes."
+        ],
+        "dicas": [
+          "Um macro de teclado acelera."
+        ]
+      }
+    },
+    "GMA_BADCODER": {
+      "guia": {
+        "passos": [
+          "Tenha 500 erros de Lua."
+        ]
+      }
+    },
+    "GMA_NPCSPAWNER": {
+      "guia": {
+        "passos": [
+          "Crie 1000 NPCs."
+        ]
+      }
+    },
+    "GMA_RAGDOLLSPAWNER": {
+      "guia": {
+        "passos": [
+          "Crie 2000 ragdolls."
+        ]
+      }
+    },
+    "GMA_GOODIES": {
+      "guia": {
+        "passos": [
+          "Mate 1000 NPCs amigáveis."
+        ]
+      }
+    },
+    "GMA_SMALLTHUMB": {
+      "guia": {
+        "passos": [
+          "Receba 10 joinhas nos seus envios da Oficina."
+        ]
+      }
+    },
+    "GMA_MEDIUMTHUMB": {
+      "guia": {
+        "passos": [
+          "Receba 100 joinhas."
+        ]
+      }
+    },
+    "GMA_HUGETHUMB": {
+      "guia": {
+        "passos": [
+          "Receba 1000 joinhas."
+        ]
+      }
+    },
+    "GMA_MEGAUPLOAD": {
+      "guia": {
+        "passos": [
+          "Receba 1000 joinhas num único envio."
+        ]
+      }
+    }
+  }
 }

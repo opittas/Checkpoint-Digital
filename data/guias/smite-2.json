@@ -13,5 +13,198 @@
   "avisos": [
     "Precisa de online."
   ],
-  "conquistas": {}
+  "conquistas": {
+    "KillMinions1": {
+      "guia": {
+        "passos": [
+          "Mate 500 lacaios somando as partidas."
+        ]
+      }
+    },
+    "KillGoldFuries1": {
+      "guia": {
+        "passos": [
+          "Mate a Erínia Dourada numa partida."
+        ],
+        "dicas": [
+          "Faça com o time depois de uma luta ganha."
+        ]
+      }
+    },
+    "KillFireGiants1": {
+      "guia": {
+        "passos": [
+          "Mate o Gigante de Fogo numa partida."
+        ]
+      }
+    },
+    "Victory": {
+      "guia": {
+        "passos": [
+          "Chegue ao nível 20 e vença a partida."
+        ]
+      }
+    },
+    "LastStanding": {
+      "guia": {
+        "passos": [
+          "Seja o único deus vivo no mapa durante uma partida."
+        ]
+      }
+    },
+    "SoloBronze": {
+      "guia": {
+        "passos": [
+          "Vença 1 partida na função Solo."
+        ]
+      }
+    },
+    "JungleBronze": {
+      "guia": {
+        "passos": [
+          "Vença 1 partida na Selva."
+        ]
+      }
+    },
+    "SupportBronze": {
+      "guia": {
+        "passos": [
+          "Vença 1 partida de Suporte."
+        ]
+      }
+    },
+    "MidBronze": {
+      "guia": {
+        "passos": [
+          "Vença 1 partida no Meio."
+        ]
+      }
+    },
+    "CarryBronze": {
+      "guia": {
+        "passos": [
+          "Vença 1 partida de Carregador."
+        ]
+      }
+    },
+    "KillMinions2": {
+      "guia": {
+        "passos": [
+          "Mate 1000 lacaios."
+        ]
+      }
+    },
+    "KillGoldFuries2": {
+      "guia": {
+        "passos": [
+          "Mate a Erínia Dourada 2 vezes na mesma partida."
+        ]
+      }
+    },
+    "KillFireGiants2": {
+      "guia": {
+        "passos": [
+          "Mate o Gigante de Fogo 2 vezes na mesma partida."
+        ]
+      }
+    },
+    "SoloSilver": {
+      "guia": {
+        "passos": [
+          "Vença 5 partidas de Solo."
+        ]
+      }
+    },
+    "JungleSilver": {
+      "guia": {
+        "passos": [
+          "Vença 5 partidas de Selva."
+        ]
+      }
+    },
+    "SupportSilver": {
+      "guia": {
+        "passos": [
+          "Vença 5 partidas de Suporte."
+        ]
+      }
+    },
+    "MidSilver": {
+      "guia": {
+        "passos": [
+          "Vença 5 partidas de Meio."
+        ]
+      }
+    },
+    "CarrySilver": {
+      "guia": {
+        "passos": [
+          "Vença 5 partidas de Carregador."
+        ]
+      }
+    },
+    "KillMinions3": {
+      "guia": {
+        "passos": [
+          "Mate 5000 lacaios."
+        ]
+      }
+    },
+    "KillGoldFuries3": {
+      "guia": {
+        "passos": [
+          "Mate a Erínia Dourada 10 vezes."
+        ]
+      }
+    },
+    "KillFireGiants3": {
+      "guia": {
+        "passos": [
+          "Mate o Gigante de Fogo 10 vezes."
+        ]
+      }
+    },
+    "TitanKiller": {
+      "guia": {
+        "passos": [
+          "Dê o golpe final no Titã inimigo."
+        ]
+      }
+    },
+    "SoloGold": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas de Solo."
+        ]
+      }
+    },
+    "JungleGold": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas de Selva."
+        ]
+      }
+    },
+    "SupportGold": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas de Suporte."
+        ]
+      }
+    },
+    "MidGold": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas de Meio."
+        ]
+      }
+    },
+    "CarryGold": {
+      "guia": {
+        "passos": [
+          "Vença 10 partidas de Carregador."
+        ]
+      }
+    }
+  }
 }

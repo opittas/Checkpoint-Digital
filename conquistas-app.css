@@ -98,6 +98,7 @@ body.light { --ach-strong: #6d28d9; --ach-soft: #8b5cf615; }
 .ck-plat.ps    { background: var(--ps-light);    color: var(--ps-dark); }
 .ck-plat.nin   { background: var(--nin-light);   color: var(--nin-dark); }
 .ck-plat.steam { background: var(--steam-light); color: var(--steam-dark); }
+.ck-plat.mob   { background: var(--bg3); color: var(--text2, inherit); border: 1px solid var(--border); }
 .ck-meta { display: flex; gap: 12px; flex-wrap: wrap; font-size: 12px; color: var(--text2); }
 .ck-meta span { display: inline-flex; align-items: center; gap: 4px; }
 .ck-diff { display: inline-flex; gap: 2px; vertical-align: middle; }

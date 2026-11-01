@@ -32,7 +32,7 @@ O campo `gen` de cada notícia deve ser um dos `id` de `geracoes`; `category`, u
 `id, platform (xbox|ps|nin|steam), gen, category, title, title_en, excerpt, excerpt_en, body, body_en (HTML), image_url, published_at (ISO), read_time, author, featured`
 
 ### jogos.json
-`id, title, developer, year, steam_appid (ou null), platforms[], labels{plataforma: texto}, difficulty (1–10), hours, playthroughs, online, dlc_note, mode (conquistas|checklist|sem-conquistas), image, generos[], palavras[] (nomes que ligam as notícias à página do jogo)`
+`id, title, developer, year, steam_appid (ou null), platforms[] (famílias: xbox|ps|nin|steam, usadas nos filtros), consoles[] (aparelhos específicos mostrados na página: PS5, PS4, Xbox Series X|S, Xbox One, Nintendo Switch 2, Nintendo Switch, PC, iOS/Android…), labels{plataforma: texto}, difficulty (1–10), hours, playthroughs, online, dlc_note, mode (conquistas|checklist|sem-conquistas), image, generos[], palavras[] (nomes que ligam as notícias à página do jogo)`
 
 ### conquistas/&lt;id&gt;.json
 ```json

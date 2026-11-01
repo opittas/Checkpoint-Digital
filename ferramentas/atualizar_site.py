@@ -624,7 +624,7 @@ def gerar_paginas():
         titulo = f"{j['title']} — Guia de Conquistas e Troféus · Checkpoint Digital"
         url = f"{SITE_URL}conquistas/{gid}.html"
         img = _abs(j.get("image"))
-        plats_nomes = [_PLAT_NOME.get(x, x) for x in j.get("platforms", [])]
+        plats_nomes = j.get("consoles") or [_PLAT_NOME.get(x, x) for x in j.get("platforms", [])]
         jogo_ld = {"@context": "https://schema.org", "@type": "VideoGame", "name": j["title"], "url": url,
                    "image": img, "description": guia.get("resumo") or desc, "inLanguage": "pt-BR",
                    "gamePlatform": plats_nomes, "genre": j.get("generos") or [],

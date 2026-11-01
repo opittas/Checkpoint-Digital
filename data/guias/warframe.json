@@ -15,5 +15,1657 @@
     }
   ],
   "avisos": [],
-  "conquistas": {}
+  "conquistas": {
+    "ACHIEVEMENT_1": {
+      "guia": {
+        "passos": [
+          "Aplique um Mod a uma arma ou Warframe."
+        ]
+      }
+    },
+    "ACHIEVEMENT_2": {
+      "guia": {
+        "passos": [
+          "Aplique 4 Mods diferentes a uma única arma ou Warframe."
+        ]
+      }
+    },
+    "ACHIEVEMENT_3": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com cinco armas de lâminas curtas duplas ou espadas longas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_4": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com cinco armas de lâminas curtas duplas ou espadas longas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_5": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com cinco armas de lâminas curtas duplas ou espadas longas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_6": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com uma espada longa ou arma de lâminas curtas duplas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_7": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com uma espada longa ou arma de lâminas curtas duplas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_8": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma espada longa ou arma de lâminas curtas duplas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_9": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com dois arcos."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_10": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com dois arcos."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_11": {
+      "guia": {
+        "passos": [
+          "Alcance Nível 30 com dois arcos."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_12": {
+      "guia": {
+        "passos": [
+          "Alcance Nível 10 com um arco."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_13": {
+      "guia": {
+        "passos": [
+          "Alcance Nível 20 com um arco."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_14": {
+      "guia": {
+        "passos": [
+          "Alcance Nível 30 com um arco."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_15": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com três manoplas ou armas corpo a corpo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_16": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com três manoplas ou armas corpo a corpo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_17": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com três manoplas ou armas corpo a corpo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_18": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com uma manopla ou arma corpo a corpo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_19": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com uma manopla ou arma corpo a corpo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_20": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma manopla ou arma corpo a corpo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_21": {
+      "guia": {
+        "passos": [
+          "Construa um item na forja."
+        ]
+      }
+    },
+    "ACHIEVEMENT_22": {
+      "guia": {
+        "passos": [
+          "Construa 10 itens na forja."
+        ]
+      }
+    },
+    "ACHIEVEMENT_23": {
+      "guia": {
+        "passos": [
+          "Construa 20 itens na forja."
+        ]
+      }
+    },
+    "ACHIEVEMENT_24": {
+      "guia": {
+        "passos": [
+          "Personalize a cor de um Warframe."
+        ]
+      }
+    },
+    "ACHIEVEMENT_25": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com três adagas ou adagas duplas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_26": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com três adagas ou adagas duplas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_27": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com três adagas ou adagas duplas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_28": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com uma adaga ou adaga dupla."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_29": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com uma adaga ou adaga dupla."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_30": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma adaga ou adaga dupla."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_31": {
+      "guia": {
+        "passos": [
+          "Ganhe 1000 créditos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_32": {
+      "guia": {
+        "passos": [
+          "Ganhe 10,000 créditos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_33": {
+      "guia": {
+        "passos": [
+          "Ganhe 100,000 créditos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_34": {
+      "guia": {
+        "passos": [
+          "Ganhe 1,000,000 de créditos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_35": {
+      "guia": {
+        "passos": [
+          "Encontre 1 Mod."
+        ]
+      }
+    },
+    "ACHIEVEMENT_36": {
+      "guia": {
+        "passos": [
+          "Encontre 20 Mods."
+        ]
+      }
+    },
+    "ACHIEVEMENT_37": {
+      "guia": {
+        "passos": [
+          "Encontre 100 Mods."
+        ]
+      }
+    },
+    "ACHIEVEMENT_38": {
+      "guia": {
+        "passos": [
+          "Encontre 1000 Mods."
+        ]
+      }
+    },
+    "ACHIEVEMENT_39": {
+      "guia": {
+        "passos": [
+          "Funde Mods para criar um mais poderoso."
+        ]
+      }
+    },
+    "ACHIEVEMENT_40": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com dois machados pesados, marretas pesadas ou espadas pesadas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_41": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com dois machados pesados, marretas pesadas ou espadas pesadas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_42": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com dois machados pesados, marretas pesadas ou espadas pesadas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_43": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com um machado pesado, marreta pesada ou espada pesada."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_44": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com um machado pesado, marreta pesada ou espada pesada."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_45": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com um machado pesado, marreta pesada ou espada pesada."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_46": {
+      "guia": {
+        "passos": [
+          "Elimine 100 inimigos em uma única missão."
+        ]
+      }
+    },
+    "ACHIEVEMENT_47": {
+      "guia": {
+        "passos": [
+          "Adquira uma sentinela."
+        ]
+      }
+    },
+    "ACHIEVEMENT_48": {
+      "guia": {
+        "passos": [
+          "Consiga 2 Warframes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_49": {
+      "guia": {
+        "passos": [
+          "Consiga 5 Warframes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_50": {
+      "guia": {
+        "passos": [
+          "Consiga 10 Warframes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_51": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com cinco pistolas ou pistolas Akimbo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_52": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com cinco pistolas ou pistolas Akimbo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_53": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com cinco pistolas ou pistolas Akimbo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_54": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com uma pistola ou pistola Akimbo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_55": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com uma pistola ou pistola Akimbo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_56": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma pistola ou pistola Akimbo."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_57": {
+      "guia": {
+        "passos": [
+          "Jogue um total de 2 horas em missões."
+        ]
+      }
+    },
+    "ACHIEVEMENT_58": {
+      "guia": {
+        "passos": [
+          "Jogue um total de 10 horas em missões."
+        ]
+      }
+    },
+    "ACHIEVEMENT_59": {
+      "guia": {
+        "passos": [
+          "Jogue um total de 100 horas em missões."
+        ]
+      }
+    },
+    "ACHIEVEMENT_60": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão de Noviço."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_61": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão de Noviço Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_62": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão de Noviço Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_63": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão de Aprendiz."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_64": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão de Aprendiz Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_65": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão de Aprendiz Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_66": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Discípulo."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_67": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Discípulo Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_68": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Discípulo Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_69": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Predador."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_70": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Predador Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_71": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Predador Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_72": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Caçador."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_73": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Caçador Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_74": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Caçador Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_75": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Águia."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_76": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Águia Prateada."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_77": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Águia Dourada."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_78": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Tigre."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_79": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Tigre Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_80": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Tigre Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_81": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Dragão."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_82": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Dragão Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_83": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Dragão Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_84": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Sábio."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_85": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Sábio Prateado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_86": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Sábio Dourado."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_87": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Mestre."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_88": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Mestre Intermediário."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_89": {
+      "guia": {
+        "passos": [
+          "Conquiste o escalão Grão-Mestre."
+        ],
+        "dicas": [
+          "Rank de Maestria: ganhe XP subindo armas e Warframes novos até o rank 30 e faça o teste de rank no Relé/Nave."
+        ]
+      }
+    },
+    "ACHIEVEMENT_90": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com três foices, armas de haste ou bastões."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_91": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com três foices, armas de haste ou bastões."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_92": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com três foices, armas de haste ou bastões."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_93": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com uma foice, arma de haste ou bastão."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_94": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com uma foice, arma de haste ou bastão."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_95": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma foice, arma de haste ou bastão."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_96": {
+      "guia": {
+        "passos": [
+          "Reviva um aliado."
+        ]
+      }
+    },
+    "ACHIEVEMENT_97": {
+      "guia": {
+        "passos": [
+          "Reviva 10 aliados."
+        ]
+      }
+    },
+    "ACHIEVEMENT_98": {
+      "guia": {
+        "passos": [
+          "Reviva 100 aliados."
+        ]
+      }
+    },
+    "ACHIEVEMENT_99": {
+      "guia": {
+        "passos": [
+          "Reviva 1000 aliados."
+        ]
+      }
+    },
+    "ACHIEVEMENT_100": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com cinco rifles ou metralhadoras."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_101": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com cinco rifles ou metralhadoras."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_102": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com cinco rifles ou metralhadoras."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_103": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com um rifle ou metralhadora."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_104": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com um rifle ou metralhadora."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_105": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com um rifle ou metralhadora."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_106": {
+      "guia": {
+        "passos": [
+          "Venda um item no mercado."
+        ]
+      }
+    },
+    "ACHIEVEMENT_107": {
+      "guia": {
+        "passos": [
+          "Consiga 10,000 créditos vendendo itens."
+        ]
+      }
+    },
+    "ACHIEVEMENT_108": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com três sentinelas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_109": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com três sentinelas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_110": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com três sentinelas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_111": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com uma sentinela."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_112": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com uma sentinela."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_113": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma sentinela."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_114": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com duas escopetas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_115": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com duas escopetas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_116": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com duas escopetas."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_117": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com uma escopeta."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_118": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com uma escopeta."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_119": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma escopeta."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_120": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com três bumerangues, discos de arremesso ou adagas de arremesso."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_121": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com três bumerangues, discos de arremesso ou adagas de arremesso."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_122": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com três bumerangues, discos de arremesso ou adagas de arremesso."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_123": {
+      "guia": {
+        "passos": [
+          "Alcance nível 10 com um bumerangue, disco de arremesso ou adaga de arremesso."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_124": {
+      "guia": {
+        "passos": [
+          "Alcance nível 20 com um bumerangue, disco de arremesso ou adaga de arremesso."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_125": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com um bumerangue, disco de arremesso ou adaga de arremesso."
+        ],
+        "dicas": [
+          "Suba armas dessa categoria até o rank pedido; missões de Sobrevivência/Defesa rendem bastante afinidade."
+        ]
+      }
+    },
+    "ACHIEVEMENT_126": {
+      "guia": {
+        "passos": [
+          "Resolva um criptograma."
+        ]
+      }
+    },
+    "ACHIEVEMENT_127": {
+      "guia": {
+        "passos": [
+          "Resolva 10 criptogramas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_128": {
+      "guia": {
+        "passos": [
+          "Resolva 100 criptogramas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_129": {
+      "guia": {
+        "passos": [
+          "Resolva 1,000 criptogramas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_130": {
+      "guia": {
+        "passos": [
+          "Resolva um criptograma em menos de 5 segundos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_131": {
+      "guia": {
+        "passos": [
+          "Alcance nível 2 com um Warframe."
+        ]
+      }
+    },
+    "ACHIEVEMENT_132": {
+      "guia": {
+        "passos": [
+          "Alcance nível 2 com uma arma."
+        ]
+      }
+    },
+    "ACHIEVEMENT_133": {
+      "guia": {
+        "passos": [
+          "Complete 10 transmutações de Mod."
+        ]
+      }
+    },
+    "ACHIEVEMENT_134": {
+      "guia": {
+        "passos": [
+          "Conclua 3 incursões."
+        ]
+      }
+    },
+    "ACHIEVEMENT_135": {
+      "guia": {
+        "passos": [
+          "Complete um nodo de Interceptação e extraia com 40% ou menos do território capturado pelo inimigo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_136": {
+      "guia": {
+        "passos": [
+          "Conclua 5 missões de Dark Sector."
+        ],
+        "atencao": [
+          "Os Setores Sombrios estão desativados há anos: provavelmente não é mais obtível."
+        ]
+      }
+    },
+    "ACHIEVEMENT_137": {
+      "guia": {
+        "passos": [
+          "Inicie a incubação de um Kubrow no laboratório genético."
+        ]
+      }
+    },
+    "ACHIEVEMENT_138": {
+      "guia": {
+        "passos": [
+          "Destrua 200 capacetes de Corpus Crewman."
+        ]
+      }
+    },
+    "ACHIEVEMENT_139": {
+      "guia": {
+        "passos": [
+          "Complete 5 missões de \"Colmeia Infestada\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_140": {
+      "guia": {
+        "passos": [
+          "Complete 10 missões de Fenda do Void."
+        ]
+      }
+    },
+    "ACHIEVEMENT_141": {
+      "guia": {
+        "passos": [
+          "Elimine 10 inimigos ou mais com uma só explosão (Tonkor, etc)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_142": {
+      "guia": {
+        "passos": [
+          "Liberte 10 reféns sem ativar o alarme de execução."
+        ]
+      }
+    },
+    "ACHIEVEMENT_143": {
+      "guia": {
+        "passos": [
+          "Ganhe o Pagamento de Batalha em 5 Invasões únicas."
+        ]
+      }
+    },
+    "ACHIEVEMENT_144": {
+      "guia": {
+        "passos": [
+          "Realize 100 abates furtivos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_145": {
+      "guia": {
+        "passos": [
+          "Polarize uma arma, companheiro ou Warframe."
+        ]
+      }
+    },
+    "ACHIEVEMENT_146": {
+      "guia": {
+        "passos": [
+          "Alcance nível 30 com uma arma, companheiro ou Warframe polarizado."
+        ]
+      }
+    },
+    "ACHIEVEMENT_147": {
+      "guia": {
+        "passos": [
+          "Complete 20 hordas de Defesa e seja extraído com sucesso."
+        ]
+      }
+    },
+    "ACHIEVEMENT_148": {
+      "guia": {
+        "passos": [
+          "Elimine o chefe na região de Mercúrio e vá para a extração."
+        ]
+      }
+    },
+    "ACHIEVEMENT_149": {
+      "guia": {
+        "passos": [
+          "Elimine o chefe na região de Vênus e vá para a extração."
+        ]
+      }
+    },
+    "ACHIEVEMENT_150": {
+      "guia": {
+        "passos": [
+          "Elimine o chefe na região de Urano e vá para a extração."
+        ]
+      }
+    },
+    "ACHIEVEMENT_151": {
+      "guia": {
+        "passos": [
+          "Elimine o chefe na região de Sedna e vá para a extração."
+        ]
+      }
+    },
+    "ACHIEVEMENT_152": {
+      "guia": {
+        "passos": [
+          "Desvie 1.000 projéteis com sua Arma Corpo a Corpo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_153": {
+      "guia": {
+        "passos": [
+          "Complete 10 missões com um Kubrow equipado."
+        ]
+      }
+    },
+    "ACHIEVEMENT_154": {
+      "guia": {
+        "passos": [
+          "Elimine um inimigo com sua Arma Primária, Secundária ou Corpo a Corpo em 5s ou menos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_155": {
+      "guia": {
+        "passos": [
+          "O Esquadrão deve sobreviver a 8 hordas de Defesa usando apenas Ataques Corpo a Corpo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_156": {
+      "guia": {
+        "passos": [
+          "Destrua 150 câmeras de segurança."
+        ]
+      }
+    },
+    "ACHIEVEMENT_157": {
+      "guia": {
+        "passos": [
+          "Conclua 10 missões sem uma Arma Primária ou Secundária equipada."
+        ]
+      }
+    },
+    "ACHIEVEMENT_158": {
+      "guia": {
+        "passos": [
+          "Complete a jornada \"A Guerra Interior\"."
+        ],
+        "dicas": [
+          "Missão de história; siga a linha de missões principais até ela."
+        ]
+      }
+    },
+    "ACHIEVEMENT_159": {
+      "guia": {
+        "passos": [
+          "Desbloqueie uma árvore de foco por completo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_160": {
+      "guia": {
+        "passos": [
+          "Complete 10 missões na dificuldade pesadelo."
+        ]
+      }
+    },
+    "ACHIEVEMENT_161": {
+      "guia": {
+        "passos": [
+          "Conclua uma missão de Extravio sem que a carga viaje no sentido contrário."
+        ]
+      }
+    },
+    "ACHIEVEMENT_162": {
+      "guia": {
+        "passos": [
+          "Mate 100 inimigos terrestres em modo Archwing nas Planícies de Eidolon."
+        ]
+      }
+    },
+    "ACHIEVEMENT_163": {
+      "guia": {
+        "passos": [
+          "Construa sua primeira Zaw."
+        ]
+      }
+    },
+    "ACHIEVEMENT_164": {
+      "guia": {
+        "passos": [
+          "Conclua 10 Contratos fornecidos pelo povo da cidade de Ostron."
+        ]
+      }
+    },
+    "ACHIEVEMENT_165": {
+      "guia": {
+        "passos": [
+          "Sobreviva uma noite nas Planícies de Eidolon."
+        ]
+      }
+    },
+    "ACHIEVEMENT_166": {
+      "guia": {
+        "passos": [
+          "Percorra 100.000 metros nas Planícies de Eidolon."
+        ]
+      }
+    },
+    "ACHIEVEMENT_167": {
+      "guia": {
+        "passos": [
+          "Percorra mais de 500 metros em um único deslizar nas Planícies de Eidolon."
+        ]
+      }
+    },
+    "ACHIEVEMENT_168": {
+      "guia": {
+        "passos": [
+          "Pegue 10 peixes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_169": {
+      "guia": {
+        "passos": [
+          "Elimine um inimigo a 100 metros de distância nas Planícies de Eidolon."
+        ]
+      }
+    },
+    "ACHIEVEMENT_170": {
+      "guia": {
+        "passos": [
+          "Elimine 100 bestas das Planícies."
+        ]
+      }
+    },
+    "ACHIEVEMENT_172": {
+      "guia": {
+        "passos": [
+          "Minere 100 jazidas nas Planícies de Eidolon."
+        ]
+      }
+    },
+    "ACHIEVEMENT_173": {
+      "guia": {
+        "passos": [
+          "Explore todas as cavernas de Eidolon."
+        ],
+        "dicas": [
+          "Explore as ruínas de Eidolon nas Planícies."
+        ]
+      }
+    },
+    "ACHIEVEMENT_174": {
+      "guia": {
+        "passos": [
+          "Derrote um Eidolon Teralista."
+        ]
+      }
+    },
+    "ACHIEVEMENT_175": {
+      "guia": {
+        "passos": [
+          "Complete a jornada \"Vigília de Saya\"."
+        ],
+        "dicas": [
+          "Missão de história em Cetus (Planícies de Eidolon)."
+        ]
+      }
+    },
+    "ACHIEVEMENT_176": {
+      "guia": {
+        "passos": [
+          "Complete a jornada \"O Sacrifício\"."
+        ]
+      }
+    },
+    "ACHIEVEMENT_177": {
+      "guia": {
+        "passos": [
+          "Percorra mais de 10.000 metros em um Dargyn roubado pelas Planícies de Eidolon."
+        ]
+      }
+    },
+    "ACHIEVEMENT_178": {
+      "guia": {
+        "passos": [
+          "Conclua 6 Contratos dentro de 60 minutos enquanto estiver no Vallis das Orbes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_179": {
+      "guia": {
+        "passos": [
+          "Destrua 10 Raknóides no Vallis das Orbes enquanto estiver no ar."
+        ]
+      }
+    },
+    "ACHIEVEMENT_180": {
+      "guia": {
+        "passos": [
+          "Alcance a reputação máxima com os Órfãos dos Dutos."
+        ]
+      }
+    },
+    "ACHIEVEMENT_181": {
+      "guia": {
+        "passos": [
+          "Alcance a reputação máxima com a União Solaris."
+        ]
+      }
+    },
+    "ACHIEVEMENT_182": {
+      "guia": {
+        "passos": [
+          "Adquira uma Companheira Moa."
+        ]
+      }
+    },
+    "ACHIEVEMENT_183": {
+      "guia": {
+        "passos": [
+          "Pilote um K-Drive por 1.000.000 metros."
+        ]
+      }
+    },
+    "ACHIEVEMENT_184": {
+      "guia": {
+        "passos": [
+          "Realize um salto de 50 metros em um K-Drive."
+        ]
+      }
+    },
+    "ACHIEVEMENT_185": {
+      "guia": {
+        "passos": [
+          "Caia no líquido de resfriamento do Vallis das Orbes, a uma altura de 275 metros, com o seu K-Drive."
+        ]
+      }
+    },
+    "ACHIEVEMENT_186": {
+      "guia": {
+        "passos": [
+          "Explore todas as cavernas no Vallis das Orbes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_187": {
+      "guia": {
+        "passos": [
+          "Conclua todas as corridas de K-Drive no Vallis das Orbes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_188": {
+      "guia": {
+        "passos": [
+          "Realize 10 Resgates perfeitos no Vallis das Orbes."
+        ]
+      }
+    },
+    "ACHIEVEMENT_189": {
+      "guia": {
+        "passos": [
+          "Crie um Lich de Kuva."
+        ]
+      }
+    },
+    "ACHIEVEMENT_190": {
+      "guia": {
+        "passos": [
+          "Elimine um Lich de Kuva de nível 5."
+        ]
+      }
+    },
+    "ACHIEVEMENT_191": {
+      "guia": {
+        "passos": [
+          "Entre no Hangar Espacial."
+        ]
+      }
+    },
+    "ACHIEVEMENT_192": {
+      "guia": {
+        "passos": [
+          "Colete e monte todos os componentes da Railjack."
+        ]
+      }
+    },
+    "ACHIEVEMENT_193": {
+      "guia": {
+        "passos": [
+          "Elimine 100 inimigos enquanto estiver em uma Railjack."
+        ]
+      }
+    },
+    "ACHIEVEMENT_194": {
+      "guia": {
+        "passos": [
+          "Sequestre e pilote uma nave tripulada inimiga durante uma missão da Railjack."
+        ]
+      }
+    }
+  }
 }

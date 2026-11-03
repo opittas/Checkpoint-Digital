@@ -1,0 +1,97 @@
+{
+  "resumo": "Paper Mario: The Thousand-Year Door não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Glitz Pit, Poço das 100 Provações, Peças Estelares, Shine Sprites, insígnias, receitas e parceiros.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 8 capítulos."
+    },
+    {
+      "titulo": "2. Rogueport",
+      "texto": "Central de Problemas e receitas."
+    },
+    {
+      "titulo": "3. Colecionáveis",
+      "texto": "Peças Estelares e Shine Sprites."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Poço das 100 Provações."
+    }
+  ],
+  "avisos": [
+    "Esta é a versão de 2024 para o Switch, refeita do jogo de GameCube."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada capítulo termina com uma Estrela de Cristal; o capítulo 8 abre a Porta."
+        ]
+      }
+    },
+    "rawk": {
+      "guia": {
+        "passos": [
+          "É parte do capítulo 3."
+        ]
+      }
+    },
+    "pit": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Cano escondido nos esgotos de Rogueport."
+        ],
+        "passos": [
+          "Desça 100 andares; a cada 10 há uma pausa para salvar e sair."
+        ],
+        "dicas": [
+          "Leve itens de cura e insígnias de defesa. O chefe do andar 100 é o mais forte do jogo."
+        ]
+      }
+    },
+    "pecas": {
+      "guia": {
+        "passos": [
+          "Ficam escondidas no chão (procure brilhos) e atrás do cenário. Troque com a Dazzle."
+        ]
+      }
+    },
+    "shine": {
+      "guia": {
+        "passos": [
+          "Troque com o Merlon para evoluir os parceiros."
+        ]
+      }
+    },
+    "insignias": {
+      "guia": {
+        "passos": [
+          "Insígnias vêm de baús, lojas (Rogueport e Charlieton) e trocas de Peças Estelares com a Dazzle."
+        ]
+      }
+    },
+    "receitas": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Algumas receitas exigem dois ingredientes: abre depois do capítulo 4 com a Zess T."
+        ]
+      }
+    },
+    "trouble": {
+      "guia": {
+        "onde": [
+          "Rogueport, na praça do centro."
+        ]
+      }
+    },
+    "parceiros": {
+      "guia": {
+        "passos": [
+          "Use Shine Sprites com o Merlon e depois os Ultra Stones."
+        ]
+      }
+    }
+  }
+}

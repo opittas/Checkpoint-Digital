@@ -1,0 +1,104 @@
+{
+ "id": "zelda-links-awakening",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Despertar do Peixe-Vento",
+   "d": "Junte os 8 Instrumentos e acorde o Peixe-Vento.",
+   "n_en": "Wake the Wind Fish",
+   "d_en": "Collect the eight Instruments and wake the Wind Fish.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "coracoes",
+   "g": 0,
+   "n": "Corações Cheios",
+   "d": "Junte os 32 Pedaços de Coração.",
+   "n_en": "Full Hearts",
+   "d_en": "Collect all 32 Pieces of Heart.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 32
+  },
+  {
+   "k": "conchas",
+   "g": 0,
+   "n": "Conchas Secretas",
+   "d": "Junte as 50 Conchas do Mar Secretas.",
+   "n_en": "Secret Seashells",
+   "d_en": "Collect all 50 Secret Seashells.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 50
+  },
+  {
+   "k": "cor",
+   "g": 0,
+   "n": "Calabouço das Cores",
+   "d": "Termine o Calabouço das Cores.",
+   "n_en": "Color Dungeon",
+   "d_en": "Clear the Color Dungeon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "troca",
+   "g": 0,
+   "n": "Corrente de Trocas",
+   "d": "Termine a sequência de trocas até a Lupa.",
+   "n_en": "Trading Sequence",
+   "d_en": "Finish the trading sequence for the Magnifying Lens.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "heroi",
+   "g": 0,
+   "n": "Modo Herói",
+   "d": "Termine o jogo no Modo Herói.",
+   "n_en": "Hero Mode",
+   "d_en": "Beat the game on Hero Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "camaras",
+   "g": 0,
+   "n": "Arquiteto de Masmorras",
+   "d": "Complete os desafios do Dampé com Câmaras de Calabouço.",
+   "n_en": "Dungeon Architect",
+   "d_en": "Clear Dampé's Chamber Dungeon challenges.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "semmorrer",
+   "g": 0,
+   "n": "Sem Cair",
+   "d": "Termine o jogo sem nenhum Game Over.",
+   "n_en": "Never Fallen",
+   "d_en": "Beat the game with no Game Over.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

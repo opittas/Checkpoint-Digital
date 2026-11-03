@@ -1699,5 +1699,80 @@
    ]
   },
   "atualizado": null
+ },
+ "mario-kart-8-deluxe": {
+  "total": 11,
+  "base": 9,
+  "dlcs": {
+   "Passe de Pistas Extras": [
+    "dlc_copas",
+    "dlc_200"
+   ]
+  },
+  "atualizado": null
+ },
+ "super-mario-3d-world": {
+  "total": 9,
+  "base": 9,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-legends-arceus": {
+  "total": 10,
+  "base": 10,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "xenoblade-3": {
+  "total": 10,
+  "base": 8,
+  "dlcs": {
+   "Future Redeemed": [
+    "fr_historia",
+    "fr_afinidade"
+   ]
+  },
+  "atualizado": null
+ },
+ "fire-emblem-three-houses": {
+  "total": 10,
+  "base": 8,
+  "dlcs": {
+   "Cindered Shadows": [
+    "cs_historia",
+    "cs_lobos"
+   ]
+  },
+  "atualizado": null
+ },
+ "paper-mario-ttyd": {
+  "total": 9,
+  "base": 9,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "metroid-prime-remastered": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "zelda-links-awakening": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "super-mario-rpg": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "kirby-dream-land-deluxe": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
  }
 }

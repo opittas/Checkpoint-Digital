@@ -1,0 +1,114 @@
+{
+ "id": "super-mario-3d-world",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Fadas Libertadas",
+   "d": "Derrote o Bowser no Mundo Castelo e termine a história do 3D World.",
+   "n_en": "Sprixies Saved",
+   "d_en": "Beat Bowser and finish Super Mario 3D World's story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "verdes",
+   "g": 0,
+   "n": "Estrelas Verdes",
+   "d": "Junte todas as Estrelas Verdes do 3D World.",
+   "n_en": "Green Stars",
+   "d_en": "Collect every Green Star.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "selos",
+   "g": 0,
+   "n": "Álbum de Selos",
+   "d": "Junte todos os selos do 3D World.",
+   "n_en": "Stamp Book",
+   "d_en": "Collect every stamp.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mastro",
+   "g": 0,
+   "n": "Topo de Todos",
+   "d": "Chegue ao topo do mastro em todas as fases.",
+   "n_en": "Flagpole Top",
+   "d_en": "Reach the top of every flagpole.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "coroa",
+   "g": 0,
+   "n": "Caminho do Campeão",
+   "d": "Termine a fase Caminho do Campeão no Mundo Coroa.",
+   "n_en": "Champion's Road",
+   "d_en": "Clear Champion's Road in World Crown.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "save",
+   "g": 0,
+   "n": "Save Brilhante",
+   "d": "Ganhe todas as estrelas no arquivo de save do 3D World.",
+   "n_en": "Shiny Save",
+   "d_en": "Earn every star on the 3D World save file.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "personagens",
+   "g": 0,
+   "n": "Elenco Completo",
+   "d": "Termine todas as fases com cada um dos 5 personagens.",
+   "n_en": "Full Cast",
+   "d_en": "Clear every course with all five characters.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "bf_historia",
+   "g": 0,
+   "n": "Fúria Acalmada",
+   "d": "Termine Bowser's Fury.",
+   "n_en": "Fury Calmed",
+   "d_en": "Finish Bowser's Fury.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bf_100",
+   "g": 0,
+   "n": "Todos os Gatoíres",
+   "d": "Junte os 100 Gatoíres de Bowser's Fury.",
+   "n_en": "Every Cat Shine",
+   "d_en": "Collect all 100 Cat Shines.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 100
+  }
+ ]
+}

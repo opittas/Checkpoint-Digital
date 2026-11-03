@@ -1,0 +1,138 @@
+{
+ "id": "mario-kart-8-deluxe",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Passe de Pistas Extras",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "gp150",
+   "g": 0,
+   "n": "Campeão 150cc",
+   "d": "Ganhe o troféu de ouro em todas as copas do 150cc.",
+   "n_en": "150cc Champion",
+   "d_en": "Win gold in every 150cc cup.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "gp200",
+   "g": 0,
+   "n": "Campeão 200cc",
+   "d": "Ganhe o troféu de ouro em todas as copas do 200cc.",
+   "n_en": "200cc Champion",
+   "d_en": "Win gold in every 200cc cup.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "espelho",
+   "g": 0,
+   "n": "Mundo Espelhado",
+   "d": "Ganhe o troféu de ouro em todas as copas do Modo Espelho.",
+   "n_en": "Mirror World",
+   "d_en": "Win gold in every Mirror cup.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas",
+   "g": 0,
+   "n": "Três Estrelas",
+   "d": "Ganhe 3 estrelas em todas as copas de todas as cilindradas.",
+   "n_en": "Three Stars",
+   "d_en": "Get a three-star rank in every cup and class.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pecas",
+   "g": 0,
+   "n": "Garagem Completa",
+   "d": "Desbloqueie todos os karts, rodas e asas-delta.",
+   "n_en": "Full Garage",
+   "d_en": "Unlock every kart, tire and glider.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ouro",
+   "g": 0,
+   "n": "Tudo de Ouro",
+   "d": "Desbloqueie o Mario Dourado e as peças douradas.",
+   "n_en": "All Gold",
+   "d_en": "Unlock Gold Mario and the gold parts.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "staff",
+   "g": 0,
+   "n": "Contra a Equipe",
+   "d": "Vença os fantasmas da equipe Nintendo no Contra-Relógio em todas as pistas base.",
+   "n_en": "Beat the Staff",
+   "d_en": "Beat every Nintendo staff ghost in Time Trials.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "batalha",
+   "g": 0,
+   "n": "Rei da Arena",
+   "d": "Vença uma rodada de cada modo de Batalha.",
+   "n_en": "Battle King",
+   "d_en": "Win a round of every Battle mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "online",
+   "g": 0,
+   "n": "Piloto Online",
+   "d": "Vença uma corrida online.",
+   "n_en": "Online Racer",
+   "d_en": "Win an online race.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_copas",
+   "g": 1,
+   "n": "Todas as Ondas",
+   "d": "Ganhe o ouro nas copas do Passe de Pistas Extras no 150cc.",
+   "n_en": "Every Wave",
+   "d_en": "Win gold in every Booster Course Pass cup at 150cc.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_200",
+   "g": 1,
+   "n": "Extras no 200cc",
+   "d": "Ganhe o ouro nas copas do Passe de Pistas Extras no 200cc.",
+   "n_en": "Booster 200cc",
+   "d_en": "Win gold in every Booster Course Pass cup at 200cc.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

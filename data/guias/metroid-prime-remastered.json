@@ -1,0 +1,73 @@
+{
+  "resumo": "Metroid Prime Remastered não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, 12 Artefatos Chozo, 100% dos itens, Diário de Bordo, Modo Difícil e as galerias.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeira volta",
+      "texto": "Normal, escaneando tudo."
+    },
+    {
+      "titulo": "2. Artefatos",
+      "texto": "Os 12 do Templo."
+    },
+    {
+      "titulo": "3. Difícil",
+      "texto": "Segunda volta com o que já sabe."
+    }
+  ],
+  "avisos": [
+    "Escaneie os chefes durante a luta: o Diário não deixa voltar depois."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "O final exige os 12 Artefatos Chozo para abrir a Cratera do Impacto."
+        ]
+      }
+    },
+    "artefatos": {
+      "guia": {
+        "dicas": [
+          "As Ruínas Chozo têm placas com pistas de onde fica cada artefato."
+        ]
+      }
+    },
+    "ridley": {
+      "guia": {
+        "passos": [
+          "Acontece no Templo dos Artefatos, depois de juntar os 12."
+        ]
+      }
+    },
+    "itens": {
+      "guia": {
+        "passos": [
+          "Mísseis, Tanques de Energia e Power Bombs. O mapa mostra salas não visitadas."
+        ]
+      }
+    },
+    "logbook": {
+      "missavel": true,
+      "guia": {
+        "atencao": [
+          "Alguns chefes e criaturas só podem ser escaneados durante a luta."
+        ]
+      }
+    },
+    "dificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar uma vez."
+        ]
+      }
+    },
+    "galeria": {
+      "guia": {
+        "passos": [
+          "As galerias abrem com a porcentagem do Diário, terminar no Normal e terminar no Difícil."
+        ]
+      }
+    }
+  }
+}

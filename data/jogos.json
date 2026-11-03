@@ -6320,5 +6320,295 @@
       "ff14",
       "evercold"
     ]
+  },
+  {
+    "id": "mario-kart-8-deluxe",
+    "title": "Mario Kart 8 Deluxe",
+    "developer": "Nintendo EPD",
+    "year": 2017,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "40–80h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-kart-8-deluxe.jpg",
+    "generos": [
+      "Corrida"
+    ],
+    "palavras": [
+      "mario kart 8"
+    ]
+  },
+  {
+    "id": "super-mario-3d-world",
+    "title": "Super Mario 3D World + Bowser's Fury",
+    "developer": "Nintendo EPD",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "30–50h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/super-mario-3d-world.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "3d world",
+      "bowser's fury"
+    ]
+  },
+  {
+    "id": "pokemon-legends-arceus",
+    "title": "Pokémon Legends: Arceus",
+    "developer": "Game Freak",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "60–100h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-legends-arceus.jpg",
+    "generos": [
+      "RPG",
+      "Aventura"
+    ],
+    "palavras": [
+      "legends: arceus",
+      "legends arceus"
+    ]
+  },
+  {
+    "id": "xenoblade-3",
+    "title": "Xenoblade Chronicles 3",
+    "developer": "Monolith Soft",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "100–150h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/xenoblade-3.jpg",
+    "generos": [
+      "RPG",
+      "Aventura"
+    ],
+    "palavras": [
+      "xenoblade"
+    ]
+  },
+  {
+    "id": "fire-emblem-three-houses",
+    "title": "Fire Emblem: Three Houses",
+    "developer": "Intelligent Systems · Koei Tecmo",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "150–250h",
+    "playthroughs": "4",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/fire-emblem-three-houses.jpg",
+    "generos": [
+      "RPG",
+      "Estratégia"
+    ],
+    "palavras": [
+      "fire emblem",
+      "three houses"
+    ]
+  },
+  {
+    "id": "paper-mario-ttyd",
+    "title": "Paper Mario: The Thousand-Year Door",
+    "developer": "Intelligent Systems",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "30–60h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/paper-mario-ttyd.jpg",
+    "generos": [
+      "RPG",
+      "Aventura"
+    ],
+    "palavras": [
+      "paper mario"
+    ]
+  },
+  {
+    "id": "metroid-prime-remastered",
+    "title": "Metroid Prime Remastered",
+    "developer": "Retro Studios",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "15–25h",
+    "playthroughs": "2",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/metroid-prime-remastered.jpg",
+    "generos": [
+      "Ação",
+      "Tiro",
+      "Aventura"
+    ],
+    "palavras": [
+      "metroid prime remastered"
+    ]
+  },
+  {
+    "id": "zelda-links-awakening",
+    "title": "The Legend of Zelda: Link's Awakening",
+    "developer": "Grezzo · Nintendo",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–25h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/zelda-links-awakening.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "link's awakening"
+    ]
+  },
+  {
+    "id": "super-mario-rpg",
+    "title": "Super Mario RPG",
+    "developer": "ArtePiazza · Nintendo",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–25h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/super-mario-rpg.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "mario rpg"
+    ]
+  },
+  {
+    "id": "kirby-dream-land-deluxe",
+    "title": "Kirby's Return to Dream Land Deluxe",
+    "developer": "HAL Laboratory",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/kirby-dream-land-deluxe.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "return to dream land"
+    ]
   }
 ]

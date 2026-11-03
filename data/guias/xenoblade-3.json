@@ -1,0 +1,108 @@
+{
+  "resumo": "Xenoblade Chronicles 3 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Heróis, classes, Monstros Únicos, colônias, Collectopaedia e a DLC Future Redeemed numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Siga os capítulos com missões de Herói."
+    },
+    {
+      "titulo": "2. Colônias",
+      "texto": "Libertar e subir afinidade."
+    },
+    {
+      "titulo": "3. Únicos",
+      "texto": "Monstros nomeados em cada região."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Future Redeemed (aba própria)."
+    }
+  ],
+  "avisos": [
+    "As Batalhas Desafio vêm do Passe de Expansão, mas ficam no jogo base: não contam no 100% sem o passe."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Os capítulos seguem em ordem; não há pontos sem volta que bloqueiem missões secundárias."
+        ]
+      }
+    },
+    "herois": {
+      "guia": {
+        "passos": [
+          "Cada Herói vem de uma Missão de Herói (estrela roxa no mapa) ou da história."
+        ]
+      }
+    },
+    "classes": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Use o 'treino de classe' trocando a classe de quem não está no time de frente."
+        ]
+      }
+    },
+    "unicos": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Eles têm nome e um ícone de coroa. Derrotar libera a Alma de Herói deles no Soulhacker."
+        ]
+      }
+    },
+    "colonias": {
+      "guia": {
+        "passos": [
+          "Faça as missões de cada colônia; o nível aparece no menu de Colônias."
+        ]
+      }
+    },
+    "colecao": {
+      "guia": {
+        "passos": [
+          "Os itens são entregues no menu de Colecionáveis de cada região."
+        ]
+      }
+    },
+    "mapa": {
+      "guia": {
+        "passos": [
+          "O mapa de cada região mostra a porcentagem de locais descobertos."
+        ],
+        "dicas": [
+          "Áreas altas e cavernas costumam esconder marcos."
+        ]
+      }
+    },
+    "desafio": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ],
+        "passos": [
+          "Fale com a Nopon das Batalhas Desafio na colônia."
+        ]
+      }
+    },
+    "fr_historia": {
+      "guia": {
+        "requisitos": [
+          "DLC Future Redeemed (Passe de Expansão)."
+        ],
+        "passos": [
+          "Começa do menu inicial, com o time do Matthew e do A."
+        ]
+      }
+    },
+    "fr_afinidade": {
+      "guia": {
+        "passos": [
+          "Explore, vença Únicos e conclua missões: cada item do mapa libera habilidades."
+        ]
+      }
+    }
+  }
+}

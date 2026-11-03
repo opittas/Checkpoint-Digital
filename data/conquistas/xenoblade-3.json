@@ -1,0 +1,127 @@
+{
+ "id": "xenoblade-3",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Future Redeemed",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "O Fim de Origin",
+   "d": "Termine a história principal.",
+   "n_en": "Origin's End",
+   "d_en": "Finish the main story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "herois",
+   "g": 0,
+   "n": "Todos os Heróis",
+   "d": "Recrute todos os Heróis.",
+   "n_en": "Every Hero",
+   "d_en": "Recruit every Hero.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "classes",
+   "g": 0,
+   "n": "Mestre das Classes",
+   "d": "Leve todas as classes ao nível máximo com um personagem.",
+   "n_en": "Class Master",
+   "d_en": "Master every class with a character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "unicos",
+   "g": 0,
+   "n": "Caçador de Únicos",
+   "d": "Derrote todos os Monstros Únicos.",
+   "n_en": "Unique Hunter",
+   "d_en": "Defeat every Unique Monster.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "colonias",
+   "g": 0,
+   "n": "Colônias Libertadas",
+   "d": "Liberte todas as colônias e chegue à afinidade máxima.",
+   "n_en": "Colonies Freed",
+   "d_en": "Free every colony and max out their affinity.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "colecao",
+   "g": 0,
+   "n": "Enciclopédia de Aionios",
+   "d": "Complete o Collectopaedia.",
+   "n_en": "Collectopaedia",
+   "d_en": "Complete the Collectopaedia.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mapa",
+   "g": 0,
+   "n": "Explorador de Aionios",
+   "d": "Descubra todos os locais e marcos.",
+   "n_en": "Aionios Explorer",
+   "d_en": "Discover every location and landmark.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafio",
+   "g": 0,
+   "n": "Batalhas Desafio",
+   "d": "Vença as Batalhas Desafio no nível mais difícil.",
+   "n_en": "Challenge Battles",
+   "d_en": "Clear the Challenge Battles on the hardest tier.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fr_historia",
+   "g": 1,
+   "n": "Futuro Redimido",
+   "d": "Termine a história de Future Redeemed.",
+   "n_en": "Future Redeemed",
+   "d_en": "Finish the Future Redeemed story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fr_afinidade",
+   "g": 1,
+   "n": "Mapa de Afinidade",
+   "d": "Complete o Mapa de Afinidade de Future Redeemed.",
+   "n_en": "Affinity Chart",
+   "d_en": "Complete the Future Redeemed affinity chart.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

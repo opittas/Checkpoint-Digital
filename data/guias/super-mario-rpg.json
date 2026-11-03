@@ -1,0 +1,85 @@
+{
+  "resumo": "Super Mario RPG não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, revanches do pós-jogo, Culex, baús escondidos, Lista de Monstros, Lazy Shell, corrida de Yoshi e timing perfeito.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "As 7 Estrelas."
+    },
+    {
+      "titulo": "2. Segredos",
+      "texto": "Baús, Culex e Lazy Shell."
+    },
+    {
+      "titulo": "3. Pós-jogo",
+      "texto": "Revanches dos chefes."
+    }
+  ],
+  "avisos": [
+    "Esta é a versão de 2023 para o Switch, refeita do jogo de Super Nintendo."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga a Estrada Estelar; cada Estrela vem de um chefe."
+        ]
+      }
+    },
+    "revanches": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Depois dos créditos, os chefes mais fortes aparecem nos lugares em que você os enfrentou."
+        ]
+      }
+    },
+    "culex": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Monstro Town, atrás de uma porta trancada."
+        ]
+      }
+    },
+    "baus": {
+      "guia": {
+        "dicas": [
+          "O Sinal dos Baús (acessório) toca quando há um baú invisível por perto."
+        ]
+      }
+    },
+    "monstros": {
+      "missavel": true,
+      "guia": {
+        "atencao": [
+          "Alguns inimigos só aparecem uma vez na história."
+        ]
+      }
+    },
+    "lazy": {
+      "guia": {
+        "passos": [
+          "Leve a Semente e o Fertilizante ao jardineiro de Rose Town."
+        ]
+      }
+    },
+    "yoshi": {
+      "guia": {
+        "onde": [
+          "Ilha dos Yoshis."
+        ],
+        "dicas": [
+          "Aperte os botões no ritmo, sem ir rápido demais."
+        ]
+      }
+    },
+    "timing": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "O contador aparece na tela de batalha; o Super Jump do Mario é o mais fácil de treinar."
+        ]
+      }
+    }
+  }
+}

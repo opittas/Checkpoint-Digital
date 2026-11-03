@@ -1,0 +1,97 @@
+{
+  "resumo": "Super Mario 3D World + Bowser's Fury não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint dos dois jogos: história, Estrelas Verdes, selos, mastros, Caminho do Campeão, 5 personagens e os 100 Gatoíres.",
+  "roadmap": [
+    {
+      "titulo": "1. 3D World",
+      "texto": "Os 8 mundos e o Bowser."
+    },
+    {
+      "titulo": "2. Mundos bônus",
+      "texto": "Estrela, Cogumelo, Flor e Coroa."
+    },
+    {
+      "titulo": "3. Limpeza",
+      "texto": "Estrelas Verdes, selos e mastros."
+    },
+    {
+      "titulo": "4. Bowser's Fury",
+      "texto": "Os 100 Gatoíres."
+    }
+  ],
+  "avisos": [
+    "O cooperativo online do 3D World precisa do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance pelos 8 mundos; cada um pede um número de Estrelas Verdes para abrir as fases finais."
+        ]
+      }
+    },
+    "verdes": {
+      "guia": {
+        "passos": [
+          "Cada fase tem 3 Estrelas Verdes escondidas.",
+          "Fases bônus (Caixas de Toad, Capitão Toad) também dão estrelas."
+        ]
+      }
+    },
+    "selos": {
+      "guia": {
+        "passos": [
+          "Um selo por fase, quase sempre escondido perto do caminho principal."
+        ]
+      }
+    },
+    "mastro": {
+      "guia": {
+        "dicas": [
+          "Pegue impulso com o pulo longo (corra, agache e pule)."
+        ]
+      }
+    },
+    "coroa": {
+      "dificil": true,
+      "guia": {
+        "resumo": "A fase mais difícil do jogo, sem checkpoints, com trechos de várias fases.",
+        "dicas": [
+          "Use a Peach (flutua) e guarde o Sino de Gato na reserva."
+        ]
+      }
+    },
+    "save": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Termine o jogo, junte todas as Estrelas Verdes, selos e mastros dourados, e termine cada fase com cada personagem."
+        ]
+      }
+    },
+    "personagens": {
+      "guia": {
+        "passos": [
+          "O selo do personagem aparece no mapa da fase quando ele termina."
+        ],
+        "dicas": [
+          "Jogue no cooperativo local para avançar com dois de uma vez."
+        ]
+      }
+    },
+    "bf_historia": {
+      "guia": {
+        "passos": [
+          "Junte Gatoíres (Cat Shines) para acender os faróis e enfrente o Bowser gigante com o Sino Gigante."
+        ]
+      }
+    },
+    "bf_100": {
+      "guia": {
+        "passos": [
+          "Cada ilha tem 5 Gatoíres; o mapa mostra quantos faltam em cada uma.",
+          "Alguns só aparecem durante a fúria do Bowser."
+        ]
+      }
+    }
+  }
+}

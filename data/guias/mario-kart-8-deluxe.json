@@ -1,0 +1,133 @@
+{
+  "resumo": "Mario Kart 8 Deluxe não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Grand Prix em todas as cilindradas, 3 estrelas, peças, fantasmas da equipe, batalhas e o Passe de Pistas Extras numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. 50cc a 150cc",
+      "texto": "Ouro em todas as copas."
+    },
+    {
+      "titulo": "2. Peças",
+      "texto": "Moedas para abrir karts, rodas e asas."
+    },
+    {
+      "titulo": "3. 200cc e Espelho",
+      "texto": "Os modos mais difíceis."
+    },
+    {
+      "titulo": "4. Contra-Relógio",
+      "texto": "Fantasmas da equipe."
+    },
+    {
+      "titulo": "5. DLC",
+      "texto": "Passe de Pistas Extras (aba própria)."
+    }
+  ],
+  "avisos": [
+    "As metas online precisam do Nintendo Switch Online (pago).",
+    "As condições das peças douradas não foram conferidas uma a uma *(conferir)*."
+  ],
+  "conquistas": {
+    "gp150": {
+      "guia": {
+        "passos": [
+          "Jogue o Grand Prix no 150cc e termine em 1º no total de cada copa.",
+          "As copas base são 12 (48 pistas)."
+        ],
+        "dicas": [
+          "Kart leve com rodas Roller acelera rápido e perdoa erros."
+        ]
+      }
+    },
+    "gp200": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois do 150cc. Freie nas curvas fechadas (o drift sozinho não basta)."
+        ],
+        "dicas": [
+          "Use mais Handling do que velocidade máxima."
+        ]
+      }
+    },
+    "espelho": {
+      "guia": {
+        "passos": [
+          "Abre depois do 150cc. As pistas ficam invertidas."
+        ]
+      }
+    },
+    "estrelas": {
+      "dificil": true,
+      "guia": {
+        "resumo": "A nota da copa sobe com vitórias, poucas batidas e corrida limpa.",
+        "dicas": [
+          "Termine em 1º em todas as 4 corridas da copa: quase sempre garante 3 estrelas."
+        ]
+      }
+    },
+    "pecas": {
+      "guia": {
+        "passos": [
+          "Cada peça nova sai ao juntar moedas nas corridas (qualquer modo offline conta)."
+        ],
+        "dicas": [
+          "Pegue as 10 moedas logo no começo de cada corrida: elas também aumentam a velocidade."
+        ]
+      }
+    },
+    "ouro": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Cada peça dourada tem uma condição própria (Grand Prix 200cc, Contra-Relógio e moedas).",
+          "Veja as condições numa lista atualizada antes de começar."
+        ]
+      }
+    },
+    "staff": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "No Contra-Relógio, escolha a pista e baixe o fantasma da equipe.",
+          "Os fantasmas mais difíceis abrem depois de vencer os primeiros."
+        ]
+      }
+    },
+    "batalha": {
+      "guia": {
+        "passos": [
+          "Modos: Balão, Ladrão de Shine, Bob-omba, Moedas e Polícia e Ladrão (Renegade Roundup)."
+        ]
+      }
+    },
+    "online": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ],
+        "passos": [
+          "Entre em Mundial ou Regional e termine em 1º."
+        ]
+      }
+    },
+    "dlc_copas": {
+      "guia": {
+        "requisitos": [
+          "Passe de Pistas Extras (vendido à parte ou incluso em alguns pacotes)."
+        ],
+        "passos": [
+          "O passe traz 48 pistas novas, divididas em 12 copas."
+        ]
+      }
+    },
+    "dlc_200": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "As pistas novas têm atalhos mais curtos: treine no Contra-Relógio antes."
+        ]
+      }
+    }
+  }
+}

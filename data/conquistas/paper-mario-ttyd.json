@@ -1,0 +1,113 @@
+{
+ "id": "paper-mario-ttyd",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "A Porta Milenar",
+   "d": "Junte as 7 Estrelas de Cristal e termine a história.",
+   "n_en": "The Thousand-Year Door",
+   "d_en": "Collect the seven Crystal Stars and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 7
+  },
+  {
+   "k": "rawk",
+   "g": 0,
+   "n": "Campeão do Glitz Pit",
+   "d": "Vença o Rawk Hawk e se torne campeão do Glitz Pit.",
+   "n_en": "Glitz Pit Champ",
+   "d_en": "Beat Rawk Hawk and become Glitz Pit champion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pit",
+   "g": 0,
+   "n": "Poço das 100 Provações",
+   "d": "Termine o Poço das 100 Provações.",
+   "n_en": "Pit of 100 Trials",
+   "d_en": "Clear the Pit of 100 Trials.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pecas",
+   "g": 0,
+   "n": "Peças Estelares",
+   "d": "Junte todas as Peças Estelares.",
+   "n_en": "Star Pieces",
+   "d_en": "Collect every Star Piece.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "shine",
+   "g": 0,
+   "n": "Brilho do Sol",
+   "d": "Junte todos os Shine Sprites.",
+   "n_en": "Shine Sprites",
+   "d_en": "Collect every Shine Sprite.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "insignias",
+   "g": 0,
+   "n": "Coleção de Insígnias",
+   "d": "Junte todas as insígnias.",
+   "n_en": "Badge Collection",
+   "d_en": "Collect every badge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "receitas",
+   "g": 0,
+   "n": "Chef Zess T.",
+   "d": "Cozinhe todas as receitas.",
+   "n_en": "Chef Zess T.",
+   "d_en": "Cook every recipe.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "trouble",
+   "g": 0,
+   "n": "Central de Problemas",
+   "d": "Resolva todos os pedidos da Central de Problemas.",
+   "n_en": "Trouble Center",
+   "d_en": "Clear every Trouble Center request.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "parceiros",
+   "g": 0,
+   "n": "Super Parceiros",
+   "d": "Evolua todos os parceiros ao nível máximo.",
+   "n_en": "Ultra Partners",
+   "d_en": "Upgrade every partner to Ultra Rank.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

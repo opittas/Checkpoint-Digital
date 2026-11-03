@@ -1,0 +1,91 @@
+{
+ "id": "metroid-prime-remastered",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Metroid Prime",
+   "d": "Derrote o Metroid Prime e termine o jogo.",
+   "n_en": "Metroid Prime",
+   "d_en": "Defeat Metroid Prime and finish the game.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "artefatos",
+   "g": 0,
+   "n": "Artefatos Chozo",
+   "d": "Junte os 12 Artefatos Chozo.",
+   "n_en": "Chozo Artifacts",
+   "d_en": "Collect all 12 Chozo Artifacts.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 12
+  },
+  {
+   "k": "ridley",
+   "g": 0,
+   "n": "Meta Ridley",
+   "d": "Derrote o Meta Ridley.",
+   "n_en": "Meta Ridley",
+   "d_en": "Defeat Meta Ridley.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "itens",
+   "g": 0,
+   "n": "Itens 100%",
+   "d": "Pegue 100% dos itens.",
+   "n_en": "100% Items",
+   "d_en": "Collect 100% of items.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "logbook",
+   "g": 0,
+   "n": "Diário Completo",
+   "d": "Escaneie tudo e chegue a 100% no Diário de Bordo.",
+   "n_en": "Full Logbook",
+   "d_en": "Scan everything for 100% Logbook.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dificil",
+   "g": 0,
+   "n": "Modo Difícil",
+   "d": "Termine o jogo no Modo Difícil.",
+   "n_en": "Hard Mode",
+   "d_en": "Beat the game on Hard.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "galeria",
+   "g": 0,
+   "n": "Galeria Completa",
+   "d": "Desbloqueie todas as galerias de imagens.",
+   "n_en": "Full Gallery",
+   "d_en": "Unlock every image gallery.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

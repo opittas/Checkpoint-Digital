@@ -1,0 +1,128 @@
+{
+ "id": "fire-emblem-three-houses",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Cindered Shadows",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "aguias",
+   "g": 0,
+   "n": "Flor Carmesim",
+   "d": "Termine a rota das Águias Negras (Crimson Flower).",
+   "n_en": "Crimson Flower",
+   "d_en": "Finish the Black Eagles Crimson Flower route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "prata",
+   "g": 0,
+   "n": "Neve Prateada",
+   "d": "Termine a rota Silver Snow.",
+   "n_en": "Silver Snow",
+   "d_en": "Finish the Silver Snow route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "leoes",
+   "g": 0,
+   "n": "Lua Azul",
+   "d": "Termine a rota dos Leões Azuis (Azure Moon).",
+   "n_en": "Azure Moon",
+   "d_en": "Finish the Blue Lions route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cervos",
+   "g": 0,
+   "n": "Vento Verdejante",
+   "d": "Termine a rota dos Cervos Dourados (Verdant Wind).",
+   "n_en": "Verdant Wind",
+   "d_en": "Finish the Golden Deer route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dificil",
+   "g": 0,
+   "n": "Modo Difícil Clássico",
+   "d": "Termine uma rota no Difícil com o Modo Clássico (morte permanente).",
+   "n_en": "Hard Classic",
+   "d_en": "Finish a route on Hard with Classic mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "maddening",
+   "g": 0,
+   "n": "Enlouquecedor",
+   "d": "Termine uma rota no Maddening.",
+   "n_en": "Maddening",
+   "d_en": "Finish a route on Maddening.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "recrutas",
+   "g": 0,
+   "n": "Professor Popular",
+   "d": "Recrute todos os alunos possíveis numa mesma rota.",
+   "n_en": "Popular Professor",
+   "d_en": "Recruit every possible student in one route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "suporte_s",
+   "g": 0,
+   "n": "Laços Eternos",
+   "d": "Chegue ao Suporte S com um personagem.",
+   "n_en": "Eternal Bond",
+   "d_en": "Reach an S Support with a character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cs_historia",
+   "g": 1,
+   "n": "Cinzas e Sombras",
+   "d": "Termine a história de Cindered Shadows.",
+   "n_en": "Cindered Shadows",
+   "d_en": "Finish the Cindered Shadows story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cs_lobos",
+   "g": 1,
+   "n": "Lobos de Cinza",
+   "d": "Recrute os 4 Lobos de Cinza na história principal.",
+   "n_en": "Ashen Wolves",
+   "d_en": "Recruit all four Ashen Wolves in the main game.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  }
+ ]
+}

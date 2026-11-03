@@ -1,0 +1,129 @@
+{
+ "id": "pokemon-legends-arceus",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Herói de Hisui",
+   "d": "Acalme os 5 Pokémon Nobres e termine a história principal.",
+   "n_en": "Hero of Hisui",
+   "d_en": "Quell the five Noble Pokémon and finish the main story.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "pos",
+   "g": 0,
+   "n": "Além dos Créditos",
+   "d": "Termine o pós-jogo e enfrente o Volo.",
+   "n_en": "After the Credits",
+   "d_en": "Finish the post-game and battle Volo.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lagos",
+   "g": 0,
+   "n": "Trio dos Lagos",
+   "d": "Capture Uxie, Mesprit e Azelf.",
+   "n_en": "Lake Trio",
+   "d_en": "Catch Uxie, Mesprit and Azelf.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  },
+  {
+   "k": "forcas",
+   "g": 0,
+   "n": "Forças da Natureza",
+   "d": "Capture Tornadus, Thundurus, Landorus e Enamorus.",
+   "n_en": "Forces of Nature",
+   "d_en": "Catch Tornadus, Thundurus, Landorus and Enamorus.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "arceus",
+   "g": 0,
+   "n": "O Original",
+   "d": "Complete a Pokédex e encontre Arceus.",
+   "n_en": "The Original One",
+   "d_en": "Complete the Pokédex and meet Arceus.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pesquisa",
+   "g": 0,
+   "n": "Pesquisa Perfeita",
+   "d": "Deixe todas as entradas da Pokédex no nível de pesquisa 10.",
+   "n_en": "Perfect Research",
+   "d_en": "Get every Pokédex entry to research level 10.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "unown",
+   "g": 0,
+   "n": "Alfabeto Completo",
+   "d": "Encontre as 28 formas de Unown.",
+   "n_en": "Full Alphabet",
+   "d_en": "Find all 28 Unown forms.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 28
+  },
+  {
+   "k": "espiritos",
+   "g": 0,
+   "n": "Fogos-fátuos",
+   "d": "Junte as 107 chamas fantasmas para o Spiritomb.",
+   "n_en": "Wisps",
+   "d_en": "Collect all 107 wisps for Spiritomb.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 107
+  },
+  {
+   "k": "alfas",
+   "g": 0,
+   "n": "Caçador de Alfas",
+   "d": "Derrote ou capture 10 Pokémon Alfa.",
+   "n_en": "Alpha Hunter",
+   "d_en": "Defeat or catch 10 Alpha Pokémon.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "pedidos",
+   "g": 0,
+   "n": "Ajudante de Jubilife",
+   "d": "Cumpra todos os pedidos da vila e do campo.",
+   "n_en": "Jubilife Helper",
+   "d_en": "Finish every request.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

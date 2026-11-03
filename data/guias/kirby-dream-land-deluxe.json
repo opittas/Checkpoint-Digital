@@ -1,0 +1,77 @@
+{
+  "resumo": "Kirby's Return to Dream Land Deluxe não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Esferas de Energia, Modo Extra, Arena Verdadeira, Epílogo do Magolor e o Merry Magoland.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Junte as peças do Lor."
+    },
+    {
+      "titulo": "2. Esferas",
+      "texto": "Volte às fases."
+    },
+    {
+      "titulo": "3. Epílogo",
+      "texto": "Magolor."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Modo Extra e Arena Verdadeira."
+    }
+  ],
+  "avisos": [
+    "O Epílogo do Magolor só existe na versão Deluxe."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada mundo devolve partes do Lor Starcutter: a última abre a batalha final."
+        ]
+      }
+    },
+    "esferas": {
+      "guia": {
+        "passos": [
+          "Cada fase tem algumas; a tela da fase mostra quantas faltam."
+        ]
+      }
+    },
+    "extra": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois da história: menos vida e chefes mais fortes."
+        ]
+      }
+    },
+    "arena": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Use a habilidade Espada ou Martelo e guarde os tomates máximos para o último chefe."
+        ]
+      }
+    },
+    "epilogo": {
+      "guia": {
+        "passos": [
+          "Abre depois da história principal, no menu."
+        ]
+      }
+    },
+    "magoland": {
+      "guia": {
+        "passos": [
+          "Jogue os minijogos; cada meta dá um carimbo."
+        ]
+      }
+    },
+    "mascaras": {
+      "guia": {
+        "passos": [
+          "As máscaras saem dos carimbos do Merry Magoland."
+        ]
+      }
+    }
+  }
+}

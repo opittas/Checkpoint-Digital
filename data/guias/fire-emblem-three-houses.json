@@ -1,0 +1,108 @@
+{
+  "resumo": "Fire Emblem: Three Houses não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: as 4 rotas, Clássico no Difícil, Maddening, recrutamento, Suporte S e a DLC Cindered Shadows numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeira rota",
+      "texto": "Escolha a casa no capítulo 1."
+    },
+    {
+      "titulo": "2. Novo Jogo+",
+      "texto": "Renome e níveis carregam para a próxima."
+    },
+    {
+      "titulo": "3. Outras rotas",
+      "texto": "Leões, Cervos, Águias (as duas)."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Maddening e Clássico."
+    }
+  ],
+  "avisos": [
+    "Para ver as 4 rotas são 4 jogadas: use o Novo Jogo+ para ir mais rápido.",
+    "As rotas das Águias Negras se dividem no capítulo 11."
+  ],
+  "conquistas": {
+    "aguias": {
+      "missavel": true,
+      "guia": {
+        "atencao": [
+          "Exige ficar ao lado da Edelgard no capítulo 11; a escolha não volta."
+        ]
+      }
+    },
+    "prata": {
+      "guia": {
+        "passos": [
+          "Escolha as Águias Negras e não fique ao lado da Edelgard no capítulo 11."
+        ]
+      }
+    },
+    "leoes": {
+      "guia": {
+        "passos": [
+          "Escolha os Leões Azuis no começo."
+        ]
+      }
+    },
+    "cervos": {
+      "guia": {
+        "passos": [
+          "Escolha os Cervos Dourados no começo."
+        ]
+      }
+    },
+    "dificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "No Clássico, quem cai em batalha não volta. Use o Divine Pulse para voltar turnos."
+        ]
+      }
+    },
+    "maddening": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "Atualização gratuita que adicionou o Maddening."
+        ],
+        "dicas": [
+          "Treine bastante no mês e use batalhas auxiliares; inimigos têm muito mais força."
+        ]
+      }
+    },
+    "recrutas": {
+      "missavel": true,
+      "guia": {
+        "atencao": [
+          "Recrute antes do salto de tempo do capítulo 12: depois não dá mais."
+        ]
+      }
+    },
+    "suporte_s": {
+      "guia": {
+        "passos": [
+          "Abre no fim do jogo, no capítulo final de cada rota."
+        ]
+      }
+    },
+    "cs_historia": {
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ],
+        "passos": [
+          "Abre no Abismo, embaixo do mosteiro, a partir do capítulo 4."
+        ]
+      }
+    },
+    "cs_lobos": {
+      "missavel": true,
+      "guia": {
+        "atencao": [
+          "Recrute antes do salto de tempo, como os outros alunos."
+        ]
+      }
+    }
+  }
+}

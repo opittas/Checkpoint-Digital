@@ -1,0 +1,90 @@
+{
+ "id": "kirby-dream-land-deluxe",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Nave Reconstruída",
+   "d": "Ajude o Magolor a reconstruir o Lor Starcutter e termine a história.",
+   "n_en": "Starcutter Rebuilt",
+   "d_en": "Help Magolor rebuild the Lor Starcutter and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "esferas",
+   "g": 0,
+   "n": "Esferas de Energia",
+   "d": "Junte todas as Esferas de Energia.",
+   "n_en": "Energy Spheres",
+   "d_en": "Collect every Energy Sphere.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "extra",
+   "g": 0,
+   "n": "Modo Extra",
+   "d": "Termine o Modo Extra.",
+   "n_en": "Extra Mode",
+   "d_en": "Finish Extra Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "arena",
+   "g": 0,
+   "n": "Arena Verdadeira",
+   "d": "Vença a Arena Verdadeira.",
+   "n_en": "True Arena",
+   "d_en": "Clear the True Arena.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "epilogo",
+   "g": 0,
+   "n": "Epílogo do Magolor",
+   "d": "Termine o Epílogo do Magolor.",
+   "n_en": "Magolor Epilogue",
+   "d_en": "Finish Magolor Epilogue.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "magoland",
+   "g": 0,
+   "n": "Parque Merry Magoland",
+   "d": "Junte todos os carimbos do Merry Magoland.",
+   "n_en": "Merry Magoland",
+   "d_en": "Get every Merry Magoland stamp.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mascaras",
+   "g": 0,
+   "n": "Coleção de Máscaras",
+   "d": "Desbloqueie todas as máscaras do Magoland.",
+   "n_en": "Mask Collection",
+   "d_en": "Unlock every Magoland mask.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

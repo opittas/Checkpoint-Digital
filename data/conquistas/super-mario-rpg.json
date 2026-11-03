@@ -1,0 +1,102 @@
+{
+ "id": "super-mario-rpg",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Estrelas Restauradas",
+   "d": "Junte as 7 Estrelas e derrote o Smithy.",
+   "n_en": "Stars Restored",
+   "d_en": "Collect the seven Star Pieces and defeat Smithy.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 7
+  },
+  {
+   "k": "revanches",
+   "g": 0,
+   "n": "Revanche Geral",
+   "d": "Vença todas as revanches de chefes do pós-jogo.",
+   "n_en": "Rematch Royale",
+   "d_en": "Win every post-game boss rematch.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "culex",
+   "g": 0,
+   "n": "Cristais de Culex",
+   "d": "Derrote o Culex e os Cristais.",
+   "n_en": "Culex",
+   "d_en": "Defeat Culex and the crystals.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "baus",
+   "g": 0,
+   "n": "Baús Escondidos",
+   "d": "Encontre todos os baús escondidos.",
+   "n_en": "Hidden Chests",
+   "d_en": "Find every hidden chest.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "monstros",
+   "g": 0,
+   "n": "Lista de Monstros",
+   "d": "Complete a Lista de Monstros.",
+   "n_en": "Monster List",
+   "d_en": "Complete the Monster List.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lazy",
+   "g": 0,
+   "n": "Concha Preguiçosa",
+   "d": "Consiga a arma e a armadura Lazy Shell.",
+   "n_en": "Lazy Shell",
+   "d_en": "Get the Lazy Shell weapon and armor.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "yoshi",
+   "g": 0,
+   "n": "Corrida de Yoshi",
+   "d": "Vença a corrida de Yoshi.",
+   "n_en": "Yoshi Race",
+   "d_en": "Win the Yoshi race.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "timing",
+   "g": 0,
+   "n": "Golpe Perfeito",
+   "d": "Faça 100 ataques com timing perfeito seguidos.",
+   "n_en": "Perfect Timing",
+   "d_en": "Land 100 perfectly timed attacks in a row.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

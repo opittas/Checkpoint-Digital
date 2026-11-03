@@ -1,0 +1,105 @@
+{
+  "resumo": "Pokémon Legends: Arceus não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Nobres, pós-jogo, lendários, Arceus, pesquisa 10 em toda a Pokédex, Unown, fogos-fátuos, Alfas e pedidos.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 5 Nobres e o Templo do Céu."
+    },
+    {
+      "titulo": "2. Pós-jogo",
+      "texto": "Lendários e Volo."
+    },
+    {
+      "titulo": "3. Pokédex",
+      "texto": "Registre todos e chegue a Arceus."
+    },
+    {
+      "titulo": "4. Perfeição",
+      "texto": "Pesquisa 10 em tudo."
+    }
+  ],
+  "avisos": [
+    "Os nomes dos Pokémon seguem a versão em inglês, que é a usada no Brasil."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Kleavor, Lilligant, Arcanine, Electrode e Avalugg, um por região.",
+          "Jogue os bálsamos neles até a barra zerar e depois vença a batalha."
+        ]
+      }
+    },
+    "pos": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Depois dos créditos, cumpra as missões do pós-jogo até a luta com o Volo e o Giratina."
+        ]
+      }
+    },
+    "lagos": {
+      "guia": {
+        "passos": [
+          "Fazem parte das missões do pós-jogo, nas cavernas dos três lagos."
+        ]
+      }
+    },
+    "forcas": {
+      "guia": {
+        "passos": [
+          "Aparecem em missões do pós-jogo, cada um numa região."
+        ]
+      }
+    },
+    "arceus": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Capture todos os Pokémon da Pokédex de Hisui (menos o Arceus).",
+          "Volte ao Professor Laventon e siga a última missão."
+        ]
+      }
+    },
+    "pesquisa": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Capturar várias vezes e ver golpes específicos sobe a pesquisa mais rápido."
+        ],
+        "atencao": [
+          "O Amuleto Brilhante (mais chance de shiny) vem da pesquisa perfeita."
+        ]
+      }
+    },
+    "unown": {
+      "guia": {
+        "passos": [
+          "Pegue a missão de pedido sobre os Unown na vila e use o mapa de pistas."
+        ]
+      }
+    },
+    "espiritos": {
+      "guia": {
+        "passos": [
+          "As chamas brilham à noite; o pedido da Vessa conta quantas faltam."
+        ]
+      }
+    },
+    "alfas": {
+      "guia": {
+        "dicas": [
+          "Alfas têm olhos vermelhos e são maiores. Ataque pelas costas, agachado."
+        ]
+      }
+    },
+    "pedidos": {
+      "guia": {
+        "passos": [
+          "Os pedidos ficam no mural da vila e com pessoas marcadas com balão no mapa.",
+          "Alguns só aparecem depois de certos pontos da história."
+        ]
+      }
+    }
+  }
+}

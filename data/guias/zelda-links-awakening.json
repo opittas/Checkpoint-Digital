@@ -1,0 +1,89 @@
+{
+  "resumo": "Link's Awakening não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: os 8 Instrumentos, Corações, Conchas Secretas, Calabouço das Cores, trocas, Modo Herói, Câmaras do Dampé e o final secreto sem morrer.",
+  "roadmap": [
+    {
+      "titulo": "1. Começo",
+      "texto": "Pegue a espada na praia."
+    },
+    {
+      "titulo": "2. Calabouços",
+      "texto": "Os 8 Instrumentos."
+    },
+    {
+      "titulo": "3. Limpeza",
+      "texto": "Conchas, corações e trocas."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Modo Herói sem morrer."
+    }
+  ],
+  "avisos": [
+    "Para o final secreto, faça o save inteiro sem nenhum Game Over."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada calabouço tem um Instrumento das Sirenas no fim."
+        ]
+      }
+    },
+    "coracoes": {
+      "guia": {
+        "dicas": [
+          "Use o Mapa e a Concha do Mar Secreta com o sensor para achar os escondidos."
+        ]
+      }
+    },
+    "conchas": {
+      "guia": {
+        "passos": [
+          "Troque na Mansão das Conchas por prêmios, inclusive uma espada mais forte."
+        ]
+      }
+    },
+    "cor": {
+      "guia": {
+        "onde": [
+          "Cemitério ao norte da Vila Mabe."
+        ],
+        "passos": [
+          "Dá a escolha entre Túnica Vermelha e Azul."
+        ]
+      }
+    },
+    "troca": {
+      "guia": {
+        "passos": [
+          "Começa com a boneca Yoshi na loja de jogos da Vila Mabe."
+        ]
+      }
+    },
+    "heroi": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Escolha ao criar o save: o dano é dobrado e não caem corações."
+        ]
+      }
+    },
+    "camaras": {
+      "guia": {
+        "onde": [
+          "Cabana do Dampé, perto do cemitério."
+        ]
+      }
+    },
+    "semmorrer": {
+      "dificil": true,
+      "missavel": true,
+      "guia": {
+        "resumo": "O final muda se você nunca morreu.",
+        "atencao": [
+          "Morrer uma vez já conta: guarde fadas em garrafa."
+        ]
+      }
+    }
+  }
+}

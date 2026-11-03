@@ -6610,5 +6610,40 @@
     "palavras": [
       "return to dream land"
     ]
+  },
+  {
+    "id": "the-elder-scrolls-vi",
+    "title": "The Elder Scrolls VI: Sentinel",
+    "developer": "Bethesda Game Studios",
+    "year": null,
+    "steam_appid": null,
+    "platforms": [
+      "xbox",
+      "steam"
+    ],
+    "consoles": [
+      "Xbox Series X|S",
+      "PC"
+    ],
+    "labels": {
+      "xbox": "",
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/the-elder-scrolls-vi.jpg",
+    "generos": [
+      "RPG",
+      "Mundo aberto"
+    ],
+    "palavras": [
+      "elder scrolls vi",
+      "elder scrolls 6",
+      "tes vi",
+      "tes 6"
+    ]
   }
 ]

@@ -37,7 +37,7 @@
 <script>window.JOGO_ID = "forager";</script>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="../shared.js?v=ccbbc516"></script>
+<script src="../shared.js?v=a1093de0"></script>
 <script src="../conquistas-app.js?v=ed82f2bc"></script>
 <script src="../auth.js?v=2cd7afc5"></script>
 <script>
@@ -170,7 +170,7 @@
     if (!it) return `<button class="ck-btn primary" data-lib="add">＋ ${T('Adicionar aos Meus Jogos', 'Add to My Games')}</button>`;
     return `<span class="g-chip" style="background:#22c55e26;border-color:#22c55e55;color:#bbf7d0">✓ ${T('Nos Meus Jogos', 'In My Games')}</span>
       <select class="ck-select" data-lib="status" style="margin-left:6px">${Object.keys(CK.STATUS).map(k => `<option value="${k}"${it.status === k ? ' selected' : ''}>${CK.statusLabel(k)}</option>`).join('')}</select>
-      <a class="ck-btn" href="../index.html" style="text-decoration:none;margin-left:6px">⭐ ${T('Ver coleção', 'View collection')}</a>`;
+      <a class="ck-btn" href="../" style="text-decoration:none;margin-left:6px">⭐ ${T('Ver coleção', 'View collection')}</a>`;
   }
 
   // ── PROGRESSO ──

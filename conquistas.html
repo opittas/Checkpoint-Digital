@@ -64,7 +64,7 @@
 
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=ccbbc516"></script>
+<script src="shared.js?v=a1093de0"></script>
 <script src="conquistas-app.js?v=ed82f2bc"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
@@ -208,7 +208,7 @@
     const b = e.target.closest('[data-lib]'); if (!b) return;
     e.preventDefault(); e.stopPropagation();
     const j = games.find(g => g.id === b.dataset.lib);
-    if (CK.inLib(j.id)) { location.href = 'index.html'; return; }
+    if (CK.inLib(j.id)) { location.href = './'; return; }
     CK.setLibItem(j.id, { plataformas: j.platforms.length === 1 ? j.platforms.slice() : [], status: 'jogando', favorito: false, origem: 'manual' });
     b.classList.add('on'); b.textContent = '✓'; b.title = T('Nos Meus Jogos', 'In My Games');
     CK.toast(T(`${j.title} adicionado aos Meus Jogos`, `${j.title} added to My Games`));

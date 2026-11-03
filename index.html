@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0f1117">
+<link rel="icon" href="imagens/logo/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="imagens/logo/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="imagens/logo/apple-touch-icon.png">
 <title>Checkpoint Digital — Meus Jogos, conquistas e notícias de cada jogo</title>
 <!--SEO-->
 <meta name="description" content="Monte sua coleção de jogos, acompanhe o progresso das conquistas e troféus e veja as notícias de cada jogo em um só lugar.">
@@ -21,9 +24,9 @@
 <meta name="twitter:description" content="Monte sua coleção de jogos, acompanhe o progresso das conquistas e troféus e veja as notícias de cada jogo em um só lugar.">
 <meta name="twitter:image" content="https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Checkpoint Digital", "url": "https://opittas.github.io/Checkpoint-Digital/", "inLanguage": "pt-BR"}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Checkpoint Digital", "url": "https://opittas.github.io/Checkpoint-Digital/", "logo": "https://opittas.github.io/Checkpoint-Digital/imagens/og-padrao.jpg"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Checkpoint Digital", "url": "https://opittas.github.io/Checkpoint-Digital/", "logo": "https://opittas.github.io/Checkpoint-Digital/imagens/logo/checkpoint-icon-512.png"}</script>
 <!--/SEO-->
-<link rel="stylesheet" href="shared.css?v=23dc22a7">
+<link rel="stylesheet" href="shared.css?v=6374b7a0">
 <link rel="stylesheet" href="conquistas-app.css?v=dd885f9a">
 <style>
   .mj-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 18px; }
@@ -112,8 +115,8 @@
 
 <footer id="site-footer"></footer>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="shared.js?v=ea914b8a"></script>
-<script src="conquistas-app.js?v=4b2aa5af"></script>
+<script src="shared.js?v=ccbbc516"></script>
+<script src="conquistas-app.js?v=ed82f2bc"></script>
 <script src="auth.js?v=2cd7afc5"></script>
 <script>
   renderHeader('mj');
@@ -151,7 +154,7 @@
     const jogando = m.filter(j => lib[j.id].status === 'jogando').length;
     document.getElementById('stats').innerHTML = [
       [m.length, T('Jogos na coleção', 'Games in collection')], [jogando, T('Jogando agora', 'Playing now')],
-      [plat + ' 🏆', T('Platinados / 100%', 'Platinum / 100%')], [marcadas, T('Conquistas marcadas', 'Achievements marked')],
+      [plat + ' ' + ckFlag(), T('Platinados / 100%', 'Platinum / 100%')], [marcadas, T('Conquistas marcadas', 'Achievements marked')],
     ].map(([b, s]) => `<div class="ck-stat"><b>${b}</b><span>${s}</span></div>`).join('');
     const logado = CK_AUTH.usuario();
     document.getElementById('actions').innerHTML = `

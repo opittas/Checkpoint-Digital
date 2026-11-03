@@ -45,7 +45,7 @@ const CK = (function () {
   const STATUS = {
     jogando:   ['Jogando', 'Playing', '🎮'],
     zerado:    ['Zerado', 'Beaten', '✅'],
-    platinado: ['Platinado / 100%', 'Platinum / 100%', '🏆'],
+    platinado: ['Platinado / 100%', 'Platinum / 100%', '🏁'],  // texto puro (vai em <option>); no HTML use ckFlag()
     pausado:   ['Pausado', 'Paused', '⏸️'],
     quero:     ['Quero jogar', 'Want to play', '⭐'],
   };

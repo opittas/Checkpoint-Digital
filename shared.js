@@ -208,6 +208,14 @@ function newsCardHTML(a, site, opts) {
 
 // ── Header HTML compartilhado ──
 // base: prefixo para os hrefs (ex: '../' quando em subpastas). Padrão: ''
+// ── Logo do site: bandeira pixel art (também é o símbolo de platina / 100%) ──
+// Uso: ckFlag() → <svg> inline que acompanha o tamanho da fonte; ckFlag('extra-classe') para estilizar.
+function ckFlag(cls, titulo) {
+  return `<svg class="ck-flag${cls ? ' ' + cls : ''}" viewBox="3 2 10 12" shape-rendering="crispEdges" ${titulo ? `role="img" aria-label="${titulo}"><title>${titulo}</title>` : 'aria-hidden="true">'}`
+    + '<path class="ck-flag-pole" d="M4 2h1v11h-1z"/><path class="ck-flag-base" d="M3 13h3v1h-3z"/>'
+    + '<path fill="#80aef9" d="M6 2h2v1h-2zM12 2h1v1h-1z"/><path fill="#3b82f6" d="M5 3h4v1h-4zM11 3h2v1h-2zM5 4h8v1h-8zM5 5h1v1h-1zM8 5h4v1h-4zM9 6h2v1h-2z"/><path fill="#295bac" d="M6 5h2v1h-2zM12 5h1v1h-1zM5 6h1v1h-1zM8 6h1v1h-1zM11 6h1v1h-1zM9 7h2v1h-2z"/></svg>';
+}
+
 function renderHeader(activePage, base) {
   base = base || '';
   const lang = getLang();
@@ -253,7 +261,7 @@ function renderHeader(activePage, base) {
 
   document.getElementById('site-header').innerHTML = `
     <div class="header-inner">
-      <a class="logo" href="${base}index.html">Checkpoint<span> Digital</span></a>
+      <a class="logo" href="${base}index.html">${ckFlag('logo-flag')}Checkpoint<span> Digital</span></a>
       <nav class="main-nav">${nav}</nav>
       <div class="header-controls">
         ${accountBtn}
@@ -301,7 +309,7 @@ function renderFooter(base) {
         site.plataformas.map(p => [`conquistas.html?plat=${encodeURIComponent(p.id)}`, p.nome]));
     el.innerHTML = `
     <div class="footer-inner">
-      <div class="footer-logo">Checkpoint<span> Digital</span></div>
+      <div class="footer-logo">${ckFlag('logo-flag')}Checkpoint<span> Digital</span></div>
       <div class="footer-tagline">${escHTML(site.rodape.slogan[lang])}</div>
       <div class="footer-grid footer-grid-2">${cols}</div>
       <div class="footer-bottom">
@@ -310,6 +318,6 @@ function renderFooter(base) {
       </div>
     </div>`;
   }).catch(() => {
-    el.innerHTML = `<div class="footer-inner"><div class="footer-logo">Checkpoint<span> Digital</span></div></div>`;
+    el.innerHTML = `<div class="footer-inner"><div class="footer-logo">${ckFlag('logo-flag')}Checkpoint<span> Digital</span></div></div>`;
   });
 }

@@ -106,6 +106,12 @@ body {
 }
 .logo span { color: var(--ps); }
 
+/* Bandeira pixel art: logo do site e símbolo de platina / 100% */
+.ck-flag { display: inline-block; width: .84em; height: 1em; vertical-align: -0.14em; flex-shrink: 0; }
+.ck-flag-pole { fill: currentColor; }
+.ck-flag-base { fill: #7e8188; }
+.logo .logo-flag, .footer-logo .logo-flag { width: 1.1em; height: 1.32em; margin-right: 7px; vertical-align: -0.3em; }
+
 .main-nav { display: flex; align-items: center; gap: 2px; flex: 1; }
 .nav-btn {
   border: none;

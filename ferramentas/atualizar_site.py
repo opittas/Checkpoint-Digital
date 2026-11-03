@@ -525,7 +525,7 @@ def gerar_paginas():
         "index.html": _ld([{"@context": "https://schema.org", "@type": "WebSite", "name": "Checkpoint Digital",
                             "url": SITE_URL, "inLanguage": "pt-BR"},
                            {"@context": "https://schema.org", "@type": "Organization", "name": "Checkpoint Digital",
-                            "url": SITE_URL, "logo": _abs(None)}]),
+                            "url": SITE_URL, "logo": SITE_URL + "imagens/logo/checkpoint-icon-512.png"}]),
         "conquistas.html": _ld([{"@context": "https://schema.org", "@type": "CollectionPage",
                                  "name": "Guias de Conquistas e Troféus", "url": SITE_URL + "conquistas.html",
                                  "inLanguage": "pt-BR",

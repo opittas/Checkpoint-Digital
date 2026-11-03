@@ -180,7 +180,7 @@
 
 <footer id="site-footer"></footer>
 <script>window.ARTIGO_ID = "nin-switch2-zelda-40-anos-esgotado";</script>
-<script src="shared.js?v=ccbbc516"></script>
+<script src="shared.js?v=a1093de0"></script>
 <script>
   renderHeader('');
   renderFooter();
@@ -227,10 +227,10 @@
       if (!art) { showError(isEN ? 'Article not found.' : 'Artigo não encontrado.'); return; }
 
       SITE = await loadSite();
-      const pInfo = SITE.porId[art.platform] || { emoji: '📰', nome: isEN ? 'News' : 'Notícias', pagina: 'index.html' };
+      const pInfo = SITE.porId[art.platform] || { emoji: '📰', nome: isEN ? 'News' : 'Notícias', pagina: './' };
       const platRaw = { emoji: pInfo.emoji, labelPT: pInfo.nome, labelEN: pInfo.nome, cls: BADGE[art.platform] || 'badge-steam' };
       const platLabel = isEN ? platRaw.labelEN : platRaw.labelPT;
-      const backPage = pInfo.pagina || 'index.html';
+      const backPage = pInfo.pagina || './';
 
       // Seleciona idioma
       const title  = (isEN && art.title_en)   ? art.title_en   : art.title;
@@ -277,7 +277,7 @@
       const citados = jogosDaNoticia(art, jogos);
       const back = document.querySelector('.article-back');
       if (back) {
-        back.href = citados.length ? `conquistas/${encodeURIComponent(citados[0].id)}.html` : 'index.html';
+        back.href = citados.length ? `conquistas/${encodeURIComponent(citados[0].id)}.html` : './';
         back.textContent = citados.length ? `← ${citados[0].title}` : (isEN ? '← My Games' : '← Meus Jogos');
       }
       if (!citados.length) return;
@@ -309,7 +309,7 @@
       <div style="text-align:center;padding:120px 24px;color:var(--text3)">
         <div style="font-size:48px;margin-bottom:16px">😕</div>
         <div style="font-size:18px;font-weight:700;color:var(--text);margin-bottom:8px">${msg}</div>
-        <a href="index.html" style="color:#7c3aed;font-weight:600">${backLabel}</a>
+        <a href="./" style="color:#7c3aed;font-weight:600">${backLabel}</a>
       </div>`;
   }
 

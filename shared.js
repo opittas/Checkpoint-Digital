@@ -223,7 +223,7 @@ function renderHeader(activePage, base) {
 
   // Notícias não têm aba própria: aparecem dentro da página de cada jogo
   const pages = [
-    { id: 'mj',    labelPT: '⭐ Meus Jogos',      labelEN: '⭐ My Games',      href: base + 'index.html',       cls: 'active-ach' },
+    { id: 'mj',    labelPT: '⭐ Meus Jogos',      labelEN: '⭐ My Games',      href: base || './',       cls: 'active-ach' },
     { id: 'ach',   labelPT: '🎮 Explorar jogos',  labelEN: '🎮 Explore games', href: base + 'conquistas.html',  cls: 'active-ach' },
   ];
 
@@ -261,7 +261,7 @@ function renderHeader(activePage, base) {
 
   document.getElementById('site-header').innerHTML = `
     <div class="header-inner">
-      <a class="logo" href="${base}index.html">${ckFlag('logo-flag')}Checkpoint<span> Digital</span></a>
+      <a class="logo" href="${base || './'}">${ckFlag('logo-flag')}Checkpoint<span> Digital</span></a>
       <nav class="main-nav">${nav}</nav>
       <div class="header-controls">
         ${accountBtn}
@@ -302,7 +302,7 @@ function renderFooter(base) {
           <ul class="footer-links">${links.map(([href, txt]) => `<li><a href="${base}${href}">${escHTML(txt)}</a></li>`).join('')}</ul>
         </div>`;
     const cols = col(EN ? 'Site' : 'Site', [
-        ['index.html', EN ? 'My Games' : 'Meus Jogos'],
+        ['./', EN ? 'My Games' : 'Meus Jogos'],
         ['conquistas.html', EN ? 'Explore games' : 'Explorar jogos'],
         ['conta.html', EN ? 'My account' : 'Minha conta'],
       ]) + col(EN ? 'Platforms' : 'Plataformas',

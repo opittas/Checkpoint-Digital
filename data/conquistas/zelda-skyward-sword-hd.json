@@ -1,0 +1,104 @@
+{
+ "id": "zelda-skyward-sword-hd",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "A Lenda Começa",
+   "d": "Derrote o Demise e termine a história.",
+   "n_en": "The Legend Begins",
+   "d_en": "Defeat Demise and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "chamas",
+   "g": 0,
+   "n": "Chamas Sagradas",
+   "d": "Fortaleça a espada nas 3 Chamas Sagradas.",
+   "n_en": "Sacred Flames",
+   "d_en": "Temper the sword in all three Sacred Flames.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  },
+  {
+   "k": "provas",
+   "g": 0,
+   "n": "Provas do Silêncio",
+   "d": "Termine as 4 Provas no Reino do Silêncio.",
+   "n_en": "Silent Realm",
+   "d_en": "Clear all four Silent Realm trials.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 4
+  },
+  {
+   "k": "cubos",
+   "g": 0,
+   "n": "Cubos da Deusa",
+   "d": "Ative todos os Cubos da Deusa e abra os baús no céu.",
+   "n_en": "Goddess Cubes",
+   "d_en": "Activate every Goddess Cube and open its chest in the sky.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "gratidao",
+   "g": 0,
+   "n": "Cristais de Gratidão",
+   "d": "Junte os 80 Cristais de Gratidão.",
+   "n_en": "Gratitude Crystals",
+   "d_en": "Collect all 80 Gratitude Crystals.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 80
+  },
+  {
+   "k": "coracoes",
+   "g": 0,
+   "n": "Corações Cheios",
+   "d": "Junte todos os Pedaços de Coração.",
+   "n_en": "Full Hearts",
+   "d_en": "Collect every Piece of Heart.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "relampago",
+   "g": 0,
+   "n": "Rodada Relâmpago",
+   "d": "Vença os 8 chefes seguidos da Rodada Relâmpago.",
+   "n_en": "Lightning Round",
+   "d_en": "Beat eight bosses in a row in the Lightning Round.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "heroi",
+   "g": 0,
+   "n": "Modo Herói",
+   "d": "Termine o jogo no Modo Herói.",
+   "n_en": "Hero Mode",
+   "d_en": "Beat the game on Hero Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

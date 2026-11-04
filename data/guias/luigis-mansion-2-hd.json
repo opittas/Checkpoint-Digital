@@ -1,0 +1,65 @@
+{
+  "resumo": "Luigi's Mansion 2 HD não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, 5 mansões, joias, Boos, 3 estrelas em todas as missões e o ScareScraper.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "As 5 mansões."
+    },
+    {
+      "titulo": "2. Coletáveis",
+      "texto": "Joias e Boos."
+    },
+    {
+      "titulo": "3. Notas",
+      "texto": "3 estrelas."
+    }
+  ],
+  "avisos": [
+    "Os Boos de cada missão só aparecem depois de terminar a missão uma vez."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada mansão devolve um pedaço da Lua Negra; o Rei Boo está na última."
+        ]
+      }
+    },
+    "mansoes": {
+      "guia": {
+        "passos": [
+          "As mansões abrem em ordem pelo E. Gadd."
+        ]
+      }
+    },
+    "joias": {
+      "guia": {
+        "dicas": [
+          "Cada mansão tem várias joias; a tela de seleção mostra quantas faltam."
+        ]
+      }
+    },
+    "boos": {
+      "guia": {
+        "passos": [
+          "Use o Revelador (luz escura) no que parecer suspeito."
+        ]
+      }
+    },
+    "estrelas": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "A nota depende do tempo, do dano sofrido e do dinheiro juntado."
+        ]
+      }
+    },
+    "torre": {
+      "guia": {
+        "passos": [
+          "Modo cooperativo local ou online."
+        ]
+      }
+    }
+  }
+}

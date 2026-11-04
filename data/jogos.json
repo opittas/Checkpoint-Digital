@@ -6645,5 +6645,321 @@
       "tes vi",
       "tes 6"
     ]
+  },
+  {
+    "id": "zelda-skyward-sword-hd",
+    "title": "The Legend of Zelda: Skyward Sword HD",
+    "developer": "Nintendo EPD · Tantalus",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "35–60h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/zelda-skyward-sword-hd.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "skyward sword"
+    ]
+  },
+  {
+    "id": "xenoblade-2",
+    "title": "Xenoblade Chronicles 2",
+    "developer": "Monolith Soft",
+    "year": 2017,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "80–150h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/xenoblade-2.jpg",
+    "generos": [
+      "RPG",
+      "Aventura"
+    ],
+    "palavras": [
+      "xenoblade chronicles 2"
+    ]
+  },
+  {
+    "id": "fire-emblem-engage",
+    "title": "Fire Emblem Engage",
+    "developer": "Intelligent Systems",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "50–80h",
+    "playthroughs": "1–2",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/fire-emblem-engage.jpg",
+    "generos": [
+      "RPG",
+      "Estratégia"
+    ],
+    "palavras": [
+      "fire emblem engage"
+    ]
+  },
+  {
+    "id": "dk-tropical-freeze",
+    "title": "Donkey Kong Country: Tropical Freeze",
+    "developer": "Retro Studios",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 7,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/dk-tropical-freeze.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "tropical freeze"
+    ]
+  },
+  {
+    "id": "bayonetta-3",
+    "title": "Bayonetta 3",
+    "developer": "PlatinumGames",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 7,
+    "hours": "15–40h",
+    "playthroughs": "2–3",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/bayonetta-3.jpg",
+    "generos": [
+      "Ação",
+      "Hack and slash"
+    ],
+    "palavras": [
+      "bayonetta"
+    ]
+  },
+  {
+    "id": "astral-chain",
+    "title": "Astral Chain",
+    "developer": "PlatinumGames",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "20–60h",
+    "playthroughs": "2",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/astral-chain.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "astral chain"
+    ]
+  },
+  {
+    "id": "captain-toad",
+    "title": "Captain Toad: Treasure Tracker",
+    "developer": "Nintendo EPD",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "10–20h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/captain-toad.jpg",
+    "generos": [
+      "Quebra-cabeça",
+      "Plataforma"
+    ],
+    "palavras": [
+      "captain toad"
+    ]
+  },
+  {
+    "id": "hyrule-warriors-aoc",
+    "title": "Hyrule Warriors: Age of Calamity",
+    "developer": "Koei Tecmo · Omega Force",
+    "year": 2020,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "30–60h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/hyrule-warriors-aoc.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "age of calamity"
+    ]
+  },
+  {
+    "id": "mario-party-jamboree",
+    "title": "Super Mario Party Jamboree",
+    "developer": "Nintendo Cube",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "20–40h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-party-jamboree.jpg",
+    "generos": [
+      "Party"
+    ],
+    "palavras": [
+      "mario party"
+    ]
+  },
+  {
+    "id": "luigis-mansion-2-hd",
+    "title": "Luigi's Mansion 2 HD",
+    "developer": "Next Level Games · Tantalus",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–25h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/luigis-mansion-2-hd.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "luigi's mansion 2"
+    ]
+  },
+  {
+    "id": "zelda-ocarina-of-time",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "developer": "Nintendo",
+    "year": 2026,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/zelda-ocarina-of-time.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "ocarina of time"
+    ]
   }
 ]

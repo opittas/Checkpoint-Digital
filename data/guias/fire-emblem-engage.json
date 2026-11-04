@@ -1,0 +1,88 @@
+{
+  "resumo": "Fire Emblem Engage não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, 12 Emblemas, Difícil Clássico, Maddening, recrutamento, Anel do Pacto, vínculos e a DLC Fell Xenologue numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os capítulos principais."
+    },
+    {
+      "titulo": "2. Somniel",
+      "texto": "Vínculos, suportes e treino."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Maddening e Clássico."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Fell Xenologue (aba própria)."
+    }
+  ],
+  "avisos": [
+    "Os Emblemas extras do Passe de Expansão não contam nos 12 anéis do jogo base."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Reúna os anéis ao longo dos capítulos e enfrente o Sombron no fim."
+        ]
+      }
+    },
+    "aneis": {
+      "guia": {
+        "passos": [
+          "Os anéis voltam ao longo da história; alguns são do Passe de Expansão e não contam aqui."
+        ]
+      }
+    },
+    "dificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "No Clássico, quem cai não volta. Use o Divine Pulse (Relógio do Tempo) para voltar turnos."
+        ]
+      }
+    },
+    "maddening": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Use bastante as Escaramuças e o Engage na hora certa: cada um dura 3 turnos."
+        ]
+      }
+    },
+    "recrutas": {
+      "missavel": true,
+      "guia": {
+        "atencao": [
+          "Alguns aliados só entram se você falar com eles na batalha com o personagem certo."
+        ]
+      }
+    },
+    "suporte_s": {
+      "guia": {
+        "passos": [
+          "Abre perto do fim; precisa do Suporte A antes."
+        ]
+      }
+    },
+    "vinculo": {
+      "guia": {
+        "passos": [
+          "Lute com o anel equipado e use os Polimentos de Anel no Somniel."
+        ]
+      }
+    },
+    "fx_historia": {
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ],
+        "passos": [
+          "Abre depois do capítulo 10, com o portal no Somniel."
+        ]
+      }
+    }
+  }
+}

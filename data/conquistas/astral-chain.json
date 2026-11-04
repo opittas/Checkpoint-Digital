@@ -1,0 +1,91 @@
+{
+ "id": "astral-chain",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Neuron",
+   "d": "Termine os 11 Arquivos da história.",
+   "n_en": "Neuron",
+   "d_en": "Finish all 11 story Files.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 11
+  },
+  {
+   "k": "casos",
+   "g": 0,
+   "n": "Casos Vermelhos",
+   "d": "Resolva todos os Casos Vermelhos.",
+   "n_en": "Red Cases",
+   "d_en": "Solve every Red Case.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "gatos",
+   "g": 0,
+   "n": "Gatos Resgatados",
+   "d": "Resgate todos os gatos.",
+   "n_en": "Cats Rescued",
+   "d_en": "Rescue every cat.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "splus",
+   "g": 0,
+   "n": "Nota S+",
+   "d": "Ganhe S+ em todos os Arquivos.",
+   "n_en": "S+ Rank",
+   "d_en": "Earn S+ on every File.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ultimate",
+   "g": 0,
+   "n": "Ultimate",
+   "d": "Termine o jogo no Pt Ultimate.",
+   "n_en": "Ultimate",
+   "d_en": "Beat the game on Pt Ultimate.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "hermit",
+   "g": 0,
+   "n": "Ordens do Hermit",
+   "d": "Conclua todas as Ordens do Hermit.",
+   "n_en": "Hermit Orders",
+   "d_en": "Complete every Hermit order.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "legions",
+   "g": 0,
+   "n": "Legions no Máximo",
+   "d": "Leve todos os Legions ao nível máximo.",
+   "n_en": "Maxed Legions",
+   "d_en": "Max out every Legion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

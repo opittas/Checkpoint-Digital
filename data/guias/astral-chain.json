@@ -1,0 +1,80 @@
+{
+  "resumo": "Astral Chain não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: os 11 Arquivos, Casos Vermelhos, gatos, S+, Pt Ultimate, Ordens do Hermit e Legions no máximo.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 11 Arquivos."
+    },
+    {
+      "titulo": "2. Casos",
+      "texto": "Vermelhos e gatos."
+    },
+    {
+      "titulo": "3. Pós-jogo",
+      "texto": "Ordens do Hermit."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "S+ e Pt Ultimate."
+    }
+  ],
+  "avisos": [
+    "Volte aos Arquivos com todos os Legions para os casos que pedem habilidades novas."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada Arquivo tem uma parte de investigação e outra de combate; os Legions novos chegam pela história."
+        ]
+      }
+    },
+    "casos": {
+      "guia": {
+        "passos": [
+          "Aparecem com ícone vermelho em cada Arquivo; alguns só abrem com um Legion novo."
+        ]
+      }
+    },
+    "gatos": {
+      "guia": {
+        "dicas": [
+          "Use o Legion de Fera (Beast) para farejar os gatos escondidos."
+        ]
+      }
+    },
+    "splus": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Use os ataques sincronizados e evite levar dano."
+        ]
+      }
+    },
+    "ultimate": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar o jogo."
+        ]
+      }
+    },
+    "hermit": {
+      "guia": {
+        "passos": [
+          "Abrem depois do fim, no menu do Arquivo 12."
+        ]
+      }
+    },
+    "legions": {
+      "guia": {
+        "passos": [
+          "Use os Gene Codes nos menus de habilidades de cada Legion."
+        ],
+        "dicas": [
+          "Casos Vermelhos e Ordens do Hermit dão bastante Gene Code."
+        ]
+      }
+    }
+  }
+}

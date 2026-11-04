@@ -1,0 +1,78 @@
+{
+  "resumo": "Bayonetta 3 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Lágrimas de Sangue, Provas das Bruxas, Platina Pura, Infinite Climax, demônios e versos secretos.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Normal, explorando."
+    },
+    {
+      "titulo": "2. Coletáveis",
+      "texto": "Lágrimas e versos."
+    },
+    {
+      "titulo": "3. Platina",
+      "texto": "Volte nos capítulos."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Difícil e Infinite Climax."
+    }
+  ],
+  "avisos": [
+    "Usar itens ou o modo fácil baixa a nota: para Platina Pura, jogue sem eles."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga os capítulos em ordem; os capítulos da Viola e da Jeanne fazem parte da história."
+        ]
+      }
+    },
+    "lagrimas": {
+      "guia": {
+        "passos": [
+          "São animais (corvos, gatos e sapos) escondidos nos capítulos; pegue-os para registrar."
+        ]
+      }
+    },
+    "provas": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abrem no menu depois de terminar a história."
+        ]
+      }
+    },
+    "platina": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Esquive no último instante (Witch Time) e não use itens: eles baixam a nota."
+        ]
+      }
+    },
+    "infinito": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar no Difícil."
+        ]
+      }
+    },
+    "demonios": {
+      "guia": {
+        "passos": [
+          "Os demônios vêm da história e das Provas das Bruxas; o menu mostra os que faltam."
+        ]
+      }
+    },
+    "versos": {
+      "guia": {
+        "passos": [
+          "O menu do capítulo mostra os versos que faltam (marcados com ???)."
+        ]
+      }
+    }
+  }
+}

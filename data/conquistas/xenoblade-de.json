@@ -1,0 +1,90 @@
+{
+ "id": "xenoblade-de",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Visão do Futuro",
+   "d": "Termine a história principal.",
+   "n_en": "Vision of the Future",
+   "d_en": "Finish the main story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "future",
+   "g": 0,
+   "n": "Future Connected",
+   "d": "Termine o epílogo Future Connected.",
+   "n_en": "Future Connected",
+   "d_en": "Finish the Future Connected epilogue.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "colonia",
+   "g": 0,
+   "n": "Colônia 6",
+   "d": "Reconstrua a Colônia 6 ao máximo.",
+   "n_en": "Colony 6",
+   "d_en": "Fully rebuild Colony 6.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "afinidade",
+   "g": 0,
+   "n": "Mapa de Afinidade",
+   "d": "Chegue ao máximo em todo o Mapa de Afinidade.",
+   "n_en": "Affinity Chart",
+   "d_en": "Max out the Affinity Chart.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "unicos",
+   "g": 0,
+   "n": "Caçador de Únicos",
+   "d": "Derrote todos os Monstros Únicos.",
+   "n_en": "Unique Hunter",
+   "d_en": "Defeat every Unique Monster.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "colecao",
+   "g": 0,
+   "n": "Collectopaedia",
+   "d": "Complete o Collectopaedia.",
+   "n_en": "Collectopaedia",
+   "d_en": "Complete the Collectopaedia.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tempo",
+   "g": 0,
+   "n": "Ataque Cronometrado",
+   "d": "Ganhe ouro em todos os desafios do Time Attack.",
+   "n_en": "Time Attack",
+   "d_en": "Earn gold in every Time Attack challenge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

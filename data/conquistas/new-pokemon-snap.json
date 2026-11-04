@@ -1,0 +1,79 @@
+{
+ "id": "new-pokemon-snap",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Fenômeno Illumina",
+   "d": "Termine a história do Professor Mirror.",
+   "n_en": "Illumina Phenomenon",
+   "d_en": "Finish Professor Mirror's story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "photodex",
+   "g": 0,
+   "n": "Fotodex Completa",
+   "d": "Fotografe todos os Pokémon da Fotodex.",
+   "n_en": "Full Photodex",
+   "d_en": "Photograph every Pokémon in the Photodex.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas4",
+   "g": 0,
+   "n": "Quatro Estrelas",
+   "d": "Tire uma foto de cada Pokémon em cada nível de estrela (1 a 4).",
+   "n_en": "Four Stars",
+   "d_en": "Get a 1-to-4-star photo of every Pokémon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pedidos",
+   "g": 0,
+   "n": "Pedidos Cumpridos",
+   "d": "Cumpra todos os pedidos.",
+   "n_en": "Requests",
+   "d_en": "Complete every request.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pesquisa",
+   "g": 0,
+   "n": "Nível Máximo",
+   "d": "Leve todas as rotas ao nível de pesquisa máximo.",
+   "n_en": "Max Research",
+   "d_en": "Max out research level on every course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "illumina",
+   "g": 0,
+   "n": "Pokémon Illumina",
+   "d": "Fotografe todos os Pokémon Illumina.",
+   "n_en": "Illumina Pokémon",
+   "d_en": "Photograph every Illumina Pokémon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

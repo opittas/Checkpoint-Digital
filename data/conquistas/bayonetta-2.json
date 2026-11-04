@@ -1,0 +1,79 @@
+{
+ "id": "bayonetta-2",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Resgate da Jeanne",
+   "d": "Termine a história.",
+   "n_en": "Jeanne Rescued",
+   "d_en": "Finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "alfheim",
+   "g": 0,
+   "n": "Portais de Alfheim",
+   "d": "Termine todos os desafios de Alfheim.",
+   "n_en": "Alfheim Portals",
+   "d_en": "Clear every Alfheim challenge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "platina",
+   "g": 0,
+   "n": "Platina Pura",
+   "d": "Ganhe Platina Pura em todos os capítulos.",
+   "n_en": "Pure Platinum",
+   "d_en": "Earn Pure Platinum on every chapter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "infinito",
+   "g": 0,
+   "n": "Clímax Infinito",
+   "d": "Termine o jogo no Infinite Climax.",
+   "n_en": "Infinite Climax",
+   "d_en": "Beat the game on Infinite Climax.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tag",
+   "g": 0,
+   "n": "Tag Climax",
+   "d": "Vença todos os versos do Tag Climax.",
+   "n_en": "Tag Climax",
+   "d_en": "Clear every Tag Climax verse.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "perolas",
+   "g": 0,
+   "n": "Pérolas da Lua",
+   "d": "Junte todas as Pérolas da Lua e Corações de Bruxa.",
+   "n_en": "Moon Pearls",
+   "d_en": "Collect every Moon Pearl and Witch Heart.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

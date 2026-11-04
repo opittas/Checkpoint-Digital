@@ -6961,5 +6961,576 @@
     "palavras": [
       "ocarina of time"
     ]
+  },
+  {
+    "id": "super-mario-galaxy",
+    "title": "Super Mario Galaxy",
+    "developer": "Nintendo",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "20–50h",
+    "playthroughs": "2",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/super-mario-galaxy.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "mario galaxy"
+    ]
+  },
+  {
+    "id": "super-mario-galaxy-2",
+    "title": "Super Mario Galaxy 2",
+    "developer": "Nintendo",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "25–60h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/super-mario-galaxy-2.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "mario galaxy 2"
+    ]
+  },
+  {
+    "id": "super-mario-maker-2",
+    "title": "Super Mario Maker 2",
+    "developer": "Nintendo EPD",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "30h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/super-mario-maker-2.jpg",
+    "generos": [
+      "Plataforma",
+      "Criação"
+    ],
+    "palavras": [
+      "mario maker"
+    ]
+  },
+  {
+    "id": "paper-mario-origami-king",
+    "title": "Paper Mario: The Origami King",
+    "developer": "Intelligent Systems",
+    "year": 2020,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "30–50h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/paper-mario-origami-king.jpg",
+    "generos": [
+      "RPG",
+      "Aventura"
+    ],
+    "palavras": [
+      "origami king"
+    ]
+  },
+  {
+    "id": "pokemon-sword",
+    "title": "Pokémon Sword",
+    "developer": "Game Freak",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "40–100h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-sword.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "pokémon sword",
+      "pokemon sword"
+    ]
+  },
+  {
+    "id": "pokemon-lets-go-pikachu",
+    "title": "Pokémon: Let's Go, Pikachu!",
+    "developer": "Game Freak",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "25–50h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-lets-go-pikachu.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "let's go"
+    ]
+  },
+  {
+    "id": "pokemon-brilliant-diamond",
+    "title": "Pokémon Brilliant Diamond",
+    "developer": "ILCA",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "35–80h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-brilliant-diamond.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "brilliant diamond"
+    ]
+  },
+  {
+    "id": "new-pokemon-snap",
+    "title": "New Pokémon Snap",
+    "developer": "Bandai Namco Studios",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "20–40h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/new-pokemon-snap.jpg",
+    "generos": [
+      "Fotografia",
+      "Aventura"
+    ],
+    "palavras": [
+      "pokémon snap",
+      "pokemon snap"
+    ]
+  },
+  {
+    "id": "splatoon-2",
+    "title": "Splatoon 2",
+    "developer": "Nintendo EPD",
+    "year": 2017,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "60h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/splatoon-2.jpg",
+    "generos": [
+      "Tiro",
+      "Ação"
+    ],
+    "palavras": [
+      "splatoon 2"
+    ]
+  },
+  {
+    "id": "xenoblade-de",
+    "title": "Xenoblade Chronicles Definitive Edition",
+    "developer": "Monolith Soft",
+    "year": 2020,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "80–150h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/xenoblade-de.jpg",
+    "generos": [
+      "RPG",
+      "Aventura"
+    ],
+    "palavras": [
+      "xenoblade chronicles definitive"
+    ]
+  },
+  {
+    "id": "xenoblade-x-de",
+    "title": "Xenoblade Chronicles X: Definitive Edition",
+    "developer": "Monolith Soft",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "100–200h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/xenoblade-x-de.jpg",
+    "generos": [
+      "RPG",
+      "Mundo aberto"
+    ],
+    "palavras": [
+      "xenoblade chronicles x"
+    ]
+  },
+  {
+    "id": "kirby-star-allies",
+    "title": "Kirby Star Allies",
+    "developer": "HAL Laboratory",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "10–25h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/kirby-star-allies.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "star allies"
+    ]
+  },
+  {
+    "id": "yoshis-crafted-world",
+    "title": "Yoshi's Crafted World",
+    "developer": "Good-Feel",
+    "year": 2019,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/yoshis-crafted-world.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "yoshi"
+    ]
+  },
+  {
+    "id": "mario-party-superstars",
+    "title": "Mario Party Superstars",
+    "developer": "NDcube",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "20–40h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-party-superstars.jpg",
+    "generos": [
+      "Party"
+    ],
+    "palavras": [
+      "mario party superstars"
+    ]
+  },
+  {
+    "id": "princess-peach-showtime",
+    "title": "Princess Peach: Showtime!",
+    "developer": "Good-Feel",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "10–20h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/princess-peach-showtime.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "peach showtime"
+    ]
+  },
+  {
+    "id": "dk-country-returns-hd",
+    "title": "Donkey Kong Country Returns HD",
+    "developer": "Forever Entertainment · Retro Studios",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/dk-country-returns-hd.jpg",
+    "generos": [
+      "Plataforma"
+    ],
+    "palavras": [
+      "donkey kong country returns"
+    ]
+  },
+  {
+    "id": "pikmin-3-deluxe",
+    "title": "Pikmin 3 Deluxe",
+    "developer": "Nintendo EPD · Eighting",
+    "year": 2020,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pikmin-3-deluxe.jpg",
+    "generos": [
+      "Estratégia"
+    ],
+    "palavras": [
+      "pikmin 3"
+    ]
+  },
+  {
+    "id": "fe-three-hopes",
+    "title": "Fire Emblem Warriors: Three Hopes",
+    "developer": "Koei Tecmo · Omega Force",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "60–120h",
+    "playthroughs": "3",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/fe-three-hopes.jpg",
+    "generos": [
+      "Ação",
+      "Estratégia"
+    ],
+    "palavras": [
+      "three hopes"
+    ]
+  },
+  {
+    "id": "bayonetta-2",
+    "title": "Bayonetta 2",
+    "developer": "PlatinumGames",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 7,
+    "hours": "10–35h",
+    "playthroughs": "2–3",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/bayonetta-2.jpg",
+    "generos": [
+      "Ação",
+      "Hack and slash"
+    ],
+    "palavras": [
+      "bayonetta 2"
+    ]
+  },
+  {
+    "id": "hyrule-warriors-de",
+    "title": "Hyrule Warriors: Definitive Edition",
+    "developer": "Koei Tecmo · Omega Force",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "60–200h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/hyrule-warriors-de.jpg",
+    "generos": [
+      "Ação"
+    ],
+    "palavras": [
+      "hyrule warriors definitive"
+    ]
   }
 ]

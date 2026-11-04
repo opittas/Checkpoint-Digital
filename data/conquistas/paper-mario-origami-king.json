@@ -1,0 +1,80 @@
+{
+ "id": "paper-mario-origami-king",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Rei Desdobrado",
+   "d": "Remova as 5 serpentinas e derrote o Rei Olly.",
+   "n_en": "King Unfolded",
+   "d_en": "Remove the five streamers and defeat King Olly.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "toads",
+   "g": 0,
+   "n": "Toads Escondidos",
+   "d": "Resgate todos os Toads escondidos.",
+   "n_en": "Hidden Toads",
+   "d_en": "Rescue every hidden Toad.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "buracos",
+   "g": 0,
+   "n": "Buracos Tapados",
+   "d": "Tape todos os buracos com confete.",
+   "n_en": "Holes Patched",
+   "d_en": "Patch every Not-Bottomless Hole.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tesouros",
+   "g": 0,
+   "n": "Museu Completo",
+   "d": "Junte todos os tesouros e complete o Museu dos Toads.",
+   "n_en": "Full Museum",
+   "d_en": "Collect every treasure and fill the Toad Museum.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "blocos",
+   "g": 0,
+   "n": "Blocos ?",
+   "d": "Ache todos os Blocos ?.",
+   "n_en": "? Blocks",
+   "d_en": "Find every ? Block.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lab",
+   "g": 0,
+   "n": "Laboratório de Batalha",
+   "d": "Vença os desafios do Laboratório de Batalha.",
+   "n_en": "Battle Lab",
+   "d_en": "Clear the Battle Lab.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

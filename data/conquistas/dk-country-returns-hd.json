@@ -1,0 +1,68 @@
+{
+ "id": "dk-country-returns-hd",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Bananas de Volta",
+   "d": "Derrote o Tiki Tong e termine a história.",
+   "n_en": "Bananas Back",
+   "d_en": "Defeat Tiki Tong and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "kong",
+   "g": 0,
+   "n": "Letras K-O-N-G",
+   "d": "Junte as letras K-O-N-G de todas as fases.",
+   "n_en": "K-O-N-G Letters",
+   "d_en": "Collect the K-O-N-G letters in every level.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pecas",
+   "g": 0,
+   "n": "Quebra-cabeças",
+   "d": "Junte todas as peças de quebra-cabeça.",
+   "n_en": "Puzzle Pieces",
+   "d_en": "Collect every puzzle piece.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "templo",
+   "g": 0,
+   "n": "Templo Dourado",
+   "d": "Termine o mundo secreto Golden Temple.",
+   "n_en": "Golden Temple",
+   "d_en": "Clear the Golden Temple world.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tempo",
+   "g": 0,
+   "n": "Contra-Relógio Ouro",
+   "d": "Ganhe medalha de ouro no Contra-Relógio em todas as fases.",
+   "n_en": "Gold Time Attack",
+   "d_en": "Earn gold in Time Attack in every level.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

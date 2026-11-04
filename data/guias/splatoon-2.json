@@ -1,0 +1,84 @@
+{
+  "resumo": "Splatoon 2 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Modo Herói, armas de herói, Salmon Run, Rank X, nível 50 e a Octo Expansion numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. Modo Herói",
+      "texto": "Octo Canyon."
+    },
+    {
+      "titulo": "2. Online",
+      "texto": "Ranqueadas e Salmon Run."
+    },
+    {
+      "titulo": "3. DLC",
+      "texto": "Octo Expansion (aba própria)."
+    }
+  ],
+  "avisos": [
+    "As metas online precisam do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "heroi": {
+      "guia": {
+        "passos": [
+          "Resgate o Grande Peixe-Zap e a Callie; cada área tem um chefe."
+        ]
+      }
+    },
+    "heroi_armas": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "As armas de herói abrem com o Sheldon ao longo do modo."
+        ]
+      }
+    },
+    "salmon": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "passos": [
+          "Suba de nível no Salmon Run vencendo turnos; perder abaixa os pontos."
+        ],
+        "dicas": [
+          "Ajude a juntar Ovos Dourados e salve os colegas caídos."
+        ]
+      }
+    },
+    "rank_x": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "passos": [
+          "Suba do C- até o S+ 10 num modo ranqueado e depois vença as partidas de X."
+        ]
+      }
+    },
+    "nivel": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Sobe com experiência de batalhas online."
+        ]
+      }
+    },
+    "oe_historia": {
+      "guia": {
+        "requisitos": [
+          "DLC Octo Expansion (vendido à parte)."
+        ]
+      }
+    },
+    "oe_estacoes": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Cada estação tem um teste; termine para abrir as próximas no mapa do metrô."
+        ],
+        "dicas": [
+          "Se travar numa estação, peça ajuda ao Pearl e à Marina para pular (custa a nota)."
+        ]
+      }
+    }
+  }
+}

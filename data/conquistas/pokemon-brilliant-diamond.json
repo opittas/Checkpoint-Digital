@@ -1,0 +1,91 @@
+{
+ "id": "pokemon-brilliant-diamond",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "ginasios",
+   "g": 0,
+   "n": "Insígnias de Sinnoh",
+   "d": "Vença os 8 Líderes de Ginásio de Sinnoh.",
+   "n_en": "Sinnoh Badges",
+   "d_en": "Beat all eight Sinnoh Gym Leaders.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "campea",
+   "g": 0,
+   "n": "Vencendo a Cynthia",
+   "d": "Vença a Elite dos Quatro e a Cynthia.",
+   "n_en": "Beating Cynthia",
+   "d_en": "Beat the Elite Four and Cynthia.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dialga",
+   "g": 0,
+   "n": "Senhor do Tempo",
+   "d": "Capture o Dialga.",
+   "n_en": "Lord of Time",
+   "d_en": "Catch Dialga.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "nacional",
+   "g": 0,
+   "n": "Pokédex Nacional",
+   "d": "Complete a Pokédex Nacional.",
+   "n_en": "National Pokédex",
+   "d_en": "Complete the National Pokédex.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ramanas",
+   "g": 0,
+   "n": "Parque Ramanas",
+   "d": "Capture os lendários do Parque Ramanas.",
+   "n_en": "Ramanas Park",
+   "d_en": "Catch the Ramanas Park legendaries.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "torre",
+   "g": 0,
+   "n": "Torre de Batalha",
+   "d": "Vença o Palmer na Torre de Batalha.",
+   "n_en": "Battle Tower",
+   "d_en": "Beat Palmer in the Battle Tower.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "concurso",
+   "g": 0,
+   "n": "Superconcurso",
+   "d": "Ganhe o Rank Master em todos os Superconcursos.",
+   "n_en": "Super Contests",
+   "d_en": "Win Master Rank in every Super Contest.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

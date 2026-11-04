@@ -1856,5 +1856,140 @@
   "base": 6,
   "dlcs": {},
   "atualizado": null
+ },
+ "super-mario-galaxy": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "super-mario-galaxy-2": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "super-mario-maker-2": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "paper-mario-origami-king": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-sword": {
+  "total": 9,
+  "base": 6,
+  "dlcs": {
+   "Passe de Expansão (Isle of Armor + Crown Tundra)": [
+    "ioa_kubfu",
+    "ct_lendarios",
+    "ct_dynamax"
+   ]
+  },
+  "atualizado": null
+ },
+ "pokemon-lets-go-pikachu": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-brilliant-diamond": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "new-pokemon-snap": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "splatoon-2": {
+  "total": 7,
+  "base": 5,
+  "dlcs": {
+   "Octo Expansion": [
+    "oe_historia",
+    "oe_estacoes"
+   ]
+  },
+  "atualizado": null
+ },
+ "xenoblade-de": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "xenoblade-x-de": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "kirby-star-allies": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "yoshis-crafted-world": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "mario-party-superstars": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "princess-peach-showtime": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "dk-country-returns-hd": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pikmin-3-deluxe": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "fe-three-hopes": {
+  "total": 6,
+  "base": 5,
+  "dlcs": {
+   "Passe de Expansão": [
+    "dlc_lobos"
+   ]
+  },
+  "atualizado": null
+ },
+ "bayonetta-2": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "hyrule-warriors-de": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
  }
 }

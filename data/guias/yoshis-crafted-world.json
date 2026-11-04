@@ -1,0 +1,64 @@
+{
+  "resumo": "Yoshi's Crafted World não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Flores Sorridentes, moedas vermelhas, vida cheia, Poochy Pups e fantasias.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Junte as Joias."
+    },
+    {
+      "titulo": "2. Coletáveis",
+      "texto": "Flores e moedas."
+    },
+    {
+      "titulo": "3. Lado avesso",
+      "texto": "Poochy Pups."
+    }
+  ],
+  "avisos": [
+    "O Modo Suave (com asas) não muda as metas."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada região tem fases que devolvem uma Joia; o chefe da última região fecha a história."
+        ]
+      }
+    },
+    "flores": {
+      "guia": {
+        "passos": [
+          "Flores escondidas e por desafios (moedas, vida cheia, 100 moedas); a fase mostra quantas faltam."
+        ]
+      }
+    },
+    "vermelhas": {
+      "guia": {
+        "passos": [
+          "Moedas vermelhas parecem comuns; atire ovos em tudo."
+        ]
+      }
+    },
+    "vida": {
+      "guia": {
+        "passos": [
+          "Termine com os 20 corações (pétalas) cheios: coma melancias e evite dano no fim."
+        ]
+      }
+    },
+    "poochy": {
+      "guia": {
+        "passos": [
+          "O lado avesso abre depois de terminar a fase."
+        ]
+      }
+    },
+    "fantasias": {
+      "guia": {
+        "passos": [
+          "Use as moedas nas máquinas de cápsula do mapa."
+        ]
+      }
+    }
+  }
+}

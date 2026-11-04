@@ -1,0 +1,84 @@
+{
+  "resumo": "Pokémon Brilliant Diamond não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: ginásios, Cynthia, Dialga, Pokédex Nacional, Parque Ramanas, Torre de Batalha e Superconcursos.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Ginásios e Dialga."
+    },
+    {
+      "titulo": "2. Liga",
+      "texto": "Elite dos Quatro e Cynthia."
+    },
+    {
+      "titulo": "3. Pós-jogo",
+      "texto": "Ramanas e Torre."
+    },
+    {
+      "titulo": "4. Pokédex",
+      "texto": "Nacional."
+    }
+  ],
+  "avisos": [
+    "Para a Pokédex Nacional é preciso trocar com o Shining Pearl."
+  ],
+  "conquistas": {
+    "ginasios": {
+      "guia": {
+        "passos": [
+          "Siga a ordem da história; o último é o Volkner em Sunyshore."
+        ]
+      }
+    },
+    "campea": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Fica na Liga Pokémon, depois da Victory Road."
+        ],
+        "dicas": [
+          "Leve um Pokémon do tipo Gelo ou Fada para o Garchomp dela."
+        ]
+      }
+    },
+    "dialga": {
+      "guia": {
+        "passos": [
+          "Faz parte da história, no topo do Mt. Coronet (Spear Pillar)."
+        ]
+      }
+    },
+    "nacional": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Use o Grand Underground e as trocas com o Shining Pearl."
+        ]
+      }
+    },
+    "ramanas": {
+      "guia": {
+        "passos": [
+          "Pós-jogo; cada sala pede uma Placa Misteriosa (Slate)."
+        ]
+      }
+    },
+    "torre": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Batalhas seguidas no nível 50; cada sequência de vitórias sobe a classificação."
+        ],
+        "dicas": [
+          "Monte um time com itens e naturezas certas antes de começar."
+        ]
+      }
+    },
+    "concurso": {
+      "guia": {
+        "onde": [
+          "Hearthome City."
+        ]
+      }
+    }
+  }
+}

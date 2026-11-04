@@ -1,0 +1,64 @@
+{
+  "resumo": "Princess Peach: Showtime! não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, transformações, Joias Brilhantes, fitas, fases desafio e guarda-roupa.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Andares do teatro."
+    },
+    {
+      "titulo": "2. Coletáveis",
+      "texto": "Joias e fitas."
+    },
+    {
+      "titulo": "3. Extras",
+      "texto": "Desafios e roupas."
+    }
+  ],
+  "avisos": [
+    "Volte nas fases depois: algumas joias pedem uma transformação diferente."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance pelos andares do teatro com a Stella; o último andar tem a Madame Grape."
+        ]
+      }
+    },
+    "transformacoes": {
+      "guia": {
+        "passos": [
+          "Espadachim, Detetive, Patinadora, Ninja, Kung Fu, Cowgirl e outras."
+        ]
+      }
+    },
+    "joias": {
+      "guia": {
+        "passos": [
+          "Cada fase tem várias; a tela da fase mostra quantas faltam."
+        ]
+      }
+    },
+    "fitas": {
+      "guia": {
+        "passos": [
+          "A fita sai ao cumprir o desafio da fase (por exemplo, terminar sem levar dano)."
+        ]
+      }
+    },
+    "desafios": {
+      "guia": {
+        "passos": [
+          "Abrem depois de terminar as peças de cada andar; ficam marcadas no mapa do andar."
+        ]
+      }
+    },
+    "roupas": {
+      "guia": {
+        "passos": [
+          "Gaste as moedas na loja do saguão; novas peças aparecem ao avançar."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+ "id": "fe-three-hopes",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Passe de Expansão",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "escarlate",
+   "g": 0,
+   "n": "Chama Escarlate",
+   "d": "Termine a rota Scarlet Blaze (Águias Negras).",
+   "n_en": "Scarlet Blaze",
+   "d_en": "Finish the Scarlet Blaze route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "azul",
+   "g": 0,
+   "n": "Brilho Azul",
+   "d": "Termine a rota Azure Gleam (Leões Azuis).",
+   "n_en": "Azure Gleam",
+   "d_en": "Finish the Azure Gleam route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dourado",
+   "g": 0,
+   "n": "Fogo Dourado",
+   "d": "Termine a rota Golden Wildfire (Cervos Dourados).",
+   "n_en": "Golden Wildfire",
+   "d_en": "Finish the Golden Wildfire route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "maddening",
+   "g": 0,
+   "n": "Enlouquecedor",
+   "d": "Termine uma rota no Maddening.",
+   "n_en": "Maddening",
+   "d_en": "Finish a route on Maddening.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "recrutas",
+   "g": 0,
+   "n": "Exército Completo",
+   "d": "Recrute todos os personagens numa rota.",
+   "n_en": "Full Army",
+   "d_en": "Recruit every character in a route.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_lobos",
+   "g": 1,
+   "n": "Lobos de Cinza",
+   "d": "Termine a história do Passe de Expansão.",
+   "n_en": "Ashen Wolves",
+   "d_en": "Finish the Expansion Pass story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

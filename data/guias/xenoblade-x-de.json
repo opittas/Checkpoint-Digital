@@ -1,0 +1,70 @@
+{
+  "resumo": "Xenoblade Chronicles X: Definitive Edition não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Skell, sondas, afinidade, Tiranos e Collectopaedia.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Capítulos e missões de afinidade."
+    },
+    {
+      "titulo": "2. Skell",
+      "texto": "Licença e voo."
+    },
+    {
+      "titulo": "3. Mapa",
+      "texto": "Sondas em Mira."
+    },
+    {
+      "titulo": "4. Tiranos",
+      "texto": "Monstros nomeados."
+    }
+  ],
+  "avisos": [
+    "A Definitive Edition tem conteúdo de história novo em relação ao jogo de Wii U."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance nos capítulos da história; alguns pedem nível mínimo e afinidade com personagens."
+        ]
+      }
+    },
+    "skell": {
+      "guia": {
+        "passos": [
+          "Faz parte da história; precisa cumprir a missão de licença depois de certo capítulo."
+        ]
+      }
+    },
+    "sondas": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Alguns pontos só se alcançam voando com o Skell."
+        ]
+      }
+    },
+    "afinidade": {
+      "guia": {
+        "passos": [
+          "Missões de afinidade aparecem no Terminal de Missões quando a afinidade com a pessoa chega ao nível pedido."
+        ]
+      }
+    },
+    "tiranos": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Tiranos têm nome e um ícone de coroa; muitos só se alcançam com o Skell."
+        ]
+      }
+    },
+    "colecao": {
+      "guia": {
+        "passos": [
+          "Os itens de coleta brilham azul no campo; entregue no menu da coleção."
+        ]
+      }
+    }
+  }
+}

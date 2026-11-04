@@ -1,0 +1,65 @@
+{
+  "resumo": "Pokémon: Let's Go, Pikachu! não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: ginásios, Liga, Mewtwo, Treinadores Mestres, Pokédex e a Green.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Ginásios e Liga."
+    },
+    {
+      "titulo": "2. Pós-jogo",
+      "texto": "Mewtwo e Green."
+    },
+    {
+      "titulo": "3. Mestres",
+      "texto": "Treinadores Mestres."
+    }
+  ],
+  "avisos": [
+    "O Meltan e o Melmetal precisam do Pokémon GO."
+  ],
+  "conquistas": {
+    "ginasios": {
+      "guia": {
+        "passos": [
+          "Siga a ordem clássica: Brock, Misty, Lt. Surge, Erika, Koga, Sabrina, Blaine e Giovanni."
+        ]
+      }
+    },
+    "liga": {
+      "guia": {
+        "passos": [
+          "Fica no Planalto Índigo, depois da Victory Road."
+        ]
+      }
+    },
+    "mewtwo": {
+      "guia": {
+        "passos": [
+          "Pós-jogo, na Caverna Celeste (Cerulean Cave)."
+        ]
+      }
+    },
+    "mestres": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Um por espécie, só com o Pokémon que ele pede; ficam espalhados por Kanto no pós-jogo."
+        ]
+      }
+    },
+    "pokedex": {
+      "guia": {
+        "dicas": [
+          "Alguns exclusivos precisam de troca com o Let's Go, Eevee! e o Meltan vem do Pokémon GO."
+        ]
+      }
+    },
+    "green": {
+      "guia": {
+        "passos": [
+          "Aparece no pós-jogo depois de alguns marcos; fica em Cerulean Cave."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "resumo": "Pikmin 3 Deluxe não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, frutas, histórias do Olimar, platina nas missões, Ultra-Picante e insígnias.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Junte frutas a cada dia."
+    },
+    {
+      "titulo": "2. Paralelas",
+      "texto": "Olimar e Louie."
+    },
+    {
+      "titulo": "3. Missões",
+      "texto": "Platina."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Ultra-Picante."
+    }
+  ],
+  "avisos": [
+    "A história do Olimar e do Louie é exclusiva da versão Deluxe."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Explore as áreas a cada dia, junte frutas e resgate o Capitão Olimar no fim."
+        ]
+      }
+    },
+    "frutas": {
+      "guia": {
+        "dicas": [
+          "Cada fruta vira suco para o dia: não espere demais para buscar."
+        ]
+      }
+    },
+    "olimar": {
+      "guia": {
+        "passos": [
+          "Abrem no menu de Histórias depois de certo ponto da história principal."
+        ]
+      }
+    },
+    "missoes": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Missões de coleta e de batalha com tempo; platina pede quase tudo coletado."
+        ]
+      }
+    },
+    "ultra": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Escolha a dificuldade ao criar o save; os inimigos dão muito mais dano."
+        ]
+      }
+    },
+    "insignias": {
+      "guia": {
+        "passos": [
+          "O menu de Recordações lista as insígnias e como ganhar cada uma."
+        ]
+      }
+    }
+  }
+}

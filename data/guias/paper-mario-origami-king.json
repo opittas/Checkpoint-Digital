@@ -1,0 +1,67 @@
+{
+  "resumo": "Paper Mario: The Origami King não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Toads escondidos, buracos, Museu, Blocos ? e o Laboratório de Batalha.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "As 5 serpentinas."
+    },
+    {
+      "titulo": "2. Exploração",
+      "texto": "Toads, buracos e blocos."
+    },
+    {
+      "titulo": "3. Museu",
+      "texto": "Tesouros que faltam."
+    }
+  ],
+  "avisos": [
+    "O menu de coleção mostra a porcentagem de cada região."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada serpentina colorida tem um chefe de papelaria no fim."
+        ]
+      }
+    },
+    "toads": {
+      "guia": {
+        "dicas": [
+          "Martele objetos estranhos; o Toad Radar (acessório) apita quando há um por perto."
+        ]
+      }
+    },
+    "buracos": {
+      "guia": {
+        "passos": [
+          "Mantenha o saco de confete cheio batendo em árvores e arbustos."
+        ]
+      }
+    },
+    "tesouros": {
+      "guia": {
+        "passos": [
+          "Baús de tesouro (marrons e dourados) e as lojas de figuras completam as galerias."
+        ]
+      }
+    },
+    "blocos": {
+      "guia": {
+        "passos": [
+          "Alguns estão invisíveis: pule onde houver uma sombra quadrada."
+        ]
+      }
+    },
+    "lab": {
+      "guia": {
+        "onde": [
+          "Cidade dos Toads, perto da praça."
+        ],
+        "passos": [
+          "Treine o quebra-cabeça do anel de batalha com tempo limitado."
+        ]
+      }
+    }
+  }
+}

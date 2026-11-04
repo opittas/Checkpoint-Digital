@@ -1,0 +1,93 @@
+{
+ "id": "super-mario-galaxy",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Centro do Universo",
+   "d": "Derrote o Bowser no Centro do Universo.",
+   "n_en": "Center of the Universe",
+   "d_en": "Defeat Bowser at the center of the universe.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas",
+   "g": 0,
+   "n": "120 Estrelas",
+   "d": "Junte as 120 Power Stars com o Mario.",
+   "n_en": "120 Stars",
+   "d_en": "Collect all 120 Power Stars as Mario.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 120
+  },
+  {
+   "k": "luigi",
+   "g": 0,
+   "n": "A Vez do Luigi",
+   "d": "Junte as 120 Power Stars com o Luigi.",
+   "n_en": "Luigi's Turn",
+   "d_en": "Collect all 120 Power Stars as Luigi.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 120
+  },
+  {
+   "k": "final",
+   "g": 0,
+   "n": "Grande Final",
+   "d": "Pegue a estrela da Grand Finale Galaxy.",
+   "n_en": "Grand Finale",
+   "d_en": "Get the Grand Finale Galaxy star.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "roxas",
+   "g": 0,
+   "n": "Moedas Roxas",
+   "d": "Vença todos os desafios de Moedas Roxas.",
+   "n_en": "Purple Coins",
+   "d_en": "Clear every Purple Coin challenge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ousado",
+   "g": 0,
+   "n": "Cometas Ousados",
+   "d": "Vença todos os Cometas Ousados (um toque e acabou).",
+   "n_en": "Daredevil Comets",
+   "d_en": "Clear every Daredevil Comet.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "secretas",
+   "g": 0,
+   "n": "Galáxias Escondidas",
+   "d": "Termine as 3 galáxias de prova escondidas.",
+   "n_en": "Hidden Trial Galaxies",
+   "d_en": "Clear the three hidden trial galaxies.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  }
+ ]
+}

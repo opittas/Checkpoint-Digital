@@ -1,0 +1,71 @@
+{
+  "resumo": "Bayonetta 2 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Alfheim, Platina Pura, Infinite Climax, Tag Climax e Pérolas da Lua.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Normal, explorando."
+    },
+    {
+      "titulo": "2. Segredos",
+      "texto": "Alfheim e pérolas."
+    },
+    {
+      "titulo": "3. Platina",
+      "texto": "Volte nos capítulos."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Infinite Climax."
+    }
+  ],
+  "avisos": [
+    "O Tag Climax online precisa do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga os capítulos; o Inferno e Noatun são parte do caminho."
+        ]
+      }
+    },
+    "alfheim": {
+      "guia": {
+        "passos": [
+          "Portais escondidos nos capítulos; o menu mostra quantos faltam."
+        ]
+      }
+    },
+    "platina": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Não use itens e esquive no último instante para ativar o Witch Time."
+        ]
+      }
+    },
+    "infinito": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar no Difícil."
+        ]
+      }
+    },
+    "tag": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Cooperativo com outro jogador ou a CPU."
+        ]
+      }
+    },
+    "perolas": {
+      "guia": {
+        "passos": [
+          "Pedaços aparecem em baús escondidos; 4 pedaços formam um inteiro."
+        ]
+      }
+    }
+  }
+}

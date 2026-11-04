@@ -1,0 +1,72 @@
+{
+  "resumo": "Super Mario Maker 2 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Modo História, tarefas, publicar uma fase, Desafio Infinito e Corrida dos Ninjis.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Reconstrua o castelo."
+    },
+    {
+      "titulo": "2. Criação",
+      "texto": "Faça e publique sua fase."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Desafio Infinito e Ninjis."
+    }
+  ],
+  "avisos": [
+    "As metas online precisam do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cumpra as tarefas do quadro dos Toads para juntar moedas para as obras."
+        ]
+      }
+    },
+    "tarefas": {
+      "guia": {
+        "passos": [
+          "O quadro de tarefas dos Toads mostra as que faltam; algumas abrem só depois de terminar a história."
+        ]
+      }
+    },
+    "criar": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ],
+        "passos": [
+          "A fase precisa ser terminada por você antes de enviar."
+        ]
+      }
+    },
+    "infinito_normal": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Fases aleatórias da comunidade; pular gasta vidas."
+        ]
+      }
+    },
+    "especialista": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "dicas": [
+          "Pular uma fase gasta vidas: guarde os pulos para as fases quase impossíveis."
+        ]
+      }
+    },
+    "ninji": {
+      "online": true,
+      "guia": {
+        "passos": [
+          "Eventos semanais com uma fase oficial e ranking."
+        ]
+      }
+    }
+  }
+}

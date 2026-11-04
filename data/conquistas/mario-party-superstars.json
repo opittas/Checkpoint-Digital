@@ -1,0 +1,81 @@
+{
+ "id": "mario-party-superstars",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "tabuleiros",
+   "g": 0,
+   "n": "Clássicos do N64",
+   "d": "Jogue uma partida nos 5 tabuleiros.",
+   "n_en": "N64 Classics",
+   "d_en": "Play on all five boards.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "estrela",
+   "g": 0,
+   "n": "Superestrela",
+   "d": "Vença uma partida de tabuleiro.",
+   "n_en": "Superstar",
+   "d_en": "Win a board match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "minijogos",
+   "g": 0,
+   "n": "Os 100 Minijogos",
+   "d": "Jogue todos os 100 minijogos.",
+   "n_en": "All 100 Minigames",
+   "d_en": "Play all 100 minigames.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 100
+  },
+  {
+   "k": "montanha",
+   "g": 0,
+   "n": "Monte Minijogos",
+   "d": "Vença todos os modos do Monte Minijogos.",
+   "n_en": "Mt. Minigames",
+   "d_en": "Clear every Mt. Minigames mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "online",
+   "g": 0,
+   "n": "Festa Online",
+   "d": "Vença uma partida online.",
+   "n_en": "Online Party",
+   "d_en": "Win an online match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "adesivos",
+   "g": 0,
+   "n": "Álbum de Adesivos",
+   "d": "Compre todos os itens da loja.",
+   "n_en": "Sticker Album",
+   "d_en": "Buy every shop item.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

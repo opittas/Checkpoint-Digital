@@ -1,0 +1,79 @@
+{
+ "id": "xenoblade-x-de",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Nova Los Angeles",
+   "d": "Termine a história principal, com o capítulo novo da Definitive Edition.",
+   "n_en": "New Los Angeles",
+   "d_en": "Finish the main story, including the Definitive Edition's new chapter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "skell",
+   "g": 0,
+   "n": "Licença de Skell",
+   "d": "Tire a licença e pilote um Skell.",
+   "n_en": "Skell License",
+   "d_en": "Get your Skell license.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "sondas",
+   "g": 0,
+   "n": "Mira Mapeada",
+   "d": "Instale sondas em todos os pontos do FrontierNav.",
+   "n_en": "Mira Mapped",
+   "d_en": "Plant a probe on every FrontierNav site.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "afinidade",
+   "g": 0,
+   "n": "Laços em Mira",
+   "d": "Termine todas as missões de afinidade.",
+   "n_en": "Bonds on Mira",
+   "d_en": "Clear every affinity mission.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tiranos",
+   "g": 0,
+   "n": "Caçador de Tiranos",
+   "d": "Derrote todos os Tiranos.",
+   "n_en": "Tyrant Hunter",
+   "d_en": "Defeat every Tyrant.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "colecao",
+   "g": 0,
+   "n": "Collectopaedia",
+   "d": "Complete o Collectopaedia.",
+   "n_en": "Collectopaedia",
+   "d_en": "Complete the Collectopaedia.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

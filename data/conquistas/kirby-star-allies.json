@@ -1,0 +1,79 @@
+{
+ "id": "kirby-star-allies",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Amigos das Estrelas",
+   "d": "Termine a história.",
+   "n_en": "Star Allies",
+   "d_en": "Finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pecas",
+   "g": 0,
+   "n": "Peças de Quebra-cabeça",
+   "d": "Junte todas as peças de quebra-cabeça.",
+   "n_en": "Puzzle Pieces",
+   "d_en": "Collect every puzzle piece.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "convidado",
+   "g": 0,
+   "n": "Guest Star",
+   "d": "Termine o modo Guest Star com um amigo.",
+   "n_en": "Guest Star",
+   "d_en": "Finish Guest Star mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ultimate",
+   "g": 0,
+   "n": "A Escolha Final",
+   "d": "Vença a dificuldade mais alta de The Ultimate Choice.",
+   "n_en": "The Ultimate Choice",
+   "d_en": "Clear the hardest tier of The Ultimate Choice.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dimensao",
+   "g": 0,
+   "n": "Heróis em Outra Dimensão",
+   "d": "Termine Heroes in Another Dimension.",
+   "n_en": "Another Dimension",
+   "d_en": "Clear Heroes in Another Dimension.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "amigos",
+   "g": 0,
+   "n": "Todos os Amigos",
+   "d": "Recrute todos os Amigos dos Sonhos.",
+   "n_en": "Every Dream Friend",
+   "d_en": "Recruit every Dream Friend.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

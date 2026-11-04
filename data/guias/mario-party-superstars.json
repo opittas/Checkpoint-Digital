@@ -1,0 +1,68 @@
+{
+  "resumo": "Mario Party Superstars não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: os 5 tabuleiros, vitória, 100 minijogos, Monte Minijogos, online e a loja.",
+  "roadmap": [
+    {
+      "titulo": "1. Tabuleiros",
+      "texto": "Os 5 clássicos."
+    },
+    {
+      "titulo": "2. Minijogos",
+      "texto": "Monte Minijogos."
+    },
+    {
+      "titulo": "3. Loja",
+      "texto": "Adesivos e extras."
+    }
+  ],
+  "avisos": [
+    "As metas online precisam do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "tabuleiros": {
+      "guia": {
+        "passos": [
+          "Tabuleiros: Yoshi's Tropical Island, Space Land, Peach's Birthday Cake, Woody Woods e Horror Land."
+        ]
+      }
+    },
+    "estrela": {
+      "guia": {
+        "passos": [
+          "Termine com mais estrelas no Mario Party (modo de tabuleiro)."
+        ]
+      }
+    },
+    "minijogos": {
+      "guia": {
+        "passos": [
+          "Os minijogos novos aparecem jogando partidas; o modo Prática mostra os que faltam."
+        ]
+      }
+    },
+    "montanha": {
+      "guia": {
+        "passos": [
+          "Modos como Sobrevivência, Torneio de Moedas e Desafio Diário."
+        ]
+      }
+    },
+    "online": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ],
+        "passos": [
+          "Partidas online de tabuleiro ou minijogos."
+        ]
+      }
+    },
+    "adesivos": {
+      "guia": {
+        "passos": [
+          "Moedas de qualquer modo pagam adesivos, músicas e perfis."
+        ]
+      }
+    }
+  }
+}

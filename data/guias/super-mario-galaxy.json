@@ -1,0 +1,78 @@
+{
+  "resumo": "Super Mario Galaxy não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, 120 estrelas com o Mario e com o Luigi, Grand Finale, Moedas Roxas, Cometas Ousados e as galáxias escondidas.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Abra as cúpulas e vença o Bowser."
+    },
+    {
+      "titulo": "2. 120 estrelas",
+      "texto": "Volte às galáxias com os cometas."
+    },
+    {
+      "titulo": "3. Luigi",
+      "texto": "As 120 de novo."
+    },
+    {
+      "titulo": "4. Final",
+      "texto": "Grand Finale Galaxy."
+    }
+  ],
+  "avisos": [
+    "Esta é a versão de 2025 para o Switch, vendida também junto com o Galaxy 2."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Junte Power Stars no Observatório Cometa para abrir as cúpulas e chegar ao Bowser."
+        ]
+      }
+    },
+    "estrelas": {
+      "guia": {
+        "passos": [
+          "Cada cúpula do Observatório mostra as estrelas que faltam em cada galáxia."
+        ]
+      }
+    },
+    "luigi": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "O Luigi abre depois das 120 estrelas com o Mario, num save à parte."
+        ]
+      }
+    },
+    "final": {
+      "guia": {
+        "passos": [
+          "Abre depois das 120 estrelas com os dois irmãos."
+        ]
+      }
+    },
+    "roxas": {
+      "guia": {
+        "dicas": [
+          "Os desafios aparecem quando um Cometa Roxo passa pela galáxia."
+        ]
+      }
+    },
+    "ousado": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Com o cometa vermelho, o Mario tem só 1 de vida."
+        ]
+      }
+    },
+    "secretas": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abrem com os Lumas famintos (Hungry Luma) que pedem Star Bits em cúpulas específicas."
+        ]
+      }
+    }
+  }
+}

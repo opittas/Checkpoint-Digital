@@ -1,0 +1,73 @@
+{
+  "resumo": "Fire Emblem Warriors: Three Hopes não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: as 3 rotas, Maddening, recrutamento e o Passe de Expansão numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. Primeira rota",
+      "texto": "Escolha a casa."
+    },
+    {
+      "titulo": "2. Outras rotas",
+      "texto": "Novo Jogo+ com o progresso."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Maddening."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Passe de Expansão (aba própria)."
+    }
+  ],
+  "avisos": [
+    "Cada rota é uma jogada: use o Novo Jogo+ para ir mais rápido."
+  ],
+  "conquistas": {
+    "escarlate": {
+      "guia": {
+        "passos": [
+          "Escolha as Águias Negras no começo e siga a história com a Edelgard."
+        ]
+      }
+    },
+    "azul": {
+      "guia": {
+        "passos": [
+          "Escolha os Leões Azuis no começo e siga a história com o Dimitri."
+        ]
+      }
+    },
+    "dourado": {
+      "guia": {
+        "passos": [
+          "Escolha os Cervos Dourados no começo e siga a história com o Claude."
+        ]
+      }
+    },
+    "maddening": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar uma rota."
+        ],
+        "dicas": [
+          "Treine as unidades nas missões laterais e use os Ataques Despertar."
+        ]
+      }
+    },
+    "recrutas": {
+      "missavel": true,
+      "guia": {
+        "atencao": [
+          "Alguns só entram se você cumprir a missão lateral certa antes de um capítulo."
+        ]
+      }
+    },
+    "dlc_lobos": {
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ]
+      }
+    }
+  }
+}

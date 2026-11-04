@@ -1,0 +1,96 @@
+{
+ "id": "splatoon-2",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Octo Expansion",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "heroi",
+   "g": 0,
+   "n": "Octo Canyon",
+   "d": "Termine o Modo Herói (Octo Canyon).",
+   "n_en": "Octo Canyon",
+   "d_en": "Finish Hero Mode (Octo Canyon).",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "heroi_armas",
+   "g": 0,
+   "n": "Arsenal do Herói",
+   "d": "Termine todas as fases do Modo Herói com todas as armas de herói.",
+   "n_en": "Hero Arsenal",
+   "d_en": "Clear every Hero Mode stage with every hero weapon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "salmon",
+   "g": 0,
+   "n": "Profreshional",
+   "d": "Chegue ao título Profreshional no Salmon Run.",
+   "n_en": "Profreshional",
+   "d_en": "Reach Profreshional in Salmon Run.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rank_x",
+   "g": 0,
+   "n": "Rank X",
+   "d": "Chegue ao Rank X numa batalha ranqueada.",
+   "n_en": "X Rank",
+   "d_en": "Reach X Rank in Ranked Battle.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "nivel",
+   "g": 0,
+   "n": "Nível 50",
+   "d": "Chegue ao nível 50 de jogador.",
+   "n_en": "Level 50",
+   "d_en": "Reach player level 50.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 50
+  },
+  {
+   "k": "oe_historia",
+   "g": 1,
+   "n": "Octo Expansion",
+   "d": "Termine a história da Octo Expansion.",
+   "n_en": "Octo Expansion",
+   "d_en": "Finish the Octo Expansion story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "oe_estacoes",
+   "g": 1,
+   "n": "Todas as Estações",
+   "d": "Termine todas as 80 estações do metrô.",
+   "n_en": "Every Station",
+   "d_en": "Clear all 80 subway stations.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 80
+  }
+ ]
+}

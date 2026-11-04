@@ -1,0 +1,65 @@
+{
+  "resumo": "New Pokémon Snap não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Fotodex, fotos de 1 a 4 estrelas, pedidos, níveis de pesquisa e os Pokémon Illumina.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Rotas de Lental."
+    },
+    {
+      "titulo": "2. Fotodex",
+      "texto": "Todos os Pokémon."
+    },
+    {
+      "titulo": "3. Estrelas",
+      "texto": "Fotos de 1 a 4 estrelas."
+    }
+  ],
+  "avisos": [
+    "Volte às rotas em níveis de pesquisa diferentes: os Pokémon mudam."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance nas rotas da região de Lental subindo o nível de pesquisa."
+        ]
+      }
+    },
+    "photodex": {
+      "guia": {
+        "passos": [
+          "O Fotodex mostra quais espécies faltam e em que rota aparecem."
+        ]
+      }
+    },
+    "estrelas4": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "As estrelas dependem do comportamento: jogue Fluffruit, toque a Melodia e use o Scan."
+        ]
+      }
+    },
+    "pedidos": {
+      "guia": {
+        "passos": [
+          "Pedidos aparecem no menu; o ícone mostra em que rota a foto deve ser tirada."
+        ]
+      }
+    },
+    "pesquisa": {
+      "guia": {
+        "passos": [
+          "Fotos boas aumentam os pontos de pesquisa de cada rota; volte nas rotas para subir o nível."
+        ]
+      }
+    },
+    "illumina": {
+      "guia": {
+        "passos": [
+          "Os Pokémon Illumina brilham no fim de cada região; use as Orbes de Illumina."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "super-mario-maker-2",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Castelo Reconstruído",
+   "d": "Termine o Modo História e reconstrua o castelo da Peach.",
+   "n_en": "Castle Rebuilt",
+   "d_en": "Finish Story Mode and rebuild Peach's castle.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tarefas",
+   "g": 0,
+   "n": "Todas as Tarefas",
+   "d": "Cumpra todas as tarefas do Modo História.",
+   "n_en": "Every Job",
+   "d_en": "Clear every Story Mode job.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "criar",
+   "g": 0,
+   "n": "Construtor",
+   "d": "Publique uma fase sua no Mundo das Fases.",
+   "n_en": "Builder",
+   "d_en": "Upload a course to Course World.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "infinito_normal",
+   "g": 0,
+   "n": "Desafio Infinito",
+   "d": "Passe de 100 fases no Desafio Infinito Normal.",
+   "n_en": "Endless Challenge",
+   "d_en": "Clear 100 courses in Normal Endless Challenge.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 100
+  },
+  {
+   "k": "especialista",
+   "g": 0,
+   "n": "Super Especialista",
+   "d": "Passe de 10 fases no Desafio Infinito Super Especialista.",
+   "n_en": "Super Expert",
+   "d_en": "Clear 10 courses in Super Expert Endless Challenge.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "ninji",
+   "g": 0,
+   "n": "Corrida dos Ninjis",
+   "d": "Ganhe uma medalha de ouro numa Corrida dos Ninjis.",
+   "n_en": "Ninji Speedrun",
+   "d_en": "Earn a gold medal in a Ninji Speedrun.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

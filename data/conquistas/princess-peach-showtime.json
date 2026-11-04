@@ -1,0 +1,79 @@
+{
+ "id": "princess-peach-showtime",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Teatro Salvo",
+   "d": "Derrote a Madame Grape e salve o Teatro Sparkle.",
+   "n_en": "Theater Saved",
+   "d_en": "Defeat Madame Grape and save the Sparkle Theater.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "transformacoes",
+   "g": 0,
+   "n": "Todas as Transformações",
+   "d": "Use todas as transformações da Peach.",
+   "n_en": "Every Transformation",
+   "d_en": "Use every Peach transformation.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "joias",
+   "g": 0,
+   "n": "Joias Brilhantes",
+   "d": "Junte todas as Joias Brilhantes.",
+   "n_en": "Sparkle Gems",
+   "d_en": "Collect every Sparkle Gem.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fitas",
+   "g": 0,
+   "n": "Fitas",
+   "d": "Junte todas as fitas.",
+   "n_en": "Ribbons",
+   "d_en": "Collect every ribbon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafios",
+   "g": 0,
+   "n": "Fases Desafio",
+   "d": "Termine todas as fases de desafio dos andares.",
+   "n_en": "Challenge Stages",
+   "d_en": "Clear every floor's challenge stages.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "roupas",
+   "g": 0,
+   "n": "Guarda-roupa",
+   "d": "Compre todas as roupas e enfeites.",
+   "n_en": "Wardrobe",
+   "d_en": "Buy every outfit and accessory.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

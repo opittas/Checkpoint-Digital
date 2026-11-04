@@ -1,0 +1,79 @@
+{
+ "id": "yoshis-crafted-world",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Pedra dos Sonhos",
+   "d": "Junte as Joias dos Sonhos e termine a história.",
+   "n_en": "Sundream Stone",
+   "d_en": "Gather the Dream Gems and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "flores",
+   "g": 0,
+   "n": "Flores Sorridentes",
+   "d": "Junte todas as Flores Sorridentes.",
+   "n_en": "Smiley Flowers",
+   "d_en": "Collect every Smiley Flower.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "vermelhas",
+   "g": 0,
+   "n": "Moedas Vermelhas",
+   "d": "Junte as 20 moedas vermelhas de todas as fases.",
+   "n_en": "Red Coins",
+   "d_en": "Collect all 20 red coins in every course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "vida",
+   "g": 0,
+   "n": "Vida Cheia",
+   "d": "Termine todas as fases com a vida cheia.",
+   "n_en": "Full Health",
+   "d_en": "Clear every course at full health.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "poochy",
+   "g": 0,
+   "n": "Caça com Poochy",
+   "d": "Ache os 3 Poochy Pups no lado avesso de todas as fases.",
+   "n_en": "Poochy Hunt",
+   "d_en": "Find the three Poochy Pups on every flip side.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fantasias",
+   "g": 0,
+   "n": "Fantasias de Papelão",
+   "d": "Desbloqueie todas as fantasias.",
+   "n_en": "Cardboard Costumes",
+   "d_en": "Unlock every costume.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

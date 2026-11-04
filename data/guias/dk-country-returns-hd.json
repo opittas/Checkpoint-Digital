@@ -1,0 +1,66 @@
+{
+  "resumo": "Donkey Kong Country Returns HD não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, letras K-O-N-G, peças, Golden Temple e Contra-Relógio.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 8 mundos."
+    },
+    {
+      "titulo": "2. Coletáveis",
+      "texto": "K-O-N-G e peças."
+    },
+    {
+      "titulo": "3. Templo",
+      "texto": "Golden Temple."
+    },
+    {
+      "titulo": "4. Tempo",
+      "texto": "Ouro no Contra-Relógio."
+    }
+  ],
+  "avisos": [
+    "O Modo Moderno (mais corações) não muda as metas."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "São 8 mundos; cada um termina num chefe."
+        ]
+      }
+    },
+    "kong": {
+      "guia": {
+        "passos": [
+          "Todas as letras de um mundo abrem a fase secreta dele."
+        ]
+      }
+    },
+    "pecas": {
+      "guia": {
+        "passos": [
+          "Cada fase tem várias peças escondidas; a tela de pausa mostra quantas faltam."
+        ],
+        "dicas": [
+          "O Cranky Kong vende um papagaio que avisa onde há peças."
+        ]
+      }
+    },
+    "templo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre com os Orbes Raros das fases secretas de cada mundo."
+        ]
+      }
+    },
+    "tempo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre ao terminar a fase; veja o fantasma para aprender a rota."
+        ]
+      }
+    }
+  }
+}

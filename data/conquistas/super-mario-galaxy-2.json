@@ -1,0 +1,81 @@
+{
+ "id": "super-mario-galaxy-2",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Sétimo Mundo",
+   "d": "Derrote o Bowser e termine a história.",
+   "n_en": "World Saved",
+   "d_en": "Defeat Bowser and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas",
+   "g": 0,
+   "n": "120 Estrelas",
+   "d": "Junte as 120 Power Stars.",
+   "n_en": "120 Stars",
+   "d_en": "Collect all 120 Power Stars.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 120
+  },
+  {
+   "k": "verdes",
+   "g": 0,
+   "n": "Estrelas Verdes",
+   "d": "Junte as 120 Estrelas Verdes.",
+   "n_en": "Green Stars",
+   "d_en": "Collect all 120 Green Stars.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 120
+  },
+  {
+   "k": "mestre",
+   "g": 0,
+   "n": "Grandmaster Galaxy",
+   "d": "Termine a Grandmaster Galaxy e a Corrida Perfeita.",
+   "n_en": "Grandmaster Galaxy",
+   "d_en": "Clear the Grandmaster Galaxy and its final challenge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "yoshi",
+   "g": 0,
+   "n": "Amigo Yoshi",
+   "d": "Use todos os poderes de fruta do Yoshi.",
+   "n_en": "Yoshi Buddy",
+   "d_en": "Use every Yoshi fruit power.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cometas",
+   "g": 0,
+   "n": "Medalhas de Cometa",
+   "d": "Junte todas as Medalhas de Cometa.",
+   "n_en": "Comet Medals",
+   "d_en": "Collect every Comet Medal.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

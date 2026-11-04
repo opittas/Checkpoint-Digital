@@ -1,0 +1,80 @@
+{
+ "id": "pokemon-lets-go-pikachu",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "ginasios",
+   "g": 0,
+   "n": "Insígnias de Kanto",
+   "d": "Vença os 8 Líderes de Ginásio de Kanto.",
+   "n_en": "Kanto Badges",
+   "d_en": "Beat all eight Kanto Gym Leaders.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "liga",
+   "g": 0,
+   "n": "Campeão de Kanto",
+   "d": "Vença a Elite dos Quatro e o rival.",
+   "n_en": "Kanto Champion",
+   "d_en": "Beat the Elite Four and your rival.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mewtwo",
+   "g": 0,
+   "n": "Clone Supremo",
+   "d": "Capture o Mewtwo.",
+   "n_en": "Ultimate Clone",
+   "d_en": "Catch Mewtwo.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mestres",
+   "g": 0,
+   "n": "Treinadores Mestres",
+   "d": "Vença todos os Treinadores Mestres.",
+   "n_en": "Master Trainers",
+   "d_en": "Beat every Master Trainer.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pokedex",
+   "g": 0,
+   "n": "Pokédex Completa",
+   "d": "Complete a Pokédex de Kanto (151) e o Meltan.",
+   "n_en": "Full Pokédex",
+   "d_en": "Complete the Kanto Pokédex and Meltan.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "green",
+   "g": 0,
+   "n": "Rival Secreta",
+   "d": "Vença a Green.",
+   "n_en": "Secret Rival",
+   "d_en": "Beat Green.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

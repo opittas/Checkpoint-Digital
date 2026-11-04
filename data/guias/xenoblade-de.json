@@ -1,0 +1,77 @@
+{
+  "resumo": "Xenoblade Chronicles Definitive Edition não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Future Connected, Colônia 6, Afinidade, Monstros Únicos, Collectopaedia e Time Attack.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Shulk e a Monado."
+    },
+    {
+      "titulo": "2. Missões",
+      "texto": "Colônia 6 e Afinidade."
+    },
+    {
+      "titulo": "3. Únicos",
+      "texto": "Monstros nomeados."
+    },
+    {
+      "titulo": "4. Epílogo",
+      "texto": "Future Connected."
+    }
+  ],
+  "avisos": [
+    "O Future Connected vem incluso: não é DLC."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga a história do Shulk por Bionis e Mechonis; há missões secundárias em cada cidade."
+        ]
+      }
+    },
+    "future": {
+      "guia": {
+        "passos": [
+          "Abre no menu inicial; incluso na Definitive Edition."
+        ]
+      }
+    },
+    "colonia": {
+      "guia": {
+        "passos": [
+          "Doe materiais e traga moradores nas missões de reconstrução."
+        ]
+      }
+    },
+    "afinidade": {
+      "guia": {
+        "passos": [
+          "Faça missões de cada cidade; o mapa liga as pessoas de Bionis."
+        ]
+      }
+    },
+    "unicos": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Monstros com nome e coroa; o Collectopaedia de monstros mostra os que faltam."
+        ]
+      }
+    },
+    "colecao": {
+      "guia": {
+        "passos": [
+          "Pegue as esferas azuis no campo e registre no menu de coleção de cada região."
+        ]
+      }
+    },
+    "tempo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre na Colônia 9, depois de certa parte da história."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+ "id": "pikmin-3-deluxe",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Missão Koppai",
+   "d": "Termine a história e salve o planeta Koppai.",
+   "n_en": "Koppai Saved",
+   "d_en": "Finish the story and save Koppai.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "frutas",
+   "g": 0,
+   "n": "Todas as Frutas",
+   "d": "Junte todas as frutas.",
+   "n_en": "Every Fruit",
+   "d_en": "Collect every fruit.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "olimar",
+   "g": 0,
+   "n": "Histórias do Olimar",
+   "d": "Termine as histórias paralelas do Olimar e do Louie.",
+   "n_en": "Side Stories",
+   "d_en": "Finish Olimar and Louie's side stories.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "missoes",
+   "g": 0,
+   "n": "Platina nas Missões",
+   "d": "Ganhe platina em todas as missões.",
+   "n_en": "Mission Platinum",
+   "d_en": "Earn platinum on every mission.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ultra",
+   "g": 0,
+   "n": "Ultra-Picante",
+   "d": "Termine a história no Ultra-Picante.",
+   "n_en": "Ultra-Spicy",
+   "d_en": "Finish the story on Ultra-Spicy.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "insignias",
+   "g": 0,
+   "n": "Insígnias",
+   "d": "Ganhe todas as insígnias.",
+   "n_en": "Badges",
+   "d_en": "Earn every badge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+  "resumo": "Super Mario Galaxy 2 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, 120 estrelas, 120 Estrelas Verdes, Grandmaster Galaxy, Yoshi e Medalhas de Cometa.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 6 mundos."
+    },
+    {
+      "titulo": "2. 120 estrelas",
+      "texto": "Cometas e Mundo S."
+    },
+    {
+      "titulo": "3. Verdes",
+      "texto": "As 120 Estrelas Verdes."
+    },
+    {
+      "titulo": "4. Final",
+      "texto": "Grandmaster Galaxy."
+    }
+  ],
+  "avisos": [
+    "As Estrelas Verdes são as mais escondidas: use um guia com mapa."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance pelos 6 mundos com a Nave Starship Mario; o último fica no Mundo 6."
+        ]
+      }
+    },
+    "estrelas": {
+      "guia": {
+        "passos": [
+          "O Mundo S (secreto) abre depois do fim e tem várias delas."
+        ]
+      }
+    },
+    "verdes": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Aparecem depois das 120 estrelas comuns, escondidas em lugares difíceis das galáxias."
+        ]
+      }
+    },
+    "mestre": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre com as 242 estrelas; o desafio final não tem pontos de volta."
+        ]
+      }
+    },
+    "yoshi": {
+      "guia": {
+        "passos": [
+          "Pimenta (velocidade), Balão (flutuar) e Luz (plataformas escondidas)."
+        ]
+      }
+    },
+    "cometas": {
+      "guia": {
+        "passos": [
+          "Cada galáxia tem uma medalha; com ela aparecem os Cometas Prankster."
+        ]
+      }
+    }
+  }
+}

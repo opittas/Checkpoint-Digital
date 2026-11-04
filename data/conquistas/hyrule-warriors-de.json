@@ -1,0 +1,79 @@
+{
+ "id": "hyrule-warriors-de",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "lenda",
+   "g": 0,
+   "n": "Modo Lenda",
+   "d": "Termine o Modo Lenda.",
+   "n_en": "Legend Mode",
+   "d_en": "Finish Legend Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "aventura",
+   "g": 0,
+   "n": "Mapas de Aventura",
+   "d": "Termine todos os mapas do Modo Aventura.",
+   "n_en": "Adventure Maps",
+   "d_en": "Clear every Adventure Mode map.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "coracoes",
+   "g": 0,
+   "n": "Corações",
+   "d": "Junte todos os Recipientes e Pedaços de Coração.",
+   "n_en": "Hearts",
+   "d_en": "Collect every Heart Container and Piece.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "skulltulas",
+   "g": 0,
+   "n": "Skulltulas Douradas",
+   "d": "Junte todas as Skulltulas Douradas.",
+   "n_en": "Gold Skulltulas",
+   "d_en": "Collect every Gold Skulltula.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "personagens",
+   "g": 0,
+   "n": "Elenco Completo",
+   "d": "Desbloqueie todos os personagens.",
+   "n_en": "Full Roster",
+   "d_en": "Unlock every character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "armas",
+   "g": 0,
+   "n": "Armas de 8 Estrelas",
+   "d": "Consiga uma arma com 8 habilidades.",
+   "n_en": "Eight-Skill Weapon",
+   "d_en": "Get a weapon with eight skills.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

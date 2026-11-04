@@ -1,0 +1,118 @@
+{
+ "id": "pokemon-sword",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Passe de Expansão (Isle of Armor + Crown Tundra)",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "ginasios",
+   "g": 0,
+   "n": "Desafio dos Ginásios",
+   "d": "Vença os 8 Líderes de Ginásio de Galar.",
+   "n_en": "Gym Challenge",
+   "d_en": "Beat all eight Galar Gym Leaders.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "campeao",
+   "g": 0,
+   "n": "Novo Campeão",
+   "d": "Vença o Leon e se torne Campeão.",
+   "n_en": "New Champion",
+   "d_en": "Defeat Leon and become Champion.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "zacian",
+   "g": 0,
+   "n": "Espada Lendária",
+   "d": "Capture o Zacian.",
+   "n_en": "Legendary Sword",
+   "d_en": "Catch Zacian.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pokedex",
+   "g": 0,
+   "n": "Pokédex de Galar",
+   "d": "Complete a Pokédex de Galar.",
+   "n_en": "Galar Pokédex",
+   "d_en": "Complete the Galar Pokédex.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "torre",
+   "g": 0,
+   "n": "Torre de Batalha",
+   "d": "Chegue à Master Ball Tier na Torre de Batalha.",
+   "n_en": "Battle Tower",
+   "d_en": "Reach Master Ball Tier in the Battle Tower.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "raids",
+   "g": 0,
+   "n": "Max Raids",
+   "d": "Vença 10 Max Raid Battles.",
+   "n_en": "Max Raids",
+   "d_en": "Win 10 Max Raid Battles.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "ioa_kubfu",
+   "g": 1,
+   "n": "Mestre Mustard",
+   "d": "Termine a história de Isle of Armor e evolua o Kubfu.",
+   "n_en": "Master Mustard",
+   "d_en": "Finish Isle of Armor and evolve Kubfu.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ct_lendarios",
+   "g": 1,
+   "n": "Lendas da Tundra",
+   "d": "Termine a história de Crown Tundra e capture o Calyrex.",
+   "n_en": "Tundra Legends",
+   "d_en": "Finish Crown Tundra and catch Calyrex.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ct_dynamax",
+   "g": 1,
+   "n": "Aventuras Dynamax",
+   "d": "Vença uma Aventura Dynamax.",
+   "n_en": "Dynamax Adventure",
+   "d_en": "Clear a Dynamax Adventure.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

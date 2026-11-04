@@ -1,0 +1,68 @@
+{
+  "resumo": "Kirby Star Allies não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, peças, Guest Star, The Ultimate Choice, Heroes in Another Dimension e os Amigos dos Sonhos.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Mundos em ordem."
+    },
+    {
+      "titulo": "2. Peças",
+      "texto": "Volte nas fases."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Ultimate Choice."
+    }
+  ],
+  "avisos": [
+    "Atualize o jogo: os Amigos dos Sonhos e os modos extras vieram depois do lançamento."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Junte amigos com o Coração Amigo e combine poderes nos puzzles."
+        ]
+      }
+    },
+    "pecas": {
+      "guia": {
+        "passos": [
+          "As peças raras ficam em salas com interruptor de amigos."
+        ]
+      }
+    },
+    "convidado": {
+      "guia": {
+        "passos": [
+          "Abre depois da história; cada amigo tem uma campanha curta."
+        ]
+      }
+    },
+    "ultimate": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Modo de chefes em sequência; a dificuldade mais alta é a Soul Melter EX."
+        ],
+        "dicas": [
+          "Leve amigos com cura (Chef Kawasaki ou Adeleine)."
+        ]
+      }
+    },
+    "dimensao": {
+      "guia": {
+        "passos": [
+          "Modo da atualização gratuita; abre depois da história."
+        ]
+      }
+    },
+    "amigos": {
+      "guia": {
+        "passos": [
+          "Os Amigos dos Sonhos vêm das atualizações gratuitas."
+        ]
+      }
+    }
+  }
+}

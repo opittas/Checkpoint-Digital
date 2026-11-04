@@ -1,0 +1,96 @@
+{
+  "resumo": "Pokémon Sword não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: ginásios, Campeão, Zacian, Pokédex de Galar, Torre de Batalha, Max Raids e o Passe de Expansão numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 8 ginásios e o Leon."
+    },
+    {
+      "titulo": "2. Pós-jogo",
+      "texto": "Zacian e Torre de Batalha."
+    },
+    {
+      "titulo": "3. Pokédex",
+      "texto": "Trocas e Wild Area."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Isle of Armor e Crown Tundra (aba própria)."
+    }
+  ],
+  "avisos": [
+    "Para completar a Pokédex é preciso trocar com o Pokémon Shield."
+  ],
+  "conquistas": {
+    "ginasios": {
+      "guia": {
+        "passos": [
+          "Siga a ordem dos estádios; cada Líder pede um tipo de Pokémon diferente."
+        ],
+        "dicas": [
+          "Use o Dynamax no último Pokémon do Líder."
+        ]
+      }
+    },
+    "campeao": {
+      "guia": {
+        "passos": [
+          "Depois dos 8 ginásios, vença o Torneio de Campeões em Wyndon."
+        ]
+      }
+    },
+    "zacian": {
+      "guia": {
+        "passos": [
+          "Faz parte do pós-jogo, na Floresta Lamentosa (Slumbering Weald)."
+        ]
+      }
+    },
+    "pokedex": {
+      "guia": {
+        "dicas": [
+          "Troque com amigos ou pelo Link Trade os Pokémon exclusivos do Shield."
+        ]
+      }
+    },
+    "torre": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Batalhas seguidas no nível 50; cada sequência de vitórias sobe a classificação."
+        ],
+        "dicas": [
+          "Monte um time com itens e naturezas certas antes de começar."
+        ]
+      }
+    },
+    "raids": {
+      "guia": {
+        "passos": [
+          "Procure as tocas brilhando na Wild Area."
+        ]
+      }
+    },
+    "ioa_kubfu": {
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ]
+      }
+    },
+    "ct_lendarios": {
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ]
+      }
+    },
+    "ct_dynamax": {
+      "guia": {
+        "passos": [
+          "Na Max Lair da Crown Tundra; no fim aparece um lendário para capturar."
+        ]
+      }
+    }
+  }
+}

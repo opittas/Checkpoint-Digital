@@ -1,0 +1,65 @@
+{
+  "resumo": "Hyrule Warriors: Definitive Edition não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Modo Lenda, mapas de Aventura, corações, Skulltulas Douradas, personagens e armas.",
+  "roadmap": [
+    {
+      "titulo": "1. Lenda",
+      "texto": "A história."
+    },
+    {
+      "titulo": "2. Aventura",
+      "texto": "Mapas e recompensas."
+    },
+    {
+      "titulo": "3. Coletáveis",
+      "texto": "Corações e Skulltulas."
+    }
+  ],
+  "avisos": [
+    "O Modo Aventura é longo: os mapas de DLC já vêm inclusos nesta edição."
+  ],
+  "conquistas": {
+    "lenda": {
+      "guia": {
+        "passos": [
+          "A história principal, do Link em Hyrule até o Ganon; termine os capítulos em ordem."
+        ]
+      }
+    },
+    "aventura": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Cada mapa tem quadros com missões; vitórias com nota A abrem itens e personagens."
+        ]
+      }
+    },
+    "coracoes": {
+      "guia": {
+        "passos": [
+          "Recipientes caem de fases do Modo Lenda e da Aventura; Pedaços aparecem ao cumprir condições da fase."
+        ]
+      }
+    },
+    "skulltulas": {
+      "guia": {
+        "passos": [
+          "Aparecem quando você cumpre a condição da fase (ex.: derrotar X inimigos)."
+        ]
+      }
+    },
+    "personagens": {
+      "guia": {
+        "passos": [
+          "Personagens abrem no Modo Lenda e nos mapas de Aventura."
+        ]
+      }
+    },
+    "armas": {
+      "guia": {
+        "passos": [
+          "Funda armas no Ferreiro para passar habilidades."
+        ]
+      }
+    }
+  }
+}

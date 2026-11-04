@@ -6932,5 +6932,34 @@
     "palavras": [
       "luigi's mansion 2"
     ]
+  },
+  {
+    "id": "zelda-ocarina-of-time",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "developer": "Nintendo",
+    "year": 2026,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/zelda-ocarina-of-time.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "ocarina of time"
+    ]
   }
 ]

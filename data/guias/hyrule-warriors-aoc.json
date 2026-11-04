@@ -1,0 +1,86 @@
+{
+  "resumo": "Hyrule Warriors: Age of Calamity não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, personagens, desafios, pedidos, Sementes Korok, Muito Difícil e o Passe de Expansão numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Capítulos em ordem."
+    },
+    {
+      "titulo": "2. Mapa",
+      "texto": "Desafios e pedidos."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Muito Difícil."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Passe de Expansão (aba própria)."
+    }
+  ],
+  "avisos": [
+    "Se preferir, troque as armas repetidas por Rúpias: elas pagam os pedidos."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga os capítulos no mapa; as missões principais têm o ícone vermelho."
+        ]
+      }
+    },
+    "personagens": {
+      "guia": {
+        "passos": [
+          "Vários saem de missões do mapa marcadas com o rosto do personagem."
+        ]
+      }
+    },
+    "desafios": {
+      "guia": {
+        "dicas": [
+          "Use o filtro do mapa para ver os desafios que faltam."
+        ]
+      }
+    },
+    "pedidos": {
+      "guia": {
+        "passos": [
+          "Pedidos pedem materiais; recompensas abrem combos, corações e lojas."
+        ]
+      }
+    },
+    "koroks": {
+      "guia": {
+        "passos": [
+          "Ficam escondidas nas fases; o fim da fase mostra quantas faltam."
+        ]
+      }
+    },
+    "muitodificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar a história; refaça as missões principais no Muito Difícil."
+        ],
+        "dicas": [
+          "Melhore as armas no ferreiro e aprenda os combos antes."
+        ]
+      }
+    },
+    "dlc_pulso": {
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ]
+      }
+    },
+    "dlc_guardiao": {
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ]
+      }
+    }
+  }
+}

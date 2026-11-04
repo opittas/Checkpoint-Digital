@@ -1,0 +1,86 @@
+{
+  "resumo": "Tropical Freeze não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, letras K-O-N-G, peças, Templos, o mundo secreto, Modo Difícil e Contra-Relógio.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "As 6 ilhas."
+    },
+    {
+      "titulo": "2. Coletáveis",
+      "texto": "K-O-N-G e peças."
+    },
+    {
+      "titulo": "3. Templos",
+      "texto": "Fases secretas."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Modo Difícil e ouro no tempo."
+    }
+  ],
+  "avisos": [
+    "O Modo Funky (mais fácil) não muda as metas."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "São 6 ilhas; cada uma termina com um chefe."
+        ]
+      }
+    },
+    "kong": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "As letras de uma ilha inteira abrem a fase do Templo dela."
+        ]
+      }
+    },
+    "pecas": {
+      "guia": {
+        "dicas": [
+          "Na loja do Funky Kong há o papagaio Squawks, que avisa quando há peça por perto."
+        ]
+      }
+    },
+    "templos": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Cada Templo abre com as letras K-O-N-G da ilha inteira."
+        ],
+        "dicas": [
+          "São fases curtas e sem checkpoint: treine trecho por trecho."
+        ]
+      }
+    },
+    "ilha7": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre achando as saídas secretas das ilhas."
+        ]
+      }
+    },
+    "dificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar: um coração só, sem Funky e sem barris de checkpoint."
+        ]
+      }
+    },
+    "tempo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre ao terminar a fase. Escolha a fase no mapa e aperte o botão de Contra-Relógio."
+        ],
+        "dicas": [
+          "Veja o fantasma do melhor tempo para aprender a rota."
+        ]
+      }
+    }
+  }
+}

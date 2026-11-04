@@ -1,0 +1,80 @@
+{
+ "id": "luigis-mansion-2-hd",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Lua Negra Restaurada",
+   "d": "Recupere os pedaços da Lua Negra e derrote o Rei Boo.",
+   "n_en": "Dark Moon Restored",
+   "d_en": "Recover the Dark Moon pieces and beat King Boo.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mansoes",
+   "g": 0,
+   "n": "Cinco Mansões",
+   "d": "Termine as 5 mansões.",
+   "n_en": "Five Mansions",
+   "d_en": "Clear all five mansions.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "joias",
+   "g": 0,
+   "n": "Joias Escondidas",
+   "d": "Ache todas as joias de todas as mansões.",
+   "n_en": "Hidden Gems",
+   "d_en": "Find every gem.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "boos",
+   "g": 0,
+   "n": "Caça aos Boos",
+   "d": "Capture o Boo escondido em cada missão.",
+   "n_en": "Boo Hunt",
+   "d_en": "Capture the hidden Boo in every mission.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "estrelas",
+   "g": 0,
+   "n": "Três Estrelas",
+   "d": "Ganhe 3 estrelas em todas as missões.",
+   "n_en": "Three Stars",
+   "d_en": "Earn three stars in every mission.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "torre",
+   "g": 0,
+   "n": "ScareScraper",
+   "d": "Termine uma torre do ScareScraper.",
+   "n_en": "ScareScraper",
+   "d_en": "Clear a ScareScraper tower.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

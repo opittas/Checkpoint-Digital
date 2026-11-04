@@ -1,0 +1,84 @@
+{
+ "id": "captain-toad",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Episódio Especial",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Três Episódios",
+   "d": "Termine os 3 episódios.",
+   "n_en": "Three Episodes",
+   "d_en": "Clear all three episodes.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  },
+  {
+   "k": "gemas",
+   "g": 0,
+   "n": "Super Gemas",
+   "d": "Junte as 3 Super Gemas de todas as fases.",
+   "n_en": "Super Gems",
+   "d_en": "Collect all three Super Gems in every course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bonus",
+   "g": 0,
+   "n": "Objetivos Bônus",
+   "d": "Cumpra o objetivo bônus de todas as fases.",
+   "n_en": "Bonus Objectives",
+   "d_en": "Clear every course's bonus objective.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cogumelos",
+   "g": 0,
+   "n": "Cogumelos Dourados",
+   "d": "Ache todos os Cogumelos Dourados.",
+   "n_en": "Gold Mushrooms",
+   "d_en": "Find every Gold Mushroom.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pixel",
+   "g": 0,
+   "n": "Toad Pixel",
+   "d": "Ache o Toad Pixel escondido em todas as fases.",
+   "n_en": "Pixel Toad",
+   "d_en": "Find the hidden Pixel Toad in every course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "especial",
+   "g": 1,
+   "n": "Episódio Especial",
+   "d": "Termine o Episódio Especial.",
+   "n_en": "Special Episode",
+   "d_en": "Clear the Special Episode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

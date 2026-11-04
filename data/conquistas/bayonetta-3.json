@@ -1,0 +1,90 @@
+{
+ "id": "bayonetta-3",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Fim do Multiverso",
+   "d": "Termine a história.",
+   "n_en": "End of the Multiverse",
+   "d_en": "Finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lagrimas",
+   "g": 0,
+   "n": "Lágrimas de Sangue",
+   "d": "Junte todas as Lágrimas de Sangue Umbran.",
+   "n_en": "Umbran Tears of Blood",
+   "d_en": "Collect every Umbran Tear of Blood.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "provas",
+   "g": 0,
+   "n": "Provas das Bruxas",
+   "d": "Termine as Provas das Bruxas.",
+   "n_en": "Witch Trials",
+   "d_en": "Clear the Witch Trials.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "platina",
+   "g": 0,
+   "n": "Platina Pura",
+   "d": "Ganhe Platina Pura em todos os capítulos.",
+   "n_en": "Pure Platinum",
+   "d_en": "Earn Pure Platinum on every chapter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "infinito",
+   "g": 0,
+   "n": "Clímax Infinito",
+   "d": "Termine o jogo no Infinite Climax.",
+   "n_en": "Infinite Climax",
+   "d_en": "Beat the game on Infinite Climax.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "demonios",
+   "g": 0,
+   "n": "Todos os Demônios",
+   "d": "Desbloqueie todos os Demônios Infernais.",
+   "n_en": "Every Demon",
+   "d_en": "Unlock every Infernal Demon.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "versos",
+   "g": 0,
+   "n": "Versos Escondidos",
+   "d": "Ache todos os Versos Secretos de todos os capítulos.",
+   "n_en": "Hidden Verses",
+   "d_en": "Find every Secret Verse.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

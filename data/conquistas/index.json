@@ -1774,5 +1774,87 @@
   "base": 7,
   "dlcs": {},
   "atualizado": null
+ },
+ "zelda-skyward-sword-hd": {
+  "total": 8,
+  "base": 8,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "xenoblade-2": {
+  "total": 9,
+  "base": 7,
+  "dlcs": {
+   "Torna ~ The Golden Country": [
+    "torna_historia",
+    "torna_comunidade"
+   ]
+  },
+  "atualizado": null
+ },
+ "fire-emblem-engage": {
+  "total": 8,
+  "base": 7,
+  "dlcs": {
+   "Fell Xenologue": [
+    "fx_historia"
+   ]
+  },
+  "atualizado": null
+ },
+ "dk-tropical-freeze": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "bayonetta-3": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "astral-chain": {
+  "total": 7,
+  "base": 7,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "captain-toad": {
+  "total": 6,
+  "base": 5,
+  "dlcs": {
+   "Episódio Especial": [
+    "especial"
+   ]
+  },
+  "atualizado": null
+ },
+ "hyrule-warriors-aoc": {
+  "total": 8,
+  "base": 6,
+  "dlcs": {
+   "Passe de Expansão": [
+    "dlc_pulso",
+    "dlc_guardiao"
+   ]
+  },
+  "atualizado": null
+ },
+ "mario-party-jamboree": {
+  "total": 8,
+  "base": 7,
+  "dlcs": {
+   "Nintendo Switch 2 Edition + Jamboree TV": [
+    "tv_modos"
+   ]
+  },
+  "atualizado": null
+ },
+ "luigis-mansion-2-hd": {
+  "total": 6,
+  "base": 6,
+  "dlcs": {},
+  "atualizado": null
  }
 }

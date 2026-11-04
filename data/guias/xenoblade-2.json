@@ -1,0 +1,94 @@
+{
+  "resumo": "Xenoblade Chronicles 2 não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Blades raros, afinidade, Monstros Únicos, mercenários, escrituras, Batalhas Desafio e a DLC Torna numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 10 capítulos."
+    },
+    {
+      "titulo": "2. Blades",
+      "texto": "Cristais e afinidade."
+    },
+    {
+      "titulo": "3. Únicos",
+      "texto": "Monstros nomeados em cada Titã."
+    },
+    {
+      "titulo": "4. DLC",
+      "texto": "Torna (aba própria)."
+    }
+  ],
+  "avisos": [
+    "Torna também foi vendido sozinho, como jogo separado."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "São 10 capítulos; as missões secundárias continuam abertas depois do fim."
+        ]
+      }
+    },
+    "raros": {
+      "guia": {
+        "dicas": [
+          "Cristais de Núcleo Lendários e o impulso de sorte (Idea) aumentam a chance."
+        ]
+      }
+    },
+    "afinidade": {
+      "guia": {
+        "passos": [
+          "Cada Blade tem missões próprias e requisitos de afinidade, coleta e campo."
+        ]
+      }
+    },
+    "unicos": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Monstros com nome e ícone de estrela; derrotar desbloqueia o Salvador nos menus de missão."
+        ]
+      }
+    },
+    "mercenarios": {
+      "guia": {
+        "passos": [
+          "Abre no capítulo 4. Mande os Blades que não estão no time."
+        ]
+      }
+    },
+    "lojas": {
+      "guia": {
+        "passos": [
+          "Compre várias vezes na mesma loja até liberar a escritura."
+        ]
+      }
+    },
+    "desafio": {
+      "dificil": true,
+      "guia": {
+        "requisitos": [
+          "Passe de Expansão (vendido à parte)."
+        ]
+      }
+    },
+    "torna_historia": {
+      "guia": {
+        "requisitos": [
+          "Torna ~ The Golden Country (Passe de Expansão ou vendido à parte)."
+        ],
+        "passos": [
+          "Algumas missões da comunidade são obrigatórias para avançar."
+        ]
+      }
+    },
+    "torna_comunidade": {
+      "guia": {
+        "passos": [
+          "Faça as missões secundárias: cada pessoa ajudada entra na rede da comunidade."
+        ]
+      }
+    }
+  }
+}

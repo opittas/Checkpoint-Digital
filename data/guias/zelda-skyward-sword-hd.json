@@ -1,0 +1,91 @@
+{
+  "resumo": "Skyward Sword HD não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Chamas Sagradas, Provas do Silêncio, Cubos da Deusa, Cristais de Gratidão, corações, Rodada Relâmpago e Modo Herói.",
+  "roadmap": [
+    {
+      "titulo": "1. Skyloft",
+      "texto": "Começo e primeiras ilhas."
+    },
+    {
+      "titulo": "2. Superfície",
+      "texto": "Faron, Eldin e Lanayru."
+    },
+    {
+      "titulo": "3. Chamas",
+      "texto": "As 3 chamas e as provas."
+    },
+    {
+      "titulo": "4. Desafio",
+      "texto": "Rodada Relâmpago e Modo Herói."
+    }
+  ],
+  "avisos": [
+    "Os controles por botão (sem sensor de movimento) foram adicionados na versão HD."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Purifique a Espada da Deusa nas 3 Chamas Sagradas e siga a Zelda pelas três regiões da superfície."
+        ]
+      }
+    },
+    "chamas": {
+      "guia": {
+        "onde": [
+          "Floresta de Faron, Vulcão Eldin e Deserto de Lanayru."
+        ]
+      }
+    },
+    "provas": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Pegue primeiro as Lágrimas mais longe dos Guardiões e use as fontes para parar o alarme."
+        ]
+      }
+    },
+    "cubos": {
+      "guia": {
+        "passos": [
+          "Golpeie o cubo com o Golpe Celeste na superfície; o baú aparece numa ilha do céu."
+        ]
+      }
+    },
+    "gratidao": {
+      "guia": {
+        "passos": [
+          "Ajude os moradores de Skyloft; à noite aparecem cristais soltos pela cidade."
+        ],
+        "dicas": [
+          "Entregue ao Batreaux para ganhar carteiras maiores e um prêmio no fim."
+        ]
+      }
+    },
+    "coracoes": {
+      "guia": {
+        "passos": [
+          "Muitos ficam em minijogos de Skyloft e em ilhas do céu."
+        ]
+      }
+    },
+    "relampago": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Uma ilha no Thunderhead, liberada depois do fim da história."
+        ],
+        "passos": [
+          "Fale com a estátua na ilha do Thunderhead e escolha a quantidade de chefes."
+        ]
+      }
+    },
+    "heroi": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar; o dano é dobrado e não caem corações."
+        ]
+      }
+    }
+  }
+}

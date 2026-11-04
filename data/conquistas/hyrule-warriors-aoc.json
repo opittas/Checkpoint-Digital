@@ -1,0 +1,105 @@
+{
+ "id": "hyrule-warriors-aoc",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Passe de Expansão",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Era da Calamidade",
+   "d": "Termine a história.",
+   "n_en": "Age of Calamity",
+   "d_en": "Finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "personagens",
+   "g": 0,
+   "n": "Elenco Completo",
+   "d": "Desbloqueie todos os personagens jogáveis.",
+   "n_en": "Full Roster",
+   "d_en": "Unlock every playable character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafios",
+   "g": 0,
+   "n": "Todos os Desafios",
+   "d": "Conclua todos os desafios do mapa.",
+   "n_en": "Every Challenge",
+   "d_en": "Clear every map challenge.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pedidos",
+   "g": 0,
+   "n": "Pedidos de Hyrule",
+   "d": "Atenda todos os pedidos.",
+   "n_en": "Hyrule Requests",
+   "d_en": "Fulfill every request.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "koroks",
+   "g": 0,
+   "n": "Sementes Korok",
+   "d": "Ache todas as Sementes Korok.",
+   "n_en": "Korok Seeds",
+   "d_en": "Find every Korok Seed.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "muitodificil",
+   "g": 0,
+   "n": "Muito Difícil",
+   "d": "Termine a história no Muito Difícil.",
+   "n_en": "Very Hard",
+   "d_en": "Finish the story on Very Hard.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_pulso",
+   "g": 1,
+   "n": "Pulso dos Antigos",
+   "d": "Termine as missões de Pulso dos Antigos.",
+   "n_en": "Pulse of the Ancients",
+   "d_en": "Clear Pulse of the Ancients.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dlc_guardiao",
+   "g": 1,
+   "n": "Guardião da Memória",
+   "d": "Termine as missões de Guardião da Memória.",
+   "n_en": "Guardian of Remembrance",
+   "d_en": "Clear Guardian of Remembrance.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

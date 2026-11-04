@@ -1,0 +1,106 @@
+{
+ "id": "fire-emblem-engage",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Fell Xenologue",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Dragão Divino",
+   "d": "Derrote o Sombron e termine a história.",
+   "n_en": "Divine Dragon",
+   "d_en": "Defeat Sombron and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "aneis",
+   "g": 0,
+   "n": "Doze Emblemas",
+   "d": "Reúna os 12 Anéis de Emblema.",
+   "n_en": "Twelve Emblems",
+   "d_en": "Gather all 12 Emblem Rings.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 12
+  },
+  {
+   "k": "dificil",
+   "g": 0,
+   "n": "Difícil Clássico",
+   "d": "Termine no Difícil com o Modo Clássico.",
+   "n_en": "Hard Classic",
+   "d_en": "Finish on Hard with Classic mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "maddening",
+   "g": 0,
+   "n": "Enlouquecedor",
+   "d": "Termine no Maddening.",
+   "n_en": "Maddening",
+   "d_en": "Finish on Maddening.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "recrutas",
+   "g": 0,
+   "n": "Exército Completo",
+   "d": "Recrute todos os personagens.",
+   "n_en": "Full Army",
+   "d_en": "Recruit every character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "suporte_s",
+   "g": 0,
+   "n": "Anel do Pacto",
+   "d": "Use o Anel do Pacto (Suporte S) com um personagem.",
+   "n_en": "Pact Ring",
+   "d_en": "Give the Pact Ring (S Support) to a character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "vinculo",
+   "g": 0,
+   "n": "Vínculo Máximo",
+   "d": "Chegue ao vínculo máximo com um Emblema.",
+   "n_en": "Max Bond",
+   "d_en": "Max out a bond with an Emblem.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fx_historia",
+   "g": 1,
+   "n": "Xenólogo Caído",
+   "d": "Termine o Fell Xenologue.",
+   "n_en": "Fell Xenologue",
+   "d_en": "Finish the Fell Xenologue.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

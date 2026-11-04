@@ -1,0 +1,106 @@
+{
+ "id": "mario-party-jamboree",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Nintendo Switch 2 Edition + Jamboree TV",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "tabuleiros",
+   "g": 0,
+   "n": "Volta pelos Tabuleiros",
+   "d": "Jogue uma partida em cada um dos 7 tabuleiros.",
+   "n_en": "Board Tour",
+   "d_en": "Play a match on each of the 7 boards.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 7
+  },
+  {
+   "k": "estrela",
+   "g": 0,
+   "n": "Super Estrela",
+   "d": "Vença uma partida de tabuleiro.",
+   "n_en": "Superstar",
+   "d_en": "Win a board match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "jamboree",
+   "g": 0,
+   "n": "Amigo Jamboree",
+   "d": "Ganhe a ajuda de um Amigo Jamboree numa partida.",
+   "n_en": "Jamboree Buddy",
+   "d_en": "Get help from a Jamboree Buddy in a match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "minijogos",
+   "g": 0,
+   "n": "Todos os Minijogos",
+   "d": "Desbloqueie todos os minijogos.",
+   "n_en": "Every Minigame",
+   "d_en": "Unlock every minigame.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "koopathlon",
+   "g": 0,
+   "n": "Koopathlon",
+   "d": "Vença uma partida do Koopathlon.",
+   "n_en": "Koopathlon",
+   "d_en": "Win a Koopathlon match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bowser",
+   "g": 0,
+   "n": "Esquadrão do Bowser",
+   "d": "Vença o modo Esquadrão Kaboom do Bowser.",
+   "n_en": "Bowser Kaboom Squad",
+   "d_en": "Beat Bowser Kaboom Squad.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "planejador",
+   "g": 0,
+   "n": "Planejador de Festas",
+   "d": "Chegue ao nível máximo de Planejador de Festas.",
+   "n_en": "Party Planner",
+   "d_en": "Reach the max Party Planner rank.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tv_modos",
+   "g": 1,
+   "n": "Jamboree TV",
+   "d": "Jogue todos os modos da Jamboree TV.",
+   "n_en": "Jamboree TV",
+   "d_en": "Play every Jamboree TV mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "id": "xenoblade-2",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  },
+  {
+   "nome": "Torna ~ The Golden Country",
+   "dlc": 1
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Elysium",
+   "d": "Termine a história principal.",
+   "n_en": "Elysium",
+   "d_en": "Finish the main story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "raros",
+   "g": 0,
+   "n": "Blades Raros",
+   "d": "Desperte todos os Blades raros.",
+   "n_en": "Rare Blades",
+   "d_en": "Awaken every Rare Blade.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "afinidade",
+   "g": 0,
+   "n": "Laços Fortes",
+   "d": "Complete o Gráfico de Afinidade de um Blade raro.",
+   "n_en": "Strong Bonds",
+   "d_en": "Complete a Rare Blade's Affinity Chart.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "unicos",
+   "g": 0,
+   "n": "Caçador de Únicos",
+   "d": "Derrote todos os Monstros Únicos.",
+   "n_en": "Unique Hunter",
+   "d_en": "Defeat every Unique Monster.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mercenarios",
+   "g": 0,
+   "n": "Grupo de Mercenários",
+   "d": "Conclua 100 missões de mercenário.",
+   "n_en": "Mercenary Group",
+   "d_en": "Clear 100 mercenary missions.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 100
+  },
+  {
+   "k": "lojas",
+   "g": 0,
+   "n": "Escritura Completa",
+   "d": "Compre a escritura de todas as lojas.",
+   "n_en": "Deed Holder",
+   "d_en": "Buy the deed of every shop.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafio",
+   "g": 0,
+   "n": "Batalhas Desafio",
+   "d": "Vença as Batalhas Desafio em Bringer of Chaos.",
+   "n_en": "Challenge Battles",
+   "d_en": "Clear the Challenge Battles on Bringer of Chaos.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "torna_historia",
+   "g": 1,
+   "n": "Reino Dourado",
+   "d": "Termine a história de Torna ~ The Golden Country.",
+   "n_en": "The Golden Country",
+   "d_en": "Finish Torna ~ The Golden Country.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "torna_comunidade",
+   "g": 1,
+   "n": "Comunidade de Torna",
+   "d": "Chegue ao nível máximo da comunidade em Torna.",
+   "n_en": "Torna Community",
+   "d_en": "Max out the Torna community level.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

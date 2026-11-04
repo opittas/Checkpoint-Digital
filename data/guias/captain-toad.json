@@ -1,0 +1,64 @@
+{
+  "resumo": "Captain Toad: Treasure Tracker não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: os 3 episódios, Super Gemas, objetivos bônus, Cogumelos Dourados, Toad Pixel e o Episódio Especial numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. Episódios",
+      "texto": "Fases em ordem."
+    },
+    {
+      "titulo": "2. Gemas",
+      "texto": "Volte para as que faltam."
+    },
+    {
+      "titulo": "3. Bônus",
+      "texto": "Objetivos e Toad Pixel."
+    }
+  ],
+  "avisos": [
+    "O Episódio Especial é um conteúdo pago e fica fora do 100%."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada episódio abre o próximo; o Episódio 3 tem o Toad e a Toadette juntos."
+        ]
+      }
+    },
+    "gemas": {
+      "guia": {
+        "passos": [
+          "Cada fase tem 3 Super Gemas; gire a câmera para achar as escondidas."
+        ]
+      }
+    },
+    "bonus": {
+      "guia": {
+        "passos": [
+          "O objetivo aparece depois da primeira vitória na fase (ex.: achar o Cogumelo Dourado)."
+        ]
+      }
+    },
+    "cogumelos": {
+      "guia": {
+        "passos": [
+          "Aparecem como objetivo bônus em algumas fases; o livro de fases mostra onde faltam."
+        ]
+      }
+    },
+    "pixel": {
+      "guia": {
+        "passos": [
+          "Abre ao terminar a fase; jogue o minijogo de busca do Toad Pixel."
+        ]
+      }
+    },
+    "especial": {
+      "guia": {
+        "requisitos": [
+          "Atualização paga Episódio Especial."
+        ]
+      }
+    }
+  }
+}

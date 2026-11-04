@@ -1,0 +1,86 @@
+{
+  "resumo": "Super Mario Party Jamboree não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: os 7 tabuleiros, vitórias, Amigo Jamboree, minijogos, Koopathlon, Esquadrão do Bowser, Planejador de Festas e a Jamboree TV numa aba à parte.",
+  "roadmap": [
+    {
+      "titulo": "1. Tabuleiros",
+      "texto": "Uma partida em cada."
+    },
+    {
+      "titulo": "2. Modos",
+      "texto": "Bowser, minijogos e Koopathlon."
+    },
+    {
+      "titulo": "3. Nível",
+      "texto": "Planejador de Festas."
+    },
+    {
+      "titulo": "4. Switch 2",
+      "texto": "Jamboree TV (aba própria)."
+    }
+  ],
+  "avisos": [
+    "As metas da Jamboree TV foram escritas sem conferência item por item."
+  ],
+  "conquistas": {
+    "tabuleiros": {
+      "guia": {
+        "passos": [
+          "Alguns tabuleiros abrem jogando partidas nos outros."
+        ]
+      }
+    },
+    "estrela": {
+      "guia": {
+        "passos": [
+          "Termine em 1º no total de estrelas no Mario Party (modo de tabuleiro)."
+        ]
+      }
+    },
+    "jamboree": {
+      "guia": {
+        "passos": [
+          "Pare na casa do Amigo Jamboree e vença o minijogo para ele te ajudar."
+        ]
+      }
+    },
+    "minijogos": {
+      "guia": {
+        "passos": [
+          "Os minijogos abrem ao aparecerem numa partida; o Museu de Minijogos mostra os que faltam."
+        ]
+      }
+    },
+    "koopathlon": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ]
+      }
+    },
+    "bowser": {
+      "guia": {
+        "passos": [
+          "Modo cooperativo de até 8 jogadores contra o Bowser gigante."
+        ]
+      }
+    },
+    "planejador": {
+      "guia": {
+        "passos": [
+          "Sobe jogando qualquer modo; o nível abre adesivos, músicas e personagens."
+        ]
+      }
+    },
+    "tv_modos": {
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch 2 Edition + Jamboree TV."
+        ],
+        "passos": [
+          "Os modos usam a câmera e o microfone do Switch 2."
+        ]
+      }
+    }
+  }
+}

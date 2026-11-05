@@ -1,0 +1,58 @@
+{
+  "resumo": "Super Mario Party não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: tabuleiros, minijogos, Estrada dos Desafios, Rio Survival e personagens.",
+  "roadmap": [
+    {
+      "titulo": "1. Tabuleiros",
+      "texto": "Uma partida em cada."
+    },
+    {
+      "titulo": "2. Minijogos",
+      "texto": "Todos."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Estrada dos Desafios."
+    }
+  ],
+  "avisos": [
+    "A Jamboree é outro jogo, com página própria no site."
+  ],
+  "conquistas": {
+    "tabuleiros": {
+      "guia": {
+        "passos": [
+          "São 4 tabuleiros, um deles aberto ao jogar os outros."
+        ]
+      }
+    },
+    "minijogos": {
+      "guia": {
+        "passos": [
+          "O menu de Minijogos mostra os que já apareceram em partidas."
+        ]
+      }
+    },
+    "desafio": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de jogar todos os minijogos."
+        ]
+      }
+    },
+    "rio": {
+      "guia": {
+        "passos": [
+          "Modo cooperativo de 4 jogadores remando juntos."
+        ]
+      }
+    },
+    "personagens": {
+      "guia": {
+        "passos": [
+          "Personagens extras abrem jogando os modos de tabuleiro."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "resumo": "Mario Tennis Aces não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Modo Aventura, taças, personagens, torneio online e Modo Swing.",
+  "roadmap": [
+    {
+      "titulo": "1. Aventura",
+      "texto": "Aprenda os golpes."
+    },
+    {
+      "titulo": "2. Torneios",
+      "texto": "As 3 taças."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Torneios online."
+    }
+  ],
+  "avisos": [
+    "As metas online precisam do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "aventura": {
+      "guia": {
+        "passos": [
+          "O Mario recupera as Pedras Poderosas; cada missão ensina um golpe."
+        ]
+      }
+    },
+    "torneios": {
+      "guia": {
+        "passos": [
+          "Taças Cogumelo, Flor e Estrela contra a CPU."
+        ],
+        "dicas": [
+          "Use o Zone Shot quando a barra estiver cheia."
+        ]
+      }
+    },
+    "personagens": {
+      "guia": {
+        "passos": [
+          "Os personagens das atualizações já vêm liberados ou abrem jogando."
+        ]
+      }
+    },
+    "online": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ],
+        "passos": [
+          "Escolha Torneio Online no menu de partidas."
+        ]
+      }
+    },
+    "swing": {
+      "guia": {
+        "passos": [
+          "Segure o Joy-Con como raquete e balance de verdade."
+        ]
+      }
+    }
+  }
+}

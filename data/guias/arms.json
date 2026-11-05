@@ -1,0 +1,56 @@
+{
+  "resumo": "ARMS não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Grand Prix 7, todos os lutadores, braços e ranqueada.",
+  "roadmap": [
+    {
+      "titulo": "1. Grand Prix",
+      "texto": "Suba os níveis."
+    },
+    {
+      "titulo": "2. Braços",
+      "texto": "Get ARMS."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Ranqueada."
+    }
+  ],
+  "avisos": [
+    "A ranqueada precisa do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "gp": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "O nível 4 abre o 5; vencer cada um abre o próximo."
+        ]
+      }
+    },
+    "lutadores": {
+      "guia": {
+        "passos": [
+          "Repita o Grand Prix com cada lutador; o nível pode ser o mais baixo."
+        ]
+      }
+    },
+    "bracos": {
+      "guia": {
+        "passos": [
+          "Use moedas no minijogo Get ARMS."
+        ]
+      }
+    },
+    "rank": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ],
+        "passos": [
+          "Abre depois do Grand Prix no nível 4."
+        ]
+      }
+    }
+  }
+}

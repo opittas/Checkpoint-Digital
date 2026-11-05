@@ -1,0 +1,68 @@
+{
+ "id": "advance-wars-reboot-camp",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "aw1",
+   "g": 0,
+   "n": "Campanha 1",
+   "d": "Termine a campanha de Advance Wars.",
+   "n_en": "Campaign 1",
+   "d_en": "Finish the Advance Wars campaign.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "aw2",
+   "g": 0,
+   "n": "Black Hole Rising",
+   "d": "Termine a campanha de Advance Wars 2.",
+   "n_en": "Black Hole Rising",
+   "d_en": "Finish the Advance Wars 2 campaign.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dificil",
+   "g": 0,
+   "n": "Campanha Difícil",
+   "d": "Termine uma campanha no modo Difícil.",
+   "n_en": "Hard Campaign",
+   "d_en": "Finish a campaign on Hard.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rank_s",
+   "g": 0,
+   "n": "Rank S",
+   "d": "Ganhe rank S em todas as missões de uma campanha.",
+   "n_en": "S Rank",
+   "d_en": "Earn S rank on every mission of a campaign.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "war_room",
+   "g": 0,
+   "n": "Sala de Guerra",
+   "d": "Vença todos os mapas da Sala de Guerra.",
+   "n_en": "War Room",
+   "d_en": "Clear every War Room map.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

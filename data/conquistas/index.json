@@ -1997,5 +1997,125 @@
   "base": 94,
   "dlcs": {},
   "atualizado": "2026-11-05"
+ },
+ "nintendo-switch-sports": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "mario-tennis-aces": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "mario-golf-super-rush": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "mario-strikers-battle-league": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "super-mario-party": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "clubhouse-games": {
+  "total": 4,
+  "base": 4,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "pokemon-mystery-dungeon-dx": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "detective-pikachu-returns": {
+  "total": 3,
+  "base": 3,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "mario-luigi-brothership": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "mario-vs-donkey-kong": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "advance-wars-reboot-camp": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "emio": {
+  "total": 3,
+  "base": 3,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "big-brain-academy": {
+  "total": 4,
+  "base": 4,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "miitopia": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "warioware-get-it-together": {
+  "total": 4,
+  "base": 4,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "warioware-move-it": {
+  "total": 4,
+  "base": 4,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "bayonetta-origins": {
+  "total": 4,
+  "base": 4,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "bayonetta": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "arms": {
+  "total": 4,
+  "base": 4,
+  "dlcs": {},
+  "atualizado": null
+ },
+ "kirby-air-riders": {
+  "total": 5,
+  "base": 5,
+  "dlcs": {},
+  "atualizado": null
  }
 }

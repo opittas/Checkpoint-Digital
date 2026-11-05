@@ -1,0 +1,54 @@
+{
+  "resumo": "Miitopia não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, pós-jogo, classes, cavalo e relações.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Regiões em ordem."
+    },
+    {
+      "titulo": "2. Pós-jogo",
+      "texto": "Centro dos Viajantes."
+    }
+  ],
+  "avisos": [
+    "Os Miis podem ser criados ou baixados: não muda as metas."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance pelas regiões resgatando os rostos roubados pelo Lorde das Trevas."
+        ]
+      }
+    },
+    "posjogo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois dos créditos, com missões novas."
+        ]
+      }
+    },
+    "classes": {
+      "guia": {
+        "passos": [
+          "Classes novas abrem ao avançar; troque no Centro de Classes."
+        ]
+      }
+    },
+    "cavalo": {
+      "guia": {
+        "passos": [
+          "Exclusivo da versão do Switch: leve o cavalo nas aventuras."
+        ]
+      }
+    },
+    "relacoes": {
+      "guia": {
+        "passos": [
+          "Coloque os dois para dormir no mesmo quarto da pousada."
+        ]
+      }
+    }
+  }
+}

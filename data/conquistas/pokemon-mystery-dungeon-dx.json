@@ -1,0 +1,69 @@
+{
+ "id": "pokemon-mystery-dungeon-dx",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Equipe de Resgate",
+   "d": "Termine a história principal.",
+   "n_en": "Rescue Team",
+   "d_en": "Finish the main story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rank",
+   "g": 0,
+   "n": "Rank Máximo",
+   "d": "Leve a equipe ao rank mais alto.",
+   "n_en": "Top Rank",
+   "d_en": "Reach the top Rescue Team rank.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "posjogo",
+   "g": 0,
+   "n": "Pós-jogo",
+   "d": "Termine as masmorras do pós-jogo e recrute o Rayquaza.",
+   "n_en": "Post-game",
+   "d_en": "Clear the post-game dungeons and recruit Rayquaza.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "mew",
+   "g": 0,
+   "n": "Mew Raro",
+   "d": "Recrute o Mew.",
+   "n_en": "Rare Mew",
+   "d_en": "Recruit Mew.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "recrutas",
+   "g": 0,
+   "n": "Tudo em Equipe",
+   "d": "Recrute 100 Pokémon.",
+   "n_en": "Team Everyone",
+   "d_en": "Recruit 100 Pokémon.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 100
+  }
+ ]
+}

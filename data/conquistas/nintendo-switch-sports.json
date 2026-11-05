@@ -1,0 +1,68 @@
+{
+ "id": "nintendo-switch-sports",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "esportes",
+   "g": 0,
+   "n": "Todos os Esportes",
+   "d": "Jogue uma partida de cada esporte.",
+   "n_en": "Every Sport",
+   "d_en": "Play a match of every sport.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cpu",
+   "g": 0,
+   "n": "Vencendo a CPU",
+   "d": "Vença a CPU no nível mais alto em todos os esportes.",
+   "n_en": "Beat the CPU",
+   "d_en": "Beat the top CPU level in every sport.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pro",
+   "g": 0,
+   "n": "Liga Pro",
+   "d": "Chegue à Liga Pro num esporte online.",
+   "n_en": "Pro League",
+   "d_en": "Reach the Pro League in a sport online.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "colecao",
+   "g": 0,
+   "n": "Coleção Completa",
+   "d": "Junte todos os itens de uma coleção da semana.",
+   "n_en": "Full Collection",
+   "d_en": "Get every item from a weekly collection.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "boliche",
+   "g": 0,
+   "n": "Partida Perfeita",
+   "d": "Faça 300 pontos no Boliche.",
+   "n_en": "Perfect Game",
+   "d_en": "Bowl a 300 game.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

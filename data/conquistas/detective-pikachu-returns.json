@@ -1,0 +1,46 @@
+{
+ "id": "detective-pikachu-returns",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Caso Encerrado",
+   "d": "Termine todos os capítulos.",
+   "n_en": "Case Closed",
+   "d_en": "Finish every chapter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "secundarios",
+   "g": 0,
+   "n": "Casos Paralelos",
+   "d": "Resolva todos os casos paralelos.",
+   "n_en": "Side Cases",
+   "d_en": "Solve every side case.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "parceiros",
+   "g": 0,
+   "n": "Parceiros Pokémon",
+   "d": "Use todos os Pokémon parceiros na investigação.",
+   "n_en": "Pokémon Partners",
+   "d_en": "Use every Pokémon partner in investigations.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "bayonetta-origins",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "A Floresta Avalon",
+   "d": "Termine a história.",
+   "n_en": "Avalon Forest",
+   "d_en": "Finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tir",
+   "g": 0,
+   "n": "Tír na nÓg",
+   "d": "Termine todas as provas de Tír na nÓg.",
+   "n_en": "Tír na nÓg",
+   "d_en": "Clear every Tír na nÓg trial.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "coracoes",
+   "g": 0,
+   "n": "Corações Completos",
+   "d": "Junte todos os pedaços de coração e de magia.",
+   "n_en": "Full Hearts",
+   "d_en": "Collect every heart and magic piece.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "dificil",
+   "g": 0,
+   "n": "Modo Difícil",
+   "d": "Termine o jogo no Difícil.",
+   "n_en": "Hard Mode",
+   "d_en": "Beat the game on Hard.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

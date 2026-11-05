@@ -1,0 +1,59 @@
+{
+  "resumo": "Bayonetta não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Alfheim, Platina Pura, Infinite Climax e Pérolas da Lua.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Normal."
+    },
+    {
+      "titulo": "2. Segredos",
+      "texto": "Alfheim e pérolas."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Platina e Infinite Climax."
+    }
+  ],
+  "avisos": [
+    "Usar itens baixa a nota do capítulo."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Siga os capítulos; o último é a luta contra a Jubileus."
+        ]
+      }
+    },
+    "alfheim": {
+      "guia": {
+        "passos": [
+          "Portais escondidos nos capítulos; o menu do capítulo mostra os que faltam."
+        ]
+      }
+    },
+    "platina": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Não use itens e esquive no último instante para ativar o Witch Time."
+        ]
+      }
+    },
+    "infinito": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar no Difícil."
+        ]
+      }
+    },
+    "pecas": {
+      "guia": {
+        "passos": [
+          "Pedaços em baús escondidos; 4 formam um inteiro."
+        ]
+      }
+    }
+  }
+}

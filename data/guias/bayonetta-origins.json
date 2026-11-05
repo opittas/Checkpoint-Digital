@@ -1,0 +1,51 @@
+{
+  "resumo": "Bayonetta Origins não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Tír na nÓg, pedaços de coração e Modo Difícil.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Cereza e Cheshire."
+    },
+    {
+      "titulo": "2. Floresta",
+      "texto": "Provas e pedaços."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Difícil."
+    }
+  ],
+  "avisos": [
+    "Volte nas áreas com os elementos novos do Cheshire para abrir caminhos."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Controle a Cereza e o Cheshire ao mesmo tempo, cada um num lado do controle."
+        ]
+      }
+    },
+    "tir": {
+      "guia": {
+        "passos": [
+          "Portais nas áreas da floresta; o mapa marca os que faltam."
+        ]
+      }
+    },
+    "coracoes": {
+      "guia": {
+        "passos": [
+          "Pedaços ficam em baús e provas; quatro pedaços aumentam a vida ou a magia."
+        ]
+      }
+    },
+    "dificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar uma vez."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "mario-strikers-battle-league",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "copas",
+   "g": 0,
+   "n": "Todas as Copas",
+   "d": "Vença todas as Copas.",
+   "n_en": "Every Cup",
+   "d_en": "Win every Cup.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "galactica",
+   "g": 0,
+   "n": "Copas Galácticas",
+   "d": "Vença as Copas no modo Galáctico.",
+   "n_en": "Galactic Cups",
+   "d_en": "Win the Galactic Cups.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "hyper",
+   "g": 0,
+   "n": "Hyper Strike",
+   "d": "Marque um gol de Hyper Strike.",
+   "n_en": "Hyper Strike",
+   "d_en": "Score a Hyper Strike.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "equipamento",
+   "g": 0,
+   "n": "Vestiário Completo",
+   "d": "Compre todos os equipamentos.",
+   "n_en": "Full Locker",
+   "d_en": "Buy every gear piece.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "clube",
+   "g": 0,
+   "n": "Strikers Club",
+   "d": "Jogue uma temporada do Strikers Club.",
+   "n_en": "Strikers Club",
+   "d_en": "Play a Strikers Club season.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

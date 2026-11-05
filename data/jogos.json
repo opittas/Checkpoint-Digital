@@ -7532,5 +7532,45 @@
     "palavras": [
       "hyrule warriors definitive"
     ]
+  },
+  {
+    "id": "assassins-creed-valhalla",
+    "title": "Assassin's Creed Valhalla",
+    "developer": "Ubisoft Montréal",
+    "year": 2020,
+    "steam_appid": 2208920,
+    "platforms": [
+      "xbox",
+      "ps",
+      "steam"
+    ],
+    "consoles": [
+      "PS5",
+      "PS4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC"
+    ],
+    "labels": {
+      "xbox": "",
+      "ps": "",
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/assassins-creed-valhalla.jpg",
+    "generos": [
+      "Ação",
+      "RPG",
+      "Mundo aberto"
+    ],
+    "palavras": [
+      "assassin's creed valhalla",
+      "assassins creed valhalla",
+      "ac valhalla"
+    ]
   }
 ]

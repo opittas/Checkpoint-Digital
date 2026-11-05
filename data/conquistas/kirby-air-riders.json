@@ -1,0 +1,68 @@
+{
+ "id": "kirby-air-riders",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "air_ride",
+   "g": 0,
+   "n": "Air Ride",
+   "d": "Vença uma corrida em cada pista do Air Ride.",
+   "n_en": "Air Ride",
+   "d_en": "Win on every Air Ride course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "city_trial",
+   "g": 0,
+   "n": "City Trial",
+   "d": "Vença uma partida de City Trial.",
+   "n_en": "City Trial",
+   "d_en": "Win a City Trial match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "top_ride",
+   "g": 0,
+   "n": "Top Ride",
+   "d": "Vença uma corrida em cada pista do Top Ride.",
+   "n_en": "Top Ride",
+   "d_en": "Win on every Top Ride course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Road Trip",
+   "d": "Termine o modo Road Trip.",
+   "n_en": "Road Trip",
+   "d_en": "Finish Road Trip mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "maquinas",
+   "g": 0,
+   "n": "Garagem Completa",
+   "d": "Desbloqueie todas as máquinas.",
+   "n_en": "Full Garage",
+   "d_en": "Unlock every machine.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

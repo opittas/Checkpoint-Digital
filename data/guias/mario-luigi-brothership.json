@@ -1,0 +1,54 @@
+{
+  "resumo": "Mario & Luigi: Brothership não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Plugues de Batalha, missões, ilhas e chefe sem dano.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Ilhas em ordem."
+    },
+    {
+      "titulo": "2. Exploração",
+      "texto": "Plugues e missões."
+    }
+  ],
+  "avisos": [
+    "Volte às ilhas antigas com novas habilidades: há baús escondidos."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Ligue as ilhas ao Shipshape seguindo a história do Mario e do Luigi."
+        ]
+      }
+    },
+    "plugues": {
+      "guia": {
+        "passos": [
+          "Saem de baús, missões e lojas; o menu mostra os que faltam."
+        ]
+      }
+    },
+    "missoes": {
+      "guia": {
+        "passos": [
+          "Personagens com balão de exclamação dão missões; o diário lista as abertas."
+        ]
+      }
+    },
+    "ilhas": {
+      "guia": {
+        "passos": [
+          "Use o canhão do Shipshape quando passar perto de uma ilha nova."
+        ]
+      }
+    },
+    "contra": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Aprenda o ritmo de cada ataque e use o Martelo para contra-atacar."
+        ]
+      }
+    }
+  }
+}

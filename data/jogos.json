@@ -7572,5 +7572,573 @@
       "assassins creed valhalla",
       "ac valhalla"
     ]
+  },
+  {
+    "id": "nintendo-switch-sports",
+    "title": "Nintendo Switch Sports",
+    "developer": "Nintendo EPD",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "20h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/nintendo-switch-sports.jpg",
+    "generos": [
+      "Esporte"
+    ],
+    "palavras": [
+      "switch sports"
+    ]
+  },
+  {
+    "id": "mario-tennis-aces",
+    "title": "Mario Tennis Aces",
+    "developer": "Camelot",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-tennis-aces.jpg",
+    "generos": [
+      "Esporte"
+    ],
+    "palavras": [
+      "mario tennis aces"
+    ]
+  },
+  {
+    "id": "mario-golf-super-rush",
+    "title": "Mario Golf: Super Rush",
+    "developer": "Camelot",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–25h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-golf-super-rush.jpg",
+    "generos": [
+      "Esporte"
+    ],
+    "palavras": [
+      "mario golf"
+    ]
+  },
+  {
+    "id": "mario-strikers-battle-league",
+    "title": "Mario Strikers: Battle League",
+    "developer": "Next Level Games",
+    "year": 2022,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-strikers-battle-league.jpg",
+    "generos": [
+      "Esporte"
+    ],
+    "palavras": [
+      "mario strikers"
+    ]
+  },
+  {
+    "id": "super-mario-party",
+    "title": "Super Mario Party",
+    "developer": "NDcube",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/super-mario-party.jpg",
+    "generos": [
+      "Party"
+    ],
+    "palavras": [
+      "super mario party"
+    ]
+  },
+  {
+    "id": "clubhouse-games",
+    "title": "Clubhouse Games: 51 Worldwide Classics",
+    "developer": "NDcube",
+    "year": 2020,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "15h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/clubhouse-games.jpg",
+    "generos": [
+      "Party",
+      "Tabuleiro"
+    ],
+    "palavras": [
+      "clubhouse games"
+    ]
+  },
+  {
+    "id": "pokemon-mystery-dungeon-dx",
+    "title": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "developer": "Spike Chunsoft",
+    "year": 2020,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 4,
+    "hours": "30–80h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/pokemon-mystery-dungeon-dx.jpg",
+    "generos": [
+      "RPG",
+      "Roguelike"
+    ],
+    "palavras": [
+      "mystery dungeon"
+    ]
+  },
+  {
+    "id": "detective-pikachu-returns",
+    "title": "Detective Pikachu Returns",
+    "developer": "Creatures",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 1,
+    "hours": "10–15h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/detective-pikachu-returns.jpg",
+    "generos": [
+      "Aventura",
+      "Investigação"
+    ],
+    "palavras": [
+      "detective pikachu"
+    ]
+  },
+  {
+    "id": "mario-luigi-brothership",
+    "title": "Mario & Luigi: Brothership",
+    "developer": "Acquire",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "40–60h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-luigi-brothership.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "brothership"
+    ]
+  },
+  {
+    "id": "mario-vs-donkey-kong",
+    "title": "Mario vs. Donkey Kong",
+    "developer": "Nintendo Software Technology",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "8–20h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/mario-vs-donkey-kong.jpg",
+    "generos": [
+      "Quebra-cabeça",
+      "Plataforma"
+    ],
+    "palavras": [
+      "mario vs. donkey kong"
+    ]
+  },
+  {
+    "id": "advance-wars-reboot-camp",
+    "title": "Advance Wars 1+2: Re-Boot Camp",
+    "developer": "WayForward",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 6,
+    "hours": "40–60h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/advance-wars-reboot-camp.jpg",
+    "generos": [
+      "Estratégia"
+    ],
+    "palavras": [
+      "advance wars"
+    ]
+  },
+  {
+    "id": "emio",
+    "title": "Emio – The Smiling Man: Famicom Detective Club",
+    "developer": "Nintendo · Mages",
+    "year": 2024,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "12–18h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/emio.jpg",
+    "generos": [
+      "Aventura",
+      "Investigação"
+    ],
+    "palavras": [
+      "emio"
+    ]
+  },
+  {
+    "id": "big-brain-academy",
+    "title": "Big Brain Academy: Brain vs. Brain",
+    "developer": "Nintendo EPD",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "10h+",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/big-brain-academy.jpg",
+    "generos": [
+      "Party",
+      "Quebra-cabeça"
+    ],
+    "palavras": [
+      "big brain academy"
+    ]
+  },
+  {
+    "id": "miitopia",
+    "title": "Miitopia",
+    "developer": "Nintendo EPD · Grezzo",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "30–50h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/miitopia.jpg",
+    "generos": [
+      "RPG"
+    ],
+    "palavras": [
+      "miitopia"
+    ]
+  },
+  {
+    "id": "warioware-get-it-together",
+    "title": "WarioWare: Get It Together!",
+    "developer": "Intelligent Systems",
+    "year": 2021,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "8–20h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/warioware-get-it-together.jpg",
+    "generos": [
+      "Party"
+    ],
+    "palavras": [
+      "warioware"
+    ]
+  },
+  {
+    "id": "warioware-move-it",
+    "title": "WarioWare: Move It!",
+    "developer": "Intelligent Systems",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 2,
+    "hours": "6–15h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/warioware-move-it.jpg",
+    "generos": [
+      "Party"
+    ],
+    "palavras": [
+      "warioware: move it"
+    ]
+  },
+  {
+    "id": "bayonetta-origins",
+    "title": "Bayonetta Origins: Cereza and the Lost Demon",
+    "developer": "PlatinumGames",
+    "year": 2023,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "12–20h",
+    "playthroughs": "1",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/bayonetta-origins.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "bayonetta origins"
+    ]
+  },
+  {
+    "id": "bayonetta",
+    "title": "Bayonetta",
+    "developer": "PlatinumGames",
+    "year": 2018,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 7,
+    "hours": "10–35h",
+    "playthroughs": "2–3",
+    "online": false,
+    "mode": "checklist",
+    "image": "imagens/jogos/bayonetta.jpg",
+    "generos": [
+      "Ação",
+      "Hack and slash"
+    ],
+    "palavras": [
+      "bayonetta"
+    ]
+  },
+  {
+    "id": "arms",
+    "title": "ARMS",
+    "developer": "Nintendo EPD",
+    "year": 2017,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 5,
+    "hours": "10–30h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/arms.jpg",
+    "generos": [
+      "Luta"
+    ],
+    "palavras": [
+      "arms"
+    ]
+  },
+  {
+    "id": "kirby-air-riders",
+    "title": "Kirby Air Riders",
+    "developer": "Bandai Namco · Sora",
+    "year": 2025,
+    "steam_appid": null,
+    "platforms": [
+      "nin"
+    ],
+    "consoles": [
+      "Nintendo Switch 2"
+    ],
+    "labels": {
+      "nin": ""
+    },
+    "difficulty": 3,
+    "hours": "15–30h",
+    "playthroughs": "1",
+    "online": true,
+    "mode": "checklist",
+    "image": "imagens/jogos/kirby-air-riders.jpg",
+    "generos": [
+      "Corrida"
+    ],
+    "palavras": [
+      "air riders"
+    ]
   }
 ]

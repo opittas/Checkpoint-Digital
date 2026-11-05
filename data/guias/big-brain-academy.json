@@ -1,0 +1,52 @@
+{
+  "resumo": "Big Brain Academy: Brain vs. Brain não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: teste, Super Elite, fantasmas e roupas.",
+  "roadmap": [
+    {
+      "titulo": "1. Teste",
+      "texto": "Descubra a massa cerebral."
+    },
+    {
+      "titulo": "2. Prática",
+      "texto": "Super Elite."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Fantasmas."
+    }
+  ],
+  "avisos": [
+    "O Confronto de Fantasmas precisa do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "teste": {
+      "guia": {
+        "passos": [
+          "Cinco categorias: Identificar, Memorizar, Analisar, Calcular e Visualizar."
+        ]
+      }
+    },
+    "super_elite": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Treine cada atividade no modo Prática até o nível Super Elite aparecer."
+        ]
+      }
+    },
+    "fantasma": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ]
+      }
+    },
+    "roupas": {
+      "guia": {
+        "passos": [
+          "Moedas de prática compram roupas novas."
+        ]
+      }
+    }
+  }
+}

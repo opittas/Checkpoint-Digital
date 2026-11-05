@@ -1,0 +1,68 @@
+{
+ "id": "miitopia",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Rosto Devolvido",
+   "d": "Derrote o Lorde das Trevas e termine a história.",
+   "n_en": "Faces Returned",
+   "d_en": "Defeat the Dark Lord and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "posjogo",
+   "g": 0,
+   "n": "Viajante Lendário",
+   "d": "Termine o pós-jogo do Centro dos Viajantes.",
+   "n_en": "Legendary Traveler",
+   "d_en": "Finish the Travelers' Hub post-game.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "classes",
+   "g": 0,
+   "n": "Todas as Classes",
+   "d": "Use todas as classes.",
+   "n_en": "Every Job",
+   "d_en": "Use every job.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "cavalo",
+   "g": 0,
+   "n": "Amigo Cavalo",
+   "d": "Chegue à amizade máxima com o cavalo.",
+   "n_en": "Horse Friend",
+   "d_en": "Max out the horse's friendship.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "relacoes",
+   "g": 0,
+   "n": "Melhores Amigos",
+   "d": "Chegue à relação máxima entre dois Miis.",
+   "n_en": "Best Friends",
+   "d_en": "Max out the relationship between two Miis.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

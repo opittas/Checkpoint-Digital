@@ -7572,5 +7572,34 @@
       "assassins creed valhalla",
       "ac valhalla"
     ]
+  },
+  {
+    "id": "god-of-war-laufey",
+    "title": "God of War Laufey",
+    "developer": "Santa Monica Studio",
+    "year": null,
+    "steam_appid": null,
+    "platforms": [
+      "ps"
+    ],
+    "consoles": [
+      "PS5"
+    ],
+    "labels": {
+      "ps": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": false,
+    "mode": "conquistas",
+    "image": "imagens/jogos/god-of-war-laufey.jpg",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "palavras": [
+      "god of war laufey"
+    ]
   }
 ]

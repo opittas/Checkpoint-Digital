@@ -7601,5 +7601,38 @@
     "palavras": [
       "god of war laufey"
     ]
+  },
+  {
+    "id": "gears-of-war-e-day",
+    "title": "Gears of War: E-Day",
+    "developer": "The Coalition",
+    "year": 2026,
+    "steam_appid": 3010850,
+    "platforms": [
+      "xbox",
+      "steam"
+    ],
+    "consoles": [
+      "Xbox Series X|S",
+      "PC"
+    ],
+    "labels": {
+      "xbox": "",
+      "steam": ""
+    },
+    "difficulty": null,
+    "hours": null,
+    "playthroughs": null,
+    "online": true,
+    "mode": "conquistas",
+    "image": "imagens/jogos/gears-of-war-e-day.jpg",
+    "generos": [
+      "Ação",
+      "Tiro"
+    ],
+    "palavras": [
+      "gears of war",
+      "e-day"
+    ]
   }
 ]

@@ -1,0 +1,68 @@
+{
+ "id": "mario-tennis-aces",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "aventura",
+   "g": 0,
+   "n": "Modo Aventura",
+   "d": "Termine o Modo Aventura.",
+   "n_en": "Adventure Mode",
+   "d_en": "Finish Adventure Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "torneios",
+   "g": 0,
+   "n": "Taças de Ouro",
+   "d": "Vença todas as taças do Torneio.",
+   "n_en": "Gold Cups",
+   "d_en": "Win every Tournament cup.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "personagens",
+   "g": 0,
+   "n": "Elenco Completo",
+   "d": "Desbloqueie todos os personagens.",
+   "n_en": "Full Roster",
+   "d_en": "Unlock every character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "online",
+   "g": 0,
+   "n": "Torneio Online",
+   "d": "Vença um torneio online.",
+   "n_en": "Online Tournament",
+   "d_en": "Win an online tournament.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "swing",
+   "g": 0,
+   "n": "Modo Swing",
+   "d": "Vença uma partida no Modo Swing.",
+   "n_en": "Swing Mode",
+   "d_en": "Win a Swing Mode match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

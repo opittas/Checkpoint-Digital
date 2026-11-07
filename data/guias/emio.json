@@ -1,0 +1,40 @@
+{
+  "resumo": "Emio não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: o caso, a dedução final sem erro e os arquivos do clube.",
+  "roadmap": [
+    {
+      "titulo": "1. Caso",
+      "texto": "Siga os capítulos."
+    },
+    {
+      "titulo": "2. Final",
+      "texto": "A dedução."
+    }
+  ],
+  "avisos": [
+    "Tem temas pesados: a classificação indicativa é alta."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Investigue cada local, pergunte várias vezes e pense (Think) quando travar."
+        ]
+      }
+    },
+    "final": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "No fim, o jogo pergunta o que você descobriu: responda com as pistas do caderno."
+        ]
+      }
+    },
+    "arquivos": {
+      "guia": {
+        "passos": [
+          "As fichas abrem ao conversar com cada pessoa e visitar cada local."
+        ]
+      }
+    }
+  }
+}

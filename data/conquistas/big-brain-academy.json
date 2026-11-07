@@ -1,0 +1,58 @@
+{
+ "id": "big-brain-academy",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "teste",
+   "g": 0,
+   "n": "Teste Completo",
+   "d": "Faça o Teste de Massa Cerebral.",
+   "n_en": "Full Test",
+   "d_en": "Take the Brain Mass test.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "super_elite",
+   "g": 0,
+   "n": "Super Elite",
+   "d": "Chegue ao nível Super Elite em todas as atividades.",
+   "n_en": "Super Elite",
+   "d_en": "Reach Super Elite in every activity.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "fantasma",
+   "g": 0,
+   "n": "Fantasmas",
+   "d": "Vença 10 fantasmas de outros jogadores.",
+   "n_en": "Ghost Clash",
+   "d_en": "Beat 10 player ghosts.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "roupas",
+   "g": 0,
+   "n": "Guarda-roupa",
+   "d": "Desbloqueie todas as roupas.",
+   "n_en": "Wardrobe",
+   "d_en": "Unlock every outfit.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+  "resumo": "WarioWare: Move It! não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, poses, microjogos e modos de festa.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Fases e poses."
+    },
+    {
+      "titulo": "2. Festa",
+      "texto": "Modos com amigos."
+    }
+  ],
+  "avisos": [
+    "Jogue com espaço livre em volta: o jogo pede movimentos amplos."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada capítulo da ilha ensina poses novas e termina num chefe."
+        ]
+      }
+    },
+    "poses": {
+      "guia": {
+        "passos": [
+          "Cada fase da história ensina poses novas com o Joy-Con."
+        ]
+      }
+    },
+    "microjogos": {
+      "guia": {
+        "passos": [
+          "O menu de microjogos mostra os que já apareceram; os que faltam ficam em branco."
+        ]
+      }
+    },
+    "festa": {
+      "guia": {
+        "passos": [
+          "Abrem ao avançar na história; precisam de dois ou mais jogadores."
+        ]
+      }
+    }
+  }
+}

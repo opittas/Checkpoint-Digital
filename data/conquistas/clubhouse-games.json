@@ -1,0 +1,59 @@
+{
+ "id": "clubhouse-games",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "todos",
+   "g": 0,
+   "n": "51 Clássicos",
+   "d": "Jogue os 51 jogos.",
+   "n_en": "51 Classics",
+   "d_en": "Play all 51 games.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 51
+  },
+  {
+   "k": "cpu",
+   "g": 0,
+   "n": "Mestre da CPU",
+   "d": "Vença a CPU no nível mais difícil em 10 jogos.",
+   "n_en": "CPU Master",
+   "d_en": "Beat the hardest CPU in 10 games.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "trofeus",
+   "g": 0,
+   "n": "Medalhas",
+   "d": "Ganhe todas as medalhas do globo.",
+   "n_en": "Medals",
+   "d_en": "Earn every globe medal.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "online",
+   "g": 0,
+   "n": "Clube Online",
+   "d": "Vença uma partida online.",
+   "n_en": "Online Club",
+   "d_en": "Win an online match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

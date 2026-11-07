@@ -1,0 +1,57 @@
+{
+ "id": "warioware-move-it",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Ilha Caramba",
+   "d": "Termine o Modo História.",
+   "n_en": "Caramba Island",
+   "d_en": "Finish Story Mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "poses",
+   "g": 0,
+   "n": "Todas as Poses",
+   "d": "Use todas as poses (Forms).",
+   "n_en": "Every Form",
+   "d_en": "Use every Form.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "microjogos",
+   "g": 0,
+   "n": "Todos os Microjogos",
+   "d": "Jogue todos os microjogos.",
+   "n_en": "Every Microgame",
+   "d_en": "Play every microgame.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "festa",
+   "g": 0,
+   "n": "Modos de Festa",
+   "d": "Jogue todos os modos de festa.",
+   "n_en": "Party Modes",
+   "d_en": "Play every party mode.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

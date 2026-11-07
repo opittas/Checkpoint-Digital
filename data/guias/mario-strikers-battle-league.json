@@ -1,0 +1,59 @@
+{
+  "resumo": "Mario Strikers: Battle League não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Copas, Copas Galácticas, Hyper Strike, equipamentos e Strikers Club.",
+  "roadmap": [
+    {
+      "titulo": "1. Copas",
+      "texto": "Contra a CPU."
+    },
+    {
+      "titulo": "2. Galáctico",
+      "texto": "As copas difíceis."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Strikers Club."
+    }
+  ],
+  "avisos": [
+    "O Strikers Club precisa do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "copas": {
+      "guia": {
+        "passos": [
+          "Modo Copa Battle contra a CPU; cada copa tem 3 partidas e uma final."
+        ]
+      }
+    },
+    "galactica": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre ao vencer as copas normais; a CPU fica bem mais forte."
+        ]
+      }
+    },
+    "hyper": {
+      "guia": {
+        "passos": [
+          "Pegue a esfera brilhante e segure o chute até a barra chegar à zona certa."
+        ]
+      }
+    },
+    "equipamento": {
+      "guia": {
+        "passos": [
+          "Moedas de partidas compram peças que mudam os atributos."
+        ]
+      }
+    },
+    "clube": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "super-mario-party",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "tabuleiros",
+   "g": 0,
+   "n": "Todos os Tabuleiros",
+   "d": "Jogue uma partida em cada tabuleiro do Mario Party.",
+   "n_en": "Every Board",
+   "d_en": "Play a match on every Mario Party board.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "minijogos",
+   "g": 0,
+   "n": "Todos os Minijogos",
+   "d": "Jogue todos os minijogos.",
+   "n_en": "Every Minigame",
+   "d_en": "Play every minigame.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "desafio",
+   "g": 0,
+   "n": "Estrada dos Desafios",
+   "d": "Termine a Estrada dos Desafios.",
+   "n_en": "Challenge Road",
+   "d_en": "Clear Challenge Road.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rio",
+   "g": 0,
+   "n": "Sobrevivência no Rio",
+   "d": "Chegue ao fim do Rio Survival.",
+   "n_en": "River Survival",
+   "d_en": "Finish River Survival.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "personagens",
+   "g": 0,
+   "n": "Elenco Completo",
+   "d": "Desbloqueie todos os personagens.",
+   "n_en": "Full Roster",
+   "d_en": "Unlock every character.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

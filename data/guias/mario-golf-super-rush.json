@@ -1,0 +1,61 @@
+{
+  "resumo": "Mario Golf: Super Rush não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Aventura do Golfe, campos, Speed Golf, Battle Golf e buraco em um.",
+  "roadmap": [
+    {
+      "titulo": "1. Aventura",
+      "texto": "Mii e chefes."
+    },
+    {
+      "titulo": "2. Campos",
+      "texto": "Uma rodada em cada."
+    },
+    {
+      "titulo": "3. Modos",
+      "texto": "Speed e Battle Golf."
+    }
+  ],
+  "avisos": [
+    "As partidas online precisam do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "aventura": {
+      "guia": {
+        "passos": [
+          "Seu Mii sobe de nível e enfrenta chefes de campo em campo."
+        ]
+      }
+    },
+    "campos": {
+      "guia": {
+        "passos": [
+          "Campos novos chegaram em atualizações gratuitas."
+        ]
+      }
+    },
+    "speed": {
+      "guia": {
+        "dicas": [
+          "Corra até a bola e guarde a barra de energia para o Super Golpe."
+        ]
+      }
+    },
+    "battle": {
+      "guia": {
+        "passos": [
+          "Arena com 9 buracos: quem fizer 3 primeiro vence."
+        ],
+        "dicas": [
+          "Bloqueie os rivais com o Super Golpe."
+        ]
+      }
+    },
+    "hole_in_one": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Tente nos par 3, com o vento a favor e o golpe especial."
+        ]
+      }
+    }
+  }
+}

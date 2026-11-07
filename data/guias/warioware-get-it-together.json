@@ -1,0 +1,47 @@
+{
+  "resumo": "WarioWare: Get It Together! não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Modo História, microjogos, personagens e Taça Wario.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Todas as fases."
+    },
+    {
+      "titulo": "2. Laboratório",
+      "texto": "Microjogos que faltam."
+    }
+  ],
+  "avisos": [
+    "A Taça Wario online precisa do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Fases de microjogos por personagem; cada uma termina num chefe."
+        ]
+      }
+    },
+    "microjogos": {
+      "guia": {
+        "passos": [
+          "O Laboratório de Microjogos mostra os que faltam."
+        ]
+      }
+    },
+    "personagens": {
+      "guia": {
+        "passos": [
+          "Dê presentes comprados com moedas no menu de personagens."
+        ]
+      }
+    },
+    "taca": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ]
+      }
+    }
+  }
+}

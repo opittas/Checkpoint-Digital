@@ -1,0 +1,60 @@
+{
+  "resumo": "Mario vs. Donkey Kong não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: mundos principais, presentes, mundos Plus, fases de Especialista e Contra-Relógio.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os 8 mundos."
+    },
+    {
+      "titulo": "2. Plus",
+      "texto": "Pós-jogo."
+    },
+    {
+      "titulo": "3. Especialista",
+      "texto": "Com as estrelas."
+    }
+  ],
+  "avisos": [
+    "O Modo Casual dá mais tentativas e não muda as metas."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada mundo tem fases de chave e mini-Marios e termina numa luta com o Donkey Kong."
+        ]
+      }
+    },
+    "presentes": {
+      "guia": {
+        "passos": [
+          "Cada fase tem 3 presentes; o seletor de fases mostra os que faltam."
+        ]
+      }
+    },
+    "plus": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abrem depois do fim da história, com versões mais difíceis das fases."
+        ]
+      }
+    },
+    "especialista": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abrem com as estrelas ganhas nas fases."
+        ]
+      }
+    },
+    "tempo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre ao terminar a fase; escolha Contra-Relógio no seletor e vença o tempo-alvo."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "resumo": "Nintendo Switch Sports não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: todos os esportes, CPU, Liga Pro, coleção e a partida perfeita no Boliche.",
+  "roadmap": [
+    {
+      "titulo": "1. Esportes",
+      "texto": "Um de cada."
+    },
+    {
+      "titulo": "2. Offline",
+      "texto": "CPU no máximo."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Liga Pro e coleções."
+    }
+  ],
+  "avisos": [
+    "As metas online precisam do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "esportes": {
+      "guia": {
+        "passos": [
+          "Vôlei, Badminton, Boliche, Futebol, Chambara, Tênis e Golfe (o golfe veio numa atualização gratuita)."
+        ]
+      }
+    },
+    "cpu": {
+      "guia": {
+        "passos": [
+          "Jogue no modo offline; o nível da CPU sobe com vitórias."
+        ]
+      }
+    },
+    "pro": {
+      "dificil": true,
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ],
+        "passos": [
+          "Abre ao terminar as partidas de rank online daquele esporte."
+        ]
+      }
+    },
+    "colecao": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ],
+        "passos": [
+          "Pontos das partidas online abrem itens da coleção da semana."
+        ]
+      }
+    },
+    "boliche": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "Ache um lançamento que dê strike e repita o mesmo movimento."
+        ]
+      }
+    }
+  }
+}

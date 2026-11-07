@@ -1,0 +1,57 @@
+{
+ "id": "arms",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "gp",
+   "g": 0,
+   "n": "Grand Prix 7",
+   "d": "Vença o Grand Prix no nível 7.",
+   "n_en": "Grand Prix 7",
+   "d_en": "Win the Grand Prix at level 7.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "lutadores",
+   "g": 0,
+   "n": "Grand Prix com Todos",
+   "d": "Vença o Grand Prix com cada lutador.",
+   "n_en": "All Fighters",
+   "d_en": "Win the Grand Prix with every fighter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "bracos",
+   "g": 0,
+   "n": "Todos os Braços",
+   "d": "Desbloqueie todos os ARMS de todos os lutadores.",
+   "n_en": "Every ARM",
+   "d_en": "Unlock every ARM for every fighter.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "rank",
+   "g": 0,
+   "n": "Batalha Ranqueada",
+   "d": "Chegue ao rank 15 nas batalhas ranqueadas.",
+   "n_en": "Ranked",
+   "d_en": "Reach rank 15 in Ranked.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

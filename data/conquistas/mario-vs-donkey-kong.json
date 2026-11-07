@@ -1,0 +1,69 @@
+{
+ "id": "mario-vs-donkey-kong",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Mini-Marios de Volta",
+   "d": "Termine os 8 mundos principais.",
+   "n_en": "Mini-Marios Back",
+   "d_en": "Clear the 8 main worlds.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 8
+  },
+  {
+   "k": "presentes",
+   "g": 0,
+   "n": "Todos os Presentes",
+   "d": "Pegue os 3 presentes de todas as fases.",
+   "n_en": "Every Present",
+   "d_en": "Get all three presents in every level.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "plus",
+   "g": 0,
+   "n": "Mundos Plus",
+   "d": "Termine os mundos Plus.",
+   "n_en": "Plus Worlds",
+   "d_en": "Clear the Plus Worlds.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "especialista",
+   "g": 0,
+   "n": "Fases de Especialista",
+   "d": "Termine todas as fases de Especialista.",
+   "n_en": "Expert Levels",
+   "d_en": "Clear every Expert level.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "tempo",
+   "g": 0,
+   "n": "Contra o Relógio",
+   "d": "Vença o tempo-alvo em todas as fases do Contra-Relógio.",
+   "n_en": "Time Attack",
+   "d_en": "Beat every Time Attack target.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

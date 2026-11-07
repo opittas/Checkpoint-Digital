@@ -1,0 +1,68 @@
+{
+ "id": "mario-golf-super-rush",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "aventura",
+   "g": 0,
+   "n": "Aventura do Golfe",
+   "d": "Termine o Modo Aventura do Golfe.",
+   "n_en": "Golf Adventure",
+   "d_en": "Finish Golf Adventure.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "campos",
+   "g": 0,
+   "n": "Todos os Campos",
+   "d": "Jogue uma rodada em todos os campos.",
+   "n_en": "Every Course",
+   "d_en": "Play a round on every course.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "speed",
+   "g": 0,
+   "n": "Golfe Veloz",
+   "d": "Vença uma partida de Speed Golf.",
+   "n_en": "Speed Golf",
+   "d_en": "Win a Speed Golf match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "battle",
+   "g": 0,
+   "n": "Golfe de Batalha",
+   "d": "Vença uma partida de Battle Golf.",
+   "n_en": "Battle Golf",
+   "d_en": "Win a Battle Golf match.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "hole_in_one",
+   "g": 0,
+   "n": "Buraco em Um",
+   "d": "Acerte um buraco em uma tacada.",
+   "n_en": "Hole in One",
+   "d_en": "Get a hole in one.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

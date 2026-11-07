@@ -1,0 +1,39 @@
+{
+  "resumo": "Detective Pikachu Returns não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: capítulos, casos paralelos e parceiros.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Os capítulos."
+    },
+    {
+      "titulo": "2. Cidade",
+      "texto": "Casos paralelos e conversas."
+    }
+  ],
+  "avisos": [
+    "O jogo não tem como perder: explore à vontade."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Cada capítulo junta pistas e termina numa dedução com o Pikachu."
+        ]
+      }
+    },
+    "secundarios": {
+      "guia": {
+        "passos": [
+          "Aparecem conversando com pessoas e Pokémon pela cidade de Ryme."
+        ]
+      }
+    },
+    "parceiros": {
+      "guia": {
+        "passos": [
+          "Cada capítulo traz um parceiro com habilidade própria."
+        ]
+      }
+    }
+  }
+}

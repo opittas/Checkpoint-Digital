@@ -1,0 +1,59 @@
+{
+  "resumo": "Pokémon Mystery Dungeon: Rescue Team DX não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, rank, pós-jogo, Mew e recrutamento.",
+  "roadmap": [
+    {
+      "titulo": "1. História",
+      "texto": "Masmorras principais."
+    },
+    {
+      "titulo": "2. Missões",
+      "texto": "Rank da equipe."
+    },
+    {
+      "titulo": "3. Pós-jogo",
+      "texto": "Rayquaza e Mew."
+    }
+  ],
+  "avisos": [
+    "Masmorras do pós-jogo não deixam levar itens: entre preparado."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Avance com missões do quadro e as masmorras da história."
+        ]
+      }
+    },
+    "rank": {
+      "guia": {
+        "passos": [
+          "Cada missão cumprida dá pontos de rank."
+        ]
+      }
+    },
+    "posjogo": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Depois dos créditos, a Sky Tower leva ao Rayquaza."
+        ]
+      }
+    },
+    "mew": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Aparece numa masmorra do pós-jogo; leve itens de recrutamento."
+        ]
+      }
+    },
+    "recrutas": {
+      "guia": {
+        "dicas": [
+          "O Pokémon líder com nível alto aumenta a chance de recrutar."
+        ]
+      }
+    }
+  }
+}

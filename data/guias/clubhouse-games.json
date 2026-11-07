@@ -1,0 +1,55 @@
+{
+  "resumo": "Clubhouse Games não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: os 51 jogos, a CPU difícil, medalhas e partida online.",
+  "roadmap": [
+    {
+      "titulo": "1. Globo",
+      "texto": "Jogue todos."
+    },
+    {
+      "titulo": "2. CPU",
+      "texto": "Nível mais difícil."
+    },
+    {
+      "titulo": "3. Online",
+      "texto": "Uma vitória."
+    }
+  ],
+  "avisos": [
+    "As partidas online precisam do Nintendo Switch Online (pago)."
+  ],
+  "conquistas": {
+    "todos": {
+      "guia": {
+        "passos": [
+          "O globo da tela inicial marca os jogos já jogados."
+        ]
+      }
+    },
+    "cpu": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Escolha o nível mais difícil da CPU no menu de cada jogo."
+        ],
+        "dicas": [
+          "Jogos de cartas e tabuleiro são os mais justos contra a CPU."
+        ]
+      }
+    },
+    "trofeus": {
+      "guia": {
+        "passos": [
+          "Medalhas saem de marcos como jogar vários jogos de uma região."
+        ]
+      }
+    },
+    "online": {
+      "online": true,
+      "guia": {
+        "requisitos": [
+          "Nintendo Switch Online (pago)."
+        ]
+      }
+    }
+  }
+}

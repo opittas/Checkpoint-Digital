@@ -1,0 +1,57 @@
+{
+  "resumo": "Kirby Air Riders não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: Air Ride, City Trial, Top Ride, Road Trip e máquinas.",
+  "roadmap": [
+    {
+      "titulo": "1. Corridas",
+      "texto": "Air Ride e Top Ride."
+    },
+    {
+      "titulo": "2. City Trial",
+      "texto": "Partidas."
+    },
+    {
+      "titulo": "3. Road Trip",
+      "texto": "Aventura."
+    }
+  ],
+  "avisos": [
+    "Exclusivo do Nintendo Switch 2. As metas foram escritas sem conferência item por item."
+  ],
+  "conquistas": {
+    "air_ride": {
+      "guia": {
+        "passos": [
+          "Corridas em pista contra outros pilotos; escolha a pista no menu do Air Ride."
+        ]
+      }
+    },
+    "city_trial": {
+      "guia": {
+        "passos": [
+          "Junte melhorias pela cidade antes do evento final."
+        ]
+      }
+    },
+    "top_ride": {
+      "guia": {
+        "passos": [
+          "Corridas vistas de cima, com pistas curtas e itens."
+        ]
+      }
+    },
+    "historia": {
+      "guia": {
+        "passos": [
+          "O modo de aventura que liga os outros modos."
+        ]
+      }
+    },
+    "maquinas": {
+      "guia": {
+        "passos": [
+          "Veja a lista de desafios do jogo: cada um abre peças e máquinas."
+        ]
+      }
+    }
+  }
+}

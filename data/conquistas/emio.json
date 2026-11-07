@@ -1,0 +1,46 @@
+{
+ "id": "emio",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "O Homem Sorridente",
+   "d": "Termine o caso.",
+   "n_en": "The Smiling Man",
+   "d_en": "Solve the case.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "final",
+   "g": 0,
+   "n": "Dedução Final",
+   "d": "Acerte todas as respostas da dedução final sem errar.",
+   "n_en": "Final Deduction",
+   "d_en": "Answer the final deduction without mistakes.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "arquivos",
+   "g": 0,
+   "n": "Arquivos do Clube",
+   "d": "Leia todas as fichas de pessoas e locais.",
+   "n_en": "Club Files",
+   "d_en": "Read every character and location file.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+  "resumo": "Advance Wars 1+2: Re-Boot Camp não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: as duas campanhas, modo Difícil, rank S e a Sala de Guerra.",
+  "roadmap": [
+    {
+      "titulo": "1. AW1",
+      "texto": "Campanha."
+    },
+    {
+      "titulo": "2. AW2",
+      "texto": "Black Hole Rising."
+    },
+    {
+      "titulo": "3. Desafio",
+      "texto": "Difícil e rank S."
+    }
+  ],
+  "avisos": [
+    "Use a Sala de Guerra para ganhar moedas e comprar mapas e COs."
+  ],
+  "conquistas": {
+    "aw1": {
+      "guia": {
+        "passos": [
+          "As missões da Orange Star com a Nell como guia; escolha o CO em algumas missões."
+        ]
+      }
+    },
+    "aw2": {
+      "guia": {
+        "passos": [
+          "A segunda campanha abre do menu; as missões mudam de exército por região."
+        ]
+      }
+    },
+    "dificil": {
+      "dificil": true,
+      "guia": {
+        "passos": [
+          "Abre depois de terminar a campanha normal."
+        ]
+      }
+    },
+    "rank_s": {
+      "dificil": true,
+      "guia": {
+        "dicas": [
+          "A nota soma velocidade, poder e técnica: vença rápido e perca poucas unidades."
+        ]
+      }
+    },
+    "war_room": {
+      "guia": {
+        "passos": [
+          "Mapas avulsos contra a CPU, comprados na loja do Hachi."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "mario-luigi-brothership",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Concórdia Reunida",
+   "d": "Termine a história e reconecte as ilhas.",
+   "n_en": "Concordia Reunited",
+   "d_en": "Finish the story and reconnect the islands.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "plugues",
+   "g": 0,
+   "n": "Plugues de Batalha",
+   "d": "Junte todos os Plugues de Batalha.",
+   "n_en": "Battle Plugs",
+   "d_en": "Collect every Battle Plug.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "missoes",
+   "g": 0,
+   "n": "Missões Paralelas",
+   "d": "Conclua todas as missões paralelas.",
+   "n_en": "Side Quests",
+   "d_en": "Clear every side quest.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "ilhas",
+   "g": 0,
+   "n": "Todas as Ilhas",
+   "d": "Visite e ligue todas as ilhas ao Shipshape.",
+   "n_en": "Every Island",
+   "d_en": "Visit and connect every island to Shipshape.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "contra",
+   "g": 0,
+   "n": "Contra-ataque Perfeito",
+   "d": "Vença um chefe sem levar dano.",
+   "n_en": "Perfect Counter",
+   "d_en": "Beat a boss without taking damage.",
+   "h": 0,
+   "i": null,
+   "p": null
+  }
+ ]
+}

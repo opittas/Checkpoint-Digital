@@ -1,0 +1,213 @@
+{
+ "id": "zelda-ocarina-of-time",
+ "fonte": "Conquistas originais Checkpoint",
+ "modo": "checklist",
+ "atualizado": "2026-11-13",
+ "grupos": [
+  {
+   "nome": "",
+   "dlc": 0
+  }
+ ],
+ "conquistas": [
+  {
+   "k": "historia",
+   "g": 0,
+   "n": "Herói do Tempo",
+   "d": "Derrote Ganon e termine a história.",
+   "n_en": "Hero of Time",
+   "d_en": "Defeat Ganon and finish the story.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pedras",
+   "g": 0,
+   "n": "Pedras Espirituais",
+   "d": "Junte as 3 Pedras Espirituais.",
+   "n_en": "Spiritual Stones",
+   "d_en": "Collect the three Spiritual Stones.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  },
+  {
+   "k": "medalhoes",
+   "g": 0,
+   "n": "Despertar dos Sábios",
+   "d": "Junte os 6 Medalhões dos Sábios.",
+   "n_en": "Awaken the Sages",
+   "d_en": "Collect all six Sage Medallions.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 6
+  },
+  {
+   "k": "coracoes",
+   "g": 0,
+   "n": "Corações Completos",
+   "d": "Junte os 36 Pedaços de Coração.",
+   "n_en": "Full Hearts",
+   "d_en": "Collect all 36 Pieces of Heart.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 36
+  },
+  {
+   "k": "skulltulas",
+   "g": 0,
+   "n": "Caçador de Skulltulas",
+   "d": "Junte os 100 Símbolos de Skulltula Dourada.",
+   "n_en": "Skulltula Hunter",
+   "d_en": "Collect all 100 Gold Skulltula Tokens.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 100
+  },
+  {
+   "k": "musicas",
+   "g": 0,
+   "n": "Mestre da Ocarina",
+   "d": "Aprenda as 12 músicas da ocarina.",
+   "n_en": "Ocarina Master",
+   "d_en": "Learn all 12 ocarina songs.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 12
+  },
+  {
+   "k": "garrafas",
+   "g": 0,
+   "n": "Colecionador de Garrafas",
+   "d": "Encontre as 5 garrafas.",
+   "n_en": "Bottle Collector",
+   "d_en": "Find all five bottles.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 5
+  },
+  {
+   "k": "fadas",
+   "g": 0,
+   "n": "Bênção das Fadas",
+   "d": "Visite as 6 Grandes Fadas.",
+   "n_en": "Fairy Blessings",
+   "d_en": "Visit all six Great Fairies.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 6
+  },
+  {
+   "k": "feijoes",
+   "g": 0,
+   "n": "Jardineiro de Hyrule",
+   "d": "Plante os 10 Feijões Mágicos.",
+   "n_en": "Hyrule Gardener",
+   "d_en": "Plant all ten Magic Beans.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "poes",
+   "g": 0,
+   "n": "Caça-Fantasmas",
+   "d": "Venda os 10 Grandes Poes ao Caçador de Fantasmas.",
+   "n_en": "Ghost Hunter",
+   "d_en": "Sell all ten Big Poes to the Poe Collector.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 10
+  },
+  {
+   "k": "mascaras",
+   "g": 0,
+   "n": "Máscara da Verdade",
+   "d": "Termine as entregas da Loja de Máscaras Felizes e ganhe a Máscara da Verdade.",
+   "n_en": "Mask of Truth",
+   "d_en": "Finish the Happy Mask Shop deliveries and earn the Mask of Truth.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "biggoron",
+   "g": 0,
+   "n": "Espada de Biggoron",
+   "d": "Termine a corrente de trocas e forje a Espada de Biggoron.",
+   "n_en": "Biggoron's Sword",
+   "d_en": "Finish the trading sequence and get Biggoron's Sword.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "equipamentos",
+   "g": 0,
+   "n": "Arsenal Completo",
+   "d": "Junte todas as espadas, escudos, túnicas e botas.",
+   "n_en": "Full Arsenal",
+   "d_en": "Collect every sword, shield, tunic and pair of boots.",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "capacidade",
+   "g": 0,
+   "n": "Bolsos Cheios",
+   "d": "Pegue todas as melhorias de capacidade (carteira, aljava, bolsas e afins).",
+   "n_en": "Full Pockets",
+   "d_en": "Get every capacity upgrade (wallet, quiver, bags and more).",
+   "h": 0,
+   "i": null,
+   "p": null
+  },
+  {
+   "k": "pesca",
+   "g": 0,
+   "n": "Pescador do Lago",
+   "d": "Ganhe os prêmios do Lago de Pesca como criança e como adulto.",
+   "n_en": "Lake Angler",
+   "d_en": "Win the Fishing Pond prizes as a child and as an adult.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 2
+  },
+  {
+   "k": "cavalo",
+   "g": 0,
+   "n": "Arqueiro Montado",
+   "d": "Ganhe os 2 prêmios do Arco e Flecha a Cavalo no Forte Gerudo.",
+   "n_en": "Mounted Archer",
+   "d_en": "Win both Horseback Archery prizes at Gerudo's Fortress.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 2
+  },
+  {
+   "k": "salao",
+   "g": 0,
+   "n": "Salão dos Inimigos Caídos",
+   "d": "Vença as 3 provas de chefes seguidos no Salão dos Inimigos Caídos.",
+   "n_en": "Hall of Fallen Foes",
+   "d_en": "Clear the three boss trials in the Hall of Fallen Foes.",
+   "h": 0,
+   "i": null,
+   "p": null,
+   "qtd": 3
+  }
+ ]
+}

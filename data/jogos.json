@@ -6948,9 +6948,9 @@
     "labels": {
       "nin": ""
     },
-    "difficulty": null,
-    "hours": null,
-    "playthroughs": null,
+    "difficulty": 3,
+    "hours": "20–32h",
+    "playthroughs": "1",
     "online": false,
     "mode": "checklist",
     "image": "imagens/jogos/zelda-ocarina-of-time.jpg",

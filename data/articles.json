@@ -1,5 +1,45 @@
 [
  {
+  "id": "xbox-id-software-novo-jogo-doom-wolfenstein-3",
+  "platform": "xbox",
+  "category": "Notícias",
+  "gen": "series-x",
+  "title": "Estúdio de DOOM, id Software confirma novo jogo; Wolfenstein 3 entra em produção",
+  "excerpt": "Anúncios vieram da CEO do Xbox e da própria id; novo projeto tem direção de Hugo Martin, mas o estúdio não disse se é um novo DOOM.",
+  "body": "<p>A <strong>id Software</strong>, estúdio de <strong>DOOM</strong>, confirmou que já trabalha no seu próximo jogo. O anúncio veio junto com a revelação, pela CEO do Xbox, Asha Sharma, de que <strong>Wolfenstein 3</strong> está oficialmente em produção na MachineGames. As duas novidades foram publicadas no X em 12 de novembro.</p>\n<h3>O que a id Software disse</h3>\n<ul>\n<li>O projeto é \"um novo jogo\" das equipes do estúdio no <strong>Texas</strong> e em <strong>Frankfurt</strong>.</li>\n<li>A direção é de <strong>Hugo Martin</strong>.</li>\n<li>O estúdio avisou que \"vai demorar um pouco\" até ter mais para mostrar.</li>\n<li>A id não disse qual é o jogo. O jornalista Tom Warren, do The Verge, afirma que se trata de um novo DOOM, mas isso <strong>não foi confirmado oficialmente</strong>.</li>\n</ul>\n<h3>Wolfenstein 3</h3>\n<p>Sharma escreveu que Wolfenstein 3 está \"oficialmente em produção\" na MachineGames e chamou a série de uma das franquias mais importantes dos games. Não há plataformas nem data de lançamento.</p>",
+  "author": "Checkpoint Digital",
+  "image_url": "imagens/capas/xbox-id-software-novo-jogo-doom-wolfenstein-3.jpg",
+  "read_time": "2 min",
+  "published_at": "2026-11-13T10:25:46.591101+00:00",
+  "featured": false,
+  "created_at": "2026-11-13T10:25:46.591101+00:00",
+  "title_en": "DOOM studio id Software confirms new game; Wolfenstein 3 enters production",
+  "excerpt_en": "The announcements came from Xbox CEO and id itself; the new project is directed by Hugo Martin, but the studio did not say whether it is a new DOOM.",
+  "body_en": "<p><strong>id Software</strong>, the studio behind <strong>DOOM</strong>, has confirmed it is already working on its next game. The announcement came alongside Xbox CEO Asha Sharma's reveal that <strong>Wolfenstein 3</strong> is officially in production at MachineGames. Both were posted on X on November 12.</p>\n<h3>What id Software said</h3>\n<ul>\n<li>The project is \"a new game\" from the studio's teams in <strong>Texas</strong> and <strong>Frankfurt</strong>.</li>\n<li>Game direction is by <strong>Hugo Martin</strong>.</li>\n<li>The studio said \"it'll be some time\" before it is ready to share more.</li>\n<li>id did not say what the game is. The Verge's Tom Warren says it is a new DOOM, but that <strong>has not been officially confirmed</strong>.</li>\n</ul>\n<h3>Wolfenstein 3</h3>\n<p>Sharma wrote that Wolfenstein 3 is \"officially in production\" at MachineGames and called the series one of gaming's most important franchises. No platforms or release date were given.</p>",
+  "fontes": [
+   {
+    "url": "https://x.com/idSoftware/status/2120970306227495319",
+    "nome": "id Software (X)"
+   },
+   {
+    "url": "https://x.com/asha_shar/status/2121030203439010175",
+    "nome": "Asha Sharma (X)"
+   },
+   {
+    "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-announces-major-new-bethesda-games-in-the-works-including-wolfenstein-3",
+    "nome": "Pure Xbox"
+   },
+   {
+    "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
+    "nome": "Nintendo Life"
+   },
+   {
+    "url": "https://www.pushsquare.com/news/2026/11/wolfenstein-3-announced-now-in-the-works-at-machinegames",
+    "nome": "Push Square"
+   }
+  ]
+ },
+ {
   "id": "xbox-halo-campaign-evolved-firefight-atualizacao-gratuita",
   "platform": "xbox",
   "category": "Notícias",

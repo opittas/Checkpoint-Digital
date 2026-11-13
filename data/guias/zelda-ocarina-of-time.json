@@ -1,9 +1,170 @@
 {
-  "resumo": "O remake de Ocarina of Time para o Nintendo Switch 2 sai em 5 de novembro de 2026. Como o jogo não tem conquistas oficiais, o Checkpoint vai criar a lista de Conquistas originais depois do lançamento, quando der para conferir o que mudou em relação ao original de Nintendo 64.",
-  "roadmap": [],
-  "avisos": [
-    "Lista em preparação: as metas entram depois do lançamento (5/11/2026).",
-    "Exclusivo do Nintendo Switch 2."
+  "resumo": "O remake de Ocarina of Time para o Nintendo Switch 2 (lançado em 5/11/2026) não tem conquistas oficiais. Estas são as Conquistas originais Checkpoint: história, Pedras e Medalhões, os 36 Pedaços de Coração, as 100 Skulltulas Douradas, músicas, garrafas, Grandes Fadas, feijões, Grandes Poes, máscaras, Espada de Biggoron, minigames e as provas do novo Salão dos Inimigos Caídos.",
+  "roadmap": [
+    {
+      "titulo": "1. Criança",
+      "texto": "Pedras Espirituais, músicas de criança e os coletáveis do mundo jovem."
+    },
+    {
+      "titulo": "2. Adulto",
+      "texto": "Os cinco templos e os Medalhões, com as melhorias de equipamento."
+    },
+    {
+      "titulo": "3. Limpeza",
+      "texto": "Skulltulas, Pedaços de Coração, Grandes Poes, trocas e minigames, alternando as idades com a Espada Mestra."
+    },
+    {
+      "titulo": "4. Salão",
+      "texto": "Provas de chefes no Salão dos Inimigos Caídos; a última só abre depois do final."
+    }
   ],
-  "conquistas": {}
+  "avisos": [
+    "Nada é perdível: depois dos créditos o jogo volta para o save de antes do Ganondorf, e dá para continuar a limpeza.",
+    "Não há Master Quest, Modo Herói nem Novo Jogo+ nesta versão, então a lista não tem metas de dificuldade.",
+    "A Gema do Eco substitui a Pedra da Agonia e vibra perto de Skulltulas Douradas: ajuda muito na caçada.",
+    "Algumas posições de itens mudaram em relação ao Nintendo 64. Use guias feitos para a versão de Switch 2."
+  ],
+  "conquistas": {
+    "historia": {
+      "guia": {
+        "passos": [
+          "Junte as Pedras, pegue a Espada Mestra, desperte os seis Sábios e enfrente Ganondorf no castelo."
+        ]
+      }
+    },
+    "pedras": {
+      "guia": {
+        "onde": [
+          "Esmeralda Kokiri na Árvore Deku, Rubi Goron na Caverna dos Dodongos e Safira Zora na Barriga de Jabu-Jabu."
+        ]
+      }
+    },
+    "medalhoes": {
+      "guia": {
+        "passos": [
+          "O Medalhão da Luz vem do Rauru; os outros cinco saem dos templos da Floresta, do Fogo, da Água, das Sombras e do Espírito."
+        ]
+      }
+    },
+    "coracoes": {
+      "guia": {
+        "resumo": "36 pedaços viram 9 corações; com os 8 Recipientes dos chefes, Link chega a 20 corações.",
+        "dicas": [
+          "Vários vêm de minigames: Boliche de Bombchu, Jogo do Baú, corrida e escavação do Dampé, sapos e pesca."
+        ]
+      }
+    },
+    "skulltulas": {
+      "guia": {
+        "dicas": [
+          "Muitas só aparecem à noite ou ficam atrás de paredes que quebram.",
+          "Leve os símbolos à Casa das Skulltulas em Kakariko para ganhar as recompensas."
+        ]
+      }
+    },
+    "musicas": {
+      "guia": {
+        "resumo": "São 6 músicas comuns e 6 de teletransporte. A música do Espantalho é criada por você e não entra na conta."
+      }
+    },
+    "garrafas": {
+      "guia": {
+        "dicas": [
+          "Esta versão tem 5 garrafas. A última vem do Caçador de Fantasmas, depois de vender Grandes Poes."
+        ]
+      }
+    },
+    "fadas": {
+      "guia": {
+        "resumo": "Cada uma dá uma melhoria: barra de magia, Fogo de Din, Vento de Farore, Amor de Nayru, magia dobrada e defesa dobrada.",
+        "dicas": [
+          "Algumas ficam atrás de paredes que precisam de bomba ou do Martelo."
+        ]
+      }
+    },
+    "feijoes": {
+      "guia": {
+        "passos": [
+          "Compre os feijões do vendedor perto do Rio Zora e plante cada um num canteiro de terra macia como criança.",
+          "Volte como adulto para usar a planta como plataforma."
+        ]
+      }
+    },
+    "poes": {
+      "guia": {
+        "onde": [
+          "Campo de Hyrule, como adulto e a cavalo com a Epona."
+        ],
+        "dicas": [
+          "Guarde cada Grande Poe numa garrafa e venda na guarita da Cidade do Castelo."
+        ]
+      }
+    },
+    "mascaras": {
+      "guia": {
+        "passos": [
+          "Pegue uma máscara emprestada, venda a quem quer e pague a loja antes da próxima: Keaton, Caveira, Assustadora e Coelho.",
+          "A Máscara da Verdade sai depois disso."
+        ]
+      }
+    },
+    "biggoron": {
+      "dificil": true,
+      "guia": {
+        "resumo": "A corrente de trocas de adulto começa com o Ovo de Bolso em Kakariko e termina no topo da Montanha da Morte.",
+        "atencao": [
+          "Algumas entregas têm tempo limite: não pare no caminho."
+        ]
+      }
+    },
+    "equipamentos": {
+      "guia": {
+        "resumo": "Espadas Kokiri, Mestra e Biggoron; escudos Deku, Hylian e Espelhado; túnicas Kokiri, Goron e Zora; Botas de Ferro e Botas Flutuantes."
+      }
+    },
+    "capacidade": {
+      "guia": {
+        "dicas": [
+          "Carteiras vêm das Skulltulas; aljava, bolsa de sementes e bolsa de bombas vêm de galerias de tiro e do Boliche de Bombchu."
+        ]
+      }
+    },
+    "pesca": {
+      "guia": {
+        "onde": [
+          "Lago de Pesca, no Lago Hylia."
+        ],
+        "passos": [
+          "Pegue um peixe grande como criança e outro maior como adulto."
+        ]
+      }
+    },
+    "cavalo": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Forte Gerudo, depois de ganhar a Carteirinha de Membro."
+        ],
+        "dicas": [
+          "Vá devagar no começo para mirar bem nos alvos do meio."
+        ]
+      }
+    },
+    "salao": {
+      "dificil": true,
+      "guia": {
+        "onde": [
+          "Depois do Templo da Floresta, volte a ser criança e durma numa cama que brilha em verde, como a da casa do Link."
+        ],
+        "passos": [
+          "As estátuas de coruja abrem três provas: os chefes das Pedras Espirituais, os dos cinco Sábios e a do Herói do Tempo com todos eles, Ganondorf e Ganon.",
+          "A vida passa de um chefe para o outro em cada prova.",
+          "A prova do Herói do Tempo só abre depois de terminar a história."
+        ],
+        "dicas": [
+          "As recompensas são só cosméticas: cada prova vencida vira um troféu no quarto do Link."
+        ]
+      }
+    }
+  }
 }

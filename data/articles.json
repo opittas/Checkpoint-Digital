@@ -1,5 +1,33 @@
 [
  {
+  "id": "ps-gta6-recorde-audiencia-streaming-lancamento",
+  "platform": "ps",
+  "category": "Notícias",
+  "gen": "ps5",
+  "title": "GTA VI quebra recorde de audiência em streaming no lançamento",
+  "excerpt": "Jogo passou de 7,9 milhões de espectadores simultâneos somando Twitch, YouTube e Kick, mais de quatro vezes o recorde anterior, de Valorant.",
+  "body": "<p><strong>GTA VI</strong> quebrou o recorde de audiência em transmissões ao vivo de um lançamento de jogo minutos depois de ser liberado nas regiões onde já era 19 de novembro. Os números são da Streams Charts, que mede audiência em plataformas de streaming, e ainda são preliminares.</p>\n<h3>Os números</h3>\n<ul>\n<li><strong>Pico total:</strong> cerca de 7,91 milhões de espectadores simultâneos, somando todas as plataformas.</li>\n<li><strong>Twitch:</strong> 3,31 milhões.</li>\n<li><strong>YouTube:</strong> 3,21 milhões.</li>\n<li><strong>Kick:</strong> cerca de 1,5 milhão.</li>\n</ul>\n<p>Segundo a Streams Charts, os picos de cada plataforma podem ter acontecido em horários diferentes.</p>\n<h3>O recorde anterior</h3>\n<p>A marca anterior era do beta fechado de <strong>Valorant</strong>, em 2020, com cerca de 1,74 milhão de espectadores. Na época, assistir às transmissões dava acesso ao beta no PC. Logo atrás no ranking aparecem Hogwarts Legacy (2023), Path of Exile 2 (2024), Lost Ark (2022) e Cyberpunk 2077 (2020), todos na faixa de 1,3 milhão.</p>\n<h3>Outros destaques</h3>\n<ul>\n<li>Na Twitch, GTA VI passou a ser a categoria de jogos com maior pico de audiência, à frente de League of Legends e Fortnite.</li>\n<li>Mais de 200 criadores de conteúdo bateram seus próprios recordes pessoais de audiência transmitindo o jogo.</li>\n</ul>",
+  "author": "Checkpoint Digital",
+  "image_url": "imagens/capas/ps-gta6-recorde-audiencia-streaming-lancamento.jpg",
+  "read_time": "2 min",
+  "published_at": "2026-11-19T10:19:34.726763+00:00",
+  "featured": false,
+  "created_at": "2026-11-19T10:19:34.726763+00:00",
+  "title_en": "GTA VI breaks the streaming viewership record at launch",
+  "excerpt_en": "The game passed 7.9 million concurrent viewers across Twitch, YouTube and Kick, more than four times the previous record held by Valorant.",
+  "body_en": "<p><strong>GTA VI</strong> broke the all-time livestream viewership record for a game launch minutes after unlocking in regions where it was already November 19. The figures come from Streams Charts, which tracks audiences across streaming platforms, and are still preliminary.</p>\n<h3>The numbers</h3>\n<ul>\n<li><strong>Total peak:</strong> about 7.91 million concurrent viewers across all platforms.</li>\n<li><strong>Twitch:</strong> 3.31 million.</li>\n<li><strong>YouTube:</strong> 3.21 million.</li>\n<li><strong>Kick:</strong> about 1.5 million.</li>\n</ul>\n<p>According to Streams Charts, each platform's peak may have happened at a different time.</p>\n<h3>The previous record</h3>\n<p>The previous mark belonged to the <strong>Valorant</strong> closed beta in 2020, with about 1.74 million viewers. At the time, watching streams could earn access to the PC beta. Next on the ranking are Hogwarts Legacy (2023), Path of Exile 2 (2024), Lost Ark (2022) and Cyberpunk 2077 (2020), all around 1.3 million.</p>\n<h3>Other highlights</h3>\n<ul>\n<li>On Twitch, GTA VI became the gaming category with the highest peak viewership, ahead of League of Legends and Fortnite.</li>\n<li>More than 200 content creators set personal all-time viewership records while streaming the game.</li>\n</ul>",
+  "fontes": [
+   {
+    "url": "https://streamscharts.com/news/gta-vi-breaks-streaming-launch-records-within-minutes-its-release",
+    "nome": "Streams Charts"
+   },
+   {
+    "url": "https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released",
+    "nome": "Push Square"
+   }
+  ]
+ },
+ {
   "id": "nin-pokemon-champions-patch-balanceamento-2-dezembro",
   "platform": "nin",
   "category": "Notícias",

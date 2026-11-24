@@ -1,5 +1,33 @@
 [
  {
+  "id": "ps-gta6-primeira-atualizacao-pos-lancamento-sete-correcoes",
+  "platform": "ps",
+  "category": "Notícias",
+  "gen": "ps5",
+  "title": "GTA 6 recebe primeira atualização pós-lançamento com sete correções",
+  "excerpt": "Rockstar lista correções para travamentos, salvamento automático, clima e ligações que travavam missões no PS5 e no Xbox Series X|S.",
+  "body": "<p>A Rockstar Games publicou em seu site de suporte, em 23 de novembro, a lista de correções da primeira atualização de <strong>Grand Theft Auto VI</strong> após o lançamento, que já está disponível no PS5 e no Xbox Series X|S.</p>\n<h3>O que foi corrigido</h3>\n<p>Segundo a página oficial de atualizações do jogo, a Rockstar lista sete correções na categoria geral:</p>\n<ul><li>Correção de vários problemas que faziam o jogo travar e fechar</li><li>Correção de um problema em que o clima ficava sem mudar por longos períodos</li><li>Correção de um problema em que o salvamento automático não funcionava direito</li><li>Correção de vários problemas em que ligações telefônicas não eram disparadas, incluindo as que avançam a história ou liberam conteúdo de missões</li><li>Correção de um problema que impedia o jogador de perder o nível de procurado</li><li>Correção de um problema que impedia o uso da barra de levantamento terra na academia</li><li>Correção de um problema em que os parceiros não entregavam as bolsas para o jogador vender aos receptadores</li></ul>\n<h3>O que não entrou</h3>\n<p>O Pure Xbox destacou que nenhuma das correções listadas trata especificamente do Xbox Series S ou de ajustes de brilho, pontos que vinham sendo comentados pelos jogadores.</p>",
+  "author": "Checkpoint Digital",
+  "image_url": "imagens/capas/ps-gta6-primeira-atualizacao-pos-lancamento-sete-correcoes.jpg",
+  "read_time": "2 min",
+  "published_at": "2026-11-24T10:20:03.676781+00:00",
+  "featured": false,
+  "created_at": "2026-11-24T10:20:03.676781+00:00",
+  "title_en": "GTA 6 gets its first post-launch update with seven fixes",
+  "excerpt_en": "Rockstar lists fixes for crashes, autosave, weather and phone calls that blocked missions on PS5 and Xbox Series X|S.",
+  "body_en": "<p>Rockstar Games published on its support site, on November 23, the list of fixes in the first post-launch update for <strong>Grand Theft Auto VI</strong>, which is now available on PS5 and Xbox Series X|S.</p>\n<h3>What was fixed</h3>\n<p>According to the game's official updates page, Rockstar lists seven general fixes:</p>\n<ul><li>Fixed several issues that caused the game to crash</li><li>Fixed an issue where the weather did not change for extended periods</li><li>Fixed an issue where the game did not autosave correctly</li><li>Fixed several issues where phone calls did not trigger correctly, including calls that progress the story or unlock mission content</li><li>Fixed an issue where players were unable to lose their Wanted Level</li><li>Fixed an issue where the player was unable to use the deadlift bar in the gym</li><li>Fixed an issue where partners did not hand over bags so players could sell them to fences</li></ul>\n<h3>What is not included</h3>\n<p>Pure Xbox pointed out that none of the listed fixes specifically addresses Xbox Series S or brightness settings, topics players had been discussing.</p>",
+  "fontes": [
+   {
+    "url": "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s",
+    "nome": "Rockstar Games Support"
+   },
+   {
+    "url": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
+    "nome": "Pure Xbox"
+   }
+  ]
+ },
+ {
   "id": "ps-gta6-3-79-bilhoes-primeiro-dia-32-milhoes-unidades",
   "platform": "ps",
   "category": "Notícias",

@@ -1,5 +1,33 @@
 [
  {
+  "id": "nin-zelda-ocarina-of-time-versao-1-1-2-malons-friend",
+  "platform": "nin",
+  "category": "Notícias",
+  "gen": "switch2",
+  "title": "Zelda: Ocarina of Time recebe versão 1.1.2 no Switch 2 e corrige bug no evento de Malon",
+  "excerpt": "A segunda atualização do jogo, lançada em 25 de novembro, destrava o evento \"Malon's Friend\" e traz outras correções.",
+  "body": "<p>A Nintendo liberou em 25 de novembro a <strong>versão 1.1.2</strong> de <strong>The Legend of Zelda: Ocarina of Time</strong> no Switch 2. É a segunda atualização do jogo e se concentra em correções de bugs.</p>\n<h3>Correções</h3>\n<ul><li>Corrigido um problema que impedia avançar no evento <strong>\"Malon's Friend\"</strong>. Ao baixar a atualização, é possível continuar o evento mesmo para quem já tinha travado nele.</li><li>Diversos outros problemas foram corrigidos para deixar a jogatina mais estável.</li></ul>\n<h3>Atualização anterior</h3>\n<p>A versão 1.1.1, lançada em 4 de novembro, adicionou suporte ao aplicativo <strong>Zelda Notes</strong> e também trouxe correções.</p>",
+  "author": "Checkpoint Digital",
+  "image_url": "imagens/capas/nin-zelda-ocarina-of-time-versao-1-1-2-malons-friend.png",
+  "read_time": "2 min",
+  "published_at": "2026-11-27T17:21:08.660122+00:00",
+  "featured": false,
+  "created_at": "2026-11-27T17:21:08.660122+00:00",
+  "title_en": "Zelda: Ocarina of Time gets version 1.1.2 on Switch 2, fixing a bug in Malon's event",
+  "excerpt_en": "The game's second update, released on November 25, unblocks the \"Malon's Friend\" event and brings other fixes.",
+  "body_en": "<p>Nintendo released <strong>version 1.1.2</strong> of <strong>The Legend of Zelda: Ocarina of Time</strong> on Switch 2 on November 25. It is the game's second update and focuses on bug fixes.</p>\n<h3>Fixes</h3>\n<ul><li>Fixed an issue where the <strong>\"Malon's Friend\"</strong> event could not be progressed. Downloading the update lets players continue the event even if they had already run into the problem.</li><li>Several other issues were fixed for a smoother gameplay experience.</li></ul>\n<h3>Previous update</h3>\n<p>Version 1.1.1, released on November 4, added support for the <strong>Zelda Notes</strong> app and also fixed several issues.</p>",
+  "fontes": [
+   {
+    "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time",
+    "nome": "Nintendo Support"
+   },
+   {
+    "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes",
+    "nome": "Nintendo Life"
+   }
+  ]
+ },
+ {
   "id": "ps-gta6-japao-famitsu-200-mil-ps5-supera-switch-2",
   "platform": "ps",
   "category": "Notícias",
@@ -212,38 +240,6 @@
   ]
  },
  {
-  "id": "xbox-call-of-duty-modern-warfare-4-mais-vendido-outubro-eua",
-  "platform": "xbox",
-  "category": "Notícias",
-  "gen": "series-x",
-  "title": "Call of Duty: Modern Warfare 4 é o jogo mais vendido de outubro nos EUA",
-  "excerpt": "Segundo a Circana, é o 19º ano seguido em que um Call of Duty lidera seu mês de estreia. Gears of War: E-Day ficou em segundo.",
-  "body": "<p><strong>Call of Duty: Modern Warfare 4</strong> foi o jogo mais vendido de outubro de 2026 nos Estados Unidos, segundo os dados da Circana divulgados pelo analista Mat Piscatella. É o <strong>19º ano seguido</strong> em que um lançamento da série Call of Duty termina como o mais vendido do seu mês de estreia.</p>\n<h3>Top 10 de outubro nos EUA</h3>\n<ul>\n<li>1. Call of Duty: Modern Warfare 4</li>\n<li>2. Gears of War: E-Day</li>\n<li>3. Star Wars: Galactic Racer</li>\n<li>4. EA Sports FC 27</li>\n<li>5. NBA 2K27</li>\n<li>6. Final Fantasy Resonance</li>\n<li>7. Madden NFL 27</li>\n<li>8. Control Resonant</li>\n<li>9. Kingdom Hearts Collection 1-3</li>\n<li>10. Nintendo Switch Sports Resort</li>\n</ul>\n<p>O ranking de outubro inclui estimativas de vendas digitais.</p>\n<h3>Fora do top 10 do ano</h3>\n<p>Apesar da liderança no mês, Modern Warfare 4 ainda não aparece entre os dez mais vendidos de 2026 no acumulado do ano, que é liderado por <strong>NBA 2K27</strong>, seguido de Resident Evil Requiem e 007 First Light. Call of Duty: Black Ops 2 está em sexto lugar nessa lista.</p>\n<p>GTA VI e o remake de Zelda: Ocarina of Time não entram nesse levantamento, que cobre só outubro. Os dois devem aparecer nos dados de novembro.</p>",
-  "author": "Checkpoint Digital",
-  "image_url": "imagens/capas/xbox-call-of-duty-modern-warfare-4-mais-vendido-outubro-eua.jpg",
-  "read_time": "2 min",
-  "published_at": "2026-11-20T10:20:41.874924+00:00",
-  "featured": false,
-  "created_at": "2026-11-20T10:20:41.874924+00:00",
-  "title_en": "Call of Duty: Modern Warfare 4 is October's best-selling game in the US",
-  "excerpt_en": "According to Circana, it is the 19th year in a row that a Call of Duty has topped its launch month. Gears of War: E-Day came second.",
-  "body_en": "<p><strong>Call of Duty: Modern Warfare 4</strong> was the best-selling game of October 2026 in the United States, according to Circana data shared by analyst Mat Piscatella. It is the <strong>19th consecutive year</strong> that a Call of Duty release has been the best-selling game of its debut month.</p>\n<h3>US top 10 for October</h3>\n<ul>\n<li>1. Call of Duty: Modern Warfare 4</li>\n<li>2. Gears of War: E-Day</li>\n<li>3. Star Wars: Galactic Racer</li>\n<li>4. EA Sports FC 27</li>\n<li>5. NBA 2K27</li>\n<li>6. Final Fantasy Resonance</li>\n<li>7. Madden NFL 27</li>\n<li>8. Control Resonant</li>\n<li>9. Kingdom Hearts Collection 1-3</li>\n<li>10. Nintendo Switch Sports Resort</li>\n</ul>\n<p>The October chart includes projected digital sales.</p>\n<h3>Outside the year's top 10</h3>\n<p>Despite topping the month, Modern Warfare 4 does not yet appear among 2026's ten best sellers year to date. That list is led by <strong>NBA 2K27</strong>, followed by Resident Evil Requiem and 007 First Light, with Call of Duty: Black Ops 2 in sixth place.</p>\n<p>GTA VI and the Zelda: Ocarina of Time remake are not part of this report, which covers October only. Both are expected in the November data.</p>",
-  "fontes": [
-   {
-    "url": "https://bsky.app/profile/matpiscatella.bsky.social/post/3n2oaaej4es2i",
-    "nome": "Mat Piscatella / Circana (Bluesky)"
-   },
-   {
-    "url": "https://www.pushsquare.com/news/2026/11/call-of-dutys-influence-is-fading-fast-as-modern-warfare-4-fails-to-make-us-top-10",
-    "nome": "Push Square"
-   },
-   {
-    "url": "https://www.nintendolife.com/news/2026/11/call-of-duty-modern-warfare-4-tops-best-selling-games-in-october-us",
-    "nome": "Nintendo Life"
-   }
-  ]
- },
- {
   "id": "nin-xenoblade-chronicles-3-versao-3-0-0-switch-2-edition",
   "platform": "nin",
   "category": "Notícias",
@@ -276,6 +272,38 @@
    {
     "url": "https://www.gematsu.com/2026/09/xenoblade-chronicles-3-nintendo-switch-2-edition-reveals-heroes-vault-mode-new-hero-shimmer",
     "nome": "Gematsu"
+   }
+  ]
+ },
+ {
+  "id": "xbox-call-of-duty-modern-warfare-4-mais-vendido-outubro-eua",
+  "platform": "xbox",
+  "category": "Notícias",
+  "gen": "series-x",
+  "title": "Call of Duty: Modern Warfare 4 é o jogo mais vendido de outubro nos EUA",
+  "excerpt": "Segundo a Circana, é o 19º ano seguido em que um Call of Duty lidera seu mês de estreia. Gears of War: E-Day ficou em segundo.",
+  "body": "<p><strong>Call of Duty: Modern Warfare 4</strong> foi o jogo mais vendido de outubro de 2026 nos Estados Unidos, segundo os dados da Circana divulgados pelo analista Mat Piscatella. É o <strong>19º ano seguido</strong> em que um lançamento da série Call of Duty termina como o mais vendido do seu mês de estreia.</p>\n<h3>Top 10 de outubro nos EUA</h3>\n<ul>\n<li>1. Call of Duty: Modern Warfare 4</li>\n<li>2. Gears of War: E-Day</li>\n<li>3. Star Wars: Galactic Racer</li>\n<li>4. EA Sports FC 27</li>\n<li>5. NBA 2K27</li>\n<li>6. Final Fantasy Resonance</li>\n<li>7. Madden NFL 27</li>\n<li>8. Control Resonant</li>\n<li>9. Kingdom Hearts Collection 1-3</li>\n<li>10. Nintendo Switch Sports Resort</li>\n</ul>\n<p>O ranking de outubro inclui estimativas de vendas digitais.</p>\n<h3>Fora do top 10 do ano</h3>\n<p>Apesar da liderança no mês, Modern Warfare 4 ainda não aparece entre os dez mais vendidos de 2026 no acumulado do ano, que é liderado por <strong>NBA 2K27</strong>, seguido de Resident Evil Requiem e 007 First Light. Call of Duty: Black Ops 2 está em sexto lugar nessa lista.</p>\n<p>GTA VI e o remake de Zelda: Ocarina of Time não entram nesse levantamento, que cobre só outubro. Os dois devem aparecer nos dados de novembro.</p>",
+  "author": "Checkpoint Digital",
+  "image_url": "imagens/capas/xbox-call-of-duty-modern-warfare-4-mais-vendido-outubro-eua.jpg",
+  "read_time": "2 min",
+  "published_at": "2026-11-20T10:20:41.874924+00:00",
+  "featured": false,
+  "created_at": "2026-11-20T10:20:41.874924+00:00",
+  "title_en": "Call of Duty: Modern Warfare 4 is October's best-selling game in the US",
+  "excerpt_en": "According to Circana, it is the 19th year in a row that a Call of Duty has topped its launch month. Gears of War: E-Day came second.",
+  "body_en": "<p><strong>Call of Duty: Modern Warfare 4</strong> was the best-selling game of October 2026 in the United States, according to Circana data shared by analyst Mat Piscatella. It is the <strong>19th consecutive year</strong> that a Call of Duty release has been the best-selling game of its debut month.</p>\n<h3>US top 10 for October</h3>\n<ul>\n<li>1. Call of Duty: Modern Warfare 4</li>\n<li>2. Gears of War: E-Day</li>\n<li>3. Star Wars: Galactic Racer</li>\n<li>4. EA Sports FC 27</li>\n<li>5. NBA 2K27</li>\n<li>6. Final Fantasy Resonance</li>\n<li>7. Madden NFL 27</li>\n<li>8. Control Resonant</li>\n<li>9. Kingdom Hearts Collection 1-3</li>\n<li>10. Nintendo Switch Sports Resort</li>\n</ul>\n<p>The October chart includes projected digital sales.</p>\n<h3>Outside the year's top 10</h3>\n<p>Despite topping the month, Modern Warfare 4 does not yet appear among 2026's ten best sellers year to date. That list is led by <strong>NBA 2K27</strong>, followed by Resident Evil Requiem and 007 First Light, with Call of Duty: Black Ops 2 in sixth place.</p>\n<p>GTA VI and the Zelda: Ocarina of Time remake are not part of this report, which covers October only. Both are expected in the November data.</p>",
+  "fontes": [
+   {
+    "url": "https://bsky.app/profile/matpiscatella.bsky.social/post/3n2oaaej4es2i",
+    "nome": "Mat Piscatella / Circana (Bluesky)"
+   },
+   {
+    "url": "https://www.pushsquare.com/news/2026/11/call-of-dutys-influence-is-fading-fast-as-modern-warfare-4-fails-to-make-us-top-10",
+    "nome": "Push Square"
+   },
+   {
+    "url": "https://www.nintendolife.com/news/2026/11/call-of-duty-modern-warfare-4-tops-best-selling-games-in-october-us",
+    "nome": "Nintendo Life"
    }
   ]
  },
